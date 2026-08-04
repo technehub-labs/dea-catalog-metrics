@@ -4,7 +4,7 @@
 
 [![Layer: L5](https://img.shields.io/badge/Layer-L5%20—%20Measurement%20&%20Governance-ef4444?style=flat-square)](https://github.com/technehub-labs/dea-metamodel)
 [![Status: Live](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)](./)
-[![License: MIT](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
 
 ## Overview
 
@@ -19,4 +19,4 @@ links here directly.
 
 ## License
 
-Apache 2.0 — see [LICENSE](./LICENSE).).
+Apache 2.0 — see [LICENSE](./LICENSE).
