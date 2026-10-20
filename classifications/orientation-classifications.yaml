@@ -1,0 +1,11 @@
+# Orientation classifications (CR-MET-002 binding axis 3)
+version: 1.0.0
+values:
+- id: leading
+  definition: Provides evidence about potential future conditions (Indicator.kind, CR-MET-002 binding)
+- id: lagging
+  definition: Reports realized historical conditions
+- id: diagnostic
+  definition: Concurrent; surfaces current-state issues
+- id: concurrent
+  definition: Real-time or near-real-time measurement

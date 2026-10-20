@@ -1,0 +1,98 @@
+id: dea:metric-control-effectiveness-rate
+name: Control Effectiveness Rate
+type: Metric
+version: 1.0.0
+lifecycle_status: admitted
+
+subject_concept: dea:subject-control-operation
+measurement_nature: numeric
+subject_classification:
+- governance
+purpose_classification:
+- compliance
+- effectiveness
+orientation_classification: lagging
+scope_classification:
+- enterprise
+- process
+directionality: higher_is_better
+management_significance:
+- operational
+- regulatory
+- external_disclosure
+measurement_nature_detail: >
+  Ratio of effective control operations to total control operations,
+  expressed as a percentage. Demonstrates the KCI designation binding
+  (CR-MET-008 section 5.3: KCI requires associated_objective_ref
+  pointing to a control objective, accountable_owner_ref pointing to
+  control owner, escalation_rules for remediation).
+
+unit_ref: dea:unit-ratio-percent
+precision: 2
+decimal_scale: 1
+rounding_rule: half_up
+null_value_semantics: excluded_from_aggregation
+
+calculation_definition: >
+  Control Effectiveness Rate = Effective / Total * 100. Effective is
+  the count of control operations where the control operated as
+  designed; Total is the count of all control operations evaluated.
+
+formula_definition:
+  formula_id: dea:formula-control-effectiveness-rate
+  expression: CER = Effective / Total * 100
+  inputs:
+  - name: Effective
+    source_ref: dea:metric-control-operations-effective
+    measurement_nature: numeric
+  - name: Total
+    source_ref: dea:metric-control-operations-total
+    measurement_nature: numeric
+  operators:
+  - divide
+  - multiply
+  unit_semantics:
+    input_units:
+    - dea:unit-count
+    output_unit: dea:unit-ratio-percent
+  validation_rules:
+  - result >= 0
+  - result <= 100
+  - Total > 0
+  version: 1.0.0
+
+frequency: monthly
+
+measurable_entity_kind: dea:Control
+reputability_tier: industry_standard
+
+applicability:
+  intended_subjects:
+  - dea:Control
+  - dea:Policy
+  - dea:BusinessProcess
+  excluded_subjects: []
+
+designations:
+- dea:designation-control-effectiveness-kci
+
+related_metrics:
+- metric_ref: dea:metric-risk-exposure-index
+  relationship: complements
+
+quality:
+  validation_rules:
+  - Control operation MUST be tested per the documented control procedure.
+  known_limitations:
+  - Does not capture control design effectiveness (separate metric - Design Adequacy).
+  measurement_evidence:
+  - COSO Internal Control Integrated Framework
+  - SOX 404 control testing standards
+
+metadata:
+  established_by: CR-MET-009
+  established_at: "2026-10-18"
+  change_history:
+  - cr: CR-MET-009
+    date: "2026-10-18"
+    change: Initial catalog admission (5-Metric pilot)

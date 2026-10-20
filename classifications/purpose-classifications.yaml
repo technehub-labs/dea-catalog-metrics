@@ -1,0 +1,24 @@
+# Purpose classifications (CR-MET-002 binding axis 2)
+# The Metric purpose axis; one Metric MAY have multiple purpose classifications.
+version: 1.0.0
+values:
+- id: performance
+  definition: Measures performance against objectives or targets
+- id: health
+  definition: Measures the health of an entity (operational, technical, organizational)
+- id: risk
+  definition: Measures risk exposure, drivers, or conditions
+- id: compliance
+  definition: Measures compliance with regulatory or policy requirements
+- id: adoption
+  definition: Measures adoption of a product, service, or capability
+- id: maturity
+  definition: Measures maturity against a defined model
+- id: satisfaction
+  definition: Measures customer or stakeholder satisfaction
+- id: efficiency
+  definition: Measures resource efficiency (cost per unit, throughput)
+- id: effectiveness
+  definition: Measures outcome effectiveness (output quality, goal achievement)
+- id: value_delivery
+  definition: Measures value delivered to stakeholders

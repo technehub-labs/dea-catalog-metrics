@@ -1,0 +1,30 @@
+# Subject classifications (CR-MET-002 binding axis 1)
+# The Metric subject axis; one Metric MAY have multiple subject classifications.
+version: 1.0.0
+values:
+- id: strategy
+  definition: Strategic-level Metrics (Objective attainment, Strategy execution)
+- id: organization
+  definition: Organization-level Metrics (Enterprise, Business Unit, Organizational Unit performance)
+- id: customer
+  definition: Customer-domain Metrics (Retention, Satisfaction, NPS)
+- id: product_or_service
+  definition: Product or service-level Metrics (Defect rate, Service quality)
+- id: business_architecture
+  definition: Business architecture Metrics (Capability performance, Process efficiency)
+- id: value_architecture
+  definition: Value-stream Metrics (Lead-to-cash cycle time, Value delivery)
+- id: information_architecture
+  definition: Data and information Metrics (Data quality, Information completeness)
+- id: technology_architecture
+  definition: Technology Metrics (System availability, Reliability, Performance)
+- id: governance
+  definition: Governance Metrics (Risk exposure, Control effectiveness, Policy compliance)
+- id: transformation
+  definition: Transformation Metrics (Benefits realization, Adoption)
+- id: sustainability
+  definition: Sustainability Metrics (Energy intensity, Carbon footprint)
+- id: capability
+  definition: Capability-level Metrics (Capability maturity, Capability performance)
+- id: financial
+  definition: Financial Metrics (Operating margin, ROI, EBITDA)

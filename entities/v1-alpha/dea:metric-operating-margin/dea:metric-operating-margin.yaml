@@ -1,0 +1,103 @@
+id: dea:metric-operating-margin
+name: Operating Margin
+type: Metric
+version: 1.0.0
+lifecycle_status: admitted
+
+subject_concept: dea:subject-operating-profit
+measurement_nature: numeric
+subject_classification:
+- financial
+purpose_classification:
+- performance
+- value_delivery
+orientation_classification: lagging
+scope_classification:
+- enterprise
+- business_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+- external_disclosure
+- executive
+measurement_nature_detail: >
+  Ratio of operating income to revenue, expressed as a percentage.
+  Demonstrates the binding WEIGHTED_MEAN aggregation rule for
+  financial ratios (CR-MET-005 section 3.3; the binding pattern for
+  ratio aggregation across segments). Higher values are better.
+
+unit_ref: dea:unit-ratio-percent
+precision: 2
+decimal_scale: 1
+rounding_rule: half_up
+null_value_semantics: excluded_from_aggregation
+
+calculation_definition: >
+  Operating Margin = OperatingIncome / Revenue * 100. When aggregating
+  across segments, use the WEIGHTED_MEAN operator with weight_basis =
+  numerator_denominator; DO NOT average the segment percentages
+  (CR-MET-005 section 3.3 binding: ratios MUST NOT be automatically
+  averaged).
+
+formula_definition:
+  formula_id: dea:formula-operating-margin-ratio
+  expression: OM = OperatingIncome / Revenue * 100
+  inputs:
+  - name: OperatingIncome
+    source_ref: dea:metric-operating-income
+    measurement_nature: numeric
+  - name: Revenue
+    source_ref: dea:metric-revenue
+    measurement_nature: numeric
+  operators:
+  - divide
+  - multiply
+  unit_semantics:
+    input_units:
+    - dea:unit-currency
+    output_unit: dea:unit-ratio-percent
+  validation_rules:
+  - result >= 0
+  - result <= 100
+  - Revenue > 0
+  version: 1.0.0
+
+frequency: quarterly
+
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+
+applicability:
+  intended_subjects:
+  - dea:Outcome
+  - dea:StrategicObjective
+  - dea:BusinessCapability
+  excluded_subjects:
+  - dea:ApplicationComponent
+
+designations:
+- dea:designation-revenue-recognition-lagging
+
+related_metrics:
+- metric_ref: dea:metric-ebit
+  relationship: decomposes_into
+- metric_ref: dea:metric-revenue
+  relationship: decomposes_into
+
+quality:
+  validation_rules:
+  - OperatingIncome MUST exclude non-operating items (interest, taxes, extraordinary items).
+  - Aggregation across segments MUST use WEIGHTED_MEAN with weight_basis=numerator_denominator.
+  known_limitations:
+  - Does not capture EBITDA distinction (separate metric).
+  measurement_evidence:
+  - IFRS 15 revenue recognition
+  - GAAP income statement structure
+
+metadata:
+  established_by: CR-MET-009
+  established_at: "2026-10-18"
+  change_history:
+  - cr: CR-MET-009
+    date: "2026-10-18"
+    change: Initial catalog admission (5-Metric pilot)

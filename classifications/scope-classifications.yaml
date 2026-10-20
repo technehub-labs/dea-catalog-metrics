@@ -1,0 +1,23 @@
+# Scope classifications (CR-MET-002 binding axis 5)
+version: 1.0.0
+values:
+- id: enterprise
+  definition: Enterprise-wide scope
+- id: business_domain
+  definition: Business domain scope
+- id: business_unit
+  definition: Business unit scope
+- id: organizational_unit
+  definition: Organizational unit scope
+- id: value_stream
+  definition: Value stream scope
+- id: capability
+  definition: Capability scope
+- id: process
+  definition: Process scope (dea:BusinessProcess; CR-MET-007 binding)
+- id: product_or_service
+  definition: Product or service scope
+- id: system_or_component
+  definition: System or component scope
+- id: individual_subject
+  definition: Individual subject scope
