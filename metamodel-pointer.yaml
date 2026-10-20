@@ -1,14 +1,17 @@
-# Metamodel Pointer — Performance Metric
+# Metamodel Pointer; Performance Metric
 # Auto-generated from OpenDEAM v0.2.1 (dea-architecture-framework, ADR-0002).
-# Do not edit manually — allocation changes go through the root model
+# Do not edit manually; allocation changes go through the root model
 # (structural: ADR + minor bump; additive: PR + patch bump).
 metamodel:
   version: v0.2.1
-  entity_id: dea:entity-metric
+  entity_id: dea:PerformanceMetric
   class_alias: MTR
   dimension: measurement-dimension
   scope_layers: [L1, L2, L3, L4, L5]
-  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=MTR"
+  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=dea:PerformanceMetric"
+  legacy_ids:
+  - dea:entity-metric
+  - Metric
 
 catalog:
   name: Performance Metric
@@ -16,7 +19,13 @@ catalog:
   status: existing
 
 description: |
-  A measured quantity used to evaluate outcomes against targets. MECE taxonomy: kpi | health | maturity | performance | adoption | compliance | risk. No longer allocated to a layer/building_block as of v0.2.0 — belongs to orthogonal_allocators.measurement-dimension instead (ADR-0002 D1).
+  The canonical catalog for Performance Metric (PM) entities in the OpenDEAM
+  framework. Aligns with dea:PerformanceMetric in dea-metamodel (kind: core;
+  profile: null; CR-MET-001 binding). The catalog publishes reusable Metric
+  definitions; it MUST NOT redefine the normative Metric entity.
+  MECE coverage target: subject x purpose x orientation x scope.
+  Dual-anchor requirement: measurable-entity kind + reputability tier.
+  Pilot composition: 5 Metrics demonstrating cross-domain coverage.
 
 links:
   metamodel_repo: https://github.com/technehub-labs/dea-metamodel

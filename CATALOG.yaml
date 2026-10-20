@@ -1,0 +1,55 @@
+catalog:
+  abbreviation: PM
+  counts:
+    total: 5
+    admitted: 5
+    candidate: 0
+  description: 'Reference catalog for Performance Metric (PM) entities. Authority:
+    CR-MET-009 (catalog-establishment). Aligns with dea:PerformanceMetric in dea-metamodel
+    (CR-MET-001 binding).'
+  entities:
+  - id: dea:metric-control-effectiveness-rate
+    name: Control Effectiveness Rate
+    lifecycle_status: admitted
+    subject_classification:
+    - governance
+    directionality: higher_is_better
+    path: entities/v1-alpha/dea:metric-control-effectiveness-rate/dea:metric-control-effectiveness-rate.yaml
+    last_modified: '2026-10-20'
+  - id: dea:metric-customer-retention-rate
+    name: Customer Retention Rate
+    lifecycle_status: admitted
+    subject_classification:
+    - customer
+    directionality: higher_is_better
+    path: entities/v1-alpha/dea:metric-customer-retention-rate/dea:metric-customer-retention-rate.yaml
+    last_modified: '2026-10-20'
+  - id: dea:metric-data-completeness
+    name: Data Completeness
+    lifecycle_status: admitted
+    subject_classification:
+    - information_architecture
+    directionality: higher_is_better
+    path: entities/v1-alpha/dea:metric-data-completeness/dea:metric-data-completeness.yaml
+    last_modified: '2026-10-20'
+  - id: dea:metric-mean-time-to-recovery
+    name: Mean Time to Recovery
+    lifecycle_status: admitted
+    subject_classification:
+    - technology_architecture
+    directionality: lower_is_better
+    path: entities/v1-alpha/dea:metric-mean-time-to-recovery/dea:metric-mean-time-to-recovery.yaml
+    last_modified: '2026-10-20'
+  - id: dea:metric-operating-margin
+    name: Operating Margin
+    lifecycle_status: admitted
+    subject_classification:
+    - financial
+    directionality: higher_is_better
+    path: entities/v1-alpha/dea:metric-operating-margin/dea:metric-operating-margin.yaml
+    last_modified: '2026-10-20'
+  cross_cutting:
+    change_requests: change-requests/
+    classifications: classifications/
+    schemas: schemas/
+    validators: scripts/

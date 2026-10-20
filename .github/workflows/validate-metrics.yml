@@ -1,0 +1,47 @@
+name: validate-metrics
+
+# CR-MET-009 CI: runs the 6 validation gates on every push and PR.
+# Drift (missing required fields, MECE conflicts, invalid dual anchors)
+# fails CI.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          pip install pyyaml jsonschema pytest
+      - name: Regenerate catalog
+        run: python3 scripts/regenerate_catalog.py
+      - name: Gate 1 - check_metric_schema.py
+        run: python3 scripts/check_metric_schema.py
+      - name: Gate 2 - check_measurement_conformance.py
+        run: python3 scripts/check_measurement_conformance.py
+      - name: Gate 3 - check_mece_coverage.py
+        run: python3 scripts/check_mece_coverage.py
+      - name: Gate 4 - check_evidence_anchors.py
+        run: python3 scripts/check_evidence_anchors.py
+      - name: Gate 5 - check_threshold_semantics.py
+        run: python3 scripts/check_threshold_semantics.py
+      - name: Gate 6 - check_dual_anchor.py
+        run: python3 scripts/check_dual_anchor.py
+      - name: Run pytest
+        run: pytest tests/ -q
+
+  allocation:
+    # The existing reusable validator from dea-architecture-framework.
+    # Pins this catalog's allocation against the OpenDEAM root model.
+    uses: technehub-labs/dea-architecture-framework/.github/workflows/validate-against-model.yml@v0.2.1
+    with:
+      model_ref: v0.2.1
+      pointer_file: metamodel-pointer.yaml

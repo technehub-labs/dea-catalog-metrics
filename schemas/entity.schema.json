@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://technehub-labs.github.io/dea-catalog-metrics/schemas/entity.schema.json",
+  "metamodel_version": "1.0.0",
+  "title": "PerformanceMetric (catalog)",
+  "description": "Schema for Performance Metric entries in technehub-labs/dea-catalog-metrics. Mirrors dea-metamodel/schemas/entities/metric.json (v1.0.0; CR-MET-001/002/005 binding). CR-MET-009 catalog-establishment schema: each Metric carries the binding 6-axis classification (subject, purpose, orientation, nature, scope, management_significance), the binding formula_definition object, the binding unit reference, the binding directionality, the dual-anchor requirement (measurable-entity kind + reputability tier), and the full cross-references to related entities (CR-MET-007 cross-domain applicability, CR-MET-008 designation, CR-MET-006 baseline/target/threshold).",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "type",
+    "version",
+    "lifecycle_status",
+    "subject_concept",
+    "measurement_nature",
+    "subject_classification",
+    "purpose_classification",
+    "orientation_classification",
+    "scope_classification",
+    "directionality",
+    "management_significance",
+    "measurement_nature_detail",
+    "measurable_entity_kind",
+    "reputability_tier"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^dea:metric-[a-z][a-z0-9-]*$",
+      "description": "Catalog-internal entity id; canonical Metric id pattern (dea:metric-<slug>)."
+    },
+    "name": { "type": "string", "minLength": 1, "maxLength": 200 },
+    "type": { "const": "Metric" },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "lifecycle_status": {
+      "type": "string",
+      "enum": ["candidate", "admitted", "active", "deprecated", "retired"],
+      "description": "Catalog-side lifecycle. candidate: pre-admission; admitted: passed dual-anchor gate; active: in current use; deprecated: should not be used in new models; retired: historical record only."
+    },
+    "external_references": {
+      "type": "array",
+      "items": { "type": "object" }
+    },
+    "subject_concept": { "type": "string" },
+    "measurement_nature": {
+      "type": "string",
+      "enum": ["numeric", "nominal", "ordinal", "boolean", "composite"]
+    },
+    "subject_classification": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["strategy", "organization", "customer", "product_or_service", "business_architecture", "value_architecture", "information_architecture", "technology_architecture", "governance", "transformation", "sustainability", "capability", "financial"] },
+      "description": "CR-MET-002 binding; 13 subjects."
+    },
+    "purpose_classification": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["performance", "health", "risk", "compliance", "adoption", "maturity", "satisfaction", "efficiency", "effectiveness", "value_delivery", "quality"] }
+    },
+    "orientation_classification": {
+      "type": "string",
+      "enum": ["leading", "lagging", "diagnostic", "concurrent"]
+    },
+    "scope_classification": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["enterprise", "business_domain", "business_unit", "organizational_unit", "value_stream", "capability", "process", "product_or_service", "system_or_component", "individual_subject"] }
+    },
+    "directionality": {
+      "type": "string",
+      "enum": ["higher_is_better", "lower_is_better", "target_band", "categorical"]
+    },
+    "management_significance": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["operational", "managerial", "strategic", "regulatory", "external_disclosure", "executive"] }
+    },
+    "measurement_nature_detail": {
+      "type": "string",
+      "description": "Human-readable description of measurement_nature (e.g., 'ratio expressed as percentage')."
+    },
+    "unit_ref": {
+      "type": "string",
+      "description": "Reference to a dea:Unit (CR-MET-005 binding)."
+    },
+    "scale_ref": {
+      "type": "string",
+      "description": "Reference to a dea:Scale (CR-MET-005 binding)."
+    },
+    "formula_definition": {
+      "type": "object",
+      "description": "CR-MET-005 binding 8-field object.",
+      "required": ["expression", "inputs", "unit_semantics", "version"],
+      "properties": {
+        "formula_id": { "type": "string" },
+        "expression": { "type": "string" },
+        "inputs": { "type": "array", "items": { "type": "object" } },
+        "operators": { "type": "array", "items": { "type": "string" } },
+        "parameters": { "type": "array", "items": { "type": "object" } },
+        "unit_semantics": { "type": "object" },
+        "validation_rules": { "type": "array", "items": { "type": "string" } },
+        "version": { "type": "string" }
+      }
+    },
+    "calculation_definition": {
+      "type": "string",
+      "description": "Human-readable summary of the calculation (preserved from CR-MET-001)."
+    },
+    "precision": { "type": "integer", "minimum": 1, "maximum": 30 },
+    "decimal_scale": { "type": "integer", "minimum": 0, "maximum": 20 },
+    "rounding_rule": {
+      "type": "string",
+      "enum": ["half_up", "half_even", "half_down", "truncate"]
+    },
+    "null_value_semantics": { "type": "string" },
+    "frequency": {
+      "type": "string",
+      "enum": ["real_time", "hourly", "daily", "weekly", "monthly", "quarterly", "semi_annual", "annual", "event_driven"]
+    },
+    "measurable_entity_kind": {
+      "type": "string",
+      "enum": ["dea:BusinessCapability", "dea:BusinessProcess", "dea:BusinessService", "dea:Outcome", "dea:StrategicObjective", "dea:ValueStream", "dea:OrganizationalUnit", "dea:DataEntity", "dea:Service", "dea:ApplicationComponent", "dea:AssessmentDimension", "dea:Control", "dea:Policy", "dea:Risk", "dea:MaturityModel", "dea:AIMLModel"],
+      "description": "CR-MET-009 Q14 dual-anchor: anchor 1 -- measurable-entity kind from the 16 CR-MET-007 cross-domain types."
+    },
+    "reputability_tier": {
+      "type": "string",
+      "enum": ["industry_standard", "framework_derived", "sectoral_standard", "internal_custom", "emerging"],
+      "description": "CR-MET-009 Q13 dual-anchor: anchor 2 -- reputability tier (5-value enum)."
+    },
+    "applicability": {
+      "type": "object",
+      "description": "CR-MET-007 cross-domain applicability declaration.",
+      "properties": {
+        "intended_subjects": { "type": "array", "items": { "type": "string" } },
+        "excluded_subjects": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "designations": {
+      "type": "array",
+      "description": "CR-MET-008 designation references. Each entry references an IndicatorDesignation by id.",
+      "items": { "type": "string" }
+    },
+    "related_metrics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "metric_ref": { "type": "string" },
+          "relationship": {
+            "type": "string",
+            "enum": ["leads_to", "lags", "decomposes_into", "aggregates", "normalizes", "complements"]
+          }
+        }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "properties": {
+        "validation_rules": { "type": "array", "items": { "type": "string" } },
+        "known_limitations": { "type": "array", "items": { "type": "string" } },
+        "measurement_evidence": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["established_by", "established_at"],
+      "properties": {
+        "established_by": { "type": "string", "description": "CR reference (CR-MM-04 R1 binding)." },
+        "established_at": { "type": "string", "format": "date" },
+        "change_history": {
+          "type": "array",
+          "items": { "type": "object" }
+        }
+      }
+    }
+  }
+}

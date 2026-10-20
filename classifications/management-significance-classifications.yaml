@@ -1,0 +1,15 @@
+# Management significance classifications (CR-MET-002 binding axis 6)
+version: 1.0.0
+values:
+- id: operational
+  definition: Operational monitoring (daily / weekly review)
+- id: managerial
+  definition: Managerial oversight (weekly / monthly review)
+- id: strategic
+  definition: Strategic significance (quarterly / annual review)
+- id: regulatory
+  definition: Regulatory significance (mandated reporting)
+- id: external_disclosure
+  definition: External disclosure (investor relations, public reporting)
+- id: executive
+  definition: Executive oversight (board / C-suite)

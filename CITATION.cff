@@ -1,0 +1,13 @@
+name: dea-catalog-metrics
+full_name: Performance Metrics Catalog
+version: 0.1.0
+date-released: 2026-10-18
+repository-code: https://github.com/technehub-labs/dea-catalog-metrics
+message: >
+  OpenDEAM Performance Metrics Catalog (CR-MET-009; 5-Metric pilot).
+authors:
+- family-names: Otchere
+  given-names: Emmanuel A.
+  affiliation: technehub-labs
+  orcid: 0000-0000-0000-0000
+license: Apache-2.0
