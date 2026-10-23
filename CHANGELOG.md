@@ -59,4 +59,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Migration notes
 - Existing contributors referencing `dea:entity-metric` should update to
   `dea:PerformanceMetric`. The `legacy_ids` array on the metamodel-pointer
-  preserves backward compatibility for the allocation validator.
+  preserves historical references for tooling that resolves aliases.
+- The `legacy_ids` array does NOT make the allocation validator tolerant of
+  the old id. `validate_consumer.py` matches `entity_id` exactly and consults
+  no alias map, so a pointer declaring `dea:PerformanceMetric` fails against
+  every published OpenDEAM model tag, all of which carry `dea:entity-metric`.
+  An earlier revision of this file claimed the opposite. Resolving that
+  divergence is upstream work in `dea-architecture-framework`.

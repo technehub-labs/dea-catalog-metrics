@@ -15,6 +15,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # The normative schema lives in dea-metamodel. Checkout it so
+      # test_schema_supersets_dea_metamodel_metric_json actually compares
+      # against the upstream required set rather than skipping.
+      - name: Check out dea-metamodel (read-only; normative schema)
+        uses: actions/checkout@v4
+        with:
+          repository: technehub-labs/dea-metamodel
+          ref: main
+          path: .metamodel
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -35,8 +44,12 @@ jobs:
         run: python3 scripts/check_threshold_semantics.py
       - name: Gate 6 - check_dual_anchor.py
         run: python3 scripts/check_dual_anchor.py
+      - name: Gate 7 - check_formula_namespace.py
+        run: python3 scripts/check_formula_namespace.py
       - name: Run pytest
         run: pytest tests/ -q
+        env:
+          DEA_METAMODEL_ROOT: ${{ github.workspace }}/.metamodel
 
   allocation:
     # The existing reusable validator from dea-architecture-framework.
