@@ -64,18 +64,59 @@ def test_dual_anchor_required_for_admitted():
             f"{m['id']} must declare reputability_tier (CR-MET-009 §9 dual anchor 2)"
 
 
-def test_schema_mirrors_dea_metamodel_metric_json():
-    """CR-MET-009 §4: schemas/entity.schema.json MUST mirror dea-metamodel/schemas/entities/metric.json core fields."""
+def _norm_metamodel_required():
+    """Read the normative schema's required fields from the upstream checkout.
+
+    Returns None when the upstream repo is not available (CI fetches only the
+    allocation validator, not a metamodel checkout), so the caller can skip the
+    upstream assertion rather than fail on an environment that never had it.
+    """
     import json
-    schema = json.loads((BASE / "schemas" / "entity.schema.json").read_text())
-    required = schema.get("required", [])
+    import os
+    candidates = [
+        os.environ.get("DEA_METAMODEL_ROOT"),
+        BASE.parent / "dea-metamodel",
+        BASE / ".metamodel",
+    ]
+    for root in candidates:
+        if not root:
+            continue
+        p = Path(root) / "schemas" / "entities" / "metric.json"
+        if p.exists():
+            return set(json.loads(p.read_text()).get("required", []))
+    return None
+
+
+def test_schema_supersets_dea_metamodel_metric_json():
+    """CR-MET-009 Section 4: schemas/entity.schema.json is a SUPERSET of the
+    normative dea-metamodel/schemas/entities/metric.json.
+
+    The catalog adds the classification axes and the dual anchors that the
+    normative entity does not carry, so the catalog's required set must CONTAIN
+    the upstream one. Containment, not equality, is the correct relationship; an
+    earlier revision of this test checked a hardcoded field list and never
+    opened the upstream file, so an upstream schema change could not fail it.
+    """
+    import json
+    catalog = json.loads((BASE / "schemas" / "entity.schema.json").read_text())
+    required = set(catalog.get("required", []))
     for field in ["id", "name", "type", "version", "lifecycle_status",
                   "subject_concept", "measurement_nature",
                   "subject_classification", "purpose_classification",
                   "orientation_classification", "scope_classification",
                   "directionality", "management_significance"]:
         assert field in required, \
-            f"entity.schema.json required fields must include {field!r} (got {required})"
+            f"entity.schema.json required fields must include {field!r} (got {sorted(required)})"
+
+    upstream = _norm_metamodel_required()
+    if upstream is None:
+        pytest.skip("dea-metamodel checkout not available; upstream superset check skipped")
+    missing = sorted(upstream - required)
+    assert not missing, (
+        "schemas/entity.schema.json no longer covers the normative fields "
+        f"{missing}; dea-metamodel/schemas/entities/metric.json now requires "
+        "them. Re-sync the catalog schema."
+    )
 
 
 def test_5_classification_axes_present():
