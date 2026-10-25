@@ -136,14 +136,17 @@ Interpretation contexts (CR-MET-006) are **not yet published**.
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Each Metric record requires:
 
 1. `entities/v1-alpha/dea:metric-<slug>/dea:metric-<slug>`, a
-   schema-compliant YAML definition.
+   schema-compliant YAML definition. Since CR-MET-014 that includes a required
+   `description`: the canonical human-readable definition of the record, which
+   must match the record README's Definition section verbatim (a conformance
+   test compares them).
 2. A record `README.md` following the structure in
    [CONTRIBUTING.md](./CONTRIBUTING.md).
 3. Both dual anchors (measurable-entity kind and reputability tier).
 4. At least one `quality.measurement_evidence` reference.
 5. A `metadata.established_by` CR reference.
 
-Two constraints are easy to miss and are enforced in CI, not by review:
+Three constraints are easy to miss and are enforced in CI, not by review:
 
 - **MECE uniqueness.** The 5-axis signature must not collide with an existing
   record. Copying an existing record and renaming it fails
@@ -152,6 +155,10 @@ Two constraints are easy to miss and are enforced in CI, not by review:
   count is 5 ("CR-MET-009: pilot must have 5 metrics"). Adding a record makes
   that test red until the same PR updates the count. This is a pilot-era
   assertion and is tracked for removal.
+- **Registry freshness.** `CATALOG.yaml` is generated. Edit a record, then run
+  `python3 scripts/regenerate_catalog.py` and commit the result in the same
+  change. Since CR-MET-014 the generator is idempotent, so CI fails a PR whose
+  registry does not match the records.
 
 ## License
 

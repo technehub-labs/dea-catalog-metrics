@@ -1,9 +1,11 @@
 id: dea:metric-data-completeness
 name: Data Completeness
 type: Metric
-version: 1.0.0
+description: The ratio of populated records to expected records for a defined data entity, expressed as
+  a percentage. Expected is the total population of records required by the data entity definition; Populated
+  is the count of records with non-null required attributes. Higher values indicate greater data completeness.
+version: 1.0.1
 lifecycle_status: admitted
-
 subject_concept: dea:subject-data-record
 measurement_nature: numeric
 subject_classification:
@@ -19,22 +21,20 @@ directionality: higher_is_better
 management_significance:
 - operational
 - regulatory
-measurement_nature_detail: >
-  Ratio of populated records to expected records, expressed as a
-  percentage. Demonstrates the binding cross-domain applicability to
-  DataEntity (CR-MET-007 section 4 binding extension).
+measurement_nature_detail: 'Ratio of populated records to expected records, expressed as a percentage.
+  Demonstrates the binding cross-domain applicability to DataEntity (CR-MET-007 section 4 binding extension).
 
+  '
 unit_ref: dea:unit-ratio-percent
 precision: 2
 decimal_scale: 1
 rounding_rule: half_up
 null_value_semantics: excluded_from_aggregation
+calculation_definition: 'Data Completeness = Populated / Expected * 100. Expected is the total population
+  of records required by the data entity definition; Populated is the count of records with non-null required
+  attributes.
 
-calculation_definition: >
-  Data Completeness = Populated / Expected * 100. Expected is the
-  total population of records required by the data entity definition;
-  Populated is the count of records with non-null required attributes.
-
+  '
 formula_definition:
   formula_id: dea:formula-data-completeness-ratio
   expression: DC = Populated / Expected * 100
@@ -57,25 +57,19 @@ formula_definition:
   - result <= 100
   - Expected > 0
   version: 1.0.0
-
 frequency: daily
-
 measurable_entity_kind: dea:DataEntity
 reputability_tier: framework_derived
-
 applicability:
   intended_subjects:
   - dea:DataEntity
   - dea:BusinessCapability
   excluded_subjects:
   - dea:ApplicationComponent
-
 designations: []
-
 related_metrics:
 - metric_ref: dea:metric-data-accuracy
   relationship: complements
-
 quality:
   validation_rules:
   - Required attributes MUST be explicitly enumerated (not inferred from null counts).
@@ -84,11 +78,13 @@ quality:
   measurement_evidence:
   - DAMA Data Management Body of Knowledge (DMBOK2)
   - ISO 8000 data quality standard
-
 metadata:
   established_by: CR-MET-009
-  established_at: "2026-10-18"
+  established_at: '2026-10-18'
   change_history:
   - cr: CR-MET-009
-    date: "2026-10-18"
+    date: '2026-10-18'
     change: Initial catalog admission (5-Metric pilot)
+  - cr: CR-MET-014
+    date: '2026-10-25'
+    change: Added required description field

@@ -9,6 +9,7 @@
     "id",
     "name",
     "type",
+    "description",
     "version",
     "lifecycle_status",
     "subject_concept",
@@ -31,6 +32,12 @@
     },
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
     "type": { "const": "Metric" },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2000,
+      "description": "Canonical human-readable definition of this Metric record (CR-MET-014). Mirrors dea-metamodel/schemas/entities/metric.json description. Must match the record README 'Definition' section verbatim (whitespace-normalised); enforced by tests/test_conformance.py."
+    },
     "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
     "lifecycle_status": {
       "type": "string",

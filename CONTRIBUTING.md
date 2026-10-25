@@ -14,10 +14,16 @@ composition are in [docs/FOUNDATIONS.md](./docs/FOUNDATIONS.md).
 
 1. Create `entities/v1-alpha/dea:metric-<slug>/`.
 2. Add `dea:metric-<slug>.yaml` satisfying
-   [schemas/entity.schema.json](./schemas/entity.schema.json).
-3. Add a record `README.md` following the structure below.
+   [schemas/entity.schema.json](./schemas/entity.schema.json). Since CR-MET-014
+   this includes a required `description` field: the canonical human-readable
+   definition of the record, mirroring the normative `metric.json` field of the
+   same name.
+3. Add a record `README.md` following the structure below. Its `Definition`
+   section must match the YAML `description` verbatim; a conformance test
+   compares them and fails if they diverge.
 4. Regenerate the registry: `python3 scripts/regenerate_catalog.py`, and commit
-   the resulting `CATALOG.yaml`.
+   the resulting `CATALOG.yaml` in the same PR. Since CR-MET-014 the generator
+   is idempotent and CI fails a PR whose registry is stale.
 5. Open a PR. CI runs the gates.
 
 Steps 4 and 5 are easy to miss, and step 5 alone will not fail CI in the way
@@ -68,7 +74,7 @@ existing records should converge on:
 | Section | Purpose |
 |---|---|
 | Identity | record id, name, version, lifecycle status |
-| Definition | the measurable property, in prose |
+| Definition | the canonical prose definition; must match the YAML `description` verbatim (CR-MET-014) |
 | Formula | expression, inputs, output unit |
 | Directionality | how the value is read |
 | Classification | the 5 axes, with values |
