@@ -50,6 +50,13 @@ jobs:
         run: |
           python3 scripts/reconcile_domain_sector.py
           git diff --exit-code -- classifications/domain-reconciliation.yaml classifications/sector-reconciliation.yaml
+      - name: Verify the admission readiness assessment matches the corpus
+        # CR-MET-019: the readiness working set is generated from the corpus
+        # and from the gates' own constant sets, so it cannot drift from
+        # either.
+        run: |
+          python3 scripts/admission_readiness.py --write
+          git diff --exit-code -- classifications/admission-readiness.yaml
       - name: Gate 1 - check_metric_schema.py
         run: python3 scripts/check_metric_schema.py
       - name: Gate 2 - check_measurement_conformance.py
