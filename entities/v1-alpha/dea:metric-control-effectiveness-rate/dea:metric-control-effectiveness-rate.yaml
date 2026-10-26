@@ -4,7 +4,9 @@ type: Metric
 description: The ratio of effective control operations to total control operations, expressed as a percentage.
   Effective is the count of control operations where the control operated as designed; Total is the count
   of all control operations evaluated. Higher values indicate greater control effectiveness.
-version: 1.0.1
+abbreviation: CER
+unit: percent
+version: 1.2.0
 lifecycle_status: admitted
 subject_concept: dea:subject-control-operation
 measurement_nature: numeric
@@ -92,3 +94,8 @@ metadata:
   - cr: CR-MET-014
     date: '2026-10-25'
     change: Added required description field
+  - cr: CR-MET-015
+    date: '2026-10-25'
+    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector left
+      unset pending a controlled vocabulary (Q16)
+source_credit: COSO Internal Control Integrated Framework

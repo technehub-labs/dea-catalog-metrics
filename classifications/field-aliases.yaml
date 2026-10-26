@@ -1,0 +1,46 @@
+# CR-MET-015: field alias registry.
+#
+# Maps an external Metric field vocabulary onto the catalog's canonical field
+# names, for use when ingesting Metric contributions authored elsewhere.
+#
+# The catalog does NOT rename its own fields. These are synonyms used on the
+# way IN; a canonicalised record is what gets stored and validated.
+#
+# scripts/normalize_record.py rewrites the alias to the canonical name before
+# validation. scripts/check_field_alignment.py (Gate 8) enforces that the
+# registry stays valid and that no stored record uses an alias name.
+#
+# Format: aliases.<external name>.canonical = <catalog field name>
+version: 1.0.0
+authority: CR-MET-015
+aliases:
+  metric id:
+    canonical: id
+    note: External spelling of the record identifier.
+  formula:
+    canonical: formula_definition
+    note: External spelling of the formula object.
+  unit id:
+    canonical: unit_ref
+    note: External spelling of the unit reference.
+  subject_area:
+    canonical: subject_classification
+    note: >
+      External spelling of the subject axis. The catalog keeps
+      subject_classification: the name says which axis a value belongs to,
+      where the external vocabulary says only "area". Synonym, not a rename.
+  scope:
+    canonical: scope_classification
+    note: External spelling of the scope axis.
+  purpose:
+    canonical: purpose_classification
+    note: External spelling of the purpose axis.
+  orientation:
+    canonical: orientation_classification
+    note: External spelling of the orientation axis.
+  significance:
+    canonical: management_significance
+    note: External spelling of the management significance axis.
+  status:
+    canonical: lifecycle_status
+    note: External spelling of the record lifecycle.

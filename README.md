@@ -76,18 +76,21 @@ the same axis signature. The `check_mece_coverage` gate is the arbiter.
 
 ## Status (CR-MET-009, 2026-10-20)
 
-- **5 Metric records admitted**, all at version 1.0.0: Customer Retention Rate,
+- **5 Metric records admitted**, all at version 1.2.0: Customer Retention Rate,
   Mean Time to Recovery, Operating Margin, Data Completeness, Control
   Effectiveness Rate. These are the pilot cohort; they are not a complete set.
-- **7 validation gates run in CI**: schema, measurement-conformance, MECE
-  coverage, evidence anchors, threshold semantics, dual-anchor, and pytest.
-  A 7th gate script, `check_formula_namespace` (formula short-form namespace),
-  exists and is proven to catch a reserved-form violation that no wired gate
-  sees, but it is **not yet wired into CI**. See
-  [CONTRIBUTING.md](./CONTRIBUTING.md) and the project board.
+- **8 validation gates run in CI**: schema, measurement-conformance, MECE
+  coverage, evidence anchors, threshold semantics, dual-anchor, formula
+  namespace, and field alignment, plus a pytest run. See
+  [CONTRIBUTING.md](./CONTRIBUTING.md) for the gate table.
 - **5 classification axes** plus directionality (CR-MET-002 binding).
 - **Dual-anchor model**: measurable-entity kind (16 CR-MET-007 types) plus
   reputability tier (5-value enum). Both are required for an `admitted` record.
+- **Field dimensions** (CR-MET-015): `abbreviation` (the short form, equal to
+  the formula's left-hand variable), `unit` (the plain unit label), plus the
+  optional `domain`, `sector`, and `source_credit`. A field-alias registry
+  maps an external vocabulary onto the catalog's canonical names, for
+  ingesting Metric contributions.
 
 See [docs/FOUNDATIONS.md](./docs/FOUNDATIONS.md) for the canonical scope,
 classification model, dual-anchor model, MECE coverage target, and pilot
@@ -110,7 +113,7 @@ dea-catalog-metrics/
 |-- entities/v1-alpha/               # Metric records (admitted + candidate)
 |
 |-- schemas/entity.schema.json       # SUPERSET of dea-metamodel metric.json
-|-- classifications/                 # 5-axis classification vocabularies
+|-- classifications/                 # 5-axis vocabularies + field-alias registry
 |
 |-- scripts/                         # gate scripts + catalog regenerator
 |-- tests/                           # gate tests
@@ -143,8 +146,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Each Metric record requires:
 2. A record `README.md` following the structure in
    [CONTRIBUTING.md](./CONTRIBUTING.md).
 3. Both dual anchors (measurable-entity kind and reputability tier).
-4. At least one `quality.measurement_evidence` reference.
-5. A `metadata.established_by` CR reference.
+4. An `abbreviation` equal to the formula's short form, and a `unit` coherent
+   with `unit_ref` (CR-MET-015).
+5. At least one `quality.measurement_evidence` reference.
+6. A `metadata.established_by` CR reference.
 
 Three constraints are easy to miss and are enforced in CI, not by review:
 

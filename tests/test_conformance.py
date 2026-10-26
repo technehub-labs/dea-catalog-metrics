@@ -183,3 +183,124 @@ def test_catalog_regeneration_is_idempotent():
         assert result.returncode == 0, f"regenerate_catalog.py failed: {result.stderr}"
     after = (BASE / "CATALOG.yaml").read_bytes()
     assert after == before, "CATALOG.yaml changed across regeneration runs (not idempotent)"
+
+
+def _alias_map():
+    import yaml
+    data = yaml.safe_load((BASE / "classifications" / "field-aliases.yaml").read_text())
+    return {a: (s or {}).get("canonical") for a, s in (data.get("aliases") or {}).items()}
+
+
+def test_alias_registry_resolves_to_schema_properties():
+    """CR-MET-015 D8.1/D8.2: every alias resolves to a declared schema property
+    and no alias collides with a canonical property name."""
+    import json
+    declared = set(json.loads((BASE / "schemas" / "entity.schema.json").read_text())["properties"])
+    for alias, canonical in _alias_map().items():
+        assert canonical, f"alias {alias!r} has no canonical target"
+        assert canonical in declared, f"alias {alias!r} points at {canonical!r}, not declared by the schema"
+        assert alias not in declared, f"alias {alias!r} is also a canonical schema property"
+
+
+def test_stored_records_use_canonical_names_only():
+    """CR-MET-015 D8.3/D8.4: no stored record uses an alias name, and none
+    carries both spellings of one field."""
+    import yaml
+    aliases = _alias_map()
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        m = yaml.safe_load(p.read_text())
+        for alias, canonical in aliases.items():
+            assert alias not in m, f"{m['id']}: stored record uses alias {alias!r} instead of {canonical!r}"
+            assert not (alias in m and canonical in m), f"{m['id']}: carries both {alias!r} and {canonical!r}"
+
+
+def test_abbreviation_matches_formula_short_form():
+    """CR-MET-015 D2: abbreviation equals the left-hand variable of the formula."""
+    import yaml
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        m = yaml.safe_load(p.read_text())
+        if m.get("lifecycle_status") != "admitted":
+            continue
+        expression = ((m.get("formula_definition") or {}).get("expression") or "")
+        short = expression.split("=")[0].strip()
+        assert m.get("abbreviation"), f"{m['id']}: missing abbreviation"
+        assert m["abbreviation"] == short, (
+            f"{m['id']}: abbreviation {m['abbreviation']!r} does not equal the "
+            f"formula short form {short!r}"
+        )
+
+
+def test_unit_is_coherent_with_unit_ref():
+    """CR-MET-015 D3: unit_ref is dea:unit-<unit> or dea:unit-ratio-<unit>."""
+    import yaml
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        m = yaml.safe_load(p.read_text())
+        if m.get("lifecycle_status") != "admitted":
+            continue
+        unit_ref, unit = m.get("unit_ref"), m.get("unit")
+        if not unit_ref:
+            continue
+        assert unit, f"{m['id']}: missing unit"
+        assert unit_ref in {f"dea:unit-{unit}", f"dea:unit-ratio-{unit}"}, (
+            f"{m['id']}: unit {unit!r} is not coherent with unit_ref {unit_ref!r}"
+        )
+
+
+def test_source_credit_is_among_measurement_evidence():
+    """CR-MET-015 D5: a credit that is not evidence is rejected."""
+    import yaml
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        m = yaml.safe_load(p.read_text())
+        credit = m.get("source_credit")
+        if not credit:
+            continue
+        evidence = (m.get("quality") or {}).get("measurement_evidence") or []
+        assert credit in evidence, (
+            f"{m['id']}: source_credit {credit!r} is not among the measurement evidence"
+        )
+
+
+def test_normalizer_canonicalises_aliases_and_is_idempotent():
+    """CR-MET-015 D7: the ingestion normaliser rewrites alias names, refuses a
+    record carrying both spellings with different values, and is idempotent."""
+    import sys
+    import yaml
+    sys.path.insert(0, str(SCRIPTS))
+    from normalize_record import canonicalize  # type: ignore
+
+    aliases = _alias_map()
+    external = {
+        "id": "dea:metric-example",
+        "metric id": "dea:metric-example",
+        "name": "Example",
+        "description": "An example.",
+        "abbreviation": "EX",
+        "unit": "percent",
+        "subject_area": ["technology_architecture"],
+        "status": "candidate",
+    }
+    canonical, changes, conflicts = canonicalize(external, aliases)
+    assert not conflicts, f"unexpected conflicts: {conflicts}"
+    assert canonical["id"] == "dea:metric-example"
+    assert "metric id" not in canonical
+    assert canonical["subject_classification"] == ["technology_architecture"]
+    assert canonical["lifecycle_status"] == "candidate"
+    assert changes, "normaliser reported no changes for an alias-spelled record"
+
+    # idempotent: canonicalising a canonical record changes nothing
+    again, changes2, conflicts2 = canonicalize(canonical, aliases)
+    assert again == canonical
+    assert not changes2
+    assert not conflicts2
+
+    # a record carrying both spellings with different values is a conflict
+    both = {"subject_area": ["a"], "subject_classification": ["b"]}
+    _, _, conflicts3 = canonicalize(both, aliases)
+    assert conflicts3, "normaliser accepted both spellings with different values"
+
+    # a record carrying both spellings with equal values is accepted
+    same = {"subject_area": ["a"], "subject_classification": ["a"]}
+    out, _, conflicts4 = canonicalize(same, aliases)
+    assert not conflicts4
+    assert out["subject_classification"] == ["a"]
+    assert "subject_area" not in out

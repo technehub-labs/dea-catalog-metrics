@@ -14,6 +14,8 @@ catalog:
       expressed as a percentage. Effective is the count of control operations where
       the control operated as designed; Total is the count of all control operations
       evaluated. Higher values indicate greater control effectiveness.
+    abbreviation: CER
+    unit: percent
     lifecycle_status: admitted
     subject_classification:
     - governance
@@ -26,6 +28,8 @@ catalog:
       customers at the end of the reporting period, excluding new acquisitions during
       the period. Higher values indicate greater loyalty of the existing customer
       base.
+    abbreviation: CRR
+    unit: percent
     lifecycle_status: admitted
     subject_classification:
     - customer
@@ -38,6 +42,8 @@ catalog:
       data entity, expressed as a percentage. Expected is the total population of
       records required by the data entity definition; Populated is the count of records
       with non-null required attributes. Higher values indicate greater data completeness.
+    abbreviation: DC
+    unit: percent
     lifecycle_status: admitted
     subject_classification:
     - information_architecture
@@ -49,6 +55,8 @@ catalog:
     description: The arithmetic mean of recovery times across n incidents, expressed
       in minutes. Recovery time is measured from incident-detection to service-restoration.
       Lower values indicate faster recovery.
+    abbreviation: MTTR
+    unit: minute
     lifecycle_status: admitted
     subject_classification:
     - technology_architecture
@@ -60,6 +68,8 @@ catalog:
     description: The ratio of operating income to revenue, expressed as a percentage.
       Operating income excludes non-operating items (interest, taxes, extraordinary
       items). Higher values indicate greater operational efficiency.
+    abbreviation: OM
+    unit: percent
     lifecycle_status: admitted
     subject_classification:
     - financial

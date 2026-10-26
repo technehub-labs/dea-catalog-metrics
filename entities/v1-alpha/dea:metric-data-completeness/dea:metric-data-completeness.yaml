@@ -4,7 +4,9 @@ type: Metric
 description: The ratio of populated records to expected records for a defined data entity, expressed as
   a percentage. Expected is the total population of records required by the data entity definition; Populated
   is the count of records with non-null required attributes. Higher values indicate greater data completeness.
-version: 1.0.1
+abbreviation: DC
+unit: percent
+version: 1.2.0
 lifecycle_status: admitted
 subject_concept: dea:subject-data-record
 measurement_nature: numeric
@@ -88,3 +90,8 @@ metadata:
   - cr: CR-MET-014
     date: '2026-10-25'
     change: Added required description field
+  - cr: CR-MET-015
+    date: '2026-10-25'
+    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector left
+      unset pending a controlled vocabulary (Q16)
+source_credit: DAMA Data Management Body of Knowledge (DMBOK2)

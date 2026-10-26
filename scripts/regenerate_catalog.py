@@ -40,6 +40,8 @@ def main():
                 "id": m["id"],
                 "name": m["name"],
                 "description": m.get("description"),
+                "abbreviation": m.get("abbreviation"),
+                "unit": m.get("unit"),
                 "lifecycle_status": m.get("lifecycle_status"),
                 "subject_classification": m.get("subject_classification"),
                 "directionality": m.get("directionality"),
