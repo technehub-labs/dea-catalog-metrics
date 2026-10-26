@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Conversation Completion Ra
 - **Canonical id:** `dea:metric-performance-conversation-completion-rate-deep-dive`
 - **Name:** Performance Conversation Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCCR-D
 
@@ -23,7 +23,7 @@ Required Conversations Held per Cycle / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

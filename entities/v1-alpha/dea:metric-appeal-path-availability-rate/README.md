@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appeal Path Availability Rate** (APAR-
 - **Canonical id:** `dea:metric-appeal-path-availability-rate`
 - **Name:** Appeal Path Availability Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APAR-AI
 
@@ -27,7 +27,7 @@ AI-Impacted Decisions with Appeal Mechanism / Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

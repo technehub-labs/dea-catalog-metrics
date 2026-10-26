@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Air Safety Report Rate** (ASRR) in the
 - **Canonical id:** `dea:metric-air-safety-report-rate`
 - **Name:** Air Safety Report Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASRR
 
@@ -27,8 +27,8 @@ Safety Reports per 1,000 Flights
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

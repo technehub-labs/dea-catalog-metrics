@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Rate (Plastics)** (SRP) in the O
 - **Canonical id:** `dea:metric-scrap-rate-plastics`
 - **Name:** Scrap Rate (Plastics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRP
 
@@ -23,7 +23,7 @@ Scrap Material / Total Material
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

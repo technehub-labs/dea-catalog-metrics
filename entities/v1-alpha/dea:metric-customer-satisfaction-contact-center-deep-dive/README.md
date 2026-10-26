@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction (Contact Center)
 - **Canonical id:** `dea:metric-customer-satisfaction-contact-center-deep-dive`
 - **Name:** Customer Satisfaction (Contact Center) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSATDD
 

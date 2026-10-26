@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Escape Rate (Deep Dive)** (DER-
 - **Canonical id:** `dea:metric-defect-escape-rate-deep-dive`
 - **Name:** Defect Escape Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DER-QA
 
@@ -27,7 +27,7 @@ Defects Found in Production / Total Defects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

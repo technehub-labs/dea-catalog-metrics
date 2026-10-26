@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Tax Contention Count** (OTCC) in 
 - **Canonical id:** `dea:metric-open-tax-contention-count`
 - **Name:** Open Tax Contention Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTCC
 

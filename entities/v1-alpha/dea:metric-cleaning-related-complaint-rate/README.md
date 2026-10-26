@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cleaning-Related Complaint Rate** (CRC
 - **Canonical id:** `dea:metric-cleaning-related-complaint-rate`
 - **Name:** Cleaning-Related Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRCR-C
 
@@ -23,8 +23,8 @@ Complaints / 1,000 Cleaning Visits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

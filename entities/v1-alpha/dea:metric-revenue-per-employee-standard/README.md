@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Employee (Standard)** (RPE
 - **Canonical id:** `dea:metric-revenue-per-employee-standard`
 - **Name:** Revenue per Employee (Standard)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPEDD
 

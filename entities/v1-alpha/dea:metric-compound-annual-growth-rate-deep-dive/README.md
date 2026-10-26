@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compound Annual Growth Rate (Deep Dive
 - **Canonical id:** `dea:metric-compound-annual-growth-rate-deep-dive`
 - **Name:** Compound Annual Growth Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAGRDD
 
@@ -27,7 +27,7 @@ Measures the annualized growth rate over a multi-year period. CAGR smooths volat
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

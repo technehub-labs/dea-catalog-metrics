@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Savings from Improvement Projects
 - **Canonical id:** `dea:metric-cost-savings-from-improvement-projects`
 - **Name:** Cost Savings from Improvement Projects
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSIP
 

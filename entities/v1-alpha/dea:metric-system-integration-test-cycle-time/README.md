@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Integration Test Cycle Time** (
 - **Canonical id:** `dea:metric-system-integration-test-cycle-time`
 - **Name:** System Integration Test Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SITC
 
@@ -23,8 +23,8 @@ Days per Integration Test Cycle
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

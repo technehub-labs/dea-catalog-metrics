@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Saturation Headroom - 95th Percentile*
 - **Canonical id:** `dea:metric-saturation-headroom-95th-percentile`
 - **Name:** Saturation Headroom - 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SH95
 
@@ -23,7 +23,7 @@ Saturation Headroom - 95th Percentile (SH95) captures the utilization or availab
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

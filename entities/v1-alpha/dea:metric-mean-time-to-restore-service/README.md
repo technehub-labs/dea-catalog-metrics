@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Restore Service** (MTTRS)
 - **Canonical id:** `dea:metric-mean-time-to-restore-service`
 - **Name:** Mean Time to Restore Service
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTRS
 
@@ -27,8 +27,8 @@ Median Time from Incident Start to Service Restoration
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

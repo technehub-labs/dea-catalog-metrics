@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Long-Range Plan Revision Frequency** (
 - **Canonical id:** `dea:metric-long-range-plan-revision-frequency`
 - **Name:** Long-Range Plan Revision Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRPRF
 

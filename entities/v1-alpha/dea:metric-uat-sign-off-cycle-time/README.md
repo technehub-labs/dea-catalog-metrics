@@ -7,7 +7,7 @@ Candidate Performance Metric record for **UAT Sign-off Cycle Time** (UATSCT) in 
 - **Canonical id:** `dea:metric-uat-sign-off-cycle-time`
 - **Name:** UAT Sign-off Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UATSCT
 
@@ -23,8 +23,8 @@ Days from UAT Start to Sign-off
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

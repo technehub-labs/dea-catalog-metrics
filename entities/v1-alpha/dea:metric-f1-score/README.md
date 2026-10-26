@@ -7,7 +7,7 @@ Candidate Performance Metric record for **F1 Score** (F1SC) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-f1-score`
 - **Name:** F1 Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** F1SC
 

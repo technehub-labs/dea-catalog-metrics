@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure Cost per Prediction** (
 - **Canonical id:** `dea:metric-infrastructure-cost-per-prediction`
 - **Name:** Infrastructure Cost per Prediction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICPP-M
 

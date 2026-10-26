@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pull Request Cycle Time** (PRCT) in th
 - **Canonical id:** `dea:metric-pull-request-cycle-time`
 - **Name:** Pull Request Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCT
 
@@ -23,8 +23,8 @@ Median Time from PR Open to Merge
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

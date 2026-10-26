@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feed Conversion Ratio - Livestock (Dee
 - **Canonical id:** `dea:metric-feed-conversion-ratio-livestock-deep-dive`
 - **Name:** Feed Conversion Ratio - Livestock (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCR-D
 

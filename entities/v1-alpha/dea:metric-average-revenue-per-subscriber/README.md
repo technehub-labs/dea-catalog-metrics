@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Subscriber** (ARPS
 - **Canonical id:** `dea:metric-average-revenue-per-subscriber`
 - **Name:** Average Revenue per Subscriber
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARPS
 

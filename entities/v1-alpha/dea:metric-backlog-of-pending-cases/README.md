@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog of Pending Cases** (BPC) in th
 - **Canonical id:** `dea:metric-backlog-of-pending-cases`
 - **Name:** Backlog of Pending Cases
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BPC
 

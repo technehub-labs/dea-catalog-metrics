@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transparency Score (Open Data)** (TSOD
 - **Canonical id:** `dea:metric-transparency-score-open-data`
 - **Name:** Transparency Score (Open Data)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSOD
 
@@ -27,7 +27,7 @@ Datasets Published in Open Format / Datasets Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

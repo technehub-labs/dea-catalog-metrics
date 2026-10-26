@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certified Data Source Utilization** (C
 - **Canonical id:** `dea:metric-certified-data-source-utilization`
 - **Name:** Certified Data Source Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDSU
 
@@ -27,7 +27,7 @@ Analyses Using Certified Sources / Analyses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Retention Rule Execution Rate** (
 - **Canonical id:** `dea:metric-data-retention-rule-execution-rate`
 - **Name:** Data Retention Rule Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRRER
 
@@ -23,7 +23,7 @@ Retention Rules Applied Automatically / Applicable Rules
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

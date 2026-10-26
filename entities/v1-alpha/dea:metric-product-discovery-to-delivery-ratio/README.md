@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Discovery-to-Delivery Ratio** 
 - **Canonical id:** `dea:metric-product-discovery-to-delivery-ratio`
 - **Name:** Product Discovery-to-Delivery Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDDR
 

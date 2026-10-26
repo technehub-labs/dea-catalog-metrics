@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-to-Decision on Portfolio Changes*
 - **Canonical id:** `dea:metric-time-to-decision-on-portfolio-changes`
 - **Name:** Time-to-Decision on Portfolio Changes
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTDOPC
 
@@ -23,8 +23,8 @@ Days for Portfolio Board Decisions on Change Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

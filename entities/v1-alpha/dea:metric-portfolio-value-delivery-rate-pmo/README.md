@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Value Delivery Rate (PMO)** 
 - **Canonical id:** `dea:metric-portfolio-value-delivery-rate-pmo`
 - **Name:** Portfolio Value Delivery Rate (PMO)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVDR
 
@@ -27,7 +27,7 @@ Benefits Realized vs Business Case / Business Case
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

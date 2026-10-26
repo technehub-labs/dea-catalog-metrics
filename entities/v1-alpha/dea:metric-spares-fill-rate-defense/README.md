@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Fill Rate (Defense)** (SFR-D) i
 - **Canonical id:** `dea:metric-spares-fill-rate-defense`
 - **Name:** Spares Fill Rate (Defense)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SFR-D
 
@@ -27,7 +27,7 @@ Spares Demands Filled from Stock / Spares Demands
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

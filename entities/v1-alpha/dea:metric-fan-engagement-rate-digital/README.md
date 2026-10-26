@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fan Engagement Rate (Digital)** (FER-D
 - **Canonical id:** `dea:metric-fan-engagement-rate-digital`
 - **Name:** Fan Engagement Rate (Digital)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FER-D
 
@@ -27,7 +27,7 @@ Interactions on Club Channels / Followers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

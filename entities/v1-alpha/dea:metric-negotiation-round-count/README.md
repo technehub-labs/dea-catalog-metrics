@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Negotiation Round Count** (NRC-CL) in 
 - **Canonical id:** `dea:metric-negotiation-round-count`
 - **Name:** Negotiation Round Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NRC-CL
 

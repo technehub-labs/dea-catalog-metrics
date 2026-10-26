@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Energy per Terabyte** (NET-T) 
 - **Canonical id:** `dea:metric-network-energy-per-terabyte`
 - **Name:** Network Energy per Terabyte
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NET-T
 
@@ -27,8 +27,8 @@ Energy Consumed / Data Carried
 
 ## Unit
 
-- **Unit reference:** `dea:unit-megawatthours`
-- **Unit:** megawatthours
+- **Unit reference:** `dea:unit-megawatthour`
+- **Unit:** megawatthour
 - **Unit label (as published):** megawatt-hours (MWh)
 
 ## Classification

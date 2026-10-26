@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Health Score** (CHS) in the O
 - **Canonical id:** `dea:metric-customer-health-score`
 - **Name:** Customer Health Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pest Control Compliance Rate** (PCCR) 
 - **Canonical id:** `dea:metric-pest-control-compliance-rate`
 - **Name:** Pest Control Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCCR
 
@@ -23,7 +23,7 @@ Pest Control Visits and Actions Complete / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

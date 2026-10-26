@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Robot Utilization Rate** (RUR-I) in th
 - **Canonical id:** `dea:metric-robot-utilization-rate`
 - **Name:** Robot Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RUR-I
 
@@ -27,7 +27,7 @@ Robot Productive Hours / Robot Available Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

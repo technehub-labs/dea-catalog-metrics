@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Finding Closure Time** (RFC
 - **Canonical id:** `dea:metric-regulatory-finding-closure-time`
 - **Name:** Regulatory Finding Closure Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFCT
 
@@ -27,8 +27,8 @@ Days from Finding to Verified Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

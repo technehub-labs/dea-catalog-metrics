@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Documentation Currency** 
 - **Canonical id:** `dea:metric-architecture-documentation-currency`
 - **Name:** Architecture Documentation Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADOC-SA
 
@@ -23,7 +23,7 @@ Docs Updated within Two Releases / Docs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

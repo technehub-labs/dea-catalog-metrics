@@ -7,7 +7,7 @@ Candidate Performance Metric record for **HCAHPS Patient Experience Score** (HCA
 - **Canonical id:** `dea:metric-hcahps-patient-experience-score`
 - **Name:** HCAHPS Patient Experience Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HCAHPS
 

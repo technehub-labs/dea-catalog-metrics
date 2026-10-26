@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Decision Automation Rate** (CDAR
 - **Canonical id:** `dea:metric-claim-decision-automation-rate`
 - **Name:** Claim Decision Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDAR
 
@@ -27,7 +27,7 @@ Decisions Made by Rules or Models / Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

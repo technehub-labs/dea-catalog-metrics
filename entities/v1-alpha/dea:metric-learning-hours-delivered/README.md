@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Hours Delivered** (LHD) in th
 - **Canonical id:** `dea:metric-learning-hours-delivered`
 - **Name:** Learning Hours Delivered
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHD
 
@@ -23,8 +23,8 @@ Total Learner Instruction Hours per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

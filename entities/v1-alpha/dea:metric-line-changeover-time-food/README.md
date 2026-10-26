@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Changeover Time (Food)** (LCT-F) 
 - **Canonical id:** `dea:metric-line-changeover-time-food`
 - **Name:** Line Changeover Time (Food)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCT-F
 
@@ -23,8 +23,8 @@ Minutes from Last Good Product to Next Good Product
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fabric Shrinkage Test Compliance** (FS
 - **Canonical id:** `dea:metric-fabric-shrinkage-test-compliance`
 - **Name:** Fabric Shrinkage Test Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSTC-T
 
@@ -23,7 +23,7 @@ Tests within Shrinkage Spec / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

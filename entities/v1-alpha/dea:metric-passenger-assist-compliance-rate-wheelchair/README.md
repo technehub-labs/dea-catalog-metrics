@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Assist Compliance Rate (Whee
 - **Canonical id:** `dea:metric-passenger-assist-compliance-rate-wheelchair`
 - **Name:** Passenger Assist Compliance Rate (Wheelchair)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PACRW
 
@@ -23,7 +23,7 @@ Assistance Delivered within SLA / Assistance Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

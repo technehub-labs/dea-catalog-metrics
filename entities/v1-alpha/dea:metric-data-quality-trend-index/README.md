@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Trend Index** (DQTI) in t
 - **Canonical id:** `dea:metric-data-quality-trend-index`
 - **Name:** Data Quality Trend Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQTI
 

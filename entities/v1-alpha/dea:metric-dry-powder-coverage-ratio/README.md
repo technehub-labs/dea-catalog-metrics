@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dry Powder Coverage Ratio** (DPCR-IM) 
 - **Canonical id:** `dea:metric-dry-powder-coverage-ratio`
 - **Name:** Dry Powder Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPCR-IM
 

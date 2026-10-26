@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recyclable Content Share (Packaging)**
 - **Canonical id:** `dea:metric-recyclable-content-share-packaging`
 - **Name:** Recyclable Content Share (Packaging)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCS-P
 
@@ -27,7 +27,7 @@ Recycled Content Mass / Total Packaging Mass
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

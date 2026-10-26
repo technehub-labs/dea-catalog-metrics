@@ -7,7 +7,7 @@ Candidate Performance Metric record for **D1 / D7 / D30 Retention (Deep Dive)** 
 - **Canonical id:** `dea:metric-d1-d7-d30-retention-deep-dive`
 - **Name:** D1 / D7 / D30 Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RET-D
 
@@ -27,7 +27,7 @@ Returning Players on Day N / New Players
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

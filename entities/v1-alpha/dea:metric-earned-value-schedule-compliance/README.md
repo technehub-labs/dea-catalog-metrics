@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earned Value Schedule Compliance** (EV
 - **Canonical id:** `dea:metric-earned-value-schedule-compliance`
 - **Name:** Earned Value Schedule Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVSC
 

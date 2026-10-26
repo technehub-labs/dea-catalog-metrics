@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wholesale Broker Submission Win Rate**
 - **Canonical id:** `dea:metric-wholesale-broker-submission-win-rate`
 - **Name:** Wholesale Broker Submission Win Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WBSW
 
@@ -23,7 +23,7 @@ Deals Bound / Submissions to Wholesale Market
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

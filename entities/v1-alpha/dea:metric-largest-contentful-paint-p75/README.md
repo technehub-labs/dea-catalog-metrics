@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Largest Contentful Paint (P75)** (LCP7
 - **Canonical id:** `dea:metric-largest-contentful-paint-p75`
 - **Name:** Largest Contentful Paint (P75)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCP75
 
@@ -23,8 +23,8 @@ Largest Contentful Paint (P75) (LCP75) measures the quality of outputs and outco
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

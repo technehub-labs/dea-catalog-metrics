@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Function Parameter Count Compliance** 
 - **Canonical id:** `dea:metric-function-parameter-count-compliance`
 - **Name:** Function Parameter Count Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPCC
 
@@ -23,7 +23,7 @@ Functions within Parameter Limit / Functions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Diversion Rate (Facilities Deep 
 - **Canonical id:** `dea:metric-waste-diversion-rate-facilities-deep-dive`
 - **Name:** Waste Diversion Rate (Facilities Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WDR-D
 
@@ -23,7 +23,7 @@ Diverted Waste / Total Waste
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

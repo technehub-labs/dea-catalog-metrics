@@ -7,7 +7,7 @@ Candidate Performance Metric record for **S&OP Meeting Cadence Compliance** (SMC
 - **Canonical id:** `dea:metric-s-op-meeting-cadence-compliance`
 - **Name:** S&OP Meeting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMCC
 
@@ -27,7 +27,7 @@ S&OP Cycles Completed per Standard / Cycles Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rule of 40** (R40) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-rule-of-40`
 - **Name:** Rule of 40
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** R40
 

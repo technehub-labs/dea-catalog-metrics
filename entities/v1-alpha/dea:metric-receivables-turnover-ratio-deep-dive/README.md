@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Receivables Turnover Ratio (Deep Dive)
 - **Canonical id:** `dea:metric-receivables-turnover-ratio-deep-dive`
 - **Name:** Receivables Turnover Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTRDD
 

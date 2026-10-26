@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failover Exercise Frequency** (FEF-BC)
 - **Canonical id:** `dea:metric-failover-exercise-frequency`
 - **Name:** Failover Exercise Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FEF-BC
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Margin Contribution** (AMC-AP
 - **Canonical id:** `dea:metric-alliance-margin-contribution`
 - **Name:** Alliance Margin Contribution
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMC-AP
 
@@ -27,7 +27,7 @@ Alliance Gross Margin / Total Gross Margin
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

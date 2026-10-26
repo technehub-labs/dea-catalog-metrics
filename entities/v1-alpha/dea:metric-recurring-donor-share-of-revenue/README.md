@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recurring Donor Share of Revenue** (RD
 - **Canonical id:** `dea:metric-recurring-donor-share-of-revenue`
 - **Name:** Recurring Donor Share of Revenue
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDSR-N
 
@@ -27,7 +27,7 @@ Recurring Gift Revenue / Total Donations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

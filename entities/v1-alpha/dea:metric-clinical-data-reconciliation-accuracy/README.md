@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Data Reconciliation Accuracy*
 - **Canonical id:** `dea:metric-clinical-data-reconciliation-accuracy`
 - **Name:** Clinical Data Reconciliation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDRA
 
@@ -23,7 +23,7 @@ Reconciled Records without Discrepancy / Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

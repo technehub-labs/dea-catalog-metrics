@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EBITDA Margin** (EBITDA%) in the OpenD
 - **Canonical id:** `dea:metric-ebitda-margin`
 - **Name:** EBITDA Margin
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBITDA%
 
@@ -27,7 +27,7 @@ EBITDA / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cut Order Accuracy** (COA-T) in the Op
 - **Canonical id:** `dea:metric-cut-order-accuracy`
 - **Name:** Cut Order Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COA-T
 
@@ -23,7 +23,7 @@ Cut Pieces Meeting Specification / Pieces Cut
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

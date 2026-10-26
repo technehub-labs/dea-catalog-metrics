@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rate-Limit Exceeded Events per 1M Call
 - **Canonical id:** `dea:metric-rate-limit-exceeded-events-per-1m-calls`
 - **Name:** Rate-Limit Exceeded Events per 1M Calls
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RLE1M
 
@@ -23,8 +23,8 @@ Within Software Product Operations (Deep Dive), Rate-Limit Exceeded Events per 1
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

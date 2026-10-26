@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity-to-Demand Match Index** (CDMI
 - **Canonical id:** `dea:metric-capacity-to-demand-match-index`
 - **Name:** Capacity-to-Demand Match Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDMI
 

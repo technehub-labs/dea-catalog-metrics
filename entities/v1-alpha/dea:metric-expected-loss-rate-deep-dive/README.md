@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expected Loss Rate (Deep Dive)** (ELRD
 - **Canonical id:** `dea:metric-expected-loss-rate-deep-dive`
 - **Name:** Expected Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELRDD
 
@@ -27,7 +27,7 @@ PD x LGD x EAD / Portfolio Exposure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

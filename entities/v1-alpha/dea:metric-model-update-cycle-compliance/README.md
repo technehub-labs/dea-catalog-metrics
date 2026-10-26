@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Update Cycle Compliance** (MUCC-
 - **Canonical id:** `dea:metric-model-update-cycle-compliance`
 - **Name:** Model Update Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MUCC-RS
 
@@ -23,7 +23,7 @@ Coverage Models Refreshed per Schedule / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

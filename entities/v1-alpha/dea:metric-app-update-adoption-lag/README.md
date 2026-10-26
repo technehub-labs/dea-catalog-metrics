@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Update Adoption Lag** (AUAL) in th
 - **Canonical id:** `dea:metric-app-update-adoption-lag`
 - **Name:** App Update Adoption Lag
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUAL
 
@@ -23,8 +23,8 @@ Days for 80% of Users to Adopt Latest Release
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

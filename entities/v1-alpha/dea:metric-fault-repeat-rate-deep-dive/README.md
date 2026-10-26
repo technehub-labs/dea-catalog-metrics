@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fault Repeat Rate (Deep Dive)** (FRR-N
 - **Canonical id:** `dea:metric-fault-repeat-rate-deep-dive`
 - **Name:** Fault Repeat Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRR-N
 
@@ -23,7 +23,7 @@ Recurring Faults within 30 Days / Faults
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

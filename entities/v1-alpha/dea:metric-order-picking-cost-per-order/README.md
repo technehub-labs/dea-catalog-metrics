@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Picking Cost per Order** (OPC) i
 - **Canonical id:** `dea:metric-order-picking-cost-per-order`
 - **Name:** Order Picking Cost per Order
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OPC
 

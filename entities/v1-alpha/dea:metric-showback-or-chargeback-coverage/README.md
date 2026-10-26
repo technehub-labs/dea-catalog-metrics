@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Showback or Chargeback Coverage** (SBC
 - **Canonical id:** `dea:metric-showback-or-chargeback-coverage`
 - **Name:** Showback or Chargeback Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SBC-ITFM
 
@@ -27,7 +27,7 @@ Business Units Receiving Cost Visibility / Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

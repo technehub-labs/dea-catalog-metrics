@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logo Churn Rate (Unit Economics)** (LC
 - **Canonical id:** `dea:metric-logo-churn-rate-unit-economics`
 - **Name:** Logo Churn Rate (Unit Economics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCRDD
 
@@ -27,7 +27,7 @@ Customers Lost / Customers at Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

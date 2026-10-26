@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty versus Billable Job Mix** (WB
 - **Canonical id:** `dea:metric-warranty-versus-billable-job-mix`
 - **Name:** Warranty versus Billable Job Mix
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WBJM-F
 
@@ -23,7 +23,7 @@ Warranty Jobs / Total Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

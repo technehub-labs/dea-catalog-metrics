@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Containment Rate** (LLMCR) in the 
 - **Canonical id:** `dea:metric-llm-containment-rate`
 - **Name:** LLM Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LLMCR
 
@@ -27,7 +27,7 @@ Conversations Completed without Escalation / Conversations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

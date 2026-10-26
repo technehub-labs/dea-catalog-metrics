@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned Maintenance Percentage** (PMP)
 - **Canonical id:** `dea:metric-planned-maintenance-percentage`
 - **Name:** Planned Maintenance Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMP
 
@@ -27,7 +27,7 @@ Planned Maintenance Hours / Total Maintenance Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Randomization Speed (Trials)** (RST) i
 - **Canonical id:** `dea:metric-randomization-speed-trials`
 - **Name:** Randomization Speed (Trials)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RST
 
@@ -23,8 +23,8 @@ Hours from Eligibility Confirmation to Randomization
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

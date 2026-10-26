@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port State Control Detention Rate (Dee
 - **Canonical id:** `dea:metric-port-state-control-detention-rate-deep-dive`
 - **Name:** Port State Control Detention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSCDR
 
@@ -27,7 +27,7 @@ Detentions / Inspections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

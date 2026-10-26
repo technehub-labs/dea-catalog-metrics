@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Commit Security Hook Adoption** (P
 - **Canonical id:** `dea:metric-pre-commit-security-hook-adoption`
 - **Name:** Pre-Commit Security Hook Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCSHA
 
@@ -23,7 +23,7 @@ Developers Using Pre-Commit Security Hooks / Developers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

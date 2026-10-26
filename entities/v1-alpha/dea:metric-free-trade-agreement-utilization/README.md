@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Trade Agreement Utilization** (FT
 - **Canonical id:** `dea:metric-free-trade-agreement-utilization`
 - **Name:** Free Trade Agreement Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTAU
 
@@ -27,7 +27,7 @@ Preferential Entries Claimed / Eligible Entries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

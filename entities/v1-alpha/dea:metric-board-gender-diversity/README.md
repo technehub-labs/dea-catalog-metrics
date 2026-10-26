@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Gender Diversity** (BGD) in the 
 - **Canonical id:** `dea:metric-board-gender-diversity`
 - **Name:** Board Gender Diversity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BGD
 
@@ -27,7 +27,7 @@ Women on Board / Total Board Members
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

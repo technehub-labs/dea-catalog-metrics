@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Perfect Order Rate (Deep Dive)** (PORD
 - **Canonical id:** `dea:metric-perfect-order-rate-deep-dive`
 - **Name:** Perfect Order Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PORD
 
@@ -27,7 +27,7 @@ Orders Perfect on Time, Quality, Quantity, Documentation / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

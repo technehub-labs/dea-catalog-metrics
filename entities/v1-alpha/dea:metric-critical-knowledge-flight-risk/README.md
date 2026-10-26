@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Knowledge Flight Risk** (CKFR
 - **Canonical id:** `dea:metric-critical-knowledge-flight-risk`
 - **Name:** Critical Knowledge Flight Risk
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CKFR
 
@@ -27,7 +27,7 @@ Sole-Source Experts Nearing Departure Risk / Sole-Source Expertise
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

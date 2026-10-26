@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Ticket Resolution within SLA** (NC
 - **Canonical id:** `dea:metric-noc-ticket-resolution-within-sla`
 - **Name:** NOC Ticket Resolution within SLA
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCTRS
 
@@ -27,7 +27,7 @@ Tickets Resolved within SLA / Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Volunteering Hours per Employee** (VHP
 - **Canonical id:** `dea:metric-volunteering-hours-per-employee`
 - **Name:** Volunteering Hours per Employee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VHPE
 
@@ -27,8 +27,8 @@ Volunteering Hours / Average Headcount
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

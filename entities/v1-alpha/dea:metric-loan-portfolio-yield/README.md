@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Portfolio Yield** (LPY) in the Op
 - **Canonical id:** `dea:metric-loan-portfolio-yield`
 - **Name:** Loan Portfolio Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPY
 
@@ -27,7 +27,7 @@ Loan Interest Income / Average Loan Portfolio
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

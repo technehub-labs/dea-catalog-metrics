@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Money-Weighted Rate of Return (Deep Di
 - **Canonical id:** `dea:metric-money-weighted-rate-of-return-deep-dive`
 - **Name:** Money-Weighted Rate of Return (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWRR-D
 
@@ -27,7 +27,7 @@ Internal Rate of Return on Investor Cash Flows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

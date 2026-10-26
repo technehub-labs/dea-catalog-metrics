@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Material Waste Rate (Construction)** (
 - **Canonical id:** `dea:metric-material-waste-rate-construction`
 - **Name:** Material Waste Rate (Construction)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWR
 
@@ -23,7 +23,7 @@ Wasted Material Value / Material Value Ordered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

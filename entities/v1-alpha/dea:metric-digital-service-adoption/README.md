@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Service Adoption** (DSA) in th
 - **Canonical id:** `dea:metric-digital-service-adoption`
 - **Name:** Digital Service Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSA
 
@@ -27,7 +27,7 @@ Digital Channel Transactions / Total Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Cost Percentage** (SCP) in the O
 - **Canonical id:** `dea:metric-scrap-cost-percentage`
 - **Name:** Scrap Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCP
 
@@ -27,7 +27,7 @@ Scrap Cost / Total Production Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

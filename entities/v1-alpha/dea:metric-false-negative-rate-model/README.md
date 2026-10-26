@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Negative Rate (Model)** (FNRM) i
 - **Canonical id:** `dea:metric-false-negative-rate-model`
 - **Name:** False Negative Rate (Model)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FNRM
 
@@ -23,7 +23,7 @@ False Negatives / Actual Positives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

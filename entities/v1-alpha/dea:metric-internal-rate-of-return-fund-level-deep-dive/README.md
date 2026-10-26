@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Rate of Return - Fund Level (
 - **Canonical id:** `dea:metric-internal-rate-of-return-fund-level-deep-dive`
 - **Name:** Internal Rate of Return - Fund Level (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FIRR-D
 
@@ -27,7 +27,7 @@ Fund Cash Flow IRR
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

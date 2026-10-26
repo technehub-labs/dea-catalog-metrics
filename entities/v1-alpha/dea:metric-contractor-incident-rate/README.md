@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contractor Incident Rate** (CIR) in th
 - **Canonical id:** `dea:metric-contractor-incident-rate`
 - **Name:** Contractor Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIR
 

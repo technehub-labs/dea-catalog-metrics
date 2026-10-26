@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sprint Goal Success Rate** (SGSR) in t
 - **Canonical id:** `dea:metric-sprint-goal-success-rate`
 - **Name:** Sprint Goal Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGSR
 
@@ -23,7 +23,7 @@ Sprints Achieving Goal / Total Sprints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

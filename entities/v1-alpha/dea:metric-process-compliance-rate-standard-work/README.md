@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Compliance Rate (Standard Work
 - **Canonical id:** `dea:metric-process-compliance-rate-standard-work`
 - **Name:** Process Compliance Rate (Standard Work)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCR-SW
 
@@ -23,7 +23,7 @@ Executions Following Standard Operating Procedure / Sampled Executions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ore Grade Variance (Deep Dive)** (OGV-
 - **Canonical id:** `dea:metric-ore-grade-variance-deep-dive`
 - **Name:** Ore Grade Variance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OGV-D
 
@@ -27,7 +27,7 @@ Milled Grade - Resource Model Grade / Model Grade
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Subject Rights Request Timeliness
 - **Canonical id:** `dea:metric-data-subject-rights-request-timeliness-ai`
 - **Name:** Data Subject Rights Request Timeliness - AI
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSRTA
 
@@ -27,7 +27,7 @@ Rights Requests Answered within Statutory Window / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Record Confidence Score** (GRCS
 - **Canonical id:** `dea:metric-golden-record-confidence-score`
 - **Name:** Golden Record Confidence Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GRCS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Side Broker Scorecard Coverage** 
 - **Canonical id:** `dea:metric-sell-side-broker-scorecard-coverage`
 - **Name:** Sell-Side Broker Scorecard Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SBSC
 
@@ -23,7 +23,7 @@ Brokers Evaluated on Scorecard / Active Brokers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Day 30 Retention** (D30R) in the OpenD
 - **Canonical id:** `dea:metric-day-30-retention`
 - **Name:** Day 30 Retention
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** D30R
 
@@ -27,7 +27,7 @@ Players Returning on Day 30 / New Player Cohort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

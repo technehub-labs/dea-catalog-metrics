@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Source of Hire Effectiveness Index** (
 - **Canonical id:** `dea:metric-source-of-hire-effectiveness-index`
 - **Name:** Source of Hire Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOHEI
 

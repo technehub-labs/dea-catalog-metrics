@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Efficiency (Apparel)** (LEA) in t
 - **Canonical id:** `dea:metric-line-efficiency-apparel`
 - **Name:** Line Efficiency (Apparel)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LEA
 
@@ -23,7 +23,7 @@ Actual Output / Standard Output at Given Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

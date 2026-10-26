@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Book Coverage** (UBC) in 
 - **Canonical id:** `dea:metric-underwriting-book-coverage`
 - **Name:** Underwriting Book Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UBC
 

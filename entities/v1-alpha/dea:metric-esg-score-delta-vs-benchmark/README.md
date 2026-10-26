@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Score Delta vs Benchmark** (ESGSDB
 - **Canonical id:** `dea:metric-esg-score-delta-vs-benchmark`
 - **Name:** ESG Score Delta vs Benchmark
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESGSDB
 

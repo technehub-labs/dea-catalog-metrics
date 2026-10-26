@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Tickets per 1,000 Servers** (
 - **Canonical id:** `dea:metric-incident-tickets-per-1-000-servers`
 - **Name:** Incident Tickets per 1,000 Servers
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITPS
 
@@ -23,8 +23,8 @@ Incident Tickets / Servers x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

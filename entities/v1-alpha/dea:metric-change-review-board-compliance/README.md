@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Review Board Compliance** (CRBC
 - **Canonical id:** `dea:metric-change-review-board-compliance`
 - **Name:** Change Review Board Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRBC
 
@@ -23,7 +23,7 @@ High-Risk Changes with CAB Approval / High-Risk Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

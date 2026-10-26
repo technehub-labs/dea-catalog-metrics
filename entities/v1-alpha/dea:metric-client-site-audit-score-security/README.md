@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Site Audit Score (Security)** (
 - **Canonical id:** `dea:metric-client-site-audit-score-security`
 - **Name:** Client Site Audit Score (Security)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAS-S
 

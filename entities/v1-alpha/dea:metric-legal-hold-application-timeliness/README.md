@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Hold Application Timeliness** (L
 - **Canonical id:** `dea:metric-legal-hold-application-timeliness`
 - **Name:** Legal Hold Application Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHAT
 
@@ -23,8 +23,8 @@ Days from Hold Order to Preservation Confirmed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispensing Error Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-dispensing-error-rate-deep-dive`
 - **Name:** Dispensing Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DER-D
 
@@ -27,8 +27,8 @@ Dispensing Errors / Prescriptions Dispensed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

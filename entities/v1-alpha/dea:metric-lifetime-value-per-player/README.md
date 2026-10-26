@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lifetime Value per Player** (LTV-G) in
 - **Canonical id:** `dea:metric-lifetime-value-per-player`
 - **Name:** Lifetime Value per Player
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTV-G
 

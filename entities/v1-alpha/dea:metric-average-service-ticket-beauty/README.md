@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Service Ticket (Beauty)** (AST
 - **Canonical id:** `dea:metric-average-service-ticket-beauty`
 - **Name:** Average Service Ticket (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AST-B
 

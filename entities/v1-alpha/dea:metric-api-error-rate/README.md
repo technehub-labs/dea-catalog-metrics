@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Error Rate** (APIER) in the OpenDE
 - **Canonical id:** `dea:metric-api-error-rate`
 - **Name:** API Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIER
 
@@ -23,7 +23,7 @@ Failed API Requests / Total API Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

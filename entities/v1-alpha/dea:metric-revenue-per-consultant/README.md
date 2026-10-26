@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Consultant** (RPC) in the 
 - **Canonical id:** `dea:metric-revenue-per-consultant`
 - **Name:** Revenue per Consultant
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPC
 

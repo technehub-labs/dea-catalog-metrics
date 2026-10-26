@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Grant Success Rate** (PGSR) in 
 - **Canonical id:** `dea:metric-patent-grant-success-rate`
 - **Name:** Patent Grant Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PGSR
 
@@ -27,7 +27,7 @@ Patents Granted / Applications Prosecuted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

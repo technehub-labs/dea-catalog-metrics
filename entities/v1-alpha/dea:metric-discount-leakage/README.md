@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discount Leakage** (DLK) in the OpenDE
 - **Canonical id:** `dea:metric-discount-leakage`
 - **Name:** Discount Leakage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLK
 
@@ -27,7 +27,7 @@ Discount Value Granted outside Policy / Gross Sales Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

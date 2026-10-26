@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tech Debt Remediation Effort Ratio** (
 - **Canonical id:** `dea:metric-tech-debt-remediation-effort-ratio`
 - **Name:** Tech Debt Remediation Effort Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDREM
 
@@ -27,7 +27,7 @@ Estimated Remediation Hours / Development Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

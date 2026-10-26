@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manufacturing Cost per Unit** (MCU) in
 - **Canonical id:** `dea:metric-manufacturing-cost-per-unit`
 - **Name:** Manufacturing Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCU
 

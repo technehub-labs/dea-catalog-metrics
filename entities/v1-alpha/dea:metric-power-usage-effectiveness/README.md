@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Power Usage Effectiveness** (PUE) in t
 - **Canonical id:** `dea:metric-power-usage-effectiveness`
 - **Name:** Power Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PUE
 

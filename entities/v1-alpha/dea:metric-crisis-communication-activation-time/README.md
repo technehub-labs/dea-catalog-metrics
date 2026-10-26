@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Communication Activation Time**
 - **Canonical id:** `dea:metric-crisis-communication-activation-time`
 - **Name:** Crisis Communication Activation Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCAT
 
@@ -27,8 +27,8 @@ Hours from Event to First Approved Statement
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

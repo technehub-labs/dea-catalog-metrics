@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Incentive Payout Accuracy*
 - **Canonical id:** `dea:metric-performance-incentive-payout-accuracy`
 - **Name:** Performance Incentive Payout Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIPA-OKR
 
@@ -27,7 +27,7 @@ Payouts Matching Plan Calculations / Payouts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

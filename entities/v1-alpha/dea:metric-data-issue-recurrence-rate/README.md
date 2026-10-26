@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Issue Recurrence Rate** (DIRR) in
 - **Canonical id:** `dea:metric-data-issue-recurrence-rate`
 - **Name:** Data Issue Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIRR
 
@@ -23,7 +23,7 @@ Issues Reopened after Closure / Closed Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

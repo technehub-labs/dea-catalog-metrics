@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Scoring Consistency Index** (OSCI)
 - **Canonical id:** `dea:metric-okr-scoring-consistency-index`
 - **Name:** OKR Scoring Consistency Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OSCI
 

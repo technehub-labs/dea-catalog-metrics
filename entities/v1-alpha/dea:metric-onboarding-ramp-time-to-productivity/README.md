@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Ramp Time to Productivity**
 - **Canonical id:** `dea:metric-onboarding-ramp-time-to-productivity`
 - **Name:** Onboarding Ramp Time to Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORTP
 
@@ -23,8 +23,8 @@ Days for New Hire to Reach Expected Productivity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Author Advance Earnout Rate** (AAER-P)
 - **Canonical id:** `dea:metric-author-advance-earnout-rate`
 - **Name:** Author Advance Earnout Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAER-P
 
@@ -27,7 +27,7 @@ Titles Earning out Advances / Titles with Advances
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

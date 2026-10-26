@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Auto-Remediation Rate** (CSPMAR) 
 - **Canonical id:** `dea:metric-cspm-auto-remediation-rate`
 - **Name:** CSPM Auto-Remediation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSPMAR
 
@@ -23,7 +23,7 @@ Findings Auto-Remediated / Auto-Remediable Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

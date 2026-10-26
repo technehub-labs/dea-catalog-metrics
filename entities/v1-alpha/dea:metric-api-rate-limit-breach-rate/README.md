@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Rate Limit Breach Rate** (APRLB) i
 - **Canonical id:** `dea:metric-api-rate-limit-breach-rate`
 - **Name:** API Rate Limit Breach Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APRLB
 
@@ -23,7 +23,7 @@ Throttled Requests / Total Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

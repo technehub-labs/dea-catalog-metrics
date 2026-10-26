@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cumulative Layout Shift** (CLS) in the
 - **Canonical id:** `dea:metric-cumulative-layout-shift`
 - **Name:** Cumulative Layout Shift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Effective Tax Rate** (ETR) in the Open
 - **Canonical id:** `dea:metric-effective-tax-rate`
 - **Name:** Effective Tax Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETR
 
@@ -27,7 +27,7 @@ Total Tax Expense / Pre-Tax Accounting Income
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

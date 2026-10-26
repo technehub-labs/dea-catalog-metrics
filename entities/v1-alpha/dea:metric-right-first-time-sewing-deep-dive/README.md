@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Right First Time - Sewing (Deep Dive)*
 - **Canonical id:** `dea:metric-right-first-time-sewing-deep-dive`
 - **Name:** Right First Time - Sewing (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFT-S
 
@@ -23,7 +23,7 @@ Garments Passing without Repair / Garments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

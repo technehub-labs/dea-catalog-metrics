@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Impressions Delivered** (AID) in th
 - **Canonical id:** `dea:metric-ad-impressions-delivered`
 - **Name:** Ad Impressions Delivered
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AID
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transit Damage Claims Rate** (TDC) in 
 - **Canonical id:** `dea:metric-transit-damage-claims-rate`
 - **Name:** Transit Damage Claims Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDC
 
@@ -27,7 +27,7 @@ Claims Value / Freight Value Shipped
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

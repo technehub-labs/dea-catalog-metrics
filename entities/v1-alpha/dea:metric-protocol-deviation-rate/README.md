@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Protocol Deviation Rate** (PDR-P) in t
 - **Canonical id:** `dea:metric-protocol-deviation-rate`
 - **Name:** Protocol Deviation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDR-P
 
@@ -23,7 +23,7 @@ Deviations / Subjects Enrolled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

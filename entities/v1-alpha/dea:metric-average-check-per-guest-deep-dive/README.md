@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Check per Guest (Deep Dive)** 
 - **Canonical id:** `dea:metric-average-check-per-guest-deep-dive`
 - **Name:** Average Check per Guest (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACPG-D
 

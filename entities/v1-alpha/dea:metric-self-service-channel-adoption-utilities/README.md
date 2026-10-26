@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Channel Adoption (Utiliti
 - **Canonical id:** `dea:metric-self-service-channel-adoption-utilities`
 - **Name:** Self-Service Channel Adoption (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSA-U
 
@@ -27,7 +27,7 @@ Self-Service Transactions / Total Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

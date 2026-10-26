@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Forecast Accuracy** (CFA-CD) i
 - **Canonical id:** `dea:metric-channel-forecast-accuracy`
 - **Name:** Channel Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFA-CD
 
@@ -23,7 +23,7 @@ Partner Forecast vs Actual Sell-Through / Actual
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

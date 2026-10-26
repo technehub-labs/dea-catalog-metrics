@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Allocation Drift Ratio** (AADR-I
 - **Canonical id:** `dea:metric-asset-allocation-drift-ratio`
 - **Name:** Asset Allocation Drift Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AADR-IM
 
@@ -27,7 +27,7 @@ Deviation from Target Allocation / Target
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

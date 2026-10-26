@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upgrade Project Slippage Rate** (UPSR)
 - **Canonical id:** `dea:metric-upgrade-project-slippage-rate`
 - **Name:** Upgrade Project Slippage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UPSR
 
@@ -23,7 +23,7 @@ Schedule Slippage / Planned Duration
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Defect Density** (RDD) in
 - **Canonical id:** `dea:metric-requirements-defect-density`
 - **Name:** Requirements Defect Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Department Door-to-Provider 
 - **Canonical id:** `dea:metric-emergency-department-door-to-provider-time`
 - **Name:** Emergency Department Door-to-Provider Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTP
 
@@ -23,8 +23,8 @@ Minutes from Arrival to First Provider Contact
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beverage Cost Percentage** (BCP) in th
 - **Canonical id:** `dea:metric-beverage-cost-percentage`
 - **Name:** Beverage Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCP
 
@@ -27,7 +27,7 @@ Beverage Cost / Beverage Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

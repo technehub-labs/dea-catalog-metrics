@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirement-to-Business-Goal Trace Rat
 - **Canonical id:** `dea:metric-requirement-to-business-goal-trace-rate`
 - **Name:** Requirement-to-Business-Goal Trace Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBGT
 
@@ -27,7 +27,7 @@ Requirements Linked to Business Goals / Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

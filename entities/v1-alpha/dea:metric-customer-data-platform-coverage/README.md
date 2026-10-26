@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Data Platform Coverage** (CDP
 - **Canonical id:** `dea:metric-customer-data-platform-coverage`
 - **Name:** Customer Data Platform Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDPC
 
@@ -27,7 +27,7 @@ Profiles Unified in CDP / Known Customer Profiles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Streaming Churn Rate (Deep Dive)** (SC
 - **Canonical id:** `dea:metric-streaming-churn-rate-deep-dive`
 - **Name:** Streaming Churn Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-S
 
@@ -27,7 +27,7 @@ Cancelled Subscriptions / Subscribers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

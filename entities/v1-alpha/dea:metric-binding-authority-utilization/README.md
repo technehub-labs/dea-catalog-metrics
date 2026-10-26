@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Binding Authority Utilization** (BAU) 
 - **Canonical id:** `dea:metric-binding-authority-utilization`
 - **Name:** Binding Authority Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAU
 
@@ -23,7 +23,7 @@ Premium Bound under Delegated Authority / Authority Granted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

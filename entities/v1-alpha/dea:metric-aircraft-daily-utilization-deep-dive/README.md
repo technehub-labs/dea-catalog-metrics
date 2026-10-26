@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Daily Utilization (Deep Dive)
 - **Canonical id:** `dea:metric-aircraft-daily-utilization-deep-dive`
 - **Name:** Aircraft Daily Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADUDD
 
@@ -27,8 +27,8 @@ Revenue Block Hours / Aircraft Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

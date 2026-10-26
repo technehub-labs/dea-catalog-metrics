@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catalyst Consumption per Barrel** (CCP
 - **Canonical id:** `dea:metric-catalyst-consumption-per-barrel`
 - **Name:** Catalyst Consumption per Barrel
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCPB
 

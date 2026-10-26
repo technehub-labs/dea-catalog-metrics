@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance - A15 (Deep Dive)*
 - **Canonical id:** `dea:metric-on-time-performance-a15-deep-dive`
 - **Name:** On-Time Performance - A15 (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTP-A15
 
@@ -27,7 +27,7 @@ Arrivals within 15 Minutes / Arrivals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

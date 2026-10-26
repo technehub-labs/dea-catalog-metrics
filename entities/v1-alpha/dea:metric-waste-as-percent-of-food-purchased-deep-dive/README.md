@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste as Percent of Food Purchased (De
 - **Canonical id:** `dea:metric-waste-as-percent-of-food-purchased-deep-dive`
 - **Name:** Waste as Percent of Food Purchased (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WPF-D
 
@@ -23,7 +23,7 @@ Food Wasted / Food Purchased
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

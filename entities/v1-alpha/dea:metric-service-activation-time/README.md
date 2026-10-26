@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Activation Time** (SAT) in the
 - **Canonical id:** `dea:metric-service-activation-time`
 - **Name:** Service Activation Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAT
 
@@ -27,8 +27,8 @@ Days from Order to Service Activation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

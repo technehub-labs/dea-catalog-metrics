@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single-Source Dependency Ratio** (SSDR
 - **Canonical id:** `dea:metric-single-source-dependency-ratio`
 - **Name:** Single-Source Dependency Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSDR
 
@@ -27,7 +27,7 @@ Critical Categories with Single Supplier / Critical Categories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

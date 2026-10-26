@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customs Penalty Rate** (CPR-C) in the 
 - **Canonical id:** `dea:metric-customs-penalty-rate`
 - **Name:** Customs Penalty Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPR-C
 
@@ -23,8 +23,8 @@ Penalty Incidents / Entries Filed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

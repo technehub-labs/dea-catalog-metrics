@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct Labor Efficiency Variance** (DL
 - **Canonical id:** `dea:metric-direct-labor-efficiency-variance`
 - **Name:** Direct Labor Efficiency Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLEV
 

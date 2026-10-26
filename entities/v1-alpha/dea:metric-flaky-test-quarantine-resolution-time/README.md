@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaky Test Quarantine Resolution Time*
 - **Canonical id:** `dea:metric-flaky-test-quarantine-resolution-time`
 - **Name:** Flaky Test Quarantine Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTQRT
 
@@ -23,8 +23,8 @@ Days a Test Remains Quarantined
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IOC Enrichment Latency** (IOEL) in the
 - **Canonical id:** `dea:metric-ioc-enrichment-latency`
 - **Name:** IOC Enrichment Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IOEL
 
@@ -23,8 +23,8 @@ Minutes from Indicator Observed to Enriched Alert
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

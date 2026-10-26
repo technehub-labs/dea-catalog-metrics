@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runway Utilization** (RWU) in the Open
 - **Canonical id:** `dea:metric-runway-utilization`
 - **Name:** Runway Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RWU
 

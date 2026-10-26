@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users (Deep Dive)** (DAU-
 - **Canonical id:** `dea:metric-daily-active-users-deep-dive`
 - **Name:** Daily Active Users (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAU-D
 

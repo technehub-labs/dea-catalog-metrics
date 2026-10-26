@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Indirect Tax Recovery Rate** (ITRR) in
 - **Canonical id:** `dea:metric-indirect-tax-recovery-rate`
 - **Name:** Indirect Tax Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITRR
 
@@ -27,7 +27,7 @@ Recoverable Indirect Taxes Claimed / Eligible Amounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Accuracy Rate (Deep Dive)** (OAR
 - **Canonical id:** `dea:metric-order-accuracy-rate-deep-dive`
 - **Name:** Order Accuracy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OAR-D
 
@@ -23,7 +23,7 @@ Orders Correct on Delivery / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

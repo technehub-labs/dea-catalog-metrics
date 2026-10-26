@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Engagement Score (Deep Dive)*
 - **Canonical id:** `dea:metric-employee-engagement-score-deep-dive`
 - **Name:** Employee Engagement Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EESDD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Yield** (BAY) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-batch-yield`
 - **Name:** Batch Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAY
 
@@ -23,7 +23,7 @@ Conforming Product Mass / Input Mass
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

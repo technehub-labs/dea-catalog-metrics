@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Checkpoint Throughput** (SCT)
 - **Canonical id:** `dea:metric-security-checkpoint-throughput`
 - **Name:** Security Checkpoint Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCT
 

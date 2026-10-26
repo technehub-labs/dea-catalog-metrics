@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Actuarial Data Quality Score** (ADQS) 
 - **Canonical id:** `dea:metric-actuarial-data-quality-score`
 - **Name:** Actuarial Data Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADQS
 

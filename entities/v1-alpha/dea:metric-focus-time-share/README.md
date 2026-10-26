@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Focus Time Share** (FTS-DW) in the Ope
 - **Canonical id:** `dea:metric-focus-time-share`
 - **Name:** Focus Time Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTS-DW
 
@@ -27,7 +27,7 @@ Non-Meeting Work Time / Total Working Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

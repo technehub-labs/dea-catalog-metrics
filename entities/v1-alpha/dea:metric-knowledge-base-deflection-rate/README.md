@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Base Deflection Rate** (KBDR
 - **Canonical id:** `dea:metric-knowledge-base-deflection-rate`
 - **Name:** Knowledge Base Deflection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KBDR
 
@@ -27,7 +27,7 @@ Issues Self-Resolved via Knowledge Base / Issues Seeking Help
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

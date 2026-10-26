@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equity Duration Gap** (EDG-VCF) in the
 - **Canonical id:** `dea:metric-equity-duration-gap`
 - **Name:** Equity Duration Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDG-VCF
 

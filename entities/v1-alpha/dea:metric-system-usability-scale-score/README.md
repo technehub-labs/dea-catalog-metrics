@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Usability Scale Score** (SUS-UX
 - **Canonical id:** `dea:metric-system-usability-scale-score`
 - **Name:** System Usability Scale Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SUS-UX
 

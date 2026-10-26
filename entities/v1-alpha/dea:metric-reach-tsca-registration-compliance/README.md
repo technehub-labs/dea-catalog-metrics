@@ -7,7 +7,7 @@ Candidate Performance Metric record for **REACH / TSCA Registration Compliance**
 - **Canonical id:** `dea:metric-reach-tsca-registration-compliance`
 - **Name:** REACH / TSCA Registration Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTCC
 
@@ -27,7 +27,7 @@ Substances with Current Registrations / Substances Handled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

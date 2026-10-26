@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Downtime Percentage** (FDP) in t
 - **Canonical id:** `dea:metric-fleet-downtime-percentage`
 - **Name:** Fleet Downtime Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDP
 
@@ -27,7 +27,7 @@ Vehicle Downtime Days / Fleet Available Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

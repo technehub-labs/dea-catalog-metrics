@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendance Rate (Venue Capacity)** (AR
 - **Canonical id:** `dea:metric-attendance-rate-venue-capacity`
 - **Name:** Attendance Rate (Venue Capacity)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARVC
 
@@ -27,7 +27,7 @@ Attendees / Venue Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Utilization Rate** (TUR) in t
 - **Canonical id:** `dea:metric-training-utilization-rate`
 - **Name:** Training Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TUR
 
@@ -23,7 +23,7 @@ Seats Consumed / Seats Made Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

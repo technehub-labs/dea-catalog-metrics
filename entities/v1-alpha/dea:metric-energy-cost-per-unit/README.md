@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost per Unit** (ECU) in the Op
 - **Canonical id:** `dea:metric-energy-cost-per-unit`
 - **Name:** Energy Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECU
 

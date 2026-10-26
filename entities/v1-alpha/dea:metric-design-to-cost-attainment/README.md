@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design-to-Cost Attainment** (DCA) in t
 - **Canonical id:** `dea:metric-design-to-cost-attainment`
 - **Name:** Design-to-Cost Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCA
 
@@ -27,7 +27,7 @@ Designs Meeting Cost Targets / Designs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

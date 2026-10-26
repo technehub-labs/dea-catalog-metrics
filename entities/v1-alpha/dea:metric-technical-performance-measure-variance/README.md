@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Performance Measure Variance
 - **Canonical id:** `dea:metric-technical-performance-measure-variance`
 - **Name:** Technical Performance Measure Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPMV
 
@@ -27,7 +27,7 @@ Actual TPM - Threshold TPM / Threshold
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

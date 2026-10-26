@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dropout Risk Model Recall** (DRMR) in 
 - **Canonical id:** `dea:metric-dropout-risk-model-recall`
 - **Name:** Dropout Risk Model Recall
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRMR
 
@@ -23,7 +23,7 @@ At-Risk Students Flagged before Withdrawal / Actual Withdrawals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

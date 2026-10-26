@@ -7,7 +7,7 @@ Candidate Performance Metric record for **All-In Sustaining Cost** (AISC) in the
 - **Canonical id:** `dea:metric-all-in-sustaining-cost`
 - **Name:** All-In Sustaining Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AISC
 

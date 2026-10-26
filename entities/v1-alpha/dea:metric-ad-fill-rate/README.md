@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Fill Rate** (AFR) in the OpenDEAM M
 - **Canonical id:** `dea:metric-ad-fill-rate`
 - **Name:** Ad Fill Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFR
 
@@ -23,7 +23,7 @@ Ads Delivered / Ad Slots Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

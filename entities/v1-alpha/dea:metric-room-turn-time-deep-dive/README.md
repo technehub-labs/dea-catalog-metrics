@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Room Turn Time (Deep Dive)** (RTT-D) i
 - **Canonical id:** `dea:metric-room-turn-time-deep-dive`
 - **Name:** Room Turn Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTT-D
 
@@ -23,8 +23,8 @@ Minutes to Clean and Inspect Departure Room
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

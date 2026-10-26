@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy - Call Volume (Deep 
 - **Canonical id:** `dea:metric-forecast-accuracy-call-volume-deep-dive`
 - **Name:** Forecast Accuracy - Call Volume (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FACV-D
 
@@ -23,7 +23,7 @@ A Contact Center Operations (Deep Dive) indicator, Forecast Accuracy - Call Volu
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

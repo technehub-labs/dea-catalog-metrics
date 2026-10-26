@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Put-Away Accuracy** (PAA) in the OpenD
 - **Canonical id:** `dea:metric-put-away-accuracy`
 - **Name:** Put-Away Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAA
 
@@ -23,7 +23,7 @@ Correctly Placed Units / Units Put Away
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

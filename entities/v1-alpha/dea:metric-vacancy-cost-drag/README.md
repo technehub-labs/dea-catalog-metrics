@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vacancy Cost Drag** (VCD-RE) in the Op
 - **Canonical id:** `dea:metric-vacancy-cost-drag`
 - **Name:** Vacancy Cost Drag
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VCD-RE
 
@@ -27,7 +27,7 @@ Rent Lost to Vacancy / Potential Gross Rent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Identity Access Review Timeliness** (I
 - **Canonical id:** `dea:metric-identity-access-review-timeliness`
 - **Name:** Identity Access Review Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IART
 
@@ -23,7 +23,7 @@ Access Reviews Completed On Time / Reviews Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

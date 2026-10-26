@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Change Response Time (Deep 
 - **Canonical id:** `dea:metric-regulatory-change-response-time-deep-dive`
 - **Name:** Regulatory Change Response Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCRT
 
@@ -23,8 +23,8 @@ Days from Regulation Publication to Impact Assessment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

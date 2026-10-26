@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Penetration Test Finding Closure Rate*
 - **Canonical id:** `dea:metric-penetration-test-finding-closure-rate`
 - **Name:** Penetration Test Finding Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTFCR
 
@@ -23,7 +23,7 @@ Pentest Findings Remediated / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Ticket Yield per Seat (Deep Di
 - **Canonical id:** `dea:metric-average-ticket-yield-per-seat-deep-dive`
 - **Name:** Average Ticket Yield per Seat (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATYS-D
 

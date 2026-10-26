@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Breaking Change Rate** (APBCR) in 
 - **Canonical id:** `dea:metric-api-breaking-change-rate`
 - **Name:** API Breaking Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APBCR
 

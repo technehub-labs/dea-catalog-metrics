@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Ratio (Statement Analy
 - **Canonical id:** `dea:metric-working-capital-ratio-statement-analysis`
 - **Name:** Working Capital Ratio (Statement Analysis)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCRDD
 
@@ -27,7 +27,7 @@ Net Working Capital / Total Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

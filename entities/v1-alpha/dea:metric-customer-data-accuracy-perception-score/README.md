@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Data Accuracy Perception Scor
 - **Canonical id:** `dea:metric-customer-data-accuracy-perception-score`
 - **Name:** Customer Data Accuracy Perception Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDAP
 

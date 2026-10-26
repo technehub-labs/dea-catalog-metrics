@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attack Surface Reduction Rate** (ASRR-
 - **Canonical id:** `dea:metric-attack-surface-reduction-rate`
 - **Name:** Attack Surface Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASRR-DSO
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Complaint Rate (Wealth)** (CCR-
 - **Canonical id:** `dea:metric-client-complaint-rate-wealth`
 - **Name:** Client Complaint Rate (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-W
 
@@ -27,8 +27,8 @@ Complaints / 1,000 Client Relationships
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

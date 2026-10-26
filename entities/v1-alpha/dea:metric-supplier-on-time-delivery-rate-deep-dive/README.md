@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier On-time Delivery Rate (Deep D
 - **Canonical id:** `dea:metric-supplier-on-time-delivery-rate-deep-dive`
 - **Name:** Supplier On-time Delivery Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOTDR
 
@@ -23,7 +23,7 @@ Lines Delivered on Time / Order Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

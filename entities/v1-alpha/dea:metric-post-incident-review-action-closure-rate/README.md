@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Incident Review Action Closure Ra
 - **Canonical id:** `dea:metric-post-incident-review-action-closure-rate`
 - **Name:** Post-Incident Review Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRACR
 
@@ -27,7 +27,7 @@ SRE Action Items Closed by Due Date / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

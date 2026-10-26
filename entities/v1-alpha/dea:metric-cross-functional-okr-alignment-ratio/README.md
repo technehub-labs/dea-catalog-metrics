@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional OKR Alignment Ratio**
 - **Canonical id:** `dea:metric-cross-functional-okr-alignment-ratio`
 - **Name:** Cross-Functional OKR Alignment Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** XFOAR
 
@@ -27,7 +27,7 @@ Shared OKRs across Functions / Cross-Cutting Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

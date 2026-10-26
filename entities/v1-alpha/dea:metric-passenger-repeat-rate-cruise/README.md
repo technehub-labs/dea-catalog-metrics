@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Repeat Rate (Cruise)** (PRR-
 - **Canonical id:** `dea:metric-passenger-repeat-rate-cruise`
 - **Name:** Passenger Repeat Rate (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRR-C
 
@@ -27,7 +27,7 @@ Repeat Passengers / Passengers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

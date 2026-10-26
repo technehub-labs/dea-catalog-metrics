@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technology Currency Index** (TCI-SA) i
 - **Canonical id:** `dea:metric-technology-currency-index`
 - **Name:** Technology Currency Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCI-SA
 
@@ -27,7 +27,7 @@ Components on Supported Versions / Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

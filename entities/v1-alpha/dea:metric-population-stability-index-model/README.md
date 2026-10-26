@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Population Stability Index (Model)** (
 - **Canonical id:** `dea:metric-population-stability-index-model`
 - **Name:** Population Stability Index (Model)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSIM
 

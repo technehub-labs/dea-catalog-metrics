@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow Vendor Discovery Rate** (SVDR) 
 - **Canonical id:** `dea:metric-shadow-vendor-discovery-rate`
 - **Name:** Shadow Vendor Discovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVDR
 

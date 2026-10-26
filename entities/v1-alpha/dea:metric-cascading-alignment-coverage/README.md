@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cascading Alignment Coverage** (CAC-BS
 - **Canonical id:** `dea:metric-cascading-alignment-coverage`
 - **Name:** Cascading Alignment Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAC-BSC
 
@@ -27,7 +27,7 @@ Sub-Units with Cascaded Scorecards / Sub-Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

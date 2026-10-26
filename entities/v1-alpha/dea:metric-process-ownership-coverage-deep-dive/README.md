@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Ownership Coverage (Deep Dive)
 - **Canonical id:** `dea:metric-process-ownership-coverage-deep-dive`
 - **Name:** Process Ownership Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POCD
 
@@ -27,7 +27,7 @@ Value Streams with Named Process Owner / Value Streams
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

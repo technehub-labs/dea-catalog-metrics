@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Processing Time** (CPT-G) in the 
 - **Canonical id:** `dea:metric-case-processing-time`
 - **Name:** Case Processing Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPT-G
 
@@ -27,8 +27,8 @@ Days from Case Receipt to Case Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

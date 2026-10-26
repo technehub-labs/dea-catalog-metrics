@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Cycle Time in Warehouse** (OCT) 
 - **Canonical id:** `dea:metric-order-cycle-time-in-warehouse`
 - **Name:** Order Cycle Time in Warehouse
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCT
 
@@ -23,8 +23,8 @@ Hours from Order Release to Shipment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

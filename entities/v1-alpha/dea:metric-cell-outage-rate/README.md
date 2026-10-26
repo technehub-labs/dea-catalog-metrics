@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cell Outage Rate** (COR-N) in the Open
 - **Canonical id:** `dea:metric-cell-outage-rate`
 - **Name:** Cell Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COR-N
 
@@ -23,7 +23,7 @@ Cell Sites Out of Service / Total Cell Sites
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

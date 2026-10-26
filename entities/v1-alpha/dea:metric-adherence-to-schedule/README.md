@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adherence to Schedule** (SCH-AD) in th
 - **Canonical id:** `dea:metric-adherence-to-schedule`
 - **Name:** Adherence to Schedule
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCH-AD
 
@@ -23,7 +23,7 @@ Time Working as Scheduled / Scheduled Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

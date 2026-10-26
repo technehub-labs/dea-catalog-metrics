@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Suggestions per 100 Employees
 - **Canonical id:** `dea:metric-employee-suggestions-per-100-employees`
 - **Name:** Employee Suggestions per 100 Employees
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESP100
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Photolithography Overlay Accuracy** (P
 - **Canonical id:** `dea:metric-photolithography-overlay-accuracy`
 - **Name:** Photolithography Overlay Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLOA
 
@@ -23,7 +23,7 @@ Layer Alignment Errors within Tolerance / Layers Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

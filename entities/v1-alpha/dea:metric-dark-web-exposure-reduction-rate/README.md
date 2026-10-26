@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dark Web Exposure Reduction Rate** (DW
 - **Canonical id:** `dea:metric-dark-web-exposure-reduction-rate`
 - **Name:** Dark Web Exposure Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DWERR
 
@@ -23,7 +23,7 @@ Exposed Credential Posts Removed / Posts Discovered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

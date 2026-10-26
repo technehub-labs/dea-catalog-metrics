@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Cost per Decision** (GCPD) 
 - **Canonical id:** `dea:metric-governance-cost-per-decision`
 - **Name:** Governance Cost per Decision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GCPD
 

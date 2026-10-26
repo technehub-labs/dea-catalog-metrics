@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortgage Early Payment Default Rate** 
 - **Canonical id:** `dea:metric-mortgage-early-payment-default-rate`
 - **Name:** Mortgage Early Payment Default Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPD
 
@@ -27,7 +27,7 @@ Defaults within First Year / Loans Disbursed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

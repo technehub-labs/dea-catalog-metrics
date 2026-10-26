@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew Duty Time Compliance** (CDTC) in 
 - **Canonical id:** `dea:metric-crew-duty-time-compliance`
 - **Name:** Crew Duty Time Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDTC
 
@@ -23,7 +23,7 @@ Crew Rosters within Duty Limits / Rosters Checked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

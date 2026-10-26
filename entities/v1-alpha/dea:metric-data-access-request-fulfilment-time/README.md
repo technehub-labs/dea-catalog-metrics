@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Access Request Fulfilment Time** 
 - **Canonical id:** `dea:metric-data-access-request-fulfilment-time`
 - **Name:** Data Access Request Fulfilment Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DARFT
 
@@ -23,8 +23,8 @@ Days to Fulfil Approved Data Access Request
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Override Rate** (MOR-AI) in the 
 - **Canonical id:** `dea:metric-model-override-rate`
 - **Name:** Model Override Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOR-AI
 
@@ -23,7 +23,7 @@ Human Overrides of Model Output / Model Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

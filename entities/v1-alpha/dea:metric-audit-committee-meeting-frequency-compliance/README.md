@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Committee Meeting Frequency Comp
 - **Canonical id:** `dea:metric-audit-committee-meeting-frequency-compliance`
 - **Name:** Audit Committee Meeting Frequency Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACMF
 
@@ -27,7 +27,7 @@ Audit Committee Meetings Held / Required Meetings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

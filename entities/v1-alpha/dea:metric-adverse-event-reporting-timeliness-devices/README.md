@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Event Reporting Timeliness (De
 - **Canonical id:** `dea:metric-adverse-event-reporting-timeliness-devices`
 - **Name:** Adverse Event Reporting Timeliness (Devices)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AERT-D
 
@@ -27,7 +27,7 @@ Reports Filed within Deadline / Reports Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

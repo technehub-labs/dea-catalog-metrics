@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Location Ramp Time** (NLRT) in the
 - **Canonical id:** `dea:metric-new-location-ramp-time`
 - **Name:** New Location Ramp Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NLRT
 
@@ -27,8 +27,8 @@ Months from Opening to Break-even Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

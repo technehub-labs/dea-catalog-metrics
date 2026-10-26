@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Testability of Requirements Rate** (TO
 - **Canonical id:** `dea:metric-testability-of-requirements-rate`
 - **Name:** Testability of Requirements Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TORR-RE
 
@@ -23,7 +23,7 @@ Requirements Written as Testable Statements / Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

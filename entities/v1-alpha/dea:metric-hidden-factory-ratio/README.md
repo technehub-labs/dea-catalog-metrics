@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hidden Factory Ratio** (HFR-SS) in the
 - **Canonical id:** `dea:metric-hidden-factory-ratio`
 - **Name:** Hidden Factory Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HFR-SS
 
@@ -27,7 +27,7 @@ Capacity Consumed by Rework and Repair / Total Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

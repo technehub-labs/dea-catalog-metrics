@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Card Publication Rate** (MCPR-AI
 - **Canonical id:** `dea:metric-model-card-publication-rate`
 - **Name:** Model Card Publication Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCPR-AI
 
@@ -23,7 +23,7 @@ Models with Published Model Cards / Models in Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

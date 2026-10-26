@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recurring Findings Rate** (RFR) in the
 - **Canonical id:** `dea:metric-recurring-findings-rate`
 - **Name:** Recurring Findings Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFR
 
@@ -27,7 +27,7 @@ Findings Repeated from Prior Cycle / Total Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

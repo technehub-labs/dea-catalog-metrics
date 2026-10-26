@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Rate - Agents (Deep Dive)** 
 - **Canonical id:** `dea:metric-attrition-rate-agents-deep-dive`
 - **Name:** Attrition Rate - Agents (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARR-D
 
@@ -27,7 +27,7 @@ Agents Leaving / Agents Employed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

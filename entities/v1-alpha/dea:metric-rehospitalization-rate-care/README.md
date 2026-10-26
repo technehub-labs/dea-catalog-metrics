@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rehospitalization Rate (Care)** (RHR) 
 - **Canonical id:** `dea:metric-rehospitalization-rate-care`
 - **Name:** Rehospitalization Rate (Care)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RHR
 
@@ -27,7 +27,7 @@ Rehospitalizations within 30 Days / Discharges
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Major Incident Declared Accuracy** (MI
 - **Canonical id:** `dea:metric-major-incident-declared-accuracy`
 - **Name:** Major Incident Declared Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIDA
 
@@ -23,7 +23,7 @@ Major Declarations Justified / Declarations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

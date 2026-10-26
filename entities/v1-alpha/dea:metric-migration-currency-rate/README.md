@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Migration Currency Rate** (MCRR) in th
 - **Canonical id:** `dea:metric-migration-currency-rate`
 - **Name:** Migration Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCRR
 
@@ -27,7 +27,7 @@ Record Formats Migrated from Obsolete Formats / Obsolete Formats Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

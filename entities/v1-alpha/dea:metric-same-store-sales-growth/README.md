@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Same-Store Sales Growth** (SSSG) in th
 - **Canonical id:** `dea:metric-same-store-sales-growth`
 - **Name:** Same-Store Sales Growth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSSG
 
@@ -27,7 +27,7 @@ Same-store sales growth measures revenue change at locations open at least a yea
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

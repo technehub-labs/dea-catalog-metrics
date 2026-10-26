@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Response Time to Online Reviews** (RTO
 - **Canonical id:** `dea:metric-response-time-to-online-reviews`
 - **Name:** Response Time to Online Reviews
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTOR
 
@@ -23,8 +23,8 @@ Hours to Respond to Guest Review
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

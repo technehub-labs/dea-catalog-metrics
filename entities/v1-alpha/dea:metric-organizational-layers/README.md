@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organizational Layers** (ORGL) in the 
 - **Canonical id:** `dea:metric-organizational-layers`
 - **Name:** Organizational Layers
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORGL
 

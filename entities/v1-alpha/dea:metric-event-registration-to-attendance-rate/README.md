@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Registration-to-Attendance Rate*
 - **Canonical id:** `dea:metric-event-registration-to-attendance-rate`
 - **Name:** Event Registration-to-Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERAR
 
@@ -23,7 +23,7 @@ Attendees / Registrations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

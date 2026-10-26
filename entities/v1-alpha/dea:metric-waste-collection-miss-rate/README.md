@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Collection Miss Rate** (WCMR) in
 - **Canonical id:** `dea:metric-waste-collection-miss-rate`
 - **Name:** Waste Collection Miss Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCMR
 
@@ -23,7 +23,7 @@ Missed Collections / Scheduled Collections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

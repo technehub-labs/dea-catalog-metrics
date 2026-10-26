@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Speed of Answer** (ASA) in the
 - **Canonical id:** `dea:metric-average-speed-of-answer`
 - **Name:** Average Speed of Answer
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASA
 
@@ -23,8 +23,8 @@ Total Answer Delay / Calls Answered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

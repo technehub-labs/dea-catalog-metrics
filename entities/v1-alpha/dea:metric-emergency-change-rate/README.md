@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Change Rate** (ECR-T) in the
 - **Canonical id:** `dea:metric-emergency-change-rate`
 - **Name:** Emergency Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECR-T
 
@@ -27,7 +27,7 @@ Emergency Changes / Total Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

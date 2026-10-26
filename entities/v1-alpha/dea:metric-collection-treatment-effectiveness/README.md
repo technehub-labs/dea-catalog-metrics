@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Treatment Effectiveness** (
 - **Canonical id:** `dea:metric-collection-treatment-effectiveness`
 - **Name:** Collection Treatment Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTE-CC
 
@@ -23,7 +23,7 @@ Cured Accounts per Treatment Strategy / Treated Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

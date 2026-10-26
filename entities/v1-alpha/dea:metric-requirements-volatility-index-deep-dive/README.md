@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Volatility Index (Deep Di
 - **Canonical id:** `dea:metric-requirements-volatility-index-deep-dive`
 - **Name:** Requirements Volatility Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RVI-D
 
@@ -23,7 +23,7 @@ Changed Requirements after Freeze / Baseline Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

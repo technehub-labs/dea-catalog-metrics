@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Incidents in Automated Cells** 
 - **Canonical id:** `dea:metric-safety-incidents-in-automated-cells`
 - **Name:** Safety Incidents in Automated Cells
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIAC
 

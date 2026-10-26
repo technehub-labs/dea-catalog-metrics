@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rack Power Density** (RPD) in the Open
 - **Canonical id:** `dea:metric-rack-power-density`
 - **Name:** Rack Power Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPD
 

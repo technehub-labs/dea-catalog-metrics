@@ -7,7 +7,7 @@ Candidate Performance Metric record for **De-Icing Operation Cycle Time** (DIO) 
 - **Canonical id:** `dea:metric-de-icing-operation-cycle-time`
 - **Name:** De-Icing Operation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIO
 
@@ -23,8 +23,8 @@ Minutes to De-Ice Aircraft
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

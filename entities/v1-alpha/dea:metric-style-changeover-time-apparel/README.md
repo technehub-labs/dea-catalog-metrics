@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Style Changeover Time (Apparel)** (SCT
 - **Canonical id:** `dea:metric-style-changeover-time-apparel`
 - **Name:** Style Changeover Time (Apparel)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCT-A
 
@@ -23,8 +23,8 @@ Minutes to Change Production Line between Styles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Route Efficiency Index** (REI-F) in th
 - **Canonical id:** `dea:metric-route-efficiency-index`
 - **Name:** Route Efficiency Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** REI-F
 

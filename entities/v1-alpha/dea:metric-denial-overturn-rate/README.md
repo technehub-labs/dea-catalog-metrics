@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Denial Overturn Rate** (DOR) in the Op
 - **Canonical id:** `dea:metric-denial-overturn-rate`
 - **Name:** Denial Overturn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DOR
 
@@ -27,7 +27,7 @@ Denials Reversed on Appeal / Denials Appealed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

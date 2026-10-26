@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Onboarding Self-Service Rate**
 - **Canonical id:** `dea:metric-partner-onboarding-self-service-rate`
 - **Name:** Partner Onboarding Self-Service Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POSSR
 
@@ -23,7 +23,7 @@ Onboarding Steps Completed without Human Touch / Steps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

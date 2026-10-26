@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Setup Time** (SET) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-setup-time`
 - **Name:** Setup Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SET
 
@@ -23,8 +23,8 @@ Time to Prepare Equipment for Production Run
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

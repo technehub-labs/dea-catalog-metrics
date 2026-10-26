@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Initiative Completion** (SIC
 - **Canonical id:** `dea:metric-strategic-initiative-completion`
 - **Name:** Strategic Initiative Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIC
 
@@ -27,7 +27,7 @@ Initiatives Completed / Initiatives Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broadcast Reach** (BCR) in the OpenDEA
 - **Canonical id:** `dea:metric-broadcast-reach`
 - **Name:** Broadcast Reach
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCR
 

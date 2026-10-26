@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finished Goods Availability** (FGA) in
 - **Canonical id:** `dea:metric-finished-goods-availability`
 - **Name:** Finished Goods Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FGA
 
@@ -27,7 +27,7 @@ Demand Lines Fulfilled from Stock / Demand Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

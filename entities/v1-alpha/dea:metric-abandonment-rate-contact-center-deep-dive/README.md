@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abandonment Rate (Contact Center Deep 
 - **Canonical id:** `dea:metric-abandonment-rate-contact-center-deep-dive`
 - **Name:** Abandonment Rate (Contact Center Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABDD
 
@@ -23,7 +23,7 @@ Callers Abandoning before Answer / Calls Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bookings to Target** (B2T) in the Open
 - **Canonical id:** `dea:metric-bookings-to-target`
 - **Name:** Bookings to Target
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** B2T
 
@@ -27,7 +27,7 @@ Total Bookings / Target Bookings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

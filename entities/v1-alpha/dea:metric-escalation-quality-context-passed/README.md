@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Quality (Context Passed)** 
 - **Canonical id:** `dea:metric-escalation-quality-context-passed`
 - **Name:** Escalation Quality (Context Passed)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EQCP
 
@@ -23,7 +23,7 @@ Escalations with Complete Context / Escalations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

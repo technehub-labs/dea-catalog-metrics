@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility SLA Attainment (Deep Dive)** 
 - **Canonical id:** `dea:metric-facility-sla-attainment-deep-dive`
 - **Name:** Facility SLA Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSLA-D
 
@@ -23,7 +23,7 @@ SLAs Met / SLAs Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

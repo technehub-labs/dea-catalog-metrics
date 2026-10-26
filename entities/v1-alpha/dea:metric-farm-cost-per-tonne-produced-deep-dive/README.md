@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farm Cost per Tonne Produced (Deep Div
 - **Canonical id:** `dea:metric-farm-cost-per-tonne-produced-deep-dive`
 - **Name:** Farm Cost per Tonne Produced (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCPT-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff-to-Guest Ratio (Deep Dive)** (SG
 - **Canonical id:** `dea:metric-staff-to-guest-ratio-deep-dive`
 - **Name:** Staff-to-Guest Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGR-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product-Market Fit Survey Score** (PMF
 - **Canonical id:** `dea:metric-product-market-fit-survey-score`
 - **Name:** Product-Market Fit Survey Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMFS
 
@@ -27,7 +27,7 @@ Percent of Users Very Disappointed if Product Removed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

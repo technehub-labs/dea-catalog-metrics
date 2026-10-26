@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Attrition Rate - SOC** (AAR-SO
 - **Canonical id:** `dea:metric-analyst-attrition-rate-soc`
 - **Name:** Analyst Attrition Rate - SOC
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAR-SOC
 
@@ -27,7 +27,7 @@ Analysts Leaving / Analysts Employed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

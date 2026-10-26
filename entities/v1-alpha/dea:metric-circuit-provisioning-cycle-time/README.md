@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Circuit Provisioning Cycle Time** (CPC
 - **Canonical id:** `dea:metric-circuit-provisioning-cycle-time`
 - **Name:** Circuit Provisioning Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCT
 
@@ -23,8 +23,8 @@ Days from Order to Circuit Acceptance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

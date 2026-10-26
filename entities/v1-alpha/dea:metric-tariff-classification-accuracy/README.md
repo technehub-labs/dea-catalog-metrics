@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tariff Classification Accuracy** (TCA)
 - **Canonical id:** `dea:metric-tariff-classification-accuracy`
 - **Name:** Tariff Classification Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCA
 
@@ -23,7 +23,7 @@ Lines Correctly Classified / Lines Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

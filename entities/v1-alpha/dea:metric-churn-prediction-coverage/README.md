@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Churn Prediction Coverage** (CPC-S) in
 - **Canonical id:** `dea:metric-churn-prediction-coverage`
 - **Name:** Churn Prediction Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPC-S
 
@@ -27,7 +27,7 @@ At-Risk Accounts with Active Save Plan / At-Risk Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

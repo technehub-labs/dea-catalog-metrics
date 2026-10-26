@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Greenhouse Gas Scope 2 Emissions** (GH
 - **Canonical id:** `dea:metric-greenhouse-gas-scope-2-emissions`
 - **Name:** Greenhouse Gas Scope 2 Emissions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GHG2
 
@@ -27,8 +27,8 @@ Indirect Emissions from Purchased Energy
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes CO2 equivalent (tCO2e)
 
 ## Classification

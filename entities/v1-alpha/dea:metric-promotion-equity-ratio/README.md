@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Equity Ratio** (PER-DEI) in 
 - **Canonical id:** `dea:metric-promotion-equity-ratio`
 - **Name:** Promotion Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PER-DEI
 

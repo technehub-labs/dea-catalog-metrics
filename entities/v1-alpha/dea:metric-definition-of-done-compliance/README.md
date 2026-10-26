@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Definition of Done Compliance** (DODC-
 - **Canonical id:** `dea:metric-definition-of-done-compliance`
 - **Name:** Definition of Done Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DODC-AG
 
@@ -23,7 +23,7 @@ Stories Meeting Full Definition of Done at Close / Stories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

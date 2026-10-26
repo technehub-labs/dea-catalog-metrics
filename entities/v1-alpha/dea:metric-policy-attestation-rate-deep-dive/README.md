@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Attestation Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-policy-attestation-rate-deep-dive`
 - **Name:** Policy Attestation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAR-C
 
@@ -23,7 +23,7 @@ Staff Attesting to Policy Updates / Staff in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

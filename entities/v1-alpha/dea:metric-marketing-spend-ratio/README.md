@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Spend Ratio** (MSR) in the O
 - **Canonical id:** `dea:metric-marketing-spend-ratio`
 - **Name:** Marketing Spend Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSR
 
@@ -27,7 +27,7 @@ Marketing Spend / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

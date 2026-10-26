@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payer Conversion Rate** (PCR-G) in the
 - **Canonical id:** `dea:metric-payer-conversion-rate`
 - **Name:** Payer Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCR-G
 
@@ -27,7 +27,7 @@ Paying Users / Active Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

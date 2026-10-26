@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Predictive Maintenance Coverage** (PDM
 - **Canonical id:** `dea:metric-predictive-maintenance-coverage`
 - **Name:** Predictive Maintenance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDMC
 
@@ -27,7 +27,7 @@ Critical Assets with Condition Monitoring / Critical Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

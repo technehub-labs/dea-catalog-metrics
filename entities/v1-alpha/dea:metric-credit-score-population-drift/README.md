@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credit Score Population Drift** (CSPD)
 - **Canonical id:** `dea:metric-credit-score-population-drift`
 - **Name:** Credit Score Population Drift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSPD
 

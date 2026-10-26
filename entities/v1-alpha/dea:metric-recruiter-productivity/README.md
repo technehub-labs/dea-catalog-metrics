@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recruiter Productivity** (RPR-S) in th
 - **Canonical id:** `dea:metric-recruiter-productivity`
 - **Name:** Recruiter Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPR-S
 

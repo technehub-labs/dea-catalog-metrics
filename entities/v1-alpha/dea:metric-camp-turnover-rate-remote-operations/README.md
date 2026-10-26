@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Camp Turnover Rate (Remote Operations)
 - **Canonical id:** `dea:metric-camp-turnover-rate-remote-operations`
 - **Name:** Camp Turnover Rate (Remote Operations)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTR-M
 
@@ -23,7 +23,7 @@ Workers Exiting Early / Workers Deployed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

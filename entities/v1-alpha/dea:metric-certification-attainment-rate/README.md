@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certification Attainment Rate** (CAR-L
 - **Canonical id:** `dea:metric-certification-attainment-rate`
 - **Name:** Certification Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAR-L
 
@@ -27,7 +27,7 @@ Employees Earning Certifications / Employees Enrolled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

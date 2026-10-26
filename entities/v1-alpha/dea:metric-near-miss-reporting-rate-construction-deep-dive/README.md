@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Near Miss Reporting Rate (Construction
 - **Canonical id:** `dea:metric-near-miss-reporting-rate-construction-deep-dive`
 - **Name:** Near Miss Reporting Rate (Construction Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NMRR-D
 
@@ -23,8 +23,8 @@ Near Misses Reported per 200,000 Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

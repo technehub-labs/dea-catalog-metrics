@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Accessibility Score (Deep Dive
 - **Canonical id:** `dea:metric-service-accessibility-score-deep-dive`
 - **Name:** Service Accessibility Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAS-D
 

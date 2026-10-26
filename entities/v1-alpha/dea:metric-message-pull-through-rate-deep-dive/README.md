@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Message Pull-Through Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-message-pull-through-rate-deep-dive`
 - **Name:** Message Pull-Through Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPTR
 
@@ -23,7 +23,7 @@ Articles Containing Key Messages / Articles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

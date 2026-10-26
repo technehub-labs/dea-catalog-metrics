@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Buyer-Supplier Clause Risk Score** (BS
 - **Canonical id:** `dea:metric-buyer-supplier-clause-risk-score`
 - **Name:** Buyer-Supplier Clause Risk Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSCRS
 

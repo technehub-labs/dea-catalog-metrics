@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Effectiveness Index** (MEI-GOV
 - **Canonical id:** `dea:metric-meeting-effectiveness-index`
 - **Name:** Meeting Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MEI-GOV
 

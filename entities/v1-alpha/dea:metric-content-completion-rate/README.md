@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Completion Rate** (CCR-M) in t
 - **Canonical id:** `dea:metric-content-completion-rate`
 - **Name:** Content Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-M
 
@@ -27,7 +27,7 @@ Titles Completed by Viewers / Titles Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

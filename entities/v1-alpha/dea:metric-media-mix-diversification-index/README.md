@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Mix Diversification Index** (MMD
 - **Canonical id:** `dea:metric-media-mix-diversification-index`
 - **Name:** Media Mix Diversification Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MMDI
 

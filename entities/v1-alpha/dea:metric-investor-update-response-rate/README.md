@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investor Update Response Rate** (IURR)
 - **Canonical id:** `dea:metric-investor-update-response-rate`
 - **Name:** Investor Update Response Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IURR
 
@@ -23,7 +23,7 @@ Investors Responding to Updates / Updates Sent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

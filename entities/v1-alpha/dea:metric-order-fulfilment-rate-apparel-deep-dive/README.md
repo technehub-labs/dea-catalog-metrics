@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fulfilment Rate - Apparel (Deep 
 - **Canonical id:** `dea:metric-order-fulfilment-rate-apparel-deep-dive`
 - **Name:** Order Fulfilment Rate - Apparel (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OFR-D2
 
@@ -27,7 +27,7 @@ Shipped Complete and On Time / Ordered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

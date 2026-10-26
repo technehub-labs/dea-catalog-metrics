@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days in Accounts Receivable** (DAR) in
 - **Canonical id:** `dea:metric-days-in-accounts-receivable`
 - **Name:** Days in Accounts Receivable
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAR
 
@@ -27,8 +27,8 @@ Total Accounts Receivable / Average Daily Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

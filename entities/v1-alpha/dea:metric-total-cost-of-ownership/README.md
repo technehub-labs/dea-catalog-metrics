@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Cost of Ownership** (TCO) in the
 - **Canonical id:** `dea:metric-total-cost-of-ownership`
 - **Name:** Total Cost of Ownership
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCO
 

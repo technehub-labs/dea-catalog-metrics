@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SLI Coverage Rate** (SLIC) in the Open
 - **Canonical id:** `dea:metric-sli-coverage-rate`
 - **Name:** SLI Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLIC
 
@@ -27,7 +27,7 @@ Critical Services with Defined SLIs / Critical Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

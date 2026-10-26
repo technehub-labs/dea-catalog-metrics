@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Health Ratio** (BHR-S) in the 
 - **Canonical id:** `dea:metric-backlog-health-ratio`
 - **Name:** Backlog Health Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BHR-S
 
@@ -23,7 +23,7 @@ Active Items Completed per Sprint / Committed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

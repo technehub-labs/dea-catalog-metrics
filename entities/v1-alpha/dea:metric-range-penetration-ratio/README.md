@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Range Penetration Ratio** (RPR-PAY) in
 - **Canonical id:** `dea:metric-range-penetration-ratio`
 - **Name:** Range Penetration Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPR-PAY
 
@@ -23,7 +23,7 @@ Range Penetration Ratio (RPR-PAY) measures conformance to standards, plans, or o
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution (Utilities)**
 - **Canonical id:** `dea:metric-first-contact-resolution-utilities`
 - **Name:** First Contact Resolution (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCR-U
 
@@ -23,7 +23,7 @@ Requests Resolved on First Contact / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

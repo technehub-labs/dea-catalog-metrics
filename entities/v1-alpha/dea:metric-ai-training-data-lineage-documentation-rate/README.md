@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Training Data Lineage Documentation
 - **Canonical id:** `dea:metric-ai-training-data-lineage-documentation-rate`
 - **Name:** AI Training Data Lineage Documentation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AITDL
 
@@ -27,7 +27,7 @@ Datasets with Documented Lineage / Datasets Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

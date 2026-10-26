@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Acceptance Rate (Deep Dive)** (O
 - **Canonical id:** `dea:metric-offer-acceptance-rate-deep-dive`
 - **Name:** Offer Acceptance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OARDD
 
@@ -23,7 +23,7 @@ Offers Accepted / Offers Extended
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

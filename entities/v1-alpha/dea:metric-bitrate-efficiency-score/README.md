@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bitrate Efficiency Score** (BES) in th
 - **Canonical id:** `dea:metric-bitrate-efficiency-score`
 - **Name:** Bitrate Efficiency Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BES
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prompt Version Control Adoption** (PVC
 - **Canonical id:** `dea:metric-prompt-version-control-adoption`
 - **Name:** Prompt Version Control Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVCA-LLM
 
@@ -23,7 +23,7 @@ Prompts under Version Control / Prompts in Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

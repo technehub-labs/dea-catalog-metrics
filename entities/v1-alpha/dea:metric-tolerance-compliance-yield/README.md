@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tolerance Compliance Yield** (TCY) in 
 - **Canonical id:** `dea:metric-tolerance-compliance-yield`
 - **Name:** Tolerance Compliance Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCY
 
@@ -23,7 +23,7 @@ Dimensions within Tolerance / Dimensions Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

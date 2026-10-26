@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Patch Compliance** (CPC) in t
 - **Canonical id:** `dea:metric-critical-patch-compliance`
 - **Name:** Critical Patch Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPC
 
@@ -27,7 +27,7 @@ Critical Patches Applied within SLA / Critical Patches Released
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

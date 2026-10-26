@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Auto-Remediation Execution Rate** (ARE
 - **Canonical id:** `dea:metric-auto-remediation-execution-rate`
 - **Name:** Auto-Remediation Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARER-NOC
 
@@ -27,7 +27,7 @@ Alerts Auto-Remediated without Human Touch / Auto-Eligible Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Fill Time (Transfers)** (IFT-
 - **Canonical id:** `dea:metric-internal-fill-time-transfers`
 - **Name:** Internal Fill Time (Transfers)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFT-WF
 
@@ -23,8 +23,8 @@ Days to Fill Role via Internal Move
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

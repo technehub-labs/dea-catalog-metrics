@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advisor Productivity** (ADPR) in the O
 - **Canonical id:** `dea:metric-advisor-productivity`
 - **Name:** Advisor Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADPR
 

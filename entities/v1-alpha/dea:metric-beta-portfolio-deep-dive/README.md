@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beta (Portfolio) (Deep Dive)** (BTPDD)
 - **Canonical id:** `dea:metric-beta-portfolio-deep-dive`
 - **Name:** Beta (Portfolio) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BTPDD
 

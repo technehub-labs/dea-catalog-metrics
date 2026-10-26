@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Center Capacity Headroom** (DCCH)
 - **Canonical id:** `dea:metric-data-center-capacity-headroom`
 - **Name:** Data Center Capacity Headroom
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCCH
 
@@ -27,7 +27,7 @@ Data center capacity headroom measures the reserve between current utilization a
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

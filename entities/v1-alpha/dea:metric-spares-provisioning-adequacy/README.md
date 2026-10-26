@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Provisioning Adequacy** (SPA-RM
 - **Canonical id:** `dea:metric-spares-provisioning-adequacy`
 - **Name:** Spares Provisioning Adequacy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPA-RM
 
@@ -23,7 +23,7 @@ Demand Met from Stock / Total Spares Demand
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

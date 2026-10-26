@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsorship Revenue Growth** (SRG-S) i
 - **Canonical id:** `dea:metric-sponsorship-revenue-growth`
 - **Name:** Sponsorship Revenue Growth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRG-S
 
@@ -27,7 +27,7 @@ Sponsorship revenue growth measures the expansion of partnership income - jersey
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

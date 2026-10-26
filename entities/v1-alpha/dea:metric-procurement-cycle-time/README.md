@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Procurement Cycle Time** (PCT-P) in th
 - **Canonical id:** `dea:metric-procurement-cycle-time`
 - **Name:** Procurement Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCT-P
 
@@ -23,8 +23,8 @@ Days from Requisition to Purchase Order Issue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

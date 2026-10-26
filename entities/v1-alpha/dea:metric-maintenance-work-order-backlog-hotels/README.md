@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Work Order Backlog (Hotels
 - **Canonical id:** `dea:metric-maintenance-work-order-backlog-hotels`
 - **Name:** Maintenance Work Order Backlog (Hotels)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWOB
 

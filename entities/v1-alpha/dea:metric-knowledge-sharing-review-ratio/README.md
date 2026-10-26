@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Sharing Review Ratio** (KSR)
 - **Canonical id:** `dea:metric-knowledge-sharing-review-ratio`
 - **Name:** Knowledge Sharing Review Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KSR
 
@@ -23,7 +23,7 @@ Cross-Team Reviews / Total Reviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

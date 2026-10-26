@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Medication Review Completion**
 - **Canonical id:** `dea:metric-patient-medication-review-completion`
 - **Name:** Patient Medication Review Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMRC
 
@@ -23,7 +23,7 @@ Completed Medication Reviews / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

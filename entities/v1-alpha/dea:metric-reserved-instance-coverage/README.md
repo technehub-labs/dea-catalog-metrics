@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserved Instance Coverage** (RIC) in 
 - **Canonical id:** `dea:metric-reserved-instance-coverage`
 - **Name:** Reserved Instance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RIC
 
@@ -27,7 +27,7 @@ Workloads on Reserved Capacity / Total Workloads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

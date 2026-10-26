@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Productivity (Deep Dive)** (WP-D
 - **Canonical id:** `dea:metric-water-productivity-deep-dive`
 - **Name:** Water Productivity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WP-D
 

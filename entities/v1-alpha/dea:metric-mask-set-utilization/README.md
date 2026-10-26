@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mask Set Utilization** (MSU-S) in the 
 - **Canonical id:** `dea:metric-mask-set-utilization`
 - **Name:** Mask Set Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSU-S
 
@@ -23,7 +23,7 @@ Active Mask Sets / Mask Sets in Inventory
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

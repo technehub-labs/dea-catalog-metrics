@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Consistency Rate** (DCONR) in the
 - **Canonical id:** `dea:metric-data-consistency-rate`
 - **Name:** Data Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCONR
 
@@ -23,7 +23,7 @@ Values Consistent across Systems / Cross-System Pairs Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

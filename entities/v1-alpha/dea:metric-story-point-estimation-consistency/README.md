@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Story Point Estimation Consistency** (
 - **Canonical id:** `dea:metric-story-point-estimation-consistency`
 - **Name:** Story Point Estimation Consistency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPEC-AG
 
@@ -23,7 +23,7 @@ Estimation Variance across Similar Stories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

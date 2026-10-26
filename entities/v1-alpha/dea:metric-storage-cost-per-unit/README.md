@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Storage Cost per Unit** (SCPU) in the 
 - **Canonical id:** `dea:metric-storage-cost-per-unit`
 - **Name:** Storage Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPU
 

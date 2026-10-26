@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Request Cycle Time** (CRCT) in 
 - **Canonical id:** `dea:metric-change-request-cycle-time`
 - **Name:** Change Request Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRCT
 
@@ -23,8 +23,8 @@ Days from Change Request to Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

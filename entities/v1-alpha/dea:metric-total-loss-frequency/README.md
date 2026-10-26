@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Loss Frequency** (TLF) in the Op
 - **Canonical id:** `dea:metric-total-loss-frequency`
 - **Name:** Total Loss Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLF
 
@@ -23,7 +23,7 @@ Total Loss Settlements / Claims Settled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

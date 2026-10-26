@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimate Accuracy - Cost** (EAC-PM) in
 - **Canonical id:** `dea:metric-estimate-accuracy-cost`
 - **Name:** Estimate Accuracy - Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EAC-PM
 

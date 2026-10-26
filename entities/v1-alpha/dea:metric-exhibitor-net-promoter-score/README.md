@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exhibitor Net Promoter Score** (XNPS) 
 - **Canonical id:** `dea:metric-exhibitor-net-promoter-score`
 - **Name:** Exhibitor Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** XNPS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Pipeline Readiness** (LPR) 
 - **Canonical id:** `dea:metric-leadership-pipeline-readiness`
 - **Name:** Leadership Pipeline Readiness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPR
 
@@ -27,7 +27,7 @@ Leadership Roles with Ready Internal Candidates / Leadership Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

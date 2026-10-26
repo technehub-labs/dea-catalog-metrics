@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Intent Recognition Accuracy** (IRA) in
 - **Canonical id:** `dea:metric-intent-recognition-accuracy`
 - **Name:** Intent Recognition Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRA
 
@@ -23,7 +23,7 @@ Correctly Classified Utterances / Utterances
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

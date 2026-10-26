@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attribution Residual** (ATTR) in the O
 - **Canonical id:** `dea:metric-attribution-residual`
 - **Name:** Attribution Residual
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 
@@ -23,7 +23,7 @@ Unexplained Return after Factor Attribution
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

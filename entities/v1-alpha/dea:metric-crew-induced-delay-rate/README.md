@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew-Induced Delay Rate** (CIDR-AT) in
 - **Canonical id:** `dea:metric-crew-induced-delay-rate`
 - **Name:** Crew-Induced Delay Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIDR-AT
 
@@ -23,7 +23,7 @@ Delays Attributed to Crew Availability / Departure Delays
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

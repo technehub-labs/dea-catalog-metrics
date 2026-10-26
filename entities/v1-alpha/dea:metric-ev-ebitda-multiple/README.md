@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EV/EBITDA Multiple** (EVEBITDA) in the
 - **Canonical id:** `dea:metric-ev-ebitda-multiple`
 - **Name:** EV/EBITDA Multiple
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVEBITDA
 

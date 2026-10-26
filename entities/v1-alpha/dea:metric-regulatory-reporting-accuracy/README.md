@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Reporting Accuracy** (RRA-R
 - **Canonical id:** `dea:metric-regulatory-reporting-accuracy`
 - **Name:** Regulatory Reporting Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRA-R
 
@@ -27,7 +27,7 @@ Reports Accepted without Amendment / Reports Filed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

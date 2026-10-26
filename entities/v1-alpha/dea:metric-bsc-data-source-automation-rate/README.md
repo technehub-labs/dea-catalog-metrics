@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Data Source Automation Rate** (BSA
 - **Canonical id:** `dea:metric-bsc-data-source-automation-rate`
 - **Name:** BSC Data Source Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSAR
 
@@ -23,7 +23,7 @@ Automated Data Feeds / Measure Feeds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

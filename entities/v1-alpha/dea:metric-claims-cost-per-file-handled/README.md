@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Cost per File Handled** (CCPF) 
 - **Canonical id:** `dea:metric-claims-cost-per-file-handled`
 - **Name:** Claims Cost per File Handled
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCPF
 

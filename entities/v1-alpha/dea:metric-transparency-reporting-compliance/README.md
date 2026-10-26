@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transparency Reporting Compliance** (T
 - **Canonical id:** `dea:metric-transparency-reporting-compliance`
 - **Name:** Transparency Reporting Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TRC
 
@@ -23,7 +23,7 @@ Disclosures Published on Schedule / Disclosures Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Satisfaction with Audit** 
 - **Canonical id:** `dea:metric-stakeholder-satisfaction-with-audit`
 - **Name:** Stakeholder Satisfaction with Audit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSA
 
@@ -27,7 +27,7 @@ Satisfied Audit Client Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

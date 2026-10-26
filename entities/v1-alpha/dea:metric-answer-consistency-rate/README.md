@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Answer Consistency Rate** (ACR-LLM) in
 - **Canonical id:** `dea:metric-answer-consistency-rate`
 - **Name:** Answer Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-LLM
 
@@ -23,7 +23,7 @@ Identical Prompts Yielding Semantically Consistent Answers / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

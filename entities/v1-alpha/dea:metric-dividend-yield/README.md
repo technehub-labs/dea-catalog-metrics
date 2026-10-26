@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dividend Yield** (DIVY) in the OpenDEA
 - **Canonical id:** `dea:metric-dividend-yield`
 - **Name:** Dividend Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIVY
 
@@ -27,7 +27,7 @@ Annual Dividend per Share / Share Price
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Response Activation Time** (CRA
 - **Canonical id:** `dea:metric-crisis-response-activation-time`
 - **Name:** Crisis Response Activation Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRAT
 
@@ -27,8 +27,8 @@ Minutes from Trigger to Crisis Team Activated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

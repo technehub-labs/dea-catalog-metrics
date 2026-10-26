@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skills Certification Coverage - Field 
 - **Canonical id:** `dea:metric-skills-certification-coverage-field-deep-dive`
 - **Name:** Skills Certification Coverage - Field (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCCF-D
 
@@ -27,7 +27,7 @@ Technicians Certified for Assigned Work / Technicians
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

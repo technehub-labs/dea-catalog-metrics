@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incoterms Risk Exposure Mix** (IREM) i
 - **Canonical id:** `dea:metric-incoterms-risk-exposure-mix`
 - **Name:** Incoterms Risk Exposure Mix
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IREM
 
@@ -23,7 +23,7 @@ Shipment Value by Incoterms Risk-Transfer Point
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

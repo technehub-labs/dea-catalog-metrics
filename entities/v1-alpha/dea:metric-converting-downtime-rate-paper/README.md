@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Converting Downtime Rate (Paper)** (CD
 - **Canonical id:** `dea:metric-converting-downtime-rate-paper`
 - **Name:** Converting Downtime Rate (Paper)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDR-P
 
@@ -23,7 +23,7 @@ Converting Downtime / Scheduled Converting Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

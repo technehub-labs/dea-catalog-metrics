@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Pruning Yield** (PPY) in the
 - **Canonical id:** `dea:metric-portfolio-pruning-yield`
 - **Name:** Portfolio Pruning Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPY
 
@@ -23,7 +23,7 @@ Low-Value Assets Divested or Abandoned / Flagged Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

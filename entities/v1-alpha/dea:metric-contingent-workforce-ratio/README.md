@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingent Workforce Ratio** (CWR) in 
 - **Canonical id:** `dea:metric-contingent-workforce-ratio`
 - **Name:** Contingent Workforce Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CWR
 
@@ -27,7 +27,7 @@ Contingent Workers / Total Workforce
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

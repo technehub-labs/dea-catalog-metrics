@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Management Data Completeness** (C
 - **Canonical id:** `dea:metric-case-management-data-completeness`
 - **Name:** Case Management Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMDC-SOC
 
@@ -23,7 +23,7 @@ Incident Records with Required Fields / Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

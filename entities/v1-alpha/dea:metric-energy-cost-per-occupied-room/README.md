@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost per Occupied Room** (ECOR)
 - **Canonical id:** `dea:metric-energy-cost-per-occupied-room`
 - **Name:** Energy Cost per Occupied Room
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECOR
 

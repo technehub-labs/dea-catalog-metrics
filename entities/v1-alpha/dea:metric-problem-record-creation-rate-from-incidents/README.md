@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Problem Record Creation Rate from Inci
 - **Canonical id:** `dea:metric-problem-record-creation-rate-from-incidents`
 - **Name:** Problem Record Creation Rate from Incidents
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCRI
 
@@ -27,7 +27,7 @@ Problems Opened from Incident Trends / Major or Repeat Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

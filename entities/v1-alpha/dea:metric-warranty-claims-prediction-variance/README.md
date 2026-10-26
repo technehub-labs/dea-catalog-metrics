@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Claims Prediction Variance** 
 - **Canonical id:** `dea:metric-warranty-claims-prediction-variance`
 - **Name:** Warranty Claims Prediction Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCPV
 
@@ -23,7 +23,7 @@ Predicted vs Actual Claims Rate Variance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

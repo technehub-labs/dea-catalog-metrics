@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Churn (Streaming)** (MCH) in t
 - **Canonical id:** `dea:metric-monthly-churn-streaming`
 - **Name:** Monthly Churn (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCH
 
@@ -27,7 +27,7 @@ Cancelled Subscriptions / Subscribers at Start of Month
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Approval SLA Compliance** (CA
 - **Canonical id:** `dea:metric-contract-approval-sla-compliance`
 - **Name:** Contract Approval SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CASLAC
 
@@ -23,7 +23,7 @@ Approvals Completed within SLA / Approvals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

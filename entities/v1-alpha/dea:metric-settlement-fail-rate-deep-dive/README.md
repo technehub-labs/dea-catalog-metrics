@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Settlement Fail Rate (Deep Dive)** (SE
 - **Canonical id:** `dea:metric-settlement-fail-rate-deep-dive`
 - **Name:** Settlement Fail Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SEFR-D
 
@@ -23,7 +23,7 @@ Failed Settlements / Settlements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

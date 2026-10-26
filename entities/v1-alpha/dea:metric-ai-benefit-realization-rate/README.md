@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Benefit Realization Rate** (AIBRR) 
 - **Canonical id:** `dea:metric-ai-benefit-realization-rate`
 - **Name:** AI Benefit Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AIBRR
 
@@ -27,7 +27,7 @@ Realized Benefits vs Business Case / Business Case
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

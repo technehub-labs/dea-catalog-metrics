@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Hours per Employee (Deep Dive
 - **Canonical id:** `dea:metric-learning-hours-per-employee-deep-dive`
 - **Name:** Learning Hours per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHPEDD
 
@@ -23,8 +23,8 @@ Total Learning Hours / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

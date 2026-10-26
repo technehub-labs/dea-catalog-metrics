@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Watchlist Triage Ratio** (WTR) in the 
 - **Canonical id:** `dea:metric-watchlist-triage-ratio`
 - **Name:** Watchlist Triage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WTR
 
@@ -23,7 +23,7 @@ Watchlist Items Promoted to Active Risk / Watchlist Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Adoption Depth (Deep Dive)** (
 - **Canonical id:** `dea:metric-feature-adoption-depth-deep-dive`
 - **Name:** Feature Adoption Depth (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FADD
 
@@ -23,7 +23,7 @@ Users Using Feature's Full Capability Set / Feature Adopters
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

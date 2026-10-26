@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Integration Count per Application** (I
 - **Canonical id:** `dea:metric-integration-count-per-application`
 - **Name:** Integration Count per Application
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICA
 

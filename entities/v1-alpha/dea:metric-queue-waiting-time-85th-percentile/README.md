@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Queue Waiting Time - 85th Percentile**
 - **Canonical id:** `dea:metric-queue-waiting-time-85th-percentile`
 - **Name:** Queue Waiting Time - 85th Percentile
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QW85
 
@@ -23,8 +23,8 @@ Minutes waited by 85th percentile customer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

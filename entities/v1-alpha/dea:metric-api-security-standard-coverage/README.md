@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Security Standard Coverage** (APIS
 - **Canonical id:** `dea:metric-api-security-standard-coverage`
 - **Name:** API Security Standard Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APISSC
 
@@ -23,7 +23,7 @@ Endpoints Enforcing Auth and Rate Policy / Endpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

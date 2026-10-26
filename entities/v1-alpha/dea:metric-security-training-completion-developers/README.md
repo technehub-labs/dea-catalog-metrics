@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Training Completion (Develope
 - **Canonical id:** `dea:metric-security-training-completion-developers`
 - **Name:** Security Training Completion (Developers)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STCD
 
@@ -23,7 +23,7 @@ Developers Completing Annual Security Training / Developers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Simulation Realism Score** (CSR
 - **Canonical id:** `dea:metric-crisis-simulation-realism-score`
 - **Name:** Crisis Simulation Realism Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSRS
 

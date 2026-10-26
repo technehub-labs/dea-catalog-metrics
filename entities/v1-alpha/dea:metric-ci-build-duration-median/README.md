@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Build Duration - Median** (CIBDM) i
 - **Canonical id:** `dea:metric-ci-build-duration-median`
 - **Name:** CI Build Duration - Median
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIBDM
 
@@ -23,8 +23,8 @@ Median Minutes per Pipeline Run
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

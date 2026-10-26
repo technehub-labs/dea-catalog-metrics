@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recycling Recovery Rate** (RCR-E) in t
 - **Canonical id:** `dea:metric-recycling-recovery-rate`
 - **Name:** Recycling Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCR-E
 
@@ -27,7 +27,7 @@ Materials Recovered for Recycling / Recyclable Materials Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

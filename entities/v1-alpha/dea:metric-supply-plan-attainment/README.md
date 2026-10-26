@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Plan Attainment** (SPA-S) in th
 - **Canonical id:** `dea:metric-supply-plan-attainment`
 - **Name:** Supply Plan Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPA-S
 
@@ -27,7 +27,7 @@ Volume Supplied per Plan / Volume Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

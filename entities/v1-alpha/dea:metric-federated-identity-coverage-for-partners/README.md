@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Federated Identity Coverage for Partne
 - **Canonical id:** `dea:metric-federated-identity-coverage-for-partners`
 - **Name:** Federated Identity Coverage for Partners
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FICP
 
@@ -23,7 +23,7 @@ Partner Identities Using Federation / Partner Identities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

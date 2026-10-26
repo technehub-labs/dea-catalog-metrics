@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Network Latency (Site-to-DC)** (M
 - **Canonical id:** `dea:metric-mean-network-latency-site-to-dc`
 - **Name:** Mean Network Latency (Site-to-DC)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MNLS
 
@@ -23,8 +23,8 @@ Average Round-Trip Time from Site to Data Center
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dependency Closure Timeliness** (DCT-P
 - **Canonical id:** `dea:metric-dependency-closure-timeliness`
 - **Name:** Dependency Closure Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCT-PM
 
@@ -27,7 +27,7 @@ Cross-Project Dependencies Resolved by Date / Dependencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

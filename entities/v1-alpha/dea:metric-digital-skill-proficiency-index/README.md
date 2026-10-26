@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Skill Proficiency Index** (DSP
 - **Canonical id:** `dea:metric-digital-skill-proficiency-index`
 - **Name:** Digital Skill Proficiency Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSPI-BSC
 

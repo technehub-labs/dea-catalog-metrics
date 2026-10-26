@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Innovation Revenue Share** (IRS) in th
 - **Canonical id:** `dea:metric-innovation-revenue-share`
 - **Name:** Innovation Revenue Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRS
 
@@ -27,7 +27,7 @@ Revenue from Products Launched in Last 3 Years / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

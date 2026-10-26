@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention Ratio (Earnings)** (RRE) in 
 - **Canonical id:** `dea:metric-retention-ratio-earnings`
 - **Name:** Retention Ratio (Earnings)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRE
 
@@ -27,7 +27,7 @@ Retained Earnings / Net Income
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

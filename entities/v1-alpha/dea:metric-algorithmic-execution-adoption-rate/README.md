@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Algorithmic Execution Adoption Rate** 
 - **Canonical id:** `dea:metric-algorithmic-execution-adoption-rate`
 - **Name:** Algorithmic Execution Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AEAR-T
 
@@ -23,7 +23,7 @@ Orders via Algos / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

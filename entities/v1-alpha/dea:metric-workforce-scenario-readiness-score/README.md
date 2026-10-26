@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Scenario Readiness Score** (
 - **Canonical id:** `dea:metric-workforce-scenario-readiness-score`
 - **Name:** Workforce Scenario Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WSRS
 

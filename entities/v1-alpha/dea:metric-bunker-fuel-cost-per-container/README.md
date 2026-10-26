@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bunker Fuel Cost per Container** (BFCC
 - **Canonical id:** `dea:metric-bunker-fuel-cost-per-container`
 - **Name:** Bunker Fuel Cost per Container
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BFCC
 

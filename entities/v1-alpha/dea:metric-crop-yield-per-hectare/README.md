@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crop Yield per Hectare** (CYH) in the 
 - **Canonical id:** `dea:metric-crop-yield-per-hectare`
 - **Name:** Crop Yield per Hectare
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CYH
 

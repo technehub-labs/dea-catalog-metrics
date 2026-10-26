@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Route Efficiency** (CRE) in
 - **Canonical id:** `dea:metric-collection-route-efficiency`
 - **Name:** Collection Route Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRE
 

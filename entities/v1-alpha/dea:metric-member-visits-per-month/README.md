@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Visits per Month** (MVM) in the
 - **Canonical id:** `dea:metric-member-visits-per-month`
 - **Name:** Member Visits per Month
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVM
 

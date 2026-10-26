@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disruption Readiness Confidence Score*
 - **Canonical id:** `dea:metric-disruption-readiness-confidence-score`
 - **Name:** Disruption Readiness Confidence Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCS-ER
 

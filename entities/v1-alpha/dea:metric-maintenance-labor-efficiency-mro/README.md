@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Labor Efficiency (MRO)** (
 - **Canonical id:** `dea:metric-maintenance-labor-efficiency-mro`
 - **Name:** Maintenance Labor Efficiency (MRO)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MLE
 

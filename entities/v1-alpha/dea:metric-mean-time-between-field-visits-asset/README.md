@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time between Field Visits - Asset
 - **Canonical id:** `dea:metric-mean-time-between-field-visits-asset`
 - **Name:** Mean Time between Field Visits - Asset
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTBFV
 
@@ -23,8 +23,8 @@ Days between Corrective Visits per Asset
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

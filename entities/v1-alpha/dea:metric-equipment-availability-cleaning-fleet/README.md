@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Availability (Cleaning Fleet
 - **Canonical id:** `dea:metric-equipment-availability-cleaning-fleet`
 - **Name:** Equipment Availability (Cleaning Fleet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EAF-C
 
@@ -23,7 +23,7 @@ Available Equipment Hours / Scheduled Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

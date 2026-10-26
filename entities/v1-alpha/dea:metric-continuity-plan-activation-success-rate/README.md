@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Plan Activation Success Rat
 - **Canonical id:** `dea:metric-continuity-plan-activation-success-rate`
 - **Name:** Continuity Plan Activation Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPASR
 
@@ -27,7 +27,7 @@ Activations Executed per Plan without Failure / Activations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

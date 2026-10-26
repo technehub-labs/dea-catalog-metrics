@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Lifetime Value (Deep Dive)** 
 - **Canonical id:** `dea:metric-customer-lifetime-value-deep-dive`
 - **Name:** Customer Lifetime Value (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTVDD
 

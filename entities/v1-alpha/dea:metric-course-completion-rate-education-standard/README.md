@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Course Completion Rate (Education Stan
 - **Canonical id:** `dea:metric-course-completion-rate-education-standard`
 - **Name:** Course Completion Rate (Education Standard)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCRES
 
@@ -23,7 +23,7 @@ Completions / Enrollments in For-Credit Courses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

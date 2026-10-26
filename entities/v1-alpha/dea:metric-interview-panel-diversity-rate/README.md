@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interview Panel Diversity Rate** (IPDR
 - **Canonical id:** `dea:metric-interview-panel-diversity-rate`
 - **Name:** Interview Panel Diversity Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPDR
 
@@ -23,7 +23,7 @@ Interviews with Diverse Panel / Interviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

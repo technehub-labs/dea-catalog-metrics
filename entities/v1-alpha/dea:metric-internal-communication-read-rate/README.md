@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Communication Read Rate** (IC
 - **Canonical id:** `dea:metric-internal-communication-read-rate`
 - **Name:** Internal Communication Read Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICRR-C
 
@@ -23,7 +23,7 @@ Employees Reading Announcements / Recipients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Managed Spend Percentage** (MSP) in th
 - **Canonical id:** `dea:metric-managed-spend-percentage`
 - **Name:** Managed Spend Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSP
 
@@ -27,7 +27,7 @@ Spend via Managed Contracts / Total Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

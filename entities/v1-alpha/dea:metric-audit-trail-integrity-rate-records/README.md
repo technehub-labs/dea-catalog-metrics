@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Trail Integrity Rate (Records)**
 - **Canonical id:** `dea:metric-audit-trail-integrity-rate-records`
 - **Name:** Audit Trail Integrity Rate (Records)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATIRR
 
@@ -23,7 +23,7 @@ Access Logs Complete and Tamper-Evident / Logs Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

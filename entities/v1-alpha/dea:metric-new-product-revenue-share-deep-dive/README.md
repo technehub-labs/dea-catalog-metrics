@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Product Revenue Share (Deep Dive)*
 - **Canonical id:** `dea:metric-new-product-revenue-share-deep-dive`
 - **Name:** New Product Revenue Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPRS-D
 
@@ -27,7 +27,7 @@ Revenue from Products under Three Years / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

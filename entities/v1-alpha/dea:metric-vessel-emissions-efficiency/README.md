@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel Emissions Efficiency** (VEE) in
 - **Canonical id:** `dea:metric-vessel-emissions-efficiency`
 - **Name:** Vessel Emissions Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VEE
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate - NOC to Engineering**
 - **Canonical id:** `dea:metric-escalation-rate-noc-to-engineering`
 - **Name:** Escalation Rate - NOC to Engineering
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERNOC
 
@@ -23,7 +23,7 @@ Tickets Escalated beyond NOC / Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

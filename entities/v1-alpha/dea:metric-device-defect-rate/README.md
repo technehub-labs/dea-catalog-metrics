@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Defect Rate** (DDR-MD) in the O
 - **Canonical id:** `dea:metric-device-defect-rate`
 - **Name:** Device Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDR-MD
 
@@ -27,7 +27,7 @@ Reported Device Defects / Devices Shipped
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

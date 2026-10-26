@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Fraud Detection Share** (IFDS
 - **Canonical id:** `dea:metric-internal-fraud-detection-share`
 - **Name:** Internal Fraud Detection Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFDS
 
@@ -27,7 +27,7 @@ Frauds Detected via Internal Controls / All Detected Frauds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

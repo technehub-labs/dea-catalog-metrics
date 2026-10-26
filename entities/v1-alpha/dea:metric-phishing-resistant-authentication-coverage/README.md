@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Phishing-Resistant Authentication Cove
 - **Canonical id:** `dea:metric-phishing-resistant-authentication-coverage`
 - **Name:** Phishing-Resistant Authentication Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRAC
 
@@ -27,7 +27,7 @@ Identities Using Phishing-Resistant MFA / MFA Identities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Output Copyright Risk Screen Rat
 - **Canonical id:** `dea:metric-model-output-copyright-risk-screen-rate`
 - **Name:** Model Output Copyright Risk Screen Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOCRS
 
@@ -27,7 +27,7 @@ Outputs Screened for Protected Content / Outputs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Compatibility Coverage** (DCC-M
 - **Canonical id:** `dea:metric-device-compatibility-coverage`
 - **Name:** Device Compatibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCC-MOB
 
@@ -23,7 +23,7 @@ Tested Device-OS Combinations / Top Combinations in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

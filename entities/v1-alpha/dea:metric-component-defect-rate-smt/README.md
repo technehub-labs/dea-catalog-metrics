@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Component Defect Rate (SMT)** (CDR-SMT
 - **Canonical id:** `dea:metric-component-defect-rate-smt`
 - **Name:** Component Defect Rate (SMT)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDR-SMT
 
@@ -23,8 +23,8 @@ Defective Placements per Million Components Placed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

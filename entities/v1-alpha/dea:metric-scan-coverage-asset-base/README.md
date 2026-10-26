@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scan Coverage - Asset Base** (SCAB) in
 - **Canonical id:** `dea:metric-scan-coverage-asset-base`
 - **Name:** Scan Coverage - Asset Base
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCAB
 
@@ -27,7 +27,7 @@ Assets Scanned in Cycle / In-Scope Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

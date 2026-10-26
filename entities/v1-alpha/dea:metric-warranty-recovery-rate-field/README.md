@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Recovery Rate (Field)** (WRR-
 - **Canonical id:** `dea:metric-warranty-recovery-rate-field`
 - **Name:** Warranty Recovery Rate (Field)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRR-F
 
@@ -23,7 +23,7 @@ Costs Recovered under Warranty / Recoverable Costs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Capital Model Coverage** (ECM
 - **Canonical id:** `dea:metric-economic-capital-model-coverage`
 - **Name:** Economic Capital Model Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECMC
 
@@ -27,7 +27,7 @@ Risks Covered by Capital Model / Total Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

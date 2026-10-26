@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework Rate - Code** (RRC-SD) in the O
 - **Canonical id:** `dea:metric-rework-rate-code`
 - **Name:** Rework Rate - Code
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRC-SD
 
@@ -23,7 +23,7 @@ Lines Reworked after Review / Lines Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

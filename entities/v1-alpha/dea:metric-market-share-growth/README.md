@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share Growth** (MSG) in the Ope
 - **Canonical id:** `dea:metric-market-share-growth`
 - **Name:** Market Share Growth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSG
 
@@ -27,7 +27,7 @@ Period change in market share - the momentum form of the position metric, and of
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

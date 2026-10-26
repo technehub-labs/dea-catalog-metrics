@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board ESG Oversight Coverage** (BEOC) 
 - **Canonical id:** `dea:metric-board-esg-oversight-coverage`
 - **Name:** Board ESG Oversight Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BEOC
 
@@ -27,7 +27,7 @@ ESG Topics Reviewed by Board / Required Topics
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

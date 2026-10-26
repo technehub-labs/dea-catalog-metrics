@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Loss from Absence** (ELA) in 
 - **Canonical id:** `dea:metric-earnings-loss-from-absence`
 - **Name:** Earnings Loss from Absence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELA
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expansion Revenue Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-expansion-revenue-rate-deep-dive`
 - **Name:** Expansion Revenue Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EXPRD
 
@@ -27,7 +27,7 @@ Expansion MRR / Total Prior MRR
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

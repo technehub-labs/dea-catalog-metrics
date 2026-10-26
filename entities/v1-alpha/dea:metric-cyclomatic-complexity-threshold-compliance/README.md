@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cyclomatic Complexity Threshold Compli
 - **Canonical id:** `dea:metric-cyclomatic-complexity-threshold-compliance`
 - **Name:** Cyclomatic Complexity Threshold Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCTC-SA
 
@@ -23,7 +23,7 @@ Functions within Complexity Threshold / Functions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

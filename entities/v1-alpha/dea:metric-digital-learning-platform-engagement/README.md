@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Learning Platform Engagement**
 - **Canonical id:** `dea:metric-digital-learning-platform-engagement`
 - **Name:** Digital Learning Platform Engagement
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLPE
 
@@ -23,7 +23,7 @@ Active Learners on Platform / Enrolled Students
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

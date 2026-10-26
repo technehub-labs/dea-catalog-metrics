@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Task Success Rate (UX)** (TSR-UX) in t
 - **Canonical id:** `dea:metric-task-success-rate-ux`
 - **Name:** Task Success Rate (UX)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSR-UX
 
@@ -23,7 +23,7 @@ Tasks Completed Successfully by Users / Task Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

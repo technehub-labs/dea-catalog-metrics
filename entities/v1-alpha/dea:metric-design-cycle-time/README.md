@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Cycle Time** (DCT) in the OpenD
 - **Canonical id:** `dea:metric-design-cycle-time`
 - **Name:** Design Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCT
 
@@ -27,8 +27,8 @@ Days from Design Brief to Design Freeze
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

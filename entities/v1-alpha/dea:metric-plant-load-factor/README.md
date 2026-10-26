@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plant Load Factor** (PLF) in the OpenD
 - **Canonical id:** `dea:metric-plant-load-factor`
 - **Name:** Plant Load Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLF
 
@@ -27,7 +27,7 @@ Actual Energy Generated / Maximum Possible Generation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

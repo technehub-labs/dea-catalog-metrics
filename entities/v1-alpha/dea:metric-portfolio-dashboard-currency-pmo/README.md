@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dashboard Currency (PMO)** (
 - **Canonical id:** `dea:metric-portfolio-dashboard-currency-pmo`
 - **Name:** Portfolio Dashboard Currency (PMO)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDC
 
@@ -23,7 +23,7 @@ Initiatives with Status Updated in Last Period / Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

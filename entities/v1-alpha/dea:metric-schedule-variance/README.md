@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Variance** (SV) in the OpenDE
 - **Canonical id:** `dea:metric-schedule-variance`
 - **Name:** Schedule Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SV
 

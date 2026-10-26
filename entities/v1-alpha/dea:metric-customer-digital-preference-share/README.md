@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Digital Preference Share** (C
 - **Canonical id:** `dea:metric-customer-digital-preference-share`
 - **Name:** Customer Digital Preference Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDPS
 
@@ -27,7 +27,7 @@ Customers Choosing Digital Channel for Key Journey / Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage-Gate Pass Rate** (SGPR) in the O
 - **Canonical id:** `dea:metric-stage-gate-pass-rate`
 - **Name:** Stage-Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGPR
 
@@ -27,7 +27,7 @@ Concepts Passing Gate / Concepts Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

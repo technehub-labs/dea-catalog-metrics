@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Launch Quality Index (Deep Dive)** (LQ
 - **Canonical id:** `dea:metric-launch-quality-index-deep-dive`
 - **Name:** Launch Quality Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LQI-D
 

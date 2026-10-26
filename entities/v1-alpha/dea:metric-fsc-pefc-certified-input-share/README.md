@@ -7,7 +7,7 @@ Candidate Performance Metric record for **FSC / PEFC Certified Input Share** (FC
 - **Canonical id:** `dea:metric-fsc-pefc-certified-input-share`
 - **Name:** FSC / PEFC Certified Input Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCIS
 
@@ -27,7 +27,7 @@ Certified Timber / Timber Consumed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

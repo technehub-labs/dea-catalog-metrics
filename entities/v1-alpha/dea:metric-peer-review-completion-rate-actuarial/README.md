@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peer Review Completion Rate (Actuarial
 - **Canonical id:** `dea:metric-peer-review-completion-rate-actuarial`
 - **Name:** Peer Review Completion Rate (Actuarial)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCA
 
@@ -23,7 +23,7 @@ Work Products Peer Reviewed / Work Products
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

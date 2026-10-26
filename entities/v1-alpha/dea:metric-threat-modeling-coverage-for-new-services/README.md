@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Modeling Coverage for New Servi
 - **Canonical id:** `dea:metric-threat-modeling-coverage-for-new-services`
 - **Name:** Threat Modeling Coverage for New Services
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMCFNS
 
@@ -27,7 +27,7 @@ New Services with Threat Model before Design Sign-off / New Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

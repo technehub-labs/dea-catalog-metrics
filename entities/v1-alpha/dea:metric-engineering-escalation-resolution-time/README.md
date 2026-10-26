@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engineering Escalation Resolution Time
 - **Canonical id:** `dea:metric-engineering-escalation-resolution-time`
 - **Name:** Engineering Escalation Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EERT
 
@@ -23,8 +23,8 @@ Days to Resolve Technical Escalation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

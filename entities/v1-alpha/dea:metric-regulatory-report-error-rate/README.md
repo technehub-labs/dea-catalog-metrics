@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Report Error Rate** (RRER) 
 - **Canonical id:** `dea:metric-regulatory-report-error-rate`
 - **Name:** Regulatory Report Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRER
 
@@ -27,7 +27,7 @@ Filings Corrected or Resubmitted / Filings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

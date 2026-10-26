@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Delivery Window Compliance** 
 - **Canonical id:** `dea:metric-customer-delivery-window-compliance`
 - **Name:** Customer Delivery Window Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDWC
 
@@ -27,7 +27,7 @@ Deliveries within Promised Window / Deliveries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Data Capture Compliance - Field*
 - **Canonical id:** `dea:metric-asset-data-capture-compliance-field`
 - **Name:** Asset Data Capture Compliance - Field
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADCC-F
 
@@ -23,7 +23,7 @@ Visits with Complete Asset Condition Data / Visits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

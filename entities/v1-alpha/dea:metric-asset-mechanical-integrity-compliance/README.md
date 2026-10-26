@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Mechanical Integrity Compliance*
 - **Canonical id:** `dea:metric-asset-mechanical-integrity-compliance`
 - **Name:** Asset Mechanical Integrity Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMIC
 
@@ -27,7 +27,7 @@ Inspections within Integrity Window / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

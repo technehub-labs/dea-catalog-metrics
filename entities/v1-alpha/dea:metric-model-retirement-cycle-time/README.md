@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Retirement Cycle Time** (MRCT-AI
 - **Canonical id:** `dea:metric-model-retirement-cycle-time`
 - **Name:** Model Retirement Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRCT-AI
 
@@ -23,8 +23,8 @@ Days from Decommission Decision to Model Retired
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downtime Rate** (DTR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-downtime-rate`
 - **Name:** Downtime Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTR
 
@@ -23,7 +23,7 @@ Downtime Hours / Scheduled Operating Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

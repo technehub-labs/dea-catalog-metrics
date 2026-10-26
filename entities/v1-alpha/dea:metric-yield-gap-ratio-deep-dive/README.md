@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield Gap Ratio (Deep Dive)** (YGR-D) 
 - **Canonical id:** `dea:metric-yield-gap-ratio-deep-dive`
 - **Name:** Yield Gap Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** YGR-D
 
@@ -27,7 +27,7 @@ Actual Yield - Attainable Yield / Attainable Yield
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

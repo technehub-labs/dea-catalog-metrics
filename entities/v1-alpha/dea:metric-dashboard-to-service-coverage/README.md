@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dashboard-to-Service Coverage** (DTSC)
 - **Canonical id:** `dea:metric-dashboard-to-service-coverage`
 - **Name:** Dashboard-to-Service Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTSC
 
@@ -23,7 +23,7 @@ Services with Operational Dashboards / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

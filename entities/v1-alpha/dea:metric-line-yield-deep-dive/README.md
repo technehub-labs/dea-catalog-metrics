@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Yield (Deep Dive)** (LYL-D) in th
 - **Canonical id:** `dea:metric-line-yield-deep-dive`
 - **Name:** Line Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LYL-D
 
@@ -27,7 +27,7 @@ Wafers Completed / Wafers Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

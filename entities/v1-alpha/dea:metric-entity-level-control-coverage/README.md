@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Entity-Level Control Coverage** (ELCC)
 - **Canonical id:** `dea:metric-entity-level-control-coverage`
 - **Name:** Entity-Level Control Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELCC
 
@@ -27,7 +27,7 @@ Entities with Documented Entity-Level Controls / Entities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Reporting Timeliness** (MRT
 - **Canonical id:** `dea:metric-management-reporting-timeliness`
 - **Name:** Management Reporting Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRT-FP
 
@@ -23,7 +23,7 @@ Reports Delivered by Commit Date / Reports
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Citizen Transaction** (CPCT) 
 - **Canonical id:** `dea:metric-cost-per-citizen-transaction`
 - **Name:** Cost per Citizen Transaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCT
 

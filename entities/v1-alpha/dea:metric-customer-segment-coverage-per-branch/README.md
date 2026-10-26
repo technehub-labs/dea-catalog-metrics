@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segment Coverage per Branch**
 - **Canonical id:** `dea:metric-customer-segment-coverage-per-branch`
 - **Name:** Customer Segment Coverage per Branch
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCB
 
@@ -23,7 +23,7 @@ Segments Served with Dedicated Offers / Segments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

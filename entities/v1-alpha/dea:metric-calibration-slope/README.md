@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calibration Slope** (CALS) in the Open
 - **Canonical id:** `dea:metric-calibration-slope`
 - **Name:** Calibration Slope
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CALS
 

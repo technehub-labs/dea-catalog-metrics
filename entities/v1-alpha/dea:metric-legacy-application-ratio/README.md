@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Application Ratio** (LAR) in th
 - **Canonical id:** `dea:metric-legacy-application-ratio`
 - **Name:** Legacy Application Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LAR
 
@@ -27,7 +27,7 @@ Applications beyond Supported Platform / Total Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

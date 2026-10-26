@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Graduation Rate** (GR) in the OpenDEAM
 - **Canonical id:** `dea:metric-graduation-rate`
 - **Name:** Graduation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GR
 
@@ -27,7 +27,7 @@ Students Graduating On Time / Students in Cohort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

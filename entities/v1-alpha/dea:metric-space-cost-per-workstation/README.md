@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Cost per Workstation** (SCPW) in
 - **Canonical id:** `dea:metric-space-cost-per-workstation`
 - **Name:** Space Cost per Workstation
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPW
 

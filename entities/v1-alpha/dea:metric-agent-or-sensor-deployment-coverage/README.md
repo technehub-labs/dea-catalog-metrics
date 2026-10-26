@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent or Sensor Deployment Coverage** 
 - **Canonical id:** `dea:metric-agent-or-sensor-deployment-coverage`
 - **Name:** Agent or Sensor Deployment Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASDC
 
@@ -23,7 +23,7 @@ Endpoints with Vulnerability Agent / Endpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

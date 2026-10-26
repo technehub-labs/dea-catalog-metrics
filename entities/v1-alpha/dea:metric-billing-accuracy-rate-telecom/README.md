@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Billing Accuracy Rate (Telecom)** (BAR
 - **Canonical id:** `dea:metric-billing-accuracy-rate-telecom`
 - **Name:** Billing Accuracy Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BART
 
@@ -27,7 +27,7 @@ Bills Issued without Dispute or Correction / Bills Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

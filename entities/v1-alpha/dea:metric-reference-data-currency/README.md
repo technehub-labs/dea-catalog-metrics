@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reference Data Currency** (REFDC) in t
 - **Canonical id:** `dea:metric-reference-data-currency`
 - **Name:** Reference Data Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** REFDC
 
@@ -23,7 +23,7 @@ Reference Sets within Refresh Cycle / Reference Sets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

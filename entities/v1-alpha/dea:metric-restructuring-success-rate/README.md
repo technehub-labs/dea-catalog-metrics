@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Restructuring Success Rate** (RSR-CC) 
 - **Canonical id:** `dea:metric-restructuring-success-rate`
 - **Name:** Restructuring Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSR-CC
 
@@ -27,7 +27,7 @@ Restructured Accounts Remaining Current / Restructured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

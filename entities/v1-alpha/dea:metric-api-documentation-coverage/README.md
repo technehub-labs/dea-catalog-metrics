@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Documentation Coverage** (APIDC) i
 - **Canonical id:** `dea:metric-api-documentation-coverage`
 - **Name:** API Documentation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIDC
 
@@ -23,7 +23,7 @@ Endpoints with Current Documentation / Endpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Policy Enforcement Rate**
 - **Canonical id:** `dea:metric-error-budget-policy-enforcement-rate`
 - **Name:** Error Budget Policy Enforcement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBPER
 
@@ -27,7 +27,7 @@ Releases Paused when Budget Exhausted / Exhaustion Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

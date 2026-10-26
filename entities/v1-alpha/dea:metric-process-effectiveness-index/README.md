@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Effectiveness Index** (PEI-BSC
 - **Canonical id:** `dea:metric-process-effectiveness-index`
 - **Name:** Process Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PEI-BSC
 

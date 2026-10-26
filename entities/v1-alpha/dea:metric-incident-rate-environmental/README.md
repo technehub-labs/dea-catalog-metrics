@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Rate (Environmental)** (IRE) 
 - **Canonical id:** `dea:metric-incident-rate-environmental`
 - **Name:** Incident Rate (Environmental)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRE
 

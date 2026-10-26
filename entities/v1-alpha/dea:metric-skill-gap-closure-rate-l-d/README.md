@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skill Gap Closure Rate (L&D)** (SGCR-L
 - **Canonical id:** `dea:metric-skill-gap-closure-rate-l-d`
 - **Name:** Skill Gap Closure Rate (L&D)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGCR-LD
 
@@ -27,7 +27,7 @@ Critical Skill Gaps Closed within Plan / Gaps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

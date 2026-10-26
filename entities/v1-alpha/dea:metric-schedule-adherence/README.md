@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Adherence** (SA) in the OpenD
 - **Canonical id:** `dea:metric-schedule-adherence`
 - **Name:** Schedule Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SA
 
@@ -27,7 +27,7 @@ Tasks Completed On Schedule / Tasks Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

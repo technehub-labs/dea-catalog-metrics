@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Programmatic Win Rate (Deep Dive)** (P
 - **Canonical id:** `dea:metric-programmatic-win-rate-deep-dive`
 - **Name:** Programmatic Win Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PWR-D
 
@@ -23,7 +23,7 @@ Impressions Won / Bids Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

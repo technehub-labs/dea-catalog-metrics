@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Source-to-Target Conformance Rate** (S
 - **Canonical id:** `dea:metric-source-to-target-conformance-rate`
 - **Name:** Source-to-Target Conformance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STCR
 
@@ -23,7 +23,7 @@ ETL Outputs Conforming to Target Schema and Rules / Outputs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

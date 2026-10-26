@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Request for Information Turnaround Tim
 - **Canonical id:** `dea:metric-request-for-information-turnaround-time-deep-dive`
 - **Name:** Request for Information Turnaround Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFIT-D
 
@@ -23,8 +23,8 @@ Days from RFI to Answer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

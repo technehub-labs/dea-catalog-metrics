@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Source Alignment** (MDSA) 
 - **Canonical id:** `dea:metric-master-data-source-alignment`
 - **Name:** Master Data Source Alignment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDSA
 
@@ -27,7 +27,7 @@ Domains with Single Authoritative Source / Data Domains
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy (MAPE)** (FA2) in th
 - **Canonical id:** `dea:metric-forecast-accuracy-mape`
 - **Name:** Forecast Accuracy (MAPE)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FA2
 
@@ -27,7 +27,7 @@ Mean ABS(Actual - Forecast) / Actual
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

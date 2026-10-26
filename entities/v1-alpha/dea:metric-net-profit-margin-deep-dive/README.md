@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Profit Margin (Deep Dive)** (NPMDD
 - **Canonical id:** `dea:metric-net-profit-margin-deep-dive`
 - **Name:** Net Profit Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPMDD
 
@@ -27,7 +27,7 @@ Net Income / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

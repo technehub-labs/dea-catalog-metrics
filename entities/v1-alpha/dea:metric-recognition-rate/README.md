@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recognition Rate** (RGR-E) in the Open
 - **Canonical id:** `dea:metric-recognition-rate`
 - **Name:** Recognition Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RGR-E
 
@@ -23,7 +23,7 @@ Employees Recognized per Period / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

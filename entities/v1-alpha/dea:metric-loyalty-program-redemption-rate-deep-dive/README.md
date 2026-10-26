@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loyalty Program Redemption Rate (Deep 
 - **Canonical id:** `dea:metric-loyalty-program-redemption-rate-deep-dive`
 - **Name:** Loyalty Program Redemption Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPRTDD
 
@@ -23,7 +23,7 @@ Points Redeemed / Points Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

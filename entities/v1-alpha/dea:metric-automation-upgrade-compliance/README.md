@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Upgrade Compliance** (AUC) 
 - **Canonical id:** `dea:metric-automation-upgrade-compliance`
 - **Name:** Automation Upgrade Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUC
 
@@ -23,7 +23,7 @@ Cells Running Current Firmware and Safety Config / Cells
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

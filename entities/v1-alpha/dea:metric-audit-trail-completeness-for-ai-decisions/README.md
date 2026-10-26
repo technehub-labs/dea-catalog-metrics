@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Trail Completeness for AI Decisi
 - **Canonical id:** `dea:metric-audit-trail-completeness-for-ai-decisions`
 - **Name:** Audit Trail Completeness for AI Decisions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATCAD
 
@@ -27,7 +27,7 @@ Decisions with Complete Audit Trail / Decisions Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

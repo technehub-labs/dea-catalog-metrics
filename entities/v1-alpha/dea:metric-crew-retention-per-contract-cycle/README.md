@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew Retention per Contract Cycle** (C
 - **Canonical id:** `dea:metric-crew-retention-per-contract-cycle`
 - **Name:** Crew Retention per Contract Cycle
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRCC
 
@@ -23,7 +23,7 @@ Crew Re-signing / Eligible Crew
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

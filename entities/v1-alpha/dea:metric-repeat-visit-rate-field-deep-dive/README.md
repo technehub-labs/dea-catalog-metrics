@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Visit Rate - Field (Deep Dive)*
 - **Canonical id:** `dea:metric-repeat-visit-rate-field-deep-dive`
 - **Name:** Repeat Visit Rate - Field (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RVR-D
 
@@ -23,7 +23,7 @@ Jobs Requiring Return Visit / Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

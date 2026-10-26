@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RASK - Revenue per Available Seat Kilo
 - **Canonical id:** `dea:metric-rask-revenue-per-available-seat-kilometre-deep-dive`
 - **Name:** RASK - Revenue per Available Seat Kilometre (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RASK-D
 

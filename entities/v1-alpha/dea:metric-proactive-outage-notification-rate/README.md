@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proactive Outage Notification Rate** (
 - **Canonical id:** `dea:metric-proactive-outage-notification-rate`
 - **Name:** Proactive Outage Notification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PONR
 
@@ -27,7 +27,7 @@ Outages with Customer Notification before Contact / Outages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

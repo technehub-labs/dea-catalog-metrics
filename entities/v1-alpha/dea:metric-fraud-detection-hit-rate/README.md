@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Detection Hit Rate** (FDHR) in t
 - **Canonical id:** `dea:metric-fraud-detection-hit-rate`
 - **Name:** Fraud Detection Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDHR
 
@@ -23,7 +23,7 @@ Confirmed Fraud Cases / Cases Referred for Investigation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

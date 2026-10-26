@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shop Visit Prediction Accuracy** (SVPA
 - **Canonical id:** `dea:metric-shop-visit-prediction-accuracy`
 - **Name:** Shop Visit Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVPA
 
@@ -27,7 +27,7 @@ Actual Shop Visits Matched by Forecast / Actual Shop Visits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

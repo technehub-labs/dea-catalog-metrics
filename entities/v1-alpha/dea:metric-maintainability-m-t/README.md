@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintainability M(t)** (MTAIN) in the 
 - **Canonical id:** `dea:metric-maintainability-m-t`
 - **Name:** Maintainability M(t)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTAIN
 
@@ -23,7 +23,7 @@ Probability Repair Completed within Time t
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

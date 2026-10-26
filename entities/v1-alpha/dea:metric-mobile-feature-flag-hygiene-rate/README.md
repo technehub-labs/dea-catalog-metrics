@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile Feature Flag Hygiene Rate** (MF
 - **Canonical id:** `dea:metric-mobile-feature-flag-hygiene-rate`
 - **Name:** Mobile Feature Flag Hygiene Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MFFH
 
@@ -23,7 +23,7 @@ Stale Flags Removed / Stale Flags Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

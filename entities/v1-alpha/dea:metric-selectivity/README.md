@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Selectivity** (SEL) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-selectivity`
 - **Name:** Selectivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SEL
 
@@ -23,7 +23,7 @@ Desired Product Formed / Reactant Converted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

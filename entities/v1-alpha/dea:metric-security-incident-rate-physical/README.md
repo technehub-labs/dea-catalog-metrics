@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Incident Rate (Physical)** (S
 - **Canonical id:** `dea:metric-security-incident-rate-physical`
 - **Name:** Security Incident Rate (Physical)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIRP
 

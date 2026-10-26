@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stock Loss Rate (Pharmacy - Vet)** (SL
 - **Canonical id:** `dea:metric-stock-loss-rate-pharmacy-vet`
 - **Name:** Stock Loss Rate (Pharmacy - Vet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLR-V
 
@@ -23,7 +23,7 @@ Expired or Lost Inventory Value / Inventory Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

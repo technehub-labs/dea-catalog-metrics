@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Relative Market Share** (RMS) in the O
 - **Canonical id:** `dea:metric-relative-market-share`
 - **Name:** Relative Market Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RMS
 

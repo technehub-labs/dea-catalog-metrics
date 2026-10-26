@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusive Meeting Practices Score** (I
 - **Canonical id:** `dea:metric-inclusive-meeting-practices-score`
 - **Name:** Inclusive Meeting Practices Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IMPS
 

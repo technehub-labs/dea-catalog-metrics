@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pay Equity Gap** (PEG-DEI) in the Open
 - **Canonical id:** `dea:metric-pay-equity-gap`
 - **Name:** Pay Equity Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PEG-DEI
 
@@ -27,7 +27,7 @@ Adjusted Pay Gap for Equivalent Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

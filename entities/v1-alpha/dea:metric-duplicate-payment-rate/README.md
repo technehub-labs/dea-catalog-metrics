@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Payment Rate** (DUPR) in the
 - **Canonical id:** `dea:metric-duplicate-payment-rate`
 - **Name:** Duplicate Payment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DUPR
 
@@ -23,8 +23,8 @@ Duplicate Payments Detected / Payments Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

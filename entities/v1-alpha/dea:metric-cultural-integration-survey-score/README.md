@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cultural Integration Survey Score** (C
 - **Canonical id:** `dea:metric-cultural-integration-survey-score`
 - **Name:** Cultural Integration Survey Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CISS
 

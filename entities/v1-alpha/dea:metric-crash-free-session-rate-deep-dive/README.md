@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crash-Free Session Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-crash-free-session-rate-deep-dive`
 - **Name:** Crash-Free Session Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFSR-D
 
@@ -23,7 +23,7 @@ Sessions without Crash / Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

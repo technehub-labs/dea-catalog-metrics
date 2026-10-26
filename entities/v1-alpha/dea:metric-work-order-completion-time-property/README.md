@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Work Order Completion Time (Property)*
 - **Canonical id:** `dea:metric-work-order-completion-time-property`
 - **Name:** Work Order Completion Time (Property)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WOCT
 
@@ -23,8 +23,8 @@ Days from Request to Completion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

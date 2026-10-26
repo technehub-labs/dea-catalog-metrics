@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Terminated Mandate Recovery Rate** (TM
 - **Canonical id:** `dea:metric-terminated-mandate-recovery-rate`
 - **Name:** Terminated Mandate Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMRR
 
@@ -27,7 +27,7 @@ Won-Back Mandates / Terminated Mandates
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

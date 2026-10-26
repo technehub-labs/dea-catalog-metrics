@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity of Refining** (EIR) i
 - **Canonical id:** `dea:metric-energy-intensity-of-refining`
 - **Name:** Energy Intensity of Refining
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EIR
 

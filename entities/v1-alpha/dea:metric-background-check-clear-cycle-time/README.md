@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Background Check Clear Cycle Time** (B
 - **Canonical id:** `dea:metric-background-check-clear-cycle-time`
 - **Name:** Background Check Clear Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCCCT
 
@@ -23,8 +23,8 @@ Days from Check Initiated to Cleared
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

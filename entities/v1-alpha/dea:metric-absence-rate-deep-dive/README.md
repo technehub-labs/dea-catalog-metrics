@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Absence Rate (Deep Dive)** (ARDD) in t
 - **Canonical id:** `dea:metric-absence-rate-deep-dive`
 - **Name:** Absence Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARDD
 
@@ -23,7 +23,7 @@ Absent Days / Scheduled Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

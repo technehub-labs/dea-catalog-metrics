@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage** (SHK) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-shrinkage`
 - **Name:** Shrinkage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SHK
 
@@ -23,7 +23,7 @@ Non-Productive Time / Total Paid Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

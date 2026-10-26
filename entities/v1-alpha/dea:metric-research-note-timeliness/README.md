@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Note Timeliness** (RNT-RS) in
 - **Canonical id:** `dea:metric-research-note-timeliness`
 - **Name:** Research Note Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RNT-RS
 
@@ -23,7 +23,7 @@ Notes Published within Event SLA / Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

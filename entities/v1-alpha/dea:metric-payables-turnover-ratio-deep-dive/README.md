@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payables Turnover Ratio (Deep Dive)** 
 - **Canonical id:** `dea:metric-payables-turnover-ratio-deep-dive`
 - **Name:** Payables Turnover Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTRDD
 

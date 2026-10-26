@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Cycle Time** (CnCT) in the Op
 - **Canonical id:** `dea:metric-contract-cycle-time`
 - **Name:** Contract Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CnCT
 
@@ -27,8 +27,8 @@ Days from Request to Fully Executed Contract
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Inventory Completeness** (MIC-AI
 - **Canonical id:** `dea:metric-model-inventory-completeness`
 - **Name:** Model Inventory Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIC-AI
 
@@ -27,7 +27,7 @@ Documented Models in Inventory / Deployed Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

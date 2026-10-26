@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Redundant Path Availability** (RPA-NW)
 - **Canonical id:** `dea:metric-redundant-path-availability`
 - **Name:** Redundant Path Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPA-NW
 
@@ -27,7 +27,7 @@ Sites with Diverse Redundant Paths / Sites
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

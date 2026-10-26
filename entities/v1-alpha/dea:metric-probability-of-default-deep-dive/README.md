@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Probability of Default (Deep Dive)** (
 - **Canonical id:** `dea:metric-probability-of-default-deep-dive`
 - **Name:** Probability of Default (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDDD
 
@@ -27,7 +27,7 @@ Modeled Likelihood of Borrower Default within Horizon
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

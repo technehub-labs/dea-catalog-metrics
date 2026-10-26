@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Tenancy Isolation Compliance** (
 - **Canonical id:** `dea:metric-multi-tenancy-isolation-compliance`
 - **Name:** Multi-Tenancy Isolation Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTIC-SA
 
@@ -27,7 +27,7 @@ Isolation Tests Passed / Isolation Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

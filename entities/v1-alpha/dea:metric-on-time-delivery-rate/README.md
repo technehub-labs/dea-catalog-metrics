@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery Rate** (ODR) in the O
 - **Canonical id:** `dea:metric-on-time-delivery-rate`
 - **Name:** On-Time Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODR
 
@@ -27,7 +27,7 @@ Deliveries On Time / Total Deliveries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

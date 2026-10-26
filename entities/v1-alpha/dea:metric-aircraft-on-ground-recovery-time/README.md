@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft on Ground Recovery Time** (AO
 - **Canonical id:** `dea:metric-aircraft-on-ground-recovery-time`
 - **Name:** Aircraft on Ground Recovery Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AOGRT
 
@@ -27,8 +27,8 @@ Hours from AOG Event to Release to Service
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design QA Defect Density** (DQDD) in t
 - **Canonical id:** `dea:metric-design-qa-defect-density`
 - **Name:** Design QA Defect Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQDD
 

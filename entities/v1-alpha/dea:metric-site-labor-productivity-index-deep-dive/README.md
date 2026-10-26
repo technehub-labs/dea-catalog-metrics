@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Labor Productivity Index (Deep Di
 - **Canonical id:** `dea:metric-site-labor-productivity-index-deep-dive`
 - **Name:** Site Labor Productivity Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLPI-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Gap Rate** (KGR) in the Open
 - **Canonical id:** `dea:metric-knowledge-gap-rate`
 - **Name:** Knowledge Gap Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KGR
 
@@ -23,7 +23,7 @@ Unanswered Query Topics Identified / Total Query Topics
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

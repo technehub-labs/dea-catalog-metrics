@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Incident Recurrence Rate** (S
 - **Canonical id:** `dea:metric-security-incident-recurrence-rate`
 - **Name:** Security Incident Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIRR-SOC
 
@@ -27,7 +27,7 @@ Incidents Repeating Same Root Cause / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

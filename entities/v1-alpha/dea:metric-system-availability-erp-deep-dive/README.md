@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Availability - ERP (Deep Dive)*
 - **Canonical id:** `dea:metric-system-availability-erp-deep-dive`
 - **Name:** System Availability - ERP (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAE-D
 
@@ -27,7 +27,7 @@ Available Hours / Required Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

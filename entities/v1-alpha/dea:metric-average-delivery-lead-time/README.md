@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Delivery Lead Time** (ADLT) in
 - **Canonical id:** `dea:metric-average-delivery-lead-time`
 - **Name:** Average Delivery Lead Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADLT
 
@@ -27,8 +27,8 @@ Days from Dispatch to Delivery
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

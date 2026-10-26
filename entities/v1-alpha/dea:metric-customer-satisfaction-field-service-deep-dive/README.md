@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction - Field Service 
 - **Canonical id:** `dea:metric-customer-satisfaction-field-service-deep-dive`
 - **Name:** Customer Satisfaction - Field Service (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSFS-D
 

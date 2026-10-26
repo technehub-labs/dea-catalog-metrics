@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Positive Intel Ratio** (FPIR) in
 - **Canonical id:** `dea:metric-false-positive-intel-ratio`
 - **Name:** False Positive Intel Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPIR
 
@@ -23,7 +23,7 @@ Intel Items Disproven / Items Actioned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

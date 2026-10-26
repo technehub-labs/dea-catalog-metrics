@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Invoice Processed** (CPIP) in
 - **Canonical id:** `dea:metric-cost-per-invoice-processed`
 - **Name:** Cost per Invoice Processed
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPIP
 

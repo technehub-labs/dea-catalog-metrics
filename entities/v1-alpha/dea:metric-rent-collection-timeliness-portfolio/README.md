@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rent Collection Timeliness (Portfolio)
 - **Canonical id:** `dea:metric-rent-collection-timeliness-portfolio`
 - **Name:** Rent Collection Timeliness (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCT-P
 
@@ -23,7 +23,7 @@ Rent Received by Due Date / Billed Rent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

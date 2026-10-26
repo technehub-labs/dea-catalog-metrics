@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Write-Off Rate** (WOR) in the OpenDEAM
 - **Canonical id:** `dea:metric-write-off-rate`
 - **Name:** Write-Off Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WOR
 
@@ -27,7 +27,7 @@ Billed but Uncollected Fees / Standard Fees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

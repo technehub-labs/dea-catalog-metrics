@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Quality Acceptance Rate (Deep
 - **Canonical id:** `dea:metric-supplier-quality-acceptance-rate-deep-dive`
 - **Name:** Supplier Quality Acceptance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SQAR
 
@@ -23,7 +23,7 @@ Receipts Accepted without Rejection / Receipts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Observations** (
 - **Canonical id:** `dea:metric-regulatory-inspection-observations`
 - **Name:** Regulatory Inspection Observations
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RIO
 

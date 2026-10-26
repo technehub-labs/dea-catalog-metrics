@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Start Readiness Score** (PSRS-
 - **Canonical id:** `dea:metric-project-start-readiness-score`
 - **Name:** Project Start Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSRS-PM
 
@@ -23,7 +23,7 @@ Readiness Checklist Items Complete at Kickoff / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

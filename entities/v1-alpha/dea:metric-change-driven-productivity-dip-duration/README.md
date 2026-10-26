@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change-Driven Productivity Dip Duratio
 - **Canonical id:** `dea:metric-change-driven-productivity-dip-duration`
 - **Name:** Change-Driven Productivity Dip Duration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPDD
 
@@ -27,8 +27,8 @@ Days below Baseline Productivity after Change Go-Live
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

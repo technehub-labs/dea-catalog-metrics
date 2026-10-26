@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Canary Analysis Accuracy** (CAA-CD) in
 - **Canonical id:** `dea:metric-canary-analysis-accuracy`
 - **Name:** Canary Analysis Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAA-CD
 
@@ -23,7 +23,7 @@ Canary Decisions Matching Final Outcome / Canary Analyses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

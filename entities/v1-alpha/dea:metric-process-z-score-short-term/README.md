@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Z-Score (Short Term)** (PZST) 
 - **Canonical id:** `dea:metric-process-z-score-short-term`
 - **Name:** Process Z-Score (Short Term)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PZST
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Span of Control Deviation Rate** (SOCD
 - **Canonical id:** `dea:metric-span-of-control-deviation-rate`
 - **Name:** Span of Control Deviation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOCDEV
 
@@ -27,7 +27,7 @@ Units Outside Span Guideline / Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

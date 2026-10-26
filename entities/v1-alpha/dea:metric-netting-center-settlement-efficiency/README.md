@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Netting Center Settlement Efficiency**
 - **Canonical id:** `dea:metric-netting-center-settlement-efficiency`
 - **Name:** Netting Center Settlement Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCSE
 
@@ -23,7 +23,7 @@ Netted Intercompany Flows / Gross Flows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

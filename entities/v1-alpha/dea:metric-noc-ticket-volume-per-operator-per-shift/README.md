@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Ticket Volume per Operator per Shi
 - **Canonical id:** `dea:metric-noc-ticket-volume-per-operator-per-shift`
 - **Name:** NOC Ticket Volume per Operator per Shift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NOC-TVS
 

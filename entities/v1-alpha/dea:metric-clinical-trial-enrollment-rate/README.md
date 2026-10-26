@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Enrollment Rate** (CTER
 - **Canonical id:** `dea:metric-clinical-trial-enrollment-rate`
 - **Name:** Clinical Trial Enrollment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTER
 
@@ -27,7 +27,7 @@ Enrolled Subjects / Planned Subjects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

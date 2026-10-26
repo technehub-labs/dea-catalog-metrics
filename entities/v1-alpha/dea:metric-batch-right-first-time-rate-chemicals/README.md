@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Right-First-Time Rate (Chemicals
 - **Canonical id:** `dea:metric-batch-right-first-time-rate-chemicals`
 - **Name:** Batch Right-First-Time Rate (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRFT-C
 
@@ -23,7 +23,7 @@ Batches to Spec on First Pass / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

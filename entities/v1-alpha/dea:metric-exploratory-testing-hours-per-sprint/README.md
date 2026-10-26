@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exploratory Testing Hours per Sprint**
 - **Canonical id:** `dea:metric-exploratory-testing-hours-per-sprint`
 - **Name:** Exploratory Testing Hours per Sprint
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETHPS
 
@@ -23,8 +23,8 @@ Exploratory Testing Hours / Sprint
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

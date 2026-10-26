@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guard Attrition Rate (Security)** (GAR
 - **Canonical id:** `dea:metric-guard-attrition-rate-security`
 - **Name:** Guard Attrition Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GAR
 
@@ -27,7 +27,7 @@ Guards Leaving / Guards Employed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

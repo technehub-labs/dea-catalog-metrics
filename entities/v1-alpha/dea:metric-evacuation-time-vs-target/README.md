@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Evacuation Time vs Target** (ETVT) in 
 - **Canonical id:** `dea:metric-evacuation-time-vs-target`
 - **Name:** Evacuation Time vs Target
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETVT
 

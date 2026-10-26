@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirement Escalation Cycle Time** (R
 - **Canonical id:** `dea:metric-requirement-escalation-cycle-time`
 - **Name:** Requirement Escalation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RECT
 
@@ -23,8 +23,8 @@ Days to Resolve Requirements Ambiguity or Conflict
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

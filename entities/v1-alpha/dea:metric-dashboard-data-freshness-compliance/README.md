@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dashboard Data Freshness Compliance** 
 - **Canonical id:** `dea:metric-dashboard-data-freshness-compliance`
 - **Name:** Dashboard Data Freshness Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDFC
 
@@ -23,7 +23,7 @@ Dashards Meeting Freshness SLA / Dashboards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

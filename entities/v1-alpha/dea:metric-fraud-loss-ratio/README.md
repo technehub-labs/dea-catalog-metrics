@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Loss Ratio** (FLR-EF) in the Ope
 - **Canonical id:** `dea:metric-fraud-loss-ratio`
 - **Name:** Fraud Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FLR-EF
 
@@ -27,7 +27,7 @@ Fraud Losses / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

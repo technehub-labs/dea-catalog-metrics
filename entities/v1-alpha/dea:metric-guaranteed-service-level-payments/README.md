@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guaranteed Service Level Payments** (G
 - **Canonical id:** `dea:metric-guaranteed-service-level-payments`
 - **Name:** Guaranteed Service Level Payments
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GSLP
 

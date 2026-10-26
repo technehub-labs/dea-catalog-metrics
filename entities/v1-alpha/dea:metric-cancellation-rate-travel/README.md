@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cancellation Rate (Travel)** (CNL) in 
 - **Canonical id:** `dea:metric-cancellation-rate-travel`
 - **Name:** Cancellation Rate (Travel)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CNL
 
@@ -27,7 +27,7 @@ Cancelled Bookings / Total Bookings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Allergen Control Compliance** (ACC) in
 - **Canonical id:** `dea:metric-allergen-control-compliance`
 - **Name:** Allergen Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACC
 
@@ -27,7 +27,7 @@ Allergen Control Checks Passed / Checks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

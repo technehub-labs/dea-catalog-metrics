@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Training Completion (Deep D
 - **Canonical id:** `dea:metric-franchisee-training-completion-deep-dive`
 - **Name:** Franchisee Training Completion (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTCD
 
@@ -23,7 +23,7 @@ Franchisees Completing Mandatory Training / Franchisees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

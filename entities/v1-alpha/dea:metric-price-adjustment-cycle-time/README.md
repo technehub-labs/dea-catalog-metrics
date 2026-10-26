@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Adjustment Cycle Time** (PACT) i
 - **Canonical id:** `dea:metric-price-adjustment-cycle-time`
 - **Name:** Price Adjustment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PACT
 
@@ -23,8 +23,8 @@ Days from Price Decision to Effective in Market
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

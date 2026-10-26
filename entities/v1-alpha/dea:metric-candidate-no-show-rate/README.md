@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Candidate No-Show Rate** (CNSR) in the
 - **Canonical id:** `dea:metric-candidate-no-show-rate`
 - **Name:** Candidate No-Show Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CNSR
 
@@ -23,7 +23,7 @@ Candidate Interview No-Shows / Scheduled Interviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

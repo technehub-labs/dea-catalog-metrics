@@ -7,7 +7,7 @@ Candidate Performance Metric record for **End-of-Life Device Ratio** (EOLDR) in 
 - **Canonical id:** `dea:metric-end-of-life-device-ratio`
 - **Name:** End-of-Life Device Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EOLDR
 
@@ -27,7 +27,7 @@ Devices Past Vendor EOL / Devices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

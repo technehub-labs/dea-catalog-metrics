@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hiring Diversity Rate (Deep Dive)** (H
 - **Canonical id:** `dea:metric-hiring-diversity-rate-deep-dive`
 - **Name:** Hiring Diversity Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HDR-DEI
 
@@ -27,7 +27,7 @@ Diverse Hires / Total Hires
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crop Yield per Hectare (Deep Dive)** (
 - **Canonical id:** `dea:metric-crop-yield-per-hectare-deep-dive`
 - **Name:** Crop Yield per Hectare (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CYH-D
 
@@ -27,8 +27,8 @@ Harvested Tonnes / Hectares
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes
 
 ## Classification

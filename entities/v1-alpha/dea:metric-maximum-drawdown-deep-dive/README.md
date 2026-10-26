@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Drawdown (Deep Dive)** (MDD-D)
 - **Canonical id:** `dea:metric-maximum-drawdown-deep-dive`
 - **Name:** Maximum Drawdown (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDD-D
 
@@ -27,7 +27,7 @@ Largest Peak-to-Trough Decline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

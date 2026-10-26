@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Log Loss (Cross-Entropy)** (LOGL) in t
 - **Canonical id:** `dea:metric-log-loss-cross-entropy`
 - **Name:** Log Loss (Cross-Entropy)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LOGL
 

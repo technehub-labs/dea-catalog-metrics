@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downtime Duration** (DT) in the OpenDE
 - **Canonical id:** `dea:metric-downtime-duration`
 - **Name:** Downtime Duration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DT
 
@@ -27,8 +27,8 @@ Total Unplanned Unavailability per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

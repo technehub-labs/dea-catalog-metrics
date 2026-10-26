@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Zero-Downtime Migration Rate** (ZDTM) 
 - **Canonical id:** `dea:metric-zero-downtime-migration-rate`
 - **Name:** Zero-Downtime Migration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ZDTM
 
@@ -23,7 +23,7 @@ Migrations with No Downtime / Migrations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

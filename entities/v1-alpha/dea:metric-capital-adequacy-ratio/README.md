@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Adequacy Ratio** (CAR) in the 
 - **Canonical id:** `dea:metric-capital-adequacy-ratio`
 - **Name:** Capital Adequacy Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAR
 
@@ -27,7 +27,7 @@ Regulatory Capital / Risk-Weighted Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

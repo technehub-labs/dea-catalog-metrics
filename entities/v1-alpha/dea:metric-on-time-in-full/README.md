@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time In-Full** (OTIF) in the OpenDE
 - **Canonical id:** `dea:metric-on-time-in-full`
 - **Name:** On-Time In-Full
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTIF
 
@@ -27,7 +27,7 @@ Orders Delivered On Time and Complete / Total Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

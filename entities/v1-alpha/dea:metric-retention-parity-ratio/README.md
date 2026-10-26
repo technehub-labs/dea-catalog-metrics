@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention Parity Ratio** (RTP) in the 
 - **Canonical id:** `dea:metric-retention-parity-ratio`
 - **Name:** Retention Parity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTP
 

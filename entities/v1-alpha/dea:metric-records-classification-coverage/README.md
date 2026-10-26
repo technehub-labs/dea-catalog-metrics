@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Records Classification Coverage** (RCC
 - **Canonical id:** `dea:metric-records-classification-coverage`
 - **Name:** Records Classification Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCC
 
@@ -23,7 +23,7 @@ Records Filed under Retention Class / Records Created
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

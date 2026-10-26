@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Level (Deep Dive)** (SIGDD) in t
 - **Canonical id:** `dea:metric-sigma-level-deep-dive`
 - **Name:** Sigma Level (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIGDD
 

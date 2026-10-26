@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Improvement Project Cycle Time** (IPCT
 - **Canonical id:** `dea:metric-improvement-project-cycle-time`
 - **Name:** Improvement Project Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPCT
 
@@ -27,8 +27,8 @@ Days from Project Start to Control Phase Handover
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

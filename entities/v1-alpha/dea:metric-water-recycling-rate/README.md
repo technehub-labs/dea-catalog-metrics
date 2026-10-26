@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recycling Rate** (WRR) in the Op
 - **Canonical id:** `dea:metric-water-recycling-rate`
 - **Name:** Water Recycling Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRR
 
@@ -27,7 +27,7 @@ Recycled or Reused Water / Total Water Withdrawn
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

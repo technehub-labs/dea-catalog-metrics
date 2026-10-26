@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Replacement Ratio** (RRR) in t
 - **Canonical id:** `dea:metric-reserve-replacement-ratio`
 - **Name:** Reserve Replacement Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRR
 

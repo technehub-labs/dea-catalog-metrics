@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Front Running or Insider Watch Alerts 
 - **Canonical id:** `dea:metric-front-running-or-insider-watch-alerts-cleared-time`
 - **Name:** Front Running or Insider Watch Alerts Cleared Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRWACT
 
@@ -23,8 +23,8 @@ Hours to Clear Surveillance Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Replacement Ratio (Deep Dive)*
 - **Canonical id:** `dea:metric-reserve-replacement-ratio-deep-dive`
 - **Name:** Reserve Replacement Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRR-M
 

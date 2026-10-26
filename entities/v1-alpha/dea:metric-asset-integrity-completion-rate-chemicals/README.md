@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Integrity Completion Rate (Chemi
 - **Canonical id:** `dea:metric-asset-integrity-completion-rate-chemicals`
 - **Name:** Asset Integrity Completion Rate (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AICR-C
 
@@ -27,7 +27,7 @@ Integrity Inspections Completed per Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

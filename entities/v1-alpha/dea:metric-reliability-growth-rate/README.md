@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability Growth Rate** (RGR-RM) in 
 - **Canonical id:** `dea:metric-reliability-growth-rate`
 - **Name:** Reliability Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RGR-RM
 
@@ -27,7 +27,7 @@ Change in MTBF across Test-Fix-Test Cycles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Desk Utilization Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-desk-utilization-rate-deep-dive`
 - **Name:** Desk Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DUR-D
 
@@ -27,7 +27,7 @@ Days Desks Used / Days Desks Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

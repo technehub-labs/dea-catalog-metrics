@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Withdrawal** (WW) in the OpenDEA
 - **Canonical id:** `dea:metric-water-withdrawal`
 - **Name:** Water Withdrawal
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WW
 
@@ -27,8 +27,8 @@ Total Water Withdrawn per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-kilolitres`
-- **Unit:** kilolitres
+- **Unit reference:** `dea:unit-kilolitre`
+- **Unit:** kilolitre
 - **Unit label (as published):** kilolitres (kl)
 
 ## Classification

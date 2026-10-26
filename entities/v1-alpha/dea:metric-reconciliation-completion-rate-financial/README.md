@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reconciliation Completion Rate (Financ
 - **Canonical id:** `dea:metric-reconciliation-completion-rate-financial`
 - **Name:** Reconciliation Completion Rate (Financial)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCRF
 
@@ -23,7 +23,7 @@ Reconciliations Completed by Deadline / Reconciliations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

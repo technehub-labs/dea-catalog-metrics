@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Time Trend (Deep Dive)**
 - **Canonical id:** `dea:metric-process-cycle-time-trend-deep-dive`
 - **Name:** Process Cycle Time Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCTT-D
 
@@ -27,8 +27,8 @@ Change in Process Cycle Time between Periods
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

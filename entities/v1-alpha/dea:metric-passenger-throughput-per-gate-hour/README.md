@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Throughput per Gate Hour** (
 - **Canonical id:** `dea:metric-passenger-throughput-per-gate-hour`
 - **Name:** Passenger Throughput per Gate Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTGH
 

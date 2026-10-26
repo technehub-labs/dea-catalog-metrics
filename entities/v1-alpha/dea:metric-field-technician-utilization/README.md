@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Technician Utilization** (FTU-F)
 - **Canonical id:** `dea:metric-field-technician-utilization`
 - **Name:** Field Technician Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTU-F
 
@@ -23,7 +23,7 @@ Billable or Value-Add Hours / Paid Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

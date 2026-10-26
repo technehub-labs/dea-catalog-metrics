@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Surgical Complication Rate (Vet)** (SC
 - **Canonical id:** `dea:metric-surgical-complication-rate-vet`
 - **Name:** Surgical Complication Rate (Vet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-V
 
@@ -27,7 +27,7 @@ Complications / Surgical Procedures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

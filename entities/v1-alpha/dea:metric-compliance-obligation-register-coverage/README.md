@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Obligation Register Coverag
 - **Canonical id:** `dea:metric-compliance-obligation-register-coverage`
 - **Name:** Compliance Obligation Register Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CORC
 
@@ -27,7 +27,7 @@ Legal Obligations Mapped to Controls / Identified Obligations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

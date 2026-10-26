@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Die Yield** (DIEY) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-die-yield`
 - **Name:** Die Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIEY
 
@@ -27,7 +27,7 @@ Functional Die per Wafer / Total Die per Wafer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

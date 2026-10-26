@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanitation Cycle Compliance (Deep Dive
 - **Canonical id:** `dea:metric-sanitation-cycle-compliance-deep-dive`
 - **Name:** Sanitation Cycle Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCC-D
 
@@ -23,7 +23,7 @@ Sanitation Cycles on Schedule and Pass / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

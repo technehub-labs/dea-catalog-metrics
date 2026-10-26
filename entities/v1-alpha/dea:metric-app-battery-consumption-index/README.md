@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Battery Consumption Index** (ABCI)
 - **Canonical id:** `dea:metric-app-battery-consumption-index`
 - **Name:** App Battery Consumption Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABCI
 

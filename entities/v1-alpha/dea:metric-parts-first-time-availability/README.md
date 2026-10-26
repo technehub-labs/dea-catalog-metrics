@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Parts First-Time Availability** (PFTA)
 - **Canonical id:** `dea:metric-parts-first-time-availability`
 - **Name:** Parts First-Time Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PFTA
 
@@ -23,7 +23,7 @@ Jobs with All Parts on Vehicle / Parts-Dependent Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

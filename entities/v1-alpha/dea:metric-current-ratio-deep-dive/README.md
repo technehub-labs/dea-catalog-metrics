@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Current Ratio (Deep Dive)** (CRDD) in 
 - **Canonical id:** `dea:metric-current-ratio-deep-dive`
 - **Name:** Current Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRDD
 

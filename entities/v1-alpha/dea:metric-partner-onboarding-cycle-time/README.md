@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Onboarding Cycle Time** (POCT)
 - **Canonical id:** `dea:metric-partner-onboarding-cycle-time`
 - **Name:** Partner Onboarding Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POCT
 
@@ -23,8 +23,8 @@ Days from Agreement to First Transaction
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

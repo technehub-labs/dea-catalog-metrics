@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loyalty Member Stay Share (Deep Dive)*
 - **Canonical id:** `dea:metric-loyalty-member-stay-share-deep-dive`
 - **Name:** Loyalty Member Stay Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LMSS-D
 
@@ -27,7 +27,7 @@ Loyalty Room Nights / Total Room Nights
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Article Inspection Pass Rate (De
 - **Canonical id:** `dea:metric-first-article-inspection-pass-rate-deep-dive`
 - **Name:** First Article Inspection Pass Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FAIPR
 
@@ -23,7 +23,7 @@ FAIs Accepted / FAIs Performed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

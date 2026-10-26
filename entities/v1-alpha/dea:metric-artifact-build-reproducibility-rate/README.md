@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Artifact Build Reproducibility Rate** 
 - **Canonical id:** `dea:metric-artifact-build-reproducibility-rate`
 - **Name:** Artifact Build Reproducibility Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABRR-CI
 
@@ -27,7 +27,7 @@ Builds Producing Identical Artifacts from Same Input / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

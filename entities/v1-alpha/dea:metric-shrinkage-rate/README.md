@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage Rate** (ShR) in the OpenDEAM
 - **Canonical id:** `dea:metric-shrinkage-rate`
 - **Name:** Shrinkage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ShR
 
@@ -27,7 +27,7 @@ Unexplained Inventory Loss Value / Inventory Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

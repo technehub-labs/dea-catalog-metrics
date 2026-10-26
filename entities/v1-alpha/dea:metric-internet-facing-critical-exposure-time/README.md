@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internet-Facing Critical Exposure Time
 - **Canonical id:** `dea:metric-internet-facing-critical-exposure-time`
 - **Name:** Internet-Facing Critical Exposure Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFCET
 
@@ -27,8 +27,8 @@ Hours Critical Vulnerability Remains Internet-Exposed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

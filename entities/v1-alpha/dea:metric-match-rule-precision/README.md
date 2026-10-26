@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Match Rule Precision** (MRP-MD) in the
 - **Canonical id:** `dea:metric-match-rule-precision`
 - **Name:** Match Rule Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRP-MD
 
@@ -23,7 +23,7 @@ True Matches / Total Auto-Matches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

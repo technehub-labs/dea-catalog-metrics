@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Store Staffing Ratio** (SSR2) in the O
 - **Canonical id:** `dea:metric-store-staffing-ratio`
 - **Name:** Store Staffing Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSR2
 

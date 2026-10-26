@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Application Share** (DAS) in t
 - **Canonical id:** `dea:metric-digital-application-share`
 - **Name:** Digital Application Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAS
 
@@ -27,7 +27,7 @@ Applications Submitted Digitally / Total Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audience Development Rate** (ADR-A) in
 - **Canonical id:** `dea:metric-audience-development-rate`
 - **Name:** Audience Development Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADR-A
 
@@ -27,7 +27,7 @@ First-Time Attendees / Total Attendance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

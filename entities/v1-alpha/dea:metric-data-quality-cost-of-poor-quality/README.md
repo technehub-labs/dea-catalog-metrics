@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Cost of Poor Quality** (D
 - **Canonical id:** `dea:metric-data-quality-cost-of-poor-quality`
 - **Name:** Data Quality Cost of Poor Quality
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQPQ
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Hours per Employee per Week** 
 - **Canonical id:** `dea:metric-meeting-hours-per-employee-per-week`
 - **Name:** Meeting Hours per Employee per Week
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MHPE
 
@@ -27,8 +27,8 @@ Meeting Hours / Employee Weeks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

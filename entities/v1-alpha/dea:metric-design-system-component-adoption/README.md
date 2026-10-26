@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design System Component Adoption** (DS
 - **Canonical id:** `dea:metric-design-system-component-adoption`
 - **Name:** Design System Component Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSCA
 
@@ -23,7 +23,7 @@ Components Using Design System / Total UI Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

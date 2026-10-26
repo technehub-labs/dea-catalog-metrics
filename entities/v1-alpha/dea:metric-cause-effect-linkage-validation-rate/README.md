@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cause-Effect Linkage Validation Rate**
 - **Canonical id:** `dea:metric-cause-effect-linkage-validation-rate`
 - **Name:** Cause-Effect Linkage Validation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CELV
 
@@ -27,7 +27,7 @@ Hypothesized Linkages Supported by Correlation / Linkages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Rights Clarity Score** (DRCS-
 - **Canonical id:** `dea:metric-decision-rights-clarity-score`
 - **Name:** Decision Rights Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCS-OM
 
@@ -27,7 +27,7 @@ Decision Types with Assigned Owner / Decision Types
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

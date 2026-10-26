@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Satisfaction Rate** (OSR-E)
 - **Canonical id:** `dea:metric-onboarding-satisfaction-rate`
 - **Name:** Onboarding Satisfaction Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OSR-E
 
@@ -27,7 +27,7 @@ Satisfied New Hire Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Truck Turnaround Time** (TTT) in the O
 - **Canonical id:** `dea:metric-truck-turnaround-time`
 - **Name:** Truck Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTT
 
@@ -23,8 +23,8 @@ Hours from Arrival to Departure at Facility
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

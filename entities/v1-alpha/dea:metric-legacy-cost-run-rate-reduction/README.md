@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Cost Run-Rate Reduction** (LCRR
 - **Canonical id:** `dea:metric-legacy-cost-run-rate-reduction`
 - **Name:** Legacy Cost Run-Rate Reduction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCRR
 
@@ -27,7 +27,7 @@ Measures the sustained reduction in run-rate cost of legacy systems, infrastruct
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

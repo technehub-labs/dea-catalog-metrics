@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Research Study Cadence** (URSC) i
 - **Canonical id:** `dea:metric-user-research-study-cadence`
 - **Name:** User Research Study Cadence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** URSC
 

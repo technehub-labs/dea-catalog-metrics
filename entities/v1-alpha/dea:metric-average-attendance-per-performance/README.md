@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Attendance per Performance** (
 - **Canonical id:** `dea:metric-average-attendance-per-performance`
 - **Name:** Average Attendance per Performance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAP
 

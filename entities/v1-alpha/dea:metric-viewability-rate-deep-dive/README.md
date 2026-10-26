@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Viewability Rate (Deep Dive)** (VR-D) 
 - **Canonical id:** `dea:metric-viewability-rate-deep-dive`
 - **Name:** Viewability Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VR-D
 
@@ -23,7 +23,7 @@ Viewable Impressions / Measurable Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

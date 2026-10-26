@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proposal Win Rate** (PWR) in the OpenD
 - **Canonical id:** `dea:metric-proposal-win-rate`
 - **Name:** Proposal Win Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PWR
 
@@ -27,7 +27,7 @@ Proposals Won / Proposals Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

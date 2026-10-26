@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runbook Coverage (Services)** (RBCS) i
 - **Canonical id:** `dea:metric-runbook-coverage-services`
 - **Name:** Runbook Coverage (Services)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBCS
 
@@ -23,7 +23,7 @@ Critical Alerts with Runbook / Critical Alert Types
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

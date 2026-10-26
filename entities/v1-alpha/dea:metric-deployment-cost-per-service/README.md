@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Cost per Service** (DCPS-CD
 - **Canonical id:** `dea:metric-deployment-cost-per-service`
 - **Name:** Deployment Cost per Service
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCPS-CD
 

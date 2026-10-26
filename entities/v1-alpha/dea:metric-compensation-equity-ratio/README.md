@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensation Equity Ratio** (CER-PAY) 
 - **Canonical id:** `dea:metric-compensation-equity-ratio`
 - **Name:** Compensation Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CER-PAY
 

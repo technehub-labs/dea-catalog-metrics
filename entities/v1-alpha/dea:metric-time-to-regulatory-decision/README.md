@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Regulatory Decision** (TTRD) i
 - **Canonical id:** `dea:metric-time-to-regulatory-decision`
 - **Name:** Time to Regulatory Decision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTRD
 
@@ -27,8 +27,8 @@ Days from Submission to Regulatory Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

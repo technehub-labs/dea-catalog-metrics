@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Entry Ramp Rate** (MERR) in the
 - **Canonical id:** `dea:metric-market-entry-ramp-rate`
 - **Name:** Market Entry Ramp Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MERR
 
@@ -27,7 +27,7 @@ Share Achieved within Plan Period after Entry / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

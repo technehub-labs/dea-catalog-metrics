@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Page Printed** (CPP) in the O
 - **Canonical id:** `dea:metric-cost-per-page-printed`
 - **Name:** Cost per Page Printed
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPP
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Merger Synergy Realization Rate**
 - **Canonical id:** `dea:metric-post-merger-synergy-realization-rate`
 - **Name:** Post-Merger Synergy Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSRR
 
@@ -27,7 +27,7 @@ Realized Synergies / Promised Synergies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

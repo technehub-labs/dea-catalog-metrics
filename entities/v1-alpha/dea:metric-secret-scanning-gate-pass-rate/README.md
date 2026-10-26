@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secret Scanning Gate Pass Rate** (SSGP
 - **Canonical id:** `dea:metric-secret-scanning-gate-pass-rate`
 - **Name:** Secret Scanning Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSGPR
 
@@ -23,7 +23,7 @@ Builds Passing Secret Scan Gate / Builds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

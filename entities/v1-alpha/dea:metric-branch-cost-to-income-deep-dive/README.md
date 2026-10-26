@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Cost-to-Income (Deep Dive)** (B
 - **Canonical id:** `dea:metric-branch-cost-to-income-deep-dive`
 - **Name:** Branch Cost-to-Income (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCI-D
 
@@ -27,7 +27,7 @@ Branch Operating Costs / Branch Income
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

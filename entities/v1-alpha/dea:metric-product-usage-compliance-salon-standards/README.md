@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Usage Compliance (Salon Standa
 - **Canonical id:** `dea:metric-product-usage-compliance-salon-standards`
 - **Name:** Product Usage Compliance (Salon Standards)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PUCS
 
@@ -23,7 +23,7 @@ Services Using Approved Products / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

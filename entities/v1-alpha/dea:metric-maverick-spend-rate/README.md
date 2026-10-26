@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maverick Spend Rate** (MSR-P) in the O
 - **Canonical id:** `dea:metric-maverick-spend-rate`
 - **Name:** Maverick Spend Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSR-P
 
@@ -27,7 +27,7 @@ Off-Contract Spend / Total Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Transaction Value (Payments)**
 - **Canonical id:** `dea:metric-average-transaction-value-payments`
 - **Name:** Average Transaction Value (Payments)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATV-P
 

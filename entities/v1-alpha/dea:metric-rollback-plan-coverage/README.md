@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rollback Plan Coverage** (RBPC) in the
 - **Canonical id:** `dea:metric-rollback-plan-coverage`
 - **Name:** Rollback Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBPC
 
@@ -23,7 +23,7 @@ Changes with Tested Rollback Plan / High-Risk Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

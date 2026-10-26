@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Intensity** (WI) in the OpenDEAM
 - **Canonical id:** `dea:metric-waste-intensity`
 - **Name:** Waste Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WI
 

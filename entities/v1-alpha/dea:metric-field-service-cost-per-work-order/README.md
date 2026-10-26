@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Service Cost per Work Order** (F
 - **Canonical id:** `dea:metric-field-service-cost-per-work-order`
 - **Name:** Field Service Cost per Work Order
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSCWO
 

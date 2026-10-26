@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discharged Not Final Billed** (DNFB) i
 - **Canonical id:** `dea:metric-discharged-not-final-billed`
 - **Name:** Discharged Not Final Billed
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DNFB
 

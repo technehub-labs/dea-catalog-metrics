@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Touchless Processing Rate** (TPR-G) in
 - **Canonical id:** `dea:metric-touchless-processing-rate`
 - **Name:** Touchless Processing Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPR-G
 
@@ -27,7 +27,7 @@ Transactions Processed without Manual Touch / Total Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

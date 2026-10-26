@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exhibitor Rebook Rate** (ERR-E) in the
 - **Canonical id:** `dea:metric-exhibitor-rebook-rate`
 - **Name:** Exhibitor Rebook Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERR-E
 
@@ -27,7 +27,7 @@ Exhibitors Rebooking for Next Edition / Exhibitors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

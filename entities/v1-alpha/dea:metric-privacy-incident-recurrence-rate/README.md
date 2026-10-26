@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Incident Recurrence Rate** (PI
 - **Canonical id:** `dea:metric-privacy-incident-recurrence-rate`
 - **Name:** Privacy Incident Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRR
 
@@ -23,7 +23,7 @@ Incidents of Same Root Cause Recurring / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

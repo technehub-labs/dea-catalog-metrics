@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Path Adherence** (CPA-PM) in 
 - **Canonical id:** `dea:metric-critical-path-adherence`
 - **Name:** Critical Path Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPA-PM
 
@@ -27,7 +27,7 @@ Critical Path Activities on Schedule / Critical Path Activities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

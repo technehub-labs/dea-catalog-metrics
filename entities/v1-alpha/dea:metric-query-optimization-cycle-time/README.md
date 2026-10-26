@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Query Optimization Cycle Time** (QOCT)
 - **Canonical id:** `dea:metric-query-optimization-cycle-time`
 - **Name:** Query Optimization Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QOCT
 
@@ -23,8 +23,8 @@ Days from Slow Query Identified to Optimized
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

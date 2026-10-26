@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paid Search Quality Score** (QS) in th
 - **Canonical id:** `dea:metric-paid-search-quality-score`
 - **Name:** Paid Search Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QS
 

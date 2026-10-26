@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CAM Reconciliation Accuracy** (CAMRA) 
 - **Canonical id:** `dea:metric-cam-reconciliation-accuracy`
 - **Name:** CAM Reconciliation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAMRA
 
@@ -23,7 +23,7 @@ Reconciliations without Adjustment / Reconciliations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Localization and Internationalization 
 - **Canonical id:** `dea:metric-localization-and-internationalization-test-coverage`
 - **Name:** Localization and Internationalization Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LITC-QA
 
@@ -23,7 +23,7 @@ Locales Tested / Supported Locales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Device User Stitching Accuracy**
 - **Canonical id:** `dea:metric-cross-device-user-stitching-accuracy`
 - **Name:** Cross-Device User Stitching Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDUSA
 
@@ -23,7 +23,7 @@ Identity Graph Matches Confirmed Correct / Matches Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

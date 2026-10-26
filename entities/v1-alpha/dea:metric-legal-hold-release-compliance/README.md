@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Hold Release Compliance** (LHRC)
 - **Canonical id:** `dea:metric-legal-hold-release-compliance`
 - **Name:** Legal Hold Release Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHRC
 
@@ -23,7 +23,7 @@ Holds Released and Data Reverted to Schedule / Released Holds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

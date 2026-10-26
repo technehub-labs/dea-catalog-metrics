@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audience Match Rate (Deep Dive)** (AMR
 - **Canonical id:** `dea:metric-audience-match-rate-deep-dive`
 - **Name:** Audience Match Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMR-D
 
@@ -23,7 +23,7 @@ Matched Targetable Audience / Addressable Audience
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

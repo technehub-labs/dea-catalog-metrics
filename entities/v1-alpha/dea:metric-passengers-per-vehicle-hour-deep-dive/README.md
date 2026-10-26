@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passengers per Vehicle Hour (Deep Dive
 - **Canonical id:** `dea:metric-passengers-per-vehicle-hour-deep-dive`
 - **Name:** Passengers per Vehicle Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPVH-D
 

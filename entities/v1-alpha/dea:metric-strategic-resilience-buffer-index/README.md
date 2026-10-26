@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Resilience Buffer Index** (S
 - **Canonical id:** `dea:metric-strategic-resilience-buffer-index`
 - **Name:** Strategic Resilience Buffer Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRBI
 

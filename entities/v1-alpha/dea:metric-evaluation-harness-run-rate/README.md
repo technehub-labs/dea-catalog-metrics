@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Evaluation Harness Run Rate** (EHRR-LL
 - **Canonical id:** `dea:metric-evaluation-harness-run-rate`
 - **Name:** Evaluation Harness Run Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EHRR-LLM
 
@@ -27,7 +27,7 @@ Model Releases Evaluated before Deployment / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

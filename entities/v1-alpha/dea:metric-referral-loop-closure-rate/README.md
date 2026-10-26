@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Referral Loop Closure Rate** (RLCR) in
 - **Canonical id:** `dea:metric-referral-loop-closure-rate`
 - **Name:** Referral Loop Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RLCR
 
@@ -23,7 +23,7 @@ Referrals with Specialist Report Returned / Referrals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

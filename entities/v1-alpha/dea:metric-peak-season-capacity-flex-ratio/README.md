@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Season Capacity Flex Ratio** (PSC
 - **Canonical id:** `dea:metric-peak-season-capacity-flex-ratio`
 - **Name:** Peak Season Capacity Flex Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSCF
 

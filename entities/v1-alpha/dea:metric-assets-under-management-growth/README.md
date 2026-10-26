@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assets Under Management Growth** (AUMG
 - **Canonical id:** `dea:metric-assets-under-management-growth`
 - **Name:** Assets Under Management Growth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUMG
 
@@ -27,7 +27,7 @@ Period growth in total client assets managed - the top-line expansion metric for
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

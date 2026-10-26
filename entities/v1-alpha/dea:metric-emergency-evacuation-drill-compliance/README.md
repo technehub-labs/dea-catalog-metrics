@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Evacuation Drill Compliance*
 - **Canonical id:** `dea:metric-emergency-evacuation-drill-compliance`
 - **Name:** Emergency Evacuation Drill Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EEDC
 
@@ -23,7 +23,7 @@ Sites Completing Required Drills / Sites
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

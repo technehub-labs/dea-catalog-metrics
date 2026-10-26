@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post Coverage Rate (Security)** (PCR-S
 - **Canonical id:** `dea:metric-post-coverage-rate-security`
 - **Name:** Post Coverage Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCR-S
 
@@ -23,7 +23,7 @@ Shifts Covered as Rostered / Rostered Shifts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Four-Firm Concentration Ratio** (FFCR)
 - **Canonical id:** `dea:metric-four-firm-concentration-ratio`
 - **Name:** Four-Firm Concentration Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FFCR
 
@@ -27,7 +27,7 @@ Combined Share of Top Four Competitors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

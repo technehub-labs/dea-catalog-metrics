@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Horizon Scan Coverage Ratio** (HSCR) i
 - **Canonical id:** `dea:metric-horizon-scan-coverage-ratio`
 - **Name:** Horizon Scan Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HSCR
 
@@ -27,7 +27,7 @@ Scanned Risk Categories per Framework / Categories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

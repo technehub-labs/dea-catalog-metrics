@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Passenger Wait Time** (APWT) i
 - **Canonical id:** `dea:metric-average-passenger-wait-time`
 - **Name:** Average Passenger Wait Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APWT
 
@@ -23,8 +23,8 @@ Observed Waiting Time at Stops, Averaged
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

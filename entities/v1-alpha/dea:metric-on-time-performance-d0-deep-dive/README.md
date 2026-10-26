@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance - D0 (Deep Dive)**
 - **Canonical id:** `dea:metric-on-time-performance-d0-deep-dive`
 - **Name:** On-Time Performance - D0 (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTP-D0
 
@@ -27,7 +27,7 @@ Departures within 0 Minutes of Schedule / Departures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mission Success Rate** (MSR-D) in the 
 - **Canonical id:** `dea:metric-mission-success-rate`
 - **Name:** Mission Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSR-D
 
@@ -27,7 +27,7 @@ Missions Achieving Objectives / Missions Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Known Error Database Utilization Rate*
 - **Canonical id:** `dea:metric-known-error-database-utilization-rate`
 - **Name:** Known Error Database Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KEDBR
 
@@ -23,7 +23,7 @@ Incidents Resolved via Known Error Entries / Applicable Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

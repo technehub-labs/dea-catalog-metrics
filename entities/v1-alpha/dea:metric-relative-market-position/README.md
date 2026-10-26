@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Relative Market Position** (RMP) in th
 - **Canonical id:** `dea:metric-relative-market-position`
 - **Name:** Relative Market Position
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RMP
 

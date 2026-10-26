@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Case** (CPC2) in the OpenDEAM
 - **Canonical id:** `dea:metric-cost-per-case`
 - **Name:** Cost per Case
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPC2
 

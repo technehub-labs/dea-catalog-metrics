@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Specification Compliance** (C
 - **Canonical id:** `dea:metric-customer-specification-compliance`
 - **Name:** Customer Specification Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSC
 
@@ -23,7 +23,7 @@ Batches Meeting Customer Specification / Batches Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

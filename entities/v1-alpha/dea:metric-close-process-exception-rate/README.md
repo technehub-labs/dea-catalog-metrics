@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Close Process Exception Rate** (CPER) 
 - **Canonical id:** `dea:metric-close-process-exception-rate`
 - **Name:** Close Process Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPER
 
@@ -23,7 +23,7 @@ Close Tasks Requiring Rework / Close Tasks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

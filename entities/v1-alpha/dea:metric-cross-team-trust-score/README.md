@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Team Trust Score** (CTTS) in the
 - **Canonical id:** `dea:metric-cross-team-trust-score`
 - **Name:** Cross-Team Trust Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTTS
 

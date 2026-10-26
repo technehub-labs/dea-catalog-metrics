@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigation Cycle Time (Deep Dive)**
 - **Canonical id:** `dea:metric-investigation-cycle-time-deep-dive`
 - **Name:** Investigation Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICT-D
 
@@ -23,8 +23,8 @@ Days from Case Open to Disposition
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

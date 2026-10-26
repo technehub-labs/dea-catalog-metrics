@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Execution Compliance** (TAE
 - **Canonical id:** `dea:metric-turnaround-execution-compliance`
 - **Name:** Turnaround Execution Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TAEC
 
@@ -27,7 +27,7 @@ Turnarounds Completed on Schedule and Budget / Turnarounds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

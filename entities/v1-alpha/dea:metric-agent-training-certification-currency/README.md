@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Training Certification Currency*
 - **Canonical id:** `dea:metric-agent-training-certification-currency`
 - **Name:** Agent Training Certification Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATCC
 
@@ -23,7 +23,7 @@ Agents with Current Certifications / Agents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

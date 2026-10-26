@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Rollback Automation Rate** (RR
 - **Canonical id:** `dea:metric-release-rollback-automation-rate`
 - **Name:** Release Rollback Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRA
 
@@ -23,7 +23,7 @@ Rollbacks Executed via Automated Path / Rollbacks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Documentation Completion Time
 - **Canonical id:** `dea:metric-clinical-documentation-completion-time`
 - **Name:** Clinical Documentation Completion Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDCT
 
@@ -23,8 +23,8 @@ Hours from Encounter to Closed Note
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

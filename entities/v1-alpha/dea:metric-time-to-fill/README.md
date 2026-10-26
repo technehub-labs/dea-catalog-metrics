@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Fill** (TTF) in the OpenDEAM M
 - **Canonical id:** `dea:metric-time-to-fill`
 - **Name:** Time to Fill
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTF
 
@@ -27,8 +27,8 @@ Days from Job Requisition to Offer Acceptance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

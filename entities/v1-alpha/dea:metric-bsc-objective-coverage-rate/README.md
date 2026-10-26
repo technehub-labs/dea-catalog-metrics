@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Objective Coverage Rate** (BSOC) i
 - **Canonical id:** `dea:metric-bsc-objective-coverage-rate`
 - **Name:** BSC Objective Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSOC
 
@@ -27,7 +27,7 @@ Strategy Map Objectives with Linked Measures / Objectives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

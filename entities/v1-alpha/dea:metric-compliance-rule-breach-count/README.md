@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Rule Breach Count** (CRBC-I
 - **Canonical id:** `dea:metric-compliance-rule-breach-count`
 - **Name:** Compliance Rule Breach Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRBC-IR
 

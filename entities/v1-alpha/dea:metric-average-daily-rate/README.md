@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Daily Rate** (ADR) in the Open
 - **Canonical id:** `dea:metric-average-daily-rate`
 - **Name:** Average Daily Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADR
 

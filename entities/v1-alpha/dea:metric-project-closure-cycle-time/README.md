@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Closure Cycle Time** (PCCT-PM)
 - **Canonical id:** `dea:metric-project-closure-cycle-time`
 - **Name:** Project Closure Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCCT-PM
 
@@ -23,8 +23,8 @@ Days from Final Deliverable to Formal Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

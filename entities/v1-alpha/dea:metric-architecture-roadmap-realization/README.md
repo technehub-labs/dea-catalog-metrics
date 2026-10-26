@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Roadmap Realization** (AR
 - **Canonical id:** `dea:metric-architecture-roadmap-realization`
 - **Name:** Architecture Roadmap Realization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARR
 
@@ -27,7 +27,7 @@ Roadmap Milestones Delivered / Milestones Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

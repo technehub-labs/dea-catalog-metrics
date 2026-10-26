@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PMI Milestone Attainment Rate** (PMMA)
 - **Canonical id:** `dea:metric-pmi-milestone-attainment-rate`
 - **Name:** PMI Milestone Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMMA
 
@@ -27,7 +27,7 @@ Integration Milestones on Schedule / Milestones
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

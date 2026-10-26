@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-to-Competency Compression** (TTCC
 - **Canonical id:** `dea:metric-time-to-competency-compression`
 - **Name:** Time-to-Competency Compression
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTCC
 
@@ -27,7 +27,7 @@ Reduction in Ramp Days vs Baseline / Baseline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

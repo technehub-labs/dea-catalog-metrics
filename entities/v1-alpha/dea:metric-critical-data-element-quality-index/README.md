@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Data Element Quality Index** 
 - **Canonical id:** `dea:metric-critical-data-element-quality-index`
 - **Name:** Critical Data Element Quality Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDEQI
 

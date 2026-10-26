@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sprint Carryover Rate** (SCR-AG) in th
 - **Canonical id:** `dea:metric-sprint-carryover-rate`
 - **Name:** Sprint Carryover Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-AG
 
@@ -23,7 +23,7 @@ Stories Carried to Next Sprint / Sprint Stories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

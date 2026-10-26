@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Container Crane Utilization (Deep Dive
 - **Canonical id:** `dea:metric-container-crane-utilization-deep-dive`
 - **Name:** Container Crane Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCU-D
 
@@ -23,7 +23,7 @@ Crane Working Time / Available Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

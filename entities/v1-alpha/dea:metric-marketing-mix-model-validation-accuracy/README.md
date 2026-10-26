@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Mix Model Validation Accurac
 - **Canonical id:** `dea:metric-marketing-mix-model-validation-accuracy`
 - **Name:** Marketing Mix Model Validation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MMMVA
 
@@ -27,7 +27,7 @@ Holdout Predicted vs Actual Revenue Variance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

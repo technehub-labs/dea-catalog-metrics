@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Profit Margin** (UPM) in 
 - **Canonical id:** `dea:metric-underwriting-profit-margin`
 - **Name:** Underwriting Profit Margin
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UPM
 
@@ -27,7 +27,7 @@ Premium minus claims minus expenses, as a share of premium - the margin the unde
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Comparison Site Conversion** (PC
 - **Canonical id:** `dea:metric-price-comparison-site-conversion`
 - **Name:** Price Comparison Site Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCSC
 
@@ -23,7 +23,7 @@ Purchases from Comparison Traffic / Comparison Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

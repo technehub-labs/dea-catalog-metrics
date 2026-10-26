@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Disruption Loss Value** (O
 - **Canonical id:** `dea:metric-operational-disruption-loss-value`
 - **Name:** Operational Disruption Loss Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODLV
 

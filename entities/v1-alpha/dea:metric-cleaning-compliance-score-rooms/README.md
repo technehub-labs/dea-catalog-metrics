@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cleaning Compliance Score (Rooms)** (C
 - **Canonical id:** `dea:metric-cleaning-compliance-score-rooms`
 - **Name:** Cleaning Compliance Score (Rooms)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCS-R
 
@@ -23,7 +23,7 @@ Inspected Rooms Meeting Standard / Inspected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

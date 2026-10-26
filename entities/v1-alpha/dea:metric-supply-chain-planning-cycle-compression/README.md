@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Planning Cycle Compressio
 - **Canonical id:** `dea:metric-supply-chain-planning-cycle-compression`
 - **Name:** Supply Chain Planning Cycle Compression
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPC
 
@@ -27,7 +27,7 @@ Reduction in S&OP Cycle Days vs Baseline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

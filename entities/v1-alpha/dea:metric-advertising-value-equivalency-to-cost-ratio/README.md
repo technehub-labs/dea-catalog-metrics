@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advertising Value Equivalency to Cost 
 - **Canonical id:** `dea:metric-advertising-value-equivalency-to-cost-ratio`
 - **Name:** Advertising Value Equivalency to Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AVECR
 

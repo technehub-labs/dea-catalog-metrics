@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Responsible AI Training Completion** (
 - **Canonical id:** `dea:metric-responsible-ai-training-completion`
 - **Name:** Responsible AI Training Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RAITC
 
@@ -23,7 +23,7 @@ Staff Completing Responsible AI Training / Staff in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

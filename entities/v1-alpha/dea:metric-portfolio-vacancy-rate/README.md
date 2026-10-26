@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Vacancy Rate** (PVR) in the 
 - **Canonical id:** `dea:metric-portfolio-vacancy-rate`
 - **Name:** Portfolio Vacancy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVR
 
@@ -27,7 +27,7 @@ Vacant Leasable Area / Total Leasable Area
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

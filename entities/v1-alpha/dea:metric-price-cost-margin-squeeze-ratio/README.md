@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Cost Margin Squeeze Ratio** (PCM
 - **Canonical id:** `dea:metric-price-cost-margin-squeeze-ratio`
 - **Name:** Price Cost Margin Squeeze Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCMSR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stress-Related Absence Rate** (SAR-E) 
 - **Canonical id:** `dea:metric-stress-related-absence-rate`
 - **Name:** Stress-Related Absence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAR-E
 
@@ -27,7 +27,7 @@ Stress-Related Absence Days / Total Absence Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

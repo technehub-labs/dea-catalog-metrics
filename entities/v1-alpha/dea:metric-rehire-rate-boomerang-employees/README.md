@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rehire Rate (Boomerang Employees)** (R
 - **Canonical id:** `dea:metric-rehire-rate-boomerang-employees`
 - **Name:** Rehire Rate (Boomerang Employees)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRE
 
@@ -27,7 +27,7 @@ Former Employees Rehired within Period / Hires
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

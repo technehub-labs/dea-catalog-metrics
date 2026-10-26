@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deliveries per Route** (DPR) in the Op
 - **Canonical id:** `dea:metric-deliveries-per-route`
 - **Name:** Deliveries per Route
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPR
 

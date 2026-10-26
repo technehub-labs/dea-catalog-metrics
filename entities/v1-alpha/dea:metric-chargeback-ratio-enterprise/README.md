@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chargeback Ratio (Enterprise)** (CBR-E
 - **Canonical id:** `dea:metric-chargeback-ratio-enterprise`
 - **Name:** Chargeback Ratio (Enterprise)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBR-EF
 
@@ -23,7 +23,7 @@ Chargebacks / Total Card Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Maintenance Uptime (Deep Div
 - **Canonical id:** `dea:metric-equipment-maintenance-uptime-deep-dive`
 - **Name:** Equipment Maintenance Uptime (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EMU-D
 
@@ -23,7 +23,7 @@ Equipment Available / Equipment Inventory
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

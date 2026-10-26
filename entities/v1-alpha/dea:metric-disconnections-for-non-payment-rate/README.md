@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disconnections for Non-Payment Rate** 
 - **Canonical id:** `dea:metric-disconnections-for-non-payment-rate`
 - **Name:** Disconnections for Non-Payment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DNP
 
@@ -27,7 +27,7 @@ Disconnections / Customer Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

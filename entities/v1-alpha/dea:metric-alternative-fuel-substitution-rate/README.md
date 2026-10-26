@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alternative Fuel Substitution Rate** (
 - **Canonical id:** `dea:metric-alternative-fuel-substitution-rate`
 - **Name:** Alternative Fuel Substitution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFSR
 
@@ -27,7 +27,7 @@ Alternative Fuel Heat / Total Fuel Heat
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

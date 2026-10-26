@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash-on-Cash Return** (COCR-RE) in the
 - **Canonical id:** `dea:metric-cash-on-cash-return`
 - **Name:** Cash-on-Cash Return
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COCR-RE
 
@@ -27,7 +27,7 @@ Pre-Tax Cash Flow / Cash Invested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

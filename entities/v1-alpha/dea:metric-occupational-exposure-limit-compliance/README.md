@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupational Exposure Limit Compliance
 - **Canonical id:** `dea:metric-occupational-exposure-limit-compliance`
 - **Name:** Occupational Exposure Limit Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OELC
 
@@ -27,7 +27,7 @@ Monitoring Results below OEL / Results
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

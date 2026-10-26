@@ -7,7 +7,7 @@ Candidate Performance Metric record for **L&D Investment per Employee** (LDIPE) 
 - **Canonical id:** `dea:metric-l-d-investment-per-employee`
 - **Name:** L&D Investment per Employee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LDIPE
 

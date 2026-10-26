@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proactive versus Reactive Ticket Ratio
 - **Canonical id:** `dea:metric-proactive-versus-reactive-ticket-ratio`
 - **Name:** Proactive versus Reactive Ticket Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVRTR
 
@@ -27,7 +27,7 @@ Proactive Tickets / Total Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

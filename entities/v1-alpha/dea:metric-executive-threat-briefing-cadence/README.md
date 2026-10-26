@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Executive Threat Briefing Cadence** (E
 - **Canonical id:** `dea:metric-executive-threat-briefing-cadence`
 - **Name:** Executive Threat Briefing Cadence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETBC
 

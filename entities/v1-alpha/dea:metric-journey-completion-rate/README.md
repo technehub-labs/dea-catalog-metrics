@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journey Completion Rate** (JCR) in the
 - **Canonical id:** `dea:metric-journey-completion-rate`
 - **Name:** Journey Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JCR
 
@@ -27,7 +27,7 @@ Customers Completing Journey / Customers Starting Journey
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

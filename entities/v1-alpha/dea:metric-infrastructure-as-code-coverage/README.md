@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure-as-Code Coverage** (IaC
 - **Canonical id:** `dea:metric-infrastructure-as-code-coverage`
 - **Name:** Infrastructure-as-Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IaCC
 
@@ -27,7 +27,7 @@ Infrastructure Managed as Code / Total Infrastructure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

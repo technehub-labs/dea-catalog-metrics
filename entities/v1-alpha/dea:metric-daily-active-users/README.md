@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users** (DAU) in the Open
 - **Canonical id:** `dea:metric-daily-active-users`
 - **Name:** Daily Active Users
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAU
 

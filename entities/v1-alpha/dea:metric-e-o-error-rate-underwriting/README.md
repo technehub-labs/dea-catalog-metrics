@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E&O Error Rate (Underwriting)** (EOR-U
 - **Canonical id:** `dea:metric-e-o-error-rate-underwriting`
 - **Name:** E&O Error Rate (Underwriting)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EOR-U
 
@@ -23,8 +23,8 @@ Errors and Omissions Incidents / Policies Processed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punctuality at Arrival** (PAA) in the 
 - **Canonical id:** `dea:metric-punctuality-at-arrival`
 - **Name:** Punctuality at Arrival
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAA
 
@@ -27,7 +27,7 @@ Flights Arriving within Threshold of Schedule / Total Arrivals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **In-House Counsel Leverage Ratio** (IHC
 - **Canonical id:** `dea:metric-in-house-counsel-leverage-ratio`
 - **Name:** In-House Counsel Leverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IHCL
 

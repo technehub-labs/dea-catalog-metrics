@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Lifecycle Currency Rate** (PLCR
 - **Canonical id:** `dea:metric-policy-lifecycle-currency-rate`
 - **Name:** Policy Lifecycle Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLCR-GOV
 
@@ -27,7 +27,7 @@ Policies Reviewed within Cycle / Policies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

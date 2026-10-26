@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice Quality MOS Score** (VQMS) in th
 - **Canonical id:** `dea:metric-voice-quality-mos-score`
 - **Name:** Voice Quality MOS Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VQMS
 

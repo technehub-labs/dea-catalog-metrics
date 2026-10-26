@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Availability (Fleet Critical)** 
 - **Canonical id:** `dea:metric-asset-availability-fleet-critical`
 - **Name:** Asset Availability (Fleet Critical)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAFC
 
@@ -27,7 +27,7 @@ Uptime of Critical Assets / Planned Uptime
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

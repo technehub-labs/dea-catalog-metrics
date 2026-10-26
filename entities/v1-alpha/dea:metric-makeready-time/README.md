@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Makeready Time** (MKT) in the OpenDEAM
 - **Canonical id:** `dea:metric-makeready-time`
 - **Name:** Makeready Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MKT
 
@@ -23,8 +23,8 @@ Minutes to Set Up Job to Approved Standard
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

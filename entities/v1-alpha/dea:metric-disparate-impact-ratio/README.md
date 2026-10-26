@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disparate Impact Ratio** (DIR-AI) in t
 - **Canonical id:** `dea:metric-disparate-impact-ratio`
 - **Name:** Disparate Impact Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIR-AI
 

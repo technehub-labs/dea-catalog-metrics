@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Past Due Receivables Ratio** (PDRR) in
 - **Canonical id:** `dea:metric-past-due-receivables-ratio`
 - **Name:** Past Due Receivables Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDRR
 
@@ -23,7 +23,7 @@ Receivables Past Due / Total Receivables
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

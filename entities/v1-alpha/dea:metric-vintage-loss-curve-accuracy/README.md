@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vintage Loss Curve Accuracy** (VLCA) i
 - **Canonical id:** `dea:metric-vintage-loss-curve-accuracy`
 - **Name:** Vintage Loss Curve Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VLCA
 
@@ -27,7 +27,7 @@ Actual Vintage Losses vs Forecast / Forecast
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

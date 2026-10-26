@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Span and Layer Index**
 - **Canonical id:** `dea:metric-operating-model-span-and-layer-index`
 - **Name:** Operating Model Span and Layer Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OSLI
 

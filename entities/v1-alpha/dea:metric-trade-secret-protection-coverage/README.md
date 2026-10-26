@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Secret Protection Coverage** (TS
 - **Canonical id:** `dea:metric-trade-secret-protection-coverage`
 - **Name:** Trade Secret Protection Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSPC
 
@@ -27,7 +27,7 @@ Trade Secrets under Documented Controls / Identified Trade Secrets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

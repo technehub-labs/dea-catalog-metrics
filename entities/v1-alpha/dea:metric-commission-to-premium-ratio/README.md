@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commission-to-Premium Ratio** (CPR-I) 
 - **Canonical id:** `dea:metric-commission-to-premium-ratio`
 - **Name:** Commission-to-Premium Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPR-I
 
@@ -27,7 +27,7 @@ Commissions Paid / Written Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

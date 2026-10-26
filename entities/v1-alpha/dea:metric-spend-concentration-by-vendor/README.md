@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spend Concentration by Vendor** (SCV) 
 - **Canonical id:** `dea:metric-spend-concentration-by-vendor`
 - **Name:** Spend Concentration by Vendor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCV
 
@@ -27,7 +27,7 @@ Largest Vendor Spend / Total Outsourced Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

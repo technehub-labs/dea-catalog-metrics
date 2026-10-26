@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Maintenance Compliance** (P
 - **Canonical id:** `dea:metric-preventive-maintenance-compliance`
 - **Name:** Preventive Maintenance Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMC
 
@@ -27,7 +27,7 @@ PM Tasks Completed on Time / PM Tasks Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

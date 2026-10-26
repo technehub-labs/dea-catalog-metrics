@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discovery Interview Completion Rate** 
 - **Canonical id:** `dea:metric-discovery-interview-completion-rate`
 - **Name:** Discovery Interview Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DICR-RE
 
@@ -23,7 +23,7 @@ Customer Discovery Interviews Completed per Cycle / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

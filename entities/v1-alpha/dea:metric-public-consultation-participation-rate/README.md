@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Consultation Participation Rate
 - **Canonical id:** `dea:metric-public-consultation-participation-rate`
 - **Name:** Public Consultation Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCPR-PS
 
@@ -23,7 +23,7 @@ Respondents to Consultation / Notified Population Sample
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

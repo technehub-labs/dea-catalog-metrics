@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environmental Cost per Model Training 
 - **Canonical id:** `dea:metric-environmental-cost-per-model-training-run`
 - **Name:** Environmental Cost per Model Training Run
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECMTR
 
@@ -23,8 +23,8 @@ Energy Consumed per Training Run
 
 ## Unit
 
-- **Unit reference:** `dea:unit-megawatthours`
-- **Unit:** megawatthours
+- **Unit reference:** `dea:unit-megawatthour`
+- **Unit:** megawatthour
 - **Unit label (as published):** megawatt-hours (MWh)
 
 ## Classification

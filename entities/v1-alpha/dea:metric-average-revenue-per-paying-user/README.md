@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Paying User** (ARP
 - **Canonical id:** `dea:metric-average-revenue-per-paying-user`
 - **Name:** Average Revenue per Paying User
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARPPU
 

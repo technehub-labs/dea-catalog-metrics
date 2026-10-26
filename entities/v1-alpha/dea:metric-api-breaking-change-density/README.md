@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Breaking Change Density** (APBCD) 
 - **Canonical id:** `dea:metric-api-breaking-change-density`
 - **Name:** API Breaking Change Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APBCD
 

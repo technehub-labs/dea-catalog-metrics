@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Date Code Accuracy** (PDCA) in
 - **Canonical id:** `dea:metric-product-date-code-accuracy`
 - **Name:** Product Date Code Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDCA
 
@@ -23,7 +23,7 @@ Correctly Coded Packages / Packages Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

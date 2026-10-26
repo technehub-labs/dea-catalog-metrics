@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Span of Control** (SOC) in the OpenDEA
 - **Canonical id:** `dea:metric-span-of-control`
 - **Name:** Span of Control
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOC
 

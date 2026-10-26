@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Downtime per Release** (DDP
 - **Canonical id:** `dea:metric-deployment-downtime-per-release`
 - **Name:** Deployment Downtime per Release
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDPR-CD
 
@@ -27,8 +27,8 @@ Customer-Visible Minutes Lost per Release
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

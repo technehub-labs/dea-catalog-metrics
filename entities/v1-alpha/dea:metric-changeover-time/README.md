@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Changeover Time** (COT) in the OpenDEA
 - **Canonical id:** `dea:metric-changeover-time`
 - **Name:** Changeover Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COT
 
@@ -23,8 +23,8 @@ Time to Switch Production from One Item to Next
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

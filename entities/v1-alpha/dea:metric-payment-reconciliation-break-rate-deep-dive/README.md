@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Reconciliation Break Rate (Dee
 - **Canonical id:** `dea:metric-payment-reconciliation-break-rate-deep-dive`
 - **Name:** Payment Reconciliation Break Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRBR
 
@@ -23,7 +23,7 @@ Unmatched Items / Reconciled Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

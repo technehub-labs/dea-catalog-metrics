@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield per Reactor Campaign** (YPRC) in
 - **Canonical id:** `dea:metric-yield-per-reactor-campaign`
 - **Name:** Yield per Reactor Campaign
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** YPRC
 
@@ -23,7 +23,7 @@ Output Mass / Theoretical Maximum Mass
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

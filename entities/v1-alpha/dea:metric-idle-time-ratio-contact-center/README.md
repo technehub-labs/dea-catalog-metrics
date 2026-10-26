@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idle Time Ratio (Contact Center)** (IT
 - **Canonical id:** `dea:metric-idle-time-ratio-contact-center`
 - **Name:** Idle Time Ratio (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITR-CC
 
@@ -23,7 +23,7 @@ Unproductive Waiting Time / Paid Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

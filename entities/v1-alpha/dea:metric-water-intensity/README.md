@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Intensity** (WI2) in the OpenDEA
 - **Canonical id:** `dea:metric-water-intensity`
 - **Name:** Water Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WI2
 

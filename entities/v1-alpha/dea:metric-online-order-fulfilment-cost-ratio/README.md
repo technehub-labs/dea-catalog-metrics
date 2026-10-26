@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Online Order Fulfilment Cost Ratio** (
 - **Canonical id:** `dea:metric-online-order-fulfilment-cost-ratio`
 - **Name:** Online Order Fulfilment Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OOFCR
 
@@ -27,7 +27,7 @@ Pick-Pack-Deliver Cost / Online Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

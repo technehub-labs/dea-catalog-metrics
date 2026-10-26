@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess & Obsolete Inventory Ratio (Sup
 - **Canonical id:** `dea:metric-excess-obsolete-inventory-ratio-supply-chain`
 - **Name:** Excess & Obsolete Inventory Ratio (Supply Chain)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EOIR
 
@@ -27,7 +27,7 @@ E&O Inventory Value / Total Inventory Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

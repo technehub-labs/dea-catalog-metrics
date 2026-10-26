@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Green Belt Project Throughput** (GBPT)
 - **Canonical id:** `dea:metric-green-belt-project-throughput`
 - **Name:** Green Belt Project Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GBPT
 

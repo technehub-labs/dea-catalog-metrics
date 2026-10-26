@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Detection Rate - AML** (MDRA) in
 - **Canonical id:** `dea:metric-model-detection-rate-aml`
 - **Name:** Model Detection Rate - AML
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDRA
 
@@ -27,7 +27,7 @@ Suspicious Activity Confirmed / Model Flagged
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

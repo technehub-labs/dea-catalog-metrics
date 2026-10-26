@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upsell Revenue Ratio** (UPR) in the Op
 - **Canonical id:** `dea:metric-upsell-revenue-ratio`
 - **Name:** Upsell Revenue Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UPR
 
@@ -27,7 +27,7 @@ Upsell and Cross-Sell Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

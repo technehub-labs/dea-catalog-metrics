@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Execution Rate** (BER) in the O
 - **Canonical id:** `dea:metric-budget-execution-rate`
 - **Name:** Budget Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BER
 
@@ -27,7 +27,7 @@ Actual Spend / Approved Budget
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

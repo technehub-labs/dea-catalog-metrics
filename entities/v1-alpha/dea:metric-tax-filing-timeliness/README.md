@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Filing Timeliness** (TFT) in the O
 - **Canonical id:** `dea:metric-tax-filing-timeliness`
 - **Name:** Tax Filing Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TFT
 
@@ -27,7 +27,7 @@ Filings Submitted by Deadline / Filings Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

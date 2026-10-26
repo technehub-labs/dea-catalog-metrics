@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labeling Accuracy Rate (Food)** (LAR-F
 - **Canonical id:** `dea:metric-labeling-accuracy-rate-food`
 - **Name:** Labeling Accuracy Rate (Food)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LAR-F
 
@@ -23,7 +23,7 @@ Labels Matching Specification / Labels Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

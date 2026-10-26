@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Review Coverage (Deep Dive)** (CR
 - **Canonical id:** `dea:metric-code-review-coverage-deep-dive`
 - **Name:** Code Review Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-PR
 
@@ -23,7 +23,7 @@ Changes Reviewed before Merge / Total Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

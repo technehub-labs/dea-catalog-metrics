@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Elasticity of Demand** (PED) in 
 - **Canonical id:** `dea:metric-price-elasticity-of-demand`
 - **Name:** Price Elasticity of Demand
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PED
 

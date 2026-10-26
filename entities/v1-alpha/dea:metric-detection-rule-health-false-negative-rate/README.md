@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Detection Rule Health - False Negative
 - **Canonical id:** `dea:metric-detection-rule-health-false-negative-rate`
 - **Name:** Detection Rule Health - False Negative Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRHFN
 
@@ -27,7 +27,7 @@ Valid Threats Missed by Rules / Valid Threats in Test
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

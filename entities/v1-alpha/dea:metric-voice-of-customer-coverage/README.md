@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice of Customer Coverage** (VOCC) in
 - **Canonical id:** `dea:metric-voice-of-customer-coverage`
 - **Name:** Voice of Customer Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VOCC
 
@@ -27,7 +27,7 @@ Features Informed by VOC Evidence / Features Delivered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

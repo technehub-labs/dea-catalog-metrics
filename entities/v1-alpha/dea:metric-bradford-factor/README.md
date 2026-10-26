@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bradford Factor** (BRADF) in the OpenD
 - **Canonical id:** `dea:metric-bradford-factor`
 - **Name:** Bradford Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRADF
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Training on ESG** (ETSG) in t
 - **Canonical id:** `dea:metric-employee-training-on-esg`
 - **Name:** Employee Training on ESG
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETSG
 
@@ -23,7 +23,7 @@ Employees Completing ESG Training / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Robot Mean Time between Failures** (RM
 - **Canonical id:** `dea:metric-robot-mean-time-between-failures`
 - **Name:** Robot Mean Time between Failures
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RMTBF
 
@@ -27,8 +27,8 @@ Robot Operating Time / Robot Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

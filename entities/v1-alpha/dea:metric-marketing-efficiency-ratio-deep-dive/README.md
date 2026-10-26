@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Efficiency Ratio (Deep Dive)
 - **Canonical id:** `dea:metric-marketing-efficiency-ratio-deep-dive`
 - **Name:** Marketing Efficiency Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MERDD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patch-to-Deploy Lag (Dependencies)** (
 - **Canonical id:** `dea:metric-patch-to-deploy-lag-dependencies`
 - **Name:** Patch-to-Deploy Lag (Dependencies)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTDL
 
@@ -23,8 +23,8 @@ Days from Patch Release to Dependency Deployed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

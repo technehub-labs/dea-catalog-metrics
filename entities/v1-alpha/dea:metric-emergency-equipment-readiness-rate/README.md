@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Equipment Readiness Rate** (
 - **Canonical id:** `dea:metric-emergency-equipment-readiness-rate`
 - **Name:** Emergency Equipment Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EERR
 
@@ -23,7 +23,7 @@ Emergency Equipment Passing Inspection / Equipment Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

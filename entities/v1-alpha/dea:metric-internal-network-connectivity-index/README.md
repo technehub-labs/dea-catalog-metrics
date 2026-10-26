@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Network Connectivity Index** 
 - **Canonical id:** `dea:metric-internal-network-connectivity-index`
 - **Name:** Internal Network Connectivity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INCI
 

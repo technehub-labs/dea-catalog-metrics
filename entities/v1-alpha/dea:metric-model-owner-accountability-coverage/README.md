@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Owner Accountability Coverage** 
 - **Canonical id:** `dea:metric-model-owner-accountability-coverage`
 - **Name:** Model Owner Accountability Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOAC
 
@@ -27,7 +27,7 @@ Models with Named Accountable Owner / Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

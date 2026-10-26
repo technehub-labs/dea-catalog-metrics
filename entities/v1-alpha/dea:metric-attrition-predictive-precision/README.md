@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Predictive Precision** (APP)
 - **Canonical id:** `dea:metric-attrition-predictive-precision`
 - **Name:** Attrition Predictive Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APP
 
@@ -27,7 +27,7 @@ True At-Risk Departures Predicted / Predicted Departures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

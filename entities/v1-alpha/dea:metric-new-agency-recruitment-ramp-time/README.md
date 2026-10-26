@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Agency Recruitment Ramp Time** (NA
 - **Canonical id:** `dea:metric-new-agency-recruitment-ramp-time`
 - **Name:** New Agency Recruitment Ramp Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NARR
 
@@ -23,8 +23,8 @@ Days from Appointment to First Bound Policy
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

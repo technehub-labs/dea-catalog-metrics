@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Markdown Rate (Deep Dive)** (MKDD) in 
 - **Canonical id:** `dea:metric-markdown-rate-deep-dive`
 - **Name:** Markdown Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MKDD
 
@@ -23,7 +23,7 @@ Markdown Value / Gross Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

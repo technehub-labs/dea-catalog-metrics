@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Methane Emissions Intensity** (MEI) in
 - **Canonical id:** `dea:metric-methane-emissions-intensity`
 - **Name:** Methane Emissions Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MEI
 

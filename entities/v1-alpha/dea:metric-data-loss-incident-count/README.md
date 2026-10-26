@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Loss Incident Count** (DLIC) in t
 - **Canonical id:** `dea:metric-data-loss-incident-count`
 - **Name:** Data Loss Incident Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLIC
 

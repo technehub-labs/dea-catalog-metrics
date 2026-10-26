@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Region Release Consistency Rate*
 - **Canonical id:** `dea:metric-multi-region-release-consistency-rate`
 - **Name:** Multi-Region Release Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRRCR
 
@@ -23,7 +23,7 @@ Regions Deployed within Alignment Window / Regions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

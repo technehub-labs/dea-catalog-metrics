@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hire (Deep Dive)** (CPHDD) in
 - **Canonical id:** `dea:metric-cost-per-hire-deep-dive`
 - **Name:** Cost per Hire (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPHDD
 

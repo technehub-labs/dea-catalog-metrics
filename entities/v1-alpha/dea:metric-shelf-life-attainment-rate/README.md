@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shelf Life Attainment Rate** (SLAR) in
 - **Canonical id:** `dea:metric-shelf-life-attainment-rate`
 - **Name:** Shelf Life Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLAR
 
@@ -23,7 +23,7 @@ Batches Meeting Target Shelf Life / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

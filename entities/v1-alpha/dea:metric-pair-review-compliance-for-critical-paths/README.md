@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pair Review Compliance for Critical Pa
 - **Canonical id:** `dea:metric-pair-review-compliance-for-critical-paths`
 - **Name:** Pair Review Compliance for Critical Paths
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCC
 
@@ -23,7 +23,7 @@ Critical-Path Changes with Two Reviewers / Critical-Path Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

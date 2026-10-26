@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Pattern Standard Compliance** (
 - **Canonical id:** `dea:metric-design-pattern-standard-compliance`
 - **Name:** Design Pattern Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPSC-SA
 
@@ -23,7 +23,7 @@ Components Following Approved Patterns / Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

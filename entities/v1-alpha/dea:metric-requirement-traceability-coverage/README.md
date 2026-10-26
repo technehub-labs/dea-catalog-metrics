@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirement Traceability Coverage** (R
 - **Canonical id:** `dea:metric-requirement-traceability-coverage`
 - **Name:** Requirement Traceability Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTC-RE
 
@@ -27,7 +27,7 @@ Requirements Traced to Tests and Code / Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

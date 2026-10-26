@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DEI Goal Attainment Rate** (DEIGAR) in
 - **Canonical id:** `dea:metric-dei-goal-attainment-rate`
 - **Name:** DEI Goal Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DEIGAR
 
@@ -27,7 +27,7 @@ Published DEI Goals Achieved / Goals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

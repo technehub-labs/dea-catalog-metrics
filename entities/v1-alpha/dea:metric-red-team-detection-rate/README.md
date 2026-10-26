@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Red Team Detection Rate** (RTDR) in th
 - **Canonical id:** `dea:metric-red-team-detection-rate`
 - **Name:** Red Team Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTDR
 
@@ -27,7 +27,7 @@ Simulated Attack Techniques Detected by Defenders / Techniques Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

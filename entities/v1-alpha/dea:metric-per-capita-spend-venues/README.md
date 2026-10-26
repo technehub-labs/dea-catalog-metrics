@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Per Capita Spend (Venues)** (PCSV) in 
 - **Canonical id:** `dea:metric-per-capita-spend-venues`
 - **Name:** Per Capita Spend (Venues)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCSV
 

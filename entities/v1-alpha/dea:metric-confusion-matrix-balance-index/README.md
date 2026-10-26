@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Confusion Matrix Balance Index** (CMBI
 - **Canonical id:** `dea:metric-confusion-matrix-balance-index`
 - **Name:** Confusion Matrix Balance Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMBI
 

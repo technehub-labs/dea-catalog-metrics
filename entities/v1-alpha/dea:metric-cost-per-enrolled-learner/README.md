@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Enrolled Learner** (CPEL) in 
 - **Canonical id:** `dea:metric-cost-per-enrolled-learner`
 - **Name:** Cost per Enrolled Learner
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPEL
 

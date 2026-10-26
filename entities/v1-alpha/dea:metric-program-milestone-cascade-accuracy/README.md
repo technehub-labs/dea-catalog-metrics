@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Milestone Cascade Accuracy** (
 - **Canonical id:** `dea:metric-program-milestone-cascade-accuracy`
 - **Name:** Program Milestone Cascade Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMCA-PPM
 
@@ -23,7 +23,7 @@ Program Milestones Aligned to Project Deliverables / Milestones
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

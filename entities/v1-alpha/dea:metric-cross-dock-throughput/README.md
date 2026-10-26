@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Dock Throughput** (CDT) in the O
 - **Canonical id:** `dea:metric-cross-dock-throughput`
 - **Name:** Cross-Dock Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDT
 

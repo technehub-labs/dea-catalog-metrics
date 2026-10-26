@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintainability Index** (MAINIDX) in t
 - **Canonical id:** `dea:metric-maintainability-index`
 - **Name:** Maintainability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAINIDX
 

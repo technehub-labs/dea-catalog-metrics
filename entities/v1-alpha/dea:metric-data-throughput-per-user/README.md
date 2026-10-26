@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Throughput per User** (DTPU) in t
 - **Canonical id:** `dea:metric-data-throughput-per-user`
 - **Name:** Data Throughput per User
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTPU
 

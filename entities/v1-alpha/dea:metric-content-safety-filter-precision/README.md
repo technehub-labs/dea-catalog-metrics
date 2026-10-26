@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Safety Filter Precision** (CSF
 - **Canonical id:** `dea:metric-content-safety-filter-precision`
 - **Name:** Content Safety Filter Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSFP
 
@@ -23,7 +23,7 @@ Correctly Flagged Content / Flagged Content
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

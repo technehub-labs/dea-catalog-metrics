@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Store Labor Scheduling Accuracy** (SLS
 - **Canonical id:** `dea:metric-store-labor-scheduling-accuracy`
 - **Name:** Store Labor Scheduling Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLSA
 
@@ -23,7 +23,7 @@ Scheduled Hours Matching Traffic Model / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

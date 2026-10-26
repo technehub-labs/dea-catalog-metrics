@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Report Filing Timeliness** 
 - **Canonical id:** `dea:metric-regulatory-report-filing-timeliness`
 - **Name:** Regulatory Report Filing Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRFT
 
@@ -27,7 +27,7 @@ Filings Submitted by Deadline / Filings Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

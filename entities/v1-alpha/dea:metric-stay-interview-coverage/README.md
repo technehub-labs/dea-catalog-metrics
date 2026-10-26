@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stay Interview Coverage** (SIC-EE) in 
 - **Canonical id:** `dea:metric-stay-interview-coverage`
 - **Name:** Stay Interview Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIC-EE
 
@@ -23,7 +23,7 @@ Key Talent with Stay Interview in 12 Months / Key Talent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

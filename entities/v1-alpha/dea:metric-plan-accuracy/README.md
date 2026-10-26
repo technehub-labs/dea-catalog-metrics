@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plan Accuracy** (PLAN) in the OpenDEAM
 - **Canonical id:** `dea:metric-plan-accuracy`
 - **Name:** Plan Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLAN
 
@@ -27,7 +27,7 @@ Measures how closely actual production or demand outcomes match the plan. It mat
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

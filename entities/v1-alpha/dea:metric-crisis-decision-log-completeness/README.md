@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Decision Log Completeness** (CD
 - **Canonical id:** `dea:metric-crisis-decision-log-completeness`
 - **Name:** Crisis Decision Log Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDLC
 
@@ -27,7 +27,7 @@ Crisis Decisions with Documented Rationale / Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

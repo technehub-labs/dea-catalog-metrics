@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Informed Consent Coverage for AI Proce
 - **Canonical id:** `dea:metric-informed-consent-coverage-for-ai-processing`
 - **Name:** Informed Consent Coverage for AI Processing
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICCAP
 
@@ -27,7 +27,7 @@ Processing Purposes with Valid Consent / Purposes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

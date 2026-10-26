@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Mix Model Alignment** (MMA) 
 - **Canonical id:** `dea:metric-marketing-mix-model-alignment`
 - **Name:** Marketing Mix Model Alignment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MMA
 

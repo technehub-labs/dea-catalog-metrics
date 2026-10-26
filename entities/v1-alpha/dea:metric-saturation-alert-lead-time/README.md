@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Saturation Alert Lead Time** (SALT) in
 - **Canonical id:** `dea:metric-saturation-alert-lead-time`
 - **Name:** Saturation Alert Lead Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SALT
 
@@ -23,8 +23,8 @@ Time between Saturation Alert and Actual Saturation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

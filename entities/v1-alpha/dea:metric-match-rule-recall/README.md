@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Match Rule Recall** (MRR-MD) in the Op
 - **Canonical id:** `dea:metric-match-rule-recall`
 - **Name:** Match Rule Recall
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRR-MD
 
@@ -23,7 +23,7 @@ True Matches Matched Automatically / All True Matches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

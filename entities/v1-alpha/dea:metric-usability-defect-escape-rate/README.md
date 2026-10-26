@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Usability Defect Escape Rate** (UDER-U
 - **Canonical id:** `dea:metric-usability-defect-escape-rate`
 - **Name:** Usability Defect Escape Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UDER-UX
 
@@ -23,7 +23,7 @@ Usability Issues Found Post-Release / All Usability Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

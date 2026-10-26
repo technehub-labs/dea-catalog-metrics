@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Pipeline Value** (RDPV) in the Ope
 - **Canonical id:** `dea:metric-r-d-pipeline-value`
 - **Name:** R&D Pipeline Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDPV
 

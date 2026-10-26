@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interface Error Rate** (IER-NW) in the
 - **Canonical id:** `dea:metric-interface-error-rate`
 - **Name:** Interface Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IER-NW
 
@@ -23,7 +23,7 @@ Interfaces with Persistent Errors / Interfaces
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density** (DD) in the OpenDEAM 
 - **Canonical id:** `dea:metric-defect-density`
 - **Name:** Defect Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DD
 

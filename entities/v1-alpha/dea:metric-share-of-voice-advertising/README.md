@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Voice (Advertising)** (SOVDD)
 - **Canonical id:** `dea:metric-share-of-voice-advertising`
 - **Name:** Share of Voice (Advertising)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOVDD
 
@@ -27,7 +27,7 @@ Owned Impressions / Category Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

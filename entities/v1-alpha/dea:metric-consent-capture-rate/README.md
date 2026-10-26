@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Consent Capture Rate** (CCR-DP) in the
 - **Canonical id:** `dea:metric-consent-capture-rate`
 - **Name:** Consent Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-DP
 
@@ -27,7 +27,7 @@ Data Subjects with Valid Consent Record / Subjects in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

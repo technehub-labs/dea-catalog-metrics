@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Fraud Detection Rate** (AFDR) in th
 - **Canonical id:** `dea:metric-ad-fraud-detection-rate`
 - **Name:** Ad Fraud Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFDR
 
@@ -23,7 +23,7 @@ Invalid Traffic Identified / Traffic Analyzed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

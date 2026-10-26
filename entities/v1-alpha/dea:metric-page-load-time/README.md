@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Page Load Time** (PLT) in the OpenDEAM
 - **Canonical id:** `dea:metric-page-load-time`
 - **Name:** Page Load Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLT
 
@@ -23,8 +23,8 @@ Median Browser Load Time for Key Pages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

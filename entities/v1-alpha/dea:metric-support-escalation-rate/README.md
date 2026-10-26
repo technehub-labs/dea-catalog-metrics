@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Support Escalation Rate** (SER-S) in t
 - **Canonical id:** `dea:metric-support-escalation-rate`
 - **Name:** Support Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SER-S
 
@@ -23,7 +23,7 @@ Escalated Tickets / Total Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

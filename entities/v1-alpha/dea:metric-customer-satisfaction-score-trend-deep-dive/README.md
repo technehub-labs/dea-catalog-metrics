@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction Score Trend (Dee
 - **Canonical id:** `dea:metric-customer-satisfaction-score-trend-deep-dive`
 - **Name:** Customer Satisfaction Score Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSATT-D
 

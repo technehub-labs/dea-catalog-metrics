@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Completion for Change** (TCC-
 - **Canonical id:** `dea:metric-training-completion-for-change`
 - **Name:** Training Completion for Change
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCC-C
 
@@ -23,7 +23,7 @@ Target Users Completing Change Training / Target Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

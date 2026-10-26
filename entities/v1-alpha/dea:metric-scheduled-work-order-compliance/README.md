@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scheduled Work Order Compliance** (SWO
 - **Canonical id:** `dea:metric-scheduled-work-order-compliance`
 - **Name:** Scheduled Work Order Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SWOC-F
 
@@ -23,7 +23,7 @@ PM Work Orders Completed on Schedule / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

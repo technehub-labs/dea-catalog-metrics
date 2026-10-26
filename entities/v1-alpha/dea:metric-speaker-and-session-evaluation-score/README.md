@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Speaker and Session Evaluation Score**
 - **Canonical id:** `dea:metric-speaker-and-session-evaluation-score`
 - **Name:** Speaker and Session Evaluation Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSES
 

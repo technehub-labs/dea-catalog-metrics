@@ -7,7 +7,7 @@ Candidate Performance Metric record for **MDM Merge Conflict Rate** (MDCR-MD) in
 - **Canonical id:** `dea:metric-mdm-merge-conflict-rate`
 - **Name:** MDM Merge Conflict Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCR-MD
 
@@ -23,7 +23,7 @@ Manual Merge Interventions / Merge Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

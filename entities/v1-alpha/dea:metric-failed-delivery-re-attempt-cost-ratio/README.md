@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failed Delivery Re-attempt Cost Ratio*
 - **Canonical id:** `dea:metric-failed-delivery-re-attempt-cost-ratio`
 - **Name:** Failed Delivery Re-attempt Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDRC
 
@@ -23,7 +23,7 @@ Re-attempt Costs / Total Delivery Costs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shift-Left Security Scan Coverage** (S
 - **Canonical id:** `dea:metric-shift-left-security-scan-coverage`
 - **Name:** Shift-Left Security Scan Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLSSC
 
@@ -27,7 +27,7 @@ Pipelines with Security Scanning at Build Time / Pipelines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

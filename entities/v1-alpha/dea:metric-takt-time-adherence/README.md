@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Time Adherence** (TTA) in the Ope
 - **Canonical id:** `dea:metric-takt-time-adherence`
 - **Name:** Takt Time Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTA
 

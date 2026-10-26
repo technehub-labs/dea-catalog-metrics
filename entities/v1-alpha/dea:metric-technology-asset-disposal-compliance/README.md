@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technology Asset Disposal Compliance**
 - **Canonical id:** `dea:metric-technology-asset-disposal-compliance`
 - **Name:** Technology Asset Disposal Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TADC-ITFM
 
@@ -23,7 +23,7 @@ Assets Disposed per Policy / Disposals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

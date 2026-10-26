@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Security Test Coverage** (APSTC) i
 - **Canonical id:** `dea:metric-api-security-test-coverage`
 - **Name:** API Security Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APSTC
 
@@ -27,7 +27,7 @@ APIs with Security Test Suite / Exposed APIs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

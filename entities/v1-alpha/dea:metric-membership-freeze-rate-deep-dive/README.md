@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Membership Freeze Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-membership-freeze-rate-deep-dive`
 - **Name:** Membership Freeze Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MFR-D
 
@@ -23,7 +23,7 @@ Members Freezing Membership / Members
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

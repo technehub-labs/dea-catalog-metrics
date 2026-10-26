@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analytics Talent Retention Rate** (ATR
 - **Canonical id:** `dea:metric-analytics-talent-retention-rate`
 - **Name:** Analytics Talent Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATRR-DS
 
@@ -27,7 +27,7 @@ Analytics Staff Retained / Analytics Staff
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

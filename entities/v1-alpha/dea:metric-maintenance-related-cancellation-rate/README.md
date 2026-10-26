@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Related Cancellation Rate*
 - **Canonical id:** `dea:metric-maintenance-related-cancellation-rate`
 - **Name:** Maintenance-Related Cancellation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRCR-A
 
@@ -27,7 +27,7 @@ Cancellations Due to Maintenance / Schedules
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

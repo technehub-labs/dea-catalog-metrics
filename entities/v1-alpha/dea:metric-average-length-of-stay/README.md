@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Stay** (ALOS) in the
 - **Canonical id:** `dea:metric-average-length-of-stay`
 - **Name:** Average Length of Stay
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALOS
 
@@ -27,8 +27,8 @@ Total Inpatient Days / Total Discharges
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

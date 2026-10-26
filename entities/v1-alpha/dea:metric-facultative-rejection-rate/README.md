@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facultative Rejection Rate** (FRR) in 
 - **Canonical id:** `dea:metric-facultative-rejection-rate`
 - **Name:** Facultative Rejection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRR
 
@@ -23,7 +23,7 @@ Facultative Offers Rejected / Offers Made
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

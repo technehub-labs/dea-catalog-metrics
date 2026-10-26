@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Notification Coverage** (S
 - **Canonical id:** `dea:metric-stakeholder-notification-coverage`
 - **Name:** Stakeholder Notification Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SNC-CM
 
@@ -27,7 +27,7 @@ Priority Stakeholders Notified within Threshold / Stakeholders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

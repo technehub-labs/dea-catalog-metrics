@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monitoring Visit Adherence** (MVA-P) i
 - **Canonical id:** `dea:metric-monitoring-visit-adherence`
 - **Name:** Monitoring Visit Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVA-P
 
@@ -23,7 +23,7 @@ Monitoring Visits Completed per Schedule / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

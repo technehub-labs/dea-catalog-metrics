@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Allocation Fulfilment Rate** (
 - **Canonical id:** `dea:metric-capital-allocation-fulfilment-rate`
 - **Name:** Capital Allocation Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAFR-BSC
 
@@ -27,7 +27,7 @@ Strategic Capital Deployed per Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Overrun Rate** (BOR) in the Ope
 - **Canonical id:** `dea:metric-budget-overrun-rate`
 - **Name:** Budget Overrun Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BOR
 
@@ -27,7 +27,7 @@ Projects Exceeding Budget / Projects Completed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

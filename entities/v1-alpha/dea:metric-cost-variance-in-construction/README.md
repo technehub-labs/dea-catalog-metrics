@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Variance in Construction** (CV-C)
 - **Canonical id:** `dea:metric-cost-variance-in-construction`
 - **Name:** Cost Variance in Construction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CV-C
 
@@ -27,7 +27,7 @@ Measures deviation of actual cost from the baseline budget. It matters because c
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

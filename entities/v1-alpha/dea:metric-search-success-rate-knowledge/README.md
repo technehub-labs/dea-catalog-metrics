@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search Success Rate (Knowledge)** (SSR
 - **Canonical id:** `dea:metric-search-success-rate-knowledge`
 - **Name:** Search Success Rate (Knowledge)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSRK
 
@@ -23,7 +23,7 @@ Sessions Resolved without Human Help / Search Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Territory Coverage Density** (TCD) in 
 - **Canonical id:** `dea:metric-territory-coverage-density`
 - **Name:** Territory Coverage Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCD
 

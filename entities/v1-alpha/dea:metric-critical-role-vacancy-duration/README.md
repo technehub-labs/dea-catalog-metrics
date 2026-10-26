@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Role Vacancy Duration** (CRVD
 - **Canonical id:** `dea:metric-critical-role-vacancy-duration`
 - **Name:** Critical Role Vacancy Duration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRVD
 
@@ -27,8 +27,8 @@ Days Critical Roles Remain Vacant
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

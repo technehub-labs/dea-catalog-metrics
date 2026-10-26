@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Key Result Attainment Average** (KRAA-
 - **Canonical id:** `dea:metric-key-result-attainment-average`
 - **Name:** Key Result Attainment Average
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KRAA-OKR
 
@@ -27,7 +27,7 @@ Average Attainment across Key Results
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

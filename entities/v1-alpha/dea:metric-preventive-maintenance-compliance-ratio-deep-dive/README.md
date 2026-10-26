@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Maintenance Compliance Rati
 - **Canonical id:** `dea:metric-preventive-maintenance-compliance-ratio-deep-dive`
 - **Name:** Preventive Maintenance Compliance Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMCRD
 
@@ -23,7 +23,7 @@ PM Tasks Done in Window / Scheduled PM
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

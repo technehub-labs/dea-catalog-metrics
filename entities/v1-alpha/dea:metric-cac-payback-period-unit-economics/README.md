@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CAC Payback Period (Unit Economics)** 
 - **Canonical id:** `dea:metric-cac-payback-period-unit-economics`
 - **Name:** CAC Payback Period (Unit Economics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CACPPD
 
@@ -27,8 +27,8 @@ CAC / Monthly Contribution Margin per Customer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-months`
-- **Unit:** months
+- **Unit reference:** `dea:unit-month`
+- **Unit:** month
 - **Unit label (as published):** months
 
 ## Classification

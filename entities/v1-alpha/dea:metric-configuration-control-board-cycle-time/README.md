@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Configuration Control Board Cycle Time
 - **Canonical id:** `dea:metric-configuration-control-board-cycle-time`
 - **Name:** Configuration Control Board Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCBC
 
@@ -23,8 +23,8 @@ Days from Change Proposal to CCB Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

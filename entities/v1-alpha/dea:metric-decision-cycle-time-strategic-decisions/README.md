@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Cycle Time - Strategic Decisi
 - **Canonical id:** `dea:metric-decision-cycle-time-strategic-decisions`
 - **Name:** Decision Cycle Time - Strategic Decisions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCTSD
 
@@ -27,8 +27,8 @@ Days from Decision Request to Final Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subcontractor Schedule Adherence** (SS
 - **Canonical id:** `dea:metric-subcontractor-schedule-adherence`
 - **Name:** Subcontractor Schedule Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSA-C
 
@@ -23,7 +23,7 @@ Subcontractor Tasks on Schedule / Tasks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

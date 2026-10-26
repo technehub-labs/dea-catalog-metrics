@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Delay Time** (LGT) in the Op
 - **Canonical id:** `dea:metric-logistics-delay-time`
 - **Name:** Logistics Delay Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LGT
 
@@ -23,8 +23,8 @@ Waiting Time for Parts and Resources / Repair Cycle
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

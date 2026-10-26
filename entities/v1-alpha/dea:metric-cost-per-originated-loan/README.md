@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Originated Loan** (CPOL) in t
 - **Canonical id:** `dea:metric-cost-per-originated-loan`
 - **Name:** Cost per Originated Loan
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPOL
 

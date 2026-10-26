@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deep Clean Cycle Completion** (DCCC) i
 - **Canonical id:** `dea:metric-deep-clean-cycle-completion`
 - **Name:** Deep Clean Cycle Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCCC
 
@@ -23,7 +23,7 @@ Deep Clean Tasks on Schedule / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

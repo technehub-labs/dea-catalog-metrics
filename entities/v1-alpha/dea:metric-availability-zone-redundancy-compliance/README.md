@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Availability Zone Redundancy Complianc
 - **Canonical id:** `dea:metric-availability-zone-redundancy-compliance`
 - **Name:** Availability Zone Redundancy Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AZRC
 
@@ -27,7 +27,7 @@ Services Meeting Redundancy Standard / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

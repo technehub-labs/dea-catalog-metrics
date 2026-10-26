@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Handoff Count per Pro
 - **Canonical id:** `dea:metric-cross-functional-handoff-count-per-process`
 - **Name:** Cross-Functional Handoff Count per Process
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFHCP
 

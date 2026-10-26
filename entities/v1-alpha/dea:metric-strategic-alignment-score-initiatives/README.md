@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Alignment Score - Initiative
 - **Canonical id:** `dea:metric-strategic-alignment-score-initiatives`
 - **Name:** Strategic Alignment Score - Initiatives
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SASI-PPM
 
@@ -27,7 +27,7 @@ Initiatives Mapped to Strategic Objectives / Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

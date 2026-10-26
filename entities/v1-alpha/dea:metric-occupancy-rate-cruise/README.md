@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate (Cruise)** (ORC-S) in t
 - **Canonical id:** `dea:metric-occupancy-rate-cruise`
 - **Name:** Occupancy Rate (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORC-S
 
@@ -27,7 +27,7 @@ Passengers / Double Occupancy Berths
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Outcome Measurement Coverage**
 - **Canonical id:** `dea:metric-program-outcome-measurement-coverage`
 - **Name:** Program Outcome Measurement Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POMC
 
@@ -27,7 +27,7 @@ Programs with Measured Outcomes / Programs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

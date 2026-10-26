@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Clause Adoption Rate** (SCAR)
 - **Canonical id:** `dea:metric-standard-clause-adoption-rate`
 - **Name:** Standard Clause Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCAR
 
@@ -27,7 +27,7 @@ Contracts Using Approved Playbook / Contracts Drafted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

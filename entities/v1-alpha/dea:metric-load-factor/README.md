@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Factor** (LF) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-load-factor`
 - **Name:** Load Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LF
 
@@ -27,7 +27,7 @@ Occupied Capacity / Available Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

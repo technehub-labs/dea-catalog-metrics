@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Network Density Index** (RNDI) in
 - **Canonical id:** `dea:metric-risk-network-density-index`
 - **Name:** Risk Network Density Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RNDI
 

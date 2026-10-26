@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Detection Rule Coverage against MITRE 
 - **Canonical id:** `dea:metric-detection-rule-coverage-against-mitre-att-ck`
 - **Name:** Detection Rule Coverage against MITRE ATT&CK
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCMA
 
@@ -27,7 +27,7 @@ ATT&CK Techniques with Detection Coverage / Applicable Techniques
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

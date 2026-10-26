@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Satisfaction Index (Deep Di
 - **Canonical id:** `dea:metric-franchisee-satisfaction-index-deep-dive`
 - **Name:** Franchisee Satisfaction Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSI-D
 

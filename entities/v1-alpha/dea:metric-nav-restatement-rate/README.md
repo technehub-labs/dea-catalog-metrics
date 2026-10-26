@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Restatement Rate** (NAVRR) in the 
 - **Canonical id:** `dea:metric-nav-restatement-rate`
 - **Name:** NAV Restatement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NAVRR
 
@@ -23,8 +23,8 @@ NAVs Restated / NAVs Published
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

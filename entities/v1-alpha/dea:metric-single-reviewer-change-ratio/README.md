@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single-Reviewer Change Ratio** (SRCR) 
 - **Canonical id:** `dea:metric-single-reviewer-change-ratio`
 - **Name:** Single-Reviewer Change Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRCR
 
@@ -23,7 +23,7 @@ Changes Approved by One Reviewer / Merged Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

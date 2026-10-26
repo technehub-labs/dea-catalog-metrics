@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Effective Rate Variance** (TERV-BS
 - **Canonical id:** `dea:metric-tax-effective-rate-variance`
 - **Name:** Tax Effective Rate Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TERV-BSC
 
@@ -23,7 +23,7 @@ Effective Tax Rate - Plan / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

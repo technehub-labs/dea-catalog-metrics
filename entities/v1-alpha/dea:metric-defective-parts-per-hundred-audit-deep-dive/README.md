@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defective Parts per Hundred - Audit (D
 - **Canonical id:** `dea:metric-defective-parts-per-hundred-audit-deep-dive`
 - **Name:** Defective Parts per Hundred - Audit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPH-D
 

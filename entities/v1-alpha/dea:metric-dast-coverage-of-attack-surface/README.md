@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAST Coverage of Attack Surface** (DAS
 - **Canonical id:** `dea:metric-dast-coverage-of-attack-surface`
 - **Name:** DAST Coverage of Attack Surface
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DASC-DV
 
@@ -27,7 +27,7 @@ Applications Scanned Dynamically / Applications in Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

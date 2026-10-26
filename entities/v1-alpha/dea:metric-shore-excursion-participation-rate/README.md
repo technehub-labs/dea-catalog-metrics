@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shore Excursion Participation Rate** (
 - **Canonical id:** `dea:metric-shore-excursion-participation-rate`
 - **Name:** Shore Excursion Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SEPR
 
@@ -23,7 +23,7 @@ Passengers Booking Excursions / Port Calls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

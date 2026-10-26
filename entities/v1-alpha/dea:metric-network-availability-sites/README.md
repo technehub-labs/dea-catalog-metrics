@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Availability (Sites)** (NAS) i
 - **Canonical id:** `dea:metric-network-availability-sites`
 - **Name:** Network Availability (Sites)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NAS
 
@@ -23,7 +23,7 @@ Site Uptime Minutes / Planned Uptime Minutes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

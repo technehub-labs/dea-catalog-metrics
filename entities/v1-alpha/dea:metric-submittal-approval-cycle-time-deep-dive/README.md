@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Submittal Approval Cycle Time (Deep Di
 - **Canonical id:** `dea:metric-submittal-approval-cycle-time-deep-dive`
 - **Name:** Submittal Approval Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SACT-C
 
@@ -23,8 +23,8 @@ Days from Submittal to Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

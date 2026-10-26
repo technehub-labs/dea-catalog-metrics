@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IT Spend as Percent of Revenue (Deep D
 - **Canonical id:** `dea:metric-it-spend-as-percent-of-revenue-deep-dive`
 - **Name:** IT Spend as Percent of Revenue (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITSPR-D
 
@@ -27,7 +27,7 @@ Total IT Spend / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

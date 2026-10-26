@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Submission Approval Rate** 
 - **Canonical id:** `dea:metric-regulatory-submission-approval-rate`
 - **Name:** Regulatory Submission Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSAR
 
@@ -27,7 +27,7 @@ Submissions Approved without Major Deficiency / Submissions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

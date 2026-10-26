@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value-Added Time Ratio** (VATR) in the
 - **Canonical id:** `dea:metric-value-added-time-ratio`
 - **Name:** Value-Added Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VATR
 
@@ -27,7 +27,7 @@ Value-Added Process Time / Total Lead Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate** (OCC) in the OpenDEAM
 - **Canonical id:** `dea:metric-occupancy-rate`
 - **Name:** Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCC
 
@@ -27,7 +27,7 @@ Rooms Occupied / Rooms Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

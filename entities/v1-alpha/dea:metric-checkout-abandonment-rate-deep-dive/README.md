@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Checkout Abandonment Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-checkout-abandonment-rate-deep-dive`
 - **Name:** Checkout Abandonment Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CARD
 
@@ -23,7 +23,7 @@ Carts Abandoned before Purchase / Carts Created
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

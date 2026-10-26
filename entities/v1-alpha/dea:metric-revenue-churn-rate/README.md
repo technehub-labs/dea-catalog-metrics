@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Churn Rate** (RevChurn) in the
 - **Canonical id:** `dea:metric-revenue-churn-rate`
 - **Name:** Revenue Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RevChurn
 
@@ -27,7 +27,7 @@ The revenue lost from existing customers over a period - the economic refinement
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

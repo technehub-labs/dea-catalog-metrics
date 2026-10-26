@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abstractness Ratio** (ABSTR) in the Op
 - **Canonical id:** `dea:metric-abstractness-ratio`
 - **Name:** Abstractness Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABSTR
 
@@ -23,7 +23,7 @@ Abstract Components / Total Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

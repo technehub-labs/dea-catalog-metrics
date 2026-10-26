@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Loss Ratio** (OLR) in the 
 - **Canonical id:** `dea:metric-operational-loss-ratio`
 - **Name:** Operational Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OLR
 
@@ -27,7 +27,7 @@ Operational Losses / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

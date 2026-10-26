@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Soil Organic Matter Trend** (SOMT) in 
 - **Canonical id:** `dea:metric-soil-organic-matter-trend`
 - **Name:** Soil Organic Matter Trend
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOMT
 
@@ -27,7 +27,7 @@ Change in Soil Organic Matter per Cycle
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

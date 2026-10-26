@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Resolution Time** (DRT-P) in t
 - **Canonical id:** `dea:metric-dispute-resolution-time`
 - **Name:** Dispute Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRT-P
 
@@ -27,8 +27,8 @@ Days from Dispute Raised to Resolution
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

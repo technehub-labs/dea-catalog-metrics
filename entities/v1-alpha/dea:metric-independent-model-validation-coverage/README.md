@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Independent Model Validation Coverage*
 - **Canonical id:** `dea:metric-independent-model-validation-coverage`
 - **Name:** Independent Model Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IMVC-AI
 
@@ -27,7 +27,7 @@ Material Models Independently Validated / Material Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

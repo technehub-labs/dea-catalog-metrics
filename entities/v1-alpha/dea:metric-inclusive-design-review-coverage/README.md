@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusive Design Review Coverage** (ID
 - **Canonical id:** `dea:metric-inclusive-design-review-coverage`
 - **Name:** Inclusive Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IDRC
 
@@ -23,7 +23,7 @@ Features Passing Inclusive Design Review / Features
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

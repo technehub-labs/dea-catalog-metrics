@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Materials Waste Ratio (Construction De
 - **Canonical id:** `dea:metric-materials-waste-ratio-construction-deep-dive`
 - **Name:** Materials Waste Ratio (Construction Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWR-D
 
@@ -23,7 +23,7 @@ Wasted Materials / Materials Purchased
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

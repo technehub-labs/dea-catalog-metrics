@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Reuse Ratio** (APIRU) in the OpenD
 - **Canonical id:** `dea:metric-api-reuse-ratio`
 - **Name:** API Reuse Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIRU
 
@@ -27,7 +27,7 @@ Services Reusing Existing APIs / New Integrations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

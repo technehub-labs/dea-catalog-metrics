@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lead Response Time** (LRT) in the Open
 - **Canonical id:** `dea:metric-lead-response-time`
 - **Name:** Lead Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRT
 
@@ -23,8 +23,8 @@ Average Time from Lead Arrival to First Response
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

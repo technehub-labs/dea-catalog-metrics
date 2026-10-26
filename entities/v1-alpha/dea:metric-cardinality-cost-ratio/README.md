@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cardinality Cost Ratio** (CARDR) in th
 - **Canonical id:** `dea:metric-cardinality-cost-ratio`
 - **Name:** Cardinality Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CARDR
 
@@ -23,7 +23,7 @@ Observability Spend / Revenue Streamed through Platform
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

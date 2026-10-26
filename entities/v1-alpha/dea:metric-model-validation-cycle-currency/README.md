@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Validation Cycle Currency** (MVC
 - **Canonical id:** `dea:metric-model-validation-cycle-currency`
 - **Name:** Model Validation Cycle Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVCC
 
@@ -27,7 +27,7 @@ Validations within Recurrent Cycle / Due in Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

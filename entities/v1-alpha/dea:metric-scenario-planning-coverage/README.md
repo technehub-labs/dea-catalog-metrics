@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Planning Coverage** (SPC-S) i
 - **Canonical id:** `dea:metric-scenario-planning-coverage`
 - **Name:** Scenario Planning Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPC-S
 
@@ -27,7 +27,7 @@ Plans with Documented Demand Scenarios / Plans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

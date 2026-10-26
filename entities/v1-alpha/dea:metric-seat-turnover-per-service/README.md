@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seat Turnover per Service** (STPS) in 
 - **Canonical id:** `dea:metric-seat-turnover-per-service`
 - **Name:** Seat Turnover per Service
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STPS
 

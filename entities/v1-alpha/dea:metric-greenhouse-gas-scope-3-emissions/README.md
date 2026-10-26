@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Greenhouse Gas Scope 3 Emissions** (GH
 - **Canonical id:** `dea:metric-greenhouse-gas-scope-3-emissions`
 - **Name:** Greenhouse Gas Scope 3 Emissions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GHG3
 
@@ -27,8 +27,8 @@ All Other Indirect Value-Chain Emissions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes CO2 equivalent (tCO2e)
 
 ## Classification

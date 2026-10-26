@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Line Resolution Rate** (FLRR) in
 - **Canonical id:** `dea:metric-first-line-resolution-rate`
 - **Name:** First Line Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FLRR
 
@@ -23,7 +23,7 @@ Tickets Resolved at First Line / Total Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

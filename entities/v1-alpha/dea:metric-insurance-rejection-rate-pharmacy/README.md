@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insurance Rejection Rate (Pharmacy)** 
 - **Canonical id:** `dea:metric-insurance-rejection-rate-pharmacy`
 - **Name:** Insurance Rejection Rate (Pharmacy)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRR-Ph
 
@@ -23,7 +23,7 @@ Rejected Claims / Claims Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

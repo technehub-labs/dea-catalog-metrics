@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Reuse Rate** (DRR-E) in the Ope
 - **Canonical id:** `dea:metric-design-reuse-rate`
 - **Name:** Design Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-E
 
@@ -27,7 +27,7 @@ Reused Components or Modules / Total Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

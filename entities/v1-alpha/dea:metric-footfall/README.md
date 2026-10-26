@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Footfall** (FF) in the OpenDEAM Metric
 - **Canonical id:** `dea:metric-footfall`
 - **Name:** Footfall
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FF
 

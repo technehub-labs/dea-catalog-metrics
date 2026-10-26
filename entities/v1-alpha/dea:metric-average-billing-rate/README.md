@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Billing Rate** (ABR-PS) in the
 - **Canonical id:** `dea:metric-average-billing-rate`
 - **Name:** Average Billing Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABR-PS
 

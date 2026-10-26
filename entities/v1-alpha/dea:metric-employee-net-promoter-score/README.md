@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Net Promoter Score** (eNPS) i
 - **Canonical id:** `dea:metric-employee-net-promoter-score`
 - **Name:** Employee Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** eNPS
 

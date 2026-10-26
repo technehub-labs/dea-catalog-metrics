@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Employee (Deep Dive)** (RP
 - **Canonical id:** `dea:metric-revenue-per-employee-deep-dive`
 - **Name:** Revenue per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPE-D
 

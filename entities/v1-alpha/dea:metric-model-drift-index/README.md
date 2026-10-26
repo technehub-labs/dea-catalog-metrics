@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Drift Index** (MDI) in the OpenD
 - **Canonical id:** `dea:metric-model-drift-index`
 - **Name:** Model Drift Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDI
 

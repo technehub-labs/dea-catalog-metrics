@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burn Multiple** (BM-S) in the OpenDEAM
 - **Canonical id:** `dea:metric-burn-multiple`
 - **Name:** Burn Multiple
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BM-S
 

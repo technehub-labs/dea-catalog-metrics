@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Portfolio Health Distribution*
 - **Canonical id:** `dea:metric-project-portfolio-health-distribution`
 - **Name:** Project Portfolio Health Distribution
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPHD
 
@@ -27,7 +27,7 @@ Green Projects / Total Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

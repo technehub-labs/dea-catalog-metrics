@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partnership Revenue Contribution** (PR
 - **Canonical id:** `dea:metric-partnership-revenue-contribution`
 - **Name:** Partnership Revenue Contribution
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRC-AP
 
@@ -27,7 +27,7 @@ Partner-Attributed Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

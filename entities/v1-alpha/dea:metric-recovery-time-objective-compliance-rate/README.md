@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Time Objective Compliance Rat
 - **Canonical id:** `dea:metric-recovery-time-objective-compliance-rate`
 - **Name:** Recovery Time Objective Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTOCR
 
@@ -27,7 +27,7 @@ Services Restored within RTO in Tests / Services Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

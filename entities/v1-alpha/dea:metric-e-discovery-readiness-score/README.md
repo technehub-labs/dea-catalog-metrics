@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-Discovery Readiness Score** (EDRS) i
 - **Canonical id:** `dea:metric-e-discovery-readiness-score`
 - **Name:** E-Discovery Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDRS
 

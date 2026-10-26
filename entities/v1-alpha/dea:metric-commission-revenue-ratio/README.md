@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commission Revenue Ratio** (CRR-I) in 
 - **Canonical id:** `dea:metric-commission-revenue-ratio`
 - **Name:** Commission Revenue Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRR-I
 
@@ -27,7 +27,7 @@ Commission Revenue / Gross Written Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

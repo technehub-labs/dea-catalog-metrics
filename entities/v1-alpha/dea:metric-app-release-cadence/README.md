@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Release Cadence** (ARC-MOB) in the
 - **Canonical id:** `dea:metric-app-release-cadence`
 - **Name:** App Release Cadence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARC-MOB
 

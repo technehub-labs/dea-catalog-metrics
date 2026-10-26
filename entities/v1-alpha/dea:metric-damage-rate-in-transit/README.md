@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Damage Rate in Transit** (DRIT) in the
 - **Canonical id:** `dea:metric-damage-rate-in-transit`
 - **Name:** Damage Rate in Transit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRIT
 
@@ -23,7 +23,7 @@ Damaged Units on Arrival / Units Shipped
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Integration Coverage in Portfolio 
 - **Canonical id:** `dea:metric-esg-integration-coverage-in-portfolio-deep-dive`
 - **Name:** ESG Integration Coverage in Portfolio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESGIC-D
 
@@ -27,7 +27,7 @@ Holdings ESG-Assessed / Total Holdings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

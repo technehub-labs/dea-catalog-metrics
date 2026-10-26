@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Parcel (Deep Dive)** (CPP-D) 
 - **Canonical id:** `dea:metric-cost-per-parcel-deep-dive`
 - **Name:** Cost per Parcel (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPP-D
 

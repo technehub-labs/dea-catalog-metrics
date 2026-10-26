@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Escalation Threshold Accuracy**
 - **Canonical id:** `dea:metric-crisis-escalation-threshold-accuracy`
 - **Name:** Crisis Escalation Threshold Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CETA
 
@@ -23,7 +23,7 @@ Events Correctly Classified on First Assessment / Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Churn Model Recall** (CMR-A) in the Op
 - **Canonical id:** `dea:metric-churn-model-recall`
 - **Name:** Churn Model Recall
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMR-A
 
@@ -27,7 +27,7 @@ True Churners Identified / Actual Churners
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Energy Cost per Site** (SECS) in 
 - **Canonical id:** `dea:metric-site-energy-cost-per-site`
 - **Name:** Site Energy Cost per Site
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SECS
 

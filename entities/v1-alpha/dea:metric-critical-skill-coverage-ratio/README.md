@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Skill Coverage Ratio** (CSCR-
 - **Canonical id:** `dea:metric-critical-skill-coverage-ratio`
 - **Name:** Critical Skill Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCR-LD
 
@@ -27,7 +27,7 @@ Roles with Successor-Ready Skills / Critical Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

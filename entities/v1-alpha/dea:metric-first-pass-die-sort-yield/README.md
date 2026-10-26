@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Die Sort Yield** (FPDY) in 
 - **Canonical id:** `dea:metric-first-pass-die-sort-yield`
 - **Name:** First Pass Die Sort Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPDY
 
@@ -23,7 +23,7 @@ Die Passing Sort on First Test / Die Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

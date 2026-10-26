@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baggage Mishandling Rate** (BMR) in th
 - **Canonical id:** `dea:metric-baggage-mishandling-rate`
 - **Name:** Baggage Mishandling Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BMR
 

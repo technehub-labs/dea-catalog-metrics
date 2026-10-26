@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Realization Rate** (PRR-P) in th
 - **Canonical id:** `dea:metric-price-realization-rate`
 - **Name:** Price Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRR-P
 
@@ -27,7 +27,7 @@ Actual Average Selling Price / List or Target Price
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

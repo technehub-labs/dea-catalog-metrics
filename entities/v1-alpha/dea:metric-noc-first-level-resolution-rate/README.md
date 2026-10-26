@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC First-Level Resolution Rate** (NOC
 - **Canonical id:** `dea:metric-noc-first-level-resolution-rate`
 - **Name:** NOC First-Level Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NOCFLR
 
@@ -23,7 +23,7 @@ Tickets Resolved at NOC Tier 1 / Tickets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

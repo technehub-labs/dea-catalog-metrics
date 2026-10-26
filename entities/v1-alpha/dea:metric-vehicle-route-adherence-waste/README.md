@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Route Adherence (Waste)** (VRA
 - **Canonical id:** `dea:metric-vehicle-route-adherence-waste`
 - **Name:** Vehicle Route Adherence (Waste)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VRA
 
@@ -23,7 +23,7 @@ Routes Completed to Plan / Routes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

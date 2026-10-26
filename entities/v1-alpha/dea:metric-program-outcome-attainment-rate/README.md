@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Outcome Attainment Rate** (POA
 - **Canonical id:** `dea:metric-program-outcome-attainment-rate`
 - **Name:** Program Outcome Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POAR
 
@@ -27,7 +27,7 @@ Programs Meeting Outcome Targets / Programs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

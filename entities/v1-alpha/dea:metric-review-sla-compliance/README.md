@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review SLA Compliance** (RSLA-PR) in t
 - **Canonical id:** `dea:metric-review-sla-compliance`
 - **Name:** Review SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSLA-PR
 
@@ -23,7 +23,7 @@ Reviews Responded to within SLA / Review Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

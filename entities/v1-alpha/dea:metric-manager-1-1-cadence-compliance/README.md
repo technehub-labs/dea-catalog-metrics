@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager 1:1 Cadence Compliance** (MCC)
 - **Canonical id:** `dea:metric-manager-1-1-cadence-compliance`
 - **Name:** Manager 1:1 Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCC
 
@@ -23,7 +23,7 @@ Direct Reports Receiving Regular 1:1s / Direct Reports
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

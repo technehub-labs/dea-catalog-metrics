@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deadlock Frequency** (DLF-DB) in the O
 - **Canonical id:** `dea:metric-deadlock-frequency`
 - **Name:** Deadlock Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLF-DB
 

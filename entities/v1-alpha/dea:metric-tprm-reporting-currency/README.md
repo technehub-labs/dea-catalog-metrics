@@ -7,7 +7,7 @@ Candidate Performance Metric record for **TPRM Reporting Currency** (TPRMRC) in 
 - **Canonical id:** `dea:metric-tprm-reporting-currency`
 - **Name:** TPRM Reporting Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPRMRC
 
@@ -23,7 +23,7 @@ Risk Reports Refreshed per Cadence / Reports
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

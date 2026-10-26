@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Joiner-Mover-Leaver Processing Timelin
 - **Canonical id:** `dea:metric-joiner-mover-leaver-processing-timeliness`
 - **Name:** Joiner-Mover-Leaver Processing Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JMLPT
 
@@ -27,7 +27,7 @@ Access Changes Processed within SLA / Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

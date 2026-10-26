@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collateral Revaluation Currency** (CRC
 - **Canonical id:** `dea:metric-collateral-revaluation-currency`
 - **Name:** Collateral Revaluation Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-B
 
@@ -27,7 +27,7 @@ Collateral Valuations within Policy Cycle / Portfolio
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

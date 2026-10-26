@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Building Energy Intensity (Deep Dive)*
 - **Canonical id:** `dea:metric-building-energy-intensity-deep-dive`
 - **Name:** Building Energy Intensity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BEI-D
 

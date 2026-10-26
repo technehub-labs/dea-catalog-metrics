@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Evaluation Completion** (BEC) in
 - **Canonical id:** `dea:metric-board-evaluation-completion`
 - **Name:** Board Evaluation Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BEC
 
@@ -27,7 +27,7 @@ Board Evaluations Completed on Schedule / Boards and Committees Requiring Evalua
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

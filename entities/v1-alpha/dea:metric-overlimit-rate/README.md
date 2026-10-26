@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overlimit Rate** (OLR-CC) in the OpenD
 - **Canonical id:** `dea:metric-overlimit-rate`
 - **Name:** Overlimit Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OLR-CC
 
@@ -23,7 +23,7 @@ Accounts above Approved Limit / Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Profiling Coverage** (DPROFC) in 
 - **Canonical id:** `dea:metric-data-profiling-coverage`
 - **Name:** Data Profiling Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPROFC
 
@@ -23,7 +23,7 @@ Critical Tables Profiled in Period / Critical Tables
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

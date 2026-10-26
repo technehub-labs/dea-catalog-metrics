@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Ratio** (LR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-loss-ratio`
 - **Name:** Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LR
 
@@ -27,7 +27,7 @@ Incurred Losses / Earned Premiums
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

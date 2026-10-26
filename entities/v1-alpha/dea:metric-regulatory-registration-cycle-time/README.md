@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Registration Cycle Time** (
 - **Canonical id:** `dea:metric-regulatory-registration-cycle-time`
 - **Name:** Regulatory Registration Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRCT-C
 
@@ -27,8 +27,8 @@ Days from Registration Dossier Submission to Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

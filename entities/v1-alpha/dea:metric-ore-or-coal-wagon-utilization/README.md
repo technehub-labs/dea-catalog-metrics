@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ore or Coal Wagon Utilization** (OWU) 
 - **Canonical id:** `dea:metric-ore-or-coal-wagon-utilization`
 - **Name:** Ore or Coal Wagon Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OWU
 
@@ -23,7 +23,7 @@ Loaded Wagon Days / Total Wagon Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

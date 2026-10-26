@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Rate (Utilities)** (CLR-U) 
 - **Canonical id:** `dea:metric-collection-rate-utilities`
 - **Name:** Collection Rate (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLR-U
 
@@ -27,7 +27,7 @@ Revenue Collected / Revenue Billed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instructor Class Coverage** (ICC) in t
 - **Canonical id:** `dea:metric-instructor-class-coverage`
 - **Name:** Instructor Class Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICC
 
@@ -23,7 +23,7 @@ Classes Taught as Scheduled / Classes Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

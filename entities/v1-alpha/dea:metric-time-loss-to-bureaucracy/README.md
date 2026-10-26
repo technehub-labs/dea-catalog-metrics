@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time Loss to Bureaucracy** (TLB) in th
 - **Canonical id:** `dea:metric-time-loss-to-bureaucracy`
 - **Name:** Time Loss to Bureaucracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLB
 
@@ -27,8 +27,8 @@ Hours Spent on Approvals and Coordination per Employee per Week
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

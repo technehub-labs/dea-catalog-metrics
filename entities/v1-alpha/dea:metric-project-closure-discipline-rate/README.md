@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Closure Discipline Rate** (PCD
 - **Canonical id:** `dea:metric-project-closure-discipline-rate`
 - **Name:** Project Closure Discipline Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCDR
 
@@ -23,7 +23,7 @@ Projects Closed with Formal Closure / Completed Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

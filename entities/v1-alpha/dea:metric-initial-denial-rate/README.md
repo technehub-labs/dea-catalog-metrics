@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Initial Denial Rate** (IDR) in the Ope
 - **Canonical id:** `dea:metric-initial-denial-rate`
 - **Name:** Initial Denial Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IDR
 
@@ -27,7 +27,7 @@ Claims Denied on First Pass / Claims Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

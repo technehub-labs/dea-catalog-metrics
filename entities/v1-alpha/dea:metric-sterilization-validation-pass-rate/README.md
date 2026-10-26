@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sterilization Validation Pass Rate** (
 - **Canonical id:** `dea:metric-sterilization-validation-pass-rate`
 - **Name:** Sterilization Validation Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVPR
 
@@ -23,7 +23,7 @@ Sterilization Cycles Meeting Validation Criteria / Cycles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

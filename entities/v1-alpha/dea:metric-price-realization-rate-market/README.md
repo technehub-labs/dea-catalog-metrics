@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Realization Rate (Market)** (PRR
 - **Canonical id:** `dea:metric-price-realization-rate-market`
 - **Name:** Price Realization Rate (Market)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRR-MKT
 
@@ -27,7 +27,7 @@ Realized Price Change / List Price Change
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

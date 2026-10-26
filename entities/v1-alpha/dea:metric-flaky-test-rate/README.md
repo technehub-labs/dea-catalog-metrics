@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaky Test Rate** (FTR-CI) in the Open
 - **Canonical id:** `dea:metric-flaky-test-rate`
 - **Name:** Flaky Test Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTR-CI
 
@@ -23,7 +23,7 @@ Tests Failing without Code Change / Test Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

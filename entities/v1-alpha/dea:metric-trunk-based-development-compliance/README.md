@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trunk-Based Development Compliance** (
 - **Canonical id:** `dea:metric-trunk-based-development-compliance`
 - **Name:** Trunk-Based Development Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TBDC
 
@@ -23,7 +23,7 @@ Changes Merged to Trunk within 24 Hours / Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

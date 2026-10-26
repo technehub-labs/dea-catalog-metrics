@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Dependency Mapping Currency** 
 - **Canonical id:** `dea:metric-service-dependency-mapping-currency`
 - **Name:** Service Dependency Mapping Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDMC
 
@@ -27,7 +27,7 @@ Dependencies Verified in Last Quarter / Mapped Dependencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

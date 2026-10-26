@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attack Surface Exposure** (ASE) in the
 - **Canonical id:** `dea:metric-attack-surface-exposure`
 - **Name:** Attack Surface Exposure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASE
 

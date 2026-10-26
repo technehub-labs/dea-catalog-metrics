@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality of Experience Score (Video Str
 - **Canonical id:** `dea:metric-quality-of-experience-score-video-streaming`
 - **Name:** Quality of Experience Score (Video Streaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QoE
 

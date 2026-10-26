@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Depth Score** (RDS-PR) in the O
 - **Canonical id:** `dea:metric-review-depth-score`
 - **Name:** Review Depth Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDS-PR
 

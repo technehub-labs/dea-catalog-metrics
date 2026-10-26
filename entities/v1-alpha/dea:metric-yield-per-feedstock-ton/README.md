@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield per Feedstock Ton** (YPFT) in th
 - **Canonical id:** `dea:metric-yield-per-feedstock-ton`
 - **Name:** Yield per Feedstock Ton
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** YPFT
 

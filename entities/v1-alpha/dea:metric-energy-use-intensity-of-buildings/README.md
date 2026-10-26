@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Use Intensity of Buildings** (E
 - **Canonical id:** `dea:metric-energy-use-intensity-of-buildings`
 - **Name:** Energy Use Intensity of Buildings
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EUI
 

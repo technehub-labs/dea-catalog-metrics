@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Product Introduction Plan Readines
 - **Canonical id:** `dea:metric-new-product-introduction-plan-readiness`
 - **Name:** New Product Introduction Plan Readiness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPIR
 
@@ -27,7 +27,7 @@ NPIs with Supply Plan at Launch / NPIs Launched
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

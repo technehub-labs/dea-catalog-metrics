@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Journey Cycle Time** (AJCT) in
 - **Canonical id:** `dea:metric-average-journey-cycle-time`
 - **Name:** Average Journey Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AJCT
 
@@ -27,8 +27,8 @@ Total Time across Journey Stages / Completed Journeys
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

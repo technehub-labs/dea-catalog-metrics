@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Performance Index (Ppk)** (PPK
 - **Canonical id:** `dea:metric-process-performance-index-ppk`
 - **Name:** Process Performance Index (Ppk)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPKS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Member Churn** (MMC-F) in the 
 - **Canonical id:** `dea:metric-monthly-member-churn`
 - **Name:** Monthly Member Churn
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MMC-F
 
@@ -27,7 +27,7 @@ Members Cancelling in Month / Members at Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

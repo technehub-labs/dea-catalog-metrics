@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Support Tickets per 1,000 Users** (STK
 - **Canonical id:** `dea:metric-support-tickets-per-1-000-users`
 - **Name:** Support Tickets per 1,000 Users
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STK
 
@@ -23,8 +23,8 @@ Support Tickets / Users x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

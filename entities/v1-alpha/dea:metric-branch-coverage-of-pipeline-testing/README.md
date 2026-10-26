@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Coverage of Pipeline Testing** 
 - **Canonical id:** `dea:metric-branch-coverage-of-pipeline-testing`
 - **Name:** Branch Coverage of Pipeline Testing
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCPT
 
@@ -23,7 +23,7 @@ Branches with Automated Verification before Merge / Branches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

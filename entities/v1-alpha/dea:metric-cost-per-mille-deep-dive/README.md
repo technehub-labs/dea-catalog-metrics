@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Mille (Deep Dive)** (CPM-D) i
 - **Canonical id:** `dea:metric-cost-per-mille-deep-dive`
 - **Name:** Cost per Mille (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPM-D
 

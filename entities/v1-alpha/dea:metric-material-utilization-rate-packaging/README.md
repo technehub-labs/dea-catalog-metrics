@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Material Utilization Rate (Packaging)*
 - **Canonical id:** `dea:metric-material-utilization-rate-packaging`
 - **Name:** Material Utilization Rate (Packaging)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MUR-P
 
@@ -23,7 +23,7 @@ Product in Packaging / Material Consumed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

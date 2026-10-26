@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search-to-Solution Conversion** (S2SC)
 - **Canonical id:** `dea:metric-search-to-solution-conversion`
 - **Name:** Search-to-Solution Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** S2SC
 
@@ -23,7 +23,7 @@ Searches Ending in Solution Use / Searches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

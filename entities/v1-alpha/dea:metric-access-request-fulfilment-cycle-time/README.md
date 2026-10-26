@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Request Fulfilment Cycle Time**
 - **Canonical id:** `dea:metric-access-request-fulfilment-cycle-time`
 - **Name:** Access Request Fulfilment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARFCT
 
@@ -23,8 +23,8 @@ Hours from Request to Access Granted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

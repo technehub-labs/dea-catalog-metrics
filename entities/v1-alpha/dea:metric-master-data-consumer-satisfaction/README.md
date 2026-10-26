@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Consumer Satisfaction** (M
 - **Canonical id:** `dea:metric-master-data-consumer-satisfaction`
 - **Name:** Master Data Consumer Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCS
 

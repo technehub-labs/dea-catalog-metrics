@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pay Range Maximum Exposure** (PRME) in
 - **Canonical id:** `dea:metric-pay-range-maximum-exposure`
 - **Name:** Pay Range Maximum Exposure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRME
 
@@ -23,7 +23,7 @@ Employees above Range Maximum / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

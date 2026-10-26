@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Service Level Compliance (Fie
 - **Canonical id:** `dea:metric-contract-service-level-compliance-field`
 - **Name:** Contract Service Level Compliance (Field)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSLCF
 
@@ -23,7 +23,7 @@ SLAs Met under Service Contracts / SLAs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

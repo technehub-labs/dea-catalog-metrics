@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Satisfaction Index** (FSI) 
 - **Canonical id:** `dea:metric-franchisee-satisfaction-index`
 - **Name:** Franchisee Satisfaction Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSI
 

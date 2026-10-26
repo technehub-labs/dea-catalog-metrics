@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Square Meter** (SPSM) in the
 - **Canonical id:** `dea:metric-sales-per-square-meter`
 - **Name:** Sales per Square Meter
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPSM
 

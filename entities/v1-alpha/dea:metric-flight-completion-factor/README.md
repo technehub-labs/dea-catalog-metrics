@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flight Completion Factor** (FCF-AT) in
 - **Canonical id:** `dea:metric-flight-completion-factor`
 - **Name:** Flight Completion Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCF-AT
 
@@ -27,7 +27,7 @@ Flights Operated / Flights Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Abandonment Rate (Lending)
 - **Canonical id:** `dea:metric-application-abandonment-rate-lending`
 - **Name:** Application Abandonment Rate (Lending)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAR-L
 
@@ -27,7 +27,7 @@ Abandoned Applications / Started Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runbook Execution Success Rate** (RESR
 - **Canonical id:** `dea:metric-runbook-execution-success-rate`
 - **Name:** Runbook Execution Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RESR-NOC
 
@@ -23,7 +23,7 @@ Runbook-Guided Resolutions Successful / Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

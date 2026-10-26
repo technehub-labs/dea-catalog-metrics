@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Cost per Patient** (CTC
 - **Canonical id:** `dea:metric-clinical-trial-cost-per-patient`
 - **Name:** Clinical Trial Cost per Patient
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTCP
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment Conversion Rate (Branch Ad
 - **Canonical id:** `dea:metric-appointment-conversion-rate-branch-advisory`
 - **Name:** Appointment Conversion Rate (Branch Advisory)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-BD
 
@@ -23,7 +23,7 @@ Appointments Held / Booked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

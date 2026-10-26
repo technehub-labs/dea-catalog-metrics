@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Efficiency (Food Processing)** (L
 - **Canonical id:** `dea:metric-line-efficiency-food-processing`
 - **Name:** Line Efficiency (Food Processing)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LEF
 
@@ -23,7 +23,7 @@ Actual Output / Theoretical Line Capacity Output
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

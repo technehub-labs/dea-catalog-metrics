@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (Contact Center)** 
 - **Canonical id:** `dea:metric-net-promoter-score-contact-center`
 - **Name:** Net Promoter Score (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPS-CC
 

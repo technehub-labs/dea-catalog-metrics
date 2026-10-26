@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Kill-Rate (Stage Gates)** (P
 - **Canonical id:** `dea:metric-portfolio-kill-rate-stage-gates`
 - **Name:** Portfolio Kill-Rate (Stage Gates)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PKRG
 
@@ -27,7 +27,7 @@ Initiatives Stopped at Gate / Initiatives Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

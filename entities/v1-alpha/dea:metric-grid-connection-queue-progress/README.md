@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grid Connection Queue Progress** (GCQP
 - **Canonical id:** `dea:metric-grid-connection-queue-progress`
 - **Name:** Grid Connection Queue Progress
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GCQP
 
@@ -27,7 +27,7 @@ Projects with Executed Grid Agreement / Projects in Queue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

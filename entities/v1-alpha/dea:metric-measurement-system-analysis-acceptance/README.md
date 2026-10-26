@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measurement System Analysis Acceptance
 - **Canonical id:** `dea:metric-measurement-system-analysis-acceptance`
 - **Name:** Measurement System Analysis Acceptance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSA
 
@@ -23,7 +23,7 @@ Gage R&R Studies Passing / Studies Conducted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Dollar Retention (Deep Dive)** (
 - **Canonical id:** `dea:metric-gross-dollar-retention-deep-dive`
 - **Name:** Gross Dollar Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GDRD
 
@@ -27,7 +27,7 @@ Retained Revenue excluding Expansion / Prior Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

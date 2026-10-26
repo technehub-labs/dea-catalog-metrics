@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Content Hour (Gaming)** (CPCH
 - **Canonical id:** `dea:metric-cost-per-content-hour-gaming`
 - **Name:** Cost per Content Hour (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCH
 

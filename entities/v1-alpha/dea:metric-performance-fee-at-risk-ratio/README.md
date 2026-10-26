@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Fee at Risk Ratio** (PFARR
 - **Canonical id:** `dea:metric-performance-fee-at-risk-ratio`
 - **Name:** Performance Fee at Risk Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PFARR
 

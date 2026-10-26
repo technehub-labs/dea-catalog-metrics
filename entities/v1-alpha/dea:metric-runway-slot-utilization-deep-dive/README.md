@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runway Slot Utilization (Deep Dive)** 
 - **Canonical id:** `dea:metric-runway-slot-utilization-deep-dive`
 - **Name:** Runway Slot Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSU-D
 
@@ -27,7 +27,7 @@ Used Slots / Declared Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

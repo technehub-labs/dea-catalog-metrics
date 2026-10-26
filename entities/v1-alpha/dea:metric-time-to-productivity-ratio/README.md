@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-to-Productivity Ratio** (TPR-WF) 
 - **Canonical id:** `dea:metric-time-to-productivity-ratio`
 - **Name:** Time-to-Productivity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPR-WF
 

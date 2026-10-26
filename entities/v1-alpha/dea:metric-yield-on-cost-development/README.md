@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield on Cost (Development)** (YOC-RE)
 - **Canonical id:** `dea:metric-yield-on-cost-development`
 - **Name:** Yield on Cost (Development)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** YOC-RE
 
@@ -27,7 +27,7 @@ Stabilized NOI / Total Development Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

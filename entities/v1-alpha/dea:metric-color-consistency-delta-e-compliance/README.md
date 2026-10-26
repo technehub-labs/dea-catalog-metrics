@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Color Consistency Delta-E Compliance**
 - **Canonical id:** `dea:metric-color-consistency-delta-e-compliance`
 - **Name:** Color Consistency Delta-E Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCDC
 
@@ -23,7 +23,7 @@ Measurements within Delta-E Tolerance / Measurements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

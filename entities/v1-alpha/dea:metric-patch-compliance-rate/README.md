@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patch Compliance Rate** (PCR-VM) in th
 - **Canonical id:** `dea:metric-patch-compliance-rate`
 - **Name:** Patch Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCR-VM
 
@@ -27,7 +27,7 @@ Assets Fully Patched per Policy / Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Energy per Tonne Clinker** (TE
 - **Canonical id:** `dea:metric-thermal-energy-per-tonne-clinker`
 - **Name:** Thermal Energy per Tonne Clinker
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TETC
 

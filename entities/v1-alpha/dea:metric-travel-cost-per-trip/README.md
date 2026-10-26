@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Travel Cost per Trip** (TCPT) in the O
 - **Canonical id:** `dea:metric-travel-cost-per-trip`
 - **Name:** Travel Cost per Trip
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCPT
 

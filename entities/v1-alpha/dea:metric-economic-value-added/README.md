@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added** (EVA) in the Op
 - **Canonical id:** `dea:metric-economic-value-added`
 - **Name:** Economic Value Added
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVA
 

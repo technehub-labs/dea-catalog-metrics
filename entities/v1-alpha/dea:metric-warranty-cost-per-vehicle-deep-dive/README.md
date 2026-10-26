@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Cost per Vehicle (Deep Dive)*
 - **Canonical id:** `dea:metric-warranty-cost-per-vehicle-deep-dive`
 - **Name:** Warranty Cost per Vehicle (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCPV-D
 

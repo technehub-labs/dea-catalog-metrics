@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Web Availability** (WA) in the OpenDEA
 - **Canonical id:** `dea:metric-web-availability`
 - **Name:** Web Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WA
 
@@ -27,7 +27,7 @@ Successful Requests or Uptime / Total Monitoring Window
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

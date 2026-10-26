@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Land Use per Megawatt** (LUMW) in the 
 - **Canonical id:** `dea:metric-land-use-per-megawatt`
 - **Name:** Land Use per Megawatt
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LUMW
 

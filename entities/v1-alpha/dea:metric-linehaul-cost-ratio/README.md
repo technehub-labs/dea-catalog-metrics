@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Linehaul Cost Ratio** (LHR) in the Ope
 - **Canonical id:** `dea:metric-linehaul-cost-ratio`
 - **Name:** Linehaul Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHR
 
@@ -27,7 +27,7 @@ Linehaul Cost / Total Logistics Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

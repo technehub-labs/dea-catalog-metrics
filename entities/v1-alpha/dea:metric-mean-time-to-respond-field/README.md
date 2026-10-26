@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Respond (Field)** (MTTR-F
 - **Canonical id:** `dea:metric-mean-time-to-respond-field`
 - **Name:** Mean Time to Respond (Field)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTR-F
 
@@ -23,8 +23,8 @@ Time from Dispatch to Technician Arrival
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

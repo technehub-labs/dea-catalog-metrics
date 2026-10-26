@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Venture Deal Flow Quality** (VDFQ) in 
 - **Canonical id:** `dea:metric-venture-deal-flow-quality`
 - **Name:** Venture Deal Flow Quality
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VDFQ
 
@@ -27,7 +27,7 @@ Proposals Meeting Investment Thesis / Proposals Screened
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Time** (PCT) in the Open
 - **Canonical id:** `dea:metric-process-cycle-time`
 - **Name:** Process Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCT
 
@@ -23,8 +23,8 @@ End-to-End Elapsed Time of Process
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

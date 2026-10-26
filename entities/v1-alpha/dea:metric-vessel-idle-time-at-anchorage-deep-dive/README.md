@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel Idle Time at Anchorage (Deep Di
 - **Canonical id:** `dea:metric-vessel-idle-time-at-anchorage-deep-dive`
 - **Name:** Vessel Idle Time at Anchorage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VIT-D
 
@@ -27,7 +27,7 @@ Waiting Days / Total Vessel Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

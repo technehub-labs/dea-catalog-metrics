@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Cycle Time (CLM)** (CCT-CL) i
 - **Canonical id:** `dea:metric-contract-cycle-time-clm`
 - **Name:** Contract Cycle Time (CLM)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCT-CL
 
@@ -23,8 +23,8 @@ Days from Request to Fully Executed Contract
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Conformance (WCAG)** (AC
 - **Canonical id:** `dea:metric-accessibility-conformance-wcag`
 - **Name:** Accessibility Conformance (WCAG)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACW
 
@@ -27,7 +27,7 @@ Criteria Passed / Applicable WCAG Criteria
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

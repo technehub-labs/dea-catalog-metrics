@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Notice of Loss Response Time** (
 - **Canonical id:** `dea:metric-first-notice-of-loss-response-time`
 - **Name:** First Notice of Loss Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FNOLT
 
@@ -23,8 +23,8 @@ Hours from Loss Notification to First Customer Contact
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

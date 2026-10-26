@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Change Validation Coverage** (PCVC
 - **Canonical id:** `dea:metric-pre-change-validation-coverage`
 - **Name:** Pre-Change Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCVC
 
@@ -23,7 +23,7 @@ Changes with Validated Pre-Change State / Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

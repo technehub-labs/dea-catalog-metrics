@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Glossary Term Coverage** (BGT
 - **Canonical id:** `dea:metric-business-glossary-term-coverage`
 - **Name:** Business Glossary Term Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BGTC
 
@@ -23,7 +23,7 @@ Terms Defined and Approved / Terms in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

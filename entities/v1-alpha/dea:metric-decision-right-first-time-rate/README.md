@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Right First Time Rate** (DRFT
 - **Canonical id:** `dea:metric-decision-right-first-time-rate`
 - **Name:** Decision Right First Time Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRFT
 
@@ -27,7 +27,7 @@ Decisions Not Revisited or Reversed within Year / Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

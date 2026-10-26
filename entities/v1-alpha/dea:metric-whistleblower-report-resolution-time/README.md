@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whistleblower Report Resolution Time**
 - **Canonical id:** `dea:metric-whistleblower-report-resolution-time`
 - **Name:** Whistleblower Report Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRRT
 
@@ -27,8 +27,8 @@ Days from Report to Case Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

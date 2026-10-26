@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upside Capture Ratio (Deep Dive)** (UC
 - **Canonical id:** `dea:metric-upside-capture-ratio-deep-dive`
 - **Name:** Upside Capture Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UCR-IM
 

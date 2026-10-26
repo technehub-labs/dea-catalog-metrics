@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Activity-Based Costing Coverage** (ABC
 - **Canonical id:** `dea:metric-activity-based-costing-coverage`
 - **Name:** Activity-Based Costing Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABCC
 
@@ -27,7 +27,7 @@ Products Costed via ABC Model / Products Costed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

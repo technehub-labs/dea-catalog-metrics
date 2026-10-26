@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idle Equipment Energy Draw** (IED) in 
 - **Canonical id:** `dea:metric-idle-equipment-energy-draw`
 - **Name:** Idle Equipment Energy Draw
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IED
 
@@ -23,7 +23,7 @@ Energy Consumed by Idle Equipment / Total Energy
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

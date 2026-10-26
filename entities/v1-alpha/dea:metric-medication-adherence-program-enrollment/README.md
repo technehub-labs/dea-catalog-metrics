@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Adherence Program Enrollmen
 - **Canonical id:** `dea:metric-medication-adherence-program-enrollment`
 - **Name:** Medication Adherence Program Enrollment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAPE
 
@@ -23,7 +23,7 @@ Enrolled Patients / Eligible Patients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

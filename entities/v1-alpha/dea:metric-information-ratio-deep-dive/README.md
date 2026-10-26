@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Information Ratio (Deep Dive)** (IR-D)
 - **Canonical id:** `dea:metric-information-ratio-deep-dive`
 - **Name:** Information Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IR-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mine Plan Adherence** (MPA) in the Ope
 - **Canonical id:** `dea:metric-mine-plan-adherence`
 - **Name:** Mine Plan Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPA
 
@@ -27,7 +27,7 @@ Actual Extraction vs Plan Tonnage and Grade / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

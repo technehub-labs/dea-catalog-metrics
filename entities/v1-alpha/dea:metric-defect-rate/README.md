@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Rate** (DR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-defect-rate`
 - **Name:** Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DR
 
@@ -23,7 +23,7 @@ Defective Units / Total Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

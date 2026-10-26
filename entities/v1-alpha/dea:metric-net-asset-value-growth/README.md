@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Asset Value Growth** (NAVG) in the
 - **Canonical id:** `dea:metric-net-asset-value-growth`
 - **Name:** Net Asset Value Growth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NAVG
 
@@ -27,7 +27,7 @@ Net asset value growth tracks the increase in a fund's per-share value, and it i
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

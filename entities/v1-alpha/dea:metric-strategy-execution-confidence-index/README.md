@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategy Execution Confidence Index** 
 - **Canonical id:** `dea:metric-strategy-execution-confidence-index`
 - **Name:** Strategy Execution Confidence Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SECI
 

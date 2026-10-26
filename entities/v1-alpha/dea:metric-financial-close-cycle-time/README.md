@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Close Cycle Time** (FCCT) in
 - **Canonical id:** `dea:metric-financial-close-cycle-time`
 - **Name:** Financial Close Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCCT
 
@@ -23,8 +23,8 @@ Days from Period End to Signed Financial Statements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Leakage from Missed Renewals** (
 - **Canonical id:** `dea:metric-value-leakage-from-missed-renewals`
 - **Name:** Value Leakage from Missed Renewals
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VLMR
 

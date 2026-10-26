@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Cost** (AC) in the OpenDEAM 
 - **Canonical id:** `dea:metric-attrition-cost`
 - **Name:** Attrition Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AC
 

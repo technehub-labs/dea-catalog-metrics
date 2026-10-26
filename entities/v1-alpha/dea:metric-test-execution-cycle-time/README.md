@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Execution Cycle Time** (TECT-QA) 
 - **Canonical id:** `dea:metric-test-execution-cycle-time`
 - **Name:** Test Execution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TECT-QA
 
@@ -23,8 +23,8 @@ Duration of Full Regression Suite
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

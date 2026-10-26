@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Specificity** (MSPEC) in the Ope
 - **Canonical id:** `dea:metric-model-specificity`
 - **Name:** Model Specificity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSPEC
 
@@ -23,7 +23,7 @@ True Negatives / (True Negatives + False Positives)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

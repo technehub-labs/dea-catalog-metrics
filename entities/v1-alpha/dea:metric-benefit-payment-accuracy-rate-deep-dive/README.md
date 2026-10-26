@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefit Payment Accuracy Rate (Deep Di
 - **Canonical id:** `dea:metric-benefit-payment-accuracy-rate-deep-dive`
 - **Name:** Benefit Payment Accuracy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BPADD
 
@@ -27,7 +27,7 @@ Correct Payments / Payments Made
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

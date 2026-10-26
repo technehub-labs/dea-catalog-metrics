@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Class Fill Rate (Deep Dive)** (CFR-D) 
 - **Canonical id:** `dea:metric-class-fill-rate-deep-dive`
 - **Name:** Class Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFR-D
 
@@ -23,7 +23,7 @@ Booked Spots / Available Class Spots
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

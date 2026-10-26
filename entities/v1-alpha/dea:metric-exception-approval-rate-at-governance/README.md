@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exception Approval Rate at Governance*
 - **Canonical id:** `dea:metric-exception-approval-rate-at-governance`
 - **Name:** Exception Approval Rate at Governance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EARG
 
@@ -27,7 +27,7 @@ Items Approved with Exceptions / Items Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

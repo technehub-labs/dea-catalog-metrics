@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pseudonymization Coverage (Analytics)*
 - **Canonical id:** `dea:metric-pseudonymization-coverage-analytics`
 - **Name:** Pseudonymization Coverage (Analytics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPC
 
@@ -23,7 +23,7 @@ Analytical Datasets Pseudonymized / Datasets with Personal Data
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

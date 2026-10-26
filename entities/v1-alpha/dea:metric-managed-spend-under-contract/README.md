@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Managed Spend under Contract** (MSUC) 
 - **Canonical id:** `dea:metric-managed-spend-under-contract`
 - **Name:** Managed Spend under Contract
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSUC
 
@@ -27,7 +27,7 @@ Contracted Spend / Addressable Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

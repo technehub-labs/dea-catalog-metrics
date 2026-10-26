@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Variance** (BV) in the OpenDEAM
 - **Canonical id:** `dea:metric-budget-variance`
 - **Name:** Budget Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BV
 
@@ -27,7 +27,7 @@ Measures the gap between budgeted and actual spending or revenue for a period. I
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cargo Yield per Tonne-Kilometre** (CYT
 - **Canonical id:** `dea:metric-cargo-yield-per-tonne-kilometre`
 - **Name:** Cargo Yield per Tonne-Kilometre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CYTK
 

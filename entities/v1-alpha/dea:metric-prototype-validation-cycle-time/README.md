@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Validation Cycle Time** (PVC
 - **Canonical id:** `dea:metric-prototype-validation-cycle-time`
 - **Name:** Prototype Validation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVCT-RE
 
@@ -23,8 +23,8 @@ Days from Prototype Build to Validated Learning
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

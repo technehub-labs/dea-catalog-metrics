@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Launch Product Performance Index*
 - **Canonical id:** `dea:metric-post-launch-product-performance-index`
 - **Name:** Post-Launch Product Performance Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPPI
 

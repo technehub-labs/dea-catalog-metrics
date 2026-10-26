@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Cost of Ownership Optimization R
 - **Canonical id:** `dea:metric-total-cost-of-ownership-optimization-rate`
 - **Name:** Total Cost of Ownership Optimization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCOOR
 
@@ -27,7 +27,7 @@ Awards on TCO Basis rather than Price / Awards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Penalty Exposure** (RPE) in
 - **Canonical id:** `dea:metric-regulatory-penalty-exposure`
 - **Name:** Regulatory Penalty Exposure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPE
 

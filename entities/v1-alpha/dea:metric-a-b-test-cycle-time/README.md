@@ -7,7 +7,7 @@ Candidate Performance Metric record for **A-B Test Cycle Time** (ABTCT) in the O
 - **Canonical id:** `dea:metric-a-b-test-cycle-time`
 - **Name:** A-B Test Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABTCT
 
@@ -23,8 +23,8 @@ Days from Hypothesis to Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Pipeline Conversion Rate** (DPCR)
 - **Canonical id:** `dea:metric-deal-pipeline-conversion-rate`
 - **Name:** Deal Pipeline Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPCR
 
@@ -27,7 +27,7 @@ Deals Completed / Deals Screened
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

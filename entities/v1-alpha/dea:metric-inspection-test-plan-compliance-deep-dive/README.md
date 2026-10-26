@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inspection Test Plan Compliance (Deep 
 - **Canonical id:** `dea:metric-inspection-test-plan-compliance-deep-dive`
 - **Name:** Inspection Test Plan Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITPC-D
 
@@ -23,7 +23,7 @@ ITP Holds Tested on Schedule / Holds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

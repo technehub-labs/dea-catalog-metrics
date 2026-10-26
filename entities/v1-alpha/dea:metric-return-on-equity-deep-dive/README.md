@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Equity (Deep Dive)** (ROEDD)
 - **Canonical id:** `dea:metric-return-on-equity-deep-dive`
 - **Name:** Return on Equity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROEDD
 
@@ -27,7 +27,7 @@ Net Income / Shareholder Equity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

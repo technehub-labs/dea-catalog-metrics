@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Conflict Incident Rate** (CCIR
 - **Canonical id:** `dea:metric-channel-conflict-incident-rate`
 - **Name:** Channel Conflict Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCIR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Base Station Downtime per Quarter** (B
 - **Canonical id:** `dea:metric-base-station-downtime-per-quarter`
 - **Name:** Base Station Downtime per Quarter
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSDT
 
@@ -23,8 +23,8 @@ Total Site Unavailability Hours per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

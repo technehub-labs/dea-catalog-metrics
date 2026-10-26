@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finding and Development Cost** (FDC) i
 - **Canonical id:** `dea:metric-finding-and-development-cost`
 - **Name:** Finding and Development Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDC
 

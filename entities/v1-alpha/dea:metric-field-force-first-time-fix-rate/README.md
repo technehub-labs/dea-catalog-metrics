@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Force First-Time Fix Rate** (FTF
 - **Canonical id:** `dea:metric-field-force-first-time-fix-rate`
 - **Name:** Field Force First-Time Fix Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTFR
 
@@ -23,7 +23,7 @@ Faults Resolved on First Visit / Faults Dispatched
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

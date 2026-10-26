@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Downtime Cost per Incident** (AD
 - **Canonical id:** `dea:metric-asset-downtime-cost-per-incident`
 - **Name:** Asset Downtime Cost per Incident
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADCI
 

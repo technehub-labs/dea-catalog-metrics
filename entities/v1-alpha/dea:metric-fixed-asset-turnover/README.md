@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fixed Asset Turnover** (FAT) in the Op
 - **Canonical id:** `dea:metric-fixed-asset-turnover`
 - **Name:** Fixed Asset Turnover
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FAT
 

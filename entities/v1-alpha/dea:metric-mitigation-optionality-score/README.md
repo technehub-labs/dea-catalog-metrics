@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mitigation Optionality Score** (MOS-ER
 - **Canonical id:** `dea:metric-mitigation-optionality-score`
 - **Name:** Mitigation Optionality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOS-ER
 

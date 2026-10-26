@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Calendar Adherence by Teams** 
 - **Canonical id:** `dea:metric-release-calendar-adherence-by-teams`
 - **Name:** Release Calendar Adherence by Teams
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCAT
 
@@ -23,7 +23,7 @@ Teams Following Coordinated Release Calendar / Teams
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

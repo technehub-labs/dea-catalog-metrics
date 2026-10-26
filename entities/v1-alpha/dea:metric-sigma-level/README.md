@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Level** (SIG) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-sigma-level`
 - **Name:** Sigma Level
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIG
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Goal Achievability Balance Ratio** (GA
 - **Canonical id:** `dea:metric-goal-achievability-balance-ratio`
 - **Name:** Goal Achievability Balance Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GABR-OKR
 
@@ -23,7 +23,7 @@ Key Results Set at Appropriate Ambition Level / Key Results
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

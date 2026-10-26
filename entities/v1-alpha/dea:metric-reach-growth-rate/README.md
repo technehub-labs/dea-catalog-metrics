@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reach Growth Rate** (RGR-M) in the Ope
 - **Canonical id:** `dea:metric-reach-growth-rate`
 - **Name:** Reach Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RGR-M
 
@@ -27,7 +27,7 @@ Measures growth in audience reach across channels over time. It matters as a lea
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

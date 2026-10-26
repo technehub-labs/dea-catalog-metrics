@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Available Seat Kilometres** (ASK) in t
 - **Canonical id:** `dea:metric-available-seat-kilometres`
 - **Name:** Available Seat Kilometres
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASK
 

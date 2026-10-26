@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Dependency Concentration (Al
 - **Canonical id:** `dea:metric-strategic-dependency-concentration-alliances`
 - **Name:** Strategic Dependency Concentration (Alliances)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDCA
 
@@ -27,7 +27,7 @@ Alliance Value from Single Partner / Total Alliance Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

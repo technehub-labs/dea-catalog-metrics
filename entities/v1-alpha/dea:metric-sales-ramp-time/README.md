@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales Ramp Time** (SRT) in the OpenDEA
 - **Canonical id:** `dea:metric-sales-ramp-time`
 - **Name:** Sales Ramp Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRT
 
@@ -27,8 +27,8 @@ Months from Hire to Full Quota Attainment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

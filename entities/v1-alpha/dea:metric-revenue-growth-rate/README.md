@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Growth Rate** (RGR) in the Ope
 - **Canonical id:** `dea:metric-revenue-growth-rate`
 - **Name:** Revenue Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RGR
 
@@ -27,7 +27,7 @@ Period-over-period change in the top line - the first question in every equity s
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Query Resolution Time (Clinical)*
 - **Canonical id:** `dea:metric-data-query-resolution-time-clinical`
 - **Name:** Data Query Resolution Time (Clinical)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQRT
 
@@ -23,8 +23,8 @@ Days to Resolve Data Queries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

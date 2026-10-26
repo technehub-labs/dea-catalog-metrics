@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Council Cadence Compli
 - **Canonical id:** `dea:metric-data-governance-council-cadence-compliance`
 - **Name:** Data Governance Council Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DGCC
 
@@ -23,7 +23,7 @@ Council Meetings Held per Charter / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

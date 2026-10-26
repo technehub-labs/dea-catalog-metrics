@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Advice Response Time** (LART) in
 - **Canonical id:** `dea:metric-legal-advice-response-time`
 - **Name:** Legal Advice Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LART
 
@@ -23,8 +23,8 @@ Hours or Days from Request to Substantive Legal Response
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

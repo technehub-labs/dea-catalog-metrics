@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Risk-Weighted Assets** (RORW
 - **Canonical id:** `dea:metric-return-on-risk-weighted-assets`
 - **Name:** Return on Risk-Weighted Assets
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RORWA
 
@@ -27,7 +27,7 @@ Net Income / Risk-Weighted Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

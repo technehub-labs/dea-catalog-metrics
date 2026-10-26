@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equity Multiplier** (EQMUL) in the Ope
 - **Canonical id:** `dea:metric-equity-multiplier`
 - **Name:** Equity Multiplier
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EQMUL
 

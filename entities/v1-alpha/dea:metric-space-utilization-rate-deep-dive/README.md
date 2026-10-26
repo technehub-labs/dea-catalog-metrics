@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Utilization Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-space-utilization-rate-deep-dive`
 - **Name:** Space Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SUR-D
 
@@ -27,7 +27,7 @@ Occupied or Booked Space / Total Space
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

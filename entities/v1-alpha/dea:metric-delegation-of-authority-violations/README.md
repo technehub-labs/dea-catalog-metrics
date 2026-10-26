@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegation of Authority Violations** (
 - **Canonical id:** `dea:metric-delegation-of-authority-violations`
 - **Name:** Delegation of Authority Violations
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DOAV
 
@@ -27,7 +27,7 @@ Decisions outside Approved Authority Levels / Decisions Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

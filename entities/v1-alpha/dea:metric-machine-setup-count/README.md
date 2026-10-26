@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Setup Count** (MSC) in the Ope
 - **Canonical id:** `dea:metric-machine-setup-count`
 - **Name:** Machine Setup Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSC
 

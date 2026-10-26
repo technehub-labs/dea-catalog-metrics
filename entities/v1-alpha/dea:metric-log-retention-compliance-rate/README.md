@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Log Retention Compliance Rate** (LRCR-
 - **Canonical id:** `dea:metric-log-retention-compliance-rate`
 - **Name:** Log Retention Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRCR-SOC
 
@@ -27,7 +27,7 @@ Sources Meeting Retention Policy / Sources
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

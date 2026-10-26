@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Point Objective Compliance Ra
 - **Canonical id:** `dea:metric-recovery-point-objective-compliance-rate`
 - **Name:** Recovery Point Objective Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPOCR
 
@@ -27,7 +27,7 @@ Data Restored within RPO in Tests / Data Restores Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensation Ratio to Market** (CRM) i
 - **Canonical id:** `dea:metric-compensation-ratio-to-market`
 - **Name:** Compensation Ratio to Market
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRM
 

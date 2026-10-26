@@ -7,8 +7,8 @@ description: 'Tariff Complexity Complaint Rate (TCCR) measures the quality of ou
   and function owners act on it between review cycles. Lower values are better; each reduction is an improvement.
   It is a standard measure in the Telecommunications sector.'
 abbreviation: TCCR
-unit: events
-version: 1.0.0
+unit: event
+version: 1.0.1
 lifecycle_status: candidate
 subject_classification:
 - product_or_service
@@ -21,7 +21,7 @@ management_significance:
 - managerial
 measurable_entity_kind: dea:Service
 reputability_tier: industry_standard
-unit_ref: dea:unit-events
+unit_ref: dea:unit-event
 source_credit: Public domain - no attribution required
 calculation_definition: Pricing Complaints / 1,000 Customers
 formula_definition:
@@ -34,7 +34,7 @@ formula_definition:
   parameters: []
   unit_semantics:
     input_units: []
-    output_unit: dea:unit-events
+    output_unit: dea:unit-event
   validation_rules: []
   version: 1.0.0
 metadata:
@@ -44,6 +44,9 @@ metadata:
   - cr: CR-MET-016
     date: '2026-10-26'
     change: Ingested from the candidate-metrics seed workbook
+  - cr: CR-MET-017
+    date: '2026-10-26'
+    change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics

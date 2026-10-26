@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Checkout Completion Rate** (CCR-R) in 
 - **Canonical id:** `dea:metric-checkout-completion-rate`
 - **Name:** Checkout Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-R
 
@@ -23,7 +23,7 @@ Completed Checkouts / Checkout Starts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hard Services Downtime (Deep Dive)** (
 - **Canonical id:** `dea:metric-hard-services-downtime-deep-dive`
 - **Name:** Hard Services Downtime (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HSD-D
 
@@ -23,8 +23,8 @@ Hours of Critical System Downtime per Month
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

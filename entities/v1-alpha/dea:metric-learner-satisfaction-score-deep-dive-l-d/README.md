@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learner Satisfaction Score (Deep Dive 
 - **Canonical id:** `dea:metric-learner-satisfaction-score-deep-dive-l-d`
 - **Name:** Learner Satisfaction Score (Deep Dive - L&D)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSSDD
 

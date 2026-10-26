@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Expense Ratio** (CER) in the Op
 - **Canonical id:** `dea:metric-claims-expense-ratio`
 - **Name:** Claims Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CER
 
@@ -27,7 +27,7 @@ Claims Handling Expenses / Earned Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

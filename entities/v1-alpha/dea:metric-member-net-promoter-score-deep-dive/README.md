@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Net Promoter Score (Deep Dive)*
 - **Canonical id:** `dea:metric-member-net-promoter-score-deep-dive`
 - **Name:** Member Net Promoter Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MNPS-D
 

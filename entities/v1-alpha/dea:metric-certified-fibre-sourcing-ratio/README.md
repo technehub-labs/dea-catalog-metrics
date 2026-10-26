@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certified Fibre Sourcing Ratio** (CFSR
 - **Canonical id:** `dea:metric-certified-fibre-sourcing-ratio`
 - **Name:** Certified Fibre Sourcing Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFSR
 
@@ -27,7 +27,7 @@ Certified Fibre / Total Fibre
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tool Sprawl Index** (TSI) in the OpenD
 - **Canonical id:** `dea:metric-tool-sprawl-index`
 - **Name:** Tool Sprawl Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSI
 

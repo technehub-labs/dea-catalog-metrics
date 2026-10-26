@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha** (ALPHA) in the OpenDEAM Metric
 - **Canonical id:** `dea:metric-alpha`
 - **Name:** Alpha
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALPHA
 
@@ -27,7 +27,7 @@ Portfolio Return - Benchmark-Adjusted Expected Return
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

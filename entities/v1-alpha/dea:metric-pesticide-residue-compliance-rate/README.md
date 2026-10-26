@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pesticide Residue Compliance Rate** (P
 - **Canonical id:** `dea:metric-pesticide-residue-compliance-rate`
 - **Name:** Pesticide Residue Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCR
 
@@ -27,7 +27,7 @@ Batches within Residue Limits / Batches Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

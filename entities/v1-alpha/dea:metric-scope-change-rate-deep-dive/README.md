@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope Change Rate (Deep Dive)** (SCR-D
 - **Canonical id:** `dea:metric-scope-change-rate-deep-dive`
 - **Name:** Scope Change Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-D
 
@@ -27,7 +27,7 @@ Approved Changes / Baseline Scope Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

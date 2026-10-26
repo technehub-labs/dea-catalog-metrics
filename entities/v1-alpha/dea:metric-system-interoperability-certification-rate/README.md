@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Interoperability Certification 
 - **Canonical id:** `dea:metric-system-interoperability-certification-rate`
 - **Name:** System Interoperability Certification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SICR
 
@@ -27,7 +27,7 @@ Systems Certified Interoperable / Systems Requiring Certification
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

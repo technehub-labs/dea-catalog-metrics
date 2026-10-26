@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Work Order Backlog Age - Field** (WOBA
 - **Canonical id:** `dea:metric-work-order-backlog-age-field`
 - **Name:** Work Order Backlog Age - Field
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WOBA-F
 
@@ -23,7 +23,7 @@ Open Field Work Orders beyond Target / Open Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

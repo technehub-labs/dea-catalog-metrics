@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fulfilment Lead Time Trend (Deep
 - **Canonical id:** `dea:metric-order-fulfilment-lead-time-trend-deep-dive`
 - **Name:** Order Fulfilment Lead Time Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OFLTT-D
 
@@ -27,8 +27,8 @@ Change in Fulfilment Lead Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

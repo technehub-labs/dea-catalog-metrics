@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste per Service (Beauty)** (WPS-B) i
 - **Canonical id:** `dea:metric-waste-per-service-beauty`
 - **Name:** Waste per Service (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WPS-B
 

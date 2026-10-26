@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payback on Marketing Investment (Deep 
 - **Canonical id:** `dea:metric-payback-on-marketing-investment-deep-dive`
 - **Name:** Payback on Marketing Investment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PROMID
 

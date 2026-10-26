@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Trip** (ALOT) in the
 - **Canonical id:** `dea:metric-average-length-of-trip`
 - **Name:** Average Length of Trip
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALOT
 
@@ -27,8 +27,8 @@ Total Traveler Nights / Trips
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

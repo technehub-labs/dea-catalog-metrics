@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Recall Events** (PRE) in the O
 - **Canonical id:** `dea:metric-product-recall-events`
 - **Name:** Product Recall Events
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRE
 

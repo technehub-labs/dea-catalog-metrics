@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Consumption** (EC) in the OpenD
 - **Canonical id:** `dea:metric-energy-consumption`
 - **Name:** Energy Consumption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EC
 
@@ -27,8 +27,8 @@ Total Energy Consumed per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-megawatthours`
-- **Unit:** megawatthours
+- **Unit reference:** `dea:unit-megawatthour`
+- **Unit:** megawatthour
 - **Unit label (as published):** megawatt-hours (MWh)
 
 ## Classification

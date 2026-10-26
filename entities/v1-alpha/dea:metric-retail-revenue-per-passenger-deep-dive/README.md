@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retail Revenue per Passenger (Deep Div
 - **Canonical id:** `dea:metric-retail-revenue-per-passenger-deep-dive`
 - **Name:** Retail Revenue per Passenger (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRPP-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net New ARR per Sales Rep** (NNAR) in 
 - **Canonical id:** `dea:metric-net-new-arr-per-sales-rep`
 - **Name:** Net New ARR per Sales Rep
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NNAR
 

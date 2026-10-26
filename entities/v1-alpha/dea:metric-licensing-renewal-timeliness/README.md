@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Licensing Renewal Timeliness** (LRT) i
 - **Canonical id:** `dea:metric-licensing-renewal-timeliness`
 - **Name:** Licensing Renewal Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRT
 
@@ -23,7 +23,7 @@ Licenses Renewed before Expiry / Licenses Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Three Lines Model Compliance Score** (
 - **Canonical id:** `dea:metric-three-lines-model-compliance-score`
 - **Name:** Three Lines Model Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLMCS
 

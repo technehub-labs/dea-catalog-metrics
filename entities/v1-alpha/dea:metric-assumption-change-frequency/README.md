@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assumption Change Frequency** (ACF-A) 
 - **Canonical id:** `dea:metric-assumption-change-frequency`
 - **Name:** Assumption Change Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACF-A
 

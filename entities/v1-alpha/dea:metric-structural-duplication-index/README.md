@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Structural Duplication Index** (SDI-OM
 - **Canonical id:** `dea:metric-structural-duplication-index`
 - **Name:** Structural Duplication Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDI-OM
 
@@ -27,7 +27,7 @@ Duplicated Functions across Units / Functions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

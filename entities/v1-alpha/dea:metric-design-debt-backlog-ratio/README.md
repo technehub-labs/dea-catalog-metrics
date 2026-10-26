@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Debt Backlog Ratio** (DDBR-UX) 
 - **Canonical id:** `dea:metric-design-debt-backlog-ratio`
 - **Name:** Design Debt Backlog Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDBR-UX
 
@@ -23,7 +23,7 @@ Design Debt Items / Total Design Backlog Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

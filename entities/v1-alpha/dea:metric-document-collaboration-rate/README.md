@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Document Collaboration Rate** (DCR-DW)
 - **Canonical id:** `dea:metric-document-collaboration-rate`
 - **Name:** Document Collaboration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCR-DW
 
@@ -23,7 +23,7 @@ Documents Co-Authored / Documents Created
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

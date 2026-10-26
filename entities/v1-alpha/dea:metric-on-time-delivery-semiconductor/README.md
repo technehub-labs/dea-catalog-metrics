@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery (Semiconductor)** (OT
 - **Canonical id:** `dea:metric-on-time-delivery-semiconductor`
 - **Name:** On-Time Delivery (Semiconductor)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTD-S
 
@@ -27,7 +27,7 @@ Order Lines Delivered on Commit Date / Order Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

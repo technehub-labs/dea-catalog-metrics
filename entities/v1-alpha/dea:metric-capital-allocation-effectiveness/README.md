@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Allocation Effectiveness** (CA
 - **Canonical id:** `dea:metric-capital-allocation-effectiveness`
 - **Name:** Capital Allocation Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAE2
 

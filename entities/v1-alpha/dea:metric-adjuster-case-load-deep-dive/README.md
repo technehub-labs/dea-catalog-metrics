@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adjuster Case Load (Deep Dive)** (ACL-
 - **Canonical id:** `dea:metric-adjuster-case-load-deep-dive`
 - **Name:** Adjuster Case Load (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACL-D
 

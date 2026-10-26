@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secrets Detected per 1,000 Commits** (
 - **Canonical id:** `dea:metric-secrets-detected-per-1-000-commits`
 - **Name:** Secrets Detected per 1,000 Commits
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SD1KC
 
@@ -23,8 +23,8 @@ Hardcoded Secrets Detected / 1,000 Commits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

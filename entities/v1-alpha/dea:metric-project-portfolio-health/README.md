@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Portfolio Health** (PPH) in th
 - **Canonical id:** `dea:metric-project-portfolio-health`
 - **Name:** Project Portfolio Health
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPH
 
@@ -27,7 +27,7 @@ Projects on Green Status / Total Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IaC Policy Gate Pass Rate** (IACPG) in
 - **Canonical id:** `dea:metric-iac-policy-gate-pass-rate`
 - **Name:** IaC Policy Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IACPG
 
@@ -23,7 +23,7 @@ Pipeline Runs Passing Policy-as-Code / Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PMO Standard Adoption Rate** (PSAR) in
 - **Canonical id:** `dea:metric-pmo-standard-adoption-rate`
 - **Name:** PMO Standard Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSAR
 
@@ -23,7 +23,7 @@ Projects Using Mandated Methods / Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

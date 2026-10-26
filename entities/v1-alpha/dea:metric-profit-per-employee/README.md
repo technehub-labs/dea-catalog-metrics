@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Profit per Employee** (PPE) in the Ope
 - **Canonical id:** `dea:metric-profit-per-employee`
 - **Name:** Profit per Employee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPE
 

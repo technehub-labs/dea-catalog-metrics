@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cargo Damage Claim Rate (Maritime)** (
 - **Canonical id:** `dea:metric-cargo-damage-claim-rate-maritime`
 - **Name:** Cargo Damage Claim Rate (Maritime)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDRM
 
@@ -27,7 +27,7 @@ Claims Value / Freight Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

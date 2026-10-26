@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Available Room** (RevPAR) 
 - **Canonical id:** `dea:metric-revenue-per-available-room`
 - **Name:** Revenue per Available Room
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RevPAR
 

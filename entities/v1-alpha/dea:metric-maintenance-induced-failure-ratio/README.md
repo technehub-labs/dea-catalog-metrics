@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Induced Failure Ratio** (M
 - **Canonical id:** `dea:metric-maintenance-induced-failure-ratio`
 - **Name:** Maintenance-Induced Failure Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIFR
 
@@ -23,7 +23,7 @@ Failures Attributable to Maintenance Error / Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

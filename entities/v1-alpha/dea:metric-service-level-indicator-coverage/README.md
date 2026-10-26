@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Indicator Coverage** (SL
 - **Canonical id:** `dea:metric-service-level-indicator-coverage`
 - **Name:** Service Level Indicator Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLIC
 
@@ -27,7 +27,7 @@ User-Facing Services with Defined SLIs / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

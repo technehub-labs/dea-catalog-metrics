@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Funding per Faculty** (RFF) i
 - **Canonical id:** `dea:metric-research-funding-per-faculty`
 - **Name:** Research Funding per Faculty
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFF
 

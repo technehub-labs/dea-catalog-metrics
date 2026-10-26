@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Forecast Accuracy - Financial P
 - **Canonical id:** `dea:metric-budget-forecast-accuracy-financial-planning-deep-dive`
 - **Name:** Budget Forecast Accuracy - Financial Planning (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BFAD
 
@@ -27,7 +27,7 @@ Measures how closely actual financial results track the plan. Forecast accuracy 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

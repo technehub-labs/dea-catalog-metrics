@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAU/MAU Stickiness Ratio** (DAUMAU) in
 - **Canonical id:** `dea:metric-dau-mau-stickiness-ratio`
 - **Name:** DAU/MAU Stickiness Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAUMAU
 
@@ -27,7 +27,7 @@ Daily Active Users / Monthly Active Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

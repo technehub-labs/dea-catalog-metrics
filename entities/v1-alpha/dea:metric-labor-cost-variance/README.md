@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Variance** (LCV) in the Ope
 - **Canonical id:** `dea:metric-labor-cost-variance`
 - **Name:** Labor Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCV
 
@@ -27,7 +27,7 @@ Measures deviation of actual labor cost from the staffing plan. It matters becau
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

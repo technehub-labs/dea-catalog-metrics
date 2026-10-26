@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Forecast Precision** (LFP) in th
 - **Canonical id:** `dea:metric-labor-forecast-precision`
 - **Name:** Labor Forecast Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LFP
 
@@ -23,7 +23,7 @@ Forecast vs Actual Labor Hours / Actual
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

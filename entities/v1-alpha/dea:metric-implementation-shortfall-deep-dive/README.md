@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Implementation Shortfall (Deep Dive)**
 - **Canonical id:** `dea:metric-implementation-shortfall-deep-dive`
 - **Name:** Implementation Shortfall (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ISF-D
 
@@ -27,7 +27,7 @@ Realized versus Paper Portfolio Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

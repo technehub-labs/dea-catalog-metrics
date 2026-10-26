@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merit Budget Utilization** (MBU-PAY) i
 - **Canonical id:** `dea:metric-merit-budget-utilization`
 - **Name:** Merit Budget Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MBU-PAY
 
@@ -23,7 +23,7 @@ Merit Increases Awarded / Merit Budget
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

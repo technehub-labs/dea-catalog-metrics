@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Readiness Review Pass Rate** (
 - **Canonical id:** `dea:metric-release-readiness-review-pass-rate`
 - **Name:** Release Readiness Review Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRRPR
 
@@ -23,7 +23,7 @@ Releases Passing Readiness Review First Time / Reviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

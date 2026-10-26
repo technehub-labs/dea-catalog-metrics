@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Diction Accuracy Rate** (PDAR) in
 - **Canonical id:** `dea:metric-post-diction-accuracy-rate`
 - **Name:** Post-Diction Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDAR
 
@@ -27,7 +27,7 @@ Emerging Risks That Materialized and Were Previously Flagged / Materialized
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

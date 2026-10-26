@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Revenue Water** (NRW) in the OpenD
 - **Canonical id:** `dea:metric-non-revenue-water`
 - **Name:** Non-Revenue Water
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NRW
 
@@ -27,7 +27,7 @@ Water Lost / Water Supplied
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

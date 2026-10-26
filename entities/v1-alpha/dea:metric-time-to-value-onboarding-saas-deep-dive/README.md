@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Value - Onboarding (SaaS Deep 
 - **Canonical id:** `dea:metric-time-to-value-onboarding-saas-deep-dive`
 - **Name:** Time to Value - Onboarding (SaaS Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTV-D
 
@@ -27,8 +27,8 @@ Days from Signup to First Value Milestone
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

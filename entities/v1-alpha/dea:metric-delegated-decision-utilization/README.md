@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegated Decision Utilization** (DDU)
 - **Canonical id:** `dea:metric-delegated-decision-utilization`
 - **Name:** Delegated Decision Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDU
 
@@ -27,7 +27,7 @@ Decisions Taken at Delegated Level / Decisions Eligible
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

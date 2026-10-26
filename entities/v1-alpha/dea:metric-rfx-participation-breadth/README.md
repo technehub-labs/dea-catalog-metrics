@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RFx Participation Breadth** (RFXPB) in
 - **Canonical id:** `dea:metric-rfx-participation-breadth`
 - **Name:** RFx Participation Breadth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFXPB
 

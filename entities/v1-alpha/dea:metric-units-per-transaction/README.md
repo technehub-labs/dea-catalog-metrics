@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Units per Transaction** (UPT) in the O
 - **Canonical id:** `dea:metric-units-per-transaction`
 - **Name:** Units per Transaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UPT
 

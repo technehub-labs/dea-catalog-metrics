@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bottleneck Utilization** (BU) in the O
 - **Canonical id:** `dea:metric-bottleneck-utilization`
 - **Name:** Bottleneck Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BU
 
@@ -27,7 +27,7 @@ Load on Constraint Resource / Constraint Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

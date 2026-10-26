@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cyclomatic Complexity (Deep Dive)** (C
 - **Canonical id:** `dea:metric-cyclomatic-complexity-deep-dive`
 - **Name:** Cyclomatic Complexity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CYCD
 

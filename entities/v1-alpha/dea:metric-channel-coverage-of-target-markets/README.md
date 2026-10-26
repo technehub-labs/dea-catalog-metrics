@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Coverage of Target Markets** (
 - **Canonical id:** `dea:metric-channel-coverage-of-target-markets`
 - **Name:** Channel Coverage of Target Markets
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCTM
 
@@ -27,7 +27,7 @@ Markets with Active Channel Presence / Target Markets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

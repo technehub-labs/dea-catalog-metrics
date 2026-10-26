@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slot Utilization - Liner (Deep Dive)**
 - **Canonical id:** `dea:metric-slot-utilization-liner-deep-dive`
 - **Name:** Slot Utilization - Liner (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SUL-D
 
@@ -27,7 +27,7 @@ TEU Carried / TEU Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Worker Turnover** (CWT) in the Op
 - **Canonical id:** `dea:metric-care-worker-turnover`
 - **Name:** Care Worker Turnover
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CWT
 
@@ -27,7 +27,7 @@ Care Worker Departures / Average Care Workforce
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

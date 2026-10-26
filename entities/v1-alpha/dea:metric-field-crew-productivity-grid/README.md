@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Crew Productivity (Grid)** (FCP-
 - **Canonical id:** `dea:metric-field-crew-productivity-grid`
 - **Name:** Field Crew Productivity (Grid)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCP-G
 

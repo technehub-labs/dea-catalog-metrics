@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Deal Registration Cycle Time**
 - **Canonical id:** `dea:metric-partner-deal-registration-cycle-time`
 - **Name:** Partner Deal Registration Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDRC
 
@@ -23,8 +23,8 @@ Days from Registration Request to Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

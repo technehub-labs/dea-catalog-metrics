@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tangible Book Value Coverage** (TBVC) 
 - **Canonical id:** `dea:metric-tangible-book-value-coverage`
 - **Name:** Tangible Book Value Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TBVC
 

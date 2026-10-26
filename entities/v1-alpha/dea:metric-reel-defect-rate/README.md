@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reel Defect Rate** (RDR-P) in the Open
 - **Canonical id:** `dea:metric-reel-defect-rate`
 - **Name:** Reel Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDR-P
 
@@ -23,7 +23,7 @@ Reels with Defects / Reels Produced
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Training Coverage** (CTC-CD) i
 - **Canonical id:** `dea:metric-channel-training-coverage`
 - **Name:** Channel Training Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTC-CD
 
@@ -23,7 +23,7 @@ Partner Staff Completing Required Training / Partner Staff
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

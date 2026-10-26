@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appraisal Contingency Fall-Through Rat
 - **Canonical id:** `dea:metric-appraisal-contingency-fall-through-rate`
 - **Name:** Appraisal Contingency Fall-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACFR
 
@@ -27,7 +27,7 @@ Contracts Falling through on Appraisal / Contracts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

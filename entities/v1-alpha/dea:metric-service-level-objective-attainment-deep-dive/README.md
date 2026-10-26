@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Objective Attainment (De
 - **Canonical id:** `dea:metric-service-level-objective-attainment-deep-dive`
 - **Name:** Service Level Objective Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLOA
 
@@ -27,7 +27,7 @@ Windows Meeting SLO / Total Windows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

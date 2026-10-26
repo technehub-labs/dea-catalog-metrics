@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demurrage and Detention Cost Ratio** (
 - **Canonical id:** `dea:metric-demurrage-and-detention-cost-ratio`
 - **Name:** Demurrage and Detention Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDCR
 
@@ -23,7 +23,7 @@ Demurrage and Detention Charges / Freight Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

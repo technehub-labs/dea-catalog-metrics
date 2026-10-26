@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Outbound License Revenue Yield** (OLRY
 - **Canonical id:** `dea:metric-outbound-license-revenue-yield`
 - **Name:** Outbound License Revenue Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OLRY
 
@@ -27,7 +27,7 @@ Licensing Revenue vs Portfolio Potential
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

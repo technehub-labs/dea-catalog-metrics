@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Caused by Change Rate** (ICBC
 - **Canonical id:** `dea:metric-incident-caused-by-change-rate`
 - **Name:** Incident Caused by Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICBCR
 
@@ -27,7 +27,7 @@ Incidents Caused by Recent Change / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

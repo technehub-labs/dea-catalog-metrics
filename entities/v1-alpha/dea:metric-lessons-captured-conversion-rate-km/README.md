@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lessons Captured Conversion Rate (KM)*
 - **Canonical id:** `dea:metric-lessons-captured-conversion-rate-km`
 - **Name:** Lessons Captured Conversion Rate (KM)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCCR
 
@@ -23,7 +23,7 @@ Retrospectives Converted to Knowledge Articles / Retrospectives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

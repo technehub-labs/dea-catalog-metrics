@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Per-Match Operating Cost** (PMOC) in t
 - **Canonical id:** `dea:metric-per-match-operating-cost`
 - **Name:** Per-Match Operating Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMOC
 

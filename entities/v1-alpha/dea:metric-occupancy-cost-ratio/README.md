@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Cost Ratio** (OCR) in the Op
 - **Canonical id:** `dea:metric-occupancy-cost-ratio`
 - **Name:** Occupancy Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCR
 
@@ -27,7 +27,7 @@ Total Occupancy Cost / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

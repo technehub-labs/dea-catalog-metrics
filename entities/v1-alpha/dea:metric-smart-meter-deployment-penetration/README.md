@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Smart Meter Deployment Penetration** (
 - **Canonical id:** `dea:metric-smart-meter-deployment-penetration`
 - **Name:** Smart Meter Deployment Penetration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMDP
 
@@ -27,7 +27,7 @@ Smart Meters Installed / Meter Points
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

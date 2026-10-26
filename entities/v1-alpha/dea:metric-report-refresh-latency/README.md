@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Report Refresh Latency** (RRL) in the 
 - **Canonical id:** `dea:metric-report-refresh-latency`
 - **Name:** Report Refresh Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRL
 
@@ -23,8 +23,8 @@ Time from Source Update to Dashboard Availability
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

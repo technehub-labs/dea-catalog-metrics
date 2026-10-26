@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Driver-Based Planning Coverage** (DBPC
 - **Canonical id:** `dea:metric-driver-based-planning-coverage`
 - **Name:** Driver-Based Planning Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DBPC
 
@@ -27,7 +27,7 @@ Plan Lines Built from Documented Drivers / Plan Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

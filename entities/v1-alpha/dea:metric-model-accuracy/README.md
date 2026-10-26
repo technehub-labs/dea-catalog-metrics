@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Accuracy** (MACC) in the OpenDEA
 - **Canonical id:** `dea:metric-model-accuracy`
 - **Name:** Model Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MACC
 
@@ -23,7 +23,7 @@ Correct Predictions / Total Predictions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

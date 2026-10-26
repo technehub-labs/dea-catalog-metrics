@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Diversity Representation** 
 - **Canonical id:** `dea:metric-leadership-diversity-representation`
 - **Name:** Leadership Diversity Representation
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LDR
 
@@ -27,7 +27,7 @@ Underrepresented Group in Leadership / Leadership Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Defect Rate (Aviation)** (RDR-A
 - **Canonical id:** `dea:metric-repeat-defect-rate-aviation`
 - **Name:** Repeat Defect Rate (Aviation)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDR-A
 
@@ -27,7 +27,7 @@ Defects Recurring after Repair / Repairs Performed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

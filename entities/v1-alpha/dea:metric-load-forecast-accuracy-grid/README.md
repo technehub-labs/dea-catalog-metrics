@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Forecast Accuracy (Grid)** (LFA) 
 - **Canonical id:** `dea:metric-load-forecast-accuracy-grid`
 - **Name:** Load Forecast Accuracy (Grid)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LFA
 
@@ -27,7 +27,7 @@ Measures deviation between forecast and actual demand at system and nodal levels
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Data Access Justification Rate*
 - **Canonical id:** `dea:metric-vendor-data-access-justification-rate`
 - **Name:** Vendor Data Access Justification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VDAJR
 
@@ -23,7 +23,7 @@ Vendor Access Grants with Valid Need / Grants Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

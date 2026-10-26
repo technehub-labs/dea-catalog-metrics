@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Manager Span of Control** (PMS
 - **Canonical id:** `dea:metric-project-manager-span-of-control`
 - **Name:** Project Manager Span of Control
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMSOC
 

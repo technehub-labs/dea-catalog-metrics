@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Token Cost per Resolution** (LLMTC
 - **Canonical id:** `dea:metric-llm-token-cost-per-resolution`
 - **Name:** LLM Token Cost per Resolution
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LLMTCR
 

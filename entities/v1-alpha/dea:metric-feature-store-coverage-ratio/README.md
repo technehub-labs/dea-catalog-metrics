@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Store Coverage Ratio** (FSCR-M
 - **Canonical id:** `dea:metric-feature-store-coverage-ratio`
 - **Name:** Feature Store Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSCR-M
 
@@ -27,7 +27,7 @@ Features Served from Feature Store / Total Features Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Impact Analysis Currency** (B
 - **Canonical id:** `dea:metric-business-impact-analysis-currency`
 - **Name:** Business Impact Analysis Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BIAC
 
@@ -27,7 +27,7 @@ BIAs Refreshed within Cycle / Critical Processes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

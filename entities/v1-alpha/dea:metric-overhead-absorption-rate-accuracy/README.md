@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overhead Absorption Rate Accuracy** (O
 - **Canonical id:** `dea:metric-overhead-absorption-rate-accuracy`
 - **Name:** Overhead Absorption Rate Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OARA
 
@@ -27,7 +27,7 @@ Measures how closely absorbed overhead matches actual overhead incurred. It matt
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

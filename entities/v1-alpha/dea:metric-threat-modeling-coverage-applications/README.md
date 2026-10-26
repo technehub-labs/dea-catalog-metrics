@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Modeling Coverage (Applications
 - **Canonical id:** `dea:metric-threat-modeling-coverage-applications`
 - **Name:** Threat Modeling Coverage (Applications)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMCA
 
@@ -27,7 +27,7 @@ High-Risk Apps with Threat Model / High-Risk Apps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

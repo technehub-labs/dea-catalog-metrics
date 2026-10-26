@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolling Forecast Refresh Cycle Time** 
 - **Canonical id:** `dea:metric-rolling-forecast-refresh-cycle-time`
 - **Name:** Rolling Forecast Refresh Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFRCT
 
@@ -23,8 +23,8 @@ Days to Complete Forecast Refresh Cycle
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

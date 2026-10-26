@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefits Realization Ratio** (BRR) in 
 - **Canonical id:** `dea:metric-benefits-realization-ratio`
 - **Name:** Benefits Realization Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRR
 
@@ -27,7 +27,7 @@ Realized Benefits / Planned Benefits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ecosystem Gravity Score** (ECGS) in th
 - **Canonical id:** `dea:metric-ecosystem-gravity-score`
 - **Name:** Ecosystem Gravity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECGS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Operations Effectiveness** (OO
 - **Canonical id:** `dea:metric-overall-operations-effectiveness`
 - **Name:** Overall Operations Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OOE
 
@@ -27,7 +27,7 @@ OEE over Calendar Time Including Planned Stops
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Media Response Accuracy Rate** 
 - **Canonical id:** `dea:metric-crisis-media-response-accuracy-rate`
 - **Name:** Crisis Media Response Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMRAR
 
@@ -27,7 +27,7 @@ Public Statements Requiring Correction / Statements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Policy Compliance** (EBPC
 - **Canonical id:** `dea:metric-error-budget-policy-compliance`
 - **Name:** Error Budget Policy Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBPC
 
@@ -27,7 +27,7 @@ Enforcement Actions Taken per Policy Breach Windows / Breach Windows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

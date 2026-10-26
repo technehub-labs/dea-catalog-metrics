@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tenant Satisfaction Score (Portfolio)*
 - **Canonical id:** `dea:metric-tenant-satisfaction-score-portfolio`
 - **Name:** Tenant Satisfaction Score (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSS-P
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inherent Availability** (IAVL) in the 
 - **Canonical id:** `dea:metric-inherent-availability`
 - **Name:** Inherent Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IAVL
 
@@ -27,7 +27,7 @@ MTBF / (MTBF + MTTR)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

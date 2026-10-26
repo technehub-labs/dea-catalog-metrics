@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refactoring Frequency** (REFF) in the 
 - **Canonical id:** `dea:metric-refactoring-frequency`
 - **Name:** Refactoring Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** REFF
 
@@ -23,8 +23,8 @@ Refactoring Commits per 100 Commits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

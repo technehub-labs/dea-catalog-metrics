@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Valuation Deadline Adherence** (VDA) i
 - **Canonical id:** `dea:metric-valuation-deadline-adherence`
 - **Name:** Valuation Deadline Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VDA
 
@@ -23,7 +23,7 @@ Valuations Completed by Deadline / Valuations Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

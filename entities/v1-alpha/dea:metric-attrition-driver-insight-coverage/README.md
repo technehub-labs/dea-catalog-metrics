@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Driver Insight Coverage** (A
 - **Canonical id:** `dea:metric-attrition-driver-insight-coverage`
 - **Name:** Attrition Driver Insight Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADIC
 
@@ -23,7 +23,7 @@ Leavers with Coded Attributed Drivers / Leavers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

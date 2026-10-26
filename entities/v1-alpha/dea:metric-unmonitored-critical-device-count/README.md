@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unmonitored Critical Device Count** (U
 - **Canonical id:** `dea:metric-unmonitored-critical-device-count`
 - **Name:** Unmonitored Critical Device Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UCDC
 

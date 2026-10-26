@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downgauging Achievement Rate** (DAR) i
 - **Canonical id:** `dea:metric-downgauging-achievement-rate`
 - **Name:** Downgauging Achievement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAR
 
@@ -23,7 +23,7 @@ Products Meeting Reduced Material Targets / Products
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

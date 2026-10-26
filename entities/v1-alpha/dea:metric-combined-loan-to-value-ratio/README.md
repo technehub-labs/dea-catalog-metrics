@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Combined Loan-to-Value Ratio** (CLTV) 
 - **Canonical id:** `dea:metric-combined-loan-to-value-ratio`
 - **Name:** Combined Loan-to-Value Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLTV
 
@@ -27,7 +27,7 @@ All Secured Debt / Property Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

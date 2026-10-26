@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Effectiveness Score** (TES) i
 - **Canonical id:** `dea:metric-training-effectiveness-score`
 - **Name:** Training Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TES
 

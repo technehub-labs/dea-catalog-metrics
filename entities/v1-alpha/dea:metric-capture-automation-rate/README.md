@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capture Automation Rate** (CAR-RM) in 
 - **Canonical id:** `dea:metric-capture-automation-rate`
 - **Name:** Capture Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAR-RM
 
@@ -23,7 +23,7 @@ Documents Auto-Classified on Ingest / Documents Ingested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

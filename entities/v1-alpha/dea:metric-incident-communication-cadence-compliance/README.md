@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Communication Cadence Complia
 - **Canonical id:** `dea:metric-incident-communication-cadence-compliance`
 - **Name:** Incident Communication Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICCC-IT
 
@@ -23,7 +23,7 @@ Major Incidents with Timely Stakeholder Updates / Major Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

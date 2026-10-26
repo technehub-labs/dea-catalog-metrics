@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gate Decision Cycle Time** (GDCT) in t
 - **Canonical id:** `dea:metric-gate-decision-cycle-time`
 - **Name:** Gate Decision Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GDCT
 
@@ -23,8 +23,8 @@ Days from Gate Submission to Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

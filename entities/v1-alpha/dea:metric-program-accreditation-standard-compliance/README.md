@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Accreditation Standard Complia
 - **Canonical id:** `dea:metric-program-accreditation-standard-compliance`
 - **Name:** Program Accreditation Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PASC
 
@@ -27,7 +27,7 @@ Standards Met at Last Review / Standards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

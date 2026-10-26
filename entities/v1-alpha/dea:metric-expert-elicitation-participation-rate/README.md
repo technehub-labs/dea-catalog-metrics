@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expert Elicitation Participation Rate*
 - **Canonical id:** `dea:metric-expert-elicitation-participation-rate`
 - **Name:** Expert Elicitation Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EEPR
 
@@ -23,7 +23,7 @@ Panels Conducted per Plan / Planned Panels
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Merge Verification Depth Score** (
 - **Canonical id:** `dea:metric-pre-merge-verification-depth-score`
 - **Name:** Pre-Merge Verification Depth Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMVDS
 

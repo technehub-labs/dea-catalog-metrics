@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SaaS Quick Ratio (Deep Dive)** (SAQRD)
 - **Canonical id:** `dea:metric-saas-quick-ratio-deep-dive`
 - **Name:** SaaS Quick Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAQRD
 

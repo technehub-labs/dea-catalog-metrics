@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dependency Freshness Ratio** (DFR-CQ) 
 - **Canonical id:** `dea:metric-dependency-freshness-ratio`
 - **Name:** Dependency Freshness Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DFR-CQ
 
@@ -23,7 +23,7 @@ Dependencies within One Major of Latest / Dependencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

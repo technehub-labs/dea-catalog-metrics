@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event NPS** (NPS-E) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-event-nps`
 - **Name:** Event NPS
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPS-E
 

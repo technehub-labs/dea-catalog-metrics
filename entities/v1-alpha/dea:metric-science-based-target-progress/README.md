@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Science-Based Target Progress** (SBTP)
 - **Canonical id:** `dea:metric-science-based-target-progress`
 - **Name:** Science-Based Target Progress
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SBTP
 
@@ -27,7 +27,7 @@ Emissions Reduction Achieved / Committed Pathway
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

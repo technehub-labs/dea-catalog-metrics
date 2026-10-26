@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract End Churn Risk Conversion** (
 - **Canonical id:** `dea:metric-contract-end-churn-risk-conversion`
 - **Name:** Contract End Churn Risk Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CERC
 
@@ -27,7 +27,7 @@ At-Risk Customers Retained at Contract End / At-Risk Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Geometric Dimensioning Compliance** (G
 - **Canonical id:** `dea:metric-geometric-dimensioning-compliance`
 - **Name:** Geometric Dimensioning Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GDC
 
@@ -23,7 +23,7 @@ GD&T Conformant Features / Features Checked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

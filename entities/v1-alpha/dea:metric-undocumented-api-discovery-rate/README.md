@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Undocumented API Discovery Rate** (UAD
 - **Canonical id:** `dea:metric-undocumented-api-discovery-rate`
 - **Name:** Undocumented API Discovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UADR
 

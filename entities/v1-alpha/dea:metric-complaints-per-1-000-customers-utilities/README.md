@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaints per 1,000 Customers (Utilit
 - **Canonical id:** `dea:metric-complaints-per-1-000-customers-utilities`
 - **Name:** Complaints per 1,000 Customers (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCU
 
@@ -27,8 +27,8 @@ Complaints / Customers x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

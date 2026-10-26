@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failure Prediction Lead Time** (FPLT) 
 - **Canonical id:** `dea:metric-failure-prediction-lead-time`
 - **Name:** Failure Prediction Lead Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPLT
 
@@ -27,8 +27,8 @@ Time between Predicted and Actual Failure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

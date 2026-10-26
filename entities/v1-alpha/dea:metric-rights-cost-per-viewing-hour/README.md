@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rights Cost per Viewing Hour** (RCPH) 
 - **Canonical id:** `dea:metric-rights-cost-per-viewing-hour`
 - **Name:** Rights Cost per Viewing Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCPH
 

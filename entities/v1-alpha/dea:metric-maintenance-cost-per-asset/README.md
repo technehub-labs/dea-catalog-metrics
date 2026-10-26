@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Cost per Asset** (MCA) in 
 - **Canonical id:** `dea:metric-maintenance-cost-per-asset`
 - **Name:** Maintenance Cost per Asset
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCA
 

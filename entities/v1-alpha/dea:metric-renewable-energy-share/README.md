@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewable Energy Share** (RES) in the 
 - **Canonical id:** `dea:metric-renewable-energy-share`
 - **Name:** Renewable Energy Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RES
 
@@ -27,7 +27,7 @@ Renewable Energy / Total Energy Consumed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

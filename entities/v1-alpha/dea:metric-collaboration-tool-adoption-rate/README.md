@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collaboration Tool Adoption Rate** (CT
 - **Canonical id:** `dea:metric-collaboration-tool-adoption-rate`
 - **Name:** Collaboration Tool Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTAR
 
@@ -27,7 +27,7 @@ Active Users of Collaboration Platform / Licensed Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

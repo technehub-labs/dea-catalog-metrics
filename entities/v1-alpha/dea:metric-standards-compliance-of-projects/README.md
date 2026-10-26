@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standards Compliance of Projects** (SC
 - **Canonical id:** `dea:metric-standards-compliance-of-projects`
 - **Name:** Standards Compliance of Projects
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCP
 
@@ -27,7 +27,7 @@ Projects Compliant with Architecture Standards / Projects Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

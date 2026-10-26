@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Amendment Tracking Completeness** (ATC
 - **Canonical id:** `dea:metric-amendment-tracking-completeness`
 - **Name:** Amendment Tracking Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATC-CL
 
@@ -23,7 +23,7 @@ Amendments Linked to Master Contract / Amendments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

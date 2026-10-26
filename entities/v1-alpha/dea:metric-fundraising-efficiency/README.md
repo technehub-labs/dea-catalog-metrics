@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fundraising Efficiency** (FE-N) in the
 - **Canonical id:** `dea:metric-fundraising-efficiency`
 - **Name:** Fundraising Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FE-N
 

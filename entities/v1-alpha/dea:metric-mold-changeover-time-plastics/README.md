@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mold Changeover Time (Plastics)** (MCT
 - **Canonical id:** `dea:metric-mold-changeover-time-plastics`
 - **Name:** Mold Changeover Time (Plastics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCT-P
 
@@ -23,8 +23,8 @@ Minutes from Last Good Part to Next Good Part
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

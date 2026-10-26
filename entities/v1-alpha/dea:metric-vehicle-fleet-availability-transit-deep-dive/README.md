@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Fleet Availability (Transit De
 - **Canonical id:** `dea:metric-vehicle-fleet-availability-transit-deep-dive`
 - **Name:** Vehicle Fleet Availability (Transit Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VFA-D
 
@@ -27,7 +27,7 @@ Vehicles Available for Service / Peak Vehicles Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

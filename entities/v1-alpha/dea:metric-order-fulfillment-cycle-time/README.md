@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fulfillment Cycle Time** (OFCT) 
 - **Canonical id:** `dea:metric-order-fulfillment-cycle-time`
 - **Name:** Order Fulfillment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OFCT
 
@@ -27,8 +27,8 @@ Days from Order Received to Customer Delivery
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ramp Rate of New Teams** (RRNT) in the
 - **Canonical id:** `dea:metric-ramp-rate-of-new-teams`
 - **Name:** Ramp Rate of New Teams
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRNT
 
@@ -23,8 +23,8 @@ Weeks for New Team to Reach Target Velocity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-weeks`
-- **Unit:** weeks
+- **Unit reference:** `dea:unit-week`
+- **Unit:** week
 - **Unit label (as published):** weeks
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quantitative Risk Analysis Coverage** 
 - **Canonical id:** `dea:metric-quantitative-risk-analysis-coverage`
 - **Name:** Quantitative Risk Analysis Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QRAC
 
@@ -23,7 +23,7 @@ High-Criticality Projects with Quantified Risk / High-Criticality Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

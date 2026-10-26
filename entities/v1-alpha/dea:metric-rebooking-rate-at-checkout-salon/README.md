@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rebooking Rate at Checkout (Salon)** (
 - **Canonical id:** `dea:metric-rebooking-rate-at-checkout-salon`
 - **Name:** Rebooking Rate at Checkout (Salon)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRC-S
 
@@ -27,7 +27,7 @@ Appointments Booked before Leaving / Appointments Served
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

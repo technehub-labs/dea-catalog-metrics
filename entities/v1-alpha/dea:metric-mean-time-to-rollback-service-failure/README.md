@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Rollback - Service Failur
 - **Canonical id:** `dea:metric-mean-time-to-rollback-service-failure`
 - **Name:** Mean Time to Rollback - Service Failure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTRS-SF
 
@@ -23,8 +23,8 @@ Minutes from Detected Failure to Rollback Complete
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

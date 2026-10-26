@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packet Loss Rate (Network Deep Dive)**
 - **Canonical id:** `dea:metric-packet-loss-rate-network-deep-dive`
 - **Name:** Packet Loss Rate (Network Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLR-NW
 
@@ -23,7 +23,7 @@ Packets Lost / Packets Sent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

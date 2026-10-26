@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blocked Time Ratio** (BTR-AG) in the O
 - **Canonical id:** `dea:metric-blocked-time-ratio`
 - **Name:** Blocked Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BTR-AG
 
@@ -23,7 +23,7 @@ Blocked Hours / Total Working Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

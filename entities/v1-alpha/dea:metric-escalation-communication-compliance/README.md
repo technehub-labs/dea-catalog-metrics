@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Communication Compliance** 
 - **Canonical id:** `dea:metric-escalation-communication-compliance`
 - **Name:** Escalation Communication Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECC-NOC
 
@@ -23,7 +23,7 @@ Escalations with Required Notifications / Escalations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

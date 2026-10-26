@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital-Acquired Infection Rate (Deep
 - **Canonical id:** `dea:metric-hospital-acquired-infection-rate-deep-dive`
 - **Name:** Hospital-Acquired Infection Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HAI-D
 
@@ -27,8 +27,8 @@ HAIs / Device or Admission Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

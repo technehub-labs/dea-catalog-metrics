@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Educational Program Reach** (EPR-A) in
 - **Canonical id:** `dea:metric-educational-program-reach`
 - **Name:** Educational Program Reach
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPR-A
 

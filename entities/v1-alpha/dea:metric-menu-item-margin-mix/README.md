@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Menu Item Margin Mix** (MIM) in the Op
 - **Canonical id:** `dea:metric-menu-item-margin-mix`
 - **Name:** Menu Item Margin Mix
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIM
 
@@ -27,7 +27,7 @@ Contribution Margin of Items Sold / Total Menu Margin Potential
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

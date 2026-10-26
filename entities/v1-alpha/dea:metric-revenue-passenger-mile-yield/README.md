@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Passenger Mile Yield** (RPMY) 
 - **Canonical id:** `dea:metric-revenue-passenger-mile-yield`
 - **Name:** Revenue Passenger Mile Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPMY
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Best Execution Compliance Rate** (BECR
 - **Canonical id:** `dea:metric-best-execution-compliance-rate`
 - **Name:** Best Execution Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BECR-IM
 
@@ -27,7 +27,7 @@ Trades Meeting Best Execution Policy / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

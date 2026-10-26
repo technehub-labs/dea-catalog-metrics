@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Creative Fatigue Onset Rate** (CFOR) i
 - **Canonical id:** `dea:metric-creative-fatigue-onset-rate`
 - **Name:** Creative Fatigue Onset Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFOR
 
@@ -23,7 +23,7 @@ Creatives Depreciating below Threshold before Refresh / Creatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Founder Vesting Milestone Adherence** 
 - **Canonical id:** `dea:metric-founder-vesting-milestone-adherence`
 - **Name:** Founder Vesting Milestone Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FVMA
 
@@ -23,7 +23,7 @@ Vesting Milestones Met / Milestones
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

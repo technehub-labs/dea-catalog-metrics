@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Savings Project Realization** (
 - **Canonical id:** `dea:metric-energy-savings-project-realization`
 - **Name:** Energy Savings Project Realization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESPR
 
@@ -27,7 +27,7 @@ Realized Savings / Committed Savings from Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

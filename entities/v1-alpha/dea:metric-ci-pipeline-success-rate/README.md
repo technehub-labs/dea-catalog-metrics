@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Pipeline Success Rate** (CIPSR) in 
 - **Canonical id:** `dea:metric-ci-pipeline-success-rate`
 - **Name:** CI Pipeline Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIPSR
 
@@ -23,7 +23,7 @@ Green Pipeline Runs / Total Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Transfer Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-learning-transfer-rate-deep-dive`
 - **Name:** Learning Transfer Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTR-BSC
 
@@ -27,7 +27,7 @@ Learned Skills Applied on Job within 90 Days / Skills Taught
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Portal Adoption Rate** (PPA-AP
 - **Canonical id:** `dea:metric-partner-portal-adoption-rate`
 - **Name:** Partner Portal Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPA-AP
 
@@ -23,7 +23,7 @@ Active Partner Users / Registered Partner Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

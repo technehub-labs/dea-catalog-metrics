@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct-to-Channel Sales Ratio** (DCSR)
 - **Canonical id:** `dea:metric-direct-to-channel-sales-ratio`
 - **Name:** Direct-to-Channel Sales Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCSR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Hire 90-Day Retention** (NH90) in 
 - **Canonical id:** `dea:metric-new-hire-90-day-retention`
 - **Name:** New Hire 90-Day Retention
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NH90
 
@@ -27,7 +27,7 @@ Hires Retained at 90 Days / Total Hires
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

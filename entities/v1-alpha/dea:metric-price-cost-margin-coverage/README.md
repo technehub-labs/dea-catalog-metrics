@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Cost Margin Coverage** (PCMC) in
 - **Canonical id:** `dea:metric-price-cost-margin-coverage`
 - **Name:** Price Cost Margin Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCMC
 
@@ -27,7 +27,7 @@ Price cost margin coverage measures whether realized prices exceed the fully loa
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per User (Telecom)** (
 - **Canonical id:** `dea:metric-average-revenue-per-user-telecom`
 - **Name:** Average Revenue per User (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARPU-T
 

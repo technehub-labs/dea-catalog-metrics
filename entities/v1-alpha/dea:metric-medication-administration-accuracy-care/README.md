@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Administration Accuracy (Ca
 - **Canonical id:** `dea:metric-medication-administration-accuracy-care`
 - **Name:** Medication Administration Accuracy (Care)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAAC
 
@@ -27,7 +27,7 @@ Correct Administrations Observed / Administrations Observed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

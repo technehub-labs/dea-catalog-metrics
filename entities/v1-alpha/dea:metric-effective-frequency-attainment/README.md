@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Effective Frequency Attainment** (EFA)
 - **Canonical id:** `dea:metric-effective-frequency-attainment`
 - **Name:** Effective Frequency Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EFA
 
@@ -23,7 +23,7 @@ Audience Meeting Effective Frequency / Targeted Audience
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

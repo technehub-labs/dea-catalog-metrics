@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expected Shortfall Estimate Stability*
 - **Canonical id:** `dea:metric-expected-shortfall-estimate-stability`
 - **Name:** Expected Shortfall Estimate Stability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESES
 
@@ -27,7 +27,7 @@ Period Change in ES Estimate at 97.5% / Prior ES
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

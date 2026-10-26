@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Team Happiness Index** (THI-AG) in the
 - **Canonical id:** `dea:metric-team-happiness-index`
 - **Name:** Team Happiness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** THI-AG
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier PPM (Automotive)** (SPPM) in 
 - **Canonical id:** `dea:metric-supplier-ppm-automotive`
 - **Name:** Supplier PPM (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPPM
 
@@ -27,8 +27,8 @@ Defective Supplier Parts per Million Parts Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

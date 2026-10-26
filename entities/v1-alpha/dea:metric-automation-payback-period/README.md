@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Payback Period** (APP-A) in
 - **Canonical id:** `dea:metric-automation-payback-period`
 - **Name:** Automation Payback Period
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APP-A
 
@@ -27,8 +27,8 @@ Implementation Cost / Monthly Cost Avoidance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Ad Spend** (ROAS) in the Ope
 - **Canonical id:** `dea:metric-return-on-ad-spend`
 - **Name:** Return on Ad Spend
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROAS
 

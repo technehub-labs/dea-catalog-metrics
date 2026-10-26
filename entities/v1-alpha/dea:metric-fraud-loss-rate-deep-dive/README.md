@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Loss Rate (Deep Dive)** (FLR-D) 
 - **Canonical id:** `dea:metric-fraud-loss-rate-deep-dive`
 - **Name:** Fraud Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FLR-D
 
@@ -27,7 +27,7 @@ Fraud Losses / Transaction or Premium Base
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Preference Score** (BPS-BSC) in 
 - **Canonical id:** `dea:metric-brand-preference-score`
 - **Name:** Brand Preference Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BPS-BSC
 

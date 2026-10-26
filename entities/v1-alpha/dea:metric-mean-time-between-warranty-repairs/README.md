@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time between Warranty Repairs** (
 - **Canonical id:** `dea:metric-mean-time-between-warranty-repairs`
 - **Name:** Mean Time between Warranty Repairs
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTBWR
 
@@ -27,8 +27,8 @@ Vehicle Operating Time / Warranty Repair Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

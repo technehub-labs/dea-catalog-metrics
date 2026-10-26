@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Approval Rate (Credit Applications) (D
 - **Canonical id:** `dea:metric-approval-rate-credit-applications-deep-dive`
 - **Name:** Approval Rate (Credit Applications) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARDD
 
@@ -23,7 +23,7 @@ Applications Approved / Applications Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

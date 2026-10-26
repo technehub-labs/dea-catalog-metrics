@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Placement** (TTP) in the OpenD
 - **Canonical id:** `dea:metric-time-to-placement`
 - **Name:** Time to Placement
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTP
 
@@ -27,8 +27,8 @@ Days from Mandate Opening to Accepted Offer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

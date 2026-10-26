@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organization Change Fatigue Index** (O
 - **Canonical id:** `dea:metric-organization-change-fatigue-index`
 - **Name:** Organization Change Fatigue Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCFI-OM
 

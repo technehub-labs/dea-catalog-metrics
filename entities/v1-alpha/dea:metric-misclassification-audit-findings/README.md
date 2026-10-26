@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Misclassification Audit Findings** (MA
 - **Canonical id:** `dea:metric-misclassification-audit-findings`
 - **Name:** Misclassification Audit Findings
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAF
 
@@ -27,7 +27,7 @@ Worker Classification Violations Detected / Workers Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

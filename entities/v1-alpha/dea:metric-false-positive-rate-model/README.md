@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Positive Rate (Model)** (FPRM) i
 - **Canonical id:** `dea:metric-false-positive-rate-model`
 - **Name:** False Positive Rate (Model)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPRM
 
@@ -23,7 +23,7 @@ False Positives / Actual Negatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

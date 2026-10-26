@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework and Scrap Rate (Semiconductor D
 - **Canonical id:** `dea:metric-rework-and-scrap-rate-semiconductor-deep-dive`
 - **Name:** Rework and Scrap Rate (Semiconductor Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSR-S
 
@@ -23,7 +23,7 @@ Reworked or Scrapped Wafers / Wafers Processed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

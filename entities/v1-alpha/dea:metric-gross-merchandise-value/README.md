@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Merchandise Value** (GMV) in the
 - **Canonical id:** `dea:metric-gross-merchandise-value`
 - **Name:** Gross Merchandise Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMV
 

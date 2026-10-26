@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Order Room Ratio** (OORR) in th
 - **Canonical id:** `dea:metric-out-of-order-room-ratio`
 - **Name:** Out-of-Order Room Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OORR
 
@@ -23,7 +23,7 @@ Rooms out of Order / Total Rooms
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

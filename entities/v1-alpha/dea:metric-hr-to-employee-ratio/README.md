@@ -7,7 +7,7 @@ Candidate Performance Metric record for **HR to Employee Ratio** (HRER) in the O
 - **Canonical id:** `dea:metric-hr-to-employee-ratio`
 - **Name:** HR to Employee Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HRER
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disclosure Deadline Compliance (ESG)**
 - **Canonical id:** `dea:metric-disclosure-deadline-compliance-esg`
 - **Name:** Disclosure Deadline Compliance (ESG)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDCE
 
@@ -27,7 +27,7 @@ Disclosures on Time / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

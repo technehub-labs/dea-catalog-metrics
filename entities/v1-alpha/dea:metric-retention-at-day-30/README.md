@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention at Day 30** (R30) in the Ope
 - **Canonical id:** `dea:metric-retention-at-day-30`
 - **Name:** Retention at Day 30
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** R30
 
@@ -27,7 +27,7 @@ Users Active on Day 30 / Users in Cohort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

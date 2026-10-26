@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Placement Rate** (PLR) in the OpenDEAM
 - **Canonical id:** `dea:metric-placement-rate`
 - **Name:** Placement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLR
 
@@ -27,7 +27,7 @@ Placements / Open Mandates
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

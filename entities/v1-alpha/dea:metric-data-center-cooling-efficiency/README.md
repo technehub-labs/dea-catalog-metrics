@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Center Cooling Efficiency** (DCCE
 - **Canonical id:** `dea:metric-data-center-cooling-efficiency`
 - **Name:** Data Center Cooling Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCCE
 

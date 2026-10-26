@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Finding Rate (Compliance)** (RF
 - **Canonical id:** `dea:metric-repeat-finding-rate-compliance`
 - **Name:** Repeat Finding Rate (Compliance)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFRC
 
@@ -23,7 +23,7 @@ Findings Recurring from Prior Cycle / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

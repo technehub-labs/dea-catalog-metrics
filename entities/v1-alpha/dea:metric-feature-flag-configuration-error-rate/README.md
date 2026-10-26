@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Flag Configuration Error Rate*
 - **Canonical id:** `dea:metric-feature-flag-configuration-error-rate`
 - **Name:** Feature Flag Configuration Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FFCER
 
@@ -23,7 +23,7 @@ Incidents Caused by Flag Misconfiguration / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

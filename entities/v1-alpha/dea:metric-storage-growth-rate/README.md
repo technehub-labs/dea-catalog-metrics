@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Storage Growth Rate** (SGR-DB) in the 
 - **Canonical id:** `dea:metric-storage-growth-rate`
 - **Name:** Storage Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGR-DB
 
@@ -23,7 +23,7 @@ Month-over-Month Data Volume Growth
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

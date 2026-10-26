@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Readability Score** (CRS-UX) i
 - **Canonical id:** `dea:metric-content-readability-score`
 - **Name:** Content Readability Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRS-UX
 

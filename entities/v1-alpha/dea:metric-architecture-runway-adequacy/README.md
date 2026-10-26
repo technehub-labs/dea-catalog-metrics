@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Runway Adequacy** (ARA-SA
 - **Canonical id:** `dea:metric-architecture-runway-adequacy`
 - **Name:** Architecture Runway Adequacy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARA-SA
 
@@ -27,7 +27,7 @@ Features with Architecture Runway Ready / Planned Features
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

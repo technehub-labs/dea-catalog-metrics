@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Test Coverage** (MTC-M) in the O
 - **Canonical id:** `dea:metric-model-test-coverage`
 - **Name:** Model Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTC-M
 
@@ -23,7 +23,7 @@ Models with Automated Test Suites / Models in Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upfront Commitment Utilization** (UCU-
 - **Canonical id:** `dea:metric-upfront-commitment-utilization`
 - **Name:** Upfront Commitment Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UCU-A
 
@@ -23,7 +23,7 @@ Upfront Inventory Delivered / Committed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

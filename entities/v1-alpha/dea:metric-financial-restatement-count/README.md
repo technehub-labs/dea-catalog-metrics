@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Restatement Count** (FRC) in
 - **Canonical id:** `dea:metric-financial-restatement-count`
 - **Name:** Financial Restatement Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRC
 

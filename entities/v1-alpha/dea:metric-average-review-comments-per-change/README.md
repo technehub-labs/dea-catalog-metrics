@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Review Comments per Change** (
 - **Canonical id:** `dea:metric-average-review-comments-per-change`
 - **Name:** Average Review Comments per Change
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARCC
 

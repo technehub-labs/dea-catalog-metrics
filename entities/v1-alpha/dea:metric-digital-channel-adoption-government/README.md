@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Channel Adoption (Government)*
 - **Canonical id:** `dea:metric-digital-channel-adoption-government`
 - **Name:** Digital Channel Adoption (Government)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCAD
 
@@ -27,7 +27,7 @@ Digital Service Transactions / Total Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

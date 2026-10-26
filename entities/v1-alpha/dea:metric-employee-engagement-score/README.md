@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Engagement Score** (EES) in t
 - **Canonical id:** `dea:metric-employee-engagement-score`
 - **Name:** Employee Engagement Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EES
 

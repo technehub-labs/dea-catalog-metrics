@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Comfort Compliance** (TCC-E) i
 - **Canonical id:** `dea:metric-thermal-comfort-compliance`
 - **Name:** Thermal Comfort Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCC-E
 
@@ -23,7 +23,7 @@ Working Hours within Comfort Band / Total Working Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

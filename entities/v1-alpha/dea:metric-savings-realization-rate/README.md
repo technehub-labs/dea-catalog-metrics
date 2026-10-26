@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Savings Realization Rate** (SRR) in th
 - **Canonical id:** `dea:metric-savings-realization-rate`
 - **Name:** Savings Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRR
 
@@ -27,7 +27,7 @@ Realized Savings / Identified Savings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

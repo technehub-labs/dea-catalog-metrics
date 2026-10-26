@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost of Poor Quality** (COPQ) in the O
 - **Canonical id:** `dea:metric-cost-of-poor-quality`
 - **Name:** Cost of Poor Quality
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COPQ
 

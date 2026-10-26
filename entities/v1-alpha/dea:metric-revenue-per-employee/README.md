@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Employee** (RPE) in the Op
 - **Canonical id:** `dea:metric-revenue-per-employee`
 - **Name:** Revenue per Employee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPE
 

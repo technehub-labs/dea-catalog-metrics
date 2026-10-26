@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Levelized Cost of Energy** (LCOE) in t
 - **Canonical id:** `dea:metric-levelized-cost-of-energy`
 - **Name:** Levelized Cost of Energy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCOE
 

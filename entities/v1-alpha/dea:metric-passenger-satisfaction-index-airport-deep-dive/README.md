@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Satisfaction Index - Airport
 - **Canonical id:** `dea:metric-passenger-satisfaction-index-airport-deep-dive`
 - **Name:** Passenger Satisfaction Index - Airport (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSIA-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Encryption in Transit Coverage** (EITC
 - **Canonical id:** `dea:metric-encryption-in-transit-coverage`
 - **Name:** Encryption in Transit Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EITC
 
@@ -23,7 +23,7 @@ Services Enforcing TLS / Network-Exposed Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

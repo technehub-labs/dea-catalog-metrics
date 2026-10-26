@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carbon Usage Effectiveness** (CUE) in 
 - **Canonical id:** `dea:metric-carbon-usage-effectiveness`
 - **Name:** Carbon Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CUE
 

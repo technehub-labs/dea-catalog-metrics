@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Readmission Rate within 30 Days** (RR3
 - **Canonical id:** `dea:metric-readmission-rate-within-30-days`
 - **Name:** Readmission Rate within 30 Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RR30
 
@@ -27,7 +27,7 @@ Readmissions within 30 Days / Discharges
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

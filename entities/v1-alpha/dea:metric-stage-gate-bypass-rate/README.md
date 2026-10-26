@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage Gate Bypass Rate** (SGBR-PPM) in
 - **Canonical id:** `dea:metric-stage-gate-bypass-rate`
 - **Name:** Stage Gate Bypass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGBR-PPM
 
@@ -27,7 +27,7 @@ Gates Approved with Exceptions or Waivers / Gates
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

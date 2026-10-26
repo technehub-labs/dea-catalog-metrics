@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Solvent Recovery Rate (Deep Dive)** (S
 - **Canonical id:** `dea:metric-solvent-recovery-rate-deep-dive`
 - **Name:** Solvent Recovery Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRR-C2
 
@@ -23,7 +23,7 @@ Recovered Solvent Reused / Solvent Consumed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

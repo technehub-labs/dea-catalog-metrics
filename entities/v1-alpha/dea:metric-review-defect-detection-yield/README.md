@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Defect Detection Yield** (RDDY)
 - **Canonical id:** `dea:metric-review-defect-detection-yield`
 - **Name:** Review Defect Detection Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDDY
 
@@ -23,7 +23,7 @@ Defects Found in Review / (Defects in Review + Field)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

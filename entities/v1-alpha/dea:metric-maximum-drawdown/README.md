@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Drawdown** (MDD) in the OpenDE
 - **Canonical id:** `dea:metric-maximum-drawdown`
 - **Name:** Maximum Drawdown
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDD
 
@@ -27,7 +27,7 @@ Maximum drawdown is the peak-to-trough decline in portfolio value - the worst lo
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

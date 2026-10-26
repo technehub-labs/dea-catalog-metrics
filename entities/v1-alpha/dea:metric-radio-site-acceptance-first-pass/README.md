@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Radio Site Acceptance First Pass** (RS
 - **Canonical id:** `dea:metric-radio-site-acceptance-first-pass`
 - **Name:** Radio Site Acceptance First Pass
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSAF
 
@@ -27,7 +27,7 @@ Sites Accepted on First Inspection / Sites Inspected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

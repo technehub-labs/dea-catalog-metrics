@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendee Lead-to-Sale Conversion (Exhi
 - **Canonical id:** `dea:metric-attendee-lead-to-sale-conversion-exhibitors`
 - **Name:** Attendee Lead-to-Sale Conversion (Exhibitors)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALSC
 
@@ -23,7 +23,7 @@ Exhibitor Leads Converted to Sales / Leads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

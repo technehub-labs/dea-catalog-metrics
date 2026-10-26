@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Nonconformance Closure Rate** (A
 - **Canonical id:** `dea:metric-audit-nonconformance-closure-rate`
 - **Name:** Audit Nonconformance Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ANCR
 
@@ -27,7 +27,7 @@ Closed Nonconformances / Identified Nonconformances
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

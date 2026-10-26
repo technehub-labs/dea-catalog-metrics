@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dashboard Currency** (PDC-PP
 - **Canonical id:** `dea:metric-portfolio-dashboard-currency`
 - **Name:** Portfolio Dashboard Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDC-PPM
 
@@ -23,7 +23,7 @@ Initiatives with Data Refreshed on Cadence / Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ED Length of Stay (Median)** (EDLOS) i
 - **Canonical id:** `dea:metric-ed-length-of-stay-median`
 - **Name:** ED Length of Stay (Median)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDLOS
 
@@ -23,8 +23,8 @@ Median Time from ED Arrival to Discharge or Admission
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

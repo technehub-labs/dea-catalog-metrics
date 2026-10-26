@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustained Adoption at 90 Days** (SA90)
 - **Canonical id:** `dea:metric-sustained-adoption-at-90-days`
 - **Name:** Sustained Adoption at 90 Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SA90
 
@@ -27,7 +27,7 @@ Users Still Adopting at 90 Days / Initial Adopters
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

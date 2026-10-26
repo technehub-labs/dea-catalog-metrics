@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Use Intensity (Portfolio)** (EU
 - **Canonical id:** `dea:metric-energy-use-intensity-portfolio`
 - **Name:** Energy Use Intensity (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EUI-P
 

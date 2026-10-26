@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow Vendor Count** (SVC) in the Ope
 - **Canonical id:** `dea:metric-shadow-vendor-count`
 - **Name:** Shadow Vendor Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVC
 

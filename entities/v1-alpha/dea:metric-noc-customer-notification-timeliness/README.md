@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Customer Notification Timeliness**
 - **Canonical id:** `dea:metric-noc-customer-notification-timeliness`
 - **Name:** NOC Customer Notification Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCNT
 
@@ -23,7 +23,7 @@ Outage Notifications Sent within Commitment / Outages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

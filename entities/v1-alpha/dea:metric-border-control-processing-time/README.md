@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Border Control Processing Time** (BCPT
 - **Canonical id:** `dea:metric-border-control-processing-time`
 - **Name:** Border Control Processing Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCPT
 
@@ -23,8 +23,8 @@ Minutes to Process Passenger
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Message Pull-Through Rate** (MPTR) in 
 - **Canonical id:** `dea:metric-message-pull-through-rate`
 - **Name:** Message Pull-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPTR
 
@@ -27,7 +27,7 @@ Coverage Containing Key Messages / Total Coverage
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

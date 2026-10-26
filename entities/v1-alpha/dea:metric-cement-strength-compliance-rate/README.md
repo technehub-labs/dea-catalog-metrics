@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cement Strength Compliance Rate** (CSC
 - **Canonical id:** `dea:metric-cement-strength-compliance-rate`
 - **Name:** Cement Strength Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCR-C
 
@@ -23,7 +23,7 @@ Tests Meeting Strength Spec / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

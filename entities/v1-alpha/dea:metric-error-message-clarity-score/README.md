@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Message Clarity Score** (EMCS) i
 - **Canonical id:** `dea:metric-error-message-clarity-score`
 - **Name:** Error Message Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EMCS
 

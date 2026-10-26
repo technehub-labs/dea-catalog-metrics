@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hit Rate by Pipeline Stage** (HRS) in 
 - **Canonical id:** `dea:metric-hit-rate-by-pipeline-stage`
 - **Name:** Hit Rate by Pipeline Stage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HRS
 
@@ -23,7 +23,7 @@ Deals Advancing from Stage / Deals Entering Stage
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

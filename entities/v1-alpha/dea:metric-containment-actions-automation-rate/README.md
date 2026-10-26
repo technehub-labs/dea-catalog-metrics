@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Containment Actions Automation Rate** 
 - **Canonical id:** `dea:metric-containment-actions-automation-rate`
 - **Name:** Containment Actions Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAAR-SOC
 
@@ -27,7 +27,7 @@ Automated Containment Actions / Containment Actions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

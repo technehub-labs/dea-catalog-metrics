@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Classification Coverage** (DCC-DG
 - **Canonical id:** `dea:metric-data-classification-coverage`
 - **Name:** Data Classification Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCC-DG
 
@@ -27,7 +27,7 @@ Data Assets Classified per Policy / Data Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

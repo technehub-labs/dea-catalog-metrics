@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Biodiversity Index - Farm** (BIF) in t
 - **Canonical id:** `dea:metric-biodiversity-index-farm`
 - **Name:** Biodiversity Index - Farm
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BIF
 

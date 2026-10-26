@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Training Participation** (C
 - **Canonical id:** `dea:metric-continuity-training-participation`
 - **Name:** Continuity Training Participation
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTP-B
 
@@ -23,7 +23,7 @@ Staff Completing Continuity Roles Training / Assigned Staff
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

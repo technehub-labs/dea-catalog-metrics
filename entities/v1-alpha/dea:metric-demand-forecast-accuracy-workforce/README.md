@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Forecast Accuracy (Workforce)**
 - **Canonical id:** `dea:metric-demand-forecast-accuracy-workforce`
 - **Name:** Demand Forecast Accuracy (Workforce)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DFAW
 
@@ -27,7 +27,7 @@ Measures how accurately workforce demand is forecast for staffing plans. It matt
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

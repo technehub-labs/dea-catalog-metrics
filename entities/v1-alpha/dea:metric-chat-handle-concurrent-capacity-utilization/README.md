@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chat-Handle Concurrent Capacity Utiliz
 - **Canonical id:** `dea:metric-chat-handle-concurrent-capacity-utilization`
 - **Name:** Chat-Handle Concurrent Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHCCU
 

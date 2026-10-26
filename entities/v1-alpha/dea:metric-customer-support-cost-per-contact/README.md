@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Support Cost per Contact** (C
 - **Canonical id:** `dea:metric-customer-support-cost-per-contact`
 - **Name:** Customer Support Cost per Contact
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSC
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ecosystem Partner Activation Time** (E
 - **Canonical id:** `dea:metric-ecosystem-partner-activation-time`
 - **Name:** Ecosystem Partner Activation Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPAT
 
@@ -27,8 +27,8 @@ Days from Partner Agreement to First Joint Value Delivered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

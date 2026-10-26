@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate to Executive** (ERE) i
 - **Canonical id:** `dea:metric-escalation-rate-to-executive`
 - **Name:** Escalation Rate to Executive
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERE
 
@@ -27,7 +27,7 @@ Decisions Escalated to Executive Level / Decisions Raised
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Least Privilege Conformance** (LPC-CS)
 - **Canonical id:** `dea:metric-least-privilege-conformance`
 - **Name:** Least Privilege Conformance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPC-CS
 
@@ -27,7 +27,7 @@ Identities within Least-Privilege Policy / Identities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

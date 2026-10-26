@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wind Turbine Availability** (WTA) in t
 - **Canonical id:** `dea:metric-wind-turbine-availability`
 - **Name:** Wind Turbine Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WTA
 
@@ -27,7 +27,7 @@ Turbine Available Hours / Total Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

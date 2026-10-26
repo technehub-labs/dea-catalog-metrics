@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exposure at Default (Deep Dive)** (EAD
 - **Canonical id:** `dea:metric-exposure-at-default-deep-dive`
 - **Name:** Exposure at Default (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EADDD
 

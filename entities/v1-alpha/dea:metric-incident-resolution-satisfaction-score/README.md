@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Resolution Satisfaction Score
 - **Canonical id:** `dea:metric-incident-resolution-satisfaction-score`
 - **Name:** Incident Resolution Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRSS-IT
 

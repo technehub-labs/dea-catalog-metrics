@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Notebook-to-Production Conversion Rate
 - **Canonical id:** `dea:metric-notebook-to-production-conversion-rate`
 - **Name:** Notebook-to-Production Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NTPCR
 
@@ -23,7 +23,7 @@ Notebook Analyses Reaching Production / Analyses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

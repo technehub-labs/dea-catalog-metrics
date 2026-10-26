@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Noise Complaint Rate (Airports)** (NCR
 - **Canonical id:** `dea:metric-noise-complaint-rate-airports`
 - **Name:** Noise Complaint Rate (Airports)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCR-A
 
@@ -23,8 +23,8 @@ Complaints per 1,000 Aircraft Movements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

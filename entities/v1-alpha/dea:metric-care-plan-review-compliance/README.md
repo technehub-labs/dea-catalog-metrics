@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Plan Review Compliance** (CPRC) i
 - **Canonical id:** `dea:metric-care-plan-review-compliance`
 - **Name:** Care Plan Review Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPRC
 
@@ -27,7 +27,7 @@ Care Plans Reviewed within Cycle / Care Plans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

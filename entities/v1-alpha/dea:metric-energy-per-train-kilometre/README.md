@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy per Train Kilometre** (EPKM) in
 - **Canonical id:** `dea:metric-energy-per-train-kilometre`
 - **Name:** Energy per Train Kilometre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPKM
 

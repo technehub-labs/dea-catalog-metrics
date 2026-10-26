@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Minute Audience** (AMA) in the
 - **Canonical id:** `dea:metric-average-minute-audience`
 - **Name:** Average Minute Audience
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMA
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention of Key Talent (Post-Merger)*
 - **Canonical id:** `dea:metric-retention-of-key-talent-post-merger`
 - **Name:** Retention of Key Talent (Post-Merger)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RKTP
 
@@ -27,7 +27,7 @@ Key Personnel Retained at 12 Months / Key Personnel
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

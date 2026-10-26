@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Handle Time (Contact Center)**
 - **Canonical id:** `dea:metric-average-handle-time-contact-center`
 - **Name:** Average Handle Time (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AHTDD
 
@@ -23,8 +23,8 @@ Talk + Hold + After-Call Work per Contact
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

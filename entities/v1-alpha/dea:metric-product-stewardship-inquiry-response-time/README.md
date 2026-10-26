@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Stewardship Inquiry Response T
 - **Canonical id:** `dea:metric-product-stewardship-inquiry-response-time`
 - **Name:** Product Stewardship Inquiry Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRT
 
@@ -23,8 +23,8 @@ Days to Respond to Product Stewardship Request
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Executive Compensation Pay-for-Perform
 - **Canonical id:** `dea:metric-executive-compensation-pay-for-performance-alignment`
 - **Name:** Executive Compensation Pay-for-Performance Alignment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECPA
 

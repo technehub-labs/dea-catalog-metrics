@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burnout Index** (BOI) in the OpenDEAM 
 - **Canonical id:** `dea:metric-burnout-index`
 - **Name:** Burnout Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BOI
 

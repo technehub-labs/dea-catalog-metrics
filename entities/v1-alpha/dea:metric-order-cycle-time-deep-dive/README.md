@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Cycle Time (Deep Dive)** (OCTDD)
 - **Canonical id:** `dea:metric-order-cycle-time-deep-dive`
 - **Name:** Order Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCTDD
 
@@ -23,8 +23,8 @@ Days from Customer Order to Delivery
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Installation Rework Rate (Telecom)** (
 - **Canonical id:** `dea:metric-installation-rework-rate-telecom`
 - **Name:** Installation Rework Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRRT
 
@@ -23,7 +23,7 @@ Jobs Requiring Return Visit / Jobs Completed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

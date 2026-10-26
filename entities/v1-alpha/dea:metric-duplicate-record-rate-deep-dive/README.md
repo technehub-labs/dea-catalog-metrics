@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Record Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-duplicate-record-rate-deep-dive`
 - **Name:** Duplicate Record Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-DQ
 
@@ -23,7 +23,7 @@ Duplicate Records / Total Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

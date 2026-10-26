@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow AI Detection Ratio** (SAIDR) in
 - **Canonical id:** `dea:metric-shadow-ai-detection-ratio`
 - **Name:** Shadow AI Detection Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAIDR
 

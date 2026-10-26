@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freedom of Information Response Timeli
 - **Canonical id:** `dea:metric-freedom-of-information-response-timeliness`
 - **Name:** Freedom of Information Response Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FOIRT
 
@@ -27,7 +27,7 @@ Requests Answered within Statutory Deadline / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

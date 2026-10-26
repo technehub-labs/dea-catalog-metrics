@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Account Governance Compliance*
 - **Canonical id:** `dea:metric-service-account-governance-compliance`
 - **Name:** Service Account Governance Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAGC-IAM
 
@@ -27,7 +27,7 @@ Service Accounts with Owner and Review / Service Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

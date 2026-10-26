@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offboarding Completeness Rate** (OCR-T
 - **Canonical id:** `dea:metric-offboarding-completeness-rate`
 - **Name:** Offboarding Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCR-TP
 
@@ -23,7 +23,7 @@ Offboardings with Access, Data, Asset Recovery Completed / Offboardings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

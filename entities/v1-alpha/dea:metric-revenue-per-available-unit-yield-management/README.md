@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Available Unit (Yield Mana
 - **Canonical id:** `dea:metric-revenue-per-available-unit-yield-management`
 - **Name:** Revenue per Available Unit (Yield Management)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RevPAU
 

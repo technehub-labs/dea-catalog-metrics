@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Detection via Monitoring Rati
 - **Canonical id:** `dea:metric-incident-detection-via-monitoring-ratio`
 - **Name:** Incident Detection via Monitoring Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IDVMR
 
@@ -27,7 +27,7 @@ Incidents Detected before User Report / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

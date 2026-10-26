@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Cost per Defect Opportunity** (S
 - **Canonical id:** `dea:metric-scrap-cost-per-defect-opportunity`
 - **Name:** Scrap Cost per Defect Opportunity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPDO
 

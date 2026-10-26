@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Automation Rate (GBS)** (PAR-G
 - **Canonical id:** `dea:metric-process-automation-rate-gbs`
 - **Name:** Process Automation Rate (GBS)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAR-G
 
@@ -27,7 +27,7 @@ Automated Process Steps / Total Process Steps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

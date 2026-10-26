@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Pricing Uptake** (TPU) in th
 - **Canonical id:** `dea:metric-technical-pricing-uptake`
 - **Name:** Technical Pricing Uptake
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPU
 
@@ -27,7 +27,7 @@ Policies Priced with Technical Model / Policies Priced
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

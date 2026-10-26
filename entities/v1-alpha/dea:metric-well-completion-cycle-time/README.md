@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Well Completion Cycle Time** (WCCT) in
 - **Canonical id:** `dea:metric-well-completion-cycle-time`
 - **Name:** Well Completion Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCCT
 
@@ -27,8 +27,8 @@ Days from Spud to Production Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

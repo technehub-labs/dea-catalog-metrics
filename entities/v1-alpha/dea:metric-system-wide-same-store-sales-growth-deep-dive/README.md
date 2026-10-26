@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System-wide Same-Store Sales Growth (D
 - **Canonical id:** `dea:metric-system-wide-same-store-sales-growth-deep-dive`
 - **Name:** System-wide Same-Store Sales Growth (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSSG-D
 
@@ -27,7 +27,7 @@ Comparable Sales Growth across System
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

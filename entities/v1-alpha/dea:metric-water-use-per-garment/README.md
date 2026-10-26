@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Use per Garment** (WUG) in the O
 - **Canonical id:** `dea:metric-water-use-per-garment`
 - **Name:** Water Use per Garment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WUG
 
@@ -27,8 +27,8 @@ Litres of Water Used / Garment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-kilolitres`
-- **Unit:** kilolitres
+- **Unit reference:** `dea:unit-kilolitre`
+- **Unit:** kilolitre
 - **Unit label (as published):** kilolitres (kl)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Inspection First-Time Pass** (
 - **Canonical id:** `dea:metric-quality-inspection-first-time-pass`
 - **Name:** Quality Inspection First-Time Pass
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QIFP
 
@@ -23,7 +23,7 @@ Inspections Passed First Time / Inspections Performed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

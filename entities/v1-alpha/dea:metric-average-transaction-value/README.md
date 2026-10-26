@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Transaction Value** (ATV) in t
 - **Canonical id:** `dea:metric-average-transaction-value`
 - **Name:** Average Transaction Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATV
 

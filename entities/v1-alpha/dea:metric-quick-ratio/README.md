@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quick Ratio** (QR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-quick-ratio`
 - **Name:** Quick Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QR
 

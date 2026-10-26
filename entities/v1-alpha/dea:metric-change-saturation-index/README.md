@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Saturation Index** (CSI) in the
 - **Canonical id:** `dea:metric-change-saturation-index`
 - **Name:** Change Saturation Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSI
 

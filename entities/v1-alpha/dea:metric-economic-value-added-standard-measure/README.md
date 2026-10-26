@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added (Standard Measure
 - **Canonical id:** `dea:metric-economic-value-added-standard-measure`
 - **Name:** Economic Value Added (Standard Measure)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVA
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Duration Variance (Refining
 - **Canonical id:** `dea:metric-turnaround-duration-variance-refining`
 - **Name:** Turnaround Duration Variance (Refining)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDVR
 
@@ -27,7 +27,7 @@ Actual Turnaround Days - Planned / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

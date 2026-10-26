@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resilience Stress Test Pass Rate** (RS
 - **Canonical id:** `dea:metric-resilience-stress-test-pass-rate`
 - **Name:** Resilience Stress Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSTP
 
@@ -27,7 +27,7 @@ Stress Scenarios Passed / Scenarios Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Incident Notification Complianc
 - **Canonical id:** `dea:metric-vendor-incident-notification-compliance`
 - **Name:** Vendor Incident Notification Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VINC
 
@@ -27,7 +27,7 @@ Vendor Breaches Notified per Contract Terms / Breaches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

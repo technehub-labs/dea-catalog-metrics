@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Terminal Throughput per Track** (TTPT)
 - **Canonical id:** `dea:metric-terminal-throughput-per-track`
 - **Name:** Terminal Throughput per Track
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTPT
 

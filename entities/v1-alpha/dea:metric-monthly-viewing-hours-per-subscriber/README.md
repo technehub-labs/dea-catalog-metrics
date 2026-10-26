@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Viewing Hours per Subscriber**
 - **Canonical id:** `dea:metric-monthly-viewing-hours-per-subscriber`
 - **Name:** Monthly Viewing Hours per Subscriber
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVHS
 
@@ -27,8 +27,8 @@ Hours Streamed / Subscribers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

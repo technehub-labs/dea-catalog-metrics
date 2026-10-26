@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Equity Ratio** (D/E) in the Op
 - **Canonical id:** `dea:metric-debt-to-equity-ratio`
 - **Name:** Debt-to-Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** D/E
 

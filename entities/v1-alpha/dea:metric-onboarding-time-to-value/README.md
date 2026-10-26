@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Time to Value** (TTV) in th
 - **Canonical id:** `dea:metric-onboarding-time-to-value`
 - **Name:** Onboarding Time to Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTV
 
@@ -23,8 +23,8 @@ Days from Signup to First Value Outcome
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

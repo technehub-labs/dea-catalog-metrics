@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collision Rate per Million Miles** (CR
 - **Canonical id:** `dea:metric-collision-rate-per-million-miles`
 - **Name:** Collision Rate per Million Miles
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRPM
 
@@ -27,8 +27,8 @@ Collisions / Miles Operated x 1,000,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

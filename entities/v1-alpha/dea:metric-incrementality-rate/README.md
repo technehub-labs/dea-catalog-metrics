@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incrementality Rate** (INCR) in the Op
 - **Canonical id:** `dea:metric-incrementality-rate`
 - **Name:** Incrementality Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INCR
 
@@ -27,7 +27,7 @@ Incremental Conversions from Test vs Control / Test Conversions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

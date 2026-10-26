@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Trust Index** (PTI) in the Open
 - **Canonical id:** `dea:metric-public-trust-index`
 - **Name:** Public Trust Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTI
 

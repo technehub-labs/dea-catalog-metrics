@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Case Quality Score** (BCQS) i
 - **Canonical id:** `dea:metric-business-case-quality-score`
 - **Name:** Business Case Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCQS
 

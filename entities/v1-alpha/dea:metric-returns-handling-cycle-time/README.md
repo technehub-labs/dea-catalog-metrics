@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Returns Handling Cycle Time** (RHCT) i
 - **Canonical id:** `dea:metric-returns-handling-cycle-time`
 - **Name:** Returns Handling Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RHCT
 
@@ -23,8 +23,8 @@ Days from Return Receipt to Disposition
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

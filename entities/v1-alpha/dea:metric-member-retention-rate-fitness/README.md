@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Retention Rate (Fitness)** (MRR
 - **Canonical id:** `dea:metric-member-retention-rate-fitness`
 - **Name:** Member Retention Rate (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRR-F
 
@@ -27,7 +27,7 @@ Members Retained at Year End / Members at Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

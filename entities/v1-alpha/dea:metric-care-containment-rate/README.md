@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Containment Rate** (CCR-T2) in th
 - **Canonical id:** `dea:metric-care-containment-rate`
 - **Name:** Care Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-T2
 
@@ -23,7 +23,7 @@ Issues Resolved in Care without Dispatch or Escalation / Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

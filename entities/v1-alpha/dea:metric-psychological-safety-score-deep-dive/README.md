@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Safety Score (Deep Dive)
 - **Canonical id:** `dea:metric-psychological-safety-score-deep-dive`
 - **Name:** Psychological Safety Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSSDD
 

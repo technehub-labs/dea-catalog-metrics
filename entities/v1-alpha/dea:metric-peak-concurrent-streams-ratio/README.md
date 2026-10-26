@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Concurrent Streams Ratio** (PCSR)
 - **Canonical id:** `dea:metric-peak-concurrent-streams-ratio`
 - **Name:** Peak Concurrent Streams Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCSR
 
@@ -23,7 +23,7 @@ Peak Concurrent Streams / Design Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

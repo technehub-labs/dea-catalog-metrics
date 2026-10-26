@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Claim Processing Time** (ACPT)
 - **Canonical id:** `dea:metric-average-claim-processing-time`
 - **Name:** Average Claim Processing Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACPT
 
@@ -23,8 +23,8 @@ Total Claims Processing Days / Claims Settled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

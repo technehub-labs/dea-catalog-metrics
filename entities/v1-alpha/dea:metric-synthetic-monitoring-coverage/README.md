@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Synthetic Monitoring Coverage** (SYNMC
 - **Canonical id:** `dea:metric-synthetic-monitoring-coverage`
 - **Name:** Synthetic Monitoring Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SYNMC
 
@@ -23,7 +23,7 @@ Critical User Journeys under Synthetic Test / Critical Journeys
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

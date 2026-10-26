@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Compute Cost per Build** (CICPB) in
 - **Canonical id:** `dea:metric-ci-compute-cost-per-build`
 - **Name:** CI Compute Cost per Build
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CICPB
 

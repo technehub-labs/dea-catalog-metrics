@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Exposure Trend Index (Projects)**
 - **Canonical id:** `dea:metric-risk-exposure-trend-index-projects`
 - **Name:** Risk Exposure Trend Index (Projects)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RETI
 

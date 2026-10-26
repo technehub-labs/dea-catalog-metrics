@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calls per Agent per Day** (CPAD) in th
 - **Canonical id:** `dea:metric-calls-per-agent-per-day`
 - **Name:** Calls per Agent per Day
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPAD
 

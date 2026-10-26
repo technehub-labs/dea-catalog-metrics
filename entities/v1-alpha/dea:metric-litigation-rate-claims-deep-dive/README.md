@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Litigation Rate (Claims) (Deep Dive)**
 - **Canonical id:** `dea:metric-litigation-rate-claims-deep-dive`
 - **Name:** Litigation Rate (Claims) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRC
 
@@ -23,7 +23,7 @@ Claims Reaching Litigation / Contested Claims
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

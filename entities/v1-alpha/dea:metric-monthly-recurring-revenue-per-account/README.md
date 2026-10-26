@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Recurring Revenue per Account*
 - **Canonical id:** `dea:metric-monthly-recurring-revenue-per-account`
 - **Name:** Monthly Recurring Revenue per Account
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRRA
 

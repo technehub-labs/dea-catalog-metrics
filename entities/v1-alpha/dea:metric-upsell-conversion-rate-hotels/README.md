@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upsell Conversion Rate (Hotels)** (UCR
 - **Canonical id:** `dea:metric-upsell-conversion-rate-hotels`
 - **Name:** Upsell Conversion Rate (Hotels)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UCR-H
 
@@ -23,7 +23,7 @@ Upsells Accepted / Upsell Offers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

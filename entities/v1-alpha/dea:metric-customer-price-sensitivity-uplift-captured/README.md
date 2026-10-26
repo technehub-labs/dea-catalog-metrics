@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Price Sensitivity Uplift Capt
 - **Canonical id:** `dea:metric-customer-price-sensitivity-uplift-captured`
 - **Name:** Customer Price Sensitivity Uplift Captured
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPSU
 
@@ -27,7 +27,7 @@ Uplift Realized from Dynamic Pricing / Uplift Modeled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

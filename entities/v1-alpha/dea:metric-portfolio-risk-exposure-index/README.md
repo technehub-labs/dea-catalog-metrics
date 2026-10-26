@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Risk Exposure Index** (PREI)
 - **Canonical id:** `dea:metric-portfolio-risk-exposure-index`
 - **Name:** Portfolio Risk Exposure Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PREI
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Volatility Index** (DVI-MKT) in
 - **Canonical id:** `dea:metric-demand-volatility-index`
 - **Name:** Demand Volatility Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DVI-MKT
 

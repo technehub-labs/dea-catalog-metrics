@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight-to-Decision Conversion Rate** 
 - **Canonical id:** `dea:metric-insight-to-decision-conversion-rate`
 - **Name:** Insight-to-Decision Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IDCR-FP
 
@@ -27,7 +27,7 @@ Analyses Resulting in Documented Decisions / Analyses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

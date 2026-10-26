@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expert Location Rate** (ELR-KM) in the
 - **Canonical id:** `dea:metric-expert-location-rate`
 - **Name:** Expert Location Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELR-KM
 
@@ -23,7 +23,7 @@ Cases Where Expert Found within SLA / Cases Needing Expertise
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

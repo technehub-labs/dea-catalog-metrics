@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Application Filing Rate** (PAFR
 - **Canonical id:** `dea:metric-patent-application-filing-rate`
 - **Name:** Patent Application Filing Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAFR
 

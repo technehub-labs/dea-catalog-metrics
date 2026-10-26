@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Sell Ratio (Products per Custome
 - **Canonical id:** `dea:metric-cross-sell-ratio-products-per-customer`
 - **Name:** Cross-Sell Ratio (Products per Customer)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** XSR-B
 

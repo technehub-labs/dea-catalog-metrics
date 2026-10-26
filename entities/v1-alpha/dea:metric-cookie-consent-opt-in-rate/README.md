@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cookie Consent Opt-In Rate** (CCOIR) i
 - **Canonical id:** `dea:metric-cookie-consent-opt-in-rate`
 - **Name:** Cookie Consent Opt-In Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCOIR
 
@@ -23,7 +23,7 @@ Consented Sessions / Sessions Prompted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

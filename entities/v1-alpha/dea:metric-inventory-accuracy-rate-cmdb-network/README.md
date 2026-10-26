@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Accuracy Rate (CMDB Network)
 - **Canonical id:** `dea:metric-inventory-accuracy-rate-cmdb-network`
 - **Name:** Inventory Accuracy Rate (CMDB Network)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IARN
 
@@ -23,7 +23,7 @@ CMDB Records Matching Discovery / Records Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

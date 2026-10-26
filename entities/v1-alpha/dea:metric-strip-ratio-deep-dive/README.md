@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strip Ratio (Deep Dive)** (SR-D) in th
 - **Canonical id:** `dea:metric-strip-ratio-deep-dive`
 - **Name:** Strip Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SR-D
 

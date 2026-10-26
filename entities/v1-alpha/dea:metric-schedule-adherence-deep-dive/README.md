@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Adherence (Deep Dive)** (SAD-
 - **Canonical id:** `dea:metric-schedule-adherence-deep-dive`
 - **Name:** Schedule Adherence (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAD-D
 
@@ -23,7 +23,7 @@ Time in Scheduled State / Scheduled Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

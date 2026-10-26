@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leverage Ratio (Fund) Monitoring** (LR
 - **Canonical id:** `dea:metric-leverage-ratio-fund-monitoring`
 - **Name:** Leverage Ratio (Fund) Monitoring
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRFM
 

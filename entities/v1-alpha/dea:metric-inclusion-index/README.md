@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusion Index** (INCI) in the OpenDE
 - **Canonical id:** `dea:metric-inclusion-index`
 - **Name:** Inclusion Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INCI
 

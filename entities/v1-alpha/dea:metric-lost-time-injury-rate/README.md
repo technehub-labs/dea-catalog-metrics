@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lost Time Injury Rate** (LTIR) in the 
 - **Canonical id:** `dea:metric-lost-time-injury-rate`
 - **Name:** Lost Time Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTIR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Variance in Construction** (S
 - **Canonical id:** `dea:metric-schedule-variance-in-construction`
 - **Name:** Schedule Variance in Construction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SV-C
 
@@ -27,7 +27,7 @@ Measures deviation of actual progress from the baseline schedule. It matters bec
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

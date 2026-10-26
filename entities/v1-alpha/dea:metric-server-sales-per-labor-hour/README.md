@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Sales per Labor Hour** (SSPLH) 
 - **Canonical id:** `dea:metric-server-sales-per-labor-hour`
 - **Name:** Server Sales per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSPLH
 

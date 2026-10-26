@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unscheduled Removal Rate** (URR) in th
 - **Canonical id:** `dea:metric-unscheduled-removal-rate`
 - **Name:** Unscheduled Removal Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** URR
 
@@ -27,8 +27,8 @@ Unscheduled Component Removals / Flight Hours x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Area Cleaned per Labor Hour** (ACPH) i
 - **Canonical id:** `dea:metric-area-cleaned-per-labor-hour`
 - **Name:** Area Cleaned per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACPH
 

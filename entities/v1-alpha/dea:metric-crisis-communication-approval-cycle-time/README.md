@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Communication Approval Cycle Ti
 - **Canonical id:** `dea:metric-crisis-communication-approval-cycle-time`
 - **Name:** Crisis Communication Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCACT
 
@@ -27,8 +27,8 @@ Minutes to Draft, Approve and Issue Public Statement
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

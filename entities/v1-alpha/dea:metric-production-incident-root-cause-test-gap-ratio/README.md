@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Incident Root Cause - Test 
 - **Canonical id:** `dea:metric-production-incident-root-cause-test-gap-ratio`
 - **Name:** Production Incident Root Cause - Test Gap Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRC-TG
 
@@ -27,7 +27,7 @@ Incidents Attributed to Test Gaps / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Action Recall Effectiveness** (F
 - **Canonical id:** `dea:metric-field-action-recall-effectiveness`
 - **Name:** Field Action Recall Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FARE
 
@@ -27,7 +27,7 @@ Devices Corrected or Removed / Devices Subject to Field Action
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Test Sampling Sufficiency Rate
 - **Canonical id:** `dea:metric-control-test-sampling-sufficiency-rate`
 - **Name:** Control Test Sampling Sufficiency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTSSR
 
@@ -23,7 +23,7 @@ Tests Meeting Sample Sufficiency Standard / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

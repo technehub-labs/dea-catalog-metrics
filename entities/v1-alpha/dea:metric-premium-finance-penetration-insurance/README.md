@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Premium Finance Penetration (Insurance
 - **Canonical id:** `dea:metric-premium-finance-penetration-insurance`
 - **Name:** Premium Finance Penetration (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PFPI
 
@@ -23,7 +23,7 @@ Premium Financed via Plan / Collectable Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

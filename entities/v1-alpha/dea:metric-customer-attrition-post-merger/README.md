@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Attrition Post-Merger** (CAPM
 - **Canonical id:** `dea:metric-customer-attrition-post-merger`
 - **Name:** Customer Attrition Post-Merger
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAPM
 
@@ -27,7 +27,7 @@ Customers Lost in Year One / Customers at Close
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

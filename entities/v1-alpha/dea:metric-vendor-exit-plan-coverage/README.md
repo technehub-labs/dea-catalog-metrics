@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Exit Plan Coverage** (VEPC) in 
 - **Canonical id:** `dea:metric-vendor-exit-plan-coverage`
 - **Name:** Vendor Exit Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VEPC
 
@@ -27,7 +27,7 @@ Critical Vendors with Tested Exit Plan / Critical Vendors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

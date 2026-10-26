@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missed Trip Rate** (MTR-P) in the Open
 - **Canonical id:** `dea:metric-missed-trip-rate`
 - **Name:** Missed Trip Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTR-P
 
@@ -23,7 +23,7 @@ Trips Not Operated / Trips Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

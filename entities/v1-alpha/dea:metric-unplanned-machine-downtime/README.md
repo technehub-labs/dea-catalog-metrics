@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unplanned Machine Downtime** (UMD) in 
 - **Canonical id:** `dea:metric-unplanned-machine-downtime`
 - **Name:** Unplanned Machine Downtime
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UMD
 
@@ -23,8 +23,8 @@ Unplanned Downtime Events or Hours per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

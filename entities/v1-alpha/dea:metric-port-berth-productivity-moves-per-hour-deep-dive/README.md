@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port Berth Productivity - Moves per Ho
 - **Canonical id:** `dea:metric-port-berth-productivity-moves-per-hour-deep-dive`
 - **Name:** Port Berth Productivity - Moves per Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PBPH-D
 

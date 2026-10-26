@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Financing Portfolio Risk** (DFP
 - **Canonical id:** `dea:metric-device-financing-portfolio-risk`
 - **Name:** Device Financing Portfolio Risk
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DFPR
 
@@ -27,7 +27,7 @@ Financing Balances Past Due / Total Financing Balances
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

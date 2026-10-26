@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organizational Memory Index** (OMI) in
 - **Canonical id:** `dea:metric-organizational-memory-index`
 - **Name:** Organizational Memory Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMI
 

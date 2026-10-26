@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Encryption at Rest Coverage** (EARC) i
 - **Canonical id:** `dea:metric-encryption-at-rest-coverage`
 - **Name:** Encryption at Rest Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EARC
 
@@ -23,7 +23,7 @@ Storage Services Encrypted at Rest / Storage Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

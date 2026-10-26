@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Skills Coverage** (BSC) in the O
 - **Canonical id:** `dea:metric-board-skills-coverage`
 - **Name:** Board Skills Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSC
 
@@ -27,7 +27,7 @@ Required Competencies Present on Board / Required Competencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

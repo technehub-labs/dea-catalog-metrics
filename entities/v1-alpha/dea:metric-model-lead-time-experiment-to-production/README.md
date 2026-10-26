@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Lead Time - Experiment to Produc
 - **Canonical id:** `dea:metric-model-lead-time-experiment-to-production`
 - **Name:** Model Lead Time - Experiment to Production
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MLTEP
 
@@ -27,8 +27,8 @@ Days from Candidate Model to Production Deployment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

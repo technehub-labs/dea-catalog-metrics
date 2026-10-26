@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Reserve Adequacy** (LRA) in the O
 - **Canonical id:** `dea:metric-loss-reserve-adequacy`
 - **Name:** Loss Reserve Adequacy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRA
 

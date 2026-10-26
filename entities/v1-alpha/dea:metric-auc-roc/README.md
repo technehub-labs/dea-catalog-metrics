@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AUC-ROC** (AUCROC) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-auc-roc`
 - **Name:** AUC-ROC
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUCROC
 

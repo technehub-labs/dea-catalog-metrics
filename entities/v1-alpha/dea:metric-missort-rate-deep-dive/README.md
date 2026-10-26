@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missort Rate (Deep Dive)** (MSR-D) in 
 - **Canonical id:** `dea:metric-missort-rate-deep-dive`
 - **Name:** Missort Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSR-D
 
@@ -23,8 +23,8 @@ Misrouted Parcels / Parcels Sorted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

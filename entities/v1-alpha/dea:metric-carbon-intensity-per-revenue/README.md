@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carbon Intensity per Revenue** (CIR-S)
 - **Canonical id:** `dea:metric-carbon-intensity-per-revenue`
 - **Name:** Carbon Intensity per Revenue
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIR-S
 

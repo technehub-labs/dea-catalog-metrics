@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Attempt Delivery Success** (FADS
 - **Canonical id:** `dea:metric-first-attempt-delivery-success`
 - **Name:** First-Attempt Delivery Success
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FADS
 
@@ -23,7 +23,7 @@ Items Delivered on First Attempt / Delivery Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

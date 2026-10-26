@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Representative Data Coverage** (RDC-AI
 - **Canonical id:** `dea:metric-representative-data-coverage`
 - **Name:** Representative Data Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDC-AI
 
@@ -27,7 +27,7 @@ Population Segments Adequately Represented in Data / Segments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

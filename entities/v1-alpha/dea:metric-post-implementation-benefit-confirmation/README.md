@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Implementation Benefit Confirmati
 - **Canonical id:** `dea:metric-post-implementation-benefit-confirmation`
 - **Name:** Post-Implementation Benefit Confirmation
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIBC
 
@@ -27,7 +27,7 @@ Initiatives with Confirmed Benefits at Review / Initiatives Closed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

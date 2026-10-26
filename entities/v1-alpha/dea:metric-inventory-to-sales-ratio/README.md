@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory-to-Sales Ratio** (ITSR) in t
 - **Canonical id:** `dea:metric-inventory-to-sales-ratio`
 - **Name:** Inventory-to-Sales Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITSR
 

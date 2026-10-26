@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Underwriting Discount Depth** 
 - **Canonical id:** `dea:metric-average-underwriting-discount-depth`
 - **Name:** Average Underwriting Discount Depth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUDD
 
@@ -23,7 +23,7 @@ Average Discount from Technical Price / Technical Price
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

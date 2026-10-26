@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel per Nautical Mile (Deep Dive)** (
 - **Canonical id:** `dea:metric-fuel-per-nautical-mile-deep-dive`
 - **Name:** Fuel per Nautical Mile (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPM-D
 

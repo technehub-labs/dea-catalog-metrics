@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Marketing Study Commitment Compli
 - **Canonical id:** `dea:metric-post-marketing-study-commitment-compliance`
 - **Name:** Post-Marketing Study Commitment Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMSC
 
@@ -27,7 +27,7 @@ Commitments on Schedule / Commitments Made
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

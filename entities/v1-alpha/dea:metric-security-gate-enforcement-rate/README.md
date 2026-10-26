@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Gate Enforcement Rate** (SGER
 - **Canonical id:** `dea:metric-security-gate-enforcement-rate`
 - **Name:** Security Gate Enforcement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGER
 
@@ -27,7 +27,7 @@ Releases Blocked by Security Gate when Threshold Exceeded / Threshold Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

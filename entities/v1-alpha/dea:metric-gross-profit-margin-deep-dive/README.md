@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Profit Margin (Deep Dive)** (GPM
 - **Canonical id:** `dea:metric-gross-profit-margin-deep-dive`
 - **Name:** Gross Profit Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPMD
 
@@ -27,7 +27,7 @@ Gross Profit / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

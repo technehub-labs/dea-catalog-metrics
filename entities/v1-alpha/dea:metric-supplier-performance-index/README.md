@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Performance Index** (SPI) in 
 - **Canonical id:** `dea:metric-supplier-performance-index`
 - **Name:** Supplier Performance Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPI
 

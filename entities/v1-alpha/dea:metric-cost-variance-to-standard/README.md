@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Variance to Standard** (CVS) in t
 - **Canonical id:** `dea:metric-cost-variance-to-standard`
 - **Name:** Cost Variance to Standard
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CVS
 
@@ -27,7 +27,7 @@ Measures deviation of actual product cost from established standard cost. It mat
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reinsurance Cost of Cover** (RCC) in t
 - **Canonical id:** `dea:metric-reinsurance-cost-of-cover`
 - **Name:** Reinsurance Cost of Cover
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCC
 
@@ -27,7 +27,7 @@ Reinsurance Premium Ceded / Gross Written Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

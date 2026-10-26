@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (UX) - Deep Dive** 
 - **Canonical id:** `dea:metric-net-promoter-score-ux-deep-dive`
 - **Name:** Net Promoter Score (UX) - Deep Dive
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPSUXD
 

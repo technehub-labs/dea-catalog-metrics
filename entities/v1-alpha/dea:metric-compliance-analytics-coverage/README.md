@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Analytics Coverage** (CAC-C
 - **Canonical id:** `dea:metric-compliance-analytics-coverage`
 - **Name:** Compliance Analytics Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAC-CM
 
@@ -27,7 +27,7 @@ Obligations Monitored via Automated Data / Automatable Obligations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

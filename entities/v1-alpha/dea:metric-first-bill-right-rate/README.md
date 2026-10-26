@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Bill Right Rate** (FBRR) in the 
 - **Canonical id:** `dea:metric-first-bill-right-rate`
 - **Name:** First Bill Right Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBRR
 
@@ -27,7 +27,7 @@ First Bills without Error / New Customer Bills
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

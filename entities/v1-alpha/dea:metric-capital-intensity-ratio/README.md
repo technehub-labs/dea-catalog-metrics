@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Intensity Ratio** (CIR-VCF) in
 - **Canonical id:** `dea:metric-capital-intensity-ratio`
 - **Name:** Capital Intensity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIR-VCF
 
@@ -27,7 +27,7 @@ Capital Expenditure / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environmental Emissions Compliance (Ch
 - **Canonical id:** `dea:metric-environmental-emissions-compliance-chemicals`
 - **Name:** Environmental Emissions Compliance (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EECC
 
@@ -27,7 +27,7 @@ Emission Tests within Permits / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

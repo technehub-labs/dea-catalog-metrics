@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAU-to-MAU Stickiness (Deep Dive)** (D
 - **Canonical id:** `dea:metric-dau-to-mau-stickiness-deep-dive`
 - **Name:** DAU-to-MAU Stickiness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DMS-D
 
@@ -27,7 +27,7 @@ DAU / MAU
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

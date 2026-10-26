@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Steam or Compressed Air Loss Rate** (S
 - **Canonical id:** `dea:metric-steam-or-compressed-air-loss-rate`
 - **Name:** Steam or Compressed Air Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCAL
 
@@ -23,7 +23,7 @@ Leakage Losses / Generated Utility Volume
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

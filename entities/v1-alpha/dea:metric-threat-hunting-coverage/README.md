@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Hunting Coverage** (THC-SOC) in
 - **Canonical id:** `dea:metric-threat-hunting-coverage`
 - **Name:** Threat Hunting Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** THC-SOC
 
@@ -23,7 +23,7 @@ Attack Hypotheses Hunted per Period vs Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

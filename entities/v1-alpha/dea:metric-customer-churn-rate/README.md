@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Churn Rate** (CCR) in the Ope
 - **Canonical id:** `dea:metric-customer-churn-rate`
 - **Name:** Customer Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR
 
@@ -27,7 +27,7 @@ Customers Lost during Period / Customers at Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

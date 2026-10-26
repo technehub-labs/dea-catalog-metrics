@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Modularity Reuse Rate** (MRR-SA) in th
 - **Canonical id:** `dea:metric-modularity-reuse-rate`
 - **Name:** Modularity Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRR-SA
 
@@ -27,7 +27,7 @@ Shared Component Usage / Total Component Usage
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

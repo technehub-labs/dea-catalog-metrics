@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Web Performance Score** (WPS) in the O
 - **Canonical id:** `dea:metric-web-performance-score`
 - **Name:** Web Performance Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WPS
 

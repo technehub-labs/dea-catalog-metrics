@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return per Unit of Risk Realized** (RP
 - **Canonical id:** `dea:metric-return-per-unit-of-risk-realized`
 - **Name:** Return per Unit of Risk Realized
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPRUR
 

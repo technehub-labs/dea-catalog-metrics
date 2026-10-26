@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile API Error Rate** (MAER) in the 
 - **Canonical id:** `dea:metric-mobile-api-error-rate`
 - **Name:** Mobile API Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAER
 
@@ -23,7 +23,7 @@ Client-Reported Errors / Client Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

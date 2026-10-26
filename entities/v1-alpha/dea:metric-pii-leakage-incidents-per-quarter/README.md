@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PII Leakage Incidents per Quarter** (P
 - **Canonical id:** `dea:metric-pii-leakage-incidents-per-quarter`
 - **Name:** PII Leakage Incidents per Quarter
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIILQ
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Track Maintenance Compliance** (TMC) i
 - **Canonical id:** `dea:metric-track-maintenance-compliance`
 - **Name:** Track Maintenance Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMC
 
@@ -27,7 +27,7 @@ Maintenance Tasks Completed on Schedule / Tasks Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Magic Number (Deep Dive)** (MN-D) in t
 - **Canonical id:** `dea:metric-magic-number-deep-dive`
 - **Name:** Magic Number (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MN-D
 

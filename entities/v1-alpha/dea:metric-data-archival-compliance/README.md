@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Archival Compliance** (DAC-E) in 
 - **Canonical id:** `dea:metric-data-archival-compliance`
 - **Name:** Data Archival Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAC-E
 
@@ -23,7 +23,7 @@ Records Archived per Policy / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

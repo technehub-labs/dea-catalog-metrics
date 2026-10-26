@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dark versus Lit Execution Mix** (DVLEM
 - **Canonical id:** `dea:metric-dark-versus-lit-execution-mix`
 - **Name:** Dark versus Lit Execution Mix
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DVLEM
 
@@ -23,7 +23,7 @@ Dark Venue Volume / Total Volume
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

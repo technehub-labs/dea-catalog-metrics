@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Suitability Review Completion** (SRC-W
 - **Canonical id:** `dea:metric-suitability-review-completion`
 - **Name:** Suitability Review Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRC-W
 
@@ -27,7 +27,7 @@ Client Files Reviewed within Cycle / Client Files
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

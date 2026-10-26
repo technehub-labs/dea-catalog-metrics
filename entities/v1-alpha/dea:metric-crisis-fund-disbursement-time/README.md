@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Fund Disbursement Time** (CFDT)
 - **Canonical id:** `dea:metric-crisis-fund-disbursement-time`
 - **Name:** Crisis Fund Disbursement Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFDT
 
@@ -27,8 +27,8 @@ Hours from Approval to Funds Available in Crisis
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

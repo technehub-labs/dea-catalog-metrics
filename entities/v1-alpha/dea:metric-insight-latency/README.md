@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight Latency** (INS-L) in the OpenD
 - **Canonical id:** `dea:metric-insight-latency`
 - **Name:** Insight Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INS-L
 
@@ -23,8 +23,8 @@ Days from Data Availability to Insight Publication
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

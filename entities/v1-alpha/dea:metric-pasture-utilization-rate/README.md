@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pasture Utilization Rate** (PUR) in th
 - **Canonical id:** `dea:metric-pasture-utilization-rate`
 - **Name:** Pasture Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PUR
 
@@ -23,7 +23,7 @@ Grazed Pasture / Grown Pasture
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

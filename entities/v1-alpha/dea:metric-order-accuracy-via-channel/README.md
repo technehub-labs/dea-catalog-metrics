@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Accuracy via Channel** (OAVC) in
 - **Canonical id:** `dea:metric-order-accuracy-via-channel`
 - **Name:** Order Accuracy via Channel
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OAVC
 
@@ -23,7 +23,7 @@ Channel Orders Filled without Correction / Channel Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Quality Scorecard Average** (VQ
 - **Canonical id:** `dea:metric-vendor-quality-scorecard-average`
 - **Name:** Vendor Quality Scorecard Average
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VQSA
 

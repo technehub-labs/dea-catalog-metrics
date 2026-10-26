@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Manager Certification Coverage
 - **Canonical id:** `dea:metric-project-manager-certification-coverage`
 - **Name:** Project Manager Certification Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMCC
 
@@ -23,7 +23,7 @@ Certified PMs / PM Population
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

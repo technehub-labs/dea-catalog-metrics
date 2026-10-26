@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicles per Plant per Day (Deep Dive)
 - **Canonical id:** `dea:metric-vehicles-per-plant-per-day-deep-dive`
 - **Name:** Vehicles per Plant per Day (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPD-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Velocity Stability Index** (VSI-AG) in
 - **Canonical id:** `dea:metric-velocity-stability-index`
 - **Name:** Velocity Stability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VSI-AG
 
@@ -23,7 +23,7 @@ Variance of Sprint Velocity around Mean
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

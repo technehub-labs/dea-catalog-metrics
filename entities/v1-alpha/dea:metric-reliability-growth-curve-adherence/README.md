@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability Growth Curve Adherence** (
 - **Canonical id:** `dea:metric-reliability-growth-curve-adherence`
 - **Name:** Reliability Growth Curve Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RGCA
 

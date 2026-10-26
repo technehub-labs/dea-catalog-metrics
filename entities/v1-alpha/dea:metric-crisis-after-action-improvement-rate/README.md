@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis After-Action Improvement Rate**
 - **Canonical id:** `dea:metric-crisis-after-action-improvement-rate`
 - **Name:** Crisis After-Action Improvement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAIR
 
@@ -23,7 +23,7 @@ After-Action Actions Closed within 90 Days / Actions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

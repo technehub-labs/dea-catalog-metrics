@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Refinement Cadence Compliance*
 - **Canonical id:** `dea:metric-backlog-refinement-cadence-compliance`
 - **Name:** Backlog Refinement Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRCC-S
 
@@ -23,7 +23,7 @@ Refinement Sessions Held per Cadence / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

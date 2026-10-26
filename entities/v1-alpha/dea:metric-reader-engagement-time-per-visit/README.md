@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reader Engagement Time per Visit** (RE
 - **Canonical id:** `dea:metric-reader-engagement-time-per-visit`
 - **Name:** Reader Engagement Time per Visit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RETV
 
@@ -23,8 +23,8 @@ Total Time on Site / Visits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

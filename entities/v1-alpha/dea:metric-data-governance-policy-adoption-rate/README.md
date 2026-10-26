@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Policy Adoption Rate**
 - **Canonical id:** `dea:metric-data-governance-policy-adoption-rate`
 - **Name:** Data Governance Policy Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DGPRA
 
@@ -27,7 +27,7 @@ Business Units with Adopted Charter / Business Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

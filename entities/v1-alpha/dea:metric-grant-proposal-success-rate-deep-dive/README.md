@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grant Proposal Success Rate (Deep Dive
 - **Canonical id:** `dea:metric-grant-proposal-success-rate-deep-dive`
 - **Name:** Grant Proposal Success Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPSR-D
 
@@ -27,7 +27,7 @@ Grants Awarded / Proposals Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

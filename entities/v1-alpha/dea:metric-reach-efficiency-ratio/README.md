@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reach Efficiency Ratio** (RER) in the 
 - **Canonical id:** `dea:metric-reach-efficiency-ratio`
 - **Name:** Reach Efficiency Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RER
 
@@ -23,7 +23,7 @@ Unique Audience Reached / Gross Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

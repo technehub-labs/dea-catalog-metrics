@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rake Dwell Time at Sidings (Deep Dive)
 - **Canonical id:** `dea:metric-rake-dwell-time-at-sidings-deep-dive`
 - **Name:** Rake Dwell Time at Sidings (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDT-D
 
@@ -23,8 +23,8 @@ Hours at Sidings per Trip
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

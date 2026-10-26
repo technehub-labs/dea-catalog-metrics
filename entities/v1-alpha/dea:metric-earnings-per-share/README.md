@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings per Share** (EPS) in the Open
 - **Canonical id:** `dea:metric-earnings-per-share`
 - **Name:** Earnings per Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPS
 

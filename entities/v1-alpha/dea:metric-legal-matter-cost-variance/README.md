@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Matter Cost Variance** (LMCV) in
 - **Canonical id:** `dea:metric-legal-matter-cost-variance`
 - **Name:** Legal Matter Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LMCV
 
@@ -23,7 +23,7 @@ Actual Matter Cost - Budgeted Cost / Budget
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

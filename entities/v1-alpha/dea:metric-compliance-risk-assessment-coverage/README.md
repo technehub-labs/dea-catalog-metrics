@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Risk Assessment Coverage** 
 - **Canonical id:** `dea:metric-compliance-risk-assessment-coverage`
 - **Name:** Compliance Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRAC
 
@@ -27,7 +27,7 @@ Business Units Assessed / Units in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

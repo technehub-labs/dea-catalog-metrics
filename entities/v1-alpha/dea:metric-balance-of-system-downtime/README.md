@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Balance of System Downtime** (BOSD) in
 - **Canonical id:** `dea:metric-balance-of-system-downtime`
 - **Name:** Balance of System Downtime
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BOSD
 
@@ -23,7 +23,7 @@ Grid or Inverter Downtime Hours / Total Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

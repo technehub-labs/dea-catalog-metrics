@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Straight-Through Processing Rate (Auto
 - **Canonical id:** `dea:metric-straight-through-processing-rate-automation`
 - **Name:** Straight-Through Processing Rate (Automation)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STPA
 
@@ -27,7 +27,7 @@ Transactions Processed End-to-End without Manual Touch / Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

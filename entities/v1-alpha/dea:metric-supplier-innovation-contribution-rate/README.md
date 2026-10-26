@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Innovation Contribution Rate*
 - **Canonical id:** `dea:metric-supplier-innovation-contribution-rate`
 - **Name:** Supplier Innovation Contribution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SICR
 

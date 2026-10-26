@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NDA Self-Service Rate** (NSR-L) in the
 - **Canonical id:** `dea:metric-nda-self-service-rate`
 - **Name:** NDA Self-Service Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSR-L
 
@@ -23,7 +23,7 @@ NDAs Executed without Legal Review / NDAs Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

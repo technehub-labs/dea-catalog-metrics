@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Document Change Cycle Time** (DCCT) in
 - **Canonical id:** `dea:metric-document-change-cycle-time`
 - **Name:** Document Change Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCCT
 
@@ -23,8 +23,8 @@ Days from Change Request to Document Release
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hallucination Rate per 1,000 Responses
 - **Canonical id:** `dea:metric-hallucination-rate-per-1-000-responses`
 - **Name:** Hallucination Rate per 1,000 Responses
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HALLR
 
@@ -27,8 +27,8 @@ Responses Containing Fabricated Facts / 1,000 Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

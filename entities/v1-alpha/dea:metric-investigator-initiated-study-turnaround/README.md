@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigator-Initiated Study Turnaroun
 - **Canonical id:** `dea:metric-investigator-initiated-study-turnaround`
 - **Name:** Investigator-Initiated Study Turnaround
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IIST
 
@@ -23,8 +23,8 @@ Days from Proposal to Study Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

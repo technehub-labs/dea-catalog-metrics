@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Desk Cost per Ticket** (SDCT) 
 - **Canonical id:** `dea:metric-service-desk-cost-per-ticket`
 - **Name:** Service Desk Cost per Ticket
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDCT
 

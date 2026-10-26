@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Cost per Asset Maintained** (IPCpA)
 - **Canonical id:** `dea:metric-ip-cost-per-asset-maintained`
 - **Name:** IP Cost per Asset Maintained
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPCpA
 

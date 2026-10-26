@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dependency Lockfile Compliance** (DLC-
 - **Canonical id:** `dea:metric-dependency-lockfile-compliance`
 - **Name:** Dependency Lockfile Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLC-CI
 
@@ -23,7 +23,7 @@ Projects Using Locked Dependencies / Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

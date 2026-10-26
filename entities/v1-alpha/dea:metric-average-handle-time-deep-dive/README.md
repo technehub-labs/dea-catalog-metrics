@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Handle Time (Deep Dive)** (AHT
 - **Canonical id:** `dea:metric-average-handle-time-deep-dive`
 - **Name:** Average Handle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AHT-D
 
@@ -23,8 +23,8 @@ Talk Time + Hold + After-Call Work per Contact
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Charge-Off Rate** (COR) in the OpenDEA
 - **Canonical id:** `dea:metric-charge-off-rate`
 - **Name:** Charge-Off Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COR
 
@@ -27,7 +27,7 @@ Net Charge-Offs / Average Loans Outstanding
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin Stability Index** (GMSI) 
 - **Canonical id:** `dea:metric-gross-margin-stability-index`
 - **Name:** Gross Margin Stability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMSI
 
@@ -27,7 +27,7 @@ Variance of Gross Margin around Trend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

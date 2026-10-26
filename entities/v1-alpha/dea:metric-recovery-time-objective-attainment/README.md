@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Time Objective Attainment** (
 - **Canonical id:** `dea:metric-recovery-time-objective-attainment`
 - **Name:** Recovery Time Objective Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTOA
 
@@ -27,7 +27,7 @@ Recoveries within RTO in Tests or Events / Recovery Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

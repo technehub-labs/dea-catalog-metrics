@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interdependency Visibility Rate** (IVR
 - **Canonical id:** `dea:metric-interdependency-visibility-rate`
 - **Name:** Interdependency Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IVR-P
 
@@ -23,7 +23,7 @@ Cross-Initiative Dependencies Mapped / Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

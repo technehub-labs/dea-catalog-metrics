@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student-to-Faculty Ratio** (SFR) in th
 - **Canonical id:** `dea:metric-student-to-faculty-ratio`
 - **Name:** Student-to-Faculty Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SFR
 

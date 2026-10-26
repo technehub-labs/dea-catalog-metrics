@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction (Travel Experien
 - **Canonical id:** `dea:metric-customer-satisfaction-travel-experience`
 - **Name:** Customer Satisfaction (Travel Experience)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CST
 
@@ -27,7 +27,7 @@ Satisfied Traveler Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

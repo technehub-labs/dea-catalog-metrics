@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RACI Clarity Index** (RACI) in the Ope
 - **Canonical id:** `dea:metric-raci-clarity-index`
 - **Name:** RACI Clarity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RACI
 
@@ -27,7 +27,7 @@ Decisions with Clear Accountability / Decisions Mapped
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

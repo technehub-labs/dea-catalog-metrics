@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Sales Outstanding** (DSO) in the 
 - **Canonical id:** `dea:metric-days-sales-outstanding`
 - **Name:** Days Sales Outstanding
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSO
 
@@ -27,8 +27,8 @@ Measures the average number of days it takes to collect revenue after a sale. It
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

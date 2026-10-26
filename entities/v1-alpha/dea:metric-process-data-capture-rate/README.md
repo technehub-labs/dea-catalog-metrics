@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Data Capture Rate** (PDCA-OM) 
 - **Canonical id:** `dea:metric-process-data-capture-rate`
 - **Name:** Process Data Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDCA-OM
 
@@ -23,7 +23,7 @@ Process Steps with Digital Data Capture / Steps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

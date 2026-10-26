@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Audit Compliance Score (Deep Di
 - **Canonical id:** `dea:metric-branch-audit-compliance-score-deep-dive`
 - **Name:** Branch Audit Compliance Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BACS-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Capture Timeliness** (TCT-TRD) i
 - **Canonical id:** `dea:metric-trade-capture-timeliness`
 - **Name:** Trade Capture Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCT-TRD
 
@@ -23,7 +23,7 @@ Trades Captured within Window / Trades
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

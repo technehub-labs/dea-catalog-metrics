@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baseline Scope Stability** (BSS) in th
 - **Canonical id:** `dea:metric-baseline-scope-stability`
 - **Name:** Baseline Scope Stability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSS
 
@@ -27,7 +27,7 @@ Measures how much the approved baseline scope has changed since approval. It mat
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Contact Rate (Public Services)*
 - **Canonical id:** `dea:metric-repeat-contact-rate-public-services`
 - **Name:** Repeat Contact Rate (Public Services)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCRPS
 
@@ -23,7 +23,7 @@ Citizens Re-contacting within 30 Days / Contacts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

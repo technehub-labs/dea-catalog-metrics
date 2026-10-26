@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patrol Adherence Rate (Security)** (PA
 - **Canonical id:** `dea:metric-patrol-adherence-rate-security`
 - **Name:** Patrol Adherence Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAR-S
 
@@ -23,7 +23,7 @@ Patrols Completed per Tour Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

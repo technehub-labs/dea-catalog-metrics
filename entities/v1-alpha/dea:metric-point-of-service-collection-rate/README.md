@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Point-of-Service Collection Rate** (PO
 - **Canonical id:** `dea:metric-point-of-service-collection-rate`
 - **Name:** Point-of-Service Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POSC
 
@@ -27,7 +27,7 @@ Patient Payments Collected at Service / Patient Payments Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

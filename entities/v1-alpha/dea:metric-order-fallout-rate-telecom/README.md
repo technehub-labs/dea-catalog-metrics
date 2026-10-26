@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fallout Rate (Telecom)** (OFR-T)
 - **Canonical id:** `dea:metric-order-fallout-rate-telecom`
 - **Name:** Order Fallout Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OFR-T
 
@@ -23,7 +23,7 @@ Orders Requiring Manual Intervention / Orders Processed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

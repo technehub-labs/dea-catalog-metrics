@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milling Throughput** (MTH) in the Open
 - **Canonical id:** `dea:metric-milling-throughput`
 - **Name:** Milling Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTH
 
@@ -23,8 +23,8 @@ Ore Milled per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes
 
 ## Classification

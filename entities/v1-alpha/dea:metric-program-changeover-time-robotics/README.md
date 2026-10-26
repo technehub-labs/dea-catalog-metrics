@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Changeover Time (Robotics)** (
 - **Canonical id:** `dea:metric-program-changeover-time-robotics`
 - **Name:** Program Changeover Time (Robotics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCTR
 
@@ -23,8 +23,8 @@ Minutes to Reprogram and Reset Robotic Cell
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

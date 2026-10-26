@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Circular Material Use Rate** (CMUR) in
 - **Canonical id:** `dea:metric-circular-material-use-rate`
 - **Name:** Circular Material Use Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMUR
 
@@ -27,7 +27,7 @@ Secondary Materials / Total Materials Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

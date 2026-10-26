@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design-to-Dev Handoff Rework Rate** (D
 - **Canonical id:** `dea:metric-design-to-dev-handoff-rework-rate`
 - **Name:** Design-to-Dev Handoff Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DHR-UX
 
@@ -23,7 +23,7 @@ Handoffs Requiring Redesign / Handoffs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

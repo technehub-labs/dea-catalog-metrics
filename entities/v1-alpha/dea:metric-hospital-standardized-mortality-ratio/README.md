@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital Standardized Mortality Ratio*
 - **Canonical id:** `dea:metric-hospital-standardized-mortality-ratio`
 - **Name:** Hospital Standardized Mortality Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HSMR
 

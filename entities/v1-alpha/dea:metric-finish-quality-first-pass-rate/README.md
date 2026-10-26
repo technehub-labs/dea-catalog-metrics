@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finish Quality First Pass Rate** (FQFP
 - **Canonical id:** `dea:metric-finish-quality-first-pass-rate`
 - **Name:** Finish Quality First Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FQFP
 
@@ -23,7 +23,7 @@ Items Passing Finish Inspection / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

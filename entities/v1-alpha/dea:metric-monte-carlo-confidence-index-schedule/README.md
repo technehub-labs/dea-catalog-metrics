@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monte Carlo Confidence Index (Schedule
 - **Canonical id:** `dea:metric-monte-carlo-confidence-index-schedule`
 - **Name:** Monte Carlo Confidence Index (Schedule)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCCIS
 
@@ -23,7 +23,7 @@ Probability of Achieving Committed Date per Simulation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

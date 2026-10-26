@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Cycle Time** (RCLT-RM) in the 
 - **Canonical id:** `dea:metric-release-cycle-time`
 - **Name:** Release Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCLT-RM
 
@@ -27,8 +27,8 @@ Days between Consecutive Production Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

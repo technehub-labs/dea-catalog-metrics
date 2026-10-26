@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Stability Index** (RSI-RE
 - **Canonical id:** `dea:metric-requirements-stability-index`
 - **Name:** Requirements Stability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSI-RE
 
@@ -23,7 +23,7 @@ Unchanged Requirements after Baseline / Baseline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

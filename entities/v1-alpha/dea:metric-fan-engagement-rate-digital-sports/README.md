@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fan Engagement Rate (Digital Sports)**
 - **Canonical id:** `dea:metric-fan-engagement-rate-digital-sports`
 - **Name:** Fan Engagement Rate (Digital Sports)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FER-S
 
@@ -23,7 +23,7 @@ Engaged Digital Fans / Follower Base
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

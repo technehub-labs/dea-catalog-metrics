@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Safety Incidents (Chemicals)**
 - **Canonical id:** `dea:metric-process-safety-incidents-chemicals`
 - **Name:** Process Safety Incidents (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSIC
 

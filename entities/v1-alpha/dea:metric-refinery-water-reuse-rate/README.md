@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery-Water Reuse Rate** (RWRR) in 
 - **Canonical id:** `dea:metric-refinery-water-reuse-rate`
 - **Name:** Refinery-Water Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RWRR
 
@@ -23,7 +23,7 @@ Reused Water / Total Water Withdrawn
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Location Opening** (CLO) in t
 - **Canonical id:** `dea:metric-cost-per-location-opening`
 - **Name:** Cost per Location Opening
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLO
 

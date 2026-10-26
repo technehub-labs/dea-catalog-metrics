@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Outsourced versus In-House Cost Delta*
 - **Canonical id:** `dea:metric-outsourced-versus-in-house-cost-delta`
 - **Name:** Outsourced versus In-House Cost Delta
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OVIHC
 
@@ -27,7 +27,7 @@ Outsourced Unit Cost - In-House Unit Cost / In-House
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

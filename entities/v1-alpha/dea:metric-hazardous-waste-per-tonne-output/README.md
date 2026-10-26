@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hazardous Waste per Tonne Output** (HW
 - **Canonical id:** `dea:metric-hazardous-waste-per-tonne-output`
 - **Name:** Hazardous Waste per Tonne Output
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HWTO
 

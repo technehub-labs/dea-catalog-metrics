@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Margin (Client Engagements)** 
 - **Canonical id:** `dea:metric-project-margin-client-engagements`
 - **Name:** Project Margin (Client Engagements)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PM-PS
 
@@ -27,7 +27,7 @@ Engagement revenue minus direct delivery cost - the profitability metric at the 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

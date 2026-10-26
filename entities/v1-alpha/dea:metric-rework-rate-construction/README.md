@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework Rate (Construction)** (RWR-C) i
 - **Canonical id:** `dea:metric-rework-rate-construction`
 - **Name:** Rework Rate (Construction)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RWR-C
 
@@ -27,7 +27,7 @@ Value of Rework / Total Contract Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

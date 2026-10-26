@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Serve per Customer (Deep Dive)
 - **Canonical id:** `dea:metric-cost-to-serve-per-customer-deep-dive`
 - **Name:** Cost to Serve per Customer (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTSCD
 

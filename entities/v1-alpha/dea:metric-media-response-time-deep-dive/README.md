@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Response Time (Deep Dive)** (MRT
 - **Canonical id:** `dea:metric-media-response-time-deep-dive`
 - **Name:** Media Response Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRT-D
 
@@ -23,8 +23,8 @@ Hours to Respond to Media Inquiry
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

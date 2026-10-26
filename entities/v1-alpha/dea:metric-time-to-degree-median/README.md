@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-to-Degree (Median)** (TTD) in the
 - **Canonical id:** `dea:metric-time-to-degree-median`
 - **Name:** Time-to-Degree (Median)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTD
 
@@ -27,8 +27,8 @@ Median Years from Entry to Award
 
 ## Unit
 
-- **Unit reference:** `dea:unit-years`
-- **Unit:** years
+- **Unit reference:** `dea:unit-year`
+- **Unit:** year
 - **Unit label (as published):** years
 
 ## Classification

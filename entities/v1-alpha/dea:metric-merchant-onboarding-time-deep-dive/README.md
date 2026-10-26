@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchant Onboarding Time (Deep Dive)**
 - **Canonical id:** `dea:metric-merchant-onboarding-time-deep-dive`
 - **Name:** Merchant Onboarding Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOT-D
 
@@ -23,8 +23,8 @@ Days from Application to Live Merchant
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tool Maintenance Compliance (Molds)** 
 - **Canonical id:** `dea:metric-tool-maintenance-compliance-molds`
 - **Name:** Tool Maintenance Compliance (Molds)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMC
 
@@ -23,7 +23,7 @@ Preventive Tool Maintenance Done on Time / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

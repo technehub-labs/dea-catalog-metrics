@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Member** (RPM-F) in the Op
 - **Canonical id:** `dea:metric-revenue-per-member`
 - **Name:** Revenue per Member
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPM-F
 

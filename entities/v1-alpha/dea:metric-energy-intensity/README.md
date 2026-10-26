@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity** (EI) in the OpenDEA
 - **Canonical id:** `dea:metric-energy-intensity`
 - **Name:** Energy Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EI
 

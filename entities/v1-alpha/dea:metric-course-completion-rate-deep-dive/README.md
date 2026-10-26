@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Course Completion Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-course-completion-rate-deep-dive`
 - **Name:** Course Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCRT-D
 
@@ -27,7 +27,7 @@ Completers / Enrolments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

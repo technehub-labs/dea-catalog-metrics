@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drawing Release Rework Rate** (DRRR) i
 - **Canonical id:** `dea:metric-drawing-release-rework-rate`
 - **Name:** Drawing Release Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRRR
 
@@ -23,7 +23,7 @@ Drawings Revised after Release / Drawings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

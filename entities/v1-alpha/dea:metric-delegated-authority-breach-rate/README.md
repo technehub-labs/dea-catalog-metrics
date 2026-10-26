@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegated Authority Breach Rate** (DAB
 - **Canonical id:** `dea:metric-delegated-authority-breach-rate`
 - **Name:** Delegated Authority Breach Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DABR
 
@@ -23,8 +23,8 @@ Decisions beyond Delegated Limits / Decisions Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

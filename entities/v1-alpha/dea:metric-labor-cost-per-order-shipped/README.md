@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost per Order Shipped** (LCPO) 
 - **Canonical id:** `dea:metric-labor-cost-per-order-shipped`
 - **Name:** Labor Cost per Order Shipped
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCPO
 

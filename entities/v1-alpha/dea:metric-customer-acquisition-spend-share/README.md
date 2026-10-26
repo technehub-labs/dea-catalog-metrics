@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Spend Share** (CA
 - **Canonical id:** `dea:metric-customer-acquisition-spend-share`
 - **Name:** Customer Acquisition Spend Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CASS
 
@@ -27,7 +27,7 @@ Acquisition Spend / Total Marketing Budget
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

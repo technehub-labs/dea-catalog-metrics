@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Learning Platform Uptime** (DL
 - **Canonical id:** `dea:metric-digital-learning-platform-uptime`
 - **Name:** Digital Learning Platform Uptime
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLPU
 
@@ -23,7 +23,7 @@ Platform Available Hours / Required Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

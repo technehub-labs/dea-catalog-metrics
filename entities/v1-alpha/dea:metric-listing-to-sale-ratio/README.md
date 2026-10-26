@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Listing to Sale Ratio** (LSR-RE) in th
 - **Canonical id:** `dea:metric-listing-to-sale-ratio`
 - **Name:** Listing to Sale Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSR-RE
 
@@ -27,7 +27,7 @@ Listings Sold within Period / Listings Taken
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ore Grade** (OG) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-ore-grade`
 - **Name:** Ore Grade
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OG
 
@@ -27,7 +27,7 @@ Metal Content / Ore Extracted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Points of Dependency Count** (S
 - **Canonical id:** `dea:metric-single-points-of-dependency-count`
 - **Name:** Single Points of Dependency Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPOD
 
@@ -27,7 +27,7 @@ Critical Dependencies without Redundancy / Critical Dependencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

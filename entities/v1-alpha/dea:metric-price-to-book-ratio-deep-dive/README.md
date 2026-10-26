@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price-to-Book Ratio (Deep Dive)** (PTB
 - **Canonical id:** `dea:metric-price-to-book-ratio-deep-dive`
 - **Name:** Price-to-Book Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTBDD
 

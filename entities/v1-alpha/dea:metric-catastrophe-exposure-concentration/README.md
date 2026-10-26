@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catastrophe Exposure Concentration** (
 - **Canonical id:** `dea:metric-catastrophe-exposure-concentration`
 - **Name:** Catastrophe Exposure Concentration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEC
 
@@ -27,7 +27,7 @@ Catastrophe-Exposed Sum Insured / Total Sum Insured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

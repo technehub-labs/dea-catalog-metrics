@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slow Query Ratio** (SQR-DB) in the Ope
 - **Canonical id:** `dea:metric-slow-query-ratio`
 - **Name:** Slow Query Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SQR-DB
 
@@ -23,7 +23,7 @@ Queries Exceeding Latency Budget / Total Queries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

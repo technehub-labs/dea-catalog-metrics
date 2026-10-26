@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Truck Roll Resolution Rate** (TRRR) in
 - **Canonical id:** `dea:metric-truck-roll-resolution-rate`
 - **Name:** Truck Roll Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TRRR
 
@@ -27,7 +27,7 @@ Issues Resolved without Truck Roll via Remote Support / Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

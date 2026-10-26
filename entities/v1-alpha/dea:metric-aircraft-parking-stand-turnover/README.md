@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Parking Stand Turnover** (APS
 - **Canonical id:** `dea:metric-aircraft-parking-stand-turnover`
 - **Name:** Aircraft Parking Stand Turnover
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APST
 
@@ -23,7 +23,7 @@ Stand Occupancy Hours / Stand Hours Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

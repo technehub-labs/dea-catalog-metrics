@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commission per Transaction** (CPTX) in
 - **Canonical id:** `dea:metric-commission-per-transaction`
 - **Name:** Commission per Transaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPTX
 

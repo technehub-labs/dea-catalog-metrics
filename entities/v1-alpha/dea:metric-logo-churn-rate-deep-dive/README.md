@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logo Churn Rate (Deep Dive)** (LCR-D) 
 - **Canonical id:** `dea:metric-logo-churn-rate-deep-dive`
 - **Name:** Logo Churn Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCR-D
 
@@ -27,7 +27,7 @@ Cancelled Accounts / Total Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

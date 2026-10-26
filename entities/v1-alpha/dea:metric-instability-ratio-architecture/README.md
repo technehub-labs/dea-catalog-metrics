@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instability Ratio (Architecture)** (IN
 - **Canonical id:** `dea:metric-instability-ratio-architecture`
 - **Name:** Instability Ratio (Architecture)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INSTA
 

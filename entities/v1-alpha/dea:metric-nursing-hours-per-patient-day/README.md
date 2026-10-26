@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Nursing Hours per Patient Day** (NHPPD
 - **Canonical id:** `dea:metric-nursing-hours-per-patient-day`
 - **Name:** Nursing Hours per Patient Day
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NHPPD
 

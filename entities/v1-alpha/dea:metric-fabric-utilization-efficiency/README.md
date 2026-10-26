@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fabric Utilization Efficiency** (FUE) 
 - **Canonical id:** `dea:metric-fabric-utilization-efficiency`
 - **Name:** Fabric Utilization Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FUE
 
@@ -27,7 +27,7 @@ Fabric Used in Garments / Fabric Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SOC Staffing Coverage Ratio** (SSCR-SO
 - **Canonical id:** `dea:metric-soc-staffing-coverage-ratio`
 - **Name:** SOC Staffing Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSCR-SOC
 
@@ -23,7 +23,7 @@ SOC Staffing Coverage Ratio (SSCR-SOC) addresses the utilization or availability
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

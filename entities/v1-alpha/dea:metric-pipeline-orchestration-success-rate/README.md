@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Orchestration Success Rate** 
 - **Canonical id:** `dea:metric-pipeline-orchestration-success-rate`
 - **Name:** Pipeline Orchestration Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POSR-M
 
@@ -23,7 +23,7 @@ Orchestrated DAG Runs Succeeding / Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

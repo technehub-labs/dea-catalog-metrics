@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Response Program Delivery** (DR
 - **Canonical id:** `dea:metric-demand-response-program-delivery`
 - **Name:** Demand Response Program Delivery
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRPD
 
@@ -27,7 +27,7 @@ Curtailed Load vs Committed / Committed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

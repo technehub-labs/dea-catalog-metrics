@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-Discovery Collection Cycle Time** (E
 - **Canonical id:** `dea:metric-e-discovery-collection-cycle-time`
 - **Name:** E-Discovery Collection Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDCCT
 
@@ -23,8 +23,8 @@ Days from Legal Request to Data Collected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

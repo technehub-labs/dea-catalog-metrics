@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim File Audit Pass Rate** (CFAP) in
 - **Canonical id:** `dea:metric-claim-file-audit-pass-rate`
 - **Name:** Claim File Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFAP
 
@@ -23,7 +23,7 @@ Files Meeting Documentation Standards / Files Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

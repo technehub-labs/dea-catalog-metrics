@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Compliance Assurance Rate** (P
 - **Canonical id:** `dea:metric-partner-compliance-assurance-rate`
 - **Name:** Partner Compliance Assurance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCAR
 
@@ -27,7 +27,7 @@ Partners Passing Annual Compliance Review / Partners in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

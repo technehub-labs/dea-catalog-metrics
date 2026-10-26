@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Configuration Backup Compliance** (CBC
 - **Canonical id:** `dea:metric-configuration-backup-compliance`
 - **Name:** Configuration Backup Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBC-NW
 
@@ -23,7 +23,7 @@ Devices with Daily Config Backup / Devices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

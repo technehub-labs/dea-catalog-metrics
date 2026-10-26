@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Value Creation Ratio** (DVCR) in 
 - **Canonical id:** `dea:metric-deal-value-creation-ratio`
 - **Name:** Deal Value Creation Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DVCR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stale Review Abandonment Rate** (SRAR)
 - **Canonical id:** `dea:metric-stale-review-abandonment-rate`
 - **Name:** Stale Review Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRAR
 
@@ -23,7 +23,7 @@ Open Reviews Abandoned / Opened Reviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

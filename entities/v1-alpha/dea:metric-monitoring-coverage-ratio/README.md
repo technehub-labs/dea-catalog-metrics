@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monitoring Coverage Ratio** (MONCR) in
 - **Canonical id:** `dea:metric-monitoring-coverage-ratio`
 - **Name:** Monitoring Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MONCR
 
@@ -27,7 +27,7 @@ Devices under Monitoring / In-Scope Devices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Visit Rate (Retail Store Teleco
 - **Canonical id:** `dea:metric-repeat-visit-rate-retail-store-telecom`
 - **Name:** Repeat Visit Rate (Retail Store Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RVR
 
@@ -23,7 +23,7 @@ Customers Returning to Store within Period for Same Issue / Store Visits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

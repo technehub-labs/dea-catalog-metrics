@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fill Rate** (FR) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-fill-rate`
 - **Name:** Fill Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FR
 
@@ -27,7 +27,7 @@ Items Shipped from Stock / Items Ordered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

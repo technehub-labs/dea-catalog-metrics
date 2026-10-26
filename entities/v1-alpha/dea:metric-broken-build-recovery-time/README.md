@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broken Build Recovery Time** (BBRT) in
 - **Canonical id:** `dea:metric-broken-build-recovery-time`
 - **Name:** Broken Build Recovery Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BBRT
 
@@ -23,8 +23,8 @@ Minutes to Restore Green Build after Failure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

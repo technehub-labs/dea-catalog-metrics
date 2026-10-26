@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exposure Validation Coverage** (EVC) i
 - **Canonical id:** `dea:metric-exposure-validation-coverage`
 - **Name:** Exposure Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVC
 
@@ -23,7 +23,7 @@ Findings Validated as Exploitable / Critical Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gini Coefficient (Model Discrimination
 - **Canonical id:** `dea:metric-gini-coefficient-model-discrimination`
 - **Name:** Gini Coefficient (Model Discrimination)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GINIM
 

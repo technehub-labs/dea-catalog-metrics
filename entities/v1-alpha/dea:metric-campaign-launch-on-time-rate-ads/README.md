@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Launch On-Time Rate (Ads)** (
 - **Canonical id:** `dea:metric-campaign-launch-on-time-rate-ads`
 - **Name:** Campaign Launch On-Time Rate (Ads)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLOT
 
@@ -23,7 +23,7 @@ Campaigns Live on Scheduled Date / Campaigns
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategy Risk Indicator Integration Ra
 - **Canonical id:** `dea:metric-strategy-risk-indicator-integration-rate`
 - **Name:** Strategy Risk Indicator Integration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRII
 
@@ -27,7 +27,7 @@ Strategic Risks Reflected in Scorecard Measures / Strategic Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Deflection Rate (Deep Div
 - **Canonical id:** `dea:metric-self-service-deflection-rate-deep-dive`
 - **Name:** Self-Service Deflection Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSDRDD
 
@@ -23,7 +23,7 @@ Contacts Deflected by Self-Service / Total Demand
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

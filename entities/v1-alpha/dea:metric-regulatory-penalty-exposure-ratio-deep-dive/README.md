@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Penalty Exposure Ratio (Dee
 - **Canonical id:** `dea:metric-regulatory-penalty-exposure-ratio-deep-dive`
 - **Name:** Regulatory Penalty Exposure Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPER
 
@@ -27,7 +27,7 @@ Penalties Paid and Accrued / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Departure Rate - Airport (Deep
 - **Canonical id:** `dea:metric-on-time-departure-rate-airport-deep-dive`
 - **Name:** On-Time Departure Rate - Airport (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTDR-D
 
@@ -27,7 +27,7 @@ Departures On Time / Departures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

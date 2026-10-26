@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Coverage - Cascading Ratio** (OKRC
 - **Canonical id:** `dea:metric-okr-coverage-cascading-ratio`
 - **Name:** OKR Coverage - Cascading Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OKRCR
 
@@ -27,7 +27,7 @@ Departmental OKRs Linked to Enterprise Objectives / Objectives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

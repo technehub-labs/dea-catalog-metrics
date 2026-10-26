@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Altman Z-Score** (ALTZ) in the OpenDEA
 - **Canonical id:** `dea:metric-altman-z-score`
 - **Name:** Altman Z-Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALTZ
 

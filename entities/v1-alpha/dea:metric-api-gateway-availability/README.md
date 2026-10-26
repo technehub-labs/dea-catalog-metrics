@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Gateway Availability** (APGA) in t
 - **Canonical id:** `dea:metric-api-gateway-availability`
 - **Name:** API Gateway Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APGA
 
@@ -23,7 +23,7 @@ Uptime of API Gateway Tier
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

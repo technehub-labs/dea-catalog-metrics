@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Win Rate - Business Experim
 - **Canonical id:** `dea:metric-experiment-win-rate-business-experiments`
 - **Name:** Experiment Win Rate - Business Experiments
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EWR-B
 
@@ -27,7 +27,7 @@ Experiments with Statistically Significant Uplift / Experiments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

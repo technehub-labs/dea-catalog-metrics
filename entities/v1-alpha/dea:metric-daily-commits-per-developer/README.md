@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Commits per Developer** (DCPD) i
 - **Canonical id:** `dea:metric-daily-commits-per-developer`
 - **Name:** Daily Commits per Developer
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCPD
 

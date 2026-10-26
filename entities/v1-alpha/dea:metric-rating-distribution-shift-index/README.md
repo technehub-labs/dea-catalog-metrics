@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rating Distribution Shift Index** (RDS
 - **Canonical id:** `dea:metric-rating-distribution-shift-index`
 - **Name:** Rating Distribution Shift Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDSI-OKR
 
@@ -23,7 +23,7 @@ Change in Rating Distribution versus Prior Cycle
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

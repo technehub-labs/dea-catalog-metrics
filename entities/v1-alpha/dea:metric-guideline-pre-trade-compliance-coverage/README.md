@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guideline Pre-Trade Compliance Coverag
 - **Canonical id:** `dea:metric-guideline-pre-trade-compliance-coverage`
 - **Name:** Guideline Pre-Trade Compliance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPTCC
 
@@ -27,7 +27,7 @@ Orders Screened Pre-Trade / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

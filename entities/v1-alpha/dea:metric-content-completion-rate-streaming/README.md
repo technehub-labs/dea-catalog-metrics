@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Completion Rate (Streaming)** 
 - **Canonical id:** `dea:metric-content-completion-rate-streaming`
 - **Name:** Content Completion Rate (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-S
 
@@ -23,7 +23,7 @@ Titles Completed / Titles Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

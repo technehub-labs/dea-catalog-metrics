@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time between Price Reviews** (TBPR) in
 - **Canonical id:** `dea:metric-time-between-price-reviews`
 - **Name:** Time between Price Reviews
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TBPR
 
@@ -27,8 +27,8 @@ Days since Last Documented Price Review per Segment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

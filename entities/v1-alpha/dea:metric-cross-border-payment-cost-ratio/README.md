@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Border Payment Cost Ratio** (CBP
 - **Canonical id:** `dea:metric-cross-border-payment-cost-ratio`
 - **Name:** Cross-Border Payment Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBPCR
 
@@ -27,7 +27,7 @@ Total Cost of Cross-Border Payment / Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate (Mineral Processing)** (
 - **Canonical id:** `dea:metric-recovery-rate-mineral-processing`
 - **Name:** Recovery Rate (Mineral Processing)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RR-MP
 
@@ -27,7 +27,7 @@ Recovered Metal / Metal in Feed Ore
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Harvest Loss Rate** (HLR) in the OpenD
 - **Canonical id:** `dea:metric-harvest-loss-rate`
 - **Name:** Harvest Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HLR
 
@@ -27,7 +27,7 @@ Post-Harvest Losses / Total Harvest
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

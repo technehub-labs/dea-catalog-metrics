@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deadweight Utilization** (DWU) in the 
 - **Canonical id:** `dea:metric-deadweight-utilization`
 - **Name:** Deadweight Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DWU
 
@@ -27,7 +27,7 @@ Cargo Deadweight Carried / Vessel Deadweight Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

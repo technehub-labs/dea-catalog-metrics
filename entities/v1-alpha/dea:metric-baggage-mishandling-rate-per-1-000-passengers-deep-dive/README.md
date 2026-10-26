@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baggage Mishandling Rate per 1,000 Pas
 - **Canonical id:** `dea:metric-baggage-mishandling-rate-per-1-000-passengers-deep-dive`
 - **Name:** Baggage Mishandling Rate per 1,000 Passengers (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BMR-D
 
@@ -27,8 +27,8 @@ Mishandled Bags / 1,000 Passengers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

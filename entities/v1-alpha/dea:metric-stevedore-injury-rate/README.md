@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stevedore Injury Rate** (SIR) in the O
 - **Canonical id:** `dea:metric-stevedore-injury-rate`
 - **Name:** Stevedore Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIR
 

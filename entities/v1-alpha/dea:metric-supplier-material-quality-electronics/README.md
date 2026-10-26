@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Material Quality (Electronics
 - **Canonical id:** `dea:metric-supplier-material-quality-electronics`
 - **Name:** Supplier Material Quality (Electronics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMQ
 
@@ -27,7 +27,7 @@ Incoming Lots Meeting Specification / Lots Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

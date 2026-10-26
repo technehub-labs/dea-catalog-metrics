@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Sales Outstanding (Deep Dive)** (
 - **Canonical id:** `dea:metric-days-sales-outstanding-deep-dive`
 - **Name:** Days Sales Outstanding (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSODD
 
@@ -27,8 +27,8 @@ Average Days from Invoice to Collection
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

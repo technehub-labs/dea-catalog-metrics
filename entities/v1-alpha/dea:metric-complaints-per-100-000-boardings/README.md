@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaints per 100,000 Boardings** (CP
 - **Canonical id:** `dea:metric-complaints-per-100-000-boardings`
 - **Name:** Complaints per 100,000 Boardings
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPB
 
@@ -27,8 +27,8 @@ Complaints / Boardings x 100,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

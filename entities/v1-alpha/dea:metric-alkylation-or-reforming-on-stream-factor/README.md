@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alkylation or Reforming On-Stream Fact
 - **Canonical id:** `dea:metric-alkylation-or-reforming-on-stream-factor`
 - **Name:** Alkylation or Reforming On-Stream Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AOSF
 
@@ -23,7 +23,7 @@ Unit Operating Time / Calendar Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

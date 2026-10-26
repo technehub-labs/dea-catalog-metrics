@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Decline Reason Insight Coverage*
 - **Canonical id:** `dea:metric-offer-decline-reason-insight-coverage`
 - **Name:** Offer Decline Reason Insight Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODRIC
 
@@ -23,7 +23,7 @@ Declines with Coded Reason / Declines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

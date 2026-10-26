@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Readiness Checklist Compliance
 - **Canonical id:** `dea:metric-release-readiness-checklist-compliance`
 - **Name:** Release Readiness Checklist Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRCC
 
@@ -23,7 +23,7 @@ Releases Passing Readiness Checklist / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

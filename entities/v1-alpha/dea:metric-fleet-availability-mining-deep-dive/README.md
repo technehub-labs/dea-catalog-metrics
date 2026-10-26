@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Availability (Mining Deep Dive)*
 - **Canonical id:** `dea:metric-fleet-availability-mining-deep-dive`
 - **Name:** Fleet Availability (Mining Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FAM
 
@@ -23,7 +23,7 @@ Available Equipment Hours / Scheduled Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

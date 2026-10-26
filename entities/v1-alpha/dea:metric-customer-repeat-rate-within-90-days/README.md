@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Repeat Rate within 90 Days** 
 - **Canonical id:** `dea:metric-customer-repeat-rate-within-90-days`
 - **Name:** Customer Repeat Rate within 90 Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRR90
 
@@ -27,7 +27,7 @@ Customers Purchasing Again within 90 Days / Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

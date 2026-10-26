@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ship Hotel Maintenance Score** (SHMS) 
 - **Canonical id:** `dea:metric-ship-hotel-maintenance-score`
 - **Name:** Ship Hotel Maintenance Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SHMS
 

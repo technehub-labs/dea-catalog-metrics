@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Rate (Billing)** (DRB) in the 
 - **Canonical id:** `dea:metric-dispute-rate-billing`
 - **Name:** Dispute Rate (Billing)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRB
 
@@ -27,7 +27,7 @@ Disputed Charges / Total Billed Amount Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

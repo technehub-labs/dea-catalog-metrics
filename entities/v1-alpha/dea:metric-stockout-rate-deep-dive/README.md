@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stockout Rate (Deep Dive)** (SORD) in 
 - **Canonical id:** `dea:metric-stockout-rate-deep-dive`
 - **Name:** Stockout Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SORD
 
@@ -23,7 +23,7 @@ Demand Occasions Unfilled / Demand Occasions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

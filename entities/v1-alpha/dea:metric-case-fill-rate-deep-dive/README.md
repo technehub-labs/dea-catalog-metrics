@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Fill Rate (Deep Dive)** (CFRDD) i
 - **Canonical id:** `dea:metric-case-fill-rate-deep-dive`
 - **Name:** Case Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFRDD
 
@@ -23,7 +23,7 @@ Cases Shipped Complete / Cases Ordered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

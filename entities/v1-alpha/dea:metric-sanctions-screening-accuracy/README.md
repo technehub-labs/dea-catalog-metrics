@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanctions Screening Accuracy** (SSA-CM
 - **Canonical id:** `dea:metric-sanctions-screening-accuracy`
 - **Name:** Sanctions Screening Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSA-CM
 
@@ -23,7 +23,7 @@ True Matches Correctly Screened / Screening Population
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

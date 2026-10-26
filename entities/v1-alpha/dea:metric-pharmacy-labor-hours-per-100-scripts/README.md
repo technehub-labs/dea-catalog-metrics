@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pharmacy Labor Hours per 100 Scripts**
 - **Canonical id:** `dea:metric-pharmacy-labor-hours-per-100-scripts`
 - **Name:** Pharmacy Labor Hours per 100 Scripts
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLH100
 
@@ -23,8 +23,8 @@ Labor Hours / 100 Prescriptions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification
