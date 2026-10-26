@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Guidance Hit Rate** (EGHR) in
 - **Canonical id:** `dea:metric-earnings-guidance-hit-rate`
 - **Name:** Earnings Guidance Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EGHR
 
@@ -22,7 +22,7 @@ The share of guidance ranges met - the credibility metric of the investor-relati
 ## Formula
 
 ```
-Periods within Guidance Range / Periods Guided
+EGHR = Periods within Guidance Range / Periods Guided
 ```
 
 ## Unit

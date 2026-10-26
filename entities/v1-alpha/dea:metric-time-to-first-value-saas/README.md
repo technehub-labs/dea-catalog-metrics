@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to First Value (SaaS)** (TTFV-S) 
 - **Canonical id:** `dea:metric-time-to-first-value-saas`
 - **Name:** Time to First Value (SaaS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTFV-S
 
@@ -18,7 +18,7 @@ Time to First Value (SaaS) (TTFV-S) captures how efficiently resources are conve
 ## Formula
 
 ```
-Days from Contract Start to First Value Milestone
+TTFV-S = Days from Contract Start to First Value Milestone
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: 'Within Gig & Contingent Workforce, Cost per Gig Task vs Employee B
   performance. Practitioners in nearly any industry can adopt it directly.'
 abbreviation: PGC
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Gig Task Cost / Equivalent Internal Task Cost
 formula_definition:
   formula_id: dea:formula-cost-per-gig-task-vs-employee-baseline
-  expression: Gig Task Cost / Equivalent Internal Task Cost
+  expression: PGC = Gig Task Cost / Equivalent Internal Task Cost
   inputs:
   - name: Gig Task Cost
   - name: Equivalent Internal Task Cost
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 1465
     batch: '5'
 domain: gig_contingent_workforce
+subject_concept: dea:subject-cost_per_gig_task_vs_employee_baseline
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1465
+  - Public domain - no attribution required
+  known_limitations: []

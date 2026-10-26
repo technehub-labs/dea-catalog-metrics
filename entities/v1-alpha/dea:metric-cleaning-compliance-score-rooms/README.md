@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cleaning Compliance Score (Rooms)** (C
 - **Canonical id:** `dea:metric-cleaning-compliance-score-rooms`
 - **Name:** Cleaning Compliance Score (Rooms)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCS-R
 
@@ -18,7 +18,7 @@ Cleaning Compliance Score (Rooms) (CCS-R) measures the quality of outputs and ou
 ## Formula
 
 ```
-Inspected Rooms Meeting Standard / Inspected
+CCS-R = Inspected Rooms Meeting Standard / Inspected
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Andon Pull Rate** (APR-A) in the OpenD
 - **Canonical id:** `dea:metric-andon-pull-rate`
 - **Name:** Andon Pull Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APR-A
 
@@ -18,7 +18,7 @@ A Automotive Manufacturing (Deep Dive) indicator, Andon Pull Rate (APR-A) quanti
 ## Formula
 
 ```
-Line Stops Triggered / Shifts
+APR-A = Line Stops Triggered / Shifts
 ```
 
 ## Unit

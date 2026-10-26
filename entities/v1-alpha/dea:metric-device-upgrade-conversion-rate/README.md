@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Upgrade Conversion Rate** (DUCR
 - **Canonical id:** `dea:metric-device-upgrade-conversion-rate`
 - **Name:** Device Upgrade Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DUCR
 
@@ -22,7 +22,7 @@ Measures the share of eligible customers upgrading devices. It matters because u
 ## Formula
 
 ```
-Upgrades Completed / Upgrade-Eligible Customers
+DUCR = Upgrades Completed / Upgrade-Eligible Customers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tank Storage Turnover Rate** (TSTR) in
 - **Canonical id:** `dea:metric-tank-storage-turnover-rate`
 - **Name:** Tank Storage Turnover Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSTR
 
@@ -18,7 +18,7 @@ A Oil & Gas Downstream & Refining indicator, Tank Storage Turnover Rate (TSTR) q
 ## Formula
 
 ```
-Annual Throughput / Average Tank Inventory
+TSTR = Annual Throughput / Average Tank Inventory
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retail Revenue per Passenger** (RRPP) 
 - **Canonical id:** `dea:metric-retail-revenue-per-passenger`
 - **Name:** Retail Revenue per Passenger
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRPP
 
@@ -22,7 +22,7 @@ Retail revenue per passenger measures non-aeronautical commercial spend per enpl
 ## Formula
 
 ```
-Concession and Duty-Free Revenue / Passengers
+RRPP = Concession and Duty-Free Revenue / Passengers
 ```
 
 ## Unit

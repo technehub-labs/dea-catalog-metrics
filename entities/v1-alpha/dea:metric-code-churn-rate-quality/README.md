@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Churn Rate (Quality)** (CHURNQ) i
 - **Canonical id:** `dea:metric-code-churn-rate-quality`
 - **Name:** Code Churn Rate (Quality)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHURNQ
 
@@ -18,7 +18,7 @@ A Code Quality & Static Analysis indicator, Code Churn Rate (Quality) (CHURNQ) q
 ## Formula
 
 ```
-Lines Rewritten within Window after First Write / Lines
+CHURNQ = Lines Rewritten within Window after First Write / Lines
 ```
 
 ## Unit

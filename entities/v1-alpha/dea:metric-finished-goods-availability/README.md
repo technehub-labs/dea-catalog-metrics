@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finished Goods Availability** (FGA) in
 - **Canonical id:** `dea:metric-finished-goods-availability`
 - **Name:** Finished Goods Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FGA
 
@@ -22,7 +22,7 @@ Measures the share of finished goods demand met from stock at the moment of need
 ## Formula
 
 ```
-Demand Lines Fulfilled from Stock / Demand Lines
+FGA = Demand Lines Fulfilled from Stock / Demand Lines
 ```
 
 ## Unit

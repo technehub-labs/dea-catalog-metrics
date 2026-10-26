@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Screening Throughput Rate** (
 - **Canonical id:** `dea:metric-security-screening-throughput-rate`
 - **Name:** Security Screening Throughput Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSTR
 
@@ -18,7 +18,7 @@ Within Airport Operations (Deep Dive), Security Screening Throughput Rate (SSTR)
 ## Formula
 
 ```
-Passengers Screened per Lane Hour
+SSTR = Passengers Screened per Lane Hour
 ```
 
 ## Unit

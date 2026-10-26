@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technician Training Currency** (TTC-F)
 - **Canonical id:** `dea:metric-technician-training-currency`
 - **Name:** Technician Training Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTC-F
 
@@ -18,7 +18,7 @@ Technician Training Currency (TTC-F) measures capability maturity or development
 ## Formula
 
 ```
-Technicians with Current Certifications / Technicians
+TTC-F = Technicians with Current Certifications / Technicians
 ```
 
 ## Unit

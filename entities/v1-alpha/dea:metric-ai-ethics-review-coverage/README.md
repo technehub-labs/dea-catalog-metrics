@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Ethics Review Coverage** (AIERC) in
 - **Canonical id:** `dea:metric-ai-ethics-review-coverage`
 - **Name:** AI Ethics Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIERC
 
@@ -22,7 +22,7 @@ Measures the share of high-risk or sensitive AI use cases reviewed by an ethics 
 ## Formula
 
 ```
-High-Impact Use Cases Reviewed by Ethics Board / High-Impact Cases
+AIERC = High-Impact Use Cases Reviewed by Ethics Board / High-Impact Cases
 ```
 
 ## Unit

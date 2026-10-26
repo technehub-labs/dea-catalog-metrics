@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Initiative Completion** (SIC
 - **Canonical id:** `dea:metric-strategic-initiative-completion`
 - **Name:** Strategic Initiative Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIC
 
@@ -22,7 +22,7 @@ The share of strategic initiatives completed on their committed timeline - the e
 ## Formula
 
 ```
-Initiatives Completed / Initiatives Planned
+SIC = Initiatives Completed / Initiatives Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Enrollment Rate (Deep D
 - **Canonical id:** `dea:metric-clinical-trial-enrollment-rate-deep-dive`
 - **Name:** Clinical Trial Enrollment Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTER
 
@@ -18,7 +18,7 @@ Within Pharma R&D & Clinical Trials, Clinical Trial Enrollment Rate (Deep Dive) 
 ## Formula
 
 ```
-Enrolled Subjects / Planned Subjects
+CTER = Enrolled Subjects / Planned Subjects
 ```
 
 ## Unit

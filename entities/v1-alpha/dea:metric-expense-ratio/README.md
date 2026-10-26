@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expense Ratio** (ExR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-expense-ratio`
 - **Name:** Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ExR
 
@@ -22,7 +22,7 @@ Underwriting and administrative expenses over earned premium - the cost side of 
 ## Formula
 
 ```
-Underwriting Expenses / Earned Premiums
+ExR = Underwriting Expenses / Earned Premiums
 ```
 
 ## Unit

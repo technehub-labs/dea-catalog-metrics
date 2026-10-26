@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ghost Vacancy Rate** (GVR) in the Open
 - **Canonical id:** `dea:metric-ghost-vacancy-rate`
 - **Name:** Ghost Vacancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GVR
 
@@ -22,7 +22,7 @@ Measures approved requisitions that are actually unstaffed but kept open. It mat
 ## Formula
 
 ```
-Approved Roles Unfilled beyond Target Time / Approved Roles
+GVR = Approved Roles Unfilled beyond Target Time / Approved Roles
 ```
 
 ## Unit

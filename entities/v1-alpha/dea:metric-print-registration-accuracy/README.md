@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Print Registration Accuracy** (PRA-P) 
 - **Canonical id:** `dea:metric-print-registration-accuracy`
 - **Name:** Print Registration Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRA-P
 
@@ -18,7 +18,7 @@ Print Registration Accuracy (PRA-P) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Prints within Registration Tolerance / Prints
+PRA-P = Prints within Registration Tolerance / Prints
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Barrier Exposure Score** (R
 - **Canonical id:** `dea:metric-regulatory-barrier-exposure-score`
 - **Name:** Regulatory Barrier Exposure Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBES
 
@@ -22,7 +22,7 @@ Measures how exposed the market position is to regulatory barriers changing. Bar
 ## Formula
 
 ```
-Weighted Exposure of Market Strategy to Regulatory Constraints
+RBES = Weighted Exposure of Market Strategy to Regulatory Constraints
 ```
 
 ## Unit

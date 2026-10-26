@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Session Check-in Accuracy** (SCIA) in 
 - **Canonical id:** `dea:metric-session-check-in-accuracy`
 - **Name:** Session Check-in Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCIA
 
@@ -18,7 +18,7 @@ Session Check-in Accuracy (SCIA) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Checked-in Sessions Matching Registrations / Sessions
+SCIA = Checked-in Sessions Matching Registrations / Sessions
 ```
 
 ## Unit

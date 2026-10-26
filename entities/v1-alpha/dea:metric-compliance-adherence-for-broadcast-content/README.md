@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Adherence for Broadcast Con
 - **Canonical id:** `dea:metric-compliance-adherence-for-broadcast-content`
 - **Name:** Compliance Adherence for Broadcast Content
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CABC
 
@@ -22,7 +22,7 @@ Measures conformance of broadcast content with regulatory obligations - advertis
 ## Formula
 
 ```
-Items Meeting Regulatory Code / Items Aired
+CABC = Items Meeting Regulatory Code / Items Aired
 ```
 
 ## Unit

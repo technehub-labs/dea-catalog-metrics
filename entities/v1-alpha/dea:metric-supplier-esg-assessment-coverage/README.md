@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier ESG Assessment Coverage** (SE
 - **Canonical id:** `dea:metric-supplier-esg-assessment-coverage`
 - **Name:** Supplier ESG Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SESG
 
@@ -22,7 +22,7 @@ The share of in-scope suppliers assessed against environmental, social, and gove
 ## Formula
 
 ```
-Key Suppliers ESG-Assessed / Key Suppliers
+SESG = Key Suppliers ESG-Assessed / Key Suppliers
 ```
 
 ## Unit

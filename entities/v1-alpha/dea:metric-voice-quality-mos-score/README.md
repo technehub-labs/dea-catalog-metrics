@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice Quality MOS Score** (VQMS) in th
 - **Canonical id:** `dea:metric-voice-quality-mos-score`
 - **Name:** Voice Quality MOS Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VQMS
 
@@ -22,7 +22,7 @@ The Mean Opinion Score, standardized in ITU-T P.800, is the voice quality rating
 ## Formula
 
 ```
-Mean Opinion Score for Voice Sessions
+VQMS = Mean Opinion Score for Voice Sessions
 ```
 
 ## Unit

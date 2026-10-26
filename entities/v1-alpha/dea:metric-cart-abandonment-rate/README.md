@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cart Abandonment Rate** (CAR) in the O
 - **Canonical id:** `dea:metric-cart-abandonment-rate`
 - **Name:** Cart Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR
 
@@ -22,7 +22,7 @@ Measures the share of initiated e-commerce checkouts that do not complete. It ma
 ## Formula
 
 ```
-Abandoned Carts / Carts Created
+CAR = Abandoned Carts / Carts Created
 ```
 
 ## Unit

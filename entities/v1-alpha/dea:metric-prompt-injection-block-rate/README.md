@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prompt Injection Block Rate** (PIBR) i
 - **Canonical id:** `dea:metric-prompt-injection-block-rate`
 - **Name:** Prompt Injection Block Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIBR
 
@@ -22,7 +22,7 @@ Measures the share of injection attacks neutralized by input controls. Prompt in
 ## Formula
 
 ```
-Malicious Prompts Blocked by Guardrails / Malicious Prompts Detected
+PIBR = Malicious Prompts Blocked by Guardrails / Malicious Prompts Detected
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Retention per Stylist** (CRPS) 
 - **Canonical id:** `dea:metric-client-retention-per-stylist`
 - **Name:** Client Retention per Stylist
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRPS
 
@@ -18,7 +18,7 @@ Client Retention per Stylist (CRPS) captures the retention of customers, users, 
 ## Formula
 
 ```
-Returning Clients / Client Base of Stylist
+CRPS = Returning Clients / Client Base of Stylist
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Safety Incidents (Chemicals)**
 - **Canonical id:** `dea:metric-process-safety-incidents-chemicals`
 - **Name:** Process Safety Incidents (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSIC
 
@@ -22,7 +22,7 @@ Process safety incidents in chemicals count loss-of-containment events, fires, a
 ## Formula
 
 ```
-Tier 1 and Tier 2 Process Safety Events per Period
+PSIC = Tier 1 and Tier 2 Process Safety Events per Period
 ```
 
 ## Unit

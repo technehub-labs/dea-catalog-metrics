@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Champion Coverage per Team** 
 - **Canonical id:** `dea:metric-security-champion-coverage-per-team`
 - **Name:** Security Champion Coverage per Team
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCCPT
 
@@ -22,7 +22,7 @@ Measures the proportion of delivery teams with an embedded, trained security adv
 ## Formula
 
 ```
-Teams with Trained Security Champion / Teams
+SCCPT = Teams with Trained Security Champion / Teams
 ```
 
 ## Unit

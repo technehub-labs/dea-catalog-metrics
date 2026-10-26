@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality of Experience Score (Video Str
 - **Canonical id:** `dea:metric-quality-of-experience-score-video-streaming`
 - **Name:** Quality of Experience Score (Video Streaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QoE
 
@@ -22,7 +22,7 @@ Measures technical delivery quality of streaming - start-up time, rebuffering ra
 ## Formula
 
 ```
-Weighted Index of Start Time, Rebuffering, Resolution
+QoE = Weighted Index of Start Time, Rebuffering, Resolution
 ```
 
 ## Unit

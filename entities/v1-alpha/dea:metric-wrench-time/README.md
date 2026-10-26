@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wrench Time** (WT) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-wrench-time`
 - **Name:** Wrench Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WT
 
@@ -18,7 +18,7 @@ Wrench Time (WT) captures how efficiently resources are converted into outputs f
 ## Formula
 
 ```
-Direct Tool-Time / Total Technician Time
+WT = Direct Tool-Time / Total Technician Time
 ```
 
 ## Unit

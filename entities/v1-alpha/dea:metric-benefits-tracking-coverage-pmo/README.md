@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefits Tracking Coverage (PMO)** (BT
 - **Canonical id:** `dea:metric-benefits-tracking-coverage-pmo`
 - **Name:** Benefits Tracking Coverage (PMO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTC-P
 
@@ -22,7 +22,7 @@ Measures the share of PMO-governed initiatives with owned, measurable benefit tr
 ## Formula
 
 ```
-Initiatives with Tracked Benefits / Initiatives Closed
+BTC-P = Initiatives with Tracked Benefits / Initiatives Closed
 ```
 
 ## Unit

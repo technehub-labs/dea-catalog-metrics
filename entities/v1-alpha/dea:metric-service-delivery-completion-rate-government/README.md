@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Delivery Completion Rate (Gove
 - **Canonical id:** `dea:metric-service-delivery-completion-rate-government`
 - **Name:** Service Delivery Completion Rate (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDCR
 
@@ -22,7 +22,7 @@ Measures the share of government service transactions completed within required 
 ## Formula
 
 ```
-Services Delivered within Standard / Services Due
+SDCR = Services Delivered within Standard / Services Due
 ```
 
 ## Unit

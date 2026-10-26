@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Foreign Object Damage Rate** (FODR) in
 - **Canonical id:** `dea:metric-foreign-object-damage-rate`
 - **Name:** Foreign Object Damage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FODR
 
@@ -18,7 +18,7 @@ Within Defense & Aerospace, Foreign Object Damage Rate (FODR) is used to gauge t
 ## Formula
 
 ```
-Foreign Object Damage Events / Flight Hours x 1,000
+FODR = Foreign Object Damage Events / Flight Hours x 1,000
 ```
 
 ## Unit

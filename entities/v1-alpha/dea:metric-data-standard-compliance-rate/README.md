@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Standard Compliance Rate** (DSCR-
 - **Canonical id:** `dea:metric-data-standard-compliance-rate`
 - **Name:** Data Standard Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCR-DG
 
@@ -18,7 +18,7 @@ A Data Governance & Stewardship indicator, Data Standard Compliance Rate (DSCR-D
 ## Formula
 
 ```
-Records Conforming to Defined Standards / Records Sampled
+DSCR-DG = Records Conforming to Defined Standards / Records Sampled
 ```
 
 ## Unit

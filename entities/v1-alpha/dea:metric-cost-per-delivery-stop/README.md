@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Delivery Stop** (CDS) in the 
 - **Canonical id:** `dea:metric-cost-per-delivery-stop`
 - **Name:** Cost per Delivery Stop
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDS
 
@@ -22,7 +22,7 @@ Measures average operating cost for each delivery stop on postal and courier rou
 ## Formula
 
 ```
-Total Delivery Cost / Delivery Stops
+CDS = Total Delivery Cost / Delivery Stops
 ```
 
 ## Unit

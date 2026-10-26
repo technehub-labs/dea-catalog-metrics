@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Platform Engagement Rate** (L
 - **Canonical id:** `dea:metric-learning-platform-engagement-rate`
 - **Name:** Learning Platform Engagement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPER
 
@@ -18,7 +18,7 @@ Learning Platform Engagement Rate (LPER) captures the engagement or satisfaction
 ## Formula
 
 ```
-Monthly Active Learners / Employees
+LPER = Monthly Active Learners / Employees
 ```
 
 ## Unit

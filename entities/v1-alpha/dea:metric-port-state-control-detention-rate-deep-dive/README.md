@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port State Control Detention Rate (Dee
 - **Canonical id:** `dea:metric-port-state-control-detention-rate-deep-dive`
 - **Name:** Port State Control Detention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSCDR
 
@@ -22,7 +22,7 @@ Measures ships detained at foreign port inspections. Detentions are the operatio
 ## Formula
 
 ```
-Detentions / Inspections
+PSCDR = Detentions / Inspections
 ```
 
 ## Unit

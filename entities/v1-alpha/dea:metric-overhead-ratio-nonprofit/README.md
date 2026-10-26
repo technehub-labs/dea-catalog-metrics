@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overhead Ratio (Nonprofit)** (OHR-N) i
 - **Canonical id:** `dea:metric-overhead-ratio-nonprofit`
 - **Name:** Overhead Ratio (Nonprofit)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OHR-N
 
@@ -22,7 +22,7 @@ The nonprofit overhead ratio measures administrative and fundraising costs as a 
 ## Formula
 
 ```
-(Administrative + Fundraising Expenses) / Total Expenses
+OHR-N = (Administrative + Fundraising Expenses) / Total Expenses
 ```
 
 ## Unit

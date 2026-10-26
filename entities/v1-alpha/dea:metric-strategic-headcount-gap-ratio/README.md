@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Headcount Gap Ratio** (SHGR)
 - **Canonical id:** `dea:metric-strategic-headcount-gap-ratio`
 - **Name:** Strategic Headcount Gap Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHGR
 
@@ -22,7 +22,7 @@ Measures the gap between the workforce the strategy requires and the one in plac
 ## Formula
 
 ```
-Critical Capability Roles Unfilled / Critical Capability Roles
+SHGR = Critical Capability Roles Unfilled / Critical Capability Roles
 ```
 
 ## Unit

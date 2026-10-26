@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Toxicity Rate per 1,000 Generations** 
 - **Canonical id:** `dea:metric-toxicity-rate-per-1-000-generations`
 - **Name:** Toxicity Rate per 1,000 Generations
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TOXR
 
@@ -22,7 +22,7 @@ Measures the frequency of harmful, biased, or inappropriate content in outputs. 
 ## Formula
 
 ```
-Generations Flagged Toxic / 1,000 Generations
+TOXR = Generations Flagged Toxic / 1,000 Generations
 ```
 
 ## Unit

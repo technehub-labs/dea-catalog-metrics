@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Constraint Throughput** (CCT)
 - **Canonical id:** `dea:metric-capacity-constraint-throughput`
 - **Name:** Capacity Constraint Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCT
 
@@ -18,7 +18,7 @@ Capacity Constraint Throughput (CCT) measures the utilization or availability of
 ## Formula
 
 ```
-Units through Constraint per Shift
+CCT = Units through Constraint per Shift
 ```
 
 ## Unit

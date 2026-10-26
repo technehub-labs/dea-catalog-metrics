@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Royalty Collection Rate** (RCR-F) in t
 - **Canonical id:** `dea:metric-royalty-collection-rate`
 - **Name:** Royalty Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-F
 
@@ -22,7 +22,7 @@ Measures the share of royalties due that are actually collected. It matters beca
 ## Formula
 
 ```
-Royalties Collected / Royalties Owed
+RCR-F = Royalties Collected / Royalties Owed
 ```
 
 ## Unit

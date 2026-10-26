@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaints per 1,000 Customers (Utilit
 - **Canonical id:** `dea:metric-complaints-per-1-000-customers-utilities`
 - **Name:** Complaints per 1,000 Customers (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCU
 
@@ -22,7 +22,7 @@ Complaints per 1,000 customers measures complaint volume against customer base, 
 ## Formula
 
 ```
-Complaints / Customers x 1,000
+CPCU = Complaints / Customers x 1,000
 ```
 
 ## Unit

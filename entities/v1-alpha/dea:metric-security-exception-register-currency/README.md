@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Exception Register Currency**
 - **Canonical id:** `dea:metric-security-exception-register-currency`
 - **Name:** Security Exception Register Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SEIRC
 
@@ -18,7 +18,7 @@ Security Exception Register Currency (SEIRC) addresses conformance to standards,
 ## Formula
 
 ```
-Exceptions Reviewed within Expiry Window / Exceptions
+SEIRC = Exceptions Reviewed within Expiry Window / Exceptions
 ```
 
 ## Unit

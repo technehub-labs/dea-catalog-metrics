@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credit Score Population Drift** (CSPD)
 - **Canonical id:** `dea:metric-credit-score-population-drift`
 - **Name:** Credit Score Population Drift
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPD
 
@@ -18,7 +18,7 @@ Within Credit & Collections Risk (Enterprise), Credit Score Population Drift (CS
 ## Formula
 
 ```
-Period Shift in Score Distribution of Book vs Origination
+CSPD = Period Shift in Score Distribution of Book vs Origination
 ```
 
 ## Unit

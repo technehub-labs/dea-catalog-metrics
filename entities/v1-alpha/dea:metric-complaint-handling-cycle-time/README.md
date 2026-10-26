@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Handling Cycle Time** (CHCT)
 - **Canonical id:** `dea:metric-complaint-handling-cycle-time`
 - **Name:** Complaint Handling Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHCT
 
@@ -22,7 +22,7 @@ Measures time from medical device complaint receipt to closure. It matters becau
 ## Formula
 
 ```
-Days from Complaint Receipt to Closure
+CHCT = Days from Complaint Receipt to Closure
 ```
 
 ## Unit

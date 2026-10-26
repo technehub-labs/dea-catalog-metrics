@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assumption Validation Rate** (AVR-RE) 
 - **Canonical id:** `dea:metric-assumption-validation-rate`
 - **Name:** Assumption Validation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVR-RE
 
@@ -18,7 +18,7 @@ Assumption Validation Rate (AVR-RE) measures exposure to adverse outcomes in the
 ## Formula
 
 ```
-Assumptions Tested in Discovery / Identified Assumptions
+AVR-RE = Assumptions Tested in Discovery / Identified Assumptions
 ```
 
 ## Unit

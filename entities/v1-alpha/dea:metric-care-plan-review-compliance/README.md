@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Plan Review Compliance** (CPRC) i
 - **Canonical id:** `dea:metric-care-plan-review-compliance`
 - **Name:** Care Plan Review Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPRC
 
@@ -22,7 +22,7 @@ Measures the share of care recipients with current, on-time care plan reviews. I
 ## Formula
 
 ```
-Care Plans Reviewed within Cycle / Care Plans
+CPRC = Care Plans Reviewed within Cycle / Care Plans
 ```
 
 ## Unit

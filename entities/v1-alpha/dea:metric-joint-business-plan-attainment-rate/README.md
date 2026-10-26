@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Joint Business Plan Attainment Rate** 
 - **Canonical id:** `dea:metric-joint-business-plan-attainment-rate`
 - **Name:** Joint Business Plan Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JBPAR
 
@@ -22,7 +22,7 @@ Measures achievement of the co-authored annual plan with each strategic partner.
 ## Formula
 
 ```
-Partner Plans Meeting Agreed Targets / Plans
+JBPAR = Partner Plans Meeting Agreed Targets / Plans
 ```
 
 ## Unit

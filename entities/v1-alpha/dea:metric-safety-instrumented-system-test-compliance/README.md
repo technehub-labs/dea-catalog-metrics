@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Instrumented System Test Compli
 - **Canonical id:** `dea:metric-safety-instrumented-system-test-compliance`
 - **Name:** Safety Instrumented System Test Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SISTC
 
@@ -22,7 +22,7 @@ Measures completion of scheduled proof tests for safety instrumented functions. 
 ## Formula
 
 ```
-SIS Function Tests on Schedule / Required
+SISTC = SIS Function Tests on Schedule / Required
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unsubscribe Rate** (USR) in the OpenDE
 - **Canonical id:** `dea:metric-unsubscribe-rate`
 - **Name:** Unsubscribe Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** USR
 
@@ -18,7 +18,7 @@ Within Marketing, Unsubscribe Rate (USR) is used to gauge exposure to adverse ou
 ## Formula
 
 ```
-Unsubscribes / Emails Delivered
+USR = Unsubscribes / Emails Delivered
 ```
 
 ## Unit

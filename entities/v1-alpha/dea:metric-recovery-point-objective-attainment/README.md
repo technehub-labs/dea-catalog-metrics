@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Point Objective Attainment** 
 - **Canonical id:** `dea:metric-recovery-point-objective-attainment`
 - **Name:** Recovery Point Objective Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPOA
 
@@ -22,7 +22,7 @@ Measures whether data loss in actual incidents stayed within the tolerable recov
 ## Formula
 
 ```
-Recoveries within RPO / Recovery Validations
+RPOA = Recoveries within RPO / Recovery Validations
 ```
 
 ## Unit

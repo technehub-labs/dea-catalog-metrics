@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tenant Retention Rate (Real Estate)** 
 - **Canonical id:** `dea:metric-tenant-retention-rate-real-estate`
 - **Name:** Tenant Retention Rate (Real Estate)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRR-RE
 
@@ -22,7 +22,7 @@ Measures the share of expiring leases renewed. Retention is far cheaper than vac
 ## Formula
 
 ```
-Leases Renewed / Leases Expiring
+TRR-RE = Leases Renewed / Leases Expiring
 ```
 
 ## Unit

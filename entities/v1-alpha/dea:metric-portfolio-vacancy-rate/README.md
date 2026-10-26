@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Vacancy Rate** (PVR) in the 
 - **Canonical id:** `dea:metric-portfolio-vacancy-rate`
 - **Name:** Portfolio Vacancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PVR
 
@@ -22,7 +22,7 @@ The share of portfolio space or units vacant and unleased - the asset-performanc
 ## Formula
 
 ```
-Vacant Leasable Area / Total Leasable Area
+PVR = Vacant Leasable Area / Total Leasable Area
 ```
 
 ## Unit

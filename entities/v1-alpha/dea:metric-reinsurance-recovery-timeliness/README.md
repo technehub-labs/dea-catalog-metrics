@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reinsurance Recovery Timeliness** (RRT
 - **Canonical id:** `dea:metric-reinsurance-recovery-timeliness`
 - **Name:** Reinsurance Recovery Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRT-I
 
@@ -22,7 +22,7 @@ Measures how quickly ceded reinsurance recoveries are collected. It matters beca
 ## Formula
 
 ```
-Reinsurance Recoveries Received by Due Date / Recoveries Due
+RRT-I = Reinsurance Recoveries Received by Due Date / Recoveries Due
 ```
 
 ## Unit

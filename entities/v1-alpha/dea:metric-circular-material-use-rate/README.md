@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Circular Material Use Rate** (CMUR) in
 - **Canonical id:** `dea:metric-circular-material-use-rate`
 - **Name:** Circular Material Use Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMUR
 
@@ -22,7 +22,7 @@ The share of material inputs that come from recycled or reused sources - the cir
 ## Formula
 
 ```
-Secondary Materials / Total Materials Used
+CMUR = Secondary Materials / Total Materials Used
 ```
 
 ## Unit

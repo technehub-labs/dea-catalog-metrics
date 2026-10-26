@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Exposure Window of Vulnerabilitie
 - **Canonical id:** `dea:metric-mean-exposure-window-of-vulnerabilities`
 - **Name:** Mean Exposure Window of Vulnerabilities
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MEV
 
@@ -22,7 +22,7 @@ Measures the average time vulnerabilities remain exploitable before remediation.
 ## Formula
 
 ```
-Mean Days Critical Vulnerabilities Remain Unpatched
+MEV = Mean Days Critical Vulnerabilities Remain Unpatched
 ```
 
 ## Unit

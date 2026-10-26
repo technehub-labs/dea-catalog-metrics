@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Information Ratio** (IR) in the OpenDE
 - **Canonical id:** `dea:metric-information-ratio`
 - **Name:** Information Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IR
 
@@ -22,7 +22,7 @@ The information ratio is a portfolio's active return (return above benchmark) di
 ## Formula
 
 ```
-Active Return / Tracking Error
+IR = Active Return / Tracking Error
 ```
 
 ## Unit

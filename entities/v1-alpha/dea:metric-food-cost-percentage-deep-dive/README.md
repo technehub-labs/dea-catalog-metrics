@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Cost Percentage (Deep Dive)** (FC
 - **Canonical id:** `dea:metric-food-cost-percentage-deep-dive`
 - **Name:** Food Cost Percentage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCP-D
 
@@ -22,7 +22,7 @@ Measures food and beverage cost against food revenue. It is the largest controll
 ## Formula
 
 ```
-Food Cost / Food Sales
+FCP-D = Food Cost / Food Sales
 ```
 
 ## Unit

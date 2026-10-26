@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Available Seat Kilometre** (C
 - **Canonical id:** `dea:metric-cost-per-available-seat-kilometre`
 - **Name:** Cost per Available Seat Kilometre
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CASK
 
@@ -22,7 +22,7 @@ Operating cost divided by available seat-kilometres - the unit-cost metric of av
 ## Formula
 
 ```
-Total Operating Cost / Available Seat Kilometres
+CASK = Total Operating Cost / Available Seat Kilometres
 ```
 
 ## Unit

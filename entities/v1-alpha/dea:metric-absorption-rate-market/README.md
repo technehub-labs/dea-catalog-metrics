@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Absorption Rate (Market)** (ABSR-RE) i
 - **Canonical id:** `dea:metric-absorption-rate-market`
 - **Name:** Absorption Rate (Market)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABSR-RE
 
@@ -22,7 +22,7 @@ Measures how quickly available space is leased or sold in the market. Absorption
 ## Formula
 
 ```
-Units Leased or Sold per Period / Total Available Units
+ABSR-RE = Units Leased or Sold per Period / Total Available Units
 ```
 
 ## Unit

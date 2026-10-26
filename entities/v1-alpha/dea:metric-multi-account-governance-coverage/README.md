@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Account Governance Coverage** (M
 - **Canonical id:** `dea:metric-multi-account-governance-coverage`
 - **Name:** Multi-Account Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAGC-CS
 
@@ -22,7 +22,7 @@ Measures the share of cloud accounts under central guardrails, logging, and acco
 ## Formula
 
 ```
-Accounts under Central Landing Zone Policy / Accounts
+MAGC-CS = Accounts under Central Landing Zone Policy / Accounts
 ```
 
 ## Unit

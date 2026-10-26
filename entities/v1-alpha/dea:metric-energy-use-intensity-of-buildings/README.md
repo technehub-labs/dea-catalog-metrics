@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Use Intensity of Buildings** (E
 - **Canonical id:** `dea:metric-energy-use-intensity-of-buildings`
 - **Name:** Energy Use Intensity of Buildings
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EUI
 
@@ -22,7 +22,7 @@ Energy consumed per unit of floor area, conventionally kilowatt-hours per square
 ## Formula
 
 ```
-Building Energy / Floor Area
+EUI = Building Energy / Floor Area
 ```
 
 ## Unit

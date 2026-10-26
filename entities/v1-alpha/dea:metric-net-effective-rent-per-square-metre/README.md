@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Effective Rent per Square Metre** 
 - **Canonical id:** `dea:metric-net-effective-rent-per-square-metre`
 - **Name:** Net Effective Rent per Square Metre
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NER
 
@@ -22,7 +22,7 @@ Measures rent actually achieved after concessions, free periods, fit-out contrib
 ## Formula
 
 ```
-Net Rent Net of Concessions / Lettable Area
+NER = Net Rent Net of Concessions / Lettable Area
 ```
 
 ## Unit

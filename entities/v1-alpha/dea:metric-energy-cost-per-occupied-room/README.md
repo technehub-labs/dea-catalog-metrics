@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost per Occupied Room** (ECOR)
 - **Canonical id:** `dea:metric-energy-cost-per-occupied-room`
 - **Name:** Energy Cost per Occupied Room
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECOR
 
@@ -18,7 +18,7 @@ Within Hotel & Resort Operations (Deep Dive), Energy Cost per Occupied Room (ECO
 ## Formula
 
 ```
-Energy Cost / Occupied Rooms
+ECOR = Energy Cost / Occupied Rooms
 ```
 
 ## Unit

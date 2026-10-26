@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spare Parts Stockout Rate** (SPS) in t
 - **Canonical id:** `dea:metric-spare-parts-stockout-rate`
 - **Name:** Spare Parts Stockout Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPS
 
@@ -18,7 +18,7 @@ Spare Parts Stockout Rate (SPS) captures exposure to adverse outcomes for organi
 ## Formula
 
 ```
-Critical Spare Stockouts / Spare Parts Demand Events
+SPS = Critical Spare Stockouts / Spare Parts Demand Events
 ```
 
 ## Unit

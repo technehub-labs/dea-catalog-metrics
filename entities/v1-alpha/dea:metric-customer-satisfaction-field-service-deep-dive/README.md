@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction - Field Service 
 - **Canonical id:** `dea:metric-customer-satisfaction-field-service-deep-dive`
 - **Name:** Customer Satisfaction - Field Service (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSFS-D
 
@@ -22,7 +22,7 @@ Measures user-rated satisfaction with field service interactions. Field techs ar
 ## Formula
 
 ```
-Average Field Visit CSAT
+CSFS-D = Average Field Visit CSAT
 ```
 
 ## Unit

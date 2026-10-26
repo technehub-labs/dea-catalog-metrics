@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Target Costing Gap** (TCG) in the Open
 - **Canonical id:** `dea:metric-target-costing-gap`
 - **Name:** Target Costing Gap
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCG
 
@@ -22,7 +22,7 @@ Compares the allowable cost of a product, given its target price and required ma
 ## Formula
 
 ```
-(Target Cost - Current Cost) / Target Cost
+TCG = (Target Cost - Current Cost) / Target Cost
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Owner Assignment Rate** (ROAR-P) 
 - **Canonical id:** `dea:metric-risk-owner-assignment-rate`
 - **Name:** Risk Owner Assignment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROAR-P
 
@@ -18,7 +18,7 @@ A Project Risk & Issue Management indicator, Risk Owner Assignment Rate (ROAR-P)
 ## Formula
 
 ```
-Risks with Named Owner / Open Risks
+ROAR-P = Risks with Named Owner / Open Risks
 ```
 
 ## Unit

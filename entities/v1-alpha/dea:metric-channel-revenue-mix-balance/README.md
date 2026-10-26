@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Revenue Mix Balance** (CRMB) i
 - **Canonical id:** `dea:metric-channel-revenue-mix-balance`
 - **Name:** Channel Revenue Mix Balance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRMB
 
@@ -22,7 +22,7 @@ Measures the distribution of revenue across channel partners and types. Balance 
 ## Formula
 
 ```
-Herfindahl-Based Concentration across Channels
+CRMB = Herfindahl-Based Concentration across Channels
 ```
 
 ## Unit

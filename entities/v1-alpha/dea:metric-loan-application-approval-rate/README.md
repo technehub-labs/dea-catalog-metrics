@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Application Approval Rate** (LAAR
 - **Canonical id:** `dea:metric-loan-application-approval-rate`
 - **Name:** Loan Application Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LAAR
 
@@ -22,7 +22,7 @@ Measures the share of loan applications approved. It matters because it balances
 ## Formula
 
 ```
-Approved Applications / Applications Received
+LAAR = Approved Applications / Applications Received
 ```
 
 ## Unit

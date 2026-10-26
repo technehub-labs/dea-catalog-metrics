@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchandise Revenue per Attendee (Deep
 - **Canonical id:** `dea:metric-merchandise-revenue-per-attendee-deep-dive`
 - **Name:** Merchandise Revenue per Attendee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRPA-D
 
@@ -18,7 +18,7 @@ Within Sports Clubs & Leagues (Deep Dive), Merchandise Revenue per Attendee (Dee
 ## Formula
 
 ```
-Merchandise Revenue / Attendance
+MRPA-D = Merchandise Revenue / Attendance
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Trade Compliance Check Coverage** 
 - **Canonical id:** `dea:metric-pre-trade-compliance-check-coverage`
 - **Name:** Pre-Trade Compliance Check Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTCCC
 
@@ -18,7 +18,7 @@ Within Investment Risk & Middle Office Operations, Pre-Trade Compliance Check Co
 ## Formula
 
 ```
-Orders Screened Pre-Trade / Orders
+PTCCC = Orders Screened Pre-Trade / Orders
 ```
 
 ## Unit

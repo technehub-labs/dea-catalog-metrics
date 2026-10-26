@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Energy Cost per Site** (SECS) in 
 - **Canonical id:** `dea:metric-site-energy-cost-per-site`
 - **Name:** Site Energy Cost per Site
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SECS
 
@@ -22,7 +22,7 @@ Measures average energy cost across telecom network sites. It matters because en
 ## Formula
 
 ```
-Total Network Site Energy Cost / Sites
+SECS = Total Network Site Energy Cost / Sites
 ```
 
 ## Unit

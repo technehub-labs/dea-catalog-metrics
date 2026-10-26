@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Window Adherence** (CWA-NW) in 
 - **Canonical id:** `dea:metric-change-window-adherence`
 - **Name:** Change Window Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CWA-NW
 
@@ -18,7 +18,7 @@ Change Window Adherence (CWA-NW) measures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Changes Completed within Approved Window / Changes
+CWA-NW = Changes Completed within Approved Window / Changes
 ```
 
 ## Unit

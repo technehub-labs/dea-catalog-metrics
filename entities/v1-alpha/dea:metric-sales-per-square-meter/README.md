@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Square Meter** (SPSM) in the
 - **Canonical id:** `dea:metric-sales-per-square-meter`
 - **Name:** Sales per Square Meter
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPSM
 
@@ -22,7 +22,7 @@ Revenue divided by selling area - the foundational productivity metric of physic
 ## Formula
 
 ```
-Revenue / Sales Floor Area
+SPSM = Revenue / Sales Floor Area
 ```
 
 ## Unit

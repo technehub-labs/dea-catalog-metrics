@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Diversity Representation** (DiR) in th
 - **Canonical id:** `dea:metric-diversity-representation`
 - **Name:** Diversity Representation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DiR
 
@@ -22,7 +22,7 @@ The demographic composition of the workforce - conventionally the share of under
 ## Formula
 
 ```
-Underrepresented Group Headcount / Total Headcount
+DiR = Underrepresented Group Headcount / Total Headcount
 ```
 
 ## Unit

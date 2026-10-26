@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Roadmap Delivery Rate** (RDR) in the O
 - **Canonical id:** `dea:metric-roadmap-delivery-rate`
 - **Name:** Roadmap Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDR
 
@@ -22,7 +22,7 @@ Measures the share of committed roadmap items delivered on schedule. It matters 
 ## Formula
 
 ```
-Committed Roadmap Items Delivered / Items Committed
+RDR = Committed Roadmap Items Delivered / Items Committed
 ```
 
 ## Unit

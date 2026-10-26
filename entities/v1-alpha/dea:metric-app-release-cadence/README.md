@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Release Cadence** (ARC-MOB) in the
 - **Canonical id:** `dea:metric-app-release-cadence`
 - **Name:** App Release Cadence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARC-MOB
 
@@ -18,7 +18,7 @@ App Release Cadence (ARC-MOB) measures how efficiently resources are converted i
 ## Formula
 
 ```
-Production App Releases per Month
+ARC-MOB = Production App Releases per Month
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Break-Even Load Factor (Airline)** (BE
 - **Canonical id:** `dea:metric-break-even-load-factor-airline`
 - **Name:** Break-Even Load Factor (Airline)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BELF
 
@@ -22,7 +22,7 @@ Measures the load factor required to cover operating costs. The spread between b
 ## Formula
 
 ```
-Operating Cost per ASK / Revenue per ASK
+BELF = Operating Cost per ASK / Revenue per ASK
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Lead Time Variability** (SLTV
 - **Canonical id:** `dea:metric-supplier-lead-time-variability`
 - **Name:** Supplier Lead Time Variability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLTV
 
@@ -22,7 +22,7 @@ Measures the standard deviation of supplier delivery lead times. It matters beca
 ## Formula
 
 ```
-Standard Deviation of Supplier Lead Time
+SLTV = Standard Deviation of Supplier Lead Time
 ```
 
 ## Unit

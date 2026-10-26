@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Hierarchy Accuracy** (MDHA
 - **Canonical id:** `dea:metric-master-data-hierarchy-accuracy`
 - **Name:** Master Data Hierarchy Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDHA
 
@@ -22,7 +22,7 @@ Measures whether customer, product, and org hierarchies correctly reflect real-w
 ## Formula
 
 ```
-Hierarchy Structures Matching Verified Reality / Hierarchies Sampled
+MDHA = Hierarchy Structures Matching Verified Reality / Hierarchies Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assumption Validation Rate (Projects)*
 - **Canonical id:** `dea:metric-assumption-validation-rate-projects`
 - **Name:** Assumption Validation Rate (Projects)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVR-P
 
@@ -18,7 +18,7 @@ Assumption Validation Rate (Projects) (AVR-P) measures the quality of outputs an
 ## Formula
 
 ```
-Assumptions Validated by Checkpoint / Assumptions
+AVR-P = Assumptions Validated by Checkpoint / Assumptions
 ```
 
 ## Unit

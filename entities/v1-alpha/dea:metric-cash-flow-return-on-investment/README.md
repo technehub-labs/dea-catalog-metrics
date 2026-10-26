@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Flow Return on Investment** (CFRO
 - **Canonical id:** `dea:metric-cash-flow-return-on-investment`
 - **Name:** Cash Flow Return on Investment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFROI
 
@@ -22,7 +22,7 @@ Measures cash operating returns relative to invested capital. CFROI is harder to
 ## Formula
 
 ```
-Cash Flow / Invested Capital
+CFROI = Cash Flow / Invested Capital
 ```
 
 ## Unit

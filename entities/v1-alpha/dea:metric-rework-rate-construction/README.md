@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework Rate (Construction)** (RWR-C) i
 - **Canonical id:** `dea:metric-rework-rate-construction`
 - **Name:** Rework Rate (Construction)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RWR-C
 
@@ -22,7 +22,7 @@ Measures the share of work requiring redoing due to defects or nonconformance. I
 ## Formula
 
 ```
-Value of Rework / Total Contract Value
+RWR-C = Value of Rework / Total Contract Value
 ```
 
 ## Unit

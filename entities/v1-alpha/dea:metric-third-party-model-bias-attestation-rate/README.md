@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party Model Bias Attestation Rat
 - **Canonical id:** `dea:metric-third-party-model-bias-attestation-rate`
 - **Name:** Third-Party Model Bias Attestation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMBAR
 
@@ -22,7 +22,7 @@ Measures the share of external models or AI vendors providing credible bias test
 ## Formula
 
 ```
-Vendor Models with Bias Attestation / Vendor Models
+TMBAR = Vendor Models with Bias Attestation / Vendor Models
 ```
 
 ## Unit

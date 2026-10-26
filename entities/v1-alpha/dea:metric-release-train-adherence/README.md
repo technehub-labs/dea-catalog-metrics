@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Train Adherence** (RTA-CD) in 
 - **Canonical id:** `dea:metric-release-train-adherence`
 - **Name:** Release Train Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTA-CD
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Release Train Adherence (RTA-CD) is use
 ## Formula
 
 ```
-Changes Shipping in Scheduled Release Train / Changes Ready
+RTA-CD = Changes Shipping in Scheduled Release Train / Changes Ready
 ```
 
 ## Unit

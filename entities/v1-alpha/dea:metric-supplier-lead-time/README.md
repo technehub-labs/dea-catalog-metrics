@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Lead Time** (SLT) in the Open
 - **Canonical id:** `dea:metric-supplier-lead-time`
 - **Name:** Supplier Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLT
 
@@ -22,7 +22,7 @@ Measures the average time from purchase order to receipt of goods. It matters be
 ## Formula
 
 ```
-Average Days from PO to Delivery
+SLT = Average Days from PO to Delivery
 ```
 
 ## Unit

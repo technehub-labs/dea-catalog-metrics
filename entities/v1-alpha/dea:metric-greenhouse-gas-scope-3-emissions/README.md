@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Greenhouse Gas Scope 3 Emissions** (GH
 - **Canonical id:** `dea:metric-greenhouse-gas-scope-3-emissions`
 - **Name:** Greenhouse Gas Scope 3 Emissions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GHG3
 
@@ -22,7 +22,7 @@ All other indirect emissions across the value chain - purchased goods and servic
 ## Formula
 
 ```
-All Other Indirect Value-Chain Emissions
+GHG3 = All Other Indirect Value-Chain Emissions
 ```
 
 ## Unit

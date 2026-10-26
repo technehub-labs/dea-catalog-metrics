@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Educational Program Reach** (EPR-A) in
 - **Canonical id:** `dea:metric-educational-program-reach`
 - **Name:** Educational Program Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPR-A
 
@@ -22,7 +22,7 @@ Educational program reach measures participation in arts education programming -
 ## Formula
 
 ```
-Participants in Education Programs per Period
+EPR-A = Participants in Education Programs per Period
 ```
 
 ## Unit

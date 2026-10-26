@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ridership Growth Rate** (RGR-T) in the
 - **Canonical id:** `dea:metric-ridership-growth-rate`
 - **Name:** Ridership Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RGR-T
 
@@ -22,7 +22,7 @@ Ridership growth measures the change in passenger trips, and it is the transit m
 ## Formula
 
 ```
-(Ridership_current - Ridership_prior) / Ridership_prior
+RGR-T = (Ridership_current - Ridership_prior) / Ridership_prior
 ```
 
 ## Unit

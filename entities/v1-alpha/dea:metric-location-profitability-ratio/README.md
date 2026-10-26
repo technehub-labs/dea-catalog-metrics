@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Location Profitability Ratio** (LPR) i
 - **Canonical id:** `dea:metric-location-profitability-ratio`
 - **Name:** Location Profitability Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPR
 
@@ -22,7 +22,7 @@ Location profitability ratio compares unit-level profit against system benchmark
 ## Formula
 
 ```
-Profitable Locations / Total Locations
+LPR = Profitable Locations / Total Locations
 ```
 
 ## Unit

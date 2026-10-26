@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimate Accuracy - Cost** (EAC-PM) in
 - **Canonical id:** `dea:metric-estimate-accuracy-cost`
 - **Name:** Estimate Accuracy - Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EAC-PM
 
@@ -22,7 +22,7 @@ Measures the historical reliability of project cost estimates. Systematic under-
 ## Formula
 
 ```
-Actual Cost / Estimated Cost at Completion
+EAC-PM = Actual Cost / Estimated Cost at Completion
 ```
 
 ## Unit

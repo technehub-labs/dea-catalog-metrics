@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Reserve Accuracy (Initial)** (CR
 - **Canonical id:** `dea:metric-claim-reserve-accuracy-initial`
 - **Name:** Claim Reserve Accuracy (Initial)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRAI
 
@@ -18,7 +18,7 @@ Within Insurance Claims Deep Dive, Claim Reserve Accuracy (Initial) (CRAI) is us
 ## Formula
 
 ```
-Ultimate Claim Cost / Initial Reserve
+CRAI = Ultimate Claim Cost / Initial Reserve
 ```
 
 ## Unit

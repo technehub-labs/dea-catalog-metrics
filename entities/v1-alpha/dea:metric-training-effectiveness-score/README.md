@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Effectiveness Score** (TES) i
 - **Canonical id:** `dea:metric-training-effectiveness-score`
 - **Name:** Training Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TES
 
@@ -22,7 +22,7 @@ Measures whether training changed knowledge, behavior, or results, not just atte
 ## Formula
 
 ```
-Post-Training Assessment Score Improvement
+TES = Post-Training Assessment Score Improvement
 ```
 
 ## Unit

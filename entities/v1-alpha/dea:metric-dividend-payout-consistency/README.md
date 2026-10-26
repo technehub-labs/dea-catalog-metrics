@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dividend Payout Consistency** (DPC-BSC
 - **Canonical id:** `dea:metric-dividend-payout-consistency`
 - **Name:** Dividend Payout Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPC-BSC
 
@@ -22,7 +22,7 @@ Measures the reliability of dividend payments over time. Consistency is priced b
 ## Formula
 
 ```
-Dividends Paid as Planned / Planned
+DPC-BSC = Dividends Paid as Planned / Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Replacement Ratio (Deep Dive)*
 - **Canonical id:** `dea:metric-reserve-replacement-ratio-deep-dive`
 - **Name:** Reserve Replacement Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRR-M
 
@@ -22,7 +22,7 @@ Measures additions to reserves against production in the period. Sustained sub-1
 ## Formula
 
 ```
-New Reserves Added / Reserves Depleted
+RRR-M = New Reserves Added / Reserves Depleted
 ```
 
 ## Unit

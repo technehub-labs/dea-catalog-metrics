@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Meeting Attendance Rate** (BMAR)
 - **Canonical id:** `dea:metric-board-meeting-attendance-rate`
 - **Name:** Board Meeting Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BMAR
 
@@ -22,7 +22,7 @@ Board meeting attendance measures director presence at scheduled meetings, and i
 ## Formula
 
 ```
-Director Attendances / Seats on Meetings Held
+BMAR = Director Attendances / Seats on Meetings Held
 ```
 
 ## Unit

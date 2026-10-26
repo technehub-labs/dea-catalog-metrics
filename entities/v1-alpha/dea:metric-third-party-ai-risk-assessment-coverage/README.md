@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party AI Risk Assessment Coverag
 - **Canonical id:** `dea:metric-third-party-ai-risk-assessment-coverage`
 - **Name:** Third-Party AI Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAIRA
 
@@ -22,7 +22,7 @@ Measures the share of AI-enabled third-party tools assessed against AI risk stan
 ## Formula
 
 ```
-Vendor AI Tools Assessed / Tools in Use
+TAIRA = Vendor AI Tools Assessed / Tools in Use
 ```
 
 ## Unit

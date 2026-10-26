@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Signal Coverage (SRE)** (GSCOV)
 - **Canonical id:** `dea:metric-golden-signal-coverage-sre`
 - **Name:** Golden Signal Coverage (SRE)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSCOV
 
@@ -22,7 +22,7 @@ Measures how completely the four golden signals (latency, traffic, errors, satur
 ## Formula
 
 ```
-Services Instrumented for Latency, Traffic, Errors, Saturation / Services
+GSCOV = Services Instrumented for Latency, Traffic, Errors, Saturation / Services
 ```
 
 ## Unit

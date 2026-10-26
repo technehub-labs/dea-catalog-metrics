@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Assets Ratio (Deep Dive)** (DA
 - **Canonical id:** `dea:metric-debt-to-assets-ratio-deep-dive`
 - **Name:** Debt-to-Assets Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DARDD
 
@@ -22,7 +22,7 @@ Measures the proportion of the asset base financed by debt. It shows who really 
 ## Formula
 
 ```
-Total Debt / Total Assets
+DARDD = Total Debt / Total Assets
 ```
 
 ## Unit

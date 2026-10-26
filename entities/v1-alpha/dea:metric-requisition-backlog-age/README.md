@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requisition Backlog Age** (RBA-TA) in 
 - **Canonical id:** `dea:metric-requisition-backlog-age`
 - **Name:** Requisition Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBA-TA
 
@@ -18,7 +18,7 @@ A Talent Acquisition Deep Dive indicator, Requisition Backlog Age (RBA-TA) quant
 ## Formula
 
 ```
-Average Age of Unfilled Open Requisitions
+RBA-TA = Average Age of Unfilled Open Requisitions
 ```
 
 ## Unit

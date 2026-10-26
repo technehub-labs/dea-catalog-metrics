@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Article Reuse Rate** (KARR) 
 - **Canonical id:** `dea:metric-knowledge-article-reuse-rate`
 - **Name:** Knowledge Article Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KARR
 
@@ -18,7 +18,7 @@ Knowledge Article Reuse Rate (KARR) addresses the economic value created or pres
 ## Formula
 
 ```
-Article Views Leading to Reuse / Views
+KARR = Article Views Leading to Reuse / Views
 ```
 
 ## Unit

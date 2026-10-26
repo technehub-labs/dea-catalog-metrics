@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assistant Deflection Value** (ADV-LLM)
 - **Canonical id:** `dea:metric-assistant-deflection-value`
 - **Name:** Assistant Deflection Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADV-LLM
 
@@ -22,7 +22,7 @@ Measures the economic value of work deflected from human channels by AI assistan
 ## Formula
 
 ```
-Human Contact Cost Avoided by AI Resolution
+ADV-LLM = Human Contact Cost Avoided by AI Resolution
 ```
 
 ## Unit

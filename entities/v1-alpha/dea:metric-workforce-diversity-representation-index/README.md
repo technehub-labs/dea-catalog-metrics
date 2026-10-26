@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Diversity Representation Ind
 - **Canonical id:** `dea:metric-workforce-diversity-representation-index`
 - **Name:** Workforce Diversity Representation Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WDRI
 
@@ -22,7 +22,7 @@ Measures the composition of the workforce across demographic dimensions. Represe
 ## Formula
 
 ```
-Composite Representation across Levels vs Labor Market
+WDRI = Composite Representation across Levels vs Labor Market
 ```
 
 ## Unit

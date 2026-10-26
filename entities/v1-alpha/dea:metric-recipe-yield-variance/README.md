@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recipe Yield Variance** (RYV) in the O
 - **Canonical id:** `dea:metric-recipe-yield-variance`
 - **Name:** Recipe Yield Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RYV
 
@@ -18,7 +18,7 @@ Recipe Yield Variance (RYV) addresses how efficiently resources are converted in
 ## Formula
 
 ```
-Actual Yield - Standard Yield / Standard Yield
+RYV = Actual Yield - Standard Yield / Standard Yield
 ```
 
 ## Unit

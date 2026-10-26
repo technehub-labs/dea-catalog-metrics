@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel per 1,000 Gross Tonne Kilometres*
 - **Canonical id:** `dea:metric-fuel-per-1-000-gross-tonne-kilometres`
 - **Name:** Fuel per 1,000 Gross Tonne Kilometres
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FGTK
 
@@ -18,7 +18,7 @@ Fuel per 1,000 Gross Tonne Kilometres (FGTK) addresses how efficiently resources
 ## Formula
 
 ```
-Fuel / 1,000 GTK
+FGTK = Fuel / 1,000 GTK
 ```
 
 ## Unit

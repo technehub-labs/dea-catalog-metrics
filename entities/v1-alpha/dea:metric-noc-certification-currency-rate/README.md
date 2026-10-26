@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Certification Currency Rate** (NCC
 - **Canonical id:** `dea:metric-noc-certification-currency-rate`
 - **Name:** NOC Certification Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCCR
 
@@ -18,7 +18,7 @@ NOC Certification Currency Rate (NCCR) captures capability maturity or developme
 ## Formula
 
 ```
-Engineers with Current Certifications / Engineers
+NCCR = Engineers with Current Certifications / Engineers
 ```
 
 ## Unit

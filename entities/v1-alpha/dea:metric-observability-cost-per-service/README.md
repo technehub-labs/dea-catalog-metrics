@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Observability Cost per Service** (OCS-
 - **Canonical id:** `dea:metric-observability-cost-per-service`
 - **Name:** Observability Cost per Service
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCS-SRE
 
@@ -18,7 +18,7 @@ Observability Cost per Service (OCS-SRE) addresses how efficiently resources are
 ## Formula
 
 ```
-Telemetry Spend per Service per Month
+OCS-SRE = Telemetry Spend per Service per Month
 ```
 
 ## Unit

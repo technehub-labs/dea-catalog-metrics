@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Code Compliance Score** (GC
 - **Canonical id:** `dea:metric-governance-code-compliance-score`
 - **Name:** Governance Code Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GCCS
 
@@ -22,7 +22,7 @@ Governance code compliance scores measure adherence to the national or listing g
 ## Formula
 
 ```
-Complied Code Provisions / Applicable Provisions
+GCCS = Complied Code Provisions / Applicable Provisions
 ```
 
 ## Unit

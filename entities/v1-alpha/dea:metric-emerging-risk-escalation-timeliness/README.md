@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emerging Risk Escalation Timeliness** 
 - **Canonical id:** `dea:metric-emerging-risk-escalation-timeliness`
 - **Name:** Emerging Risk Escalation Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERET
 
@@ -22,7 +22,7 @@ Measures whether assessed emerging risks reach decision-makers within required w
 ## Formula
 
 ```
-Emerging Risks Escalated within Threshold / Risks Meeting Criteria
+ERET = Emerging Risks Escalated within Threshold / Risks Meeting Criteria
 ```
 
 ## Unit

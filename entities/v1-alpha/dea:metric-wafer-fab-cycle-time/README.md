@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wafer Fab Cycle Time** (WFCT) in the O
 - **Canonical id:** `dea:metric-wafer-fab-cycle-time`
 - **Name:** Wafer Fab Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WFCT
 
@@ -22,7 +22,7 @@ Wafer fab cycle time measures days from wafer start to finished wafer, and it is
 ## Formula
 
 ```
-Days from Wafer Start to Finished Wafer
+WFCT = Days from Wafer Start to Finished Wafer
 ```
 
 ## Unit

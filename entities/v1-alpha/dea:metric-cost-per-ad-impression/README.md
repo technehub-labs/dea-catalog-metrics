@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Ad-Impression** (CPM) in the 
 - **Canonical id:** `dea:metric-cost-per-ad-impression`
 - **Name:** Cost per Ad-Impression
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPM
 
@@ -18,7 +18,7 @@ A Media & Entertainment indicator, Cost per Ad-Impression (CPM) quantifies how e
 ## Formula
 
 ```
-Ad Campaign Cost / Impressions x 1,000
+CPM = Ad Campaign Cost / Impressions x 1,000
 ```
 
 ## Unit

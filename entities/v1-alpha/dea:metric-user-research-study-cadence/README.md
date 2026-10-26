@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Research Study Cadence** (URSC) i
 - **Canonical id:** `dea:metric-user-research-study-cadence`
 - **Name:** User Research Study Cadence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** URSC
 
@@ -18,7 +18,7 @@ User Research Study Cadence (URSC) addresses capability maturity or development 
 ## Formula
 
 ```
-Studies Executed per Quarter
+URSC = Studies Executed per Quarter
 ```
 
 ## Unit

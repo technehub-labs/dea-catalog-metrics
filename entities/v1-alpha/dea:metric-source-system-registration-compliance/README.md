@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Source System Registration Compliance*
 - **Canonical id:** `dea:metric-source-system-registration-compliance`
 - **Name:** Source System Registration Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRC-MD
 
@@ -18,7 +18,7 @@ Within Master Data Management, Source System Registration Compliance (SSRC-MD) i
 ## Formula
 
 ```
-Registered Sources of Master Data / Actual Sources
+SSRC-MD = Registered Sources of Master Data / Actual Sources
 ```
 
 ## Unit

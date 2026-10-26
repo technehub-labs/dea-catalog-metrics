@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Best Possible DSO Gap** (BPDG) in the 
 - **Canonical id:** `dea:metric-best-possible-dso-gap`
 - **Name:** Best Possible DSO Gap
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BPDG
 
@@ -22,7 +22,7 @@ Measures the gap between actual DSO and the theoretical minimum given payment te
 ## Formula
 
 ```
-DSO minus Best Possible DSO
+BPDG = DSO minus Best Possible DSO
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Through Visibility Rate** (STVR) 
 - **Canonical id:** `dea:metric-sell-through-visibility-rate`
 - **Name:** Sell-Through Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STVR
 
@@ -18,7 +18,7 @@ Sell-Through Visibility Rate (STVR) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Partners Reporting Sell-Through Data / Required Partners
+STVR = Partners Reporting Sell-Through Data / Required Partners
 ```
 
 ## Unit

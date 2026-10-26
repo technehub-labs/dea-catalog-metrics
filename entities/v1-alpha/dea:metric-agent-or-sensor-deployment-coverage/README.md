@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent or Sensor Deployment Coverage** 
 - **Canonical id:** `dea:metric-agent-or-sensor-deployment-coverage`
 - **Name:** Agent or Sensor Deployment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASDC
 
@@ -18,7 +18,7 @@ A Vulnerability & Exposure Management indicator, Agent or Sensor Deployment Cove
 ## Formula
 
 ```
-Endpoints with Vulnerability Agent / Endpoints
+ASDC = Endpoints with Vulnerability Agent / Endpoints
 ```
 
 ## Unit

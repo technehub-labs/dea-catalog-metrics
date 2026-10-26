@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idea-to-Launch Conversion** (I2L) in t
 - **Canonical id:** `dea:metric-idea-to-launch-conversion`
 - **Name:** Idea-to-Launch Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** I2L
 
@@ -22,7 +22,7 @@ The share of submitted ideas that survive to launched products - the funnel-effi
 ## Formula
 
 ```
-Ideas Reaching Launch / Ideas Submitted
+I2L = Ideas Reaching Launch / Ideas Submitted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bias Remediation Closure Rate** (BRCR-
 - **Canonical id:** `dea:metric-bias-remediation-closure-rate`
 - **Name:** Bias Remediation Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRCR-AI
 
@@ -22,7 +22,7 @@ Measures the share of identified bias findings actually remediated within target
 ## Formula
 
 ```
-Bias Findings Remediated by Deadline / Findings
+BRCR-AI = Bias Findings Remediated by Deadline / Findings
 ```
 
 ## Unit

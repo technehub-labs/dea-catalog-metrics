@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Balance Ratio** (PBR) in the
 - **Canonical id:** `dea:metric-portfolio-balance-ratio`
 - **Name:** Portfolio Balance Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBR
 
@@ -22,7 +22,7 @@ The distribution of the portfolio across intended categories - conventionally th
 ## Formula
 
 ```
-Growth Investment / Maintenance Investment
+PBR = Growth Investment / Maintenance Investment
 ```
 
 ## Unit

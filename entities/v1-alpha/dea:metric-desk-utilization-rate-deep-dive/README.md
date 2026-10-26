@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Desk Utilization Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-desk-utilization-rate-deep-dive`
 - **Name:** Desk Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DUR-D
 
@@ -22,7 +22,7 @@ Measures share of desks in active use during occupied hours. Desk-level utilizat
 ## Formula
 
 ```
-Days Desks Used / Days Desks Available
+DUR-D = Days Desks Used / Days Desks Available
 ```
 
 ## Unit

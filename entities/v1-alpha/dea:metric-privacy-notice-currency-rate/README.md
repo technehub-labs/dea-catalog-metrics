@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Notice Currency Rate** (PNCR) 
 - **Canonical id:** `dea:metric-privacy-notice-currency-rate`
 - **Name:** Privacy Notice Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PNCR
 
@@ -18,7 +18,7 @@ Privacy Notice Currency Rate (PNCR) captures conformance to standards, plans, or
 ## Formula
 
 ```
-Notices Updated within Change Window / Notices Requiring Update
+PNCR = Notices Updated within Change Window / Notices Requiring Update
 ```
 
 ## Unit

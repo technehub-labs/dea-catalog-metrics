@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Mix Diversification Index** (MMD
 - **Canonical id:** `dea:metric-media-mix-diversification-index`
 - **Name:** Media Mix Diversification Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MMDI
 
@@ -18,7 +18,7 @@ Media Mix Diversification Index (MMDI) addresses exposure to adverse outcomes an
 ## Formula
 
 ```
-Spend Concentration across Channels (Herfindahl-based)
+MMDI = Spend Concentration across Channels (Herfindahl-based)
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added (Standard Measure
 - **Canonical id:** `dea:metric-economic-value-added-standard-measure`
 - **Name:** Economic Value Added (Standard Measure)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EVA
 
@@ -22,7 +22,7 @@ Measures operating profit less the full charge for capital employed. EVA convert
 ## Formula
 
 ```
-NOPAT - (Invested Capital x WACC)
+EVA = NOPAT - (Invested Capital x WACC)
 ```
 
 ## Unit

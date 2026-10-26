@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Acceptance Criteria Verification Cover
 - **Canonical id:** `dea:metric-acceptance-criteria-verification-coverage`
 - **Name:** Acceptance Criteria Verification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACVC-QA
 
@@ -18,7 +18,7 @@ Acceptance Criteria Verification Coverage (ACVC-QA) addresses conformance to sta
 ## Formula
 
 ```
-Acceptance Criteria Verified by Tests / Criteria
+ACVC-QA = Acceptance Criteria Verified by Tests / Criteria
 ```
 
 ## Unit

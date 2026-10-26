@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Adherence (Assembly Deep Dive)** 
 - **Canonical id:** `dea:metric-takt-adherence-assembly-deep-dive`
 - **Name:** Takt Adherence (Assembly Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TA-D
 
@@ -18,7 +18,7 @@ Within Automotive Manufacturing (Deep Dive), Takt Adherence (Assembly Deep Dive)
 ## Formula
 
 ```
-Stations Completing within Takt / Stations
+TA-D = Stations Completing within Takt / Stations
 ```
 
 ## Unit

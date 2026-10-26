@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Card Fraud Rate Basis Points** (CFRB) 
 - **Canonical id:** `dea:metric-card-fraud-rate-basis-points`
 - **Name:** Card Fraud Rate Basis Points
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFRB
 
@@ -22,7 +22,7 @@ Measures card fraud losses as basis points of transaction volume. It is the indu
 ## Formula
 
 ```
-Fraud Value / Transaction Value
+CFRB = Fraud Value / Transaction Value
 ```
 
 ## Unit

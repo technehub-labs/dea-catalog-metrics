@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Update Cycle Compliance** (MUCC-
 - **Canonical id:** `dea:metric-model-update-cycle-compliance`
 - **Name:** Model Update Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MUCC-RS
 
@@ -18,7 +18,7 @@ Model Update Cycle Compliance (MUCC-RS) captures the quality of outputs and outc
 ## Formula
 
 ```
-Coverage Models Refreshed per Schedule / Due
+MUCC-RS = Coverage Models Refreshed per Schedule / Due
 ```
 
 ## Unit

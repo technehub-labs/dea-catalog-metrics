@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Price Elasticity** (CPE) in the 
 - **Canonical id:** `dea:metric-cross-price-elasticity`
 - **Name:** Cross-Price Elasticity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPE
 
@@ -18,7 +18,7 @@ Cross-Price Elasticity (CPE) captures the economic value created or preserved fo
 ## Formula
 
 ```
-Percent Change in Quantity / Percent Change in Related Price
+CPE = Percent Change in Quantity / Percent Change in Related Price
 ```
 
 ## Unit

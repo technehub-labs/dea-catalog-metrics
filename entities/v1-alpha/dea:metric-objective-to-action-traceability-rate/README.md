@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Objective-to-Action Traceability Rate*
 - **Canonical id:** `dea:metric-objective-to-action-traceability-rate`
 - **Name:** Objective-to-Action Traceability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTATR
 
@@ -22,7 +22,7 @@ Measures whether each objective can be traced to concrete initiatives and work i
 ## Formula
 
 ```
-Initiatives Traced to Objectives / Initiatives
+OTATR = Initiatives Traced to Objectives / Initiatives
 ```
 
 ## Unit

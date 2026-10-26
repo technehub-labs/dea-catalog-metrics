@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monitoring Visit Adherence** (MVA-P) i
 - **Canonical id:** `dea:metric-monitoring-visit-adherence`
 - **Name:** Monitoring Visit Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVA-P
 
@@ -18,7 +18,7 @@ Within Pharma R&D & Clinical Trials, Monitoring Visit Adherence (MVA-P) is used 
 ## Formula
 
 ```
-Monitoring Visits Completed per Schedule / Planned
+MVA-P = Monitoring Visits Completed per Schedule / Planned
 ```
 
 ## Unit

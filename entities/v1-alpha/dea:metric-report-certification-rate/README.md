@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Report Certification Rate** (RCR-DS) i
 - **Canonical id:** `dea:metric-report-certification-rate`
 - **Name:** Report Certification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-DS
 
@@ -18,7 +18,7 @@ Report Certification Rate (RCR-DS) captures conformance to standards, plans, or 
 ## Formula
 
 ```
-Reports Certified by Governance / Reports Published
+RCR-DS = Reports Certified by Governance / Reports Published
 ```
 
 ## Unit

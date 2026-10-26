@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate - LLM to Human** (ERLH
 - **Canonical id:** `dea:metric-escalation-rate-llm-to-human`
 - **Name:** Escalation Rate - LLM to Human
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERLH
 
@@ -18,7 +18,7 @@ A Generative AI & LLM Operations indicator, Escalation Rate - LLM to Human (ERLH
 ## Formula
 
 ```
-Conversations Escalated to Human / Conversations
+ERLH = Conversations Escalated to Human / Conversations
 ```
 
 ## Unit

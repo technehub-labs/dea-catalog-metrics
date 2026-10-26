@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seat Occupancy (Rail)** (SO-R) in the 
 - **Canonical id:** `dea:metric-seat-occupancy-rail`
 - **Name:** Seat Occupancy (Rail)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SO-R
 
@@ -22,7 +22,7 @@ Seat occupancy measures passengers against seat capacity, and it is the yield me
 ## Formula
 
 ```
-Passenger Kilometres Travelled / Seat Kilometres Offered
+SO-R = Passenger Kilometres Travelled / Seat Kilometres Offered
 ```
 
 ## Unit

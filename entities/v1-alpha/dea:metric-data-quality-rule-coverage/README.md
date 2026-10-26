@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Rule Coverage** (DQRULE) 
 - **Canonical id:** `dea:metric-data-quality-rule-coverage`
 - **Name:** Data Quality Rule Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQRULE
 
@@ -18,7 +18,7 @@ Data Quality Rule Coverage (DQRULE) measures conformance to standards, plans, or
 ## Formula
 
 ```
-Data Assets with Active Quality Rules / Data Assets
+DQRULE = Data Assets with Active Quality Rules / Data Assets
 ```
 
 ## Unit

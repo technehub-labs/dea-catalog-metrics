@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Footfall** (FF) in the OpenDEAM Metric
 - **Canonical id:** `dea:metric-footfall`
 - **Name:** Footfall
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FF
 
@@ -18,7 +18,7 @@ Within Retail & E-commerce, Footfall (FF) is used to gauge the utilization or av
 ## Formula
 
 ```
-Customer Visits per Period
+FF = Customer Visits per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freedom of Information Response Timeli
 - **Canonical id:** `dea:metric-freedom-of-information-response-timeliness`
 - **Name:** Freedom of Information Response Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FOIRT
 
@@ -22,7 +22,7 @@ Measures whether FOI requests are answered within statutory deadlines. Timelines
 ## Formula
 
 ```
-Requests Answered within Statutory Deadline / Requests
+FOIRT = Requests Answered within Statutory Deadline / Requests
 ```
 
 ## Unit

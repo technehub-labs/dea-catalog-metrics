@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Partner Escalation Rate** (BP
 - **Canonical id:** `dea:metric-business-partner-escalation-rate`
 - **Name:** Business Partner Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BPER
 
@@ -18,7 +18,7 @@ Business Partner Escalation Rate (BPER) addresses the quality of outputs and out
 ## Formula
 
 ```
-Escalations to Business Partner / Total Requests
+BPER = Escalations to Business Partner / Total Requests
 ```
 
 ## Unit

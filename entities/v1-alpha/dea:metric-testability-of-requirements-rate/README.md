@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Testability of Requirements Rate** (TO
 - **Canonical id:** `dea:metric-testability-of-requirements-rate`
 - **Name:** Testability of Requirements Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TORR-RE
 
@@ -18,7 +18,7 @@ A Requirements Engineering & Product Discovery indicator, Testability of Require
 ## Formula
 
 ```
-Requirements Written as Testable Statements / Requirements
+TORR-RE = Requirements Written as Testable Statements / Requirements
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Contact Rate** (RCR-CC) in the 
 - **Canonical id:** `dea:metric-repeat-contact-rate`
 - **Name:** Repeat Contact Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-CC
 
@@ -22,7 +22,7 @@ Measures the share of customers contacting again about the same issue within a w
 ## Formula
 
 ```
-Contacts Requiring More than One Interaction / Total Contact Reasons
+RCR-CC = Contacts Requiring More than One Interaction / Total Contact Reasons
 ```
 
 ## Unit

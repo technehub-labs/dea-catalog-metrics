@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transfer Rate** (TRF) in the OpenDEAM 
 - **Canonical id:** `dea:metric-transfer-rate`
 - **Name:** Transfer Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRF
 
@@ -18,7 +18,7 @@ Transfer Rate (TRF) captures the quality of outputs and outcomes for organizatio
 ## Formula
 
 ```
-Transferred Calls / Total Calls
+TRF = Transferred Calls / Total Calls
 ```
 
 ## Unit

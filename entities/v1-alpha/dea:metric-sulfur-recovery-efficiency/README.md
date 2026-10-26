@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sulfur Recovery Efficiency** (SRE) in 
 - **Canonical id:** `dea:metric-sulfur-recovery-efficiency`
 - **Name:** Sulfur Recovery Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRE
 
@@ -22,7 +22,7 @@ Measures sulfur recovery unit performance against design and permit requirements
 ## Formula
 
 ```
-Sulfur Recovered / Sulfur in Feed
+SRE = Sulfur Recovered / Sulfur in Feed
 ```
 
 ## Unit

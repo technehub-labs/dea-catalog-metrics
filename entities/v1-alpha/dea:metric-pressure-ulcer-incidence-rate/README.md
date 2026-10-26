@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pressure Ulcer Incidence Rate** (PUIR)
 - **Canonical id:** `dea:metric-pressure-ulcer-incidence-rate`
 - **Name:** Pressure Ulcer Incidence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PUIR
 
@@ -22,7 +22,7 @@ Pressure ulcer incidence measures new pressure injuries developing in the facili
 ## Formula
 
 ```
-New Pressure Ulcers / Resident Days x 1,000
+PUIR = New Pressure Ulcers / Resident Days x 1,000
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Tonne Collected** (CPTC) in t
 - **Canonical id:** `dea:metric-cost-per-tonne-collected`
 - **Name:** Cost per Tonne Collected
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPTC
 
@@ -22,7 +22,7 @@ Cost per tonne collected is the unit economics of waste collection - collection 
 ## Formula
 
 ```
-Total Service Cost / Tonnes Collected
+CPTC = Total Service Cost / Tonnes Collected
 ```
 
 ## Unit

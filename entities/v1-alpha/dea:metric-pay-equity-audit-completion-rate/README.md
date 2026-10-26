@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pay Equity Audit Completion Rate** (PE
 - **Canonical id:** `dea:metric-pay-equity-audit-completion-rate`
 - **Name:** Pay Equity Audit Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEACR
 
@@ -22,7 +22,7 @@ Measures whether required pay equity analyses are completed on schedule with rig
 ## Formula
 
 ```
-Audits Completed per Mandated Cycle / Mandated Audits
+PEACR = Audits Completed per Mandated Cycle / Mandated Audits
 ```
 
 ## Unit

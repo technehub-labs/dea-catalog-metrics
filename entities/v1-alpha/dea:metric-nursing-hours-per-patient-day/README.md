@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Nursing Hours per Patient Day** (NHPPD
 - **Canonical id:** `dea:metric-nursing-hours-per-patient-day`
 - **Name:** Nursing Hours per Patient Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NHPPD
 
@@ -18,7 +18,7 @@ Nursing Hours per Patient Day (NHPPD) addresses the utilization or availability 
 ## Formula
 
 ```
-Nursing Care Hours / Patient Days
+NHPPD = Nursing Care Hours / Patient Days
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Session Length** (SGL) in the OpenDEAM
 - **Canonical id:** `dea:metric-session-length`
 - **Name:** Session Length
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGL
 
@@ -18,7 +18,7 @@ Session Length (SGL) addresses the engagement or satisfaction of the people invo
 ## Formula
 
 ```
-Total Play Time / Sessions
+SGL = Total Play Time / Sessions
 ```
 
 ## Unit

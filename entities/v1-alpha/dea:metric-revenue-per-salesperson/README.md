@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Salesperson** (RPS) in the
 - **Canonical id:** `dea:metric-revenue-per-salesperson`
 - **Name:** Revenue per Salesperson
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPS
 
@@ -22,7 +22,7 @@ Measures average bookings or revenue generated per quota-carrying rep. It matter
 ## Formula
 
 ```
-Total Revenue / Number of Salespeople
+RPS = Total Revenue / Number of Salespeople
 ```
 
 ## Unit

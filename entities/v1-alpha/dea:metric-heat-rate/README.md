@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Heat Rate** (HR) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-heat-rate`
 - **Name:** Heat Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HR
 
@@ -22,7 +22,7 @@ The fuel-energy input required per unit of electricity generated - the inverse-f
 ## Formula
 
 ```
-Fuel Energy Input per Unit of Electricity Generated
+HR = Fuel Energy Input per Unit of Electricity Generated
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Recertification Completion Rate
 - **Canonical id:** `dea:metric-access-recertification-completion-rate`
 - **Name:** Access Recertification Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARCR-IAM
 
@@ -22,7 +22,7 @@ Measures the share of required access reviews completed on schedule with decisio
 ## Formula
 
 ```
-Reviews Completed by Deadline / Reviews Due
+ARCR-IAM = Reviews Completed by Deadline / Reviews Due
 ```
 
 ## Unit

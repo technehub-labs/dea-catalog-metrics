@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bug Reopen Rate** (BRR-QA) in the Open
 - **Canonical id:** `dea:metric-bug-reopen-rate`
 - **Name:** Bug Reopen Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRR-QA
 
@@ -18,7 +18,7 @@ Bug Reopen Rate (BRR-QA) measures the quality of outputs and outcomes in the Sof
 ## Formula
 
 ```
-Reopened Bugs / Closed Bugs
+BRR-QA = Reopened Bugs / Closed Bugs
 ```
 
 ## Unit

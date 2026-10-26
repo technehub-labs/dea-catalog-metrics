@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Permitted Operating Deviations** (POD)
 - **Canonical id:** `dea:metric-permitted-operating-deviations`
 - **Name:** Permitted Operating Deviations
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POD
 
@@ -18,7 +18,7 @@ A Regulatory Affairs & Compliance Operations indicator, Permitted Operating Devi
 ## Formula
 
 ```
-Approved Deviations from Regulatory Standard / Requests
+POD = Approved Deviations from Regulatory Standard / Requests
 ```
 
 ## Unit

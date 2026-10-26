@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Enrollment Cycle Time**
 - **Canonical id:** `dea:metric-clinical-trial-enrollment-cycle-time`
 - **Name:** Clinical Trial Enrollment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTEC
 
@@ -18,7 +18,7 @@ A Pharma R&D & Clinical Trials indicator, Clinical Trial Enrollment Cycle Time (
 ## Formula
 
 ```
-Days from Site Activation to First Subject
+CTEC = Days from Site Activation to First Subject
 ```
 
 ## Unit

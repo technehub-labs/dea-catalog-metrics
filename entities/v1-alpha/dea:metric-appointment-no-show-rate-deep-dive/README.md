@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment No-Show Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-appointment-no-show-rate-deep-dive`
 - **Name:** Appointment No-Show Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ANSR-D
 
@@ -18,7 +18,7 @@ Appointment No-Show Rate (Deep Dive) (ANSR-D) measures how efficiently resources
 ## Formula
 
 ```
-Missed Appointments without Cancellation / Scheduled
+ANSR-D = Missed Appointments without Cancellation / Scheduled
 ```
 
 ## Unit

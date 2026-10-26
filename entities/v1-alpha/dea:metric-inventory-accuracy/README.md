@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Accuracy** (IA) in the OpenD
 - **Canonical id:** `dea:metric-inventory-accuracy`
 - **Name:** Inventory Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IA
 
@@ -18,7 +18,7 @@ A Supply Chain indicator, Inventory Accuracy (IA) quantifies the quality of outp
 ## Formula
 
 ```
-Accurate Inventory Records / Inventory Records Counted
+IA = Accurate Inventory Records / Inventory Records Counted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Finding Recurrence Rate** (CFRR-C
 - **Canonical id:** `dea:metric-cspm-finding-recurrence-rate`
 - **Name:** CSPM Finding Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFRR-CS
 
@@ -18,7 +18,7 @@ A Cloud Security Posture Management indicator, CSPM Finding Recurrence Rate (CFR
 ## Formula
 
 ```
-Findings Reopened after Remediation / Findings
+CFRR-CS = Findings Reopened after Remediation / Findings
 ```
 
 ## Unit

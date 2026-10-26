@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chair Utilization Rate (Salon)** (CUR-
 - **Canonical id:** `dea:metric-chair-utilization-rate-salon`
 - **Name:** Chair Utilization Rate (Salon)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CUR-S
 
@@ -18,7 +18,7 @@ Chair Utilization Rate (Salon) (CUR-S) measures the utilization or availability 
 ## Formula
 
 ```
-Booked Stylist Hours / Available Chair Hours
+CUR-S = Booked Stylist Hours / Available Chair Hours
 ```
 
 ## Unit

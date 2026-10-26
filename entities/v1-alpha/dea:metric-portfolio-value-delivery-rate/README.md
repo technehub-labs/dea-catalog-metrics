@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Value Delivery Rate** (PVDR)
 - **Canonical id:** `dea:metric-portfolio-value-delivery-rate`
 - **Name:** Portfolio Value Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PVDR
 
@@ -22,7 +22,7 @@ Measures the share of portfolio investment converted into realized, measured bus
 ## Formula
 
 ```
-Value Realized / Portfolio Investment
+PVDR = Value Realized / Portfolio Investment
 ```
 
 ## Unit

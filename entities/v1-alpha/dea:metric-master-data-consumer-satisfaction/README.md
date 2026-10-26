@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Consumer Satisfaction** (M
 - **Canonical id:** `dea:metric-master-data-consumer-satisfaction`
 - **Name:** Master Data Consumer Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDCS
 
@@ -18,7 +18,7 @@ Master Data Consumer Satisfaction (MDCS) addresses the economic value created or
 ## Formula
 
 ```
-Downstream Consumer Satisfaction Score
+MDCS = Downstream Consumer Satisfaction Score
 ```
 
 ## Unit

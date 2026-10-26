@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Cash Flow Yield** (FCFY) in the O
 - **Canonical id:** `dea:metric-free-cash-flow-yield`
 - **Name:** Free Cash Flow Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCFY
 
@@ -22,7 +22,7 @@ Measures free cash flow relative to enterprise value. It is the cash-based valua
 ## Formula
 
 ```
-Free Cash Flow / Enterprise Value
+FCFY = Free Cash Flow / Enterprise Value
 ```
 
 ## Unit

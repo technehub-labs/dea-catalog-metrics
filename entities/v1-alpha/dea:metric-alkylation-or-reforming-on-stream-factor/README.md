@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alkylation or Reforming On-Stream Fact
 - **Canonical id:** `dea:metric-alkylation-or-reforming-on-stream-factor`
 - **Name:** Alkylation or Reforming On-Stream Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AOSF
 
@@ -18,7 +18,7 @@ Alkylation or Reforming On-Stream Factor (AOSF) captures the utilization or avai
 ## Formula
 
 ```
-Unit Operating Time / Calendar Time
+AOSF = Unit Operating Time / Calendar Time
 ```
 
 ## Unit

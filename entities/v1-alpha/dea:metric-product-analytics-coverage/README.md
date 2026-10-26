@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Analytics Coverage** (PAC-S) i
 - **Canonical id:** `dea:metric-product-analytics-coverage`
 - **Name:** Product Analytics Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAC-S
 
@@ -18,7 +18,7 @@ Product Analytics Coverage (PAC-S) addresses capability maturity or development 
 ## Formula
 
 ```
-Features Instrumented with Events / Features
+PAC-S = Features Instrumented with Events / Features
 ```
 
 ## Unit

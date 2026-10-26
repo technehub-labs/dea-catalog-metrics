@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rule of 40** (R40) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-rule-of-40`
 - **Name:** Rule of 40
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** R40
 
@@ -22,7 +22,7 @@ The Rule of 40, popularized in venture practice (often credited to Brad Feld), s
 ## Formula
 
 ```
-Revenue Growth Percent + Profit Margin Percent
+R40 = Revenue Growth Percent + Profit Margin Percent
 ```
 
 ## Unit

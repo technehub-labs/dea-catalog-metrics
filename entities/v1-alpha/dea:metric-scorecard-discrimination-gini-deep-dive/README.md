@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scorecard Discrimination (Gini - Deep 
 - **Canonical id:** `dea:metric-scorecard-discrimination-gini-deep-dive`
 - **Name:** Scorecard Discrimination (Gini - Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GINI-D
 
@@ -22,7 +22,7 @@ Measures the rank-ordering power of credit scorecards - Gini (or AUC) on out-of-
 ## Formula
 
 ```
-Rank-Ordering Power of Credit Scorecard
+GINI-D = Rank-Ordering Power of Credit Scorecard
 ```
 
 ## Unit

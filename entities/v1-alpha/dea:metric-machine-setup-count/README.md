@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Setup Count** (MSC) in the Ope
 - **Canonical id:** `dea:metric-machine-setup-count`
 - **Name:** Machine Setup Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSC
 
@@ -18,7 +18,7 @@ Machine Setup Count (MSC) captures how efficiently resources are converted into 
 ## Formula
 
 ```
-Number of Setups per Period
+MSC = Number of Setups per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share** (MSH) in the OpenDEAM M
 - **Canonical id:** `dea:metric-market-share`
 - **Name:** Market Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSH
 
@@ -22,7 +22,7 @@ The organization's share of the total addressable market - by revenue or volume 
 ## Formula
 
 ```
-Organization Sales / Total Market Sales
+MSH = Organization Sales / Total Market Sales
 ```
 
 ## Unit

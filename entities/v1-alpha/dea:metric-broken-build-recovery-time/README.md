@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broken Build Recovery Time** (BBRT) in
 - **Canonical id:** `dea:metric-broken-build-recovery-time`
 - **Name:** Broken Build Recovery Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BBRT
 
@@ -18,7 +18,7 @@ Within Continuous Integration, Broken Build Recovery Time (BBRT) is used to gaug
 ## Formula
 
 ```
-Minutes to Restore Green Build after Failure
+BBRT = Minutes to Restore Green Build after Failure
 ```
 
 ## Unit

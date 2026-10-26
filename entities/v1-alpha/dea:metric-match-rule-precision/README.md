@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Match Rule Precision** (MRP-MD) in the
 - **Canonical id:** `dea:metric-match-rule-precision`
 - **Name:** Match Rule Precision
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRP-MD
 
@@ -18,7 +18,7 @@ Within Master Data Management, Match Rule Precision (MRP-MD) is used to gauge th
 ## Formula
 
 ```
-True Matches / Total Auto-Matches
+MRP-MD = True Matches / Total Auto-Matches
 ```
 
 ## Unit

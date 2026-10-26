@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Worker Retention (Repeat Providers
 - **Canonical id:** `dea:metric-gig-worker-retention-repeat-providers`
 - **Name:** Gig Worker Retention (Repeat Providers)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GWR
 
@@ -22,7 +22,7 @@ Measures the share of gig workers who continue providing on the platform. It mat
 ## Formula
 
 ```
-Workers Completing Repeat Tasks / Workers Onboarded
+GWR = Workers Completing Repeat Tasks / Workers Onboarded
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Work Compliance** (SWC) in th
 - **Canonical id:** `dea:metric-standard-work-compliance`
 - **Name:** Standard Work Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SWC
 
@@ -18,7 +18,7 @@ A Process Excellence (Lean Six Sigma) indicator, Standard Work Compliance (SWC) 
 ## Formula
 
 ```
-Operations Executed per Standard Work / Operations Observed
+SWC = Operations Executed per Standard Work / Operations Observed
 ```
 
 ## Unit

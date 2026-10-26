@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability-Centered Maintenance Cover
 - **Canonical id:** `dea:metric-reliability-centered-maintenance-coverage-grid`
 - **Name:** Reliability-Centered Maintenance Coverage (Grid)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCMC
 
@@ -22,7 +22,7 @@ Measures the share of critical grid assets under RCM-based (condition and critic
 ## Formula
 
 ```
-Critical Assets under RCM Strategy / Critical Assets
+RCMC = Critical Assets under RCM Strategy / Critical Assets
 ```
 
 ## Unit

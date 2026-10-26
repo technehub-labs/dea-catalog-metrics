@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Contract SLA Attainment - 
 - **Canonical id:** `dea:metric-maintenance-contract-sla-attainment-field`
 - **Name:** Maintenance Contract SLA Attainment - Field
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCSLAF
 
@@ -22,7 +22,7 @@ Measures the share of contract response and resolution commitments met across th
 ## Formula
 
 ```
-Contracted Response SLAs Met / SLA Events
+MCSLAF = Contracted Response SLAs Met / SLA Events
 ```
 
 ## Unit

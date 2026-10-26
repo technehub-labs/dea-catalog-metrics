@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donor Lifetime Value** (DLTV) in the O
 - **Canonical id:** `dea:metric-donor-lifetime-value`
 - **Name:** Donor Lifetime Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLTV
 
@@ -22,7 +22,7 @@ Donor lifetime value projects the total giving of a donor across their relations
 ## Formula
 
 ```
-Average Donation x Average Donor Lifespan x Margin
+DLTV = Average Donation x Average Donor Lifespan x Margin
 ```
 
 ## Unit

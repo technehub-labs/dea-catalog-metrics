@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Gain Chart Capture** (GAINCC) in
 - **Canonical id:** `dea:metric-model-gain-chart-capture`
 - **Name:** Model Gain Chart Capture
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GAINCC
 
@@ -18,7 +18,7 @@ A Statistical Model Performance Diagnostics indicator, Model Gain Chart Capture 
 ## Formula
 
 ```
-Positive Events Captured in Top Deciles / All Events
+GAINCC = Positive Events Captured in Top Deciles / All Events
 ```
 
 ## Unit

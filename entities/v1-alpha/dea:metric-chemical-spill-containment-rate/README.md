@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chemical Spill Containment Rate** (CSC
 - **Canonical id:** `dea:metric-chemical-spill-containment-rate`
 - **Name:** Chemical Spill Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSCR2
 
@@ -18,7 +18,7 @@ Chemical Spill Containment Rate (CSCR2) measures exposure to adverse outcomes in
 ## Formula
 
 ```
-Spills Contained to Bunded Area / Spills
+CSCR2 = Spills Contained to Bunded Area / Spills
 ```
 
 ## Unit

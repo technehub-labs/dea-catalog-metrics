@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failed Delivery Re-attempt Cost Ratio*
 - **Canonical id:** `dea:metric-failed-delivery-re-attempt-cost-ratio`
 - **Name:** Failed Delivery Re-attempt Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDRC
 
@@ -18,7 +18,7 @@ Within Parcel & Last-Mile Logistics (Deep Dive), Failed Delivery Re-attempt Cost
 ## Formula
 
 ```
-Re-attempt Costs / Total Delivery Costs
+FDRC = Re-attempt Costs / Total Delivery Costs
 ```
 
 ## Unit

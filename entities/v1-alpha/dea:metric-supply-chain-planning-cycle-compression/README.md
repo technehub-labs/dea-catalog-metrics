@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Planning Cycle Compressio
 - **Canonical id:** `dea:metric-supply-chain-planning-cycle-compression`
 - **Name:** Supply Chain Planning Cycle Compression
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPC
 
@@ -22,7 +22,7 @@ Measures shortening of the plan-and-replan cycle. Faster planning cycles let sup
 ## Formula
 
 ```
-Reduction in S&OP Cycle Days vs Baseline
+SCPC = Reduction in S&OP Cycle Days vs Baseline
 ```
 
 ## Unit

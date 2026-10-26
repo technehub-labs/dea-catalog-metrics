@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Procurement Cycle Time** (PCT-P) in th
 - **Canonical id:** `dea:metric-procurement-cycle-time`
 - **Name:** Procurement Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCT-P
 
@@ -18,7 +18,7 @@ Procurement Cycle Time (PCT-P) measures how efficiently resources are converted 
 ## Formula
 
 ```
-Days from Requisition to Purchase Order Issue
+PCT-P = Days from Requisition to Purchase Order Issue
 ```
 
 ## Unit

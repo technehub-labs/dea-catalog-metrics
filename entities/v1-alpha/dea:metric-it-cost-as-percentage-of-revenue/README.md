@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IT Cost as Percentage of Revenue** (IT
 - **Canonical id:** `dea:metric-it-cost-as-percentage-of-revenue`
 - **Name:** IT Cost as Percentage of Revenue
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITCR
 
@@ -22,7 +22,7 @@ Total IT spend over revenue - the headline ratio of technology economics that bo
 ## Formula
 
 ```
-Total IT Cost / Revenue
+ITCR = Total IT Cost / Revenue
 ```
 
 ## Unit

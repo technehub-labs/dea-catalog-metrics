@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital Standardized Mortality Ratio*
 - **Canonical id:** `dea:metric-hospital-standardized-mortality-ratio`
 - **Name:** Hospital Standardized Mortality Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HSMR
 
@@ -22,7 +22,7 @@ Measures observed deaths relative to the expected rate for case-mix. HSMR is the
 ## Formula
 
 ```
-Observed Deaths / Risk-Adjusted Expected Deaths
+HSMR = Observed Deaths / Risk-Adjusted Expected Deaths
 ```
 
 ## Unit

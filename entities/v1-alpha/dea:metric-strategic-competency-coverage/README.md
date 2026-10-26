@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Competency Coverage** (SCC-B
 - **Canonical id:** `dea:metric-strategic-competency-coverage`
 - **Name:** Strategic Competency Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCC-BSC
 
@@ -22,7 +22,7 @@ Measures how well the workforce holds the competencies the strategy requires. St
 ## Formula
 
 ```
-Roles with Required Competencies Filled / Strategic Roles
+SCC-BSC = Roles with Required Competencies Filled / Strategic Roles
 ```
 
 ## Unit

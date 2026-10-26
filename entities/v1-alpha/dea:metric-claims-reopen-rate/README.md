@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Reopen Rate** (CRR-C) in the Op
 - **Canonical id:** `dea:metric-claims-reopen-rate`
 - **Name:** Claims Reopen Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRR-C
 
@@ -22,7 +22,7 @@ Measures the share of closed claims later reopened. It matters because reopening
 ## Formula
 
 ```
-Reopened Claims / Claims Closed
+CRR-C = Reopened Claims / Claims Closed
 ```
 
 ## Unit

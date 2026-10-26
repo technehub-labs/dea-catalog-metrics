@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-Robot Collaboration Task Share**
 - **Canonical id:** `dea:metric-human-robot-collaboration-task-share`
 - **Name:** Human-Robot Collaboration Task Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRTS
 
@@ -22,7 +22,7 @@ Measures the proportion of tasks performed jointly by humans and robots. It matt
 ## Formula
 
 ```
-Tasks Performed Collaboratively / Automatable Tasks
+HRTS = Tasks Performed Collaboratively / Automatable Tasks
 ```
 
 ## Unit

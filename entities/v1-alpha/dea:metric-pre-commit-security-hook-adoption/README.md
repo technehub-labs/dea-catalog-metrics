@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Commit Security Hook Adoption** (P
 - **Canonical id:** `dea:metric-pre-commit-security-hook-adoption`
 - **Name:** Pre-Commit Security Hook Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCSHA
 
@@ -18,7 +18,7 @@ Pre-Commit Security Hook Adoption (PCSHA) measures conformance to standards, pla
 ## Formula
 
 ```
-Developers Using Pre-Commit Security Hooks / Developers
+PCSHA = Developers Using Pre-Commit Security Hooks / Developers
 ```
 
 ## Unit

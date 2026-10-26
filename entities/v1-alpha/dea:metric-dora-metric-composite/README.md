@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DORA Metric Composite** (DORA) in the 
 - **Canonical id:** `dea:metric-dora-metric-composite`
 - **Name:** DORA Metric Composite
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DORA
 
@@ -22,7 +22,7 @@ The four delivery metrics of the DevOps Research and Assessment program - deploy
 ## Formula
 
 ```
-Index of Deployment Frequency, Lead Time, Change Failure, MTTRS
+DORA = Index of Deployment Frequency, Lead Time, Change Failure, MTTRS
 ```
 
 ## Unit

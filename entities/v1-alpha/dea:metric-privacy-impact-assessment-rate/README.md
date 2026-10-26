@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Impact Assessment Rate** (PIAR
 - **Canonical id:** `dea:metric-privacy-impact-assessment-rate`
 - **Name:** Privacy Impact Assessment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIAR
 
@@ -22,7 +22,7 @@ Measures the share of new systems and processing activities completing PIAs befo
 ## Formula
 
 ```
-High-Risk Projects with Completed PIA / High-Risk Projects
+PIAR = High-Risk Projects with Completed PIA / High-Risk Projects
 ```
 
 ## Unit

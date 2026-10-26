@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measurement System Bias** (MSB-SS) in 
 - **Canonical id:** `dea:metric-measurement-system-bias`
 - **Name:** Measurement System Bias
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSB-SS
 
@@ -18,7 +18,7 @@ Measurement System Bias (MSB-SS) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Average Measurement Deviation from Reference Standard
+MSB-SS = Average Measurement Deviation from Reference Standard
 ```
 
 ## Unit

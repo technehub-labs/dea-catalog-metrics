@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paywall Conversion-to-Trial Rate** (PC
 - **Canonical id:** `dea:metric-paywall-conversion-to-trial-rate`
 - **Name:** Paywall Conversion-to-Trial Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCTR
 
@@ -18,7 +18,7 @@ Paywall Conversion-to-Trial Rate (PCTR) measures growth over time in the Publish
 ## Formula
 
 ```
-Trial Starts / Paywall Hits
+PCTR = Trial Starts / Paywall Hits
 ```
 
 ## Unit

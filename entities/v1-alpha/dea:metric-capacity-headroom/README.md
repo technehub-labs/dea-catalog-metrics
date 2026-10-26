@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Headroom** (CH) in the OpenDE
 - **Canonical id:** `dea:metric-capacity-headroom`
 - **Name:** Capacity Headroom
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CH
 
@@ -22,7 +22,7 @@ Measures the unused capacity available above current demand. It matters because 
 ## Formula
 
 ```
-(Available Capacity - Peak Demand) / Available Capacity
+CH = (Available Capacity - Peak Demand) / Available Capacity
 ```
 
 ## Unit

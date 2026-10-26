@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Loss Incident Count** (DLIC) in t
 - **Canonical id:** `dea:metric-data-loss-incident-count`
 - **Name:** Data Loss Incident Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLIC
 
@@ -22,7 +22,7 @@ The number of events in which data was lost, leaked, or exposed - whether by bre
 ## Formula
 
 ```
-Confirmed Data Loss or Leakage Events
+DLIC = Confirmed Data Loss or Leakage Events
 ```
 
 ## Unit

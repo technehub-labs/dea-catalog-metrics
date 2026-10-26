@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kilo of Product per Labor Hour** (KPPL
 - **Canonical id:** `dea:metric-kilo-of-product-per-labor-hour`
 - **Name:** Kilo of Product per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KPPLH
 
@@ -18,7 +18,7 @@ A Food & Beverage Manufacturing indicator, Kilo of Product per Labor Hour (KPPLH
 ## Formula
 
 ```
-Output Kilograms / Labor Hours
+KPPLH = Output Kilograms / Labor Hours
 ```
 
 ## Unit

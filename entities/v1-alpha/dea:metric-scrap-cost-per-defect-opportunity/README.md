@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Cost per Defect Opportunity** (S
 - **Canonical id:** `dea:metric-scrap-cost-per-defect-opportunity`
 - **Name:** Scrap Cost per Defect Opportunity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPDO
 
@@ -18,7 +18,7 @@ Within Process Capability & Six Sigma (Deep Dive), Scrap Cost per Defect Opportu
 ## Formula
 
 ```
-Scrap Cost / Defect Opportunities
+SCPDO = Scrap Cost / Defect Opportunities
 ```
 
 ## Unit

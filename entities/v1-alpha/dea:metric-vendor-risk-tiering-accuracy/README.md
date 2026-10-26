@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Risk Tiering Accuracy** (VRTA) 
 - **Canonical id:** `dea:metric-vendor-risk-tiering-accuracy`
 - **Name:** Vendor Risk Tiering Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRTA
 
@@ -18,7 +18,7 @@ Vendor Risk Tiering Accuracy (VRTA) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Tier Assignments Confirmed at Review / Tier Assignments
+VRTA = Tier Assignments Confirmed at Review / Tier Assignments
 ```
 
 ## Unit

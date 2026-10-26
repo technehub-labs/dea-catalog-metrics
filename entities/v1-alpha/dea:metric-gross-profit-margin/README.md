@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Profit Margin** (GPM) in the Ope
 - **Canonical id:** `dea:metric-gross-profit-margin`
 - **Name:** Gross Profit Margin
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GPM
 
@@ -22,7 +22,7 @@ The most basic test of whether a business has a viable product economics: revenu
 ## Formula
 
 ```
-(Revenue - Cost of Goods Sold) / Revenue
+GPM = (Revenue - Cost of Goods Sold) / Revenue
 ```
 
 ## Unit

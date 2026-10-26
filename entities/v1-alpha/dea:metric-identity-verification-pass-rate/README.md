@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Identity Verification Pass Rate** (IVP
 - **Canonical id:** `dea:metric-identity-verification-pass-rate`
 - **Name:** Identity Verification Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IVPR
 
@@ -18,7 +18,7 @@ A Enterprise Fraud & Financial Crime Management indicator, Identity Verification
 ## Formula
 
 ```
-Transactions Passing Step-Up Verification / Challenged Transactions
+IVPR = Transactions Passing Step-Up Verification / Challenged Transactions
 ```
 
 ## Unit

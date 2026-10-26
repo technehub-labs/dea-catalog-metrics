@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credit Card Utilization Rate** (CCUR) 
 - **Canonical id:** `dea:metric-credit-card-utilization-rate`
 - **Name:** Credit Card Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCUR
 
@@ -22,7 +22,7 @@ Measures outstanding balances relative to credit limits across the portfolio. It
 ## Formula
 
 ```
-Outstanding Card Balances / Approved Credit Limits
+CCUR = Outstanding Card Balances / Approved Credit Limits
 ```
 
 ## Unit

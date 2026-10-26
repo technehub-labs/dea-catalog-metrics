@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mandate Compliance Breach Count** (MCB
 - **Canonical id:** `dea:metric-mandate-compliance-breach-count`
 - **Name:** Mandate Compliance Breach Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCBC-IM
 
@@ -22,7 +22,7 @@ Measures breaches of investment guidelines and client mandates. Breaches are fid
 ## Formula
 
 ```
-Investment Guideline Breaches per Period
+MCBC-IM = Investment Guideline Breaches per Period
 ```
 
 ## Unit

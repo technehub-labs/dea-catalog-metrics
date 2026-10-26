@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Article Effectiveness** (KAE
 - **Canonical id:** `dea:metric-knowledge-article-effectiveness`
 - **Name:** Knowledge Article Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KAE
 
@@ -18,7 +18,7 @@ Knowledge Article Effectiveness (KAE) addresses the quality of outputs and outco
 ## Formula
 
 ```
-Articles Rated Helpful / Article Views with Rating
+KAE = Articles Rated Helpful / Article Views with Rating
 ```
 
 ## Unit

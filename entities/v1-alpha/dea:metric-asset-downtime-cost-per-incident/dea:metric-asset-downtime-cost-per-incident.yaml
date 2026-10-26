@@ -8,7 +8,7 @@ description: Asset Downtime Cost per Incident (ADCI) measures exposure to advers
   it appears in cross-industry performance frameworks.
 abbreviation: ADCI
 unit: currency
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - operations
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Total Downtime Cost / Downtime Incidents
 formula_definition:
   formula_id: dea:formula-asset-downtime-cost-per-incident
-  expression: Total Downtime Cost / Downtime Incidents
+  expression: ADCI = Total Downtime Cost / Downtime Incidents
   inputs:
   - name: Total Downtime Cost
   - name: Downtime Incidents
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-currency
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3385
     batch: '7'
 domain: field_service_asset_performance
+subject_concept: dea:subject-asset_downtime_cost_per_incident
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3385
+  - Public domain - no attribution required
+  known_limitations: []

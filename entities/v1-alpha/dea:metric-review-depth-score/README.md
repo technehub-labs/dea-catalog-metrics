@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Depth Score** (RDS-PR) in the O
 - **Canonical id:** `dea:metric-review-depth-score`
 - **Name:** Review Depth Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDS-PR
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Review Depth Score (RDS-PR) is used to gauge 
 ## Formula
 
 ```
-Composite of Comment Quality, Coverage and Depth Rubric
+RDS-PR = Composite of Comment Quality, Coverage and Depth Rubric
 ```
 
 ## Unit

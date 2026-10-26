@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abandonment Rate** (ABR) in the OpenDE
 - **Canonical id:** `dea:metric-abandonment-rate`
 - **Name:** Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABR
 
@@ -18,7 +18,7 @@ A Contact Center indicator, Abandonment Rate (ABR) quantifies the quality of out
 ## Formula
 
 ```
-Abandoned Calls / Calls Offered
+ABR = Abandoned Calls / Calls Offered
 ```
 
 ## Unit

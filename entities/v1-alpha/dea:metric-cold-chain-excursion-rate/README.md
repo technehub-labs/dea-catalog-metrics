@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Excursion Rate** (CCER) in 
 - **Canonical id:** `dea:metric-cold-chain-excursion-rate`
 - **Name:** Cold Chain Excursion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCER
 
@@ -18,7 +18,7 @@ Cold Chain Excursion Rate (CCER) captures exposure to adverse outcomes for organ
 ## Formula
 
 ```
-Refrigerated Items with Temperature Excursion / Items
+CCER = Refrigerated Items with Temperature Excursion / Items
 ```
 
 ## Unit

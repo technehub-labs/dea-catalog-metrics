@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density** (DD) in the OpenDEAM 
 - **Canonical id:** `dea:metric-defect-density`
 - **Name:** Defect Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DD
 
@@ -22,7 +22,7 @@ Measures defects per unit of size, usually per thousand lines of code or per sto
 ## Formula
 
 ```
-Defects per 1,000 Lines of Code or Function Point
+DD = Defects per 1,000 Lines of Code or Function Point
 ```
 
 ## Unit

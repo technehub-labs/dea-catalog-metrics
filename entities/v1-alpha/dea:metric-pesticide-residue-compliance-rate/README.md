@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pesticide Residue Compliance Rate** (P
 - **Canonical id:** `dea:metric-pesticide-residue-compliance-rate`
 - **Name:** Pesticide Residue Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCR
 
@@ -22,7 +22,7 @@ Pesticide residue compliance rate is the share of tested lots meeting maximum re
 ## Formula
 
 ```
-Batches within Residue Limits / Batches Tested
+PRCR = Batches within Residue Limits / Batches Tested
 ```
 
 ## Unit

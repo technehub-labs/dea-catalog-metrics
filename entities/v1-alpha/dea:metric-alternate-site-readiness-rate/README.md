@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alternate Site Readiness Rate** (ASRR)
 - **Canonical id:** `dea:metric-alternate-site-readiness-rate`
 - **Name:** Alternate Site Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASRR
 
@@ -22,7 +22,7 @@ Measures whether secondary sites and systems are provisioned, current, and ready
 ## Formula
 
 ```
-Recovery Sites Passing Readiness Check / Recovery Sites
+ASRR = Recovery Sites Passing Readiness Check / Recovery Sites
 ```
 
 ## Unit

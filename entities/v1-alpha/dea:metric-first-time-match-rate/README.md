@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Match Rate** (FTMR) in the 
 - **Canonical id:** `dea:metric-first-time-match-rate`
 - **Name:** First-Time Match Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTMR
 
@@ -18,7 +18,7 @@ First-Time Match Rate (FTMR) addresses the quality of outputs and outcomes and i
 ## Formula
 
 ```
-Invoices Auto-Matched on First Pass / Invoices
+FTMR = Invoices Auto-Matched on First Pass / Invoices
 ```
 
 ## Unit

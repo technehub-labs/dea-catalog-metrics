@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exception Approval Rate at Governance*
 - **Canonical id:** `dea:metric-exception-approval-rate-at-governance`
 - **Name:** Exception Approval Rate at Governance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EARG
 
@@ -22,7 +22,7 @@ Measures the share of items arriving at governance bodies seeking exceptions to 
 ## Formula
 
 ```
-Items Approved with Exceptions / Items Reviewed
+EARG = Items Approved with Exceptions / Items Reviewed
 ```
 
 ## Unit

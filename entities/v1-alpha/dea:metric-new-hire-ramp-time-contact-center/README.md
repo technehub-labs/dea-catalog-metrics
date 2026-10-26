@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Hire Ramp Time (Contact Center)** 
 - **Canonical id:** `dea:metric-new-hire-ramp-time-contact-center`
 - **Name:** New Hire Ramp Time (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NHRT-CC
 
@@ -18,7 +18,7 @@ New Hire Ramp Time (Contact Center) (NHRT-CC) captures capability maturity or de
 ## Formula
 
 ```
-Weeks to Reach Target Proficiency
+NHRT-CC = Weeks to Reach Target Proficiency
 ```
 
 ## Unit

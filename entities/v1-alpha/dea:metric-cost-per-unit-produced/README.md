@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Unit Produced** (CPU) in the 
 - **Canonical id:** `dea:metric-cost-per-unit-produced`
 - **Name:** Cost per Unit Produced
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPU
 
@@ -22,7 +22,7 @@ Measures total production cost divided by good units produced. It matters as the
 ## Formula
 
 ```
-Total Production Cost / Units Produced
+CPU = Total Production Cost / Units Produced
 ```
 
 ## Unit

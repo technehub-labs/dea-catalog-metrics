@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Engagement Score (Deep Dive)*
 - **Canonical id:** `dea:metric-employee-engagement-score-deep-dive`
 - **Name:** Employee Engagement Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EESDD
 
@@ -22,7 +22,7 @@ Measures employees' commitment and connection to their work and organization. En
 ## Formula
 
 ```
-Composite Survey Score of Engagement Drivers
+EESDD = Composite Survey Score of Engagement Drivers
 ```
 
 ## Unit

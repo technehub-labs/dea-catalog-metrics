@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tangible Book Value Coverage** (TBVC) 
 - **Canonical id:** `dea:metric-tangible-book-value-coverage`
 - **Name:** Tangible Book Value Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TBVC
 
@@ -22,7 +22,7 @@ Measures the tangible asset cushion beneath obligations or per share. Tangible b
 ## Formula
 
 ```
-Tangible Book Value / Total Debt
+TBVC = Tangible Book Value / Total Debt
 ```
 
 ## Unit

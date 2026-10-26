@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overtime Cost Ratio** (OCR-PAY) in the
 - **Canonical id:** `dea:metric-overtime-cost-ratio`
 - **Name:** Overtime Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR-PAY
 
@@ -18,7 +18,7 @@ A Standard Workforce & Pay Metrics indicator, Overtime Cost Ratio (OCR-PAY) quan
 ## Formula
 
 ```
-Overtime Pay / Total Labor Cost
+OCR-PAY = Overtime Pay / Total Labor Cost
 ```
 
 ## Unit

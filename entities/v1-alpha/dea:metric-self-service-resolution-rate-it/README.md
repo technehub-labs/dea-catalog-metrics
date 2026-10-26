@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Resolution Rate - IT** (S
 - **Canonical id:** `dea:metric-self-service-resolution-rate-it`
 - **Name:** Self-Service Resolution Rate - IT
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRR-IT
 
@@ -22,7 +22,7 @@ Measures the share of user issues resolved via self-service channels without age
 ## Formula
 
 ```
-Resolutions via Self-Service / Resolutions
+SSRR-IT = Resolutions via Self-Service / Resolutions
 ```
 
 ## Unit

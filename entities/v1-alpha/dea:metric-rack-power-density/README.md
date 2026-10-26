@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rack Power Density** (RPD) in the Open
 - **Canonical id:** `dea:metric-rack-power-density`
 - **Name:** Rack Power Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPD
 
@@ -18,7 +18,7 @@ Rack Power Density (RPD) addresses the utilization or availability of capacity a
 ## Formula
 
 ```
-Power Draw / Rack
+RPD = Power Draw / Rack
 ```
 
 ## Unit

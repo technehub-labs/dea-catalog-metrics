@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Surgery Cancellation Rate** (SCR2) in 
 - **Canonical id:** `dea:metric-surgery-cancellation-rate`
 - **Name:** Surgery Cancellation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR2
 
@@ -22,7 +22,7 @@ Measures the share of scheduled surgeries cancelled on the day or near it. It ma
 ## Formula
 
 ```
-Cancelled Surgeries / Scheduled Surgeries
+SCR2 = Cancelled Surgeries / Scheduled Surgeries
 ```
 
 ## Unit

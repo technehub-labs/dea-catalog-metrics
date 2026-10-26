@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Standard Compliance Rate** (BSCR
 - **Canonical id:** `dea:metric-brand-standard-compliance-rate`
 - **Name:** Brand Standard Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSCR
 
@@ -22,7 +22,7 @@ Measures the share of locations meeting brand standards in inspections. It matte
 ## Formula
 
 ```
-Audits Meeting Brand Standards / Audits Conducted
+BSCR = Audits Meeting Brand Standards / Audits Conducted
 ```
 
 ## Unit

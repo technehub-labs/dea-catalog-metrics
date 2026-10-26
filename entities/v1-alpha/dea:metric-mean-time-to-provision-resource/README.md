@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Provision Resource** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-provision-resource`
 - **Name:** Mean Time to Provision Resource
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTP
 
@@ -18,7 +18,7 @@ A Data Center & Cloud Operations indicator, Mean Time to Provision Resource (MTT
 ## Formula
 
 ```
-Hours from Request to Provisioned Resource
+MTTP = Hours from Request to Provisioned Resource
 ```
 
 ## Unit

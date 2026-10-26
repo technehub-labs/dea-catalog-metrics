@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blended ROAS by Acquisition Stage** (B
 - **Canonical id:** `dea:metric-blended-roas-by-acquisition-stage`
 - **Name:** Blended ROAS by Acquisition Stage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRAS
 
@@ -22,7 +22,7 @@ Measures ROAS separated by funnel stage (awareness, consideration, conversion). 
 ## Formula
 
 ```
-Revenue / Spend across New versus Retention Activity
+BRAS = Revenue / Spend across New versus Retention Activity
 ```
 
 ## Unit

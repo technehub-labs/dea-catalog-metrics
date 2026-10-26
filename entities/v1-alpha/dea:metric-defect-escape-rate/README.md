@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Escape Rate** (DER) in the Open
 - **Canonical id:** `dea:metric-defect-escape-rate`
 - **Name:** Defect Escape Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DER
 
@@ -22,7 +22,7 @@ Measures the share of defects that reach production or customers instead of bein
 ## Formula
 
 ```
-Defects Found in Production / Total Defects Found
+DER = Defects Found in Production / Total Defects Found
 ```
 
 ## Unit

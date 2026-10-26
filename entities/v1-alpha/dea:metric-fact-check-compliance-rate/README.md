@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fact-Check Compliance Rate** (FCCR-P) 
 - **Canonical id:** `dea:metric-fact-check-compliance-rate`
 - **Name:** Fact-Check Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCCR-P
 
@@ -22,7 +22,7 @@ Measures adherence to the editorial verification process - sourced claims, corre
 ## Formula
 
 ```
-Stories Passing Fact-Check / Stories Checked
+FCCR-P = Stories Passing Fact-Check / Stories Checked
 ```
 
 ## Unit

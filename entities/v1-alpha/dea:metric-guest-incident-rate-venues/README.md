@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Incident Rate (Venues)** (GIR-V)
 - **Canonical id:** `dea:metric-guest-incident-rate-venues`
 - **Name:** Guest Incident Rate (Venues)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GIR-V
 
@@ -22,7 +22,7 @@ Measures guest injuries and safety incidents against attendance. Venues are expe
 ## Formula
 
 ```
-Reportable Guest Incidents / Attendance
+GIR-V = Reportable Guest Incidents / Attendance
 ```
 
 ## Unit

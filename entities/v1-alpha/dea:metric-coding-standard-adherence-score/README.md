@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Coding Standard Adherence Score** (CSA
 - **Canonical id:** `dea:metric-coding-standard-adherence-score`
 - **Name:** Coding Standard Adherence Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSAS-SD
 
@@ -18,7 +18,7 @@ Coding Standard Adherence Score (CSAS-SD) addresses conformance to standards, pl
 ## Formula
 
 ```
-Guidelines Followed in Sampled Reviews / Guidelines
+CSAS-SD = Guidelines Followed in Sampled Reviews / Guidelines
 ```
 
 ## Unit

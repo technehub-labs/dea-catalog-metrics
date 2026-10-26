@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Training Certification Currency*
 - **Canonical id:** `dea:metric-agent-training-certification-currency`
 - **Name:** Agent Training Certification Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATCC
 
@@ -18,7 +18,7 @@ A Insurance Distribution & Agency Management indicator, Agent Training Certifica
 ## Formula
 
 ```
-Agents with Current Certifications / Agents
+ATCC = Agents with Current Certifications / Agents
 ```
 
 ## Unit

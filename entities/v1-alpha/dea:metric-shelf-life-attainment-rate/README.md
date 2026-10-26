@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shelf Life Attainment Rate** (SLAR) in
 - **Canonical id:** `dea:metric-shelf-life-attainment-rate`
 - **Name:** Shelf Life Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLAR
 
@@ -18,7 +18,7 @@ Shelf Life Attainment Rate (SLAR) addresses the quality of outputs and outcomes 
 ## Formula
 
 ```
-Batches Meeting Target Shelf Life / Batches
+SLAR = Batches Meeting Target Shelf Life / Batches
 ```
 
 ## Unit

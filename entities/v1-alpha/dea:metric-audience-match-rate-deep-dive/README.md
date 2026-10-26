@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audience Match Rate (Deep Dive)** (AMR
 - **Canonical id:** `dea:metric-audience-match-rate-deep-dive`
 - **Name:** Audience Match Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMR-D
 
@@ -18,7 +18,7 @@ Audience Match Rate (Deep Dive) (AMR-D) addresses capability maturity or develop
 ## Formula
 
 ```
-Matched Targetable Audience / Addressable Audience
+AMR-D = Matched Targetable Audience / Addressable Audience
 ```
 
 ## Unit

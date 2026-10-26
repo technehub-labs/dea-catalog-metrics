@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAST Coverage of Attack Surface** (DAS
 - **Canonical id:** `dea:metric-dast-coverage-of-attack-surface`
 - **Name:** DAST Coverage of Attack Surface
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DASC-DV
 
@@ -22,7 +22,7 @@ Measures the proportion of externally reachable endpoints and applications exerc
 ## Formula
 
 ```
-Applications Scanned Dynamically / Applications in Production
+DASC-DV = Applications Scanned Dynamically / Applications in Production
 ```
 
 ## Unit

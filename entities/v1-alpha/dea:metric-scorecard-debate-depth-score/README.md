@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scorecard Debate Depth Score** (SDDS) 
 - **Canonical id:** `dea:metric-scorecard-debate-depth-score`
 - **Name:** Scorecard Debate Depth Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDDS
 
@@ -22,7 +22,7 @@ Measures the quality of structured challenge that occurs in scorecard reviews. D
 ## Formula
 
 ```
-Rubric Score of Challenge Quality in BSC Reviews
+SDDS = Rubric Score of Challenge Quality in BSC Reviews
 ```
 
 ## Unit

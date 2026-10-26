@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Review Cadence Complia
 - **Canonical id:** `dea:metric-operating-model-review-cadence-compliance-deep-dive`
 - **Name:** Operating Model Review Cadence Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMRCC
 
@@ -22,7 +22,7 @@ Measures whether scheduled operating model reviews actually occur with the right
 ## Formula
 
 ```
-Scheduled Operating Model Reviews Held / Scheduled
+OMRCC = Scheduled Operating Model Reviews Held / Scheduled
 ```
 
 ## Unit

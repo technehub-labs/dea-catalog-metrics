@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Residual Risk Acceptance Cycle Time** 
 - **Canonical id:** `dea:metric-residual-risk-acceptance-cycle-time`
 - **Name:** Residual Risk Acceptance Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRACT
 
@@ -18,7 +18,7 @@ A Third-Party Risk Management indicator, Residual Risk Acceptance Cycle Time (RR
 ## Formula
 
 ```
-Days from Exception Raised to Formal Acceptance
+RRACT = Days from Exception Raised to Formal Acceptance
 ```
 
 ## Unit

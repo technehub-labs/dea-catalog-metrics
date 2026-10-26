@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Verified Internally before Disclo
 - **Canonical id:** `dea:metric-data-verified-internally-before-disclosure`
 - **Name:** Data Verified Internally before Disclosure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVID
 
@@ -18,7 +18,7 @@ Within Environmental, Social & Governance Reporting, Data Verified Internally be
 ## Formula
 
 ```
-Metrics with Internal Verification / Metrics
+DVID = Metrics with Internal Verification / Metrics
 ```
 
 ## Unit

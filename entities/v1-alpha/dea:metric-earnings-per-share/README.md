@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings per Share** (EPS) in the Open
 - **Canonical id:** `dea:metric-earnings-per-share`
 - **Name:** Earnings per Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPS
 
@@ -22,7 +22,7 @@ Net income attributable to common shareholders divided by shares outstanding - t
 ## Formula
 
 ```
-(Net Income - Preferred Dividends) / Weighted Average Shares Outstanding
+EPS = (Net Income - Preferred Dividends) / Weighted Average Shares Outstanding
 ```
 
 ## Unit

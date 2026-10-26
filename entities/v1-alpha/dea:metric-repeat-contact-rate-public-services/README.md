@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Contact Rate (Public Services)*
 - **Canonical id:** `dea:metric-repeat-contact-rate-public-services`
 - **Name:** Repeat Contact Rate (Public Services)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCRPS
 
@@ -18,7 +18,7 @@ A Public Sector & Citizen Service Standard Measures (Deep Dive) indicator, Repea
 ## Formula
 
 ```
-Citizens Re-contacting within 30 Days / Contacts
+RCRPS = Citizens Re-contacting within 30 Days / Contacts
 ```
 
 ## Unit

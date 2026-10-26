@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Observability Onboarding Time (New Ser
 - **Canonical id:** `dea:metric-observability-onboarding-time-new-service`
 - **Name:** Observability Onboarding Time (New Service)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OONT
 
@@ -18,7 +18,7 @@ Observability Onboarding Time (New Service) (OONT) measures how efficiently reso
 ## Formula
 
 ```
-Days from Service Launch to Full Instrumentation
+OONT = Days from Service Launch to Full Instrumentation
 ```
 
 ## Unit

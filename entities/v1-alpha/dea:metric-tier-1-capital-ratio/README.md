@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tier 1 Capital Ratio** (T1CR) in the O
 - **Canonical id:** `dea:metric-tier-1-capital-ratio`
 - **Name:** Tier 1 Capital Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** T1CR
 
@@ -22,7 +22,7 @@ Tier 1 capital - common equity plus qualifying instruments that absorb losses go
 ## Formula
 
 ```
-Tier 1 Capital / Risk-Weighted Assets
+T1CR = Tier 1 Capital / Risk-Weighted Assets
 ```
 
 ## Unit

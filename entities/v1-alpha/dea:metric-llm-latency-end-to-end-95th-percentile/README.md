@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Latency - End to End 95th Percenti
 - **Canonical id:** `dea:metric-llm-latency-end-to-end-95th-percentile`
 - **Name:** LLM Latency - End to End 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLMLE95
 
@@ -18,7 +18,7 @@ LLM Latency - End to End 95th Percentile (LLMLE95) captures the quality of outpu
 ## Formula
 
 ```
-95th Percentile Full Response Latency
+LLMLE95 = 95th Percentile Full Response Latency
 ```
 
 ## Unit

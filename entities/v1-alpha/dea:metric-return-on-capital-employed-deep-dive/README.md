@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Capital Employed (Deep Dive)
 - **Canonical id:** `dea:metric-return-on-capital-employed-deep-dive`
 - **Name:** Return on Capital Employed (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROCE-D
 
@@ -22,7 +22,7 @@ Measures profit generated per unit of long-term capital deployed. ROCE is the cl
 ## Formula
 
 ```
-EBIT / Capital Employed
+ROCE-D = EBIT / Capital Employed
 ```
 
 ## Unit

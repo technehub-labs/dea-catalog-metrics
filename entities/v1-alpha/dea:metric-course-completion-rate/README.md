@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Course Completion Rate** (CCR-E) in th
 - **Canonical id:** `dea:metric-course-completion-rate`
 - **Name:** Course Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-E
 
@@ -22,7 +22,7 @@ Measures the share of enrolled learners finishing a course. It matters because c
 ## Formula
 
 ```
-Completed Course Enrollments / Enrollments
+CCR-E = Completed Course Enrollments / Enrollments
 ```
 
 ## Unit

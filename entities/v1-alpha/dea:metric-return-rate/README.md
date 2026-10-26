@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return Rate** (RTR) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-return-rate`
 - **Name:** Return Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTR
 
@@ -22,7 +22,7 @@ Measures the share of sold items returned by customers. It matters because retur
 ## Formula
 
 ```
-Returned Orders / Orders Shipped
+RTR = Returned Orders / Orders Shipped
 ```
 
 ## Unit

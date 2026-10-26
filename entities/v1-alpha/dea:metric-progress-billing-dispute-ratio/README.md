@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Progress Billing Dispute Ratio** (PBDR
 - **Canonical id:** `dea:metric-progress-billing-dispute-ratio`
 - **Name:** Progress Billing Dispute Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBDR
 
@@ -18,7 +18,7 @@ Progress Billing Dispute Ratio (PBDR) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Billing Disputes / Progress Claims
+PBDR = Billing Disputes / Progress Claims
 ```
 
 ## Unit

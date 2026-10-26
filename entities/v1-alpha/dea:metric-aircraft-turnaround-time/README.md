@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Time** (ATT) in th
 - **Canonical id:** `dea:metric-aircraft-turnaround-time`
 - **Name:** Aircraft Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATT
 
@@ -18,7 +18,7 @@ Within Airlines & Aviation, Aircraft Turnaround Time (ATT) is used to gauge how 
 ## Formula
 
 ```
-Minutes from Arrival to Next Departure at Gate
+ATT = Minutes from Arrival to Next Departure at Gate
 ```
 
 ## Unit

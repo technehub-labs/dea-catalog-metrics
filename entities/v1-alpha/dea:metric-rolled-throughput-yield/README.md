@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolled Throughput Yield** (RTYS) in th
 - **Canonical id:** `dea:metric-rolled-throughput-yield`
 - **Name:** Rolled Throughput Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTYS
 
@@ -18,7 +18,7 @@ Rolled Throughput Yield (RTYS) addresses the quality of outputs and outcomes and
 ## Formula
 
 ```
-Product of Step Yields across Process Chain
+RTYS = Product of Step Yields across Process Chain
 ```
 
 ## Unit

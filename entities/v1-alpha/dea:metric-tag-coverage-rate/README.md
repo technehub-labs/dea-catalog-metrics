@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tag Coverage Rate** (TAGCR) in the Ope
 - **Canonical id:** `dea:metric-tag-coverage-rate`
 - **Name:** Tag Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAGCR
 
@@ -18,7 +18,7 @@ Tag Coverage Rate (TAGCR) addresses the quality of outputs and outcomes and is a
 ## Formula
 
 ```
-Pages with Complete Analytics Tag Firing / Pages
+TAGCR = Pages with Complete Analytics Tag Firing / Pages
 ```
 
 ## Unit

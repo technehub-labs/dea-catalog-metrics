@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Queue Waiting Time - 85th Percentile**
 - **Canonical id:** `dea:metric-queue-waiting-time-85th-percentile`
 - **Name:** Queue Waiting Time - 85th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QW85
 
@@ -18,7 +18,7 @@ Within Retail Banking Branch Network (Deep Dive), Queue Waiting Time - 85th Perc
 ## Formula
 
 ```
-Minutes waited by 85th percentile customer
+QW85 = Minutes waited by 85th percentile customer
 ```
 
 ## Unit

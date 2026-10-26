@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share Price Volatility** (SPV) in the 
 - **Canonical id:** `dea:metric-share-price-volatility`
 - **Name:** Share Price Volatility
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPV
 
@@ -22,7 +22,7 @@ The dispersion of the share price over a window, conventionally the annualized s
 ## Formula
 
 ```
-Annualized Standard Deviation of Daily Returns
+SPV = Annualized Standard Deviation of Daily Returns
 ```
 
 ## Unit

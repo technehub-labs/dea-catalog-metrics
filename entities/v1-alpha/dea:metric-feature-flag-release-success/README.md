@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Flag Release Success** (FFRS) 
 - **Canonical id:** `dea:metric-feature-flag-release-success`
 - **Name:** Feature Flag Release Success
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FFRS
 
@@ -18,7 +18,7 @@ Feature Flag Release Success (FFRS) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Features Released without Rollback / Features Released
+FFRS = Features Released without Rollback / Features Released
 ```
 
 ## Unit

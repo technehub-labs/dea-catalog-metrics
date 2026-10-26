@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IBNR Accuracy Ratio** (IBNR-AR) in the
 - **Canonical id:** `dea:metric-ibnr-accuracy-ratio`
 - **Name:** IBNR Accuracy Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IBNR-AR
 
@@ -22,7 +22,7 @@ Measures how accurately incurred-but-not-reported reserves were estimated agains
 ## Formula
 
 ```
-Actual IBNR / Estimated IBNR
+IBNR-AR = Actual IBNR / Estimated IBNR
 ```
 
 ## Unit

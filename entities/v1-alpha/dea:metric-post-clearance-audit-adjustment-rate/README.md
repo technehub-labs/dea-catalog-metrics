@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Clearance Audit Adjustment Rate**
 - **Canonical id:** `dea:metric-post-clearance-audit-adjustment-rate`
 - **Name:** Post-Clearance Audit Adjustment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCAAR
 
@@ -22,7 +22,7 @@ Measures duty and classification changes arising from customs audits of prior en
 ## Formula
 
 ```
-Audits with Duty Adjustment / Audits
+PCAAR = Audits with Duty Adjustment / Audits
 ```
 
 ## Unit

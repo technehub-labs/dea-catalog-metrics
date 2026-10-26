@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Case Investigation Cycle Time** 
 - **Canonical id:** `dea:metric-fraud-case-investigation-cycle-time`
 - **Name:** Fraud Case Investigation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCICT
 
@@ -18,7 +18,7 @@ Within Enterprise Fraud & Financial Crime Management, Fraud Case Investigation C
 ## Formula
 
 ```
-Days from Case Opening to Disposition
+FCICT = Days from Case Opening to Disposition
 ```
 
 ## Unit

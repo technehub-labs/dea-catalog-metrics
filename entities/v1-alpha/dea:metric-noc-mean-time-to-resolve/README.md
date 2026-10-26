@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Mean Time to Resolve** (NOMTR) in 
 - **Canonical id:** `dea:metric-noc-mean-time-to-resolve`
 - **Name:** NOC Mean Time to Resolve
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOMTR
 
@@ -22,7 +22,7 @@ Measures average time from ticket open to resolution in network operations. Reso
 ## Formula
 
 ```
-Hours from Acknowledgment to Resolution
+NOMTR = Hours from Acknowledgment to Resolution
 ```
 
 ## Unit

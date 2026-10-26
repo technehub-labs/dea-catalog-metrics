@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-Weighted Rate of Return (Deep Div
 - **Canonical id:** `dea:metric-time-weighted-rate-of-return-deep-dive`
 - **Name:** Time-Weighted Rate of Return (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TWRR-D
 
@@ -22,7 +22,7 @@ Measures the compound growth rate of a portfolio isolating the manager's decisio
 ## Formula
 
 ```
-Compound Sub-Period Returns Adjusted for Flows
+TWRR-D = Compound Sub-Period Returns Adjusted for Flows
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bradford Factor** (BRADF) in the OpenD
 - **Canonical id:** `dea:metric-bradford-factor`
 - **Name:** Bradford Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRADF
 
@@ -22,7 +22,7 @@ The Bradford Factor, from Bradford University management practice, scores absenc
 ## Formula
 
 ```
-S^2 x D (Frequency Squared x Days of Absence)
+BRADF = S^2 x D (Frequency Squared x Days of Absence)
 ```
 
 ## Unit

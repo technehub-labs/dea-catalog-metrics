@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate - NOC to Engineering**
 - **Canonical id:** `dea:metric-escalation-rate-noc-to-engineering`
 - **Name:** Escalation Rate - NOC to Engineering
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERNOC
 
@@ -18,7 +18,7 @@ A Network Operations Center (Deep Dive) indicator, Escalation Rate - NOC to Engi
 ## Formula
 
 ```
-Tickets Escalated beyond NOC / Tickets
+ERNOC = Tickets Escalated beyond NOC / Tickets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsorship Activation Delivery Rate**
 - **Canonical id:** `dea:metric-sponsorship-activation-delivery-rate`
 - **Name:** Sponsorship Activation Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SADR-S
 
@@ -18,7 +18,7 @@ Sponsorship Activation Delivery Rate (SADR-S) measures conformance to standards,
 ## Formula
 
 ```
-Contracted Assets Delivered / Contracted
+SADR-S = Contracted Assets Delivered / Contracted
 ```
 
 ## Unit

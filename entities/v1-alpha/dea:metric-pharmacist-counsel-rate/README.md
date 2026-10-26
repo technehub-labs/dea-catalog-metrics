@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pharmacist Counsel Rate** (PCR-Ph) in 
 - **Canonical id:** `dea:metric-pharmacist-counsel-rate`
 - **Name:** Pharmacist Counsel Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR-Ph
 
@@ -18,7 +18,7 @@ Within Pharmacy Retail, Pharmacist Counsel Rate (PCR-Ph) is used to gauge the qu
 ## Formula
 
 ```
-Counseling Interactions / New Prescriptions
+PCR-Ph = Counseling Interactions / New Prescriptions
 ```
 
 ## Unit

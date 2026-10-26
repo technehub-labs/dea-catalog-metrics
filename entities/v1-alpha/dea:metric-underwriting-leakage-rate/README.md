@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Leakage Rate** (UWLR2) in
 - **Canonical id:** `dea:metric-underwriting-leakage-rate`
 - **Name:** Underwriting Leakage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UWLR2
 
@@ -18,7 +18,7 @@ A Insurance Underwriting indicator, Underwriting Leakage Rate (UWLR2) quantifies
 ## Formula
 
 ```
-Premium Shortfalls from Rating Errors / Gross Premium
+UWLR2 = Premium Shortfalls from Rating Errors / Gross Premium
 ```
 
 ## Unit

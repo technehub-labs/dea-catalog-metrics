@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metal Recovery Rate (Deep Dive)** (MRR
 - **Canonical id:** `dea:metric-metal-recovery-rate-deep-dive`
 - **Name:** Metal Recovery Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRR-D
 
@@ -22,7 +22,7 @@ Measures the share of metal content recovered from ore through processing. It co
 ## Formula
 
 ```
-Recovered Metal / Contained Metal
+MRR-D = Recovered Metal / Contained Metal
 ```
 
 ## Unit

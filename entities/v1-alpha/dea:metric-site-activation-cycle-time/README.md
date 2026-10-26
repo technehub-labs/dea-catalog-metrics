@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Activation Cycle Time** (SACT) in
 - **Canonical id:** `dea:metric-site-activation-cycle-time`
 - **Name:** Site Activation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACT
 
@@ -18,7 +18,7 @@ Site Activation Cycle Time (SACT) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Days from Site Selection to Site Activation
+SACT = Days from Site Selection to Site Activation
 ```
 
 ## Unit

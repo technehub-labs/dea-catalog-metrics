@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Compliance - Airpo
 - **Canonical id:** `dea:metric-aircraft-turnaround-compliance-airport`
 - **Name:** Aircraft Turnaround Compliance - Airport
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATCA
 
@@ -18,7 +18,7 @@ A Airport Operations (Deep Dive) indicator, Aircraft Turnaround Compliance - Air
 ## Formula
 
 ```
-Turnarounds within Airline SLA / Turnarounds
+ATCA = Turnarounds within Airline SLA / Turnarounds
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Application Filing Rate** (PAFR
 - **Canonical id:** `dea:metric-patent-application-filing-rate`
 - **Name:** Patent Application Filing Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAFR
 
@@ -22,7 +22,7 @@ Patent applications filed per period, often normalized per R&D dollar or per res
 ## Formula
 
 ```
-Patent Applications Filed per Period
+PAFR = Patent Applications Filed per Period
 ```
 
 ## Unit

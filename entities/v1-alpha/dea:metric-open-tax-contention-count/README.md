@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Tax Contention Count** (OTCC) in 
 - **Canonical id:** `dea:metric-open-tax-contention-count`
 - **Name:** Open Tax Contention Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTCC
 
@@ -22,7 +22,7 @@ The number of unresolved tax disputes and open examinations - the exposure metri
 ## Formula
 
 ```
-Unresolved Tax Disputes with Authorities
+OTCC = Unresolved Tax Disputes with Authorities
 ```
 
 ## Unit

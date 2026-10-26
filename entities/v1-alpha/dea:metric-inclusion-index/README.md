@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusion Index** (INCI) in the OpenDE
 - **Canonical id:** `dea:metric-inclusion-index`
 - **Name:** Inclusion Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INCI
 
@@ -22,7 +22,7 @@ Measures employees' felt sense of belonging, voice, and fair treatment, compleme
 ## Formula
 
 ```
-Weighted Index of Belonging and Fairness Survey Items
+INCI = Weighted Index of Belonging and Fairness Survey Items
 ```
 
 ## Unit

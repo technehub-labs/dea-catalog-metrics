@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Issue Closure Rate** (CICR) i
 - **Canonical id:** `dea:metric-critical-issue-closure-rate`
 - **Name:** Critical Issue Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CICR
 
@@ -18,7 +18,7 @@ Critical Issue Closure Rate (CICR) addresses exposure to adverse outcomes and is
 ## Formula
 
 ```
-Critical Issues Closed within SLA / Critical Issues
+CICR = Critical Issues Closed within SLA / Critical Issues
 ```
 
 ## Unit

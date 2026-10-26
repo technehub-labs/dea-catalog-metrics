@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Segregation of Duties Violation Rate**
 - **Canonical id:** `dea:metric-segregation-of-duties-violation-rate`
 - **Name:** Segregation of Duties Violation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SODVR
 
@@ -22,7 +22,7 @@ Measures the frequency of users holding conflicting duty combinations (e.g., cre
 ## Formula
 
 ```
-SoD Conflicts Detected per Period
+SODVR = SoD Conflicts Detected per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Reserve Adequacy** (LRA) in the O
 - **Canonical id:** `dea:metric-loss-reserve-adequacy`
 - **Name:** Loss Reserve Adequacy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRA
 
@@ -22,7 +22,7 @@ An aggregate judgment measure - current reserves against expected ultimate losse
 ## Formula
 
 ```
-Reserves Held / Actuarial Best Estimate
+LRA = Reserves Held / Actuarial Best Estimate
 ```
 
 ## Unit

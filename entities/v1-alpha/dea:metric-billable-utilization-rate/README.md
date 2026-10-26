@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Billable Utilization Rate** (BUR) in t
 - **Canonical id:** `dea:metric-billable-utilization-rate`
 - **Name:** Billable Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BUR
 
@@ -22,7 +22,7 @@ Billable hours as a share of available working hours - the revenue-productivity 
 ## Formula
 
 ```
-Billable Hours / Available Hours
+BUR = Billable Hours / Available Hours
 ```
 
 ## Unit

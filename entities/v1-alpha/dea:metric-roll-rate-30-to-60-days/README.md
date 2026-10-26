@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Roll Rate (30 to 60 Days)** (RR3060) i
 - **Canonical id:** `dea:metric-roll-rate-30-to-60-days`
 - **Name:** Roll Rate (30 to 60 Days)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RR3060
 
@@ -18,7 +18,7 @@ Roll Rate (30 to 60 Days) (RR3060) measures exposure to adverse outcomes in the 
 ## Formula
 
 ```
-Accounts Rolling from 30DPD to 60DPD / Accounts at 30DPD
+RR3060 = Accounts Rolling from 30DPD to 60DPD / Accounts at 30DPD
 ```
 
 ## Unit

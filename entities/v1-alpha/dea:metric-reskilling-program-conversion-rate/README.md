@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reskilling Program Conversion Rate** (
 - **Canonical id:** `dea:metric-reskilling-program-conversion-rate`
 - **Name:** Reskilling Program Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPCR-LD
 
@@ -22,7 +22,7 @@ Measures how many program participants actually transition into the target roles
 ## Formula
 
 ```
-Participants Redeployed to New Roles / Participants
+RPCR-LD = Participants Redeployed to New Roles / Participants
 ```
 
 ## Unit

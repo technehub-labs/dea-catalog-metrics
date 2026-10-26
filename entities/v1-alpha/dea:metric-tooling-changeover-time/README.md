@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tooling Changeover Time** (TCT-A) in t
 - **Canonical id:** `dea:metric-tooling-changeover-time`
 - **Name:** Tooling Changeover Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCT-A
 
@@ -18,7 +18,7 @@ A Automotive indicator, Tooling Changeover Time (TCT-A) quantifies how efficient
 ## Formula
 
 ```
-Time to Change Stamping or Assembly Tooling
+TCT-A = Time to Change Stamping or Assembly Tooling
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Parcel (Deep Dive)** (CPP-D) 
 - **Canonical id:** `dea:metric-cost-per-parcel-deep-dive`
 - **Name:** Cost per Parcel (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPP-D
 
@@ -22,7 +22,7 @@ Measures fully loaded delivery cost per parcel. It is the unit-economics metric 
 ## Formula
 
 ```
-Delivery Cost / Parcels Delivered
+CPP-D = Delivery Cost / Parcels Delivered
 ```
 
 ## Unit

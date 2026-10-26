@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Institutional Ownership Share** (IOS) 
 - **Canonical id:** `dea:metric-institutional-ownership-share`
 - **Name:** Institutional Ownership Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IOS
 
@@ -22,7 +22,7 @@ The proportion of shares held by institutional investors - the ownership-structu
 ## Formula
 
 ```
-Institutionally Held Shares / Shares Outstanding
+IOS = Institutionally Held Shares / Shares Outstanding
 ```
 
 ## Unit

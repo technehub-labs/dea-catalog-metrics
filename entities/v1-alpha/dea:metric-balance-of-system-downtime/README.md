@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Balance of System Downtime** (BOSD) in
 - **Canonical id:** `dea:metric-balance-of-system-downtime`
 - **Name:** Balance of System Downtime
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOSD
 
@@ -18,7 +18,7 @@ A Energy Transition & Renewables indicator, Balance of System Downtime (BOSD) qu
 ## Formula
 
 ```
-Grid or Inverter Downtime Hours / Total Hours
+BOSD = Grid or Inverter Downtime Hours / Total Hours
 ```
 
 ## Unit

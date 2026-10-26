@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Buffer Consumption Rate** (SB
 - **Canonical id:** `dea:metric-schedule-buffer-consumption-rate`
 - **Name:** Schedule Buffer Consumption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBCR
 
@@ -18,7 +18,7 @@ Schedule Buffer Consumption Rate (SBCR) addresses exposure to adverse outcomes a
 ## Formula
 
 ```
-Buffer Consumed / Buffer Planned
+SBCR = Buffer Consumed / Buffer Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **WAN Link Utilization Peak** (WLUP) in 
 - **Canonical id:** `dea:metric-wan-link-utilization-peak`
 - **Name:** WAN Link Utilization Peak
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WLUP
 
@@ -18,7 +18,7 @@ A Network Performance & Capacity indicator, WAN Link Utilization Peak (WLUP) qua
 ## Formula
 
 ```
-Peak Period Traffic / Circuit Capacity
+WLUP = Peak Period Traffic / Circuit Capacity
 ```
 
 ## Unit

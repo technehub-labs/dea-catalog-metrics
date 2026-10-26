@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Specificity** (MSPEC) in the Ope
 - **Canonical id:** `dea:metric-model-specificity`
 - **Name:** Model Specificity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSPEC
 
@@ -18,7 +18,7 @@ Model Specificity (MSPEC) addresses the quality of outputs and outcomes and is a
 ## Formula
 
 ```
-True Negatives / (True Negatives + False Positives)
+MSPEC = True Negatives / (True Negatives + False Positives)
 ```
 
 ## Unit

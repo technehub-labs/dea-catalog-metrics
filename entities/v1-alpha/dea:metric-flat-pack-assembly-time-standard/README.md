@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flat-Pack Assembly Time (Standard)** (
 - **Canonical id:** `dea:metric-flat-pack-assembly-time-standard`
 - **Name:** Flat-Pack Assembly Time (Standard)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPAT
 
@@ -18,7 +18,7 @@ Flat-Pack Assembly Time (Standard) (FPAT) measures the quality of outputs and ou
 ## Formula
 
 ```
-Minutes for Standard Assembly Sequence
+FPAT = Minutes for Standard Assembly Sequence
 ```
 
 ## Unit

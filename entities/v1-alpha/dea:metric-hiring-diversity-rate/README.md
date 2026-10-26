@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hiring Diversity Rate** (HDR-D) in the
 - **Canonical id:** `dea:metric-hiring-diversity-rate`
 - **Name:** Hiring Diversity Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HDR-D
 
@@ -22,7 +22,7 @@ Measures the demographic composition of new hires over a period. It is the faste
 ## Formula
 
 ```
-Diverse Hires / Total Hires
+HDR-D = Diverse Hires / Total Hires
 ```
 
 ## Unit

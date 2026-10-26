@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (SaaS)** (NPS-S) in
 - **Canonical id:** `dea:metric-net-promoter-score-saas`
 - **Name:** Net Promoter Score (SaaS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPS-S
 
@@ -22,7 +22,7 @@ The recommend metric applied to the SaaS relationship - the loyalty gauge of sub
 ## Formula
 
 ```
-% Promoters - % Detractors among SaaS Accounts
+NPS-S = % Promoters - % Detractors among SaaS Accounts
 ```
 
 ## Unit

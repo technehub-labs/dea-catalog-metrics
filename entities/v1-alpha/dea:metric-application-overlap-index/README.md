@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Overlap Index** (AOI) in t
 - **Canonical id:** `dea:metric-application-overlap-index`
 - **Name:** Application Overlap Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AOI
 
@@ -22,7 +22,7 @@ Quantifies functional redundancy across the application portfolio - how many sys
 ## Formula
 
 ```
-Applications with Duplicated Functionality / Total Applications
+AOI = Applications with Duplicated Functionality / Total Applications
 ```
 
 ## Unit

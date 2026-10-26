@@ -7,7 +7,7 @@ Candidate Performance Metric record for **De-Icing Cycle Compliance** (DICC) in 
 - **Canonical id:** `dea:metric-de-icing-cycle-compliance`
 - **Name:** De-Icing Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DICC
 
@@ -18,7 +18,7 @@ Within Airport Operations (Deep Dive), De-Icing Cycle Compliance (DICC) is used 
 ## Formula
 
 ```
-De-Icing within Holdover Time / Applications
+DICC = De-Icing within Holdover Time / Applications
 ```
 
 ## Unit

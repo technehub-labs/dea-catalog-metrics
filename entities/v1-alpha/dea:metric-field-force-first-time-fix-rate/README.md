@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Force First-Time Fix Rate** (FTF
 - **Canonical id:** `dea:metric-field-force-first-time-fix-rate`
 - **Name:** Field Force First-Time Fix Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTFR
 
@@ -18,7 +18,7 @@ Field Force First-Time Fix Rate (FTFR) addresses how efficiently resources are c
 ## Formula
 
 ```
-Faults Resolved on First Visit / Faults Dispatched
+FTFR = Faults Resolved on First Visit / Faults Dispatched
 ```
 
 ## Unit

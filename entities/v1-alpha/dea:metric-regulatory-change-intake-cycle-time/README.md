@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Change Intake Cycle Time** 
 - **Canonical id:** `dea:metric-regulatory-change-intake-cycle-time`
 - **Name:** Regulatory Change Intake Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCICT
 
@@ -18,7 +18,7 @@ Regulatory Change Intake Cycle Time (RCICT) addresses how efficiently resources 
 ## Formula
 
 ```
-Days from Regulation Published to Obligation Assessed
+RCICT = Days from Regulation Published to Obligation Assessed
 ```
 
 ## Unit

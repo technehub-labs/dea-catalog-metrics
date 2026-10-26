@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wind Turbine Availability** (WTA) in t
 - **Canonical id:** `dea:metric-wind-turbine-availability`
 - **Name:** Wind Turbine Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WTA
 
@@ -22,7 +22,7 @@ Wind turbine availability measures the share of time turbines are capable of ope
 ## Formula
 
 ```
-Turbine Available Hours / Total Hours
+WTA = Turbine Available Hours / Total Hours
 ```
 
 ## Unit

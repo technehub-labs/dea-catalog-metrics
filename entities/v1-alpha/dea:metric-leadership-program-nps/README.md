@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Program NPS** (LPNPS) in th
 - **Canonical id:** `dea:metric-leadership-program-nps`
 - **Name:** Leadership Program NPS
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPNPS
 
@@ -18,7 +18,7 @@ A Learning & Development Effectiveness (Deep Dive) indicator, Leadership Program
 ## Formula
 
 ```
-Net Promoter Score for Leadership Curricula
+LPNPS = Net Promoter Score for Leadership Curricula
 ```
 
 ## Unit

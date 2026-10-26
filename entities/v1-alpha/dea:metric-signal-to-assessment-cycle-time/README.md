@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Signal-to-Assessment Cycle Time** (SAC
 - **Canonical id:** `dea:metric-signal-to-assessment-cycle-time`
 - **Name:** Signal-to-Assessment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACT
 
@@ -22,7 +22,7 @@ Measures how long it takes from a detected weak signal to a completed assessment
 ## Formula
 
 ```
-Days from External Signal to Formal Risk Assessment
+SACT = Days from External Signal to Formal Risk Assessment
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Revenue Share** (DRS) in the O
 - **Canonical id:** `dea:metric-digital-revenue-share`
 - **Name:** Digital Revenue Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRS
 
@@ -22,7 +22,7 @@ Measures the proportion of total revenue from digitally originated, delivered, o
 ## Formula
 
 ```
-Digitally Originated Revenue / Total Revenue
+DRS = Digitally Originated Revenue / Total Revenue
 ```
 
 ## Unit

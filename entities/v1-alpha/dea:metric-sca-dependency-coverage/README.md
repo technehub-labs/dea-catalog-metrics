@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SCA Dependency Coverage** (SCADC) in t
 - **Canonical id:** `dea:metric-sca-dependency-coverage`
 - **Name:** SCA Dependency Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCADC
 
@@ -18,7 +18,7 @@ SCA Dependency Coverage (SCADC) measures exposure to adverse outcomes in the App
 ## Formula
 
 ```
-Projects with Dependency Scanning / Projects
+SCADC = Projects with Dependency Scanning / Projects
 ```
 
 ## Unit

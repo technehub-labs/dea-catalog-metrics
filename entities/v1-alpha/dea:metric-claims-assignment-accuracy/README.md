@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Assignment Accuracy** (CLA) in 
 - **Canonical id:** `dea:metric-claims-assignment-accuracy`
 - **Name:** Claims Assignment Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLA
 
@@ -18,7 +18,7 @@ A Insurance Claims Deep Dive indicator, Claims Assignment Accuracy (CLA) quantif
 ## Formula
 
 ```
-Claims Correctly Assigned on Intake / Claims Assigned
+CLA = Claims Correctly Assigned on Intake / Claims Assigned
 ```
 
 ## Unit

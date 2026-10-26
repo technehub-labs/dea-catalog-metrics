@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Risk Correlation Mapping Coverag
 - **Canonical id:** `dea:metric-cross-risk-correlation-mapping-coverage`
 - **Name:** Cross-Risk Correlation Mapping Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCMC
 
@@ -22,7 +22,7 @@ Measures how well interactions between risks (compounding and cascading effects)
 ## Formula
 
 ```
-Mapped Risk Interdependencies / Key Risk Pairs
+CRCMC = Mapped Risk Interdependencies / Key Risk Pairs
 ```
 
 ## Unit

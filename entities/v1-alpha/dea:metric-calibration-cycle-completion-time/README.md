@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calibration Cycle Completion Time** (B
 - **Canonical id:** `dea:metric-calibration-cycle-completion-time`
 - **Name:** Calibration Cycle Completion Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCCT-OKR
 
@@ -18,7 +18,7 @@ A Enterprise OKR & Performance Management indicator, Calibration Cycle Completio
 ## Formula
 
 ```
-Days to Complete Performance Calibration Cycle
+BCCT-OKR = Days to Complete Performance Calibration Cycle
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Culture Alignment Index (Deep Dive)** 
 - **Canonical id:** `dea:metric-culture-alignment-index-deep-dive`
 - **Name:** Culture Alignment Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAI-EE
 
@@ -22,7 +22,7 @@ Measures how consistently experienced culture matches the declared culture acros
 ## Formula
 
 ```
-Survey Composite of Stated vs Lived Values
+CAI-EE = Survey Composite of Stated vs Lived Values
 ```
 
 ## Unit

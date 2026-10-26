@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flow Efficiency (Deep Dive)** (FE-D) i
 - **Canonical id:** `dea:metric-flow-efficiency-deep-dive`
 - **Name:** Flow Efficiency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FE-D
 
@@ -22,7 +22,7 @@ Measures active work time versus total elapsed time for work items. Most items w
 ## Formula
 
 ```
-Active Work Time / Total Lead Time
+FE-D = Active Work Time / Total Lead Time
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Withdrawal Rate** (PWR-E
 - **Canonical id:** `dea:metric-psychological-withdrawal-rate`
 - **Name:** Psychological Withdrawal Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PWR-E
 
@@ -22,7 +22,7 @@ Estimates the share of employees who are disengaged at work - present but mental
 ## Formula
 
 ```
-Employees below Engagement Threshold with Presenteeism / Employees
+PWR-E = Employees below Engagement Threshold with Presenteeism / Employees
 ```
 
 ## Unit

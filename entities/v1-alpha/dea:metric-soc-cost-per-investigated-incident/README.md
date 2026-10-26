@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SOC Cost per Investigated Incident** (
 - **Canonical id:** `dea:metric-soc-cost-per-investigated-incident`
 - **Name:** SOC Cost per Investigated Incident
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOCPII
 
@@ -22,7 +22,7 @@ Measures the fully loaded cost of operating the SOC divided by investigated inci
 ## Formula
 
 ```
-SOC Operating Cost / Investigated Incidents
+SOCPII = SOC Operating Cost / Investigated Incidents
 ```
 
 ## Unit

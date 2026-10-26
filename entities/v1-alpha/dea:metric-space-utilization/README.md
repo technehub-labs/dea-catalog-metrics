@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Utilization** (SUT) in the OpenD
 - **Canonical id:** `dea:metric-space-utilization`
 - **Name:** Space Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUT
 
@@ -22,7 +22,7 @@ The share of workplace capacity actually occupied in use - the metric through wh
 ## Formula
 
 ```
-Occupied Workspaces / Total Workspaces
+SUT = Occupied Workspaces / Total Workspaces
 ```
 
 ## Unit

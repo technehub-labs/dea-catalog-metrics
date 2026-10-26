@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ingredient Waste Ratio** (IWR) in the 
 - **Canonical id:** `dea:metric-ingredient-waste-ratio`
 - **Name:** Ingredient Waste Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IWR
 
@@ -18,7 +18,7 @@ Ingredient Waste Ratio (IWR) addresses how efficiently resources are converted i
 ## Formula
 
 ```
-Ingredient Waste / Ingredient Input
+IWR = Ingredient Waste / Ingredient Input
 ```
 
 ## Unit

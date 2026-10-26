@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis After-Action Improvement Rate**
 - **Canonical id:** `dea:metric-crisis-after-action-improvement-rate`
 - **Name:** Crisis After-Action Improvement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAIR
 
@@ -18,7 +18,7 @@ Crisis After-Action Improvement Rate (CAIR) measures conformance to standards, p
 ## Formula
 
 ```
-After-Action Actions Closed within 90 Days / Actions
+CAIR = After-Action Actions Closed within 90 Days / Actions
 ```
 
 ## Unit

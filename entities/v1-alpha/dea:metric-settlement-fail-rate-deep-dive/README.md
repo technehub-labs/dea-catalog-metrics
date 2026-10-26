@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Settlement Fail Rate (Deep Dive)** (SE
 - **Canonical id:** `dea:metric-settlement-fail-rate-deep-dive`
 - **Name:** Settlement Fail Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SEFR-D
 
@@ -18,7 +18,7 @@ Settlement Fail Rate (Deep Dive) (SEFR-D) addresses exposure to adverse outcomes
 ## Formula
 
 ```
-Failed Settlements / Settlements
+SEFR-D = Failed Settlements / Settlements
 ```
 
 ## Unit

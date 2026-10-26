@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Capability Index (Cpk)** (CPKS
 - **Canonical id:** `dea:metric-process-capability-index-cpk`
 - **Name:** Process Capability Index (Cpk)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPKS
 
@@ -22,7 +22,7 @@ Cpk is Cp adjusted for centering - the distance from the process mean to the nea
 ## Formula
 
 ```
-Min Distance of Mean to Spec Limit / (3 x Std Dev)
+CPKS = Min Distance of Mean to Spec Limit / (3 x Std Dev)
 ```
 
 ## Unit

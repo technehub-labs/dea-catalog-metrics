@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Ring Detection Yield** (FRDY) in
 - **Canonical id:** `dea:metric-fraud-ring-detection-yield`
 - **Name:** Fraud Ring Detection Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRDY
 
@@ -18,7 +18,7 @@ Fraud Ring Detection Yield (FRDY) measures exposure to adverse outcomes in the E
 ## Formula
 
 ```
-Confirmed Rings Disrupted / Network Investigations
+FRDY = Confirmed Rings Disrupted / Network Investigations
 ```
 
 ## Unit

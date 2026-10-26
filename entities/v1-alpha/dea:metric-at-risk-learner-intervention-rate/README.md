@@ -7,7 +7,7 @@ Candidate Performance Metric record for **At-Risk Learner Intervention Rate** (A
 - **Canonical id:** `dea:metric-at-risk-learner-intervention-rate`
 - **Name:** At-Risk Learner Intervention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALIR
 
@@ -18,7 +18,7 @@ At-Risk Learner Intervention Rate (ALIR) measures the quality of outputs and out
 ## Formula
 
 ```
-At-Risk Learners Receiving Support / Identified
+ALIR = At-Risk Learners Receiving Support / Identified
 ```
 
 ## Unit

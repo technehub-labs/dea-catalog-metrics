@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Response Time** (ART2) in 
 - **Canonical id:** `dea:metric-application-response-time`
 - **Name:** Application Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ART2
 
@@ -18,7 +18,7 @@ Application Response Time (ART2) captures the quality of outputs and outcomes fo
 ## Formula
 
 ```
-Median End-User Response Time
+ART2 = Median End-User Response Time
 ```
 
 ## Unit

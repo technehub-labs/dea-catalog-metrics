@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Staff Engagement** (TSE) in th
 - **Canonical id:** `dea:metric-time-to-staff-engagement`
 - **Name:** Time to Staff Engagement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSE
 
@@ -18,7 +18,7 @@ Time to Staff Engagement (TSE) measures how efficiently resources are converted 
 ## Formula
 
 ```
-Days from Engagement Win to Team Mobilized
+TSE = Days from Engagement Win to Team Mobilized
 ```
 
 ## Unit

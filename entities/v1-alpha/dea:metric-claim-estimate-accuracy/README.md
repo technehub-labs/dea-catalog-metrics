@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Estimate Accuracy** (CEA) in the
 - **Canonical id:** `dea:metric-claim-estimate-accuracy`
 - **Name:** Claim Estimate Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEA
 
@@ -22,7 +22,7 @@ Measures how closely initial claim estimates match ultimate settlement cost. It 
 ## Formula
 
 ```
-1 - ABS(Initial Reserve - Final Settlement) / Final Settlement
+CEA = 1 - ABS(Initial Reserve - Final Settlement) / Final Settlement
 ```
 
 ## Unit

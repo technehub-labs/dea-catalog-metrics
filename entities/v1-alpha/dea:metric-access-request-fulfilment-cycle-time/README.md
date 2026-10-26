@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Request Fulfilment Cycle Time**
 - **Canonical id:** `dea:metric-access-request-fulfilment-cycle-time`
 - **Name:** Access Request Fulfilment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARFCT
 
@@ -18,7 +18,7 @@ Access Request Fulfilment Cycle Time (ARFCT) measures how efficiently resources 
 ## Formula
 
 ```
-Hours from Request to Access Granted
+ARFCT = Hours from Request to Access Granted
 ```
 
 ## Unit

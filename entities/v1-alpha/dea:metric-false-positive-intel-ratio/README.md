@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Positive Intel Ratio** (FPIR) in
 - **Canonical id:** `dea:metric-false-positive-intel-ratio`
 - **Name:** False Positive Intel Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPIR
 
@@ -18,7 +18,7 @@ A Threat Intelligence & Red Team indicator, False Positive Intel Ratio (FPIR) qu
 ## Formula
 
 ```
-Intel Items Disproven / Items Actioned
+FPIR = Intel Items Disproven / Items Actioned
 ```
 
 ## Unit

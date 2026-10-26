@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Executive Threat Briefing Cadence** (E
 - **Canonical id:** `dea:metric-executive-threat-briefing-cadence`
 - **Name:** Executive Threat Briefing Cadence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETBC
 
@@ -22,7 +22,7 @@ Measures whether leadership receives threat and risk briefings on the committed 
 ## Formula
 
 ```
-Threat Briefings Delivered to Leadership per Quarter
+ETBC = Threat Briefings Delivered to Leadership per Quarter
 ```
 
 ## Unit

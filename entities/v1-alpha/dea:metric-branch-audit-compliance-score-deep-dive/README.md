@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Audit Compliance Score (Deep Di
 - **Canonical id:** `dea:metric-branch-audit-compliance-score-deep-dive`
 - **Name:** Branch Audit Compliance Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BACS-D
 
@@ -18,7 +18,7 @@ Branch Audit Compliance Score (Deep Dive) (BACS-D) measures conformance to stand
 ## Formula
 
 ```
-Composite Branch Audit Score
+BACS-D = Composite Branch Audit Score
 ```
 
 ## Unit

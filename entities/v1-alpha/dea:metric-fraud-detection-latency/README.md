@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Detection Latency** (FDL-EF) in 
 - **Canonical id:** `dea:metric-fraud-detection-latency`
 - **Name:** Fraud Detection Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDL-EF
 
@@ -18,7 +18,7 @@ Fraud Detection Latency (FDL-EF) captures exposure to adverse outcomes for organ
 ## Formula
 
 ```
-Days between Fraud Occurrence and Detection
+FDL-EF = Days between Fraud Occurrence and Detection
 ```
 
 ## Unit

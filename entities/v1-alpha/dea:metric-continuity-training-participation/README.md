@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Training Participation** (C
 - **Canonical id:** `dea:metric-continuity-training-participation`
 - **Name:** Continuity Training Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTP-B
 
@@ -18,7 +18,7 @@ Within Business Resilience & Continuity, Continuity Training Participation (CTP-
 ## Formula
 
 ```
-Staff Completing Continuity Roles Training / Assigned Staff
+CTP-B = Staff Completing Continuity Roles Training / Assigned Staff
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Implementation Shortfall (Deep Dive)**
 - **Canonical id:** `dea:metric-implementation-shortfall-deep-dive`
 - **Name:** Implementation Shortfall (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISF-D
 
@@ -22,7 +22,7 @@ Measures the total cost of executing an order versus the decision price, includi
 ## Formula
 
 ```
-Realized versus Paper Portfolio Cost
+ISF-D = Realized versus Paper Portfolio Cost
 ```
 
 ## Unit

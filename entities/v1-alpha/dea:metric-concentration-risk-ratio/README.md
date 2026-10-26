@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Concentration Risk Ratio** (CRR-TP) in
 - **Canonical id:** `dea:metric-concentration-risk-ratio`
 - **Name:** Concentration Risk Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRR-TP
 
@@ -22,7 +22,7 @@ Measures dependence on single vendors, geographies, or technologies across the t
 ## Formula
 
 ```
-Spend with Top 10 Vendors / Total Vendor Spend
+CRR-TP = Spend with Top 10 Vendors / Total Vendor Spend
 ```
 
 ## Unit

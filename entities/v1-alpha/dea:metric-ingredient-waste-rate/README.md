@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ingredient Waste Rate** (IWR) in the O
 - **Canonical id:** `dea:metric-ingredient-waste-rate`
 - **Name:** Ingredient Waste Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IWR
 
@@ -18,7 +18,7 @@ Within Restaurants, Ingredient Waste Rate (IWR) is used to gauge how efficiently
 ## Formula
 
 ```
-Wasted Ingredient Value / Ingredient Value Used
+IWR = Wasted Ingredient Value / Ingredient Value Used
 ```
 
 ## Unit

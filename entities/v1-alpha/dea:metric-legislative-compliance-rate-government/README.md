@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legislative Compliance Rate (Governmen
 - **Canonical id:** `dea:metric-legislative-compliance-rate-government`
 - **Name:** Legislative Compliance Rate (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCR-G
 
@@ -22,7 +22,7 @@ Measures adherence to statutory duties - reporting deadlines, mandated service s
 ## Formula
 
 ```
-Obligations Met on Time / Obligations
+LCR-G = Obligations Met on Time / Obligations
 ```
 
 ## Unit

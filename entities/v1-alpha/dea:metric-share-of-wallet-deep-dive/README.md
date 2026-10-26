@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Wallet (Deep Dive)** (SWDD) i
 - **Canonical id:** `dea:metric-share-of-wallet-deep-dive`
 - **Name:** Share of Wallet (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SWDD
 
@@ -22,7 +22,7 @@ Measures the company's share of each customer's total category spend. Wallet sha
 ## Formula
 
 ```
-Customer Spend with Entity / Total Category Spend
+SWDD = Customer Spend with Entity / Total Category Spend
 ```
 
 ## Unit

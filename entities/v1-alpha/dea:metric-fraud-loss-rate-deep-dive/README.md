@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Loss Rate (Deep Dive)** (FLR-D) 
 - **Canonical id:** `dea:metric-fraud-loss-rate-deep-dive`
 - **Name:** Fraud Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FLR-D
 
@@ -22,7 +22,7 @@ Measures fraud losses against premium or exposure volume. It is the exposure met
 ## Formula
 
 ```
-Fraud Losses / Transaction or Premium Base
+FLR-D = Fraud Losses / Transaction or Premium Base
 ```
 
 ## Unit

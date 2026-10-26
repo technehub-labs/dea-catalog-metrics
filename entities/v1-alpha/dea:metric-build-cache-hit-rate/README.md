@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Build Cache Hit Rate** (BCHR) in the O
 - **Canonical id:** `dea:metric-build-cache-hit-rate`
 - **Name:** Build Cache Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCHR
 
@@ -18,7 +18,7 @@ A Continuous Integration indicator, Build Cache Hit Rate (BCHR) quantifies how e
 ## Formula
 
 ```
-Builds Using Cached Artifacts / Builds
+BCHR = Builds Using Cached Artifacts / Builds
 ```
 
 ## Unit

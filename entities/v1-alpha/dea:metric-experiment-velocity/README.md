@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Velocity** (EXPV) in the Op
 - **Canonical id:** `dea:metric-experiment-velocity`
 - **Name:** Experiment Velocity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EXPV
 
@@ -18,7 +18,7 @@ Experiment Velocity (EXPV) addresses capability maturity or development and is a
 ## Formula
 
 ```
-Experiments Concluded with Decision per Period
+EXPV = Experiments Concluded with Decision per Period
 ```
 
 ## Unit

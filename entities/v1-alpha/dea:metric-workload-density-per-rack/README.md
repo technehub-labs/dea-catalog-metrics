@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workload Density per Rack** (WDR) in t
 - **Canonical id:** `dea:metric-workload-density-per-rack`
 - **Name:** Workload Density per Rack
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WDR
 
@@ -22,7 +22,7 @@ Measures compute workload packed per rack. It matters because higher density imp
 ## Formula
 
 ```
-Compute Power or Workloads / Rack
+WDR = Compute Power or Workloads / Rack
 ```
 
 ## Unit

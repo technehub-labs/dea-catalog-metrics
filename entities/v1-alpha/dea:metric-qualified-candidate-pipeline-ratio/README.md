@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Qualified Candidate Pipeline Ratio** (
 - **Canonical id:** `dea:metric-qualified-candidate-pipeline-ratio`
 - **Name:** Qualified Candidate Pipeline Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QCPR
 
@@ -18,7 +18,7 @@ Qualified Candidate Pipeline Ratio (QCPR) addresses the utilization or availabil
 ## Formula
 
 ```
-Qualified Candidates per Open Requisition
+QCPR = Qualified Candidates per Open Requisition
 ```
 
 ## Unit

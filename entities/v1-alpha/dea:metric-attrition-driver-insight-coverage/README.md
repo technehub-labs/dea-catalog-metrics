@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Driver Insight Coverage** (A
 - **Canonical id:** `dea:metric-attrition-driver-insight-coverage`
 - **Name:** Attrition Driver Insight Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADIC
 
@@ -18,7 +18,7 @@ Attrition Driver Insight Coverage (ADIC) measures the quality of outputs and out
 ## Formula
 
 ```
-Leavers with Coded Attributed Drivers / Leavers
+ADIC = Leavers with Coded Attributed Drivers / Leavers
 ```
 
 ## Unit

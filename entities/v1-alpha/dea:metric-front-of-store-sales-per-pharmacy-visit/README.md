@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Front-of-Store Sales per Pharmacy Visi
 - **Canonical id:** `dea:metric-front-of-store-sales-per-pharmacy-visit`
 - **Name:** Front-of-Store Sales per Pharmacy Visit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSSPV
 
@@ -18,7 +18,7 @@ Front-of-Store Sales per Pharmacy Visit (FSSPV) captures the economic value crea
 ## Formula
 
 ```
-Retail Sales / Pharmacy Visits
+FSSPV = Retail Sales / Pharmacy Visits
 ```
 
 ## Unit

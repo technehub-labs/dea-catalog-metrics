@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Placement** (TTP) in the OpenD
 - **Canonical id:** `dea:metric-time-to-placement`
 - **Name:** Time to Placement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTP
 
@@ -22,7 +22,7 @@ Measures days from candidate sourcing start to accepted placement in staffing. I
 ## Formula
 
 ```
-Days from Mandate Opening to Accepted Offer
+TTP = Days from Mandate Opening to Accepted Offer
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework Rate** (RWR) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-rework-rate`
 - **Name:** Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RWR
 
@@ -18,7 +18,7 @@ Rework Rate (RWR) addresses the quality of outputs and outcomes and is a fixture
 ## Formula
 
 ```
-Units Requiring Rework / Units Produced
+RWR = Units Requiring Rework / Units Produced
 ```
 
 ## Unit

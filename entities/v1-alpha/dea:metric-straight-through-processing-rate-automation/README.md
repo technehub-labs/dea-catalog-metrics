@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Straight-Through Processing Rate (Auto
 - **Canonical id:** `dea:metric-straight-through-processing-rate-automation`
 - **Name:** Straight-Through Processing Rate (Automation)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STPA
 
@@ -22,7 +22,7 @@ Measures the share of transactions or cases completed end-to-end without human t
 ## Formula
 
 ```
-Transactions Processed End-to-End without Manual Touch / Transactions
+STPA = Transactions Processed End-to-End without Manual Touch / Transactions
 ```
 
 ## Unit

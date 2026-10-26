@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cyclomatic Complexity (Deep Dive)** (C
 - **Canonical id:** `dea:metric-cyclomatic-complexity-deep-dive`
 - **Name:** Cyclomatic Complexity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CYCD
 
@@ -22,7 +22,7 @@ Cyclomatic complexity, introduced by Thomas J. McCabe Sr. (1976), counts the ind
 ## Formula
 
 ```
-Count of Independent Paths through Code Unit
+CYCD = Count of Independent Paths through Code Unit
 ```
 
 ## Unit

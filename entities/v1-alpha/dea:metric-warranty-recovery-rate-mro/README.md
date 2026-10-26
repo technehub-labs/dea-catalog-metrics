@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Recovery Rate (MRO)** (WRR-MR
 - **Canonical id:** `dea:metric-warranty-recovery-rate-mro`
 - **Name:** Warranty Recovery Rate (MRO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRR-MRO
 
@@ -22,7 +22,7 @@ Measures the share of eligible warranty costs recovered from OEMs. It matters be
 ## Formula
 
 ```
-Recovered Warranty Value / Eligible Warranty Value
+WRR-MRO = Recovered Warranty Value / Eligible Warranty Value
 ```
 
 ## Unit

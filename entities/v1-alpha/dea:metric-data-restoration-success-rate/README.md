@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Restoration Success Rate** (DRSR)
 - **Canonical id:** `dea:metric-data-restoration-success-rate`
 - **Name:** Data Restoration Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRSR
 
@@ -18,7 +18,7 @@ Within Business Continuity & Disaster Recovery, Data Restoration Success Rate (D
 ## Formula
 
 ```
-Restores Verified Complete and Correct / Restore Attempts
+DRSR = Restores Verified Complete and Correct / Restore Attempts
 ```
 
 ## Unit

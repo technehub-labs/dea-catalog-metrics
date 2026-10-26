@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Reporting Timeliness (Marke
 - **Canonical id:** `dea:metric-regulatory-reporting-timeliness-markets`
 - **Name:** Regulatory Reporting Timeliness (Markets)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRT-M
 
@@ -22,7 +22,7 @@ Regulatory reporting timeliness measures adherence to submission deadlines for t
 ## Formula
 
 ```
-Reports Filed by Deadline / Reports Required
+RRT-M = Reports Filed by Deadline / Reports Required
 ```
 
 ## Unit

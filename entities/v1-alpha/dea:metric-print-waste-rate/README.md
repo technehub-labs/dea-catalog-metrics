@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Print Waste Rate** (PWR) in the OpenDE
 - **Canonical id:** `dea:metric-print-waste-rate`
 - **Name:** Print Waste Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PWR
 
@@ -18,7 +18,7 @@ Print Waste Rate (PWR) addresses how efficiently resources are converted into ou
 ## Formula
 
 ```
-Wasted Sheets / Total Sheets Consumed
+PWR = Wasted Sheets / Total Sheets Consumed
 ```
 
 ## Unit

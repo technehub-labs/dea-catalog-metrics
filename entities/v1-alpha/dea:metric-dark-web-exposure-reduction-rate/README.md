@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dark Web Exposure Reduction Rate** (DW
 - **Canonical id:** `dea:metric-dark-web-exposure-reduction-rate`
 - **Name:** Dark Web Exposure Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DWERR
 
@@ -18,7 +18,7 @@ Within Threat Intelligence & Red Team, Dark Web Exposure Reduction Rate (DWERR) 
 ## Formula
 
 ```
-Exposed Credential Posts Removed / Posts Discovered
+DWERR = Exposed Credential Posts Removed / Posts Discovered
 ```
 
 ## Unit

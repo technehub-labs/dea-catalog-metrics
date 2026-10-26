@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beta to Benchmark (Deep Dive)** (BETA-
 - **Canonical id:** `dea:metric-beta-to-benchmark-deep-dive`
 - **Name:** Beta to Benchmark (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BETA-D
 
@@ -22,7 +22,7 @@ Measures the sensitivity of portfolio returns to benchmark movements. Beta is th
 ## Formula
 
 ```
-Covariance with Benchmark / Benchmark Variance
+BETA-D = Covariance with Benchmark / Benchmark Variance
 ```
 
 ## Unit

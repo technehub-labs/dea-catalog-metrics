@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost per Order Shipped** (LCPO) 
 - **Canonical id:** `dea:metric-labor-cost-per-order-shipped`
 - **Name:** Labor Cost per Order Shipped
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCPO
 
@@ -22,7 +22,7 @@ Measures average warehouse labor cost for each order fulfilled. It matters becau
 ## Formula
 
 ```
-Warehouse Labor Cost / Orders Shipped
+LCPO = Warehouse Labor Cost / Orders Shipped
 ```
 
 ## Unit

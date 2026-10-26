@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Call** (CPC-CC) in the OpenDE
 - **Canonical id:** `dea:metric-cost-per-call`
 - **Name:** Cost per Call
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPC-CC
 
@@ -22,7 +22,7 @@ Measures total contact center cost divided by calls handled. It matters because 
 ## Formula
 
 ```
-Total Contact Center Cost / Calls Handled
+CPC-CC = Total Contact Center Cost / Calls Handled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Negotiation Round Count** (NRC-CL) in 
 - **Canonical id:** `dea:metric-negotiation-round-count`
 - **Name:** Negotiation Round Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NRC-CL
 
@@ -18,7 +18,7 @@ Negotiation Round Count (NRC-CL) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Average Redline Cycles before Execution
+NRC-CL = Average Redline Cycles before Execution
 ```
 
 ## Unit

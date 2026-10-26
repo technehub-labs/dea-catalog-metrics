@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Probability of Default (Deep Dive)** (
 - **Canonical id:** `dea:metric-probability-of-default-deep-dive`
 - **Name:** Probability of Default (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDDD
 
@@ -22,7 +22,7 @@ Measures the likelihood a borrower defaults within a horizon. PD is the first pi
 ## Formula
 
 ```
-Modeled Likelihood of Borrower Default within Horizon
+PDDD = Modeled Likelihood of Borrower Default within Horizon
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rollback Mean Time** (RMT-CD) in the O
 - **Canonical id:** `dea:metric-rollback-mean-time`
 - **Name:** Rollback Mean Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMT-CD
 
@@ -18,7 +18,7 @@ Rollback Mean Time (RMT-CD) measures how efficiently resources are converted int
 ## Formula
 
 ```
-Minutes to Execute Rollback
+RMT-CD = Minutes to Execute Rollback
 ```
 
 ## Unit

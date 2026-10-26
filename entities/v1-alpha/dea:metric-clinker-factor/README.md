@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinker Factor** (CF-C) in the OpenDEA
 - **Canonical id:** `dea:metric-clinker-factor`
 - **Name:** Clinker Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CF-C
 
@@ -22,7 +22,7 @@ Measures the share of clinker in finished cement. It is the central environmenta
 ## Formula
 
 ```
-Clinker Mass / Cement Mass
+CF-C = Clinker Mass / Cement Mass
 ```
 
 ## Unit

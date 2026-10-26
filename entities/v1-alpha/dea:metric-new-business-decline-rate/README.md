@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Business Decline Rate** (NBDR) in 
 - **Canonical id:** `dea:metric-new-business-decline-rate`
 - **Name:** New Business Decline Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NBDR
 
@@ -18,7 +18,7 @@ Within Insurance Underwriting, New Business Decline Rate (NBDR) is used to gauge
 ## Formula
 
 ```
-Risks Declined / Risks Submitted
+NBDR = Risks Declined / Risks Submitted
 ```
 
 ## Unit

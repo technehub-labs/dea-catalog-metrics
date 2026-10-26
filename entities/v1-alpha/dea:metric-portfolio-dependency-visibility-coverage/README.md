@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dependency Visibility Covera
 - **Canonical id:** `dea:metric-portfolio-dependency-visibility-coverage`
 - **Name:** Portfolio Dependency Visibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDVC
 
@@ -22,7 +22,7 @@ Measures the share of portfolio initiatives with mapped, monitored cross-initiat
 ## Formula
 
 ```
-Initiatives with Mapped Dependencies / Initiatives
+PDVC = Initiatives with Mapped Dependencies / Initiatives
 ```
 
 ## Unit

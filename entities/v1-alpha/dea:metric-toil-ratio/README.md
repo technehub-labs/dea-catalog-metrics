@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Toil Ratio** (TOILR) in the OpenDEAM M
 - **Canonical id:** `dea:metric-toil-ratio`
 - **Name:** Toil Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TOILR
 
@@ -18,7 +18,7 @@ Toil Ratio (TOILR) addresses how efficiently resources are converted into output
 ## Formula
 
 ```
-Toil Hours / Total Engineering Hours
+TOILR = Toil Hours / Total Engineering Hours
 ```
 
 ## Unit

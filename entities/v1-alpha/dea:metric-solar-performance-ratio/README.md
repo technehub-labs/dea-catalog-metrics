@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Solar Performance Ratio** (SPR) in the
 - **Canonical id:** `dea:metric-solar-performance-ratio`
 - **Name:** Solar Performance Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPR
 
@@ -22,7 +22,7 @@ Solar performance ratio measures actual energy output against the theoretical ou
 ## Formula
 
 ```
-Actual Yield / Theoretical Yield at Irradiance
+SPR = Actual Yield / Theoretical Yield at Irradiance
 ```
 
 ## Unit

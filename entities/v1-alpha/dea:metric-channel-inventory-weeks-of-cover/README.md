@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Inventory Weeks of Cover** (CI
 - **Canonical id:** `dea:metric-channel-inventory-weeks-of-cover`
 - **Name:** Channel Inventory Weeks of Cover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIWOC
 
@@ -18,7 +18,7 @@ Channel Inventory Weeks of Cover (CIWOC) addresses the utilization or availabili
 ## Formula
 
 ```
-Partner Inventory on Hand / Weekly Sell-Through
+CIWOC = Partner Inventory on Hand / Weekly Sell-Through
 ```
 
 ## Unit

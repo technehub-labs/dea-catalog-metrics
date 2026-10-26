@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carbon Usage Effectiveness** (CUE) in 
 - **Canonical id:** `dea:metric-carbon-usage-effectiveness`
 - **Name:** Carbon Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CUE
 
@@ -22,7 +22,7 @@ CUE, The Green Grid's 2010 companion to PUE, divides total CO2 emissions from fa
 ## Formula
 
 ```
-CO2e from Facility Energy / IT Equipment Energy
+CUE = CO2e from Facility Energy / IT Equipment Energy
 ```
 
 ## Unit

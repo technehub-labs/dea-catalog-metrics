@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Traffic Conversion Correlatio
 - **Canonical id:** `dea:metric-customer-traffic-conversion-correlation-index`
 - **Name:** Customer Traffic Conversion Correlation Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCCI
 
@@ -18,7 +18,7 @@ Customer Traffic Conversion Correlation Index (CTCCI) captures the quality of ou
 ## Formula
 
 ```
-Strength of Traffic-to-Sales Relationship across Stores
+CTCCI = Strength of Traffic-to-Sales Relationship across Stores
 ```
 
 ## Unit

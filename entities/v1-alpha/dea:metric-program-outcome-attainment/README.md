@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Outcome Attainment** (POA) in 
 - **Canonical id:** `dea:metric-program-outcome-attainment`
 - **Name:** Program Outcome Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POA
 
@@ -22,7 +22,7 @@ Program outcome attainment measures the share of program goals achieved against 
 ## Formula
 
 ```
-Programs Meeting Outcome Targets / Programs Delivered
+POA = Programs Meeting Outcome Targets / Programs Delivered
 ```
 
 ## Unit

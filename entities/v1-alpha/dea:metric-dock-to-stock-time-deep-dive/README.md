@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dock-to-Stock Time (Deep Dive)** (D2ST
 - **Canonical id:** `dea:metric-dock-to-stock-time-deep-dive`
 - **Name:** Dock-to-Stock Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D2ST
 
@@ -18,7 +18,7 @@ Dock-to-Stock Time (Deep Dive) (D2ST) measures how efficiently resources are con
 ## Formula
 
 ```
-Hours from Receipt to Saleable Inventory
+D2ST = Hours from Receipt to Saleable Inventory
 ```
 
 ## Unit

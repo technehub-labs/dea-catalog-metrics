@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Password Policy Compliance Rate** (PPC
 - **Canonical id:** `dea:metric-password-policy-compliance-rate`
 - **Name:** Password Policy Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPCR-IAM
 
@@ -18,7 +18,7 @@ Password Policy Compliance Rate (PPCR-IAM) addresses conformance to standards, p
 ## Formula
 
 ```
-Accounts Meeting Password Standard / Accounts
+PPCR-IAM = Accounts Meeting Password Standard / Accounts
 ```
 
 ## Unit

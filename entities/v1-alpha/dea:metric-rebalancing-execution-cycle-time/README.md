@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rebalancing Execution Cycle Time** (RE
 - **Canonical id:** `dea:metric-rebalancing-execution-cycle-time`
 - **Name:** Rebalancing Execution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REXCT
 
@@ -18,7 +18,7 @@ A Investment Management - Portfolio Operations indicator, Rebalancing Execution 
 ## Formula
 
 ```
-Days from Drift Trigger to Completed Rebalance
+REXCT = Days from Drift Trigger to Completed Rebalance
 ```
 
 ## Unit

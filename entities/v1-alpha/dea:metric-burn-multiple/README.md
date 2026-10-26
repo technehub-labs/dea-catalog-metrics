@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burn Multiple** (BM-S) in the OpenDEAM
 - **Canonical id:** `dea:metric-burn-multiple`
 - **Name:** Burn Multiple
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BM-S
 
@@ -22,7 +22,7 @@ The burn multiple, coined by David Sacks (Craft Ventures), is net burn divided b
 ## Formula
 
 ```
-Net Burn / Net New ARR
+BM-S = Net Burn / Net New ARR
 ```
 
 ## Unit

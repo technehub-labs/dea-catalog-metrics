@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incrementality Rate** (INCR) in the Op
 - **Canonical id:** `dea:metric-incrementality-rate`
 - **Name:** Incrementality Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INCR
 
@@ -22,7 +22,7 @@ Measures the share of attributed marketing outcomes that were truly caused - inc
 ## Formula
 
 ```
-Incremental Conversions from Test vs Control / Test Conversions
+INCR = Incremental Conversions from Test vs Control / Test Conversions
 ```
 
 ## Unit

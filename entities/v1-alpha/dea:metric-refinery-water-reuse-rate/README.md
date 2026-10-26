@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery-Water Reuse Rate** (RWRR) in 
 - **Canonical id:** `dea:metric-refinery-water-reuse-rate`
 - **Name:** Refinery-Water Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RWRR
 
@@ -18,7 +18,7 @@ Within Oil & Gas Downstream & Refining, Refinery-Water Reuse Rate (RWRR) is used
 ## Formula
 
 ```
-Reused Water / Total Water Withdrawn
+RWRR = Reused Water / Total Water Withdrawn
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Effort Score** (CES) in the O
 - **Canonical id:** `dea:metric-customer-effort-score`
 - **Name:** Customer Effort Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CES
 
@@ -22,7 +22,7 @@ Measures how hard customers had to work to resolve an issue or complete a task. 
 ## Formula
 
 ```
-Average Ease Rating on 7-Point Scale
+CES = Average Ease Rating on 7-Point Scale
 ```
 
 ## Unit

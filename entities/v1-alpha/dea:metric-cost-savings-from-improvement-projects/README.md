@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Savings from Improvement Projects
 - **Canonical id:** `dea:metric-cost-savings-from-improvement-projects`
 - **Name:** Cost Savings from Improvement Projects
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSIP
 
@@ -22,7 +22,7 @@ Cost savings from improvement projects measures the financial benefit captured b
 ## Formula
 
 ```
-Validated Annualized Savings per Period
+CSIP = Validated Annualized Savings per Period
 ```
 
 ## Unit

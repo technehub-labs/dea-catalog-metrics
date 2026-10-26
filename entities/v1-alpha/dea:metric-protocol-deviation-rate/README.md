@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Protocol Deviation Rate** (PDR-P) in t
 - **Canonical id:** `dea:metric-protocol-deviation-rate`
 - **Name:** Protocol Deviation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDR-P
 
@@ -18,7 +18,7 @@ Protocol Deviation Rate (PDR-P) measures conformance to standards, plans, or obl
 ## Formula
 
 ```
-Deviations / Subjects Enrolled
+PDR-P = Deviations / Subjects Enrolled
 ```
 
 ## Unit

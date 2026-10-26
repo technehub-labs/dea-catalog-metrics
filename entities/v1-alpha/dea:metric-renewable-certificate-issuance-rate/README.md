@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewable Certificate Issuance Rate** 
 - **Canonical id:** `dea:metric-renewable-certificate-issuance-rate`
 - **Name:** Renewable Certificate Issuance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCIR
 
@@ -22,7 +22,7 @@ Measures certificates issued per unit of verified generation. It matters because
 ## Formula
 
 ```
-Certificates Issued / Eligible Generation
+RCIR = Certificates Issued / Eligible Generation
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **War Room Assembly Time** (WRAT) in the
 - **Canonical id:** `dea:metric-war-room-assembly-time`
 - **Name:** War Room Assembly Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRAT
 
@@ -18,7 +18,7 @@ A IT Incident & Major Problem Management indicator, War Room Assembly Time (WRAT
 ## Formula
 
 ```
-Minutes to Assemble Response Team for Major Incident
+WRAT = Minutes to Assemble Response Team for Major Incident
 ```
 
 ## Unit

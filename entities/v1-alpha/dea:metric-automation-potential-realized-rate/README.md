@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Potential Realized Rate** (
 - **Canonical id:** `dea:metric-automation-potential-realized-rate`
 - **Name:** Automation Potential Realized Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APRR
 
@@ -22,7 +22,7 @@ Measures how much of the assessed automatable work has actually been automated. 
 ## Formula
 
 ```
-Automated Task Share of Automatable Tasks / Automatable
+APRR = Automated Task Share of Automatable Tasks / Automatable
 ```
 
 ## Unit

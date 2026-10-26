@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Alert Response Time** (DQ
 - **Canonical id:** `dea:metric-data-quality-alert-response-time`
 - **Name:** Data Quality Alert Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQART
 
@@ -18,7 +18,7 @@ A Data Quality Management indicator, Data Quality Alert Response Time (DQART) qu
 ## Formula
 
 ```
-Hours from Quality Alert to Triage Decision
+DQART = Hours from Quality Alert to Triage Decision
 ```
 
 ## Unit

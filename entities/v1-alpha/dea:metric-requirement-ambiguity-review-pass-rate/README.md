@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirement Ambiguity Review Pass Rate
 - **Canonical id:** `dea:metric-requirement-ambiguity-review-pass-rate`
 - **Name:** Requirement Ambiguity Review Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RARPR
 
@@ -18,7 +18,7 @@ Requirement Ambiguity Review Pass Rate (RARPR) addresses the quality of outputs 
 ## Formula
 
 ```
-Requirements Passing Ambiguity Review / Reviewed
+RARPR = Requirements Passing Ambiguity Review / Reviewed
 ```
 
 ## Unit

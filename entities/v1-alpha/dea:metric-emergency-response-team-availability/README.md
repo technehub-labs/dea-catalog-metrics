@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Response Team Availability**
 - **Canonical id:** `dea:metric-emergency-response-team-availability`
 - **Name:** Emergency Response Team Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERTA
 
@@ -18,7 +18,7 @@ Emergency Response Team Availability (ERTA) addresses the utilization or availab
 ## Formula
 
 ```
-ERT Shifts Fully Staffed / Shifts in Period
+ERTA = ERT Shifts Fully Staffed / Shifts in Period
 ```
 
 ## Unit

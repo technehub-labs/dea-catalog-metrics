@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Problem Record Backlog Age** (PRBA) in
 - **Canonical id:** `dea:metric-problem-record-backlog-age`
 - **Name:** Problem Record Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRBA
 
@@ -18,7 +18,7 @@ Problem Record Backlog Age (PRBA) captures how efficiently resources are convert
 ## Formula
 
 ```
-Open Problems beyond 90 Days / Open Problems
+PRBA = Open Problems beyond 90 Days / Open Problems
 ```
 
 ## Unit

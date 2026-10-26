@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Executive Speech Coverage Rate** (ESCR
 - **Canonical id:** `dea:metric-executive-speech-coverage-rate`
 - **Name:** Executive Speech Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESCR-C
 
@@ -18,7 +18,7 @@ Within Corporate Communications & PR (Deep Dive), Executive Speech Coverage Rate
 ## Formula
 
 ```
-Executive Engagements Delivered per Plan / Planned
+ESCR-C = Executive Engagements Delivered per Plan / Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Self-Service Resolution (Insu
 - **Canonical id:** `dea:metric-customer-self-service-resolution-insurance`
 - **Name:** Customer Self-Service Resolution (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSSRI
 
@@ -22,7 +22,7 @@ Measures the share of service requests (policy changes, documents, billing queri
 ## Formula
 
 ```
-Self-Service Resolutions / Service Requests
+CSSRI = Self-Service Resolutions / Service Requests
 ```
 
 ## Unit

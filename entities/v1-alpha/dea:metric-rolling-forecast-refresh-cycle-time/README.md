@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolling Forecast Refresh Cycle Time** 
 - **Canonical id:** `dea:metric-rolling-forecast-refresh-cycle-time`
 - **Name:** Rolling Forecast Refresh Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFRCT
 
@@ -18,7 +18,7 @@ Within Financial Planning & Analysis, Rolling Forecast Refresh Cycle Time (RFRCT
 ## Formula
 
 ```
-Days to Complete Forecast Refresh Cycle
+RFRCT = Days to Complete Forecast Refresh Cycle
 ```
 
 ## Unit

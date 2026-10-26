@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finding and Development Cost** (FDC) i
 - **Canonical id:** `dea:metric-finding-and-development-cost`
 - **Name:** Finding and Development Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDC
 
@@ -22,7 +22,7 @@ Finding and development cost measures the capital spent per barrel of oil equiva
 ## Formula
 
 ```
-Exploration and Development Cost / Reserves Added
+FDC = Exploration and Development Cost / Reserves Added
 ```
 
 ## Unit

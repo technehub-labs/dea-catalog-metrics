@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Group Booking Conversion Rate (Deep Di
 - **Canonical id:** `dea:metric-group-booking-conversion-rate-deep-dive`
 - **Name:** Group Booking Conversion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GBR-D
 
@@ -18,7 +18,7 @@ Group Booking Conversion Rate (Deep Dive) (GBR-D) captures growth over time for 
 ## Formula
 
 ```
-Group Contracts Signed / Leads
+GBR-D = Group Contracts Signed / Leads
 ```
 
 ## Unit

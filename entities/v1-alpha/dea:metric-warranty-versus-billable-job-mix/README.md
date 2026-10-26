@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty versus Billable Job Mix** (WB
 - **Canonical id:** `dea:metric-warranty-versus-billable-job-mix`
 - **Name:** Warranty versus Billable Job Mix
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WBJM-F
 
@@ -18,7 +18,7 @@ Within Field Maintenance & Technical Field Service (Deep Dive), Warranty versus 
 ## Formula
 
 ```
-Warranty Jobs / Total Jobs
+WBJM-F = Warranty Jobs / Total Jobs
 ```
 
 ## Unit

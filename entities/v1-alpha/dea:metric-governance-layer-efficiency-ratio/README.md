@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Layer Efficiency Ratio** (G
 - **Canonical id:** `dea:metric-governance-layer-efficiency-ratio`
 - **Name:** Governance Layer Efficiency Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GLER-OM
 
@@ -22,7 +22,7 @@ Measures the cost and throughput of governance structures relative to decisions 
 ## Formula
 
 ```
-Governance Bodies with Active Charters and Reviews / Bodies
+GLER-OM = Governance Bodies with Active Charters and Reviews / Bodies
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Incidents in Automated Cells** 
 - **Canonical id:** `dea:metric-safety-incidents-in-automated-cells`
 - **Name:** Safety Incidents in Automated Cells
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIAC
 
@@ -22,7 +22,7 @@ Tracks recordable injuries and near-misses occurring in or around automated prod
 ## Formula
 
 ```
-Recordable Incidents in Automated Areas / Period
+SIAC = Recordable Incidents in Automated Areas / Period
 ```
 
 ## Unit

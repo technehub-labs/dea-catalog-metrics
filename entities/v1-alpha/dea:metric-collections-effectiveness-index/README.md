@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collections Effectiveness Index** (CEI
 - **Canonical id:** `dea:metric-collections-effectiveness-index`
 - **Name:** Collections Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEI-AR
 
@@ -22,7 +22,7 @@ Measures how completely collectible receivables are collected within the period.
 ## Formula
 
 ```
-Collected Amount / Amount Receivable in Period
+CEI-AR = Collected Amount / Amount Receivable in Period
 ```
 
 ## Unit

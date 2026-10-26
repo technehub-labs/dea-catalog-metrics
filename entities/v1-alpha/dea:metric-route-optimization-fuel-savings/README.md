@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Route Optimization Fuel Savings** (ROF
 - **Canonical id:** `dea:metric-route-optimization-fuel-savings`
 - **Name:** Route Optimization Fuel Savings
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROFS
 
@@ -18,7 +18,7 @@ A Parcel & Last-Mile Logistics (Deep Dive) indicator, Route Optimization Fuel Sa
 ## Formula
 
 ```
-Fuel Saved vs Baseline / Baseline
+ROFS = Fuel Saved vs Baseline / Baseline
 ```
 
 ## Unit

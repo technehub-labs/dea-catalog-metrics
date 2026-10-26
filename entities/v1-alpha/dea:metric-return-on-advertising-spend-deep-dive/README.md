@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Advertising Spend (Deep Dive
 - **Canonical id:** `dea:metric-return-on-advertising-spend-deep-dive`
 - **Name:** Return on Advertising Spend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROASDD
 
@@ -22,7 +22,7 @@ Measures revenue attributed per advertising dollar. ROAS is the workhorse of per
 ## Formula
 
 ```
-Attributed Revenue / Advertising Spend
+ROASDD = Attributed Revenue / Advertising Spend
 ```
 
 ## Unit

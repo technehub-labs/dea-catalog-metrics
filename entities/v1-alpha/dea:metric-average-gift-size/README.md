@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Gift Size** (AGS) in the OpenD
 - **Canonical id:** `dea:metric-average-gift-size`
 - **Name:** Average Gift Size
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AGS
 
@@ -22,7 +22,7 @@ Measures mean donation value per donor or gift in nonprofit fundraising. It matt
 ## Formula
 
 ```
-Total Donations / Number of Gifts
+AGS = Total Donations / Number of Gifts
 ```
 
 ## Unit

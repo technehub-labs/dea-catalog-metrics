@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Needle Detection Pass Rate** (NDPR) in
 - **Canonical id:** `dea:metric-needle-detection-pass-rate`
 - **Name:** Needle Detection Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NDPR
 
@@ -18,7 +18,7 @@ Within Textile & Apparel (Deep Dive), Needle Detection Pass Rate (NDPR) is used 
 ## Formula
 
 ```
-Garments Passing Metal Detection / Garments
+NDPR = Garments Passing Metal Detection / Garments
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employment Rate of Graduates** (ERG) i
 - **Canonical id:** `dea:metric-employment-rate-of-graduates`
 - **Name:** Employment Rate of Graduates
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERG
 
@@ -22,7 +22,7 @@ The share of graduates in employment, conventionally measured at a fixed window 
 ## Formula
 
 ```
-Graduates Employed within Period / Graduates
+ERG = Graduates Employed within Period / Graduates
 ```
 
 ## Unit

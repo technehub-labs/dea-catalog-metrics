@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adversary Emulation Fidelity Score** (
 - **Canonical id:** `dea:metric-adversary-emulation-fidelity-score`
 - **Name:** Adversary Emulation Fidelity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AEFS
 
@@ -18,7 +18,7 @@ A Threat Intelligence & Red Team indicator, Adversary Emulation Fidelity Score (
 ## Formula
 
 ```
-Exercise Fidelity to Real Adversary TTPs per Rubric
+AEFS = Exercise Fidelity to Real Adversary TTPs per Rubric
 ```
 
 ## Unit

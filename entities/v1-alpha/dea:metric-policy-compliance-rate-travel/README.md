@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Compliance Rate (Travel)** (PCR
 - **Canonical id:** `dea:metric-policy-compliance-rate-travel`
 - **Name:** Policy Compliance Rate (Travel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR-T
 
@@ -22,7 +22,7 @@ Measures the share of bookings made within travel policy. It matters because pol
 ## Formula
 
 ```
-Bookings within Travel Policy / Total Bookings
+PCR-T = Bookings within Travel Policy / Total Bookings
 ```
 
 ## Unit

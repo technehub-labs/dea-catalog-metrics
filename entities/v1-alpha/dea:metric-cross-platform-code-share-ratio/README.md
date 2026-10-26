@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Platform Code Share Ratio** (CPC
 - **Canonical id:** `dea:metric-cross-platform-code-share-ratio`
 - **Name:** Cross-Platform Code Share Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCSR
 
@@ -18,7 +18,7 @@ Cross-Platform Code Share Ratio (CPCSR) captures how efficiently resources are c
 ## Formula
 
 ```
-Shared Code Lines / Total Code Lines
+CPCSR = Shared Code Lines / Total Code Lines
 ```
 
 ## Unit

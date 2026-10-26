@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Rate (Deep Dive)** (PRDD) in
 - **Canonical id:** `dea:metric-promotion-rate-deep-dive`
 - **Name:** Promotion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRDD
 
@@ -22,7 +22,7 @@ Measures the share of employees promoted per period. Healthy promotion rates bal
 ## Formula
 
 ```
-Promotions / Average Headcount
+PRDD = Promotions / Average Headcount
 ```
 
 ## Unit

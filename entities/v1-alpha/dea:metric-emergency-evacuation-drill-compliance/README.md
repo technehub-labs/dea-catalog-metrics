@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Evacuation Drill Compliance*
 - **Canonical id:** `dea:metric-emergency-evacuation-drill-compliance`
 - **Name:** Emergency Evacuation Drill Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EEDC
 
@@ -18,7 +18,7 @@ Emergency Evacuation Drill Compliance (EEDC) addresses conformance to standards,
 ## Formula
 
 ```
-Sites Completing Required Drills / Sites
+EEDC = Sites Completing Required Drills / Sites
 ```
 
 ## Unit

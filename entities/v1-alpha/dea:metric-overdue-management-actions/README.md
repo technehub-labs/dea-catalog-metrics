@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overdue Management Actions** (OMA) in 
 - **Canonical id:** `dea:metric-overdue-management-actions`
 - **Name:** Overdue Management Actions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMA
 
@@ -22,7 +22,7 @@ Measures the count and age of management actions past their agreed due dates. It
 ## Formula
 
 ```
-Actions Past Due Date
+OMA = Actions Past Due Date
 ```
 
 ## Unit

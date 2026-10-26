@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Entry Ramp Rate** (MERR) in the
 - **Canonical id:** `dea:metric-market-entry-ramp-rate`
 - **Name:** Market Entry Ramp Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MERR
 
@@ -22,7 +22,7 @@ Measures how quickly a new market entry reaches target share or volume. Ramp rat
 ## Formula
 
 ```
-Share Achieved within Plan Period after Entry / Plan
+MERR = Share Achieved within Plan Period after Entry / Plan
 ```
 
 ## Unit

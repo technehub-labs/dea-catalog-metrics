@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Satisfaction with AI Assistant** 
 - **Canonical id:** `dea:metric-user-satisfaction-with-ai-assistant`
 - **Name:** User Satisfaction with AI Assistant
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** USA-AI
 
@@ -22,7 +22,7 @@ Measures user-rated experience with AI assistance. Satisfaction is the retention
 ## Formula
 
 ```
-Average CSAT for AI-Assisted Interactions
+USA-AI = Average CSAT for AI-Assisted Interactions
 ```
 
 ## Unit

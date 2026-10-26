@@ -7,7 +7,7 @@ Candidate Performance Metric record for **In-Game Purchase Frequency** (IGPF) in
 - **Canonical id:** `dea:metric-in-game-purchase-frequency`
 - **Name:** In-Game Purchase Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IGPF
 
@@ -22,7 +22,7 @@ Measures how often players make in-game purchases per period. It matters because
 ## Formula
 
 ```
-Purchases / Active Players per Period
+IGPF = Purchases / Active Players per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Afferent Coupling (Fan-In)** (AFFC) in
 - **Canonical id:** `dea:metric-afferent-coupling-fan-in`
 - **Name:** Afferent Coupling (Fan-In)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFFC
 
@@ -18,7 +18,7 @@ Within Code Quality & Static Analysis, Afferent Coupling (Fan-In) (AFFC) is used
 ## Formula
 
 ```
-Inbound Dependencies per Module
+AFFC = Inbound Dependencies per Module
 ```
 
 ## Unit

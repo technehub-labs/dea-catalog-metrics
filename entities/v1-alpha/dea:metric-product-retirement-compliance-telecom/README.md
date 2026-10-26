@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Retirement Compliance (Telecom
 - **Canonical id:** `dea:metric-product-retirement-compliance-telecom`
 - **Name:** Product Retirement Compliance (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCT
 
@@ -22,7 +22,7 @@ Measures the share of legacy products retired per the portfolio sunset plan. It 
 ## Formula
 
 ```
-Retirements Completed by Migration Deadline / Retirements Planned
+PRCT = Retirements Completed by Migration Deadline / Retirements Planned
 ```
 
 ## Unit

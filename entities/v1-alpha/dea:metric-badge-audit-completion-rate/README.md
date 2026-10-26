@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Badge Audit Completion Rate** (BACR) i
 - **Canonical id:** `dea:metric-badge-audit-completion-rate`
 - **Name:** Badge Audit Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BACR
 
@@ -22,7 +22,7 @@ Measures the share of physical access badges audited within required cycles. It 
 ## Formula
 
 ```
-Access Reviews Completed / Reviews Scheduled
+BACR = Access Reviews Completed / Reviews Scheduled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct Booking Ratio (Deep Dive)** (DB
 - **Canonical id:** `dea:metric-direct-booking-ratio-deep-dive`
 - **Name:** Direct Booking Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBR-D
 
@@ -22,7 +22,7 @@ Measures the share of room nights booked through brand or property channels rath
 ## Formula
 
 ```
-Direct Reservations / Total Reservations
+DBR-D = Direct Reservations / Total Reservations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **D1 / D7 / D30 Retention (Deep Dive)** 
 - **Canonical id:** `dea:metric-d1-d7-d30-retention-deep-dive`
 - **Name:** D1 / D7 / D30 Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RET-D
 
@@ -22,7 +22,7 @@ Measures the share of new players returning on day one, seven, and thirty after 
 ## Formula
 
 ```
-Returning Players on Day N / New Players
+RET-D = Returning Players on Day N / New Players
 ```
 
 ## Unit

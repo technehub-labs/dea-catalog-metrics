@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Call Handoff Quality Score** (OCHQS
 - **Canonical id:** `dea:metric-on-call-handoff-quality-score`
 - **Name:** On-Call Handoff Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCHQS
 
@@ -18,7 +18,7 @@ On-Call Handoff Quality Score (OCHQS) addresses the quality of outputs and outco
 ## Formula
 
 ```
-Handoff Survey Completeness Score
+OCHQS = Handoff Survey Completeness Score
 ```
 
 ## Unit

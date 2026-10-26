@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Burn Variance per Flight (Deep Di
 - **Canonical id:** `dea:metric-fuel-burn-variance-per-flight-deep-dive`
 - **Name:** Fuel Burn Variance per Flight (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FBVF-D
 
@@ -18,7 +18,7 @@ Fuel Burn Variance per Flight (Deep Dive) (FBVF-D) addresses how efficiently res
 ## Formula
 
 ```
-Actual Fuel Burn - Flight Plan Fuel / Plan
+FBVF-D = Actual Fuel Burn - Flight Plan Fuel / Plan
 ```
 
 ## Unit

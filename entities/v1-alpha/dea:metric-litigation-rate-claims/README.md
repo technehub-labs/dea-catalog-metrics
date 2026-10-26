@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Litigation Rate (Claims)** (LRC) in th
 - **Canonical id:** `dea:metric-litigation-rate-claims`
 - **Name:** Litigation Rate (Claims)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRC
 
@@ -22,7 +22,7 @@ Litigation rate measures the share of claims escalating to lawsuits, and it is t
 ## Formula
 
 ```
-Claims Going to Litigation / Claims Settled
+LRC = Claims Going to Litigation / Claims Settled
 ```
 
 ## Unit

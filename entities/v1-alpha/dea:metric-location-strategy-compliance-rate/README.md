@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Location Strategy Compliance Rate** (L
 - **Canonical id:** `dea:metric-location-strategy-compliance-rate`
 - **Name:** Location Strategy Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSCR-OM
 
@@ -18,7 +18,7 @@ Within Operating Model Monitoring & Design Effectiveness, Location Strategy Comp
 ## Formula
 
 ```
-Roles Located per Location Policy / Roles
+LSCR-OM = Roles Located per Location Policy / Roles
 ```
 
 ## Unit

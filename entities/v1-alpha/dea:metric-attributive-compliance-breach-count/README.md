@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attributive Compliance Breach Count** 
 - **Canonical id:** `dea:metric-attributive-compliance-breach-count`
 - **Name:** Attributive Compliance Breach Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACBC
 
@@ -22,7 +22,7 @@ Measures breaches attributable to a specific control or obligation failure. Attr
 ## Formula
 
 ```
-Notifiable Breaches in Period
+ACBC = Notifiable Breaches in Period
 ```
 
 ## Unit

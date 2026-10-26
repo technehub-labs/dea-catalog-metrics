@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance** (OTP) in the Ope
 - **Canonical id:** `dea:metric-on-time-performance`
 - **Name:** On-Time Performance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTP
 
@@ -22,7 +22,7 @@ The share of flights departing or arriving within the regulatory window (convent
 ## Formula
 
 ```
-Flights Departing within Threshold of Schedule / Total Flights
+OTP = Flights Departing within Threshold of Schedule / Total Flights
 ```
 
 ## Unit

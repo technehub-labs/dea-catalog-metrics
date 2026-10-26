@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Call Resolution (Deep Dive)** (F
 - **Canonical id:** `dea:metric-first-call-resolution-deep-dive`
 - **Name:** First Call Resolution (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-D
 
@@ -22,7 +22,7 @@ Measures contacts resolved without repeat contact or transfer. It is the efficie
 ## Formula
 
 ```
-Resolved on First Contact / Total Contacts
+FCR-D = Resolved on First Contact / Total Contacts
 ```
 
 ## Unit

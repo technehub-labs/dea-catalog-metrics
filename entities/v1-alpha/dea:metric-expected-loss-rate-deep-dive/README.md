@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expected Loss Rate (Deep Dive)** (ELRD
 - **Canonical id:** `dea:metric-expected-loss-rate-deep-dive`
 - **Name:** Expected Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELRDD
 
@@ -22,7 +22,7 @@ Measures PD times LGD times EAD, the risk-priced cost of the portfolio. EL is th
 ## Formula
 
 ```
-PD x LGD x EAD / Portfolio Exposure
+ELRDD = PD x LGD x EAD / Portfolio Exposure
 ```
 
 ## Unit

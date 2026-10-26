@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secrets Detected per 1,000 Commits** (
 - **Canonical id:** `dea:metric-secrets-detected-per-1-000-commits`
 - **Name:** Secrets Detected per 1,000 Commits
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SD1KC
 
@@ -18,7 +18,7 @@ Secrets Detected per 1,000 Commits (SD1KC) captures exposure to adverse outcomes
 ## Formula
 
 ```
-Hardcoded Secrets Detected / 1,000 Commits
+SD1KC = Hardcoded Secrets Detected / 1,000 Commits
 ```
 
 ## Unit

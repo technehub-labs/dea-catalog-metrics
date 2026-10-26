@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Safety Score - Delivery 
 - **Canonical id:** `dea:metric-psychological-safety-score-delivery-teams`
 - **Name:** Psychological Safety Score - Delivery Teams
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSS-DT
 
@@ -22,7 +22,7 @@ Measures whether team members feel safe to raise problems, admit mistakes, and c
 ## Formula
 
 ```
-Survey-Based Psychological Safety Score
+PSS-DT = Survey-Based Psychological Safety Score
 ```
 
 ## Unit

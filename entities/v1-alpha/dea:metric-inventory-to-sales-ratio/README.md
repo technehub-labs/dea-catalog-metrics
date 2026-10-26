@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory-to-Sales Ratio** (ITSR) in t
 - **Canonical id:** `dea:metric-inventory-to-sales-ratio`
 - **Name:** Inventory-to-Sales Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITSR
 
@@ -18,7 +18,7 @@ Within Retail Standard Measures, Inventory-to-Sales Ratio (ITSR) is used to gaug
 ## Formula
 
 ```
-Average Inventory Value / Monthly Sales Value
+ITSR = Average Inventory Value / Monthly Sales Value
 ```
 
 ## Unit

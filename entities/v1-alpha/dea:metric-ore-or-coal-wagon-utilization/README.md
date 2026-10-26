@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ore or Coal Wagon Utilization** (OWU) 
 - **Canonical id:** `dea:metric-ore-or-coal-wagon-utilization`
 - **Name:** Ore or Coal Wagon Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OWU
 
@@ -18,7 +18,7 @@ Within Rail Freight (Deep Dive), Ore or Coal Wagon Utilization (OWU) is used to 
 ## Formula
 
 ```
-Loaded Wagon Days / Total Wagon Days
+OWU = Loaded Wagon Days / Total Wagon Days
 ```
 
 ## Unit

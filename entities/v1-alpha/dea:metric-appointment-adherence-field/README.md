@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment Adherence (Field)** (AAFT)
 - **Canonical id:** `dea:metric-appointment-adherence-field`
 - **Name:** Appointment Adherence (Field)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAFT
 
@@ -18,7 +18,7 @@ Within Telecom Field & Installation, Appointment Adherence (Field) (AAFT) is use
 ## Formula
 
 ```
-Appointments within Committed Window / Appointments
+AAFT = Appointments within Committed Window / Appointments
 ```
 
 ## Unit

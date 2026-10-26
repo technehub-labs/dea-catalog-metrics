@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Through Rate (Books)** (STRB) in 
 - **Canonical id:** `dea:metric-sell-through-rate-books`
 - **Name:** Sell-Through Rate (Books)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STRB
 
@@ -18,7 +18,7 @@ A Publishing & News Media indicator, Sell-Through Rate (Books) (STRB) quantifies
 ## Formula
 
 ```
-Retail Sales / Copies Distributed
+STRB = Retail Sales / Copies Distributed
 ```
 
 ## Unit

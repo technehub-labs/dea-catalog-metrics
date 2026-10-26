@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Pruning Yield** (PPY) in the
 - **Canonical id:** `dea:metric-portfolio-pruning-yield`
 - **Name:** Portfolio Pruning Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPY
 
@@ -18,7 +18,7 @@ A Intellectual Property & Licensing indicator, Portfolio Pruning Yield (PPY) qua
 ## Formula
 
 ```
-Low-Value Assets Divested or Abandoned / Flagged Assets
+PPY = Low-Value Assets Divested or Abandoned / Flagged Assets
 ```
 
 ## Unit

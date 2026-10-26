@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Compliance Score** (PCS-BSC) i
 - **Canonical id:** `dea:metric-process-compliance-score`
 - **Name:** Process Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCS-BSC
 
@@ -22,7 +22,7 @@ Measures adherence to defined process standards across executions. Compliance is
 ## Formula
 
 ```
-Control Tests Passed / Control Tests
+PCS-BSC = Control Tests Passed / Control Tests
 ```
 
 ## Unit

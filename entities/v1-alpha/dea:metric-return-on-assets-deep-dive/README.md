@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Assets (Deep Dive)** (ROADD)
 - **Canonical id:** `dea:metric-return-on-assets-deep-dive`
 - **Name:** Return on Assets (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROADD
 
@@ -22,7 +22,7 @@ Measures profit generated per unit of total assets. ROA tests whether the asset 
 ## Formula
 
 ```
-Net Income / Total Assets
+ROADD = Net Income / Total Assets
 ```
 
 ## Unit

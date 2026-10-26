@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional OKR Alignment Ratio**
 - **Canonical id:** `dea:metric-cross-functional-okr-alignment-ratio`
 - **Name:** Cross-Functional OKR Alignment Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** XFOAR
 
@@ -22,7 +22,7 @@ Measures how many objectives are genuinely shared across function boundaries. Sh
 ## Formula
 
 ```
-Shared OKRs across Functions / Cross-Cutting Initiatives
+XFOAR = Shared OKRs across Functions / Cross-Cutting Initiatives
 ```
 
 ## Unit

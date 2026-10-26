@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Loss Event Rate** (OLER) i
 - **Canonical id:** `dea:metric-operational-loss-event-rate`
 - **Name:** Operational Loss Event Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OLER
 
@@ -18,7 +18,7 @@ A Investment Risk & Middle Office Operations indicator, Operational Loss Event R
 ## Formula
 
 ```
-Operational Loss Events per 1,000 Trades
+OLER = Operational Loss Events per 1,000 Trades
 ```
 
 ## Unit

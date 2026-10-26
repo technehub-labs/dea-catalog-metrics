@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Plan Attainment** (PPA) in 
 - **Canonical id:** `dea:metric-production-plan-attainment`
 - **Name:** Production Plan Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPA
 
@@ -22,7 +22,7 @@ Measures actual production volume achieved against the planned schedule. It matt
 ## Formula
 
 ```
-Actual Production / Planned Production
+PPA = Actual Production / Planned Production
 ```
 
 ## Unit

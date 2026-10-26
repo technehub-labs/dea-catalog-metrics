@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Headcount Growth Rate** (HGR) in the O
 - **Canonical id:** `dea:metric-headcount-growth-rate`
 - **Name:** Headcount Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HGR
 
@@ -22,7 +22,7 @@ Period growth in employee numbers - the metric through which the expansion narra
 ## Formula
 
 ```
-(Headcount_current - Headcount_prior) / Headcount_prior
+HGR = (Headcount_current - Headcount_prior) / Headcount_prior
 ```
 
 ## Unit

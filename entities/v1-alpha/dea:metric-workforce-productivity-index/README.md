@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Productivity Index** (WPI) i
 - **Canonical id:** `dea:metric-workforce-productivity-index`
 - **Name:** Workforce Productivity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPI
 
@@ -22,7 +22,7 @@ A composite of output measures per labor input, normalized to compare across uni
 ## Formula
 
 ```
-Output Value per Labor Hour, Indexed to Baseline
+WPI = Output Value per Labor Hour, Indexed to Baseline
 ```
 
 ## Unit

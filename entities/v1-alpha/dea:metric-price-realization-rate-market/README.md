@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Realization Rate (Market)** (PRR
 - **Canonical id:** `dea:metric-price-realization-rate-market`
 - **Name:** Price Realization Rate (Market)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRR-MKT
 
@@ -22,7 +22,7 @@ Measures how much of list or target price is actually achieved in the market. Re
 ## Formula
 
 ```
-Realized Price Change / List Price Change
+PRR-MKT = Realized Price Change / List Price Change
 ```
 
 ## Unit

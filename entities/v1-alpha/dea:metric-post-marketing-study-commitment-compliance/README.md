@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Marketing Study Commitment Compli
 - **Canonical id:** `dea:metric-post-marketing-study-commitment-compliance`
 - **Name:** Post-Marketing Study Commitment Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMSC
 
@@ -22,7 +22,7 @@ Measures on-time delivery of studies committed at approval. Missed commitments i
 ## Formula
 
 ```
-Commitments on Schedule / Commitments Made
+PMSC = Commitments on Schedule / Commitments Made
 ```
 
 ## Unit

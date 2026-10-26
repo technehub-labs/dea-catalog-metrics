@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Turnaround Time** (UWTAT)
 - **Canonical id:** `dea:metric-underwriting-turnaround-time`
 - **Name:** Underwriting Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UWTAT
 
@@ -18,7 +18,7 @@ Underwriting Turnaround Time (UWTAT) captures how efficiently resources are conv
 ## Formula
 
 ```
-Days from Complete Submission to Decision
+UWTAT = Days from Complete Submission to Decision
 ```
 
 ## Unit

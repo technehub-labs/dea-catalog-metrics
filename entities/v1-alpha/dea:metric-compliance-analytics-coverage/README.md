@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Analytics Coverage** (CAC-C
 - **Canonical id:** `dea:metric-compliance-analytics-coverage`
 - **Name:** Compliance Analytics Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAC-CM
 
@@ -22,7 +22,7 @@ Measures the share of compliance obligations monitored through data and analytic
 ## Formula
 
 ```
-Obligations Monitored via Automated Data / Automatable Obligations
+CAC-CM = Obligations Monitored via Automated Data / Automatable Obligations
 ```
 
 ## Unit

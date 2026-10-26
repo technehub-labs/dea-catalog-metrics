@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Information Ratio (Deep Dive - Portfol
 - **Canonical id:** `dea:metric-information-ratio-deep-dive-portfolio`
 - **Name:** Information Ratio (Deep Dive - Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRDD
 
@@ -22,7 +22,7 @@ The information ratio, central to the active-management tradition of Grinold and
 ## Formula
 
 ```
-Excess Return / Tracking Error
+IRDD = Excess Return / Tracking Error
 ```
 
 ## Unit

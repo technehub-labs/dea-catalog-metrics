@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runway Remaining** (RWR-S) in the Open
 - **Canonical id:** `dea:metric-runway-remaining`
 - **Name:** Runway Remaining
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RWR-S
 
@@ -22,7 +22,7 @@ Measures months of cash available at current burn. It is the existential metric 
 ## Formula
 
 ```
-Cash Available / Net Monthly Burn
+RWR-S = Cash Available / Net Monthly Burn
 ```
 
 ## Unit

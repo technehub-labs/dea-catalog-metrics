@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vacancy Cost Drag** (VCD-RE) in the Op
 - **Canonical id:** `dea:metric-vacancy-cost-drag`
 - **Name:** Vacancy Cost Drag
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VCD-RE
 
@@ -22,7 +22,7 @@ Measures the cost of unleased space against total potential income. Drag convert
 ## Formula
 
 ```
-Rent Lost to Vacancy / Potential Gross Rent
+VCD-RE = Rent Lost to Vacancy / Potential Gross Rent
 ```
 
 ## Unit

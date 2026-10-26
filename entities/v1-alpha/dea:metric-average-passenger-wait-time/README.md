@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Passenger Wait Time** (APWT) i
 - **Canonical id:** `dea:metric-average-passenger-wait-time`
 - **Name:** Average Passenger Wait Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APWT
 
@@ -18,7 +18,7 @@ Within Public Transit, Average Passenger Wait Time (APWT) is used to gauge the q
 ## Formula
 
 ```
-Observed Waiting Time at Stops, Averaged
+APWT = Observed Waiting Time at Stops, Averaged
 ```
 
 ## Unit

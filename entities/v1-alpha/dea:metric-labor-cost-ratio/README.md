@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Ratio** (LCR) in the OpenDE
 - **Canonical id:** `dea:metric-labor-cost-ratio`
 - **Name:** Labor Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCR
 
@@ -22,7 +22,7 @@ Total labor cost - wages, benefits, and employer taxes - as a share of revenue, 
 ## Formula
 
 ```
-Total Labor Cost / Revenue
+LCR = Total Labor Cost / Revenue
 ```
 
 ## Unit

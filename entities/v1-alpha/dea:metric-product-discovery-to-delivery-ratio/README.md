@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Discovery-to-Delivery Ratio** 
 - **Canonical id:** `dea:metric-product-discovery-to-delivery-ratio`
 - **Name:** Product Discovery-to-Delivery Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDDR
 
@@ -22,7 +22,7 @@ Measures the balance of investment between discovery (learning what to build) an
 ## Formula
 
 ```
-Discovery Time / Delivery Time
+PDDR = Discovery Time / Delivery Time
 ```
 
 ## Unit

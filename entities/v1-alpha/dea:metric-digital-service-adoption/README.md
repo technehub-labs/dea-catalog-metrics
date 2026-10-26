@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Service Adoption** (DSA) in th
 - **Canonical id:** `dea:metric-digital-service-adoption`
 - **Name:** Digital Service Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSA
 
@@ -22,7 +22,7 @@ The share of service transactions completed through digital channels - the trans
 ## Formula
 
 ```
-Digital Channel Transactions / Total Transactions
+DSA = Digital Channel Transactions / Total Transactions
 ```
 
 ## Unit

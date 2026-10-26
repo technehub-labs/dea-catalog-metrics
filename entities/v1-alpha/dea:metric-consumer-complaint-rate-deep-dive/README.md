@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Consumer Complaint Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-consumer-complaint-rate-deep-dive`
 - **Name:** Consumer Complaint Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-D
 
@@ -22,7 +22,7 @@ Measures complaints per units sold, by category and severity. It is the market's
 ## Formula
 
 ```
-Complaints per Million Units Sold
+CCR-D = Complaints per Million Units Sold
 ```
 
 ## Unit

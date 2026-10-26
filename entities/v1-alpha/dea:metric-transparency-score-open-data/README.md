@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transparency Score (Open Data)** (TSOD
 - **Canonical id:** `dea:metric-transparency-score-open-data`
 - **Name:** Transparency Score (Open Data)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSOD
 
@@ -22,7 +22,7 @@ Measures completeness and quality of open data publication against standards. It
 ## Formula
 
 ```
-Datasets Published in Open Format / Datasets Identified
+TSOD = Datasets Published in Open Format / Datasets Identified
 ```
 
 ## Unit

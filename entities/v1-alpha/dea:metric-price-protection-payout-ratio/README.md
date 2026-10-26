@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Protection Payout Ratio** (PPPR)
 - **Canonical id:** `dea:metric-price-protection-payout-ratio`
 - **Name:** Price Protection Payout Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPPR
 
@@ -18,7 +18,7 @@ A Channel & Distribution Management indicator, Price Protection Payout Ratio (PP
 ## Formula
 
 ```
-Price Protection Claims Paid / Claims Assessed
+PPPR = Price Protection Claims Paid / Claims Assessed
 ```
 
 ## Unit

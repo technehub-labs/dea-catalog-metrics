@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lost Time Injury Rate** (LTIR) in the 
 - **Canonical id:** `dea:metric-lost-time-injury-rate`
 - **Name:** Lost Time Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTIR
 
@@ -22,7 +22,7 @@ LTIF counts lost-time injuries per million hours worked (per 200,000 hours in so
 ## Formula
 
 ```
-(Lost Time Injuries x 200,000) / Total Hours Worked
+LTIR = (Lost Time Injuries x 200,000) / Total Hours Worked
 ```
 
 ## Unit

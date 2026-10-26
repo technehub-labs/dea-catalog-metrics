@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scan Coverage - Asset Base** (SCAB) in
 - **Canonical id:** `dea:metric-scan-coverage-asset-base`
 - **Name:** Scan Coverage - Asset Base
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCAB
 
@@ -22,7 +22,7 @@ Measures the share of known assets receiving regular vulnerability scans. Unscan
 ## Formula
 
 ```
-Assets Scanned in Cycle / In-Scope Assets
+SCAB = Assets Scanned in Cycle / In-Scope Assets
 ```
 
 ## Unit

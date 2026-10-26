@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Provision (Infrastructure
 - **Canonical id:** `dea:metric-mean-time-to-provision-infrastructure`
 - **Name:** Mean Time to Provision (Infrastructure)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTP-I
 
@@ -18,7 +18,7 @@ Mean Time to Provision (Infrastructure) (MTTP-I) measures how efficiently resour
 ## Formula
 
 ```
-Days from Request to Provisioned Resource
+MTTP-I = Days from Request to Provisioned Resource
 ```
 
 ## Unit

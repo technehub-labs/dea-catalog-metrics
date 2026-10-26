@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privileged Account Ratio** (PAR-IAM) i
 - **Canonical id:** `dea:metric-privileged-account-ratio`
 - **Name:** Privileged Account Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAR-IAM
 
@@ -22,7 +22,7 @@ Measures privileged accounts as a share of total accounts. A high ratio signals 
 ## Formula
 
 ```
-Privileged Accounts / Total Accounts
+PAR-IAM = Privileged Accounts / Total Accounts
 ```
 
 ## Unit

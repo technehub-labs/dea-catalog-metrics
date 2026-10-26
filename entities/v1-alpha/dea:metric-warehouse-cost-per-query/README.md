@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warehouse Cost per Query** (WCQ-DS) in
 - **Canonical id:** `dea:metric-warehouse-cost-per-query`
 - **Name:** Warehouse Cost per Query
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCQ-DS
 
@@ -18,7 +18,7 @@ Within Data Science & Analytics Operations, Warehouse Cost per Query (WCQ-DS) is
 ## Formula
 
 ```
-Warehouse Spend / Queries Executed
+WCQ-DS = Warehouse Spend / Queries Executed
 ```
 
 ## Unit

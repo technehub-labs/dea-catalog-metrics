@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy MAPE (Deep Dive)** (
 - **Canonical id:** `dea:metric-forecast-accuracy-mape-deep-dive`
 - **Name:** Forecast Accuracy MAPE (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAPEDD
 
@@ -18,7 +18,7 @@ Forecast Accuracy MAPE (Deep Dive) (MAPEDD) measures the quality of outputs and 
 ## Formula
 
 ```
-Mean Absolute Percent Error of Demand Forecast
+MAPEDD = Mean Absolute Percent Error of Demand Forecast
 ```
 
 ## Unit

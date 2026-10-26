@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Plan Currency Score** (CPCC
 - **Canonical id:** `dea:metric-continuity-plan-currency-score`
 - **Name:** Continuity Plan Currency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCC
 
@@ -22,7 +22,7 @@ Measures whether continuity plans reflect the current organization, technology, 
 ## Formula
 
 ```
-BCPs Updated within 12 Months and Version-Controlled / BCPs
+CPCC = BCPs Updated within 12 Months and Version-Controlled / BCPs
 ```
 
 ## Unit

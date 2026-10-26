@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sprint Carryover Rate** (SCR-AG) in th
 - **Canonical id:** `dea:metric-sprint-carryover-rate`
 - **Name:** Sprint Carryover Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-AG
 
@@ -18,7 +18,7 @@ Sprint Carryover Rate (SCR-AG) measures exposure to adverse outcomes in the Agil
 ## Formula
 
 ```
-Stories Carried to Next Sprint / Sprint Stories
+SCR-AG = Stories Carried to Next Sprint / Sprint Stories
 ```
 
 ## Unit

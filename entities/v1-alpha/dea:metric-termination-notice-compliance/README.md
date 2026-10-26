@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Termination Notice Compliance** (TNC-C
 - **Canonical id:** `dea:metric-termination-notice-compliance`
 - **Name:** Termination Notice Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TNC-CL
 
@@ -18,7 +18,7 @@ Within Contract Lifecycle Management, Termination Notice Compliance (TNC-CL) is 
 ## Formula
 
 ```
-Terminations Exercised within Notice Windows / Intended Terminations
+TNC-CL = Terminations Exercised within Notice Windows / Intended Terminations
 ```
 
 ## Unit

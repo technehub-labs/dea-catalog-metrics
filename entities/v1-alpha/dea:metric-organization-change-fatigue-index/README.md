@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organization Change Fatigue Index** (O
 - **Canonical id:** `dea:metric-organization-change-fatigue-index`
 - **Name:** Organization Change Fatigue Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCFI-OM
 
@@ -18,7 +18,7 @@ Organization Change Fatigue Index (OCFI-OM) captures exposure to adverse outcome
 ## Formula
 
 ```
-Concurrent Major Changes per Unit
+OCFI-OM = Concurrent Major Changes per Unit
 ```
 
 ## Unit

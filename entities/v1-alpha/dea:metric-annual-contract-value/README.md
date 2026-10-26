@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Annual Contract Value** (ACV) in the O
 - **Canonical id:** `dea:metric-annual-contract-value`
 - **Name:** Annual Contract Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACV
 
@@ -22,7 +22,7 @@ The annualized value of a customer contract - the standard unit of B2B sales eco
 ## Formula
 
 ```
-Total Contract Value / Contract Years
+ACV = Total Contract Value / Contract Years
 ```
 
 ## Unit

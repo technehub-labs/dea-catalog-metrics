@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ticket Backlog** (TBK) in the OpenDEAM
 - **Canonical id:** `dea:metric-ticket-backlog`
 - **Name:** Ticket Backlog
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TBK
 
@@ -18,7 +18,7 @@ Within IT Service Management, Ticket Backlog (TBK) is used to gauge the utilizat
 ## Formula
 
 ```
-Open Tickets Aged beyond Target
+TBK = Open Tickets Aged beyond Target
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ready Backlog Coverage Ratio** (RBCR) 
 - **Canonical id:** `dea:metric-ready-backlog-coverage-ratio`
 - **Name:** Ready Backlog Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBCR
 
@@ -18,7 +18,7 @@ Ready Backlog Coverage Ratio (RBCR) captures the utilization or availability of 
 ## Formula
 
 ```
-Sprint-Ready Backlog Items / Planned Sprint Demand
+RBCR = Sprint-Ready Backlog Items / Planned Sprint Demand
 ```
 
 ## Unit

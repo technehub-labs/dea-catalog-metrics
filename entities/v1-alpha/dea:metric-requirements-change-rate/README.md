@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Change Rate** (RCR) in th
 - **Canonical id:** `dea:metric-requirements-change-rate`
 - **Name:** Requirements Change Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR
 
@@ -22,7 +22,7 @@ Measures the rate of change to requirements after baseline approval. It matters 
 ## Formula
 
 ```
-Changed Requirements / Baseline Requirements
+RCR = Changed Requirements / Baseline Requirements
 ```
 
 ## Unit

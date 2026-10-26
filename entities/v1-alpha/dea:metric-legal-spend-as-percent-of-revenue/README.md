@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Spend as Percent of Revenue** (L
 - **Canonical id:** `dea:metric-legal-spend-as-percent-of-revenue`
 - **Name:** Legal Spend as Percent of Revenue
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSPR
 
@@ -22,7 +22,7 @@ Measures total legal department and outside counsel spend against revenue. It be
 ## Formula
 
 ```
-Total Legal Spend / Revenue
+LSPR = Total Legal Spend / Revenue
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fabric Utilization Efficiency** (FUE) 
 - **Canonical id:** `dea:metric-fabric-utilization-efficiency`
 - **Name:** Fabric Utilization Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUE
 
@@ -22,7 +22,7 @@ Measures effective capacity use of textile fabric against waste. It matters beca
 ## Formula
 
 ```
-Fabric Used in Garments / Fabric Issued
+FUE = Fabric Used in Garments / Fabric Issued
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Material Waste Rate (Construction)** (
 - **Canonical id:** `dea:metric-material-waste-rate-construction`
 - **Name:** Material Waste Rate (Construction)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MWR
 
@@ -18,7 +18,7 @@ Material Waste Rate (Construction) (MWR) addresses how efficiently resources are
 ## Formula
 
 ```
-Wasted Material Value / Material Value Ordered
+MWR = Wasted Material Value / Material Value Ordered
 ```
 
 ## Unit

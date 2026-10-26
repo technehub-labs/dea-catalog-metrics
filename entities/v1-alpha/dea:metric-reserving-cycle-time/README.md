@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserving Cycle Time** (RCT) in the Op
 - **Canonical id:** `dea:metric-reserving-cycle-time`
 - **Name:** Reserving Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCT
 
@@ -18,7 +18,7 @@ Reserving Cycle Time (RCT) captures how efficiently resources are converted into
 ## Formula
 
 ```
-Days to Complete Reserving Valuation
+RCT = Days to Complete Reserving Valuation
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Use per Tonne of Product** (WUTP
 - **Canonical id:** `dea:metric-water-use-per-tonne-of-product`
 - **Name:** Water Use per Tonne of Product
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WUTP
 
@@ -18,7 +18,7 @@ Water Use per Tonne of Product (WUTP) captures environmental and social sustaina
 ## Formula
 
 ```
-Water Consumed / Production Tonnes
+WUTP = Water Consumed / Production Tonnes
 ```
 
 ## Unit

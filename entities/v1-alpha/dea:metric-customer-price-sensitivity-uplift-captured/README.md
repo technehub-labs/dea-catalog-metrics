@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Price Sensitivity Uplift Capt
 - **Canonical id:** `dea:metric-customer-price-sensitivity-uplift-captured`
 - **Name:** Customer Price Sensitivity Uplift Captured
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPSU
 
@@ -22,7 +22,7 @@ Measures how much of available willingness-to-pay is actually realized in realiz
 ## Formula
 
 ```
-Uplift Realized from Dynamic Pricing / Uplift Modeled
+CPSU = Uplift Realized from Dynamic Pricing / Uplift Modeled
 ```
 
 ## Unit

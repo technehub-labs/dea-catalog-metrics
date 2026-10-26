@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Gateway Availability** (APGA) in t
 - **Canonical id:** `dea:metric-api-gateway-availability`
 - **Name:** API Gateway Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APGA
 
@@ -18,7 +18,7 @@ API Gateway Availability (APGA) measures the quality of outputs and outcomes in 
 ## Formula
 
 ```
-Uptime of API Gateway Tier
+APGA = Uptime of API Gateway Tier
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Producer Productivity** (PRP-I) in the
 - **Canonical id:** `dea:metric-producer-productivity`
 - **Name:** Producer Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRP-I
 
@@ -22,7 +22,7 @@ Producer productivity measures revenue per insurance producer or broker, and it 
 ## Formula
 
 ```
-Premium Written per Producer per Period
+PRP-I = Premium Written per Producer per Period
 ```
 
 ## Unit

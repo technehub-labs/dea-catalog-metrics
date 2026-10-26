@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Request Cycle Time** (CRCT) in 
 - **Canonical id:** `dea:metric-change-request-cycle-time`
 - **Name:** Change Request Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCT
 
@@ -18,7 +18,7 @@ Within Project Management, Change Request Cycle Time (CRCT) is used to gauge how
 ## Formula
 
 ```
-Days from Change Request to Decision
+CRCT = Days from Change Request to Decision
 ```
 
 ## Unit

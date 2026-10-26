@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Note Timeliness** (RNT-RS) in
 - **Canonical id:** `dea:metric-research-note-timeliness`
 - **Name:** Research Note Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RNT-RS
 
@@ -18,7 +18,7 @@ Within Investment Research & Trading Operations, Research Note Timeliness (RNT-R
 ## Formula
 
 ```
-Notes Published within Event SLA / Events
+RNT-RS = Notes Published within Event SLA / Events
 ```
 
 ## Unit

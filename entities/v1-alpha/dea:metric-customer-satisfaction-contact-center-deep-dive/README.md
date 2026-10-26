@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction (Contact Center)
 - **Canonical id:** `dea:metric-customer-satisfaction-contact-center-deep-dive`
 - **Name:** Customer Satisfaction (Contact Center) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSATDD
 
@@ -18,7 +18,7 @@ A Contact Center Standard Measures (Deep Dive) indicator, Customer Satisfaction 
 ## Formula
 
 ```
-Post-Contact Satisfaction Rating
+CSATDD = Post-Contact Satisfaction Rating
 ```
 
 ## Unit

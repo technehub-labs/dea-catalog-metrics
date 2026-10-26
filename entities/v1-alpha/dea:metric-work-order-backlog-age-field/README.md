@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Work Order Backlog Age - Field** (WOBA
 - **Canonical id:** `dea:metric-work-order-backlog-age-field`
 - **Name:** Work Order Backlog Age - Field
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WOBA-F
 
@@ -18,7 +18,7 @@ A Field Maintenance & Technical Field Service (Deep Dive) indicator, Work Order 
 ## Formula
 
 ```
-Open Field Work Orders beyond Target / Open Orders
+WOBA-F = Open Field Work Orders beyond Target / Open Orders
 ```
 
 ## Unit

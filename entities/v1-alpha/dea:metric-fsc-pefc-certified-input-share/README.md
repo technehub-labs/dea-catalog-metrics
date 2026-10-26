@@ -7,7 +7,7 @@ Candidate Performance Metric record for **FSC / PEFC Certified Input Share** (FC
 - **Canonical id:** `dea:metric-fsc-pefc-certified-input-share`
 - **Name:** FSC / PEFC Certified Input Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCIS
 
@@ -22,7 +22,7 @@ Measures the share of wood inputs carrying chain-of-custody certification for fu
 ## Formula
 
 ```
-Certified Timber / Timber Consumed
+FCIS = Certified Timber / Timber Consumed
 ```
 
 ## Unit

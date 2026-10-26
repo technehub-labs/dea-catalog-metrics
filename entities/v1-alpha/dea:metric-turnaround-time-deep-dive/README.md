@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Time (Deep Dive)** (TAT-D) 
 - **Canonical id:** `dea:metric-turnaround-time-deep-dive`
 - **Name:** Turnaround Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAT-D
 
@@ -18,7 +18,7 @@ Turnaround Time (Deep Dive) (TAT-D) addresses how efficiently resources are conv
 ## Formula
 
 ```
-Minutes from On-Blocks to Off-Blocks
+TAT-D = Minutes from On-Blocks to Off-Blocks
 ```
 
 ## Unit

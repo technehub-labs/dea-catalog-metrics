@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Stock Optimization Coverage** (
 - **Canonical id:** `dea:metric-safety-stock-optimization-coverage`
 - **Name:** Safety Stock Optimization Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSOC
 
@@ -18,7 +18,7 @@ Safety Stock Optimization Coverage (SSOC) measures how efficiently resources are
 ## Formula
 
 ```
-SKUs with Statistically Sized Safety Stock / SKUs
+SSOC = SKUs with Statistically Sized Safety Stock / SKUs
 ```
 
 ## Unit

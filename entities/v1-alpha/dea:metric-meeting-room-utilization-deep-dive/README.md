@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Room Utilization (Deep Dive)**
 - **Canonical id:** `dea:metric-meeting-room-utilization-deep-dive`
 - **Name:** Meeting Room Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRU-D
 
@@ -18,7 +18,7 @@ Meeting Room Utilization (Deep Dive) (MRU-D) addresses the utilization or availa
 ## Formula
 
 ```
-Booked Room Hours / Available Room Hours
+MRU-D = Booked Room Hours / Available Room Hours
 ```
 
 ## Unit

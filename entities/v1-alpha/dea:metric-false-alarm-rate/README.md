@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Alarm Rate** (FAR-S) in the Open
 - **Canonical id:** `dea:metric-false-alarm-rate`
 - **Name:** False Alarm Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR-S
 
@@ -18,7 +18,7 @@ Within Physical Security Operations, False Alarm Rate (FAR-S) is used to gauge t
 ## Formula
 
 ```
-False Alarms / Total Alarms
+FAR-S = False Alarms / Total Alarms
 ```
 
 ## Unit

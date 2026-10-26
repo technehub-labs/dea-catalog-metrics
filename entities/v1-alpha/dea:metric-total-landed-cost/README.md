@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Landed Cost** (TLC) in the OpenD
 - **Canonical id:** `dea:metric-total-landed-cost`
 - **Name:** Total Landed Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLC
 
@@ -22,7 +22,7 @@ Measures the full cost of a delivered product including freight, duties, insuran
 ## Formula
 
 ```
-Product Cost + Freight + Duties + Insurance + Handling
+TLC = Product Cost + Freight + Duties + Insurance + Handling
 ```
 
 ## Unit

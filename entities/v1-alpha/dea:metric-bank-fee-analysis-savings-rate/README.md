@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bank Fee Analysis Savings Rate** (BFAS
 - **Canonical id:** `dea:metric-bank-fee-analysis-savings-rate`
 - **Name:** Bank Fee Analysis Savings Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFAS
 
@@ -18,7 +18,7 @@ Within Corporate Treasury (Deep Dive), Bank Fee Analysis Savings Rate (BFAS) is 
 ## Formula
 
 ```
-Fee Reductions Identified / Analyzed Fees
+BFAS = Fee Reductions Identified / Analyzed Fees
 ```
 
 ## Unit

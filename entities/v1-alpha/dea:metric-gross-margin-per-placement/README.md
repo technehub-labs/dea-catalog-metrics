@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin per Placement** (GMP) in 
 - **Canonical id:** `dea:metric-gross-margin-per-placement`
 - **Name:** Gross Margin per Placement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMP
 
@@ -22,7 +22,7 @@ Gross margin per placement measures the profit on each completed placement after
 ## Formula
 
 ```
-(Placement Revenue - Payroll and Statutory Costs) / Placement Revenue
+GMP = (Placement Revenue - Payroll and Statutory Costs) / Placement Revenue
 ```
 
 ## Unit

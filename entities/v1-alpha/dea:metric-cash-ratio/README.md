@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Ratio** (CR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-cash-ratio`
 - **Name:** Cash Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CR
 
@@ -22,7 +22,7 @@ Measures the share of current liabilities covered by cash and cash equivalents a
 ## Formula
 
 ```
-(Cash + Cash Equivalents) / Current Liabilities
+CR = (Cash + Cash Equivalents) / Current Liabilities
 ```
 
 ## Unit

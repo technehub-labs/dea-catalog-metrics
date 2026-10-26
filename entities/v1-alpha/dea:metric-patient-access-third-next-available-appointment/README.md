@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Access - Third Next Available 
 - **Canonical id:** `dea:metric-patient-access-third-next-available-appointment`
 - **Name:** Patient Access - Third Next Available Appointment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TNAA
 
@@ -18,7 +18,7 @@ A Medical Practice & Clinical Operations indicator, Patient Access - Third Next 
 ## Formula
 
 ```
-Days to Third Next Available Appointment Slot
+TNAA = Days to Third Next Available Appointment Slot
 ```
 
 ## Unit

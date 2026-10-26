@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Service Cost per Job (Deep Dive)
 - **Canonical id:** `dea:metric-field-service-cost-per-job-deep-dive`
 - **Name:** Field Service Cost per Job (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSCJ-D
 
@@ -22,7 +22,7 @@ Measures the fully loaded cost per completed field job including labor, travel, 
 ## Formula
 
 ```
-Total Field Cost / Jobs Completed
+FSCJ-D = Total Field Cost / Jobs Completed
 ```
 
 ## Unit

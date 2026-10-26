@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Variance - IT Budget (Deep Dive)*
 - **Canonical id:** `dea:metric-cost-variance-it-budget-deep-dive`
 - **Name:** Cost Variance - IT Budget (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVITB-D
 
@@ -22,7 +22,7 @@ Measures deviation of actual IT spend from the approved budget. IT variance is a
 ## Formula
 
 ```
-Actual Spend - Budget / Budget
+CVITB-D = Actual Spend - Budget / Budget
 ```
 
 ## Unit

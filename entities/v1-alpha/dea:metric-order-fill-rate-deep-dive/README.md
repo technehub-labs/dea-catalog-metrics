@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fill Rate (Deep Dive)** (OFR-T) 
 - **Canonical id:** `dea:metric-order-fill-rate-deep-dive`
 - **Name:** Order Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OFR-T
 
@@ -18,7 +18,7 @@ Order Fill Rate (Deep Dive) (OFR-T) measures how efficiently resources are conve
 ## Formula
 
 ```
-Orders Fully Filled / Orders
+OFR-T = Orders Fully Filled / Orders
 ```
 
 ## Unit

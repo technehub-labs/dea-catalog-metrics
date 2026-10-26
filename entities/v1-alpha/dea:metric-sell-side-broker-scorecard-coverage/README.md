@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Side Broker Scorecard Coverage** 
 - **Canonical id:** `dea:metric-sell-side-broker-scorecard-coverage`
 - **Name:** Sell-Side Broker Scorecard Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBSC
 
@@ -18,7 +18,7 @@ Sell-Side Broker Scorecard Coverage (SBSC) measures conformance to standards, pl
 ## Formula
 
 ```
-Brokers Evaluated on Scorecard / Active Brokers
+SBSC = Brokers Evaluated on Scorecard / Active Brokers
 ```
 
 ## Unit

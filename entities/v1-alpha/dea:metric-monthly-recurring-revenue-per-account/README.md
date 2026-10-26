@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Recurring Revenue per Account*
 - **Canonical id:** `dea:metric-monthly-recurring-revenue-per-account`
 - **Name:** Monthly Recurring Revenue per Account
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRRA
 
@@ -22,7 +22,7 @@ Recurring revenue divided by account count - the average-account-value metric of
 ## Formula
 
 ```
-MRR / Active Accounts
+MRRA = MRR / Active Accounts
 ```
 
 ## Unit

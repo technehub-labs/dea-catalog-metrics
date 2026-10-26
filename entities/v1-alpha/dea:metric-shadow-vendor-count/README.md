@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow Vendor Count** (SVC) in the Ope
 - **Canonical id:** `dea:metric-shadow-vendor-count`
 - **Name:** Shadow Vendor Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVC
 
@@ -22,7 +22,7 @@ Measures undocumented or unmanaged vendors operating outside procurement control
 ## Formula
 
 ```
-Unapproved Vendors with Spend in Period
+SVC = Unapproved Vendors with Spend in Period
 ```
 
 ## Unit

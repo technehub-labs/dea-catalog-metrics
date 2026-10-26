@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Speaker and Session Evaluation Score**
 - **Canonical id:** `dea:metric-speaker-and-session-evaluation-score`
 - **Name:** Speaker and Session Evaluation Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSES
 
@@ -18,7 +18,7 @@ Within Events & Exhibitions, Speaker and Session Evaluation Score (SSES) is used
 ## Formula
 
 ```
-Average Session Rating
+SSES = Average Session Rating
 ```
 
 ## Unit

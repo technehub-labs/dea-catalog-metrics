@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Quality Assurance Audit Score** (N
 - **Canonical id:** `dea:metric-noc-quality-assurance-audit-score`
 - **Name:** NOC Quality Assurance Audit Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NQAS
 
@@ -18,7 +18,7 @@ Within Network Operations Center (Deep Dive), NOC Quality Assurance Audit Score 
 ## Formula
 
 ```
-Composite Ticket and Process Audit Score
+NQAS = Composite Ticket and Process Audit Score
 ```
 
 ## Unit

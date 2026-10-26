@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Refresh Cycle Compliance**
 - **Canonical id:** `dea:metric-environment-refresh-cycle-compliance`
 - **Name:** Environment Refresh Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERCC
 
@@ -18,7 +18,7 @@ Environment Refresh Cycle Compliance (ERCC) addresses conformance to standards, 
 ## Formula
 
 ```
-Refreshes Completed per Policy Schedule / Due
+ERCC = Refreshes Completed per Policy Schedule / Due
 ```
 
 ## Unit

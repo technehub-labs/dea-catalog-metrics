@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensating Control Coverage** (CCC-V
 - **Canonical id:** `dea:metric-compensating-control-coverage`
 - **Name:** Compensating Control Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC-VM
 
@@ -18,7 +18,7 @@ Within Vulnerability & Exposure Management, Compensating Control Coverage (CCC-V
 ## Formula
 
 ```
-Unpatched Systems with Compensating Controls / Unpatched Systems
+CCC-VM = Unpatched Systems with Compensating Controls / Unpatched Systems
 ```
 
 ## Unit

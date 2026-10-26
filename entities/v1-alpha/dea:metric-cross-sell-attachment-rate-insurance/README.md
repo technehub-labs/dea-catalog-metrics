@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Sell Attachment Rate (Insurance)
 - **Canonical id:** `dea:metric-cross-sell-attachment-rate-insurance`
 - **Name:** Cross-Sell Attachment Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSAR-I
 
@@ -18,7 +18,7 @@ Cross-Sell Attachment Rate (Insurance) (CSAR-I) captures growth over time for or
 ## Formula
 
 ```
-Policies with Additional Coverages / Policies
+CSAR-I = Policies with Additional Coverages / Policies
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Revenue Water** (NRW) in the OpenD
 - **Canonical id:** `dea:metric-non-revenue-water`
 - **Name:** Non-Revenue Water
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NRW
 
@@ -22,7 +22,7 @@ Water produced but not billed - the share of treated, pumped water lost to leaks
 ## Formula
 
 ```
-Water Lost / Water Supplied
+NRW = Water Lost / Water Supplied
 ```
 
 ## Unit

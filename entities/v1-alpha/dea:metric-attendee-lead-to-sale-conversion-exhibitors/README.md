@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendee Lead-to-Sale Conversion (Exhi
 - **Canonical id:** `dea:metric-attendee-lead-to-sale-conversion-exhibitors`
 - **Name:** Attendee Lead-to-Sale Conversion (Exhibitors)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALSC
 
@@ -18,7 +18,7 @@ Within Events & Exhibitions, Attendee Lead-to-Sale Conversion (Exhibitors) (ALSC
 ## Formula
 
 ```
-Exhibitor Leads Converted to Sales / Leads
+ALSC = Exhibitor Leads Converted to Sales / Leads
 ```
 
 ## Unit

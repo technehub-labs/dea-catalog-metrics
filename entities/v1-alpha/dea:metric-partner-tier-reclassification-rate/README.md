@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Tier Reclassification Rate** (
 - **Canonical id:** `dea:metric-partner-tier-reclassification-rate`
 - **Name:** Partner Tier Reclassification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTRR
 
@@ -18,7 +18,7 @@ A Channel & Distribution Management indicator, Partner Tier Reclassification Rat
 ## Formula
 
 ```
-Partners Moving Tier per Review Cycle / Partners
+PTRR = Partners Moving Tier per Review Cycle / Partners
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punctuality Recovery Index** (PRI-AT) 
 - **Canonical id:** `dea:metric-punctuality-recovery-index`
 - **Name:** Punctuality Recovery Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRI-AT
 
@@ -18,7 +18,7 @@ Within Airline & Transportation Standard Measures (Deep Dive), Punctuality Recov
 ## Formula
 
 ```
-Post-Disruption On-Time Share within 24 Hours
+PRI-AT = Post-Disruption On-Time Share within 24 Hours
 ```
 
 ## Unit

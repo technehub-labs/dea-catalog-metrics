@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spill Volume per Production** (SVP) in
 - **Canonical id:** `dea:metric-spill-volume-per-production`
 - **Name:** Spill Volume per Production
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVP
 
@@ -22,7 +22,7 @@ Spill volume per unit of production measures the environmental containment perfo
 ## Formula
 
 ```
-Hydrocarbons Spilled / Hydrocarbons Produced
+SVP = Hydrocarbons Spilled / Hydrocarbons Produced
 ```
 
 ## Unit

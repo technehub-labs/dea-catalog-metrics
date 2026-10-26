@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Booking Utilization** (EBU
 - **Canonical id:** `dea:metric-environment-booking-utilization`
 - **Name:** Environment Booking Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBU-RM
 
@@ -18,7 +18,7 @@ Within Release Management & Environments, Environment Booking Utilization (EBU-R
 ## Formula
 
 ```
-Booked Environment Hours / Available Hours
+EBU-RM = Booked Environment Hours / Available Hours
 ```
 
 ## Unit

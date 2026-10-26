@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interview-to-Offer Ratio** (ITOR) in t
 - **Canonical id:** `dea:metric-interview-to-offer-ratio`
 - **Name:** Interview-to-Offer Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITOR
 
@@ -18,7 +18,7 @@ Interview-to-Offer Ratio (ITOR) measures how efficiently resources are converted
 ## Formula
 
 ```
-Candidates Interviewed per Offer Made
+ITOR = Candidates Interviewed per Offer Made
 ```
 
 ## Unit

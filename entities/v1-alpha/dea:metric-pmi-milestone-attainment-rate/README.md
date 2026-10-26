@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PMI Milestone Attainment Rate** (PMMA)
 - **Canonical id:** `dea:metric-pmi-milestone-attainment-rate`
 - **Name:** PMI Milestone Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMMA
 
@@ -22,7 +22,7 @@ Measures delivery of integration plan milestones - systems cutover, org design, 
 ## Formula
 
 ```
-Integration Milestones on Schedule / Milestones
+PMMA = Integration Milestones on Schedule / Milestones
 ```
 
 ## Unit

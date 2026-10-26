@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stockout Rate** (SOR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-stockout-rate`
 - **Name:** Stockout Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOR
 
@@ -22,7 +22,7 @@ Measures the share of demand events or SKUs that hit zero stock. It matters beca
 ## Formula
 
 ```
-Stockout Events / Total Demand Events
+SOR = Stockout Events / Total Demand Events
 ```
 
 ## Unit

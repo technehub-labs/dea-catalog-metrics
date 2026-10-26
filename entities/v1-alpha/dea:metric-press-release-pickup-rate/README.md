@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Press Release Pickup Rate** (PRPR) in 
 - **Canonical id:** `dea:metric-press-release-pickup-rate`
 - **Name:** Press Release Pickup Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRPR
 
@@ -22,7 +22,7 @@ Measures the share of press releases earning meaningful media pickup. It matters
 ## Formula
 
 ```
-Outlets Publishing Release / Outlets Targeted
+PRPR = Outlets Publishing Release / Outlets Targeted
 ```
 
 ## Unit

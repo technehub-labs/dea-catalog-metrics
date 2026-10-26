@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Surgical Complication Rate (Vet)** (SC
 - **Canonical id:** `dea:metric-surgical-complication-rate-vet`
 - **Name:** Surgical Complication Rate (Vet)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-V
 
@@ -22,7 +22,7 @@ Measures adverse surgical outcomes against procedure volume, by procedure class.
 ## Formula
 
 ```
-Complications / Surgical Procedures
+SCR-V = Complications / Surgical Procedures
 ```
 
 ## Unit

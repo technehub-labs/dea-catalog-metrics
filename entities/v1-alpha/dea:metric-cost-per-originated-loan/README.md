@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Originated Loan** (CPOL) in t
 - **Canonical id:** `dea:metric-cost-per-originated-loan`
 - **Name:** Cost per Originated Loan
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPOL
 
@@ -22,7 +22,7 @@ Measures fully loaded acquisition cost per funded loan - marketing, origination,
 ## Formula
 
 ```
-Origination Costs / Loans Originated
+CPOL = Origination Costs / Loans Originated
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Automation Rate (GBS)** (PAR-G
 - **Canonical id:** `dea:metric-process-automation-rate-gbs`
 - **Name:** Process Automation Rate (GBS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAR-G
 
@@ -22,7 +22,7 @@ Process automation rate in global business services measures the share of proces
 ## Formula
 
 ```
-Automated Process Steps / Total Process Steps
+PAR-G = Automated Process Steps / Total Process Steps
 ```
 
 ## Unit

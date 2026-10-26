@@ -9,7 +9,7 @@ description: Within Balanced Scorecard - Internal Process Perspective, Process E
   performance frameworks.
 abbreviation: PEI-BSC
 unit: index
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - strategy
@@ -27,7 +27,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Composite Process Performance Score
 formula_definition:
   formula_id: dea:formula-process-effectiveness-index
-  expression: Composite Process Performance Score
+  expression: PEI-BSC = Composite Process Performance Score
   inputs:
   - name: Composite Process Performance Score
   operators: []
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-index
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3081
     batch: '7'
 domain: balanced_scorecard_internal_process_perspective
+subject_concept: dea:subject-process_effectiveness
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3081
+  - Public domain - no attribution required
+  known_limitations: []

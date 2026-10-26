@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physical Security Access Compliance (D
 - **Canonical id:** `dea:metric-physical-security-access-compliance-dc`
 - **Name:** Physical Security Access Compliance (DC)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSAC-D
 
@@ -18,7 +18,7 @@ Physical Security Access Compliance (DC) (PSAC-D) measures conformance to standa
 ## Formula
 
 ```
-Access Events per Policy / Events
+PSAC-D = Access Events per Policy / Events
 ```
 
 ## Unit

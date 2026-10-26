@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Factor** (LF) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-load-factor`
 - **Name:** Load Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LF
 
@@ -22,7 +22,7 @@ Measures how full vehicles or capacity are relative to maximum capacity. It matt
 ## Formula
 
 ```
-Occupied Capacity / Available Capacity
+LF = Occupied Capacity / Available Capacity
 ```
 
 ## Unit

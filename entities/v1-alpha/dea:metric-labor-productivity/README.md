@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Productivity** (LP) in the OpenD
 - **Canonical id:** `dea:metric-labor-productivity`
 - **Name:** Labor Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LP
 
@@ -22,7 +22,7 @@ Measures output per labor hour or per employee. It matters because it is the fun
 ## Formula
 
 ```
-Output Units / Labor Hour
+LP = Output Units / Labor Hour
 ```
 
 ## Unit

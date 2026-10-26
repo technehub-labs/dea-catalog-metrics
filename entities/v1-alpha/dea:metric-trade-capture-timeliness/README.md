@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Capture Timeliness** (TCT-TRD) i
 - **Canonical id:** `dea:metric-trade-capture-timeliness`
 - **Name:** Trade Capture Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCT-TRD
 
@@ -18,7 +18,7 @@ Trade Capture Timeliness (TCT-TRD) measures conformance to standards, plans, or 
 ## Formula
 
 ```
-Trades Captured within Window / Trades
+TCT-TRD = Trades Captured within Window / Trades
 ```
 
 ## Unit

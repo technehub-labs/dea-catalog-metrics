@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Savings Realization Rate (Sourcing)** 
 - **Canonical id:** `dea:metric-savings-realization-rate-sourcing`
 - **Name:** Savings Realization Rate (Sourcing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR-SS
 
@@ -22,7 +22,7 @@ Measures whether negotiated savings appear in actual run-rate spend. Realization
 ## Formula
 
 ```
-Realized vs Identified Savings / Identified Savings
+SRR-SS = Realized vs Identified Savings / Identified Savings
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Independence Ratio** (BIR) in th
 - **Canonical id:** `dea:metric-board-independence-ratio`
 - **Name:** Board Independence Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BIR
 
@@ -22,7 +22,7 @@ Board independence ratio measures the share of directors without material relati
 ## Formula
 
 ```
-Independent Directors / Total Board Seats
+BIR = Independent Directors / Total Board Seats
 ```
 
 ## Unit

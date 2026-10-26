@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tester-to-Developer Ratio Effectivenes
 - **Canonical id:** `dea:metric-tester-to-developer-ratio-effectiveness-index`
 - **Name:** Tester-to-Developer Ratio Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDREI
 
@@ -18,7 +18,7 @@ Tester-to-Developer Ratio Effectiveness Index (TDREI) addresses how efficiently 
 ## Formula
 
 ```
-Defect Detection per Testing FTE
+TDREI = Defect Detection per Testing FTE
 ```
 
 ## Unit

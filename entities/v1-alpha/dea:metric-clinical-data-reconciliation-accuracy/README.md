@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Data Reconciliation Accuracy*
 - **Canonical id:** `dea:metric-clinical-data-reconciliation-accuracy`
 - **Name:** Clinical Data Reconciliation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDRA
 
@@ -18,7 +18,7 @@ Within Pharma R&D & Clinical Trials, Clinical Data Reconciliation Accuracy (CDRA
 ## Formula
 
 ```
-Reconciled Records without Discrepancy / Records
+CDRA = Reconciled Records without Discrepancy / Records
 ```
 
 ## Unit

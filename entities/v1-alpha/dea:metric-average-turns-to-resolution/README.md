@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Turns to Resolution** (ATTR) i
 - **Canonical id:** `dea:metric-average-turns-to-resolution`
 - **Name:** Average Turns to Resolution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 
@@ -18,7 +18,7 @@ Average Turns to Resolution (ATTR) addresses how efficiently resources are conve
 ## Formula
 
 ```
-Conversation Turns before Resolution / Resolved Conversations
+ATTR = Conversation Turns before Resolution / Resolved Conversations
 ```
 
 ## Unit

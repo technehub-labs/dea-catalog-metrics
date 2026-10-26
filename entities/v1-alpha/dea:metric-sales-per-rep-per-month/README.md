@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Rep per Month** (SPM) in the
 - **Canonical id:** `dea:metric-sales-per-rep-per-month`
 - **Name:** Sales per Rep per Month
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPM
 
@@ -18,7 +18,7 @@ Sales per Rep per Month (SPM) captures how effectively a process or entity achie
 ## Formula
 
 ```
-Monthly Closed Revenue / Active Sales Reps
+SPM = Monthly Closed Revenue / Active Sales Reps
 ```
 
 ## Unit

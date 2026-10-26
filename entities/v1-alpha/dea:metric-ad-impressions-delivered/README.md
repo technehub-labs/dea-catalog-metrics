@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Impressions Delivered** (AID) in th
 - **Canonical id:** `dea:metric-ad-impressions-delivered`
 - **Name:** Ad Impressions Delivered
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AID
 
@@ -18,7 +18,7 @@ Ad Impressions Delivered (AID) measures the utilization or availability of capac
 ## Formula
 
 ```
-Count of Ad Impressions per Period
+AID = Count of Ad Impressions per Period
 ```
 
 ## Unit

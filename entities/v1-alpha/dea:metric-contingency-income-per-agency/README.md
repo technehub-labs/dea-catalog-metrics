@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingency Income per Agency** (CIPA)
 - **Canonical id:** `dea:metric-contingency-income-per-agency`
 - **Name:** Contingency Income per Agency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIPA
 
@@ -18,7 +18,7 @@ A Insurance Distribution & Agency Management indicator, Contingency Income per A
 ## Formula
 
 ```
-Profit-Sharing Earned / Appointed Agencies
+CIPA = Profit-Sharing Earned / Appointed Agencies
 ```
 
 ## Unit

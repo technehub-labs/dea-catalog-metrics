@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rate-Limit Exceeded Events per 1M Call
 - **Canonical id:** `dea:metric-rate-limit-exceeded-events-per-1m-calls`
 - **Name:** Rate-Limit Exceeded Events per 1M Calls
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RLE1M
 
@@ -18,7 +18,7 @@ Within Software Product Operations (Deep Dive), Rate-Limit Exceeded Events per 1
 ## Formula
 
 ```
-429 Responses / API Calls x 1,000,000
+RLE1M = 429 Responses / API Calls x 1,000,000
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Discovery Coverage (PII)** (PDDC)
 - **Canonical id:** `dea:metric-data-discovery-coverage-pii`
 - **Name:** Data Discovery Coverage (PII)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDDC
 
@@ -18,7 +18,7 @@ A Data Privacy & Protection indicator, Data Discovery Coverage (PII) (PDDC) quan
 ## Formula
 
 ```
-Systems Scanned for Personal Data / Systems in Scope
+PDDC = Systems Scanned for Personal Data / Systems in Scope
 ```
 
 ## Unit

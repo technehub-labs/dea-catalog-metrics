@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Version Currency Ratio** (APIVC) i
 - **Canonical id:** `dea:metric-api-version-currency-ratio`
 - **Name:** API Version Currency Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIVC
 
@@ -18,7 +18,7 @@ API Version Currency Ratio (APIVC) addresses how efficiently resources are conve
 ## Formula
 
 ```
-Calls on Latest Major Version / Total Calls
+APIVC = Calls on Latest Major Version / Total Calls
 ```
 
 ## Unit

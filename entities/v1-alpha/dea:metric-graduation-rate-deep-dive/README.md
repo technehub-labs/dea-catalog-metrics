@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Graduation Rate (Deep Dive)** (GRDD) i
 - **Canonical id:** `dea:metric-graduation-rate-deep-dive`
 - **Name:** Graduation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GRDD
 
@@ -22,7 +22,7 @@ Measures the share of entrants completing their program within a defined window.
 ## Formula
 
 ```
-Cohort Completing within 150% of Program Time / Cohort
+GRDD = Cohort Completing within 150% of Program Time / Cohort
 ```
 
 ## Unit

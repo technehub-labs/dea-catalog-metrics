@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Article Inspection Pass Rate** (
 - **Canonical id:** `dea:metric-first-article-inspection-pass-rate`
 - **Name:** First Article Inspection Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAI
 
@@ -18,7 +18,7 @@ A Quality Management indicator, First Article Inspection Pass Rate (FAI) quantif
 ## Formula
 
 ```
-First Articles Passed / First Articles Inspected
+FAI = First Articles Passed / First Articles Inspected
 ```
 
 ## Unit

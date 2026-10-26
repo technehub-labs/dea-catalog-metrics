@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsorship Revenue Fulfilment Rate** 
 - **Canonical id:** `dea:metric-sponsorship-revenue-fulfilment-rate`
 - **Name:** Sponsorship Revenue Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRFR
 
@@ -18,7 +18,7 @@ Within Events & Exhibitions, Sponsorship Revenue Fulfilment Rate (SRFR) is used 
 ## Formula
 
 ```
-Delivered Sponsor Benefits / Contracted Benefits
+SRFR = Delivered Sponsor Benefits / Contracted Benefits
 ```
 
 ## Unit

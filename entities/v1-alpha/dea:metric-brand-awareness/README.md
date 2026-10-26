@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Awareness** (BRA) in the OpenDEA
 - **Canonical id:** `dea:metric-brand-awareness`
 - **Name:** Brand Awareness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRA
 
@@ -22,7 +22,7 @@ The share of a target audience able to recognize or recall the brand - the top o
 ## Formula
 
 ```
-Respondents Recognizing Brand / Surveyed Population
+BRA = Respondents Recognizing Brand / Surveyed Population
 ```
 
 ## Unit

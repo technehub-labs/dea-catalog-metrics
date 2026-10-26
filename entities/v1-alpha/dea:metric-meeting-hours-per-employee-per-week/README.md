@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Hours per Employee per Week** 
 - **Canonical id:** `dea:metric-meeting-hours-per-employee-per-week`
 - **Name:** Meeting Hours per Employee per Week
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MHPE
 
@@ -22,7 +22,7 @@ Measures time spent in meetings, typically from calendar data. It is the bluntes
 ## Formula
 
 ```
-Meeting Hours / Employee Weeks
+MHPE = Meeting Hours / Employee Weeks
 ```
 
 ## Unit

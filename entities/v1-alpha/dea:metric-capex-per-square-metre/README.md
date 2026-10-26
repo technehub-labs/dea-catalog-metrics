@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CapEx per Square Metre** (CPSM) in the
 - **Canonical id:** `dea:metric-capex-per-square-metre`
 - **Name:** CapEx per Square Metre
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPSM
 
@@ -18,7 +18,7 @@ CapEx per Square Metre (CPSM) captures how efficiently resources are converted i
 ## Formula
 
 ```
-Capital Expenditure / Lettable Area
+CPSM = Capital Expenditure / Lettable Area
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unplanned Database Outage Count** (UDO
 - **Canonical id:** `dea:metric-unplanned-database-outage-count`
 - **Name:** Unplanned Database Outage Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UDO-CT
 
@@ -18,7 +18,7 @@ A Database & Data Platform Operations indicator, Unplanned Database Outage Count
 ## Formula
 
 ```
-Unplanned Database Outages in Period
+UDO-CT = Unplanned Database Outages in Period
 ```
 
 ## Unit

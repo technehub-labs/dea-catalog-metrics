@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Record Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-duplicate-record-rate-deep-dive`
 - **Name:** Duplicate Record Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRR-DQ
 
@@ -18,7 +18,7 @@ A Data Quality Management indicator, Duplicate Record Rate (Deep Dive) (DRR-DQ) 
 ## Formula
 
 ```
-Duplicate Records / Total Records
+DRR-DQ = Duplicate Records / Total Records
 ```
 
 ## Unit

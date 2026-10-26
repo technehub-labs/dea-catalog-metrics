@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trial-to-Paid Conversion (Deep Dive)**
 - **Canonical id:** `dea:metric-trial-to-paid-conversion-deep-dive`
 - **Name:** Trial-to-Paid Conversion (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTPC-D
 
@@ -22,7 +22,7 @@ Measures the share of product trials becoming paid subscriptions. It is the dema
 ## Formula
 
 ```
-Paid Conversions / Trials
+TTPC-D = Paid Conversions / Trials
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Security Standard Coverage** (APIS
 - **Canonical id:** `dea:metric-api-security-standard-coverage`
 - **Name:** API Security Standard Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APISSC
 
@@ -18,7 +18,7 @@ API Security Standard Coverage (APISSC) addresses exposure to adverse outcomes a
 ## Formula
 
 ```
-Endpoints Enforcing Auth and Rate Policy / Endpoints
+APISSC = Endpoints Enforcing Auth and Rate Policy / Endpoints
 ```
 
 ## Unit

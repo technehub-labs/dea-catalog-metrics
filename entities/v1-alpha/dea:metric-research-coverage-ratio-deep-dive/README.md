@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Coverage Ratio (Deep Dive)** 
 - **Canonical id:** `dea:metric-research-coverage-ratio-deep-dive`
 - **Name:** Research Coverage Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-D
 
@@ -22,7 +22,7 @@ Measures the share of portfolio holdings or target universe covered by active an
 ## Formula
 
 ```
-Covered Names / Portfolio Holdings
+RCR-D = Covered Names / Portfolio Holdings
 ```
 
 ## Unit

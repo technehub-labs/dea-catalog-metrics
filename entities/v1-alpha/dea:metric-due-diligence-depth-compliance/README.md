@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Due Diligence Depth Compliance** (DDDC
 - **Canonical id:** `dea:metric-due-diligence-depth-compliance`
 - **Name:** Due Diligence Depth Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDDC
 
@@ -22,7 +22,7 @@ Measures whether initial due diligence met the required depth by risk tier. Dili
 ## Formula
 
 ```
-Vendors Receiving Tier-Appropriate Diligence / Vendors
+DDDC = Vendors Receiving Tier-Appropriate Diligence / Vendors
 ```
 
 ## Unit

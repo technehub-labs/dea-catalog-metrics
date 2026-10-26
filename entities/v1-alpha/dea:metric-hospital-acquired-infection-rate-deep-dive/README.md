@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital-Acquired Infection Rate (Deep
 - **Canonical id:** `dea:metric-hospital-acquired-infection-rate-deep-dive`
 - **Name:** Hospital-Acquired Infection Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HAI-D
 
@@ -22,7 +22,7 @@ Measures infections originating in care - CLABSI, CAUTI, surgical site, C. diffi
 ## Formula
 
 ```
-HAIs / Device or Admission Days
+HAI-D = HAIs / Device or Admission Days
 ```
 
 ## Unit

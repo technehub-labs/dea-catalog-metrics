@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kolmogorov-Smirnov Statistic (Model)**
 - **Canonical id:** `dea:metric-kolmogorov-smirnov-statistic-model`
 - **Name:** Kolmogorov-Smirnov Statistic (Model)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KSM
 
@@ -22,7 +22,7 @@ The KS statistic, from Kolmogorov and Smirnov's distribution-test work, is the m
 ## Formula
 
 ```
-Maximum Separation of Cumulative Event Distributions
+KSM = Maximum Separation of Cumulative Event Distributions
 ```
 
 ## Unit

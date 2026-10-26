@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Batch Investigation Cycle Time
 - **Canonical id:** `dea:metric-quality-batch-investigation-cycle-time`
 - **Name:** Quality Batch Investigation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QBICT
 
@@ -18,7 +18,7 @@ Quality Batch Investigation Cycle Time (QBICT) measures how efficiently resource
 ## Formula
 
 ```
-Days from Deviation to Investigation Close
+QBICT = Days from Deviation to Investigation Close
 ```
 
 ## Unit

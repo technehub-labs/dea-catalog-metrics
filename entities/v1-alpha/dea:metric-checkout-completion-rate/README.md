@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Checkout Completion Rate** (CCR-R) in 
 - **Canonical id:** `dea:metric-checkout-completion-rate`
 - **Name:** Checkout Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-R
 
@@ -18,7 +18,7 @@ Within Retail & E-commerce, Checkout Completion Rate (CCR-R) is used to gauge ho
 ## Formula
 
 ```
-Completed Checkouts / Checkout Starts
+CCR-R = Completed Checkouts / Checkout Starts
 ```
 
 ## Unit

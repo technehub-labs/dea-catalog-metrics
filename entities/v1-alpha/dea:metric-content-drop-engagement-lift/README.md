@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Drop Engagement Lift** (CDEL) 
 - **Canonical id:** `dea:metric-content-drop-engagement-lift`
 - **Name:** Content Drop Engagement Lift
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDEL
 
@@ -18,7 +18,7 @@ Content Drop Engagement Lift (CDEL) measures growth over time in the Gaming Deve
 ## Formula
 
 ```
-Post-Release Engagement - Baseline
+CDEL = Post-Release Engagement - Baseline
 ```
 
 ## Unit

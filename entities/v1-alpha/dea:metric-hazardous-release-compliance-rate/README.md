@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hazardous Release Compliance Rate** (H
 - **Canonical id:** `dea:metric-hazardous-release-compliance-rate`
 - **Name:** Hazardous Release Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRCR
 
@@ -22,7 +22,7 @@ Hazardous release compliance measures adherence to regulatory reporting, contain
 ## Formula
 
 ```
-Releases within Permitted Limits / Release Events
+HRCR = Releases within Permitted Limits / Release Events
 ```
 
 ## Unit

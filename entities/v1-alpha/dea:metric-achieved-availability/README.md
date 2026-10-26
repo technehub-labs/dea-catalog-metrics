@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Achieved Availability** (ACAVL) in the
 - **Canonical id:** `dea:metric-achieved-availability`
 - **Name:** Achieved Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACAVL
 
@@ -18,7 +18,7 @@ Achieved Availability (ACAVL) addresses the quality of outputs and outcomes and 
 ## Formula
 
 ```
-MTBMA / (MTBMA + MMTRS)
+ACAVL = MTBMA / (MTBMA + MMTRS)
 ```
 
 ## Unit

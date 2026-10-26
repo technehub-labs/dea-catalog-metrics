@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Refinement Cadence Compliance*
 - **Canonical id:** `dea:metric-backlog-refinement-cadence-compliance`
 - **Name:** Backlog Refinement Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRCC-S
 
@@ -18,7 +18,7 @@ Backlog Refinement Cadence Compliance (BRCC-S) captures conformance to standards
 ## Formula
 
 ```
-Refinement Sessions Held per Cadence / Scheduled
+BRCC-S = Refinement Sessions Held per Cadence / Scheduled
 ```
 
 ## Unit

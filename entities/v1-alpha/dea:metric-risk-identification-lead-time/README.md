@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Identification Lead Time** (RILT)
 - **Canonical id:** `dea:metric-risk-identification-lead-time`
 - **Name:** Risk Identification Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RILT
 
@@ -18,7 +18,7 @@ Risk Identification Lead Time (RILT) addresses exposure to adverse outcomes and 
 ## Formula
 
 ```
-Days Risk Identified before Impact vs Realized
+RILT = Days Risk Identified before Impact vs Realized
 ```
 
 ## Unit

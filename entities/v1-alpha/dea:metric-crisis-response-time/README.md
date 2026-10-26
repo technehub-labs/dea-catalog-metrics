@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Response Time** (CRT-C) in the 
 - **Canonical id:** `dea:metric-crisis-response-time`
 - **Name:** Crisis Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRT-C
 
@@ -22,7 +22,7 @@ Crisis response time measures elapsed time from incident detection to public res
 ## Formula
 
 ```
-Hours from Crisis Trigger to Public Response
+CRT-C = Hours from Crisis Trigger to Public Response
 ```
 
 ## Unit

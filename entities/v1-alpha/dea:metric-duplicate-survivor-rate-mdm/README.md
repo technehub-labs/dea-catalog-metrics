@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Survivor Rate (MDM)** (DSR-M
 - **Canonical id:** `dea:metric-duplicate-survivor-rate-mdm`
 - **Name:** Duplicate Survivor Rate (MDM)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSR-MD
 
@@ -18,7 +18,7 @@ Duplicate Survivor Rate (MDM) (DSR-MD) measures the quality of outputs and outco
 ## Formula
 
 ```
-Remaining Duplicate Masters after Matching / Masters
+DSR-MD = Remaining Duplicate Masters after Matching / Masters
 ```
 
 ## Unit

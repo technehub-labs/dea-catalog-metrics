@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proof of Delivery Capture Rate** (PODR
 - **Canonical id:** `dea:metric-proof-of-delivery-capture-rate`
 - **Name:** Proof of Delivery Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PODR
 
@@ -18,7 +18,7 @@ Within Parcel & Last-Mile Logistics (Deep Dive), Proof of Delivery Capture Rate 
 ## Formula
 
 ```
-Deliveries with Electronic POD / Deliveries
+PODR = Deliveries with Electronic POD / Deliveries
 ```
 
 ## Unit

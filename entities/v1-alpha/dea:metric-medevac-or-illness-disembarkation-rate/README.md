@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medevac or Illness Disembarkation Rate
 - **Canonical id:** `dea:metric-medevac-or-illness-disembarkation-rate`
 - **Name:** Medevac or Illness Disembarkation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIDR
 
@@ -18,7 +18,7 @@ Within Cruise & Passenger Shipping, Medevac or Illness Disembarkation Rate (MIDR
 ## Formula
 
 ```
-Medical Disembarkations / Passengers
+MIDR = Medical Disembarkations / Passengers
 ```
 
 ## Unit

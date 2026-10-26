@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hazard Rate (Instantaneous Failure Rat
 - **Canonical id:** `dea:metric-hazard-rate-instantaneous-failure-rate`
 - **Name:** Hazard Rate (Instantaneous Failure Rate)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRIFR
 
@@ -18,7 +18,7 @@ A Reliability & Maintainability Engineering (Deep Dive) indicator, Hazard Rate (
 ## Formula
 
 ```
-Failures in Interval / Surviving Units at Interval Start
+HRIFR = Failures in Interval / Surviving Units at Interval Start
 ```
 
 ## Unit

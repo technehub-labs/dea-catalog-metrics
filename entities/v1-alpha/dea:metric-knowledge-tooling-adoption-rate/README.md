@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Tooling Adoption Rate** (KTA
 - **Canonical id:** `dea:metric-knowledge-tooling-adoption-rate`
 - **Name:** Knowledge Tooling Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KTAR
 
@@ -18,7 +18,7 @@ Within Knowledge Management (Deep Dive), Knowledge Tooling Adoption Rate (KTAR) 
 ## Formula
 
 ```
-Employees Using Central Knowledge Platform / Employees
+KTAR = Employees Using Central Knowledge Platform / Employees
 ```
 
 ## Unit

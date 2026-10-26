@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Consumption Rate** (EBCR)
 - **Canonical id:** `dea:metric-error-budget-consumption-rate`
 - **Name:** Error Budget Consumption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBCR
 
@@ -22,7 +22,7 @@ Measures how fast a service spends its allowed unreliability (100% minus SLO). T
 ## Formula
 
 ```
-Error Budget Consumed / Total Error Budget
+EBCR = Error Budget Consumed / Total Error Budget
 ```
 
 ## Unit

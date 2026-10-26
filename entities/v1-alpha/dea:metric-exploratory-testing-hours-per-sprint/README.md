@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exploratory Testing Hours per Sprint**
 - **Canonical id:** `dea:metric-exploratory-testing-hours-per-sprint`
 - **Name:** Exploratory Testing Hours per Sprint
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETHPS
 
@@ -18,7 +18,7 @@ Exploratory Testing Hours per Sprint (ETHPS) addresses the quality of outputs an
 ## Formula
 
 ```
-Exploratory Testing Hours / Sprint
+ETHPS = Exploratory Testing Hours / Sprint
 ```
 
 ## Unit

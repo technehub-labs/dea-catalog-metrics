@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Break-even Load Factor** (BELF) in the
 - **Canonical id:** `dea:metric-break-even-load-factor`
 - **Name:** Break-even Load Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BELF
 
@@ -22,7 +22,7 @@ Measures the occupancy required to cover operating costs at current yields and u
 ## Formula
 
 ```
-Load Factor Required to Cover Costs
+BELF = Load Factor Required to Cover Costs
 ```
 
 ## Unit

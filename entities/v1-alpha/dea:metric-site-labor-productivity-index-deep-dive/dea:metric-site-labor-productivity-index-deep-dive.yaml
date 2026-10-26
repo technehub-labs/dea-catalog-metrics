@@ -8,7 +8,7 @@ description: A Construction Contracting (Deep Dive) indicator, Site Labor Produc
   and losses as deterioration. Its use is concentrated in Construction.
 abbreviation: SLPI-D
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - business_architecture
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Earned Standard Hours / Actual Hours
 formula_definition:
   formula_id: dea:formula-site-labor-productivity-index-deep-dive
-  expression: Earned Standard Hours / Actual Hours
+  expression: SLPI-D = Earned Standard Hours / Actual Hours
   inputs:
   - name: Earned Standard Hours
   - name: Actual Hours
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: construction_contracting_deep_dive
 sector: construction
+subject_concept: dea:subject-site_labor_productivity_index
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2404
+  - Public domain - no attribution required
+  known_limitations: []

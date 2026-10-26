@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Query P95 Latency** (QPS95) in the Ope
 - **Canonical id:** `dea:metric-query-p95-latency`
 - **Name:** Query P95 Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QPS95
 
@@ -18,7 +18,7 @@ Query P95 Latency (QPS95) captures the quality of outputs and outcomes for organ
 ## Formula
 
 ```
-95th Percentile Database Query Execution Time
+QPS95 = 95th Percentile Database Query Execution Time
 ```
 
 ## Unit

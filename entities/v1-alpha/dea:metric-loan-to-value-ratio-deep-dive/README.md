@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan-to-Value Ratio (Deep Dive)** (LTV
 - **Canonical id:** `dea:metric-loan-to-value-ratio-deep-dive`
 - **Name:** Loan-to-Value Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTVDD
 
@@ -22,7 +22,7 @@ Measures the loan as a share of collateral value. LTV is the primary security cu
 ## Formula
 
 ```
-Loan Amount / Appraised Property Value
+LTVDD = Loan Amount / Appraised Property Value
 ```
 
 ## Unit

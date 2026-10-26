@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustainment Rate of Improvements** (SR
 - **Canonical id:** `dea:metric-sustainment-rate-of-improvements`
 - **Name:** Sustainment Rate of Improvements
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRI
 
@@ -22,7 +22,7 @@ Sustainment rate of improvements measures the share of implemented process chang
 ## Formula
 
 ```
-Improvements Sustaining Gains after 6 Months / Improvements Closed
+SRI = Improvements Sustaining Gains after 6 Months / Improvements Closed
 ```
 
 ## Unit

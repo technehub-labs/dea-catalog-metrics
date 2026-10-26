@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Timeliness Rate** (DTR-DQ) in the
 - **Canonical id:** `dea:metric-data-timeliness-rate`
 - **Name:** Data Timeliness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTR-DQ
 
@@ -18,7 +18,7 @@ Data Timeliness Rate (DTR-DQ) captures the quality of outputs and outcomes for o
 ## Formula
 
 ```
-Records Available within Freshness SLA / Records
+DTR-DQ = Records Available within Freshness SLA / Records
 ```
 
 ## Unit

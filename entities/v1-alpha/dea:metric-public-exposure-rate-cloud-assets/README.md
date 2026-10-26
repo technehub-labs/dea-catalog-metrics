@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Exposure Rate (Cloud Assets)** 
 - **Canonical id:** `dea:metric-public-exposure-rate-cloud-assets`
 - **Name:** Public Exposure Rate (Cloud Assets)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PERC
 
@@ -18,7 +18,7 @@ Within Cloud Security Posture Management, Public Exposure Rate (Cloud Assets) (P
 ## Formula
 
 ```
-Assets Publicly Exposed / Cloud Assets
+PERC = Assets Publicly Exposed / Cloud Assets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Steam Consumption per Tonne of Paper**
 - **Canonical id:** `dea:metric-steam-consumption-per-tonne-of-paper`
 - **Name:** Steam Consumption per Tonne of Paper
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPT
 
@@ -18,7 +18,7 @@ Steam Consumption per Tonne of Paper (SCPT) addresses how efficiently resources 
 ## Formula
 
 ```
-Steam Used / Production Tonnes
+SCPT = Steam Used / Production Tonnes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Copper to Fiber Migration Rate** (CFMR
 - **Canonical id:** `dea:metric-copper-to-fiber-migration-rate`
 - **Name:** Copper to Fiber Migration Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFMR
 
@@ -22,7 +22,7 @@ Tracks the share of customers or lines moved from legacy copper to fiber infrast
 ## Formula
 
 ```
-Migrated Lines / Addressable Lines
+CFMR = Migrated Lines / Addressable Lines
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Journey Drop-off Rate** (UJDR) in
 - **Canonical id:** `dea:metric-user-journey-drop-off-rate`
 - **Name:** User Journey Drop-off Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UJDR
 
@@ -18,7 +18,7 @@ User Journey Drop-off Rate (UJDR) measures the retention of customers, users, or
 ## Formula
 
 ```
-Users Abandoning at Step / Users Reaching Step
+UJDR = Users Abandoning at Step / Users Reaching Step
 ```
 
 ## Unit

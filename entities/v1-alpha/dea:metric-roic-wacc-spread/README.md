@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ROIC-WACC Spread** (ROICWACCS) in the 
 - **Canonical id:** `dea:metric-roic-wacc-spread`
 - **Name:** ROIC-WACC Spread
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROICWACCS
 
@@ -22,7 +22,7 @@ Measures the gap between return on invested capital and its cost. The spread is 
 ## Formula
 
 ```
-Return on Invested Capital minus WACC
+ROICWACCS = Return on Invested Capital minus WACC
 ```
 
 ## Unit

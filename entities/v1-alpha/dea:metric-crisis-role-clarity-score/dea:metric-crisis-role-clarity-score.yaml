@@ -8,7 +8,7 @@ description: Crisis Role Clarity Score (CRCS) measures the engagement or satisfa
   any industry can adopt it directly.
 abbreviation: CRCS
 unit: score
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - governance
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Post-Exercise Survey on Role Clarity
 formula_definition:
   formula_id: dea:formula-crisis-role-clarity-score
-  expression: Post-Exercise Survey on Role Clarity
+  expression: CRCS = Post-Exercise Survey on Role Clarity
   inputs:
   - name: Post
   - name: Exercise Survey on Role Clarity
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-score
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3546
     batch: '8'
 domain: crisis_management_emergency_response
+subject_concept: dea:subject-crisis_role_clarity
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3546
+  - Public domain - no attribution required
+  known_limitations: []

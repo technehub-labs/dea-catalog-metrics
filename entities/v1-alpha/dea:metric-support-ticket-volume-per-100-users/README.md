@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Support Ticket Volume per 100 Users** 
 - **Canonical id:** `dea:metric-support-ticket-volume-per-100-users`
 - **Name:** Support Ticket Volume per 100 Users
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STV100
 
@@ -18,7 +18,7 @@ Within Software Product Operations (Deep Dive), Support Ticket Volume per 100 Us
 ## Formula
 
 ```
-Tickets / 100 Active Users
+STV100 = Tickets / 100 Active Users
 ```
 
 ## Unit

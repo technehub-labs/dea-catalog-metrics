@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Opinion Score** (MOS) in the Open
 - **Canonical id:** `dea:metric-mean-opinion-score`
 - **Name:** Mean Opinion Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MOS
 
@@ -22,7 +22,7 @@ Measures the average human-rated quality of voice or video transmissions on a fi
 ## Formula
 
 ```
-Average Subjective Voice or Video Quality Rating
+MOS = Average Subjective Voice or Video Quality Rating
 ```
 
 ## Unit

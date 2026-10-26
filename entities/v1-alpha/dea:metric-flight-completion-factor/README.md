@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flight Completion Factor** (FCF-AT) in
 - **Canonical id:** `dea:metric-flight-completion-factor`
 - **Name:** Flight Completion Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCF-AT
 
@@ -22,7 +22,7 @@ Measures the share of scheduled flights actually operated. Cancellations are the
 ## Formula
 
 ```
-Flights Operated / Flights Scheduled
+FCF-AT = Flights Operated / Flights Scheduled
 ```
 
 ## Unit

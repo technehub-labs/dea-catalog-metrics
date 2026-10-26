@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Matter Intake Standardization Rate** (
 - **Canonical id:** `dea:metric-matter-intake-standardization-rate`
 - **Name:** Matter Intake Standardization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MISR
 
@@ -18,7 +18,7 @@ Matter Intake Standardization Rate (MISR) captures the quality of outputs and ou
 ## Formula
 
 ```
-Matters via Standard Intake / Matters
+MISR = Matters via Standard Intake / Matters
 ```
 
 ## Unit

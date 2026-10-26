@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conflict of Interest Disclosure Rate**
 - **Canonical id:** `dea:metric-conflict-of-interest-disclosure-rate`
 - **Name:** Conflict of Interest Disclosure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COI
 
@@ -18,7 +18,7 @@ Within Risk & Compliance, Conflict of Interest Disclosure Rate (COI) is used to 
 ## Formula
 
 ```
-Required Disclosures Filed / Required Population
+COI = Required Disclosures Filed / Required Population
 ```
 
 ## Unit

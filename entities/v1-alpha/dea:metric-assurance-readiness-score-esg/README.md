@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assurance Readiness Score (ESG)** (ARS
 - **Canonical id:** `dea:metric-assurance-readiness-score-esg`
 - **Name:** Assurance Readiness Score (ESG)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARSS
 
@@ -22,7 +22,7 @@ Measures readiness of ESG disclosures for external assurance - evidence trails, 
 ## Formula
 
 ```
-Readiness Assessment for External Assurance
+ARSS = Readiness Assessment for External Assurance
 ```
 
 ## Unit

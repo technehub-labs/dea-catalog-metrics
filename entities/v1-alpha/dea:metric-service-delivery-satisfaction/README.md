@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Delivery Satisfaction** (SDS) 
 - **Canonical id:** `dea:metric-service-delivery-satisfaction`
 - **Name:** Service Delivery Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDS
 
@@ -22,7 +22,7 @@ Citizen-reported satisfaction with public services - the outcome-side metric of 
 ## Formula
 
 ```
-Satisfied Citizen Survey Responses / Responses
+SDS = Satisfied Citizen Survey Responses / Responses
 ```
 
 ## Unit

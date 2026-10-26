@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Days of Supply** (IDS) in th
 - **Canonical id:** `dea:metric-inventory-days-of-supply`
 - **Name:** Inventory Days of Supply
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDS
 
@@ -22,7 +22,7 @@ Measures days of forward demand covered by current inventory. It matters because
 ## Formula
 
 ```
-Average Inventory Value / Average Daily Usage
+IDS = Average Inventory Value / Average Daily Usage
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instability Ratio (Architecture)** (IN
 - **Canonical id:** `dea:metric-instability-ratio-architecture`
 - **Name:** Instability Ratio (Architecture)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INSTA
 
@@ -18,7 +18,7 @@ Instability Ratio (Architecture) (INSTA) measures the quality of outputs and out
 ## Formula
 
 ```
-Efferent / (Efferent + Afferent Coupling)
+INSTA = Efferent / (Efferent + Afferent Coupling)
 ```
 
 ## Unit

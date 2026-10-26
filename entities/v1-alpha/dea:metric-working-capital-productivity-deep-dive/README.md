@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Productivity (Deep Div
 - **Canonical id:** `dea:metric-working-capital-productivity-deep-dive`
 - **Name:** Working Capital Productivity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCP-D
 
@@ -22,7 +22,7 @@ Measures revenue generated per unit of working capital tied up. Better productiv
 ## Formula
 
 ```
-Revenue / Working Capital
+WCP-D = Revenue / Working Capital
 ```
 
 ## Unit

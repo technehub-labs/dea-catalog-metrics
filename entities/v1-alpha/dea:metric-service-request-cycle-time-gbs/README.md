@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Request Cycle Time (GBS)** (SR
 - **Canonical id:** `dea:metric-service-request-cycle-time-gbs`
 - **Name:** Service Request Cycle Time (GBS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRCT
 
@@ -18,7 +18,7 @@ A Shared Services & Global Business Services indicator, Service Request Cycle Ti
 ## Formula
 
 ```
-Hours from Request to Fulfillment
+SRCT = Hours from Request to Fulfillment
 ```
 
 ## Unit

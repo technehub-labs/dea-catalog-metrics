@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human Preference Win Rate - Model vs B
 - **Canonical id:** `dea:metric-human-preference-win-rate-model-vs-baseline`
 - **Name:** Human Preference Win Rate - Model vs Baseline
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HPWR
 
@@ -22,7 +22,7 @@ Measures how often evaluators prefer the candidate model's outputs over the incu
 ## Formula
 
 ```
-Blind Preferences for New Model / Total Evaluations
+HPWR = Blind Preferences for New Model / Total Evaluations
 ```
 
 ## Unit

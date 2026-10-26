@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RASK - Revenue per Available Seat Kilo
 - **Canonical id:** `dea:metric-rask-revenue-per-available-seat-kilometre-deep-dive`
 - **Name:** RASK - Revenue per Available Seat Kilometre (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RASK-D
 
@@ -22,7 +22,7 @@ Measures revenue per unit of capacity, the yield-side summary of airline revenue
 ## Formula
 
 ```
-Revenue / ASK
+RASK-D = Revenue / ASK
 ```
 
 ## Unit

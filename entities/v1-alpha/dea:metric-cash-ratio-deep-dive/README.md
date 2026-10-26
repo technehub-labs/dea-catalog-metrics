@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Ratio (Deep Dive)** (CashRD) in t
 - **Canonical id:** `dea:metric-cash-ratio-deep-dive`
 - **Name:** Cash Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CashRD
 
@@ -22,7 +22,7 @@ Measures cash and near-cash against current liabilities. It is the most conserva
 ## Formula
 
 ```
-Cash and Equivalents / Current Liabilities
+CashRD = Cash and Equivalents / Current Liabilities
 ```
 
 ## Unit

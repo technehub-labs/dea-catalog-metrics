@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Know-Your-Customer Onboarding Time** (
 - **Canonical id:** `dea:metric-know-your-customer-onboarding-time`
 - **Name:** Know-Your-Customer Onboarding Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KYCT
 
@@ -22,7 +22,7 @@ Measures days from application to fully KYC-verified onboarding. It matters beca
 ## Formula
 
 ```
-Days from Application to Approval
+KYCT = Days from Application to Approval
 ```
 
 ## Unit

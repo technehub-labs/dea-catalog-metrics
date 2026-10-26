@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Theft and Shrink Incident Value** (TSI
 - **Canonical id:** `dea:metric-theft-and-shrink-incident-value`
 - **Name:** Theft and Shrink Incident Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSIV
 
@@ -22,7 +22,7 @@ Theft and shrink incident value measures the monetary loss from theft, fraud, an
 ## Formula
 
 ```
-Value of Confirmed Theft and Loss Events per Period
+TSIV = Value of Confirmed Theft and Loss Events per Period
 ```
 
 ## Unit

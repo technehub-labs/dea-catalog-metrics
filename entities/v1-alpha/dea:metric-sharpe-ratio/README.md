@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sharpe Ratio** (SHARPE) in the OpenDEA
 - **Canonical id:** `dea:metric-sharpe-ratio`
 - **Name:** Sharpe Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHARPE
 
@@ -22,7 +22,7 @@ The Sharpe ratio, introduced by William F. Sharpe (1966), divides excess return 
 ## Formula
 
 ```
-(Portfolio Return - Risk-Free Rate) / Return Standard Deviation
+SHARPE = (Portfolio Return - Risk-Free Rate) / Return Standard Deviation
 ```
 
 ## Unit

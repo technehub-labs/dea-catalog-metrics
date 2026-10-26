@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Table Turnover Rate (Deep Dive)** (TTR
 - **Canonical id:** `dea:metric-table-turnover-rate-deep-dive`
 - **Name:** Table Turnover Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTR-D
 
@@ -18,7 +18,7 @@ Within Restaurant Operations (Deep Dive), Table Turnover Rate (Deep Dive) (TTR-D
 ## Formula
 
 ```
-Party Turns per Table per Service
+TTR-D = Party Turns per Table per Service
 ```
 
 ## Unit

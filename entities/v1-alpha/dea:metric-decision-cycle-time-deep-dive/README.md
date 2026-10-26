@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Cycle Time (Deep Dive)** (DCT
 - **Canonical id:** `dea:metric-decision-cycle-time-deep-dive`
 - **Name:** Decision Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCTDD
 
@@ -22,7 +22,7 @@ Measures elapsed time from decision need to decision made, across decision class
 ## Formula
 
 ```
-Days from Decision Request to Decision Made
+DCTDD = Days from Decision Request to Decision Made
 ```
 
 ## Unit

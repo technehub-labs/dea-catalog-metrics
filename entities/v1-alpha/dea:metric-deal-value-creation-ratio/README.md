@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Value Creation Ratio** (DVCR) in 
 - **Canonical id:** `dea:metric-deal-value-creation-ratio`
 - **Name:** Deal Value Creation Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVCR
 
@@ -22,7 +22,7 @@ Compares value created (shareholder return over benchmark, or realized value ove
 ## Formula
 
 ```
-Acquired Enterprise Value Change / Purchase Price
+DVCR = Acquired Enterprise Value Change / Purchase Price
 ```
 
 ## Unit

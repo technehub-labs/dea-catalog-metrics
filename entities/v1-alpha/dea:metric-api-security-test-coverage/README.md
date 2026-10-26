@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Security Test Coverage** (APSTC) i
 - **Canonical id:** `dea:metric-api-security-test-coverage`
 - **Name:** API Security Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APSTC
 
@@ -22,7 +22,7 @@ Measures the share of APIs with automated security tests covering authentication
 ## Formula
 
 ```
-APIs with Security Test Suite / Exposed APIs
+APSTC = APIs with Security Test Suite / Exposed APIs
 ```
 
 ## Unit

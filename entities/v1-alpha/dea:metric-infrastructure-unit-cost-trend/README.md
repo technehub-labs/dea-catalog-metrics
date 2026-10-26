@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure Unit Cost Trend** (IUCT
 - **Canonical id:** `dea:metric-infrastructure-unit-cost-trend`
 - **Name:** Infrastructure Unit Cost Trend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IUCT-ITFM
 
@@ -22,7 +22,7 @@ Measures the direction of unit infrastructure costs (per VM, per GB, per transac
 ## Formula
 
 ```
-Change in per-Unit Infrastructure Cost
+IUCT-ITFM = Change in per-Unit Infrastructure Cost
 ```
 
 ## Unit

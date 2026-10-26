@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-Government Service Uptime** (EGSU) i
 - **Canonical id:** `dea:metric-e-government-service-uptime`
 - **Name:** E-Government Service Uptime
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EGSU
 
@@ -18,7 +18,7 @@ E-Government Service Uptime (EGSU) measures the utilization or availability of c
 ## Formula
 
 ```
-Available Hours of Digital Services / Total Hours
+EGSU = Available Hours of Digital Services / Total Hours
 ```
 
 ## Unit

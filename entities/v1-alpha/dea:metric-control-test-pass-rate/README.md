@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Test Pass Rate** (CTPR-CM) in 
 - **Canonical id:** `dea:metric-control-test-pass-rate`
 - **Name:** Control Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTPR-CM
 
@@ -18,7 +18,7 @@ Control Test Pass Rate (CTPR-CM) addresses conformance to standards, plans, or o
 ## Formula
 
 ```
-Controls Passing without Exception / Controls Tested
+CTPR-CM = Controls Passing without Exception / Controls Tested
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party Inventory Completeness** (
 - **Canonical id:** `dea:metric-third-party-inventory-completeness`
 - **Name:** Third-Party Inventory Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPIC
 
@@ -22,7 +22,7 @@ Measures how completely the full vendor and supplier population is captured and 
 ## Formula
 
 ```
-Vendors Registered in TPRM System / Vendors Identified
+TPIC = Vendors Registered in TPRM System / Vendors Identified
 ```
 
 ## Unit

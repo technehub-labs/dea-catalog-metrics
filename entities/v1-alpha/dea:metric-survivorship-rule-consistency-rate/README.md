@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Survivorship Rule Consistency Rate** (
 - **Canonical id:** `dea:metric-survivorship-rule-consistency-rate`
 - **Name:** Survivorship Rule Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRCS
 
@@ -18,7 +18,7 @@ A Master Data Management indicator, Survivorship Rule Consistency Rate (SRCS) qu
 ## Formula
 
 ```
-Golden Records Built per Survivorship Rules / Golden Records
+SRCS = Golden Records Built per Survivorship Rules / Golden Records
 ```
 
 ## Unit

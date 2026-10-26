@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Test Coverage for Integration
 - **Canonical id:** `dea:metric-contract-test-coverage-for-integrations`
 - **Name:** Contract Test Coverage for Integrations
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCI-QA
 
@@ -18,7 +18,7 @@ Within Software Testing & Quality Engineering, Contract Test Coverage for Integr
 ## Formula
 
 ```
-Integrations with Contract Tests / Integrations
+CTCI-QA = Integrations with Contract Tests / Integrations
 ```
 
 ## Unit

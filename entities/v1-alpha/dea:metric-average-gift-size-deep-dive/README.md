@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Gift Size (Deep Dive)** (AGS-D
 - **Canonical id:** `dea:metric-average-gift-size-deep-dive`
 - **Name:** Average Gift Size (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AGS-D
 
@@ -18,7 +18,7 @@ Average Gift Size (Deep Dive) (AGS-D) captures the economic value created or pre
 ## Formula
 
 ```
-Total Donations / Number of Gifts
+AGS-D = Total Donations / Number of Gifts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analytics Data Quality Incident Rate**
 - **Canonical id:** `dea:metric-analytics-data-quality-incident-rate`
 - **Name:** Analytics Data Quality Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADQIR
 
@@ -18,7 +18,7 @@ Analytics Data Quality Incident Rate (ADQIR) measures the quality of outputs and
 ## Formula
 
 ```
-Data Quality Incidents per 1,000 Dashboard Uses
+ADQIR = Data Quality Incidents per 1,000 Dashboard Uses
 ```
 
 ## Unit

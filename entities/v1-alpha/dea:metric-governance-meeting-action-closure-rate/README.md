@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Meeting Action Closure Rate
 - **Canonical id:** `dea:metric-governance-meeting-action-closure-rate`
 - **Name:** Governance Meeting Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMACR
 
@@ -18,7 +18,7 @@ Within PMO & Portfolio Governance, Governance Meeting Action Closure Rate (GMACR
 ## Formula
 
 ```
-Governance Actions Closed by Due Date / Actions
+GMACR = Governance Actions Closed by Due Date / Actions
 ```
 
 ## Unit

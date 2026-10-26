@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Mitigation Progress** (RMP) in th
 - **Canonical id:** `dea:metric-risk-mitigation-progress`
 - **Name:** Risk Mitigation Progress
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMP
 
@@ -22,7 +22,7 @@ The share of planned mitigation actions completed on schedule - the execution me
 ## Formula
 
 ```
-Mitigation Actions Completed / Mitigation Actions Planned
+RMP = Mitigation Actions Completed / Mitigation Actions Planned
 ```
 
 ## Unit

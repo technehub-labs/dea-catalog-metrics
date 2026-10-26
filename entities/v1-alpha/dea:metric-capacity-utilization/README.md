@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Utilization** (CU) in the Ope
 - **Canonical id:** `dea:metric-capacity-utilization`
 - **Name:** Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CU
 
@@ -22,7 +22,7 @@ Actual output as a share of maximum sustainable output - the metric at the hinge
 ## Formula
 
 ```
-Actual Output / Maximum Possible Output
+CU = Actual Output / Maximum Possible Output
 ```
 
 ## Unit

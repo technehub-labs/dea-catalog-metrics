@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Time Trend (Deep Dive)**
 - **Canonical id:** `dea:metric-process-cycle-time-trend-deep-dive`
 - **Name:** Process Cycle Time Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCTT-D
 
@@ -22,7 +22,7 @@ Measures the direction of end-to-end process durations. Falling cycle time compo
 ## Formula
 
 ```
-Change in Process Cycle Time between Periods
+PCTT-D = Change in Process Cycle Time between Periods
 ```
 
 ## Unit

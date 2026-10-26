@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Record Accuracy (Deep Dive)*
 - **Canonical id:** `dea:metric-inventory-record-accuracy-deep-dive`
 - **Name:** Inventory Record Accuracy (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRA-DD
 
@@ -18,7 +18,7 @@ Within Supply Chain Standard Measures (Deep Dive), Inventory Record Accuracy (De
 ## Formula
 
 ```
-Bins Matching System Count / Bins Sampled
+IRA-DD = Bins Matching System Count / Bins Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Replenishment Lead Time Adherence** (R
 - **Canonical id:** `dea:metric-replenishment-lead-time-adherence`
 - **Name:** Replenishment Lead Time Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RLTA
 
@@ -18,7 +18,7 @@ Within Sales & Operations Planning, Replenishment Lead Time Adherence (RLTA) is 
 ## Formula
 
 ```
-Replenishments within Planned Lead Time / Replenishments
+RLTA = Replenishments within Planned Lead Time / Replenishments
 ```
 
 ## Unit

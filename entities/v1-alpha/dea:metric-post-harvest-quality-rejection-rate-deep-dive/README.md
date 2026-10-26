@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Harvest Quality Rejection Rate (D
 - **Canonical id:** `dea:metric-post-harvest-quality-rejection-rate-deep-dive`
 - **Name:** Post-Harvest Quality Rejection Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PHQR-D
 
@@ -18,7 +18,7 @@ A Agriculture & Agronomy (Deep Dive) indicator, Post-Harvest Quality Rejection R
 ## Formula
 
 ```
-Rejected Lots / Delivered Lots
+PHQR-D = Rejected Lots / Delivered Lots
 ```
 
 ## Unit

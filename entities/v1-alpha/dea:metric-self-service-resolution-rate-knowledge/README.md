@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Resolution Rate (Knowledg
 - **Canonical id:** `dea:metric-self-service-resolution-rate-knowledge`
 - **Name:** Self-Service Resolution Rate (Knowledge)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRR-KM
 
@@ -18,7 +18,7 @@ Self-Service Resolution Rate (Knowledge) (SSRR-KM) captures how efficiently reso
 ## Formula
 
 ```
-Issues Resolved via Self-Service / Issues
+SSRR-KM = Issues Resolved via Self-Service / Issues
 ```
 
 ## Unit

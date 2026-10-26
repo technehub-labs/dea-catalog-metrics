@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Cost Trend (Deep 
 - **Canonical id:** `dea:metric-customer-acquisition-cost-trend-deep-dive`
 - **Name:** Customer Acquisition Cost Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CACT-D
 
@@ -22,7 +22,7 @@ Measures the direction of blended acquisition cost over time. CAC rising faster 
 ## Formula
 
 ```
-Change in CAC between Periods
+CACT-D = Change in CAC between Periods
 ```
 
 ## Unit

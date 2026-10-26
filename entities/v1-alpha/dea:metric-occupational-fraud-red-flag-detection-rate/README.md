@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupational Fraud Red Flag Detection 
 - **Canonical id:** `dea:metric-occupational-fraud-red-flag-detection-rate`
 - **Name:** Occupational Fraud Red Flag Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OFRFDR
 
@@ -18,7 +18,7 @@ Occupational Fraud Red Flag Detection Rate (OFRFDR) captures exposure to adverse
 ## Formula
 
 ```
-Red Flags Escalated per Detection Policy / Red Flags Identified
+OFRFDR = Red Flags Escalated per Detection Policy / Red Flags Identified
 ```
 
 ## Unit

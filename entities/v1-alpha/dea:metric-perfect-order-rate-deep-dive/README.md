@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Perfect Order Rate (Deep Dive)** (PORD
 - **Canonical id:** `dea:metric-perfect-order-rate-deep-dive`
 - **Name:** Perfect Order Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PORD
 
@@ -22,7 +22,7 @@ Measures orders delivered on time, complete, damage-free, and with correct docum
 ## Formula
 
 ```
-Orders Perfect on Time, Quality, Quantity, Documentation / Orders
+PORD = Orders Perfect on Time, Quality, Quantity, Documentation / Orders
 ```
 
 ## Unit

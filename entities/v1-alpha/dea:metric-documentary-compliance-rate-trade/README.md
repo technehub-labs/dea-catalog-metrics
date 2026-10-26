@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Documentary Compliance Rate (Trade)** 
 - **Canonical id:** `dea:metric-documentary-compliance-rate-trade`
 - **Name:** Documentary Compliance Rate (Trade)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCRT
 
@@ -18,7 +18,7 @@ A International Trade & Customs indicator, Documentary Compliance Rate (Trade) (
 ## Formula
 
 ```
-Shipments with Complete Trade Documentation / Shipments
+DCRT = Shipments with Complete Trade Documentation / Shipments
 ```
 
 ## Unit

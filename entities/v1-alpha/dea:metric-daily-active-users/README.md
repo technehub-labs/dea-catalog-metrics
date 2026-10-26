@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users** (DAU) in the Open
 - **Canonical id:** `dea:metric-daily-active-users`
 - **Name:** Daily Active Users
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAU
 
@@ -22,7 +22,7 @@ The count of unique users engaging with the product in a day - the engagement me
 ## Formula
 
 ```
-Unique Active Users per Day
+DAU = Unique Active Users per Day
 ```
 
 ## Unit

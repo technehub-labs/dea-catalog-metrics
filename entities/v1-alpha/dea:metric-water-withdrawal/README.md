@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Withdrawal** (WW) in the OpenDEA
 - **Canonical id:** `dea:metric-water-withdrawal`
 - **Name:** Water Withdrawal
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WW
 
@@ -22,7 +22,7 @@ The total volume of water taken from all sources - surface, ground, municipal, a
 ## Formula
 
 ```
-Total Water Withdrawn per Period
+WW = Total Water Withdrawn per Period
 ```
 
 ## Unit

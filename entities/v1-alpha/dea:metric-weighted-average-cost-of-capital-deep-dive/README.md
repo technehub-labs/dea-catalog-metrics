@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weighted Average Cost of Capital (Deep
 - **Canonical id:** `dea:metric-weighted-average-cost-of-capital-deep-dive`
 - **Name:** Weighted Average Cost of Capital (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WACC
 
@@ -22,7 +22,7 @@ Measures the blended required return on debt and equity capital. WACC is the hur
 ## Formula
 
 ```
-Weighted Cost of Equity and After-Tax Debt
+WACC = Weighted Cost of Equity and After-Tax Debt
 ```
 
 ## Unit

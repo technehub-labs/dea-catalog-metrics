@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Pipeline Success Rate** (TPSR
 - **Canonical id:** `dea:metric-training-pipeline-success-rate`
 - **Name:** Training Pipeline Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPSR-M
 
@@ -18,7 +18,7 @@ Training Pipeline Success Rate (TPSR-M) captures the quality of outputs and outc
 ## Formula
 
 ```
-Training Runs Completing without Failure / Runs
+TPSR-M = Training Runs Completing without Failure / Runs
 ```
 
 ## Unit

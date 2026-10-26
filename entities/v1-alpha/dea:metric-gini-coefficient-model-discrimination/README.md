@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gini Coefficient (Model Discrimination
 - **Canonical id:** `dea:metric-gini-coefficient-model-discrimination`
 - **Name:** Gini Coefficient (Model Discrimination)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GINIM
 
@@ -22,7 +22,7 @@ The Gini coefficient, from Corrado Gini (1912) and long used for income inequali
 ## Formula
 
 ```
-2 x AUC - 1 (Rank Discrimination Power)
+GINIM = 2 x AUC - 1 (Rank Discrimination Power)
 ```
 
 ## Unit

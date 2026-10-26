@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk-Adjusted Approval Rate** (RAAR) i
 - **Canonical id:** `dea:metric-risk-adjusted-approval-rate`
 - **Name:** Risk-Adjusted Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAAR
 
@@ -22,7 +22,7 @@ Measures approval decisions adjusted for the risk level of applicants. It separa
 ## Formula
 
 ```
-Approvals within Risk Appetite / Approvals
+RAAR = Approvals within Risk Appetite / Approvals
 ```
 
 ## Unit

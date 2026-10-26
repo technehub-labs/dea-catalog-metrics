@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Response Time (Security Deep 
 - **Canonical id:** `dea:metric-incident-response-time-security-deep-dive`
 - **Name:** Incident Response Time (Security Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRT-SD
 
@@ -18,7 +18,7 @@ Incident Response Time (Security Deep Dive) (IRT-SD) captures how efficiently re
 ## Formula
 
 ```
-Minutes from Alert to Guard on Scene
+IRT-SD = Minutes from Alert to Guard on Scene
 ```
 
 ## Unit

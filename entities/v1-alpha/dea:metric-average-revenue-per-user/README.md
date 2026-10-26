@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per User** (ARPU) in t
 - **Canonical id:** `dea:metric-average-revenue-per-user`
 - **Name:** Average Revenue per User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPU
 
@@ -22,7 +22,7 @@ Total revenue over the average user base - the canonical unit-economics lens for
 ## Formula
 
 ```
-Total Revenue / Average Active Users
+ARPU = Total Revenue / Average Active Users
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Off-Topic Records Ratio** (OTRR) in th
 - **Canonical id:** `dea:metric-off-topic-records-ratio`
 - **Name:** Off-Topic Records Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTRR
 
@@ -18,7 +18,7 @@ Within Records & Information Management, Off-Topic Records Ratio (OTRR) is used 
 ## Formula
 
 ```
-Records Misfiled / Records Sampled
+OTRR = Records Misfiled / Records Sampled
 ```
 
 ## Unit

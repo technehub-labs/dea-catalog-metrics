@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility Utilization (Teaching Spaces)
 - **Canonical id:** `dea:metric-facility-utilization-teaching-spaces`
 - **Name:** Facility Utilization (Teaching Spaces)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUTS
 
@@ -18,7 +18,7 @@ Facility Utilization (Teaching Spaces) (FUTS) captures the utilization or availa
 ## Formula
 
 ```
-Scheduled Teaching Hours / Available Space Hours
+FUTS = Scheduled Teaching Hours / Available Space Hours
 ```
 
 ## Unit

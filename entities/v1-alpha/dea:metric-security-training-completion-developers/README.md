@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Training Completion (Develope
 - **Canonical id:** `dea:metric-security-training-completion-developers`
 - **Name:** Security Training Completion (Developers)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STCD
 
@@ -18,7 +18,7 @@ A Application Security (AppSec) indicator, Security Training Completion (Develop
 ## Formula
 
 ```
-Developers Completing Annual Security Training / Developers
+STCD = Developers Completing Annual Security Training / Developers
 ```
 
 ## Unit

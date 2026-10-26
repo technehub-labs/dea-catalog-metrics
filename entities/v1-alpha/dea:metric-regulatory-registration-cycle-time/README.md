@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Registration Cycle Time** (
 - **Canonical id:** `dea:metric-regulatory-registration-cycle-time`
 - **Name:** Regulatory Registration Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRCT-C
 
@@ -22,7 +22,7 @@ Measures time to complete product registrations with authorities. It matters bec
 ## Formula
 
 ```
-Days from Registration Dossier Submission to Approval
+RRCT-C = Days from Registration Dossier Submission to Approval
 ```
 
 ## Unit

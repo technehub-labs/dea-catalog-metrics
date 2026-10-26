@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Loss Frequency** (TLF) in the Op
 - **Canonical id:** `dea:metric-total-loss-frequency`
 - **Name:** Total Loss Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLF
 
@@ -18,7 +18,7 @@ Total Loss Frequency (TLF) addresses exposure to adverse outcomes and is a fixtu
 ## Formula
 
 ```
-Total Loss Settlements / Claims Settled
+TLF = Total Loss Settlements / Claims Settled
 ```
 
 ## Unit

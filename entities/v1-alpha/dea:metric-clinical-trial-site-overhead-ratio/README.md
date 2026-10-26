@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Site Overhead Ratio** (
 - **Canonical id:** `dea:metric-clinical-trial-site-overhead-ratio`
 - **Name:** Clinical Trial Site Overhead Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTSO
 
@@ -18,7 +18,7 @@ A Pharma R&D & Clinical Trials indicator, Clinical Trial Site Overhead Ratio (CT
 ## Formula
 
 ```
-Site Overhead Costs / Direct Trial Costs
+CTSO = Site Overhead Costs / Direct Trial Costs
 ```
 
 ## Unit

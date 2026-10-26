@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Piotroski F-Score** (PIOF) in the Open
 - **Canonical id:** `dea:metric-piotroski-f-score`
 - **Name:** Piotroski F-Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIOF
 
@@ -22,7 +22,7 @@ The Piotroski F-Score, from Joseph D. Piotroski (2000), checks nine binary signa
 ## Formula
 
 ```
-Count of Nine Fundamental Strength Signals Met
+PIOF = Count of Nine Fundamental Strength Signals Met
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Yield** (FPY) in the OpenDE
 - **Canonical id:** `dea:metric-first-pass-yield`
 - **Name:** First Pass Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPY
 
@@ -18,7 +18,7 @@ First Pass Yield (FPY) captures the quality of outputs and outcomes for organiza
 ## Formula
 
 ```
-Units Passing All Processes Without Rework / Units Started
+FPY = Units Passing All Processes Without Rework / Units Started
 ```
 
 ## Unit

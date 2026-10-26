@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Route Adherence (Waste)** (VRA
 - **Canonical id:** `dea:metric-vehicle-route-adherence-waste`
 - **Name:** Vehicle Route Adherence (Waste)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRA
 
@@ -18,7 +18,7 @@ A Cleaning & Environmental Services indicator, Vehicle Route Adherence (Waste) (
 ## Formula
 
 ```
-Routes Completed to Plan / Routes
+VRA = Routes Completed to Plan / Routes
 ```
 
 ## Unit

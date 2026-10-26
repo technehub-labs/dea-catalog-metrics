@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Availability (Sites)** (NAS) i
 - **Canonical id:** `dea:metric-network-availability-sites`
 - **Name:** Network Availability (Sites)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAS
 
@@ -18,7 +18,7 @@ A Network Performance & Capacity indicator, Network Availability (Sites) (NAS) q
 ## Formula
 
 ```
-Site Uptime Minutes / Planned Uptime Minutes
+NAS = Site Uptime Minutes / Planned Uptime Minutes
 ```
 
 ## Unit

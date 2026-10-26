@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Daily Active User*
 - **Canonical id:** `dea:metric-average-revenue-per-daily-active-user`
 - **Name:** Average Revenue per Daily Active User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPDAU
 
@@ -22,7 +22,7 @@ Revenue divided by daily active users, typically per day - the monetization-effi
 ## Formula
 
 ```
-Daily Revenue / Daily Active Users
+ARPDAU = Daily Revenue / Daily Active Users
 ```
 
 ## Unit

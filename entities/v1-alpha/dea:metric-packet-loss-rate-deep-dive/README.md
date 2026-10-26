@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packet Loss Rate (Deep Dive)** (PLR-D)
 - **Canonical id:** `dea:metric-packet-loss-rate-deep-dive`
 - **Name:** Packet Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLR-D
 
@@ -18,7 +18,7 @@ Packet Loss Rate (Deep Dive) (PLR-D) addresses the quality of outputs and outcom
 ## Formula
 
 ```
-Lost Packets / Transmitted Packets
+PLR-D = Lost Packets / Transmitted Packets
 ```
 
 ## Unit

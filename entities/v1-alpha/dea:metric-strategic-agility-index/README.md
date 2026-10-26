@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Agility Index** (SAI) in the
 - **Canonical id:** `dea:metric-strategic-agility-index`
 - **Name:** Strategic Agility Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAI
 
@@ -22,7 +22,7 @@ A composite assessment of how fast the organization senses change and reconfigur
 ## Formula
 
 ```
-Weighted Index of Decision Cycle Time and Reallocation Speed
+SAI = Weighted Index of Decision Cycle Time and Reallocation Speed
 ```
 
 ## Unit

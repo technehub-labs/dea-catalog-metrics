@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Roaming Revenue per User** (RRPU) in t
 - **Canonical id:** `dea:metric-roaming-revenue-per-user`
 - **Name:** Roaming Revenue per User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRPU
 
@@ -22,7 +22,7 @@ Measures roaming revenue per roaming or traveling subscriber. It matters because
 ## Formula
 
 ```
-Roaming Revenue / Roaming-Eligible Subscribers
+RRPU = Roaming Revenue / Roaming-Eligible Subscribers
 ```
 
 ## Unit

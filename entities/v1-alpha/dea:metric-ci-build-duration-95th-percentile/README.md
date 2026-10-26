@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Build Duration - 95th Percentile** 
 - **Canonical id:** `dea:metric-ci-build-duration-95th-percentile`
 - **Name:** CI Build Duration - 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIBD95
 
@@ -18,7 +18,7 @@ CI Build Duration - 95th Percentile (CIBD95) addresses how efficiently resources
 ## Formula
 
 ```
-95th Percentile Build Duration
+CIBD95 = 95th Percentile Build Duration
 ```
 
 ## Unit

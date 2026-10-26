@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Size Delta per Release** (ASDR) in
 - **Canonical id:** `dea:metric-app-size-delta-per-release`
 - **Name:** App Size Delta per Release
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASDR
 
@@ -18,7 +18,7 @@ App Size Delta per Release (ASDR) captures how efficiently resources are convert
 ## Formula
 
 ```
-Change in Binary Size per Release
+ASDR = Change in Binary Size per Release
 ```
 
 ## Unit

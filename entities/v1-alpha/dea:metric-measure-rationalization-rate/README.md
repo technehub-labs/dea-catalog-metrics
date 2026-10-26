@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measure Rationalization Rate** (MRR-BS
 - **Canonical id:** `dea:metric-measure-rationalization-rate`
 - **Name:** Measure Rationalization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRR-BSC
 
@@ -18,7 +18,7 @@ Measure Rationalization Rate (MRR-BSC) captures how efficiently resources are co
 ## Formula
 
 ```
-Redundant Measures Retired / Measures Flagged
+MRR-BSC = Redundant Measures Retired / Measures Flagged
 ```
 
 ## Unit

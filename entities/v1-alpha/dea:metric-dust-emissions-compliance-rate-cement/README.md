@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dust Emissions Compliance Rate (Cement
 - **Canonical id:** `dea:metric-dust-emissions-compliance-rate-cement`
 - **Name:** Dust Emissions Compliance Rate (Cement)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DECR
 
@@ -22,7 +22,7 @@ Measures particulate emissions against permitted limits across stacks and fugiti
 ## Formula
 
 ```
-Stack Tests within Limits / Tests
+DECR = Stack Tests within Limits / Tests
 ```
 
 ## Unit

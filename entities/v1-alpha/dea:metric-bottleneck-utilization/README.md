@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bottleneck Utilization** (BU) in the O
 - **Canonical id:** `dea:metric-bottleneck-utilization`
 - **Name:** Bottleneck Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BU
 
@@ -22,7 +22,7 @@ Measures how intensely the constrained resource in a process is loaded. It matte
 ## Formula
 
 ```
-Load on Constraint Resource / Constraint Capacity
+BU = Load on Constraint Resource / Constraint Capacity
 ```
 
 ## Unit

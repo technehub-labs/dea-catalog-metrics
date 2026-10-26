@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chargeback Ratio (Deep Dive)** (CBR-D)
 - **Canonical id:** `dea:metric-chargeback-ratio-deep-dive`
 - **Name:** Chargeback Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBR-D
 
@@ -22,7 +22,7 @@ Measures disputed transactions as a share of sales volume. It is the merchant-he
 ## Formula
 
 ```
-Chargebacks / Transactions
+CBR-D = Chargebacks / Transactions
 ```
 
 ## Unit

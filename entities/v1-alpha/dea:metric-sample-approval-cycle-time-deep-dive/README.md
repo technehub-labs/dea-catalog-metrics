@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sample Approval Cycle Time (Deep Dive)
 - **Canonical id:** `dea:metric-sample-approval-cycle-time-deep-dive`
 - **Name:** Sample Approval Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACT-D
 
@@ -18,7 +18,7 @@ A Textile & Apparel (Deep Dive) indicator, Sample Approval Cycle Time (Deep Dive
 ## Formula
 
 ```
-Days from Sample Submission to Approval
+SACT-D = Days from Sample Submission to Approval
 ```
 
 ## Unit

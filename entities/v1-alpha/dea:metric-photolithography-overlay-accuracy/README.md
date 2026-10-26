@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Photolithography Overlay Accuracy** (P
 - **Canonical id:** `dea:metric-photolithography-overlay-accuracy`
 - **Name:** Photolithography Overlay Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLOA
 
@@ -18,7 +18,7 @@ Within Semiconductor & Electronics, Photolithography Overlay Accuracy (PLOA) is 
 ## Formula
 
 ```
-Layer Alignment Errors within Tolerance / Layers Measured
+PLOA = Layer Alignment Errors within Tolerance / Layers Measured
 ```
 
 ## Unit

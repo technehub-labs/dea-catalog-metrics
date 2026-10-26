@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decommission Cycle Time** (DCT-DC) in 
 - **Canonical id:** `dea:metric-decommission-cycle-time`
 - **Name:** Decommission Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCT-DC
 
@@ -18,7 +18,7 @@ Decommission Cycle Time (DCT-DC) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Days from Asset Retirement Request to Racked-Out
+DCT-DC = Days from Asset Retirement Request to Racked-Out
 ```
 
 ## Unit

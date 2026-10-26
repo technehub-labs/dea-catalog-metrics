@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Dependency Mapping Currency** 
 - **Canonical id:** `dea:metric-service-dependency-mapping-currency`
 - **Name:** Service Dependency Mapping Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDMC
 
@@ -22,7 +22,7 @@ Measures whether service dependency maps reflect the current architecture. Stale
 ## Formula
 
 ```
-Dependencies Verified in Last Quarter / Mapped Dependencies
+SDMC = Dependencies Verified in Last Quarter / Mapped Dependencies
 ```
 
 ## Unit

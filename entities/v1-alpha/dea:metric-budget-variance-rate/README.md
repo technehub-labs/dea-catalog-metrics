@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Variance Rate** (BVR-FP) in the
 - **Canonical id:** `dea:metric-budget-variance-rate`
 - **Name:** Budget Variance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BVR-FP
 
@@ -22,7 +22,7 @@ Measures deviation of actual results from the approved budget. Variance is the p
 ## Formula
 
 ```
-Absolute Variance vs Budget / Budget
+BVR-FP = Absolute Variance vs Budget / Budget
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Monitoring Score** (QMS) in th
 - **Canonical id:** `dea:metric-quality-monitoring-score`
 - **Name:** Quality Monitoring Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QMS
 
@@ -18,7 +18,7 @@ Quality Monitoring Score (QMS) addresses the quality of outputs and outcomes and
 ## Formula
 
 ```
-Average QA Evaluation Score of Recorded Interactions
+QMS = Average QA Evaluation Score of Recorded Interactions
 ```
 
 ## Unit

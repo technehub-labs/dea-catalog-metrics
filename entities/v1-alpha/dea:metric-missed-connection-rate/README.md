@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missed Connection Rate** (MCR-A) in th
 - **Canonical id:** `dea:metric-missed-connection-rate`
 - **Name:** Missed Connection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCR-A
 
@@ -18,7 +18,7 @@ Missed Connection Rate (MCR-A) addresses the quality of outputs and outcomes and
 ## Formula
 
 ```
-Passengers Missing Connections / Connecting Passengers
+MCR-A = Passengers Missing Connections / Connecting Passengers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Attempt Delivery Rate (Deep Dive
 - **Canonical id:** `dea:metric-first-attempt-delivery-rate-deep-dive`
 - **Name:** First Attempt Delivery Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FADR-D
 
@@ -22,7 +22,7 @@ Measures parcels delivered on the first attempt without redirection or failed dr
 ## Formula
 
 ```
-Deliveries on First Attempt / Delivery Attempts
+FADR-D = Deliveries on First Attempt / Delivery Attempts
 ```
 
 ## Unit

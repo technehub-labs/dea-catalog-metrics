@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Health Index (Deep Dive)** (AHID
 - **Canonical id:** `dea:metric-asset-health-index-deep-dive`
 - **Name:** Asset Health Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AHID
 
@@ -22,7 +22,7 @@ Measures composite asset condition from condition monitoring, inspection, and hi
 ## Formula
 
 ```
-Composite Condition Score of Asset Fleet
+AHID = Composite Condition Score of Asset Fleet
 ```
 
 ## Unit

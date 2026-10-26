@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investor Meeting Coverage** (IMC) in t
 - **Canonical id:** `dea:metric-investor-meeting-coverage`
 - **Name:** Investor Meeting Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMC
 
@@ -22,7 +22,7 @@ Measures the share of target institutional investors engaged over a period. It m
 ## Formula
 
 ```
-Top Shareholders Engaged in Period / Top Shareholders
+IMC = Top Shareholders Engaged in Period / Top Shareholders
 ```
 
 ## Unit

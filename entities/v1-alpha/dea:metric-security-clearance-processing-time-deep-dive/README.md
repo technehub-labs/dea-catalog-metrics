@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Clearance Processing Time (De
 - **Canonical id:** `dea:metric-security-clearance-processing-time-deep-dive`
 - **Name:** Security Clearance Processing Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPT
 
@@ -18,7 +18,7 @@ Security Clearance Processing Time (Deep Dive) (SCPT) addresses how efficiently 
 ## Formula
 
 ```
-Days to Process Clearance Application
+SCPT = Days to Process Clearance Application
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight-to-Decision Conversion Rate** 
 - **Canonical id:** `dea:metric-insight-to-decision-conversion-rate`
 - **Name:** Insight-to-Decision Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDCR-FP
 
@@ -22,7 +22,7 @@ Measures how often FP&A analysis demonstrably changes a business decision. Conve
 ## Formula
 
 ```
-Analyses Resulting in Documented Decisions / Analyses
+IDCR-FP = Analyses Resulting in Documented Decisions / Analyses
 ```
 
 ## Unit

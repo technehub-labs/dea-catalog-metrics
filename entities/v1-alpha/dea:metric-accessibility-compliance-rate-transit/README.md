@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Compliance Rate (Transit
 - **Canonical id:** `dea:metric-accessibility-compliance-rate-transit`
 - **Name:** Accessibility Compliance Rate (Transit)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR-T
 
@@ -22,7 +22,7 @@ Accessibility compliance rate measures adherence to disability-access requiremen
 ## Formula
 
 ```
-Stops and Vehicles Meeting Accessibility Standards / Total
+ACR-T = Stops and Vehicles Meeting Accessibility Standards / Total
 ```
 
 ## Unit

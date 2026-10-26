@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Qualification Rate** (SQR) in
 - **Canonical id:** `dea:metric-supplier-qualification-rate`
 - **Name:** Supplier Qualification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQR
 
@@ -22,7 +22,7 @@ Measures the share of candidate suppliers that pass onboarding and qualification
 ## Formula
 
 ```
-Approved Suppliers / Suppliers Assessed
+SQR = Approved Suppliers / Suppliers Assessed
 ```
 
 ## Unit

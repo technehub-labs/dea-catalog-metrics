@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transmission Losses** (TL) in the Open
 - **Canonical id:** `dea:metric-transmission-losses`
 - **Name:** Transmission Losses
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TL
 
@@ -22,7 +22,7 @@ The energy lost between generation and delivery - the share of power injected in
 ## Formula
 
 ```
-(Energy Sent - Energy Billed) / Energy Sent
+TL = (Energy Sent - Energy Billed) / Energy Sent
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disaster Relief Disbursement Speed** (
 - **Canonical id:** `dea:metric-disaster-relief-disbursement-speed`
 - **Name:** Disaster Relief Disbursement Speed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRDS
 
@@ -18,7 +18,7 @@ Disaster Relief Disbursement Speed (DRDS) measures how effectively a process or 
 ## Formula
 
 ```
-Days from Declaration to First Relief Payment
+DRDS = Days from Declaration to First Relief Payment
 ```
 
 ## Unit

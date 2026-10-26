@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equity Multiplier** (EQMUL) in the Ope
 - **Canonical id:** `dea:metric-equity-multiplier`
 - **Name:** Equity Multiplier
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EQMUL
 
@@ -22,7 +22,7 @@ Measures total assets per unit of equity, exposing leverage in DuPont-style deco
 ## Formula
 
 ```
-Total Assets / Total Equity
+EQMUL = Total Assets / Total Equity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Action Recall Effectiveness** (F
 - **Canonical id:** `dea:metric-field-action-recall-effectiveness`
 - **Name:** Field Action Recall Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FARE
 
@@ -22,7 +22,7 @@ Field action recall effectiveness measures the completion rate of corrective act
 ## Formula
 
 ```
-Devices Corrected or Removed / Devices Subject to Field Action
+FARE = Devices Corrected or Removed / Devices Subject to Field Action
 ```
 
 ## Unit

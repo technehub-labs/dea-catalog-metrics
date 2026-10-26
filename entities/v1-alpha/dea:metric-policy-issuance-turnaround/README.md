@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Issuance Turnaround** (PIT) in 
 - **Canonical id:** `dea:metric-policy-issuance-turnaround`
 - **Name:** Policy Issuance Turnaround
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIT
 
@@ -18,7 +18,7 @@ Policy Issuance Turnaround (PIT) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Hours from Application to Policy Issued
+PIT = Hours from Application to Policy Issued
 ```
 
 ## Unit

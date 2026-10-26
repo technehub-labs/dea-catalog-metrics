@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Risk Exposure Index** (PREI) i
 - **Canonical id:** `dea:metric-program-risk-exposure-index`
 - **Name:** Program Risk Exposure Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PREI
 
@@ -22,7 +22,7 @@ Aggregates program risks - technical, supply, schedule, cost - into a weighted e
 ## Formula
 
 ```
-Weighted Risk Exposure Score
+PREI = Weighted Risk Exposure Score
 ```
 
 ## Unit

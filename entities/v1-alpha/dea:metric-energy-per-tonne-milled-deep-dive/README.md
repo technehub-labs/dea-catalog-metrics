@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy per Tonne Milled (Deep Dive)** 
 - **Canonical id:** `dea:metric-energy-per-tonne-milled-deep-dive`
 - **Name:** Energy per Tonne Milled (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETM-D
 
@@ -18,7 +18,7 @@ Energy per Tonne Milled (Deep Dive) (ETM-D) measures environmental and social su
 ## Formula
 
 ```
-Energy Consumed / Tonnes Milled
+ETM-D = Energy Consumed / Tonnes Milled
 ```
 
 ## Unit

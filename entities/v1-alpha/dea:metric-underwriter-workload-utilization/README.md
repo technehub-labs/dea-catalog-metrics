@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriter Workload Utilization** (UW
 - **Canonical id:** `dea:metric-underwriter-workload-utilization`
 - **Name:** Underwriter Workload Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UWU
 
@@ -18,7 +18,7 @@ Underwriter Workload Utilization (UWU) captures the utilization or availability 
 ## Formula
 
 ```
-Active Underwriting Hours / Available Hours
+UWU = Active Underwriting Hours / Available Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IaC Policy Gate Pass Rate** (IACPG) in
 - **Canonical id:** `dea:metric-iac-policy-gate-pass-rate`
 - **Name:** IaC Policy Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IACPG
 
@@ -18,7 +18,7 @@ Within Cloud Security Posture Management, IaC Policy Gate Pass Rate (IACPG) is u
 ## Formula
 
 ```
-Pipeline Runs Passing Policy-as-Code / Runs
+IACPG = Pipeline Runs Passing Policy-as-Code / Runs
 ```
 
 ## Unit

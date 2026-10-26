@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expansion Revenue Rate** (ERR) in the 
 - **Canonical id:** `dea:metric-expansion-revenue-rate`
 - **Name:** Expansion Revenue Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERR
 
@@ -22,7 +22,7 @@ The growth in recurring revenue from existing customers through upsell, cross-se
 ## Formula
 
 ```
-Expansion MRR / MRR at Start of Period
+ERR = Expansion MRR / MRR at Start of Period
 ```
 
 ## Unit

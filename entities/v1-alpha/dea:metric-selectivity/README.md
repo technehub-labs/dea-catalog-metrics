@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Selectivity** (SEL) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-selectivity`
 - **Name:** Selectivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SEL
 
@@ -18,7 +18,7 @@ Selectivity (SEL) captures the quality of outputs and outcomes for organizations
 ## Formula
 
 ```
-Desired Product Formed / Reactant Converted
+SEL = Desired Product Formed / Reactant Converted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Returnship Reentry Rate** (RRR-DEI) in
 - **Canonical id:** `dea:metric-returnship-reentry-rate`
 - **Name:** Returnship Reentry Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRR-DEI
 
@@ -18,7 +18,7 @@ Returnship Reentry Rate (RRR-DEI) addresses capability maturity or development a
 ## Formula
 
 ```
-Reentry Program Participants Converted to Roles / Participants
+RRR-DEI = Reentry Program Participants Converted to Roles / Participants
 ```
 
 ## Unit

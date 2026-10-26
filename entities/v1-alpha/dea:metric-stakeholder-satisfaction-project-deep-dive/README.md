@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Satisfaction - Project (De
 - **Canonical id:** `dea:metric-stakeholder-satisfaction-project-deep-dive`
 - **Name:** Stakeholder Satisfaction - Project (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSP-D
 
@@ -22,7 +22,7 @@ Measures sponsor and key stakeholder satisfaction with project delivery. Sponsor
 ## Formula
 
 ```
-Stakeholder Survey Score per Stage
+SSP-D = Stakeholder Survey Score per Stage
 ```
 
 ## Unit

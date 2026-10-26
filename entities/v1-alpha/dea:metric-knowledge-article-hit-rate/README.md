@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Article Hit Rate** (KAHR-CC)
 - **Canonical id:** `dea:metric-knowledge-article-hit-rate`
 - **Name:** Knowledge Article Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KAHR-CC
 
@@ -18,7 +18,7 @@ Knowledge Article Hit Rate (KAHR-CC) measures how efficiently resources are conv
 ## Formula
 
 ```
-Contacts Resolved via Suggested Article / Article Suggestions Shown
+KAHR-CC = Contacts Resolved via Suggested Article / Article Suggestions Shown
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Complaint Resolution Rate** (PC
 - **Canonical id:** `dea:metric-public-complaint-resolution-rate`
 - **Name:** Public Complaint Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCRR
 
@@ -18,7 +18,7 @@ Within Government & Public Administration, Public Complaint Resolution Rate (PCR
 ## Formula
 
 ```
-Complaints Resolved within Standard / Complaints
+PCRR = Complaints Resolved within Standard / Complaints
 ```
 
 ## Unit

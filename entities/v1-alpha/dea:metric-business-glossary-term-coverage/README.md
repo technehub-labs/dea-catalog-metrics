@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Glossary Term Coverage** (BGT
 - **Canonical id:** `dea:metric-business-glossary-term-coverage`
 - **Name:** Business Glossary Term Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BGTC
 
@@ -18,7 +18,7 @@ Business Glossary Term Coverage (BGTC) measures the quality of outputs and outco
 ## Formula
 
 ```
-Terms Defined and Approved / Terms in Use
+BGTC = Terms Defined and Approved / Terms in Use
 ```
 
 ## Unit

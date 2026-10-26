@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level (Calls Answered in X sec
 - **Canonical id:** `dea:metric-service-level-calls-answered-in-x-seconds`
 - **Name:** Service Level (Calls Answered in X seconds)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SL-CC
 
@@ -18,7 +18,7 @@ A Contact Center indicator, Service Level (Calls Answered in X seconds) (SL-CC) 
 ## Formula
 
 ```
-Calls Answered within Threshold / Calls Offered
+SL-CC = Calls Answered within Threshold / Calls Offered
 ```
 
 ## Unit

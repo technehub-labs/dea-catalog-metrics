@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Substrate Inventory Turns (Print)** (S
 - **Canonical id:** `dea:metric-substrate-inventory-turns-print`
 - **Name:** Substrate Inventory Turns (Print)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIT
 
@@ -22,7 +22,7 @@ Measures how often paper and substrate inventory turns over. It matters because 
 ## Formula
 
 ```
-Substrate Consumed / Average Substrate Inventory
+SIT = Substrate Consumed / Average Substrate Inventory
 ```
 
 ## Unit

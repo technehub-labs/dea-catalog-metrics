@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fund Expense Ratio Trend** (FERT-IM) i
 - **Canonical id:** `dea:metric-fund-expense-ratio-trend`
 - **Name:** Fund Expense Ratio Trend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FERT-IM
 
@@ -22,7 +22,7 @@ Measures the direction of total annual fund operating costs as a share of assets
 ## Formula
 
 ```
-Total Expense Ratio Change per Year
+FERT-IM = Total Expense Ratio Change per Year
 ```
 
 ## Unit

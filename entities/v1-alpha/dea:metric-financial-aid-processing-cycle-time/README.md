@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Aid Processing Cycle Time** 
 - **Canonical id:** `dea:metric-financial-aid-processing-cycle-time`
 - **Name:** Financial Aid Processing Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAPCT
 
@@ -18,7 +18,7 @@ Financial Aid Processing Cycle Time (FAPCT) measures how efficiently resources a
 ## Formula
 
 ```
-Days from Aid Application to Disbursement Decision
+FAPCT = Days from Aid Application to Disbursement Decision
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Succession Plan Coverage (Deep Dive - 
 - **Canonical id:** `dea:metric-succession-plan-coverage-deep-dive-workforce`
 - **Name:** Succession Plan Coverage (Deep Dive - Workforce)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPCD
 
@@ -22,7 +22,7 @@ Measures the share of critical roles with identified, developing successors. Suc
 ## Formula
 
 ```
-Critical Roles with Ready Successor / Critical Roles
+SPCD = Critical Roles with Ready Successor / Critical Roles
 ```
 
 ## Unit

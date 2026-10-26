@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Cost per File Handled** (CCPF) 
 - **Canonical id:** `dea:metric-claims-cost-per-file-handled`
 - **Name:** Claims Cost per File Handled
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCPF
 
@@ -22,7 +22,7 @@ Measures average cost per claim file including indemnity and expenses. It matter
 ## Formula
 
 ```
-Total Claims Handling Cost / Claims Handled
+CCPF = Total Claims Handling Cost / Claims Handled
 ```
 
 ## Unit

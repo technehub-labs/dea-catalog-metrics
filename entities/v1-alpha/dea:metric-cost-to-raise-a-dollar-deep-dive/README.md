@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Raise a Dollar (Deep Dive)** (
 - **Canonical id:** `dea:metric-cost-to-raise-a-dollar-deep-dive`
 - **Name:** Cost to Raise a Dollar (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRD-D
 
@@ -22,7 +22,7 @@ Measures fundraising expense per dollar raised. It is the fundraising-efficiency
 ## Formula
 
 ```
-Fundraising Cost / Funds Raised
+CRD-D = Fundraising Cost / Funds Raised
 ```
 
 ## Unit

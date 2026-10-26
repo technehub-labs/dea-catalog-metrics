@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Capability Index** (Cpk) in th
 - **Canonical id:** `dea:metric-process-capability-index`
 - **Name:** Process Capability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** Cpk
 
@@ -22,7 +22,7 @@ Measures how well a process output fits within specification limits relative to 
 ## Formula
 
 ```
-min(USL - Mean, Mean - LSL) / (3 x Std Dev)
+Cpk = min(USL - Mean, Mean - LSL) / (3 x Std Dev)
 ```
 
 ## Unit

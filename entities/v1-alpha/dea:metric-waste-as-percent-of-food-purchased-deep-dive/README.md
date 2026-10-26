@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste as Percent of Food Purchased (De
 - **Canonical id:** `dea:metric-waste-as-percent-of-food-purchased-deep-dive`
 - **Name:** Waste as Percent of Food Purchased (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPF-D
 
@@ -18,7 +18,7 @@ Waste as Percent of Food Purchased (Deep Dive) (WPF-D) captures how efficiently 
 ## Formula
 
 ```
-Food Wasted / Food Purchased
+WPF-D = Food Wasted / Food Purchased
 ```
 
 ## Unit

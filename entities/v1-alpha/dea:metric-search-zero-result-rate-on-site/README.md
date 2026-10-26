@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search Zero-Result Rate (On-Site)** (S
 - **Canonical id:** `dea:metric-search-zero-result-rate-on-site`
 - **Name:** Search Zero-Result Rate (On-Site)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SZRR
 
@@ -18,7 +18,7 @@ A Web & Digital Analytics Standard Measures indicator, Search Zero-Result Rate (
 ## Formula
 
 ```
-Searches Returning No Results / Searches
+SZRR = Searches Returning No Results / Searches
 ```
 
 ## Unit

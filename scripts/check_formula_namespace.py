@@ -148,7 +148,14 @@ def main() -> int:
         if fdef:
             inputs = _input_names(rec)
             expr = str(fdef.get("expression") or "")
-            for token in re.findall(r"[A-Za-z_][A-Za-z0-9_]*", expr):
+            # CR-MET-020: the left-hand side is the record's own result
+            # variable, not a reference to an input, so the unbound scan
+            # reads the right-hand side only. The short form is hyphenated in
+            # the seed (ABR-D), and a hyphen is not an identifier character,
+            # so scanning the whole expression would report the record's own
+            # short form as an unbound reference.
+            rhs = expr.split("=", 1)[1] if "=" in expr else expr
+            for token in re.findall(r"[A-Za-z_][A-Za-z0-9_]*", rhs):
                 if token in inputs or token == var:
                     continue
                 # Sigma/aggregate notation (sum_i, sum_j) and bare bound

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Remediation Closure Rate** (VRC
 - **Canonical id:** `dea:metric-vendor-remediation-closure-rate`
 - **Name:** Vendor Remediation Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRCR-TP
 
@@ -18,7 +18,7 @@ Vendor Remediation Closure Rate (VRCR-TP) measures conformance to standards, pla
 ## Formula
 
 ```
-Findings Closed by Vendor by Due Date / Findings
+VRCR-TP = Findings Closed by Vendor by Due Date / Findings
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workplace Fatality Count** (WFC) in th
 - **Canonical id:** `dea:metric-workplace-fatality-count`
 - **Name:** Workplace Fatality Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WFC
 
@@ -22,7 +22,7 @@ The absolute number of work-related deaths in the period - the one safety metric
 ## Formula
 
 ```
-Work-Related Fatalities per Period
+WFC = Work-Related Fatalities per Period
 ```
 
 ## Unit

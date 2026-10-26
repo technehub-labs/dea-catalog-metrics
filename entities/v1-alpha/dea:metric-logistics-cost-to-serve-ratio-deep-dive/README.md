@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Cost-to-Serve Ratio (Deep Di
 - **Canonical id:** `dea:metric-logistics-cost-to-serve-ratio-deep-dive`
 - **Name:** Logistics Cost-to-Serve Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCTSDD
 
@@ -22,7 +22,7 @@ Measures logistics cost relative to the revenue or volume served. It is the hone
 ## Formula
 
 ```
-Total Logistics Cost / Revenue
+LCTSDD = Total Logistics Cost / Revenue
 ```
 
 ## Unit

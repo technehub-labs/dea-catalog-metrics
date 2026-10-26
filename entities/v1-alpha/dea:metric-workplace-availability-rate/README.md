@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workplace Availability Rate** (WAR) in
 - **Canonical id:** `dea:metric-workplace-availability-rate`
 - **Name:** Workplace Availability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WAR
 
@@ -18,7 +18,7 @@ A Facilities & Real Estate indicator, Workplace Availability Rate (WAR) quantifi
 ## Formula
 
 ```
-Functional Workstations / Total Workstations
+WAR = Functional Workstations / Total Workstations
 ```
 
 ## Unit

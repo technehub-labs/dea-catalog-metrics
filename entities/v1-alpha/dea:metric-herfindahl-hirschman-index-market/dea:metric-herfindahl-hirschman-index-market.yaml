@@ -8,7 +8,7 @@ description: 'A Market Structure & Economics Standard Measures indicator, Herfin
   Its use is not sector-specific; it appears in cross-industry performance frameworks.'
 abbreviation: HHI
 unit: index
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - strategy
@@ -26,7 +26,7 @@ source_credit: Orris C. Herfindahl / Albert O. Hirschman
 calculation_definition: Sum of Squared Market Shares of Competitors
 formula_definition:
   formula_id: dea:formula-herfindahl-hirschman-index-market
-  expression: Sum of Squared Market Shares of Competitors
+  expression: HHI = Sum of Squared Market Shares of Competitors
   inputs:
   - name: Sum of Squared Market Shares of Competitors
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-index
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,9 +46,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 4135
     batch: '9'
 domain: market_structure_economics_standard_measures
+subject_concept: dea:subject-herfindahl_hirschman_index_market
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4135
+  - Orris C. Herfindahl / Albert O. Hirschman
+  known_limitations: []

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rollback Plan Coverage** (RBPC) in the
 - **Canonical id:** `dea:metric-rollback-plan-coverage`
 - **Name:** Rollback Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBPC
 
@@ -18,7 +18,7 @@ Within Network Change & Configuration Management, Rollback Plan Coverage (RBPC) 
 ## Formula
 
 ```
-Changes with Tested Rollback Plan / High-Risk Changes
+RBPC = Changes with Tested Rollback Plan / High-Risk Changes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tuition Net Revenue Per Student** (TNR
 - **Canonical id:** `dea:metric-tuition-net-revenue-per-student`
 - **Name:** Tuition Net Revenue Per Student
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TNRS
 
@@ -22,7 +22,7 @@ Measures realized tuition after discounts and aid per student. It is the honest 
 ## Formula
 
 ```
-Net Tuition Revenue / Enrolled Students
+TNRS = Net Tuition Revenue / Enrolled Students
 ```
 
 ## Unit

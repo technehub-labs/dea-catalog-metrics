@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Burn Rate** (EBBR) in the
 - **Canonical id:** `dea:metric-error-budget-burn-rate`
 - **Name:** Error Budget Burn Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBBR
 
@@ -18,7 +18,7 @@ Within SRE & Observability Standard Measures, Error Budget Burn Rate (EBBR) is u
 ## Formula
 
 ```
-Error Consumption Rate relative to Budget Allocation
+EBBR = Error Consumption Rate relative to Budget Allocation
 ```
 
 ## Unit

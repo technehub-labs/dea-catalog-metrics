@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention Schedule Compliance Rate** (
 - **Canonical id:** `dea:metric-retention-schedule-compliance-rate`
 - **Name:** Retention Schedule Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSCR
 
@@ -18,7 +18,7 @@ A Records & Information Management indicator, Retention Schedule Compliance Rate
 ## Formula
 
 ```
-Records Disposed or Held per Schedule / Records Sampled
+RSCR = Records Disposed or Held per Schedule / Records Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Timeliness** (DT) in the OpenDEAM
 - **Canonical id:** `dea:metric-data-timeliness`
 - **Name:** Data Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DT
 
@@ -18,7 +18,7 @@ Data Timeliness (DT) addresses the quality of outputs and outcomes and is a fixt
 ## Formula
 
 ```
-Data Available within Target Latency / Total Data Deliveries
+DT = Data Available within Target Latency / Total Data Deliveries
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Line Resolution Rate** (FLRR) in
 - **Canonical id:** `dea:metric-first-line-resolution-rate`
 - **Name:** First Line Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FLRR
 
@@ -18,7 +18,7 @@ A IT Service Management indicator, First Line Resolution Rate (FLRR) quantifies 
 ## Formula
 
 ```
-Tickets Resolved at First Line / Total Tickets
+FLRR = Tickets Resolved at First Line / Total Tickets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Success Plan Coverage** (SPC-S) in the
 - **Canonical id:** `dea:metric-success-plan-coverage`
 - **Name:** Success Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPC-S
 
@@ -22,7 +22,7 @@ Measures the share of customers with a documented, current customer success plan
 ## Formula
 
 ```
-Accounts with Agreed Success Plan / Total Accounts
+SPC-S = Accounts with Agreed Success Plan / Total Accounts
 ```
 
 ## Unit

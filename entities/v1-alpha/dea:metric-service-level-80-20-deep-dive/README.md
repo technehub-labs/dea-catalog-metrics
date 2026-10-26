@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level - 80/20 (Deep Dive)** (S
 - **Canonical id:** `dea:metric-service-level-80-20-deep-dive`
 - **Name:** Service Level - 80/20 (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SL8020-D
 
@@ -22,7 +22,7 @@ Measures whether 80 percent of contacts are answered within 20 seconds. It is th
 ## Formula
 
 ```
-Calls Answered within 20 Seconds / Calls Offered
+SL8020-D = Calls Answered within 20 Seconds / Calls Offered
 ```
 
 ## Unit

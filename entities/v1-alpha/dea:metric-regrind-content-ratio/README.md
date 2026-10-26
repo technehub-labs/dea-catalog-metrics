@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regrind Content Ratio** (RCR-P) in the
 - **Canonical id:** `dea:metric-regrind-content-ratio`
 - **Name:** Regrind Content Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-P
 
@@ -18,7 +18,7 @@ Regrind Content Ratio (RCR-P) measures environmental and social sustainability p
 ## Formula
 
 ```
-Regrind Used / Total Resin Input
+RCR-P = Regrind Used / Total Resin Input
 ```
 
 ## Unit

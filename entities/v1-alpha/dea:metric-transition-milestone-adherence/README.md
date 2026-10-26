@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transition Milestone Adherence** (TMA)
 - **Canonical id:** `dea:metric-transition-milestone-adherence`
 - **Name:** Transition Milestone Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMA
 
@@ -22,7 +22,7 @@ Transition milestone adherence measures on-time completion of the defined milest
 ## Formula
 
 ```
-Outsourcing Transition Milestones Met on Time / Milestones
+TMA = Outsourcing Transition Milestones Met on Time / Milestones
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Value Realization Rate** (CVR
 - **Canonical id:** `dea:metric-contract-value-realization-rate`
 - **Name:** Contract Value Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVRR
 
@@ -22,7 +22,7 @@ Measures whether negotiated contract value (discounts, service credits, rights) 
 ## Formula
 
 ```
-Realized Value vs Contracted Entitlements
+CVRR = Realized Value vs Contracted Entitlements
 ```
 
 ## Unit

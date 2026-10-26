@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broker Submission-to-Quote Ratio** (BS
 - **Canonical id:** `dea:metric-broker-submission-to-quote-ratio`
 - **Name:** Broker Submission-to-Quote Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSQR
 
@@ -18,7 +18,7 @@ Broker Submission-to-Quote Ratio (BSQR) captures how efficiently resources are c
 ## Formula
 
 ```
-Quotes Issued / Broker Submissions
+BSQR = Quotes Issued / Broker Submissions
 ```
 
 ## Unit

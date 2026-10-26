@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Cycle Time - Stage to Stage*
 - **Canonical id:** `dea:metric-promotion-cycle-time-stage-to-stage`
 - **Name:** Promotion Cycle Time - Stage to Stage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCTSS
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Promotion Cycle Time - Stage to Stage (
 ## Formula
 
 ```
-Days from One Pipeline Stage to Next
+PCTSS = Days from One Pipeline Stage to Next
 ```
 
 ## Unit

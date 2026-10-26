@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Capability Uptake** (DCU) in t
 - **Canonical id:** `dea:metric-digital-capability-uptake`
 - **Name:** Digital Capability Uptake
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCU
 
@@ -22,7 +22,7 @@ Measures adoption of new digital capabilities across the transformation portfoli
 ## Formula
 
 ```
-Users Adopting New Digital Capability / Target Users
+DCU = Users Adopting New Digital Capability / Target Users
 ```
 
 ## Unit

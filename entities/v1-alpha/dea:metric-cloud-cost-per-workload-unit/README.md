@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Cost per Workload Unit** (CCPW) 
 - **Canonical id:** `dea:metric-cloud-cost-per-workload-unit`
 - **Name:** Cloud Cost per Workload Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCPW
 
@@ -18,7 +18,7 @@ Within Data Centers & Cloud Infrastructure, Cloud Cost per Workload Unit (CCPW) 
 ## Formula
 
 ```
-Cloud Spend / Workload Units
+CCPW = Cloud Spend / Workload Units
 ```
 
 ## Unit

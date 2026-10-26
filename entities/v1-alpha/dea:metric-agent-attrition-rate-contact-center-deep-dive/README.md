@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Attrition Rate (Contact Center) 
 - **Canonical id:** `dea:metric-agent-attrition-rate-contact-center-deep-dive`
 - **Name:** Agent Attrition Rate (Contact Center) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AARDD
 
@@ -18,7 +18,7 @@ Agent Attrition Rate (Contact Center) (Deep Dive) (AARDD) captures the retention
 ## Formula
 
 ```
-Voluntary Agent Leavers / Average Agents
+AARDD = Voluntary Agent Leavers / Average Agents
 ```
 
 ## Unit

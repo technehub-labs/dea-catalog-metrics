@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Price Allocation Variance** (
 - **Canonical id:** `dea:metric-purchase-price-allocation-variance`
 - **Name:** Purchase Price Allocation Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPAV
 
@@ -18,7 +18,7 @@ Purchase Price Allocation Variance (PPAV) captures the quality of outputs and ou
 ## Formula
 
 ```
-Final PPA vs Preliminary Estimate Variance
+PPAV = Final PPA vs Preliminary Estimate Variance
 ```
 
 ## Unit

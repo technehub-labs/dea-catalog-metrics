@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Equity** (ROE) in the OpenDE
 - **Canonical id:** `dea:metric-return-on-equity`
 - **Name:** Return on Equity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROE
 
@@ -22,7 +22,7 @@ Net income over shareholders equity - the return earned on the owners stake. It 
 ## Formula
 
 ```
-Net Income / Shareholders' Equity
+ROE = Net Income / Shareholders' Equity
 ```
 
 ## Unit

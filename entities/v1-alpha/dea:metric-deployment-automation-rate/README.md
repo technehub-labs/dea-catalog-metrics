@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Automation Rate** (DAR-CD) 
 - **Canonical id:** `dea:metric-deployment-automation-rate`
 - **Name:** Deployment Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAR-CD
 
@@ -22,7 +22,7 @@ Measures the share of deployments executed through automated pipelines versus ma
 ## Formula
 
 ```
-Deployments Executed Fully Automatically / Deployments
+DAR-CD = Deployments Executed Fully Automatically / Deployments
 ```
 
 ## Unit

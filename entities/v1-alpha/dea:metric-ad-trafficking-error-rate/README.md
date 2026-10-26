@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Trafficking Error Rate** (ATER) in 
 - **Canonical id:** `dea:metric-ad-trafficking-error-rate`
 - **Name:** Ad Trafficking Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATER
 
@@ -18,7 +18,7 @@ Ad Trafficking Error Rate (ATER) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Campaigns Launched with Errors / Campaigns
+ATER = Campaigns Launched with Errors / Campaigns
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Cost** (AC) in the OpenDEAM 
 - **Canonical id:** `dea:metric-attrition-cost`
 - **Name:** Attrition Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AC
 
@@ -22,7 +22,7 @@ Measures the total cost of employee turnover including separation, replacement, 
 ## Formula
 
 ```
-Sum of Separation, Replacement, and Productivity Loss Costs
+AC = Sum of Separation, Replacement, and Productivity Loss Costs
 ```
 
 ## Unit

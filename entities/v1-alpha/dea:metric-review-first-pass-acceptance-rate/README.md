@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review First-Pass Acceptance Rate** (R
 - **Canonical id:** `dea:metric-review-first-pass-acceptance-rate`
 - **Name:** Review First-Pass Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFPAR
 
@@ -18,7 +18,7 @@ Review First-Pass Acceptance Rate (RFPAR) measures the quality of outputs and ou
 ## Formula
 
 ```
-Reviews Approved without Change Requests / Reviews
+RFPAR = Reviews Approved without Change Requests / Reviews
 ```
 
 ## Unit

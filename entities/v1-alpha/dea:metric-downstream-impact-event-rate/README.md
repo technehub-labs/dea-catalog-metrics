@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downstream Impact Event Rate** (DIER) 
 - **Canonical id:** `dea:metric-downstream-impact-event-rate`
 - **Name:** Downstream Impact Event Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIER
 
@@ -18,7 +18,7 @@ Within Data Quality Management, Downstream Impact Event Rate (DIER) is used to g
 ## Formula
 
 ```
-Quality Failures Reaching Downstream Consumers / Failures
+DIER = Quality Failures Reaching Downstream Consumers / Failures
 ```
 
 ## Unit

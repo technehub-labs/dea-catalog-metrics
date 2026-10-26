@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prescription Fill Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-prescription-fill-rate-deep-dive`
 - **Name:** Prescription Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFR-D
 
@@ -18,7 +18,7 @@ Prescription Fill Rate (Deep Dive) (PFR-D) addresses how effectively a process o
 ## Formula
 
 ```
-Prescriptions Filled / Prescriptions Received
+PFR-D = Prescriptions Filled / Prescriptions Received
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Rate per Hundred Garments** (DR
 - **Canonical id:** `dea:metric-defect-rate-per-hundred-garments`
 - **Name:** Defect Rate per Hundred Garments
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRHG
 
@@ -18,7 +18,7 @@ Defect Rate per Hundred Garments (DRHG) captures the quality of outputs and outc
 ## Formula
 
 ```
-Defects Found / Garments Inspected x 100
+DRHG = Defects Found / Garments Inspected x 100
 ```
 
 ## Unit

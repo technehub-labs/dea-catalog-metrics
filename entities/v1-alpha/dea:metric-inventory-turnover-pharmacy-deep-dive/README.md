@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turnover - Pharmacy (Deep Di
 - **Canonical id:** `dea:metric-inventory-turnover-pharmacy-deep-dive`
 - **Name:** Inventory Turnover - Pharmacy (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITP-D
 
@@ -18,7 +18,7 @@ Inventory Turnover - Pharmacy (Deep Dive) (ITP-D) measures how efficiently resou
 ## Formula
 
 ```
-Cost of Goods / Average Inventory
+ITP-D = Cost of Goods / Average Inventory
 ```
 
 ## Unit

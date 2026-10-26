@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paint Shop First-Pass Rate (Deep Dive)
 - **Canonical id:** `dea:metric-paint-shop-first-pass-rate-deep-dive`
 - **Name:** Paint Shop First-Pass Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSFP-D
 
@@ -18,7 +18,7 @@ Paint Shop First-Pass Rate (Deep Dive) (PSFP-D) addresses the quality of outputs
 ## Formula
 
 ```
-Bodies Passing Paint Inspection / Bodies
+PSFP-D = Bodies Passing Paint Inspection / Bodies
 ```
 
 ## Unit

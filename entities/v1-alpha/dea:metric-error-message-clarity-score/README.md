@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Message Clarity Score** (EMCS) i
 - **Canonical id:** `dea:metric-error-message-clarity-score`
 - **Name:** Error Message Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EMCS
 
@@ -18,7 +18,7 @@ A UX & Design Systems indicator, Error Message Clarity Score (EMCS) quantifies t
 ## Formula
 
 ```
-User-Tested Comprehension Score for Error Messages
+EMCS = User-Tested Comprehension Score for Error Messages
 ```
 
 ## Unit

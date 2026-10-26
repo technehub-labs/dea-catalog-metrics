@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fixed Asset Turnover (Statement Analys
 - **Canonical id:** `dea:metric-fixed-asset-turnover-statement-analysis`
 - **Name:** Fixed Asset Turnover (Statement Analysis)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FATO
 
@@ -22,7 +22,7 @@ Measures revenue generated per unit of fixed assets in analytical comparison. It
 ## Formula
 
 ```
-Revenue / Net Fixed Assets
+FATO = Revenue / Net Fixed Assets
 ```
 
 ## Unit

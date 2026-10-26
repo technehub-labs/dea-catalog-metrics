@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Population Stability Index (Model)** (
 - **Canonical id:** `dea:metric-population-stability-index-model`
 - **Name:** Population Stability Index (Model)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSIM
 
@@ -18,7 +18,7 @@ Population Stability Index (Model) (PSIM) captures exposure to adverse outcomes 
 ## Formula
 
 ```
-Divergence of Score Distribution vs Development Sample
+PSIM = Divergence of Score Distribution vs Development Sample
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Cannibalization Rate** (PCR-T)
 - **Canonical id:** `dea:metric-product-cannibalization-rate`
 - **Name:** Product Cannibalization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR-T
 
@@ -22,7 +22,7 @@ Measures the share of new product sales taken from existing products. It matters
 ## Formula
 
 ```
-Revenue Lost from Existing Products to New Product / Existing Product Baseline
+PCR-T = Revenue Lost from Existing Products to New Product / Existing Product Baseline
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Day 7 Retention** (D7R) in the OpenDEA
 - **Canonical id:** `dea:metric-day-7-retention`
 - **Name:** Day 7 Retention
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D7R
 
@@ -22,7 +22,7 @@ The share of a cohort active on day seven - the second checkpoint, and the one t
 ## Formula
 
 ```
-Players Returning on Day 7 / New Player Cohort
+D7R = Players Returning on Day 7 / New Player Cohort
 ```
 
 ## Unit

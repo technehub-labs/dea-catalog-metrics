@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Queue Time - 90th Percentile** (CIQ
 - **Canonical id:** `dea:metric-ci-queue-time-90th-percentile`
 - **Name:** CI Queue Time - 90th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIQT90
 
@@ -18,7 +18,7 @@ A Continuous Integration indicator, CI Queue Time - 90th Percentile (CIQT90) qua
 ## Formula
 
 ```
-Minutes Waiting in Build Queue
+CIQT90 = Minutes Waiting in Build Queue
 ```
 
 ## Unit

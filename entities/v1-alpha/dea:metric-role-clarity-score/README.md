@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Role Clarity Score** (RCS-OM) in the O
 - **Canonical id:** `dea:metric-role-clarity-score`
 - **Name:** Role Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCS-OM
 
@@ -22,7 +22,7 @@ Measures whether employees understand their responsibilities, boundaries, and su
 ## Formula
 
 ```
-Employee Survey on Role and Accountability Clarity
+RCS-OM = Employee Survey on Role and Accountability Clarity
 ```
 
 ## Unit

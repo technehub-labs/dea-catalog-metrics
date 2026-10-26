@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew Retention per Contract Cycle** (C
 - **Canonical id:** `dea:metric-crew-retention-per-contract-cycle`
 - **Name:** Crew Retention per Contract Cycle
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCC
 
@@ -18,7 +18,7 @@ Crew Retention per Contract Cycle (CRCC) measures the retention of customers, us
 ## Formula
 
 ```
-Crew Re-signing / Eligible Crew
+CRCC = Crew Re-signing / Eligible Crew
 ```
 
 ## Unit

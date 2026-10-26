@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Consumer Satisfaction Score** (API
 - **Canonical id:** `dea:metric-api-consumer-satisfaction-score`
 - **Name:** API Consumer Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APICSAT
 
@@ -18,7 +18,7 @@ API Consumer Satisfaction Score (APICSAT) measures the economic value created or
 ## Formula
 
 ```
-Consumer Survey Score for API Usability
+APICSAT = Consumer Survey Score for API Usability
 ```
 
 ## Unit

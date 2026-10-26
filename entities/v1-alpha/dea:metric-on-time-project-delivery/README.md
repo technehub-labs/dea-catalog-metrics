@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Project Delivery** (OTPD) in t
 - **Canonical id:** `dea:metric-on-time-project-delivery`
 - **Name:** On-Time Project Delivery
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTPD
 
@@ -22,7 +22,7 @@ The share of projects delivered by their committed date - the punctuality metric
 ## Formula
 
 ```
-Projects Delivered On Schedule / Projects Completed
+OTPD = Projects Delivered On Schedule / Projects Completed
 ```
 
 ## Unit

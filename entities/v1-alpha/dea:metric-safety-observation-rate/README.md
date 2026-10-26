@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Observation Rate** (SOR) in the
 - **Canonical id:** `dea:metric-safety-observation-rate`
 - **Name:** Safety Observation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOR
 
@@ -18,7 +18,7 @@ Safety Observation Rate (SOR) addresses the engagement or satisfaction of the pe
 ## Formula
 
 ```
-Behavioral Safety Observations Completed per Employee
+SOR = Behavioral Safety Observations Completed per Employee
 ```
 
 ## Unit

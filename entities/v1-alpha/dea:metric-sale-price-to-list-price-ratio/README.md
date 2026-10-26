@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sale Price to List Price Ratio** (SPLP
 - **Canonical id:** `dea:metric-sale-price-to-list-price-ratio`
 - **Name:** Sale Price to List Price Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPLP
 
@@ -22,7 +22,7 @@ Sale price to list price ratio measures the discount (or premium) achieved again
 ## Formula
 
 ```
-Sale Price / Original List Price
+SPLP = Sale Price / Original List Price
 ```
 
 ## Unit

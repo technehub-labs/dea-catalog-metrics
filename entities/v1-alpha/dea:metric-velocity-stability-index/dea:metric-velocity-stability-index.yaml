@@ -8,7 +8,7 @@ description: Within Agile Delivery & Team Effectiveness, Velocity Stability Inde
   is not sector-specific; it appears in cross-industry performance frameworks.
 abbreviation: VSI-AG
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Variance of Sprint Velocity around Mean
 formula_definition:
   formula_id: dea:formula-velocity-stability-index
-  expression: Variance of Sprint Velocity around Mean
+  expression: VSI-AG = Variance of Sprint Velocity around Mean
   inputs:
   - name: Variance of Sprint Velocity around Mean
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,9 +46,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 2980
     batch: '7'
 domain: agile_delivery_team_effectiveness
+subject_concept: dea:subject-velocity_stability
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2980
+  - Public domain - no attribution required
+  known_limitations: []

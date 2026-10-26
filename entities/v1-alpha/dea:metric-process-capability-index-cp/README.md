@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Capability Index (Cp)** (CPSIX
 - **Canonical id:** `dea:metric-process-capability-index-cp`
 - **Name:** Process Capability Index (Cp)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPSIX
 
@@ -22,7 +22,7 @@ Cp, from the statistical process control tradition, is the specification width d
 ## Formula
 
 ```
-(Upper Spec - Lower Spec) / (6 x Within-Group Std Dev)
+CPSIX = (Upper Spec - Lower Spec) / (6 x Within-Group Std Dev)
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Geometric Dimensioning Compliance** (G
 - **Canonical id:** `dea:metric-geometric-dimensioning-compliance`
 - **Name:** Geometric Dimensioning Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GDC
 
@@ -18,7 +18,7 @@ A Engineering & Design indicator, Geometric Dimensioning Compliance (GDC) quanti
 ## Formula
 
 ```
-GD&T Conformant Features / Features Checked
+GDC = GD&T Conformant Features / Features Checked
 ```
 
 ## Unit

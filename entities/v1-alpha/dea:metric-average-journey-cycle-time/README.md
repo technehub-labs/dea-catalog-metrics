@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Journey Cycle Time** (AJCT) in
 - **Canonical id:** `dea:metric-average-journey-cycle-time`
 - **Name:** Average Journey Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AJCT
 
@@ -22,7 +22,7 @@ Measures mean elapsed time to complete a defined customer journey end to end. It
 ## Formula
 
 ```
-Total Time across Journey Stages / Completed Journeys
+AJCT = Total Time across Journey Stages / Completed Journeys
 ```
 
 ## Unit

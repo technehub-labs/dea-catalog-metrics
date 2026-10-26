@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Trail Integrity Rate (Records)**
 - **Canonical id:** `dea:metric-audit-trail-integrity-rate-records`
 - **Name:** Audit Trail Integrity Rate (Records)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATIRR
 
@@ -18,7 +18,7 @@ Audit Trail Integrity Rate (Records) (ATIRR) addresses exposure to adverse outco
 ## Formula
 
 ```
-Access Logs Complete and Tamper-Evident / Logs Sampled
+ATIRR = Access Logs Complete and Tamper-Evident / Logs Sampled
 ```
 
 ## Unit

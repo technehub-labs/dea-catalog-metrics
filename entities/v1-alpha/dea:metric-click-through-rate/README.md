@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Click-Through Rate** (CTR) in the Open
 - **Canonical id:** `dea:metric-click-through-rate`
 - **Name:** Click-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTR
 
@@ -18,7 +18,7 @@ Click-Through Rate (CTR) captures how effectively a process or entity achieves i
 ## Formula
 
 ```
-Clicks / Impressions
+CTR = Clicks / Impressions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Dependency Count** (C
 - **Canonical id:** `dea:metric-cross-functional-dependency-count`
 - **Name:** Cross-Functional Dependency Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFDC
 
@@ -18,7 +18,7 @@ Within Operating Model & Process Health Deep Dive, Cross-Functional Dependency C
 ## Formula
 
 ```
-Process Dependencies Crossing Function Boundaries / Process
+CFDC = Process Dependencies Crossing Function Boundaries / Process
 ```
 
 ## Unit

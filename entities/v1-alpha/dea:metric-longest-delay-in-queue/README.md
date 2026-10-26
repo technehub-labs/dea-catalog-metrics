@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Longest Delay in Queue** (LDQ-CC) in t
 - **Canonical id:** `dea:metric-longest-delay-in-queue`
 - **Name:** Longest Delay in Queue
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LDQ-CC
 
@@ -18,7 +18,7 @@ Within Contact Center Standard Measures (Deep Dive), Longest Delay in Queue (LDQ
 ## Formula
 
 ```
-Maximum Queue Wait in Period
+LDQ-CC = Maximum Queue Wait in Period
 ```
 
 ## Unit

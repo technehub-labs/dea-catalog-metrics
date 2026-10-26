@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Merge Failure Rate** (PMFR-CI) in
 - **Canonical id:** `dea:metric-post-merge-failure-rate`
 - **Name:** Post-Merge Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMFR-CI
 
@@ -18,7 +18,7 @@ Post-Merge Failure Rate (PMFR-CI) captures the quality of outputs and outcomes f
 ## Formula
 
 ```
-Failures on Main Branch / Runs on Main
+PMFR-CI = Failures on Main Branch / Runs on Main
 ```
 
 ## Unit

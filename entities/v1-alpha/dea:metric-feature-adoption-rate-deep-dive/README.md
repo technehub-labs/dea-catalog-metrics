@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Adoption Rate (Deep Dive)** (F
 - **Canonical id:** `dea:metric-feature-adoption-rate-deep-dive`
 - **Name:** Feature Adoption Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR-D
 
@@ -18,7 +18,7 @@ Feature Adoption Rate (Deep Dive) (FAR-D) captures the engagement or satisfactio
 ## Formula
 
 ```
-Users Using Feature / Eligible Users
+FAR-D = Users Using Feature / Eligible Users
 ```
 
 ## Unit

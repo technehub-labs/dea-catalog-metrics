@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Satisfaction (Airport)** (PS
 - **Canonical id:** `dea:metric-passenger-satisfaction-airport`
 - **Name:** Passenger Satisfaction (Airport)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSA
 
@@ -22,7 +22,7 @@ Passenger satisfaction measures the terminal experience end to end - arrival, ch
 ## Formula
 
 ```
-Satisfied Passenger Survey Responses / Responses
+PSA = Satisfied Passenger Survey Responses / Responses
 ```
 
 ## Unit

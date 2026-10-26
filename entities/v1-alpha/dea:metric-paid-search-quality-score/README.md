@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paid Search Quality Score** (QS) in th
 - **Canonical id:** `dea:metric-paid-search-quality-score`
 - **Name:** Paid Search Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QS
 
@@ -18,7 +18,7 @@ Paid Search Quality Score (QS) captures the quality of outputs and outcomes for 
 ## Formula
 
 ```
-Average Ad Relevance and Landing Page Quality Rating
+QS = Average Ad Relevance and Landing Page Quality Rating
 ```
 
 ## Unit

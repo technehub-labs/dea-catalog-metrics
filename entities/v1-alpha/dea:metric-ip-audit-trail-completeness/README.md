@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Audit Trail Completeness** (IATC) i
 - **Canonical id:** `dea:metric-ip-audit-trail-completeness`
 - **Name:** IP Audit Trail Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IATC
 
@@ -22,7 +22,7 @@ Measures whether ownership, inventor rights, and assignment records are complete
 ## Formula
 
 ```
-IP Assets with Chain-of-Title Documentation / Assets
+IATC = IP Assets with Chain-of-Title Documentation / Assets
 ```
 
 ## Unit

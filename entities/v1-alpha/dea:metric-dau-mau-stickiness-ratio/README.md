@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAU/MAU Stickiness Ratio** (DAUMAU) in
 - **Canonical id:** `dea:metric-dau-mau-stickiness-ratio`
 - **Name:** DAU/MAU Stickiness Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAUMAU
 
@@ -22,7 +22,7 @@ Measures daily active users as a share of monthly actives. Stickiness is the eng
 ## Formula
 
 ```
-Daily Active Users / Monthly Active Users
+DAUMAU = Daily Active Users / Monthly Active Users
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expert Elicitation Participation Rate*
 - **Canonical id:** `dea:metric-expert-elicitation-participation-rate`
 - **Name:** Expert Elicitation Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EEPR
 
@@ -18,7 +18,7 @@ Expert Elicitation Participation Rate (EEPR) measures capability maturity or dev
 ## Formula
 
 ```
-Panels Conducted per Plan / Planned Panels
+EEPR = Panels Conducted per Plan / Planned Panels
 ```
 
 ## Unit

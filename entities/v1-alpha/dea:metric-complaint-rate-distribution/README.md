@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Rate (Distribution)** (CORD)
 - **Canonical id:** `dea:metric-complaint-rate-distribution`
 - **Name:** Complaint Rate (Distribution)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CORD
 
@@ -22,7 +22,7 @@ Measures complaints relative to policies or clients in distribution channels. It
 ## Formula
 
 ```
-Complaints / 1,000 Policies Serviced
+CORD = Complaints / 1,000 Policies Serviced
 ```
 
 ## Unit

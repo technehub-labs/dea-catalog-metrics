@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Sell Ratio** (XSR) in the OpenDE
 - **Canonical id:** `dea:metric-cross-sell-ratio`
 - **Name:** Cross-Sell Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** XSR
 
@@ -22,7 +22,7 @@ Measures the average number of products held per customer in banking relationshi
 ## Formula
 
 ```
-Products per Customer Relationship
+XSR = Products per Customer Relationship
 ```
 
 ## Unit

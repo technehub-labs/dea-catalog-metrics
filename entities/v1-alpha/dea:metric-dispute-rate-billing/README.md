@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Rate (Billing)** (DRB) in the 
 - **Canonical id:** `dea:metric-dispute-rate-billing`
 - **Name:** Dispute Rate (Billing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRB
 
@@ -22,7 +22,7 @@ Measures billing disputes per account or invoice in telecom. It matters because 
 ## Formula
 
 ```
-Disputed Charges / Total Billed Amount Events
+DRB = Disputed Charges / Total Billed Amount Events
 ```
 
 ## Unit

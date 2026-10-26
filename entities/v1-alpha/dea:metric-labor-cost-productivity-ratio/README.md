@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Productivity Ratio** (LCPR)
 - **Canonical id:** `dea:metric-labor-cost-productivity-ratio`
 - **Name:** Labor Cost Productivity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCPR
 
@@ -22,7 +22,7 @@ Measures output value generated per unit of labor cost. It converts workforce de
 ## Formula
 
 ```
-Revenue or Output / Total Labor Cost
+LCPR = Revenue or Output / Total Labor Cost
 ```
 
 ## Unit

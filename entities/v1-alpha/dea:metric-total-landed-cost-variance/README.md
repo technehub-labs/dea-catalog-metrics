@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Landed Cost Variance** (TLCV) in
 - **Canonical id:** `dea:metric-total-landed-cost-variance`
 - **Name:** Total Landed Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLCV
 
@@ -22,7 +22,7 @@ Measures deviation of actual landed cost (product, freight, duty, handling) from
 ## Formula
 
 ```
-Actual vs Planned Landed Cost / Planned
+TLCV = Actual vs Planned Landed Cost / Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Headcount Ratio** (RHR) in th
 - **Canonical id:** `dea:metric-research-headcount-ratio`
 - **Name:** Research Headcount Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RHR
 
@@ -22,7 +22,7 @@ The share of the workforce employed in research and development - the human-capi
 ## Formula
 
 ```
-R&D Personnel / Total Personnel
+RHR = R&D Personnel / Total Personnel
 ```
 
 ## Unit

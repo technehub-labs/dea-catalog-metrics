@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Council Cadence Compli
 - **Canonical id:** `dea:metric-data-governance-council-cadence-compliance`
 - **Name:** Data Governance Council Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DGCC
 
@@ -18,7 +18,7 @@ Within Data Governance & Stewardship, Data Governance Council Cadence Compliance
 ## Formula
 
 ```
-Council Meetings Held per Charter / Scheduled
+DGCC = Council Meetings Held per Charter / Scheduled
 ```
 
 ## Unit

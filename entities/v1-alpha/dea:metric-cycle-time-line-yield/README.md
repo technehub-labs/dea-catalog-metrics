@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cycle Time Line Yield** (CTLY) in the 
 - **Canonical id:** `dea:metric-cycle-time-line-yield`
 - **Name:** Cycle Time Line Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTLY
 
@@ -22,7 +22,7 @@ Measures the compound of wafer fabrication cycle time and line yield. It matters
 ## Formula
 
 ```
-Units Completing All Process Steps / Units Started
+CTLY = Units Completing All Process Steps / Units Started
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Savings from Vendor Negotiation**
 - **Canonical id:** `dea:metric-cost-savings-from-vendor-negotiation`
 - **Name:** Cost Savings from Vendor Negotiation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSVN
 
@@ -22,7 +22,7 @@ Cost savings from vendor negotiation measures spend reduction captured through s
 ## Formula
 
 ```
-Negotiated Reduction vs Initial Quote, Annualized
+CSVN = Negotiated Reduction vs Initial Quote, Annualized
 ```
 
 ## Unit

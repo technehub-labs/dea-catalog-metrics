@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Due Diligence Cycle Time** (DDCT) in t
 - **Canonical id:** `dea:metric-due-diligence-cycle-time`
 - **Name:** Due Diligence Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDCT
 
@@ -18,7 +18,7 @@ Due Diligence Cycle Time (DDCT) measures how efficiently resources are converted
 ## Formula
 
 ```
-Days from Data Room Open to Diligence Report
+DDCT = Days from Data Room Open to Diligence Report
 ```
 
 ## Unit

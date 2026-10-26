@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Drill Compliance** (EDC) in 
 - **Canonical id:** `dea:metric-emergency-drill-compliance`
 - **Name:** Emergency Drill Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDC
 
@@ -22,7 +22,7 @@ Measures the share of required emergency drills completed on schedule. It matter
 ## Formula
 
 ```
-Required Drills Completed on Schedule / Drills Required
+EDC = Required Drills Completed on Schedule / Drills Required
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **eNPS (Deep Dive)** (ENPSDD) in the Ope
 - **Canonical id:** `dea:metric-enps-deep-dive`
 - **Name:** eNPS (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ENPSDD
 
@@ -22,7 +22,7 @@ Measures employees' willingness to recommend the organization as a place to work
 ## Formula
 
 ```
-Employee Promoters minus Detractors
+ENPSDD = Employee Promoters minus Detractors
 ```
 
 ## Unit

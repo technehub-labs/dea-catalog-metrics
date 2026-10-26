@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefit Payment Accuracy (Government)*
 - **Canonical id:** `dea:metric-benefit-payment-accuracy-government`
 - **Name:** Benefit Payment Accuracy (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BPA
 
@@ -22,7 +22,7 @@ Measures the share of benefit payments that are correct in eligibility and amoun
 ## Formula
 
 ```
-Correct Benefit Payments / Payments
+BPA = Correct Benefit Payments / Payments
 ```
 
 ## Unit

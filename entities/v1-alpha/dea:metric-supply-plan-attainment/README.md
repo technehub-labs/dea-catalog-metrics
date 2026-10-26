@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Plan Attainment** (SPA-S) in th
 - **Canonical id:** `dea:metric-supply-plan-attainment`
 - **Name:** Supply Plan Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPA-S
 
@@ -22,7 +22,7 @@ Measures how well executed supply matched the agreed S&OP supply plan. It matter
 ## Formula
 
 ```
-Volume Supplied per Plan / Volume Planned
+SPA-S = Volume Supplied per Plan / Volume Planned
 ```
 
 ## Unit

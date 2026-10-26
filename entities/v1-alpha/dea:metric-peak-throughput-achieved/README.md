@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Throughput Achieved** (PTA) in th
 - **Canonical id:** `dea:metric-peak-throughput-achieved`
 - **Name:** Peak Throughput Achieved
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTA
 
@@ -22,7 +22,7 @@ Measures maximum processing or delivery throughput sustained during peak periods
 ## Formula
 
 ```
-Peak Daily Items Processed / Design Capacity
+PTA = Peak Daily Items Processed / Design Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Volunteer Retention Rate** (VRR-N) in 
 - **Canonical id:** `dea:metric-volunteer-retention-rate`
 - **Name:** Volunteer Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRR-N
 
@@ -22,7 +22,7 @@ Measures the share of volunteers returning period over period. It matters becaus
 ## Formula
 
 ```
-Volunteers Returning / Volunteers Engaged Previously
+VRR-N = Volunteers Returning / Volunteers Engaged Previously
 ```
 
 ## Unit

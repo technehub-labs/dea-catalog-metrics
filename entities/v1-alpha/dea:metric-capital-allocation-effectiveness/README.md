@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Allocation Effectiveness** (CA
 - **Canonical id:** `dea:metric-capital-allocation-effectiveness`
 - **Name:** Capital Allocation Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAE2
 
@@ -22,7 +22,7 @@ A composite judgment of whether capital flows to its highest-value uses - measur
 ## Formula
 
 ```
-Returns from New Investments / Cost of Capital
+CAE2 = Returns from New Investments / Cost of Capital
 ```
 
 ## Unit

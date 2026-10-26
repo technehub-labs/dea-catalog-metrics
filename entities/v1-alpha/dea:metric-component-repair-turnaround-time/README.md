@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Component Repair Turnaround Time** (CR
 - **Canonical id:** `dea:metric-component-repair-turnaround-time`
 - **Name:** Component Repair Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRTAT
 
@@ -22,7 +22,7 @@ Measures elapsed time for component repair in MRO operations. It matters because
 ## Formula
 
 ```
-Days from Component Removal to Serviceable Return
+CRTAT = Days from Component Removal to Serviceable Return
 ```
 
 ## Unit

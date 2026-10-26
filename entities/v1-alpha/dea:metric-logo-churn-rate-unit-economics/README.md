@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logo Churn Rate (Unit Economics)** (LC
 - **Canonical id:** `dea:metric-logo-churn-rate-unit-economics`
 - **Name:** Logo Churn Rate (Unit Economics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCRDD
 
@@ -22,7 +22,7 @@ Measures the share of customers lost per period. Logo churn is the bluntest hone
 ## Formula
 
 ```
-Customers Lost / Customers at Start
+LCRDD = Customers Lost / Customers at Start
 ```
 
 ## Unit

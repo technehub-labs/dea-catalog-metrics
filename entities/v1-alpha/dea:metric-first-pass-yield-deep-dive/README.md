@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Yield (Deep Dive)** (FPYDD)
 - **Canonical id:** `dea:metric-first-pass-yield-deep-dive`
 - **Name:** First Pass Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPYDD
 
@@ -18,7 +18,7 @@ First Pass Yield (Deep Dive) (FPYDD) addresses the quality of outputs and outcom
 ## Formula
 
 ```
-Units Passing All Steps without Rework / Units Started
+FPYDD = Units Passing All Steps without Rework / Units Started
 ```
 
 ## Unit

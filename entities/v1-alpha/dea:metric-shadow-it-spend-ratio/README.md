@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow IT Spend Ratio** (SITSR) in the
 - **Canonical id:** `dea:metric-shadow-it-spend-ratio`
 - **Name:** Shadow IT Spend Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SITSR
 
@@ -22,7 +22,7 @@ Measures business-unit technology spend occurring outside IT governance. Shadow 
 ## Formula
 
 ```
-Unsanctioned Technology Spend / Total Technology Spend
+SITSR = Unsanctioned Technology Spend / Total Technology Spend
 ```
 
 ## Unit

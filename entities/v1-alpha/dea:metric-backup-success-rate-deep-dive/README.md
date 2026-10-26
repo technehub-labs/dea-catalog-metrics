@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backup Success Rate (Deep Dive)** (BKP
 - **Canonical id:** `dea:metric-backup-success-rate-deep-dive`
 - **Name:** Backup Success Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BKPSR
 
@@ -18,7 +18,7 @@ A Database & Data Platform Operations indicator, Backup Success Rate (Deep Dive)
 ## Formula
 
 ```
-Successful Backups / Scheduled Backups
+BKPSR = Successful Backups / Scheduled Backups
 ```
 
 ## Unit

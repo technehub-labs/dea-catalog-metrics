@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Generic Substitution Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-generic-substitution-rate-deep-dive`
 - **Name:** Generic Substitution Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSR-D
 
@@ -22,7 +22,7 @@ Measures the share of prescriptions dispensed as generics where clinically appro
 ## Formula
 
 ```
-Generic Fills / Fillable Prescriptions
+GSR-D = Generic Fills / Fillable Prescriptions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secrets Management Coverage** (SMC-CS)
 - **Canonical id:** `dea:metric-secrets-management-coverage`
 - **Name:** Secrets Management Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMC-CS
 
@@ -18,7 +18,7 @@ Secrets Management Coverage (SMC-CS) addresses exposure to adverse outcomes and 
 ## Formula
 
 ```
-Secrets in Managed Vault / Secrets in Use
+SMC-CS = Secrets in Managed Vault / Secrets in Use
 ```
 
 ## Unit

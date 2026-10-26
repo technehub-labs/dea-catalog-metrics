@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital-Acquired Pressure Injury Rate
 - **Canonical id:** `dea:metric-hospital-acquired-pressure-injury-rate`
 - **Name:** Hospital-Acquired Pressure Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HAPIR
 
@@ -18,7 +18,7 @@ Hospital-Acquired Pressure Injury Rate (HAPIR) addresses the quality of outputs 
 ## Formula
 
 ```
-Stage 2+ Pressure Injuries Acquired / Admissions
+HAPIR = Stage 2+ Pressure Injuries Acquired / Admissions
 ```
 
 ## Unit

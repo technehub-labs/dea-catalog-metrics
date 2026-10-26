@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CCTV Coverage of Critical Areas** (CCV
 - **Canonical id:** `dea:metric-cctv-coverage-of-critical-areas`
 - **Name:** CCTV Coverage of Critical Areas
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCVC
 
@@ -22,7 +22,7 @@ Measures the share of designated critical areas under functional camera coverage
 ## Formula
 
 ```
-Critical Areas under Surveillance / Critical Areas Identified
+CCVC = Critical Areas under Surveillance / Critical Areas Identified
 ```
 
 ## Unit

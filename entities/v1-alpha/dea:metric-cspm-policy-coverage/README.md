@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Policy Coverage** (CSPMC) in the 
 - **Canonical id:** `dea:metric-cspm-policy-coverage`
 - **Name:** CSPM Policy Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPMC
 
@@ -22,7 +22,7 @@ Measures the share of cloud accounts and resources governed by CSPM policy rules
 ## Formula
 
 ```
-Enforced Policies / Framework-Mapped Policies
+CSPMC = Enforced Policies / Framework-Mapped Policies
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Write-Off Rate** (WOR) in the OpenDEAM
 - **Canonical id:** `dea:metric-write-off-rate`
 - **Name:** Write-Off Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WOR
 
@@ -22,7 +22,7 @@ Measures the share of receivables written off as uncollectible. It matters becau
 ## Formula
 
 ```
-Billed but Uncollected Fees / Standard Fees
+WOR = Billed but Uncollected Fees / Standard Fees
 ```
 
 ## Unit

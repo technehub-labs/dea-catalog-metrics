@@ -7,7 +7,7 @@ Candidate Performance Metric record for **FX Exposure Coverage** (FXC) in the Op
 - **Canonical id:** `dea:metric-fx-exposure-coverage`
 - **Name:** FX Exposure Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FXC
 
@@ -22,7 +22,7 @@ Measures the share of foreign exchange exposure that is hedged. It matters becau
 ## Formula
 
 ```
-Hedged Foreign Exposure / Total Foreign Exposure
+FXC = Hedged Foreign Exposure / Total Foreign Exposure
 ```
 
 ## Unit

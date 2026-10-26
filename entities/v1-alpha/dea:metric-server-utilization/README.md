@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Utilization** (SVU) in the Open
 - **Canonical id:** `dea:metric-server-utilization`
 - **Name:** Server Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVU
 
@@ -18,7 +18,7 @@ Server Utilization (SVU) measures the utilization or availability of capacity in
 ## Formula
 
 ```
-Average CPU or Memory Utilization of Servers
+SVU = Average CPU or Memory Utilization of Servers
 ```
 
 ## Unit

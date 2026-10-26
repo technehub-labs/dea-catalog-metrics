@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rent per Square Foot** (RPSF) in the O
 - **Canonical id:** `dea:metric-rent-per-square-foot`
 - **Name:** Rent per Square Foot
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPSF
 
@@ -18,7 +18,7 @@ A Real Estate & Mortgage Standard Measures indicator, Rent per Square Foot (RPSF
 ## Formula
 
 ```
-Annual Rent / Leasable Area
+RPSF = Annual Rent / Leasable Area
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Effective Rent Ratio** (NERR) in t
 - **Canonical id:** `dea:metric-net-effective-rent-ratio`
 - **Name:** Net Effective Rent Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NERR
 
@@ -22,7 +22,7 @@ Measures achieved rent net of concessions relative to face rent. It is the hones
 ## Formula
 
 ```
-Net Effective Rent after Concessions / Face Rent
+NERR = Net Effective Rent after Concessions / Face Rent
 ```
 
 ## Unit

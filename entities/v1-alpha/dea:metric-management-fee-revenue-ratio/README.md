@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Fee Revenue Ratio** (MFR) i
 - **Canonical id:** `dea:metric-management-fee-revenue-ratio`
 - **Name:** Management Fee Revenue Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFR
 
@@ -22,7 +22,7 @@ Management fee revenue ratio measures fee income as a share of assets under mana
 ## Formula
 
 ```
-Management Fees / Average Assets under Management
+MFR = Management Fees / Average Assets under Management
 ```
 
 ## Unit

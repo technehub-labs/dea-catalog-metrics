@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analytics Adoption Rate** (AAR) in the
 - **Canonical id:** `dea:metric-analytics-adoption-rate`
 - **Name:** Analytics Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAR
 
@@ -22,7 +22,7 @@ Measures the share of target users actively using analytics tools and outputs. I
 ## Formula
 
 ```
-Active Analytics Users / Licensed Analytics Users
+AAR = Active Analytics Users / Licensed Analytics Users
 ```
 
 ## Unit

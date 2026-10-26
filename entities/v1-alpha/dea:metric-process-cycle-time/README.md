@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Time** (PCT) in the Open
 - **Canonical id:** `dea:metric-process-cycle-time`
 - **Name:** Process Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCT
 
@@ -18,7 +18,7 @@ A Operations indicator, Process Cycle Time (PCT) quantifies how efficiently reso
 ## Formula
 
 ```
-End-to-End Elapsed Time of Process
+PCT = End-to-End Elapsed Time of Process
 ```
 
 ## Unit

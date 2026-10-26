@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Tracking Schema Compliance** (ET
 - **Canonical id:** `dea:metric-event-tracking-schema-compliance`
 - **Name:** Event Tracking Schema Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETSC
 
@@ -18,7 +18,7 @@ Event Tracking Schema Compliance (ETSC) captures conformance to standards, plans
 ## Formula
 
 ```
-Tracked Events Matching Governance Schema / Events
+ETSC = Tracked Events Matching Governance Schema / Events
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tacit-to-Explicit Conversion Rate** (T
 - **Canonical id:** `dea:metric-tacit-to-explicit-conversion-rate`
 - **Name:** Tacit-to-Explicit Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TECR
 
@@ -22,7 +22,7 @@ Measures how much expert tacit knowledge is being captured into usable explicit 
 ## Formula
 
 ```
-Documented Expert Sessions / Sessions Planned
+TECR = Documented Expert Sessions / Sessions Planned
 ```
 
 ## Unit

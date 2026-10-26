@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Training Completion** (STC) in 
 - **Canonical id:** `dea:metric-safety-training-completion`
 - **Name:** Safety Training Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STC
 
@@ -18,7 +18,7 @@ Safety Training Completion (STC) measures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Employees Completing Safety Training / Required
+STC = Employees Completing Safety Training / Required
 ```
 
 ## Unit

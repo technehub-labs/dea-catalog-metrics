@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Best Execution Compliance Rate** (BECR
 - **Canonical id:** `dea:metric-best-execution-compliance-rate`
 - **Name:** Best Execution Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BECR-IM
 
@@ -22,7 +22,7 @@ Measures adherence to best-execution obligations across venue, price, and cost d
 ## Formula
 
 ```
-Trades Meeting Best Execution Policy / Sampled
+BECR-IM = Trades Meeting Best Execution Policy / Sampled
 ```
 
 ## Unit

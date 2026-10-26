@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Docketing Deadline Compliance** (ID
 - **Canonical id:** `dea:metric-ip-docketing-deadline-compliance`
 - **Name:** IP Docketing Deadline Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDDC
 
@@ -18,7 +18,7 @@ IP Docketing Deadline Compliance (IDDC) measures exposure to adverse outcomes in
 ## Formula
 
 ```
-Docketed Deadlines Met without Urgent Action / Deadlines
+IDDC = Docketed Deadlines Met without Urgent Action / Deadlines
 ```
 
 ## Unit

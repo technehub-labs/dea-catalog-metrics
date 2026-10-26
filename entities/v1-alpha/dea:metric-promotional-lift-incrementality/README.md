@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotional Lift Incrementality** (PLI
 - **Canonical id:** `dea:metric-promotional-lift-incrementality`
 - **Name:** Promotional Lift Incrementality
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLI-MK
 
@@ -22,7 +22,7 @@ Measures the truly incremental sales caused by promotions versus baseline and pu
 ## Formula
 
 ```
-Incremental Revenue vs Holdout / Promotional Spend
+PLI-MK = Incremental Revenue vs Holdout / Promotional Spend
 ```
 
 ## Unit

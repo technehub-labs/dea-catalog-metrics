@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Contract Compliance Rate** (APICCR
 - **Canonical id:** `dea:metric-api-contract-compliance-rate`
 - **Name:** API Contract Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APICCR
 
@@ -18,7 +18,7 @@ Within Software Architecture & Technical Design, API Contract Compliance Rate (A
 ## Formula
 
 ```
-Services Compliant with Published Contract / Services
+APICCR = Services Compliant with Published Contract / Services
 ```
 
 ## Unit

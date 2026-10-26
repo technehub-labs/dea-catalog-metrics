@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repair Depth Index** (RDI-RM) in the O
 - **Canonical id:** `dea:metric-repair-depth-index`
 - **Name:** Repair Depth Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDI-RM
 
@@ -18,7 +18,7 @@ Repair Depth Index (RDI-RM) measures the quality of outputs and outcomes in the 
 ## Formula
 
 ```
-Mean Repairs to Restore Function per Failure
+RDI-RM = Mean Repairs to Restore Function per Failure
 ```
 
 ## Unit

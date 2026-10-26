@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Event Report Turnaround (Events)*
 - **Canonical id:** `dea:metric-post-event-report-turnaround-events`
 - **Name:** Post-Event Report Turnaround (Events)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PERT
 
@@ -18,7 +18,7 @@ Post-Event Report Turnaround (Events) (PERT) measures how efficiently resources 
 ## Formula
 
 ```
-Days from Event Close to Stakeholder Report
+PERT = Days from Event Close to Stakeholder Report
 ```
 
 ## Unit

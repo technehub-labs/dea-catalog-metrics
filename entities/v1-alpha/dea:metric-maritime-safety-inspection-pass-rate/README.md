@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maritime Safety Inspection Pass Rate**
 - **Canonical id:** `dea:metric-maritime-safety-inspection-pass-rate`
 - **Name:** Maritime Safety Inspection Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSIP
 
@@ -22,7 +22,7 @@ Measures outcomes of port state and flag state inspections (deficiencies, detent
 ## Formula
 
 ```
-Inspections Passed without Major Finding / Inspections
+MSIP = Inspections Passed without Major Finding / Inspections
 ```
 
 ## Unit

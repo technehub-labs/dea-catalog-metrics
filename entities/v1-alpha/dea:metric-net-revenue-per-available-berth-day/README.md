@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Revenue per Available Berth Day** 
 - **Canonical id:** `dea:metric-net-revenue-per-available-berth-day`
 - **Name:** Net Revenue per Available Berth Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NRABD
 
@@ -22,7 +22,7 @@ Measures cruise net revenue (cabin revenue net of commissions, discounts, and on
 ## Formula
 
 ```
-Net Revenue / Available Berth Days
+NRABD = Net Revenue / Available Berth Days
 ```
 
 ## Unit

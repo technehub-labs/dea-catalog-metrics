@@ -7,7 +7,7 @@ Candidate Performance Metric record for **GMROII (Gross Margin Return on Invento
 - **Canonical id:** `dea:metric-gmroii-gross-margin-return-on-inventory-investment`
 - **Name:** GMROII (Gross Margin Return on Inventory Investment)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMROII
 
@@ -22,7 +22,7 @@ Measures gross margin generated per unit of average inventory investment. It is 
 ## Formula
 
 ```
-Gross Margin / Average Inventory Cost
+GMROII = Gross Margin / Average Inventory Cost
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Mille (Deep Dive)** (CPM-D) i
 - **Canonical id:** `dea:metric-cost-per-mille-deep-dive`
 - **Name:** Cost per Mille (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPM-D
 
@@ -18,7 +18,7 @@ Cost per Mille (Deep Dive) (CPM-D) addresses how efficiently resources are conve
 ## Formula
 
 ```
-Media Cost / Impressions x 1,000
+CPM-D = Media Cost / Impressions x 1,000
 ```
 
 ## Unit

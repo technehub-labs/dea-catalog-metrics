@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Ticket Yield per Seat (Deep Di
 - **Canonical id:** `dea:metric-average-ticket-yield-per-seat-deep-dive`
 - **Name:** Average Ticket Yield per Seat (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATYS-D
 
@@ -22,7 +22,7 @@ Measures ticket revenue per seat available, blending price, occupancy, and categ
 ## Formula
 
 ```
-Ticket Revenue / Available Seats
+ATYS-D = Ticket Revenue / Available Seats
 ```
 
 ## Unit

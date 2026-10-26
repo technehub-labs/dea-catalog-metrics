@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Risk Concentration Index** (
 - **Canonical id:** `dea:metric-portfolio-risk-concentration-index`
 - **Name:** Portfolio Risk Concentration Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCI-PPM
 
@@ -22,7 +22,7 @@ Measures whether portfolio risk is spread across initiatives, technologies, and 
 ## Formula
 
 ```
-Concentration of Investment in Single Risk Classes
+PRCI-PPM = Concentration of Investment in Single Risk Classes
 ```
 
 ## Unit

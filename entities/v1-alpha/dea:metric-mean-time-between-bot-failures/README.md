@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time between Bot Failures** (MTBB
 - **Canonical id:** `dea:metric-mean-time-between-bot-failures`
 - **Name:** Mean Time between Bot Failures
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTBBF
 
@@ -18,7 +18,7 @@ A Automation & Robotic Process Automation indicator, Mean Time between Bot Failu
 ## Formula
 
 ```
-Total Bot Operating Time / Bot Failures
+MTBBF = Total Bot Operating Time / Bot Failures
 ```
 
 ## Unit

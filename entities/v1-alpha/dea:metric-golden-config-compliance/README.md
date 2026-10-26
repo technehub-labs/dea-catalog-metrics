@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Config Compliance** (GCC-NW) in
 - **Canonical id:** `dea:metric-golden-config-compliance`
 - **Name:** Golden Config Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GCC-NW
 
@@ -18,7 +18,7 @@ Golden Config Compliance (GCC-NW) addresses conformance to standards, plans, or 
 ## Formula
 
 ```
-Devices Matching Golden Configuration / Devices in Scope
+GCC-NW = Devices Matching Golden Configuration / Devices in Scope
 ```
 
 ## Unit

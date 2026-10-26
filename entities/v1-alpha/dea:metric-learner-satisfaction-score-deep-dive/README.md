@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learner Satisfaction Score (Deep Dive)
 - **Canonical id:** `dea:metric-learner-satisfaction-score-deep-dive`
 - **Name:** Learner Satisfaction Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSS-D
 
@@ -18,7 +18,7 @@ Learner Satisfaction Score (Deep Dive) (LSS-D) captures the engagement or satisf
 ## Formula
 
 ```
-Average End-of-Course Rating
+LSS-D = Average End-of-Course Rating
 ```
 
 ## Unit

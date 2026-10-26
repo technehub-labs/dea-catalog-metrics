@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (UX) - Deep Dive** 
 - **Canonical id:** `dea:metric-net-promoter-score-ux-deep-dive`
 - **Name:** Net Promoter Score (UX) - Deep Dive
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPSUXD
 
@@ -22,7 +22,7 @@ Measures user willingness to recommend based on experience quality specifically.
 ## Formula
 
 ```
-Promoters minus Detractors among Product Users
+NPSUXD = Promoters minus Detractors among Product Users
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Failure** (MTTF) in the O
 - **Canonical id:** `dea:metric-mean-time-to-failure`
 - **Name:** Mean Time to Failure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTF
 
@@ -18,7 +18,7 @@ Within Maintenance & Reliability, Mean Time to Failure (MTTF) is used to gauge e
 ## Formula
 
 ```
-Total Operating Time / Number of Failures
+MTTF = Total Operating Time / Number of Failures
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: 'A Elder & Social Care indicator, Pressure Ulcer Incidence Rate (PU
   sustained decreases indicate successful intervention.'
 abbreviation: PUIR
 unit: event
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - customer
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: New Pressure Ulcers / Resident Days x 1,000
 formula_definition:
   formula_id: dea:formula-pressure-ulcer-incidence-rate
-  expression: New Pressure Ulcers / Resident Days x 1,000
+  expression: PUIR = New Pressure Ulcers / Resident Days x 1,000
   inputs:
   - name: New Pressure Ulcers
   - name: Resident Days x 1,000
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-event
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '4'
 domain: elder_social_care
 sector: social_care
+subject_concept: dea:subject-pressure_ulcer_incidence
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1201
+  - Public domain - no attribution required
+  known_limitations: []

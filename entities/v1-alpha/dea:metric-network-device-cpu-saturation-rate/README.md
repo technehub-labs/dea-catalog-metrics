@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Device CPU Saturation Rate** (
 - **Canonical id:** `dea:metric-network-device-cpu-saturation-rate`
 - **Name:** Network Device CPU Saturation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NDCPU
 
@@ -18,7 +18,7 @@ Network Device CPU Saturation Rate (NDCPU) captures the utilization or availabil
 ## Formula
 
 ```
-Devices above CPU Threshold / Devices
+NDCPU = Devices above CPU Threshold / Devices
 ```
 
 ## Unit

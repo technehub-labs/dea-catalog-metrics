@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plant Operating Rate** (POR-C) in the 
 - **Canonical id:** `dea:metric-plant-operating-rate`
 - **Name:** Plant Operating Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POR-C
 
@@ -22,7 +22,7 @@ Plant operating rate measures chemical production against nameplate capacity, an
 ## Formula
 
 ```
-Actual Production / Nameplate Capacity
+POR-C = Actual Production / Nameplate Capacity
 ```
 
 ## Unit

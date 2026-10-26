@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return Logistics Cycle Time** (RLCT) i
 - **Canonical id:** `dea:metric-return-logistics-cycle-time`
 - **Name:** Return Logistics Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RLCT
 
@@ -18,7 +18,7 @@ Return Logistics Cycle Time (RLCT) captures how efficiently resources are conver
 ## Formula
 
 ```
-Days from Return Initiation to Restock
+RLCT = Days from Return Initiation to Restock
 ```
 
 ## Unit

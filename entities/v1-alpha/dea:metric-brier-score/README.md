@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brier Score** (BRIER) in the OpenDEAM 
 - **Canonical id:** `dea:metric-brier-score`
 - **Name:** Brier Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRIER
 
@@ -18,7 +18,7 @@ A Statistical Model Performance Diagnostics indicator, Brier Score (BRIER) quant
 ## Formula
 
 ```
-Mean Squared Error of Probabilistic Predictions
+BRIER = Mean Squared Error of Probabilistic Predictions
 ```
 
 ## Unit

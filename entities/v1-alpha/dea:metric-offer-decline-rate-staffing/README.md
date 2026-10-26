@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Decline Rate (Staffing)** (ODR-S
 - **Canonical id:** `dea:metric-offer-decline-rate-staffing`
 - **Name:** Offer Decline Rate (Staffing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODR-S
 
@@ -22,7 +22,7 @@ Measures the share of candidate offers declined in staffing placements. It matte
 ## Formula
 
 ```
-Declined Offers / Offers Extended
+ODR-S = Declined Offers / Offers Extended
 ```
 
 ## Unit

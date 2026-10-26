@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Occupancy Rate (Contact Center)*
 - **Canonical id:** `dea:metric-agent-occupancy-rate-contact-center`
 - **Name:** Agent Occupancy Rate (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AOR-CC
 
@@ -18,7 +18,7 @@ A Contact Center Standard Measures (Deep Dive) indicator, Agent Occupancy Rate (
 ## Formula
 
 ```
-Handle Time / Scheduled Time
+AOR-CC = Handle Time / Scheduled Time
 ```
 
 ## Unit

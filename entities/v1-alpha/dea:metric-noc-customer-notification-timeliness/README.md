@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Customer Notification Timeliness**
 - **Canonical id:** `dea:metric-noc-customer-notification-timeliness`
 - **Name:** NOC Customer Notification Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCNT
 
@@ -18,7 +18,7 @@ NOC Customer Notification Timeliness (NCNT) measures the quality of outputs and 
 ## Formula
 
 ```
-Outage Notifications Sent within Commitment / Outages
+NCNT = Outage Notifications Sent within Commitment / Outages
 ```
 
 ## Unit

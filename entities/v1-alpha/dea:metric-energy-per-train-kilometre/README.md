@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy per Train Kilometre** (EPKM) in
 - **Canonical id:** `dea:metric-energy-per-train-kilometre`
 - **Name:** Energy per Train Kilometre
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPKM
 
@@ -22,7 +22,7 @@ Measures traction energy consumed per kilometer operated. It matters because ene
 ## Formula
 
 ```
-Energy Consumed / Train Kilometres
+EPKM = Energy Consumed / Train Kilometres
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Span of Control Deviation Rate** (SOCD
 - **Canonical id:** `dea:metric-span-of-control-deviation-rate`
 - **Name:** Span of Control Deviation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOCDEV
 
@@ -22,7 +22,7 @@ Measures how far actual spans deviate from design norms by role type. Chronic de
 ## Formula
 
 ```
-Units Outside Span Guideline / Units
+SOCDEV = Units Outside Span Guideline / Units
 ```
 
 ## Unit

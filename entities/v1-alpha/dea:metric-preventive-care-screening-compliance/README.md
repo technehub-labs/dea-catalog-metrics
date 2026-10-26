@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Care Screening Compliance**
 - **Canonical id:** `dea:metric-preventive-care-screening-compliance`
 - **Name:** Preventive Care Screening Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCSC
 
@@ -22,7 +22,7 @@ Measures completion of recommended screenings - cancer, diabetes, cardiovascular
 ## Formula
 
 ```
-Eligible Patients Screened per Guideline / Eligible
+PCSC = Eligible Patients Screened per Guideline / Eligible
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reproducibility Test Pass Rate** (RTPR
 - **Canonical id:** `dea:metric-reproducibility-test-pass-rate`
 - **Name:** Reproducibility Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTPR-M
 
@@ -22,7 +22,7 @@ Measures whether model training and inference can be deterministically reproduce
 ## Formula
 
 ```
-Experiment Runs Reproduced within Tolerance / Sampled
+RTPR-M = Experiment Runs Reproduced within Tolerance / Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EBITDA Margin** (EBITDA%) in the OpenD
 - **Canonical id:** `dea:metric-ebitda-margin`
 - **Name:** EBITDA Margin
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBITDA%
 
@@ -22,7 +22,7 @@ EBITDA margin takes earnings before interest, tax, depreciation, and amortizatio
 ## Formula
 
 ```
-EBITDA / Revenue
+EBITDA% = EBITDA / Revenue
 ```
 
 ## Unit

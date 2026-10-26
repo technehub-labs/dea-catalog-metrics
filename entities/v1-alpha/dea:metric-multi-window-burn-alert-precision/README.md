@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Window Burn Alert Precision** (M
 - **Canonical id:** `dea:metric-multi-window-burn-alert-precision`
 - **Name:** Multi-Window Burn Alert Precision
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MWBAP
 
@@ -18,7 +18,7 @@ Multi-Window Burn Alert Precision (MWBAP) captures the quality of outputs and ou
 ## Formula
 
 ```
-Pages Confirmed Actionable / Multi-Window Burn Pages
+MWBAP = Pages Confirmed Actionable / Multi-Window Burn Pages
 ```
 
 ## Unit

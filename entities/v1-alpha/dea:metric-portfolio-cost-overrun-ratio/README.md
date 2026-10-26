@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Cost Overrun Ratio** (PCOR-P
 - **Canonical id:** `dea:metric-portfolio-cost-overrun-ratio`
 - **Name:** Portfolio Cost Overrun Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCOR-PPM
 
@@ -22,7 +22,7 @@ Measures aggregate portfolio cost overrun relative to approved budgets. It aggre
 ## Formula
 
 ```
-Portfolio Overruns / Portfolio Budget
+PCOR-PPM = Portfolio Overruns / Portfolio Budget
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Override Detection Rate** (COD
 - **Canonical id:** `dea:metric-control-override-detection-rate`
 - **Name:** Control Override Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CODR
 
@@ -22,7 +22,7 @@ Measures how often improper overrides of controls are detected. Overrides are th
 ## Formula
 
 ```
-Overrides Detected by Monitoring / Overrides Occurring (Sampled)
+CODR = Overrides Detected by Monitoring / Overrides Occurring (Sampled)
 ```
 
 ## Unit

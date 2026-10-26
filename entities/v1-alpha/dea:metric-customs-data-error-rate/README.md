@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customs Data Error Rate** (CDER) in th
 - **Canonical id:** `dea:metric-customs-data-error-rate`
 - **Name:** Customs Data Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDER
 
@@ -18,7 +18,7 @@ Customs Data Error Rate (CDER) captures the quality of outputs and outcomes for 
 ## Formula
 
 ```
-Entry Data Errors Found / Entry Lines
+CDER = Entry Data Errors Found / Entry Lines
 ```
 
 ## Unit

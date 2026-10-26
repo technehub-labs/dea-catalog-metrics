@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Dock Throughput** (CDT) in the O
 - **Canonical id:** `dea:metric-cross-dock-throughput`
 - **Name:** Cross-Dock Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDT
 
@@ -18,7 +18,7 @@ Within Warehousing, Cross-Dock Throughput (CDT) is used to gauge the utilization
 ## Formula
 
 ```
-Units Cross-Docked / Day
+CDT = Units Cross-Docked / Day
 ```
 
 ## Unit

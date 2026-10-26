@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Settlement Timeliness** (STL) in the O
 - **Canonical id:** `dea:metric-settlement-timeliness`
 - **Name:** Settlement Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STL
 
@@ -18,7 +18,7 @@ A Payments & Fintech indicator, Settlement Timeliness (STL) quantifies the quali
 ## Formula
 
 ```
-Settlements Completed by Expected Date / Settlements Due
+STL = Settlements Completed by Expected Date / Settlements Due
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Decision-to-Order Latency** (TDO
 - **Canonical id:** `dea:metric-trade-decision-to-order-latency`
 - **Name:** Trade Decision-to-Order Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDOL-T
 
@@ -18,7 +18,7 @@ Within Investment Research & Trading Operations, Trade Decision-to-Order Latency
 ## Formula
 
 ```
-Minutes from Decision to Order Placement
+TDOL-T = Minutes from Decision to Order Placement
 ```
 
 ## Unit

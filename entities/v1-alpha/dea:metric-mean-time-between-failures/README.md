@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time Between Failures** (MTBF) in
 - **Canonical id:** `dea:metric-mean-time-between-failures`
 - **Name:** Mean Time Between Failures
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTBF
 
@@ -18,7 +18,7 @@ A Operations indicator, Mean Time Between Failures (MTBF) quantifies exposure to
 ## Formula
 
 ```
-Total Operating Time / Number of Failures
+MTBF = Total Operating Time / Number of Failures
 ```
 
 ## Unit

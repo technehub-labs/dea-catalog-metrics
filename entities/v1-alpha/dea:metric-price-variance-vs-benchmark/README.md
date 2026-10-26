@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Variance vs Benchmark** (PVB-SS)
 - **Canonical id:** `dea:metric-price-variance-vs-benchmark`
 - **Name:** Price Variance vs Benchmark
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PVB-SS
 
@@ -22,7 +22,7 @@ Measures the gap between prices paid and market benchmarks for comparable goods.
 ## Formula
 
 ```
-Negotiated Price vs Market Benchmark / Benchmark
+PVB-SS = Negotiated Price vs Market Benchmark / Benchmark
 ```
 
 ## Unit

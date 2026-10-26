@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Collection Effectiveness** (TCE) i
 - **Canonical id:** `dea:metric-tax-collection-effectiveness`
 - **Name:** Tax Collection Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCE
 
@@ -22,7 +22,7 @@ Actual tax revenue against the theoretically collectible amount - the tax-gap fo
 ## Formula
 
 ```
-Taxes Collected / Taxes Assessed
+TCE = Taxes Collected / Taxes Assessed
 ```
 
 ## Unit

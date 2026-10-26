@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Data Capture Compliance - Field*
 - **Canonical id:** `dea:metric-asset-data-capture-compliance-field`
 - **Name:** Asset Data Capture Compliance - Field
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADCC-F
 
@@ -18,7 +18,7 @@ Within Field Maintenance & Technical Field Service (Deep Dive), Asset Data Captu
 ## Formula
 
 ```
-Visits with Complete Asset Condition Data / Visits
+ADCC-F = Visits with Complete Asset Condition Data / Visits
 ```
 
 ## Unit

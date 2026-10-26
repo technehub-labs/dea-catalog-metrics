@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drive-Thru Service Time** (DTST) in th
 - **Canonical id:** `dea:metric-drive-thru-service-time`
 - **Name:** Drive-Thru Service Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTST
 
@@ -18,7 +18,7 @@ Drive-Thru Service Time (DTST) captures how efficiently resources are converted 
 ## Formula
 
 ```
-Minutes from Order to Hand-Off
+DTST = Minutes from Order to Hand-Off
 ```
 
 ## Unit

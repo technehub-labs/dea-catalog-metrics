@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Diversity Representation by 
 - **Canonical id:** `dea:metric-workforce-diversity-representation-by-level`
 - **Name:** Workforce Diversity Representation by Level
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WDRL
 
@@ -22,7 +22,7 @@ Measures the demographic composition of the workforce at each organizational lev
 ## Formula
 
 ```
-Underrepresented Group Members at Level / Total at Level
+WDRL = Underrepresented Group Members at Level / Total at Level
 ```
 
 ## Unit

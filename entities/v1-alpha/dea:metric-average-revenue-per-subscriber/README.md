@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Subscriber** (ARPS
 - **Canonical id:** `dea:metric-average-revenue-per-subscriber`
 - **Name:** Average Revenue per Subscriber
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPS
 
@@ -22,7 +22,7 @@ Subscription and related revenue per subscriber per month - the monetization met
 ## Formula
 
 ```
-Subscription Revenue / Average Subscribers
+ARPS = Subscription Revenue / Average Subscribers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Energy per Terabyte** (NET-T) 
 - **Canonical id:** `dea:metric-network-energy-per-terabyte`
 - **Name:** Network Energy per Terabyte
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NET-T
 
@@ -22,7 +22,7 @@ Measures network energy consumption per unit of data carried. Energy is the larg
 ## Formula
 
 ```
-Energy Consumed / Data Carried
+NET-T = Energy Consumed / Data Carried
 ```
 
 ## Unit

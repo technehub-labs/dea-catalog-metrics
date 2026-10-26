@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standing Privilege Reduction Rate** (S
 - **Canonical id:** `dea:metric-standing-privilege-reduction-rate`
 - **Name:** Standing Privilege Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPRR
 
@@ -22,7 +22,7 @@ Measures progress in converting permanent admin rights to just-in-time, time-box
 ## Formula
 
 ```
-Just-in-Time Access Grants / Privileged Access Grants
+SPRR = Just-in-Time Access Grants / Privileged Access Grants
 ```
 
 ## Unit

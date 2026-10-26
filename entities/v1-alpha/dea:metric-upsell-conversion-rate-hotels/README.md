@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upsell Conversion Rate (Hotels)** (UCR
 - **Canonical id:** `dea:metric-upsell-conversion-rate-hotels`
 - **Name:** Upsell Conversion Rate (Hotels)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UCR-H
 
@@ -18,7 +18,7 @@ Upsell Conversion Rate (Hotels) (UCR-H) addresses growth over time and is a fixt
 ## Formula
 
 ```
-Upsells Accepted / Upsell Offers
+UCR-H = Upsells Accepted / Upsell Offers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Driver Retention Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-driver-retention-rate-deep-dive`
 - **Name:** Driver Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRR-D
 
@@ -22,7 +22,7 @@ Measures driver turnover in last-mile operations. Drivers hold the route knowled
 ## Formula
 
 ```
-Drivers Retained / Drivers Employed
+DRR-D = Drivers Retained / Drivers Employed
 ```
 
 ## Unit

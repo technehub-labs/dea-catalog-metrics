@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Velocity Stability Index** (VSI-AG) in
 - **Canonical id:** `dea:metric-velocity-stability-index`
 - **Name:** Velocity Stability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSI-AG
 
@@ -18,7 +18,7 @@ Within Agile Delivery & Team Effectiveness, Velocity Stability Index (VSI-AG) is
 ## Formula
 
 ```
-Variance of Sprint Velocity around Mean
+VSI-AG = Variance of Sprint Velocity around Mean
 ```
 
 ## Unit

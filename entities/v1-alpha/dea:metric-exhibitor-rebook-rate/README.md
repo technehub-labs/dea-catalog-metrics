@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exhibitor Rebook Rate** (ERR-E) in the
 - **Canonical id:** `dea:metric-exhibitor-rebook-rate`
 - **Name:** Exhibitor Rebook Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERR-E
 
@@ -22,7 +22,7 @@ Measures the share of exhibitors signing for the next edition of an event. Exhib
 ## Formula
 
 ```
-Exhibitors Rebooking for Next Edition / Exhibitors
+ERR-E = Exhibitors Rebooking for Next Edition / Exhibitors
 ```
 
 ## Unit

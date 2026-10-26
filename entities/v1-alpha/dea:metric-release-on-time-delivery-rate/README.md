@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release On-Time Delivery Rate** (ROTD)
 - **Canonical id:** `dea:metric-release-on-time-delivery-rate`
 - **Name:** Release On-Time Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROTD
 
@@ -22,7 +22,7 @@ Measures the share of releases delivered within their committed window. Predicta
 ## Formula
 
 ```
-Releases Delivered on Committed Date / Releases
+ROTD = Releases Delivered on Committed Date / Releases
 ```
 
 ## Unit

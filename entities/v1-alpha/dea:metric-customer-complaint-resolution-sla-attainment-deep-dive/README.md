@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Complaint Resolution SLA Atta
 - **Canonical id:** `dea:metric-customer-complaint-resolution-sla-attainment-deep-dive`
 - **Name:** Customer Complaint Resolution SLA Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCRS-D
 
@@ -18,7 +18,7 @@ A Balanced Scorecard - Customer Perspective indicator, Customer Complaint Resolu
 ## Formula
 
 ```
-Complaints Resolved within SLA / Complaints
+CCRS-D = Complaints Resolved within SLA / Complaints
 ```
 
 ## Unit

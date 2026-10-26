@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Stay (Deep Dive)** (
 - **Canonical id:** `dea:metric-average-length-of-stay-deep-dive`
 - **Name:** Average Length of Stay (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALOS-D
 
@@ -18,7 +18,7 @@ Average Length of Stay (Deep Dive) (ALOS-D) addresses the utilization or availab
 ## Formula
 
 ```
-Occupied Room Nights / Arrivals
+ALOS-D = Occupied Room Nights / Arrivals
 ```
 
 ## Unit

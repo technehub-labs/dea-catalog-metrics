@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Security Incident Rate** (BSIR)
 - **Canonical id:** `dea:metric-branch-security-incident-rate`
 - **Name:** Branch Security Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSIR
 
@@ -18,7 +18,7 @@ Branch Security Incident Rate (BSIR) measures exposure to adverse outcomes in th
 ## Formula
 
 ```
-Security Incidents per Branch per Period
+BSIR = Security Incidents per Branch per Period
 ```
 
 ## Unit

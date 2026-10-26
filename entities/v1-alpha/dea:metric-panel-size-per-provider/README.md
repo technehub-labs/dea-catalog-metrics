@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Panel Size per Provider** (PSP) in the
 - **Canonical id:** `dea:metric-panel-size-per-provider`
 - **Name:** Panel Size per Provider
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSP
 
@@ -18,7 +18,7 @@ Panel Size per Provider (PSP) addresses the utilization or availability of capac
 ## Formula
 
 ```
-Active Patients / Full-Time Provider
+PSP = Active Patients / Full-Time Provider
 ```
 
 ## Unit

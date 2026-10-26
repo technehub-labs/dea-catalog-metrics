@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Member (Deep Dive)** (RPM-
 - **Canonical id:** `dea:metric-revenue-per-member-deep-dive`
 - **Name:** Revenue per Member (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPM-D
 
@@ -22,7 +22,7 @@ Measures total revenue (dues, personal training, retail) per member per period. 
 ## Formula
 
 ```
-Total Revenue / Active Members
+RPM-D = Total Revenue / Active Members
 ```
 
 ## Unit

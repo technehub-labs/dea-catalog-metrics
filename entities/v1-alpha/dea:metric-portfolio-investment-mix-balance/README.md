@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Investment Mix Balance** (PI
 - **Canonical id:** `dea:metric-portfolio-investment-mix-balance`
 - **Name:** Portfolio Investment Mix Balance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIMB
 
@@ -22,7 +22,7 @@ Measures the distribution of portfolio investment across run, grow, and transfor
 ## Formula
 
 ```
-Distribution across Run, Grow, Transform Categories
+PIMB = Distribution across Run, Grow, Transform Categories
 ```
 
 ## Unit

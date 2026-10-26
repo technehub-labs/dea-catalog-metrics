@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Story Cycle Time (Deep Dive)** (SCT-AG
 - **Canonical id:** `dea:metric-story-cycle-time-deep-dive`
 - **Name:** Story Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCT-AG
 
@@ -18,7 +18,7 @@ Story Cycle Time (Deep Dive) (SCT-AG) captures how efficiently resources are con
 ## Formula
 
 ```
-Days from Story Start to Done
+SCT-AG = Days from Story Start to Done
 ```
 
 ## Unit

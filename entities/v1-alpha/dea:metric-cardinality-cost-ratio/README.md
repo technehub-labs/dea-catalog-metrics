@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cardinality Cost Ratio** (CARDR) in th
 - **Canonical id:** `dea:metric-cardinality-cost-ratio`
 - **Name:** Cardinality Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CARDR
 
@@ -18,7 +18,7 @@ Within SRE & Observability Standard Measures, Cardinality Cost Ratio (CARDR) is 
 ## Formula
 
 ```
-Observability Spend / Revenue Streamed through Platform
+CARDR = Observability Spend / Revenue Streamed through Platform
 ```
 
 ## Unit

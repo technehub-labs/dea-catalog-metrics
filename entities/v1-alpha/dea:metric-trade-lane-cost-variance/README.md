@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Lane Cost Variance** (TLCV) in t
 - **Canonical id:** `dea:metric-trade-lane-cost-variance`
 - **Name:** Trade Lane Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLCV
 
@@ -18,7 +18,7 @@ Within International Trade & Customs, Trade Lane Cost Variance (TLCV) is used to
 ## Formula
 
 ```
-Actual Lane Cost - Benchmark Cost / Benchmark
+TLCV = Actual Lane Cost - Benchmark Cost / Benchmark
 ```
 
 ## Unit

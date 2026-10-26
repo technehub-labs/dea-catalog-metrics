@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Effectiveness Score** (MES) in
 - **Canonical id:** `dea:metric-meeting-effectiveness-score`
 - **Name:** Meeting Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MES
 
@@ -18,7 +18,7 @@ Meeting Effectiveness Score (MES) addresses the engagement or satisfaction of th
 ## Formula
 
 ```
-Average Post-Meeting Effectiveness Rating
+MES = Average Post-Meeting Effectiveness Rating
 ```
 
 ## Unit

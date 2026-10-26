@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Maintenance Uptime (Deep Div
 - **Canonical id:** `dea:metric-equipment-maintenance-uptime-deep-dive`
 - **Name:** Equipment Maintenance Uptime (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EMU-D
 
@@ -18,7 +18,7 @@ Equipment Maintenance Uptime (Deep Dive) (EMU-D) captures the utilization or ava
 ## Formula
 
 ```
-Equipment Available / Equipment Inventory
+EMU-D = Equipment Available / Equipment Inventory
 ```
 
 ## Unit

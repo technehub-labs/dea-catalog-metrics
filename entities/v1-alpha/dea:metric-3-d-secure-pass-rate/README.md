@@ -7,7 +7,7 @@ Candidate Performance Metric record for **3-D Secure Pass Rate** (3DSP) in the O
 - **Canonical id:** `dea:metric-3-d-secure-pass-rate`
 - **Name:** 3-D Secure Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** 3DSP
 
@@ -18,7 +18,7 @@ A Payments & Cards (Deep Dive) indicator, 3-D Secure Pass Rate (3DSP) quantifies
 ## Formula
 
 ```
-3DS Authenticated Successfully / 3DS Challenges
+3DSP = 3DS Authenticated Successfully / 3DS Challenges
 ```
 
 ## Unit

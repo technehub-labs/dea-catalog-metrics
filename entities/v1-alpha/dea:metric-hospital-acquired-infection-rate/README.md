@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital-Acquired Infection Rate** (HA
 - **Canonical id:** `dea:metric-hospital-acquired-infection-rate`
 - **Name:** Hospital-Acquired Infection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HAIR
 
@@ -22,7 +22,7 @@ Infections that were neither present nor incubating at admission, normalized per
 ## Formula
 
 ```
-Healthcare-Associated Infections / Patient Days x 1,000
+HAIR = Healthcare-Associated Infections / Patient Days x 1,000
 ```
 
 ## Unit

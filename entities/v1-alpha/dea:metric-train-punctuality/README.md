@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Train Punctuality** (TRP) in the OpenD
 - **Canonical id:** `dea:metric-train-punctuality`
 - **Name:** Train Punctuality
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRP
 
@@ -22,7 +22,7 @@ Train punctuality measures the share of trains arriving within a tolerance (comm
 ## Formula
 
 ```
-Trains Arriving within Tolerance of Schedule / Trains Run
+TRP = Trains Arriving within Tolerance of Schedule / Trains Run
 ```
 
 ## Unit

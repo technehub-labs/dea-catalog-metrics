@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dry Powder Coverage Ratio** (DPCR-IM) 
 - **Canonical id:** `dea:metric-dry-powder-coverage-ratio`
 - **Name:** Dry Powder Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPCR-IM
 
@@ -22,7 +22,7 @@ Measures available committed capital relative to expected near-term deployment n
 ## Formula
 
 ```
-Available Uncalled Capital / Planned Investments
+DPCR-IM = Available Uncalled Capital / Planned Investments
 ```
 
 ## Unit

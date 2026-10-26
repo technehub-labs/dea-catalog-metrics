@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Speed to First Repeat Purchase** (SFRP
 - **Canonical id:** `dea:metric-speed-to-first-repeat-purchase`
 - **Name:** Speed to First Repeat Purchase
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SFRP-S
 
@@ -18,7 +18,7 @@ Speed to First Repeat Purchase (SFRP-S) addresses the engagement or satisfaction
 ## Formula
 
 ```
-Days from First to Second Purchase
+SFRP-S = Days from First to Second Purchase
 ```
 
 ## Unit

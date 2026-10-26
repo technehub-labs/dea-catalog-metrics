@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Training Completion Rate (D
 - **Canonical id:** `dea:metric-compliance-training-completion-rate-deep-dive`
 - **Name:** Compliance Training Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCR-D
 
@@ -18,7 +18,7 @@ Compliance Training Completion Rate (Deep Dive) (CTCR-D) measures conformance to
 ## Formula
 
 ```
-Staff Completing Mandatory Training by Deadline / Staff
+CTCR-D = Staff Completing Mandatory Training by Deadline / Staff
 ```
 
 ## Unit

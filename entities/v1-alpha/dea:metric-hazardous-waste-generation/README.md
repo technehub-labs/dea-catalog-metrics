@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hazardous Waste Generation** (HWG) in 
 - **Canonical id:** `dea:metric-hazardous-waste-generation`
 - **Name:** Hazardous Waste Generation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HWG
 
@@ -22,7 +22,7 @@ The tonnage of waste classified hazardous under applicable regulation that the o
 ## Formula
 
 ```
-Hazardous Waste Produced per Period
+HWG = Hazardous Waste Produced per Period
 ```
 
 ## Unit

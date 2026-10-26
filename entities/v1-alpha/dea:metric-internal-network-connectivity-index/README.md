@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Network Connectivity Index** 
 - **Canonical id:** `dea:metric-internal-network-connectivity-index`
 - **Name:** Internal Network Connectivity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INCI
 
@@ -18,7 +18,7 @@ Internal Network Connectivity Index (INCI) addresses the engagement or satisfact
 ## Formula
 
 ```
-Breadth of Cross-Functional Collaborative Ties per Employee
+INCI = Breadth of Cross-Functional Collaborative Ties per Employee
 ```
 
 ## Unit

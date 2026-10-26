@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environmental Emissions Compliance (Ch
 - **Canonical id:** `dea:metric-environmental-emissions-compliance-chemicals`
 - **Name:** Environmental Emissions Compliance (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EECC
 
@@ -22,7 +22,7 @@ Measures conformance with permitted emission limits - air, water, waste - across
 ## Formula
 
 ```
-Emission Tests within Permits / Tests
+EECC = Emission Tests within Permits / Tests
 ```
 
 ## Unit

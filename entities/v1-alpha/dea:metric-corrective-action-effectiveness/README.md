@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective Action Effectiveness** (CAE
 - **Canonical id:** `dea:metric-corrective-action-effectiveness`
 - **Name:** Corrective Action Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAE
 
@@ -22,7 +22,7 @@ Measures whether corrective actions actually prevented recurrence of the origina
 ## Formula
 
 ```
-Actions Verified Effective / Actions Implemented
+CAE = Actions Verified Effective / Actions Implemented
 ```
 
 ## Unit

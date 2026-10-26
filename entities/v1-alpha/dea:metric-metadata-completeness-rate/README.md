@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metadata Completeness Rate** (MCDR) in
 - **Canonical id:** `dea:metric-metadata-completeness-rate`
 - **Name:** Metadata Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCDR
 
@@ -18,7 +18,7 @@ Within Data Governance & Stewardship, Metadata Completeness Rate (MCDR) is used 
 ## Formula
 
 ```
-Required Metadata Fields Populated / Required Fields
+MCDR = Required Metadata Fields Populated / Required Fields
 ```
 
 ## Unit

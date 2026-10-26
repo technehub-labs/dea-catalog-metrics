@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crop Yield per Hectare (Deep Dive)** (
 - **Canonical id:** `dea:metric-crop-yield-per-hectare-deep-dive`
 - **Name:** Crop Yield per Hectare (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CYH-D
 
@@ -22,7 +22,7 @@ Measures harvested output per land unit, the foundational productivity metric of
 ## Formula
 
 ```
-Harvested Tonnes / Hectares
+CYH-D = Harvested Tonnes / Hectares
 ```
 
 ## Unit

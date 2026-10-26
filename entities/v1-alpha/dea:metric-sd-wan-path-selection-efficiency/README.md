@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SD-WAN Path Selection Efficiency** (SP
 - **Canonical id:** `dea:metric-sd-wan-path-selection-efficiency`
 - **Name:** SD-WAN Path Selection Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPSE
 
@@ -18,7 +18,7 @@ SD-WAN Path Selection Efficiency (SPSE) addresses how efficiently resources are 
 ## Formula
 
 ```
-Optimal Path Selections / Steering Decisions
+SPSE = Optimal Path Selections / Steering Decisions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Web Performance Score** (WPS) in the O
 - **Canonical id:** `dea:metric-web-performance-score`
 - **Name:** Web Performance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPS
 
@@ -22,7 +22,7 @@ Measures composite site speed and rendering quality (such as Core Web Vitals). I
 ## Formula
 
 ```
-Composite Score of Core Web Vitals Measurements
+WPS = Composite Score of Core Web Vitals Measurements
 ```
 
 ## Unit

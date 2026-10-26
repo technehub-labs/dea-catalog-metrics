@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Problem Recurrence Rate** (PRR) in the
 - **Canonical id:** `dea:metric-problem-recurrence-rate`
 - **Name:** Problem Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRR
 
@@ -22,7 +22,7 @@ Measures how often incidents repeat after root-cause resolution. It matters beca
 ## Formula
 
 ```
-Recurring Incidents / Total Incidents
+PRR = Recurring Incidents / Total Incidents
 ```
 
 ## Unit

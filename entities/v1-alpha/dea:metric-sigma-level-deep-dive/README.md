@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Level (Deep Dive)** (SIGDD) in t
 - **Canonical id:** `dea:metric-sigma-level-deep-dive`
 - **Name:** Sigma Level (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIGDD
 
@@ -22,7 +22,7 @@ Measures process performance in defects per million opportunities, expressed in 
 ## Formula
 
 ```
-Defects per Million Opportunities converted to Sigma Scale
+SIGDD = Defects per Million Opportunities converted to Sigma Scale
 ```
 
 ## Unit

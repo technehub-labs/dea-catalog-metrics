@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Share of Wallet (Deep Dive)**
 - **Canonical id:** `dea:metric-customer-share-of-wallet-deep-dive`
 - **Name:** Customer Share of Wallet (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSW-D
 
@@ -22,7 +22,7 @@ Measures the company's share of each customer's total spend in the category. Wal
 ## Formula
 
 ```
-Spend with Company / Total Category Spend
+CSW-D = Spend with Company / Total Category Spend
 ```
 
 ## Unit

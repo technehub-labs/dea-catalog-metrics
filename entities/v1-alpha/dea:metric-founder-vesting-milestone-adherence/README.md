@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Founder Vesting Milestone Adherence** 
 - **Canonical id:** `dea:metric-founder-vesting-milestone-adherence`
 - **Name:** Founder Vesting Milestone Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FVMA
 
@@ -18,7 +18,7 @@ A Startup & Venture-Backed Business indicator, Founder Vesting Milestone Adheren
 ## Formula
 
 ```
-Vesting Milestones Met / Milestones
+FVMA = Vesting Milestones Met / Milestones
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Landfill Diversion Rate** (LDR) in the
 - **Canonical id:** `dea:metric-landfill-diversion-rate`
 - **Name:** Landfill Diversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LDR
 
@@ -22,7 +22,7 @@ Landfill diversion rate measures the share of waste stream tonnage redirected fr
 ## Formula
 
 ```
-Diverted Waste / Total Waste Collected
+LDR = Diverted Waste / Total Waste Collected
 ```
 
 ## Unit

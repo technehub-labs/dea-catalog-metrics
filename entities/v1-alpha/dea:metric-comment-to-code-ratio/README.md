@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Comment-to-Code Ratio** (CCR-CQ) in th
 - **Canonical id:** `dea:metric-comment-to-code-ratio`
 - **Name:** Comment-to-Code Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-CQ
 
@@ -18,7 +18,7 @@ Within Code Quality & Static Analysis, Comment-to-Code Ratio (CCR-CQ) is used to
 ## Formula
 
 ```
-Comment Lines / Code Lines
+CCR-CQ = Comment Lines / Code Lines
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Worker Satisfaction** (GWS) in the
 - **Canonical id:** `dea:metric-gig-worker-satisfaction`
 - **Name:** Gig Worker Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GWS
 
@@ -22,7 +22,7 @@ Measures satisfaction among platform gig workers. It matters because gig satisfa
 ## Formula
 
 ```
-Satisfied Gig Worker Survey Responses / Responses
+GWS = Satisfied Gig Worker Survey Responses / Responses
 ```
 
 ## Unit

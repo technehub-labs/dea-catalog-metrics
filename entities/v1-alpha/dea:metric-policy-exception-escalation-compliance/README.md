@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Exception Escalation Compliance
 - **Canonical id:** `dea:metric-policy-exception-escalation-compliance`
 - **Name:** Policy Exception Escalation Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEEC
 
@@ -18,7 +18,7 @@ Within Compliance Monitoring & Testing, Policy Exception Escalation Compliance (
 ## Formula
 
 ```
-Exceptions Escalated per Framework / Exceptions Meeting Criteria
+PEEC = Exceptions Escalated per Framework / Exceptions Meeting Criteria
 ```
 
 ## Unit

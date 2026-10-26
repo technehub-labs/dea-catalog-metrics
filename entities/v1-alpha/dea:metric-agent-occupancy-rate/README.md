@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Occupancy Rate** (AOR) in the Op
 - **Canonical id:** `dea:metric-agent-occupancy-rate`
 - **Name:** Agent Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AOR
 
@@ -18,7 +18,7 @@ Agent Occupancy Rate (AOR) captures the utilization or availability of capacity 
 ## Formula
 
 ```
-Handle Time / Scheduled Time
+AOR = Handle Time / Scheduled Time
 ```
 
 ## Unit

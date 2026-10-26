@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contribution Margin per Unit** (CMU) i
 - **Canonical id:** `dea:metric-contribution-margin-per-unit`
 - **Name:** Contribution Margin per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMU
 
@@ -22,7 +22,7 @@ Measures the selling price of a single unit minus its variable cost, exposing ho
 ## Formula
 
 ```
-Price per Unit - Variable Cost per Unit
+CMU = Price per Unit - Variable Cost per Unit
 ```
 
 ## Unit

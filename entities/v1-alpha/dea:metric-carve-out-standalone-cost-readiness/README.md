@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carve-Out Standalone Cost Readiness** 
 - **Canonical id:** `dea:metric-carve-out-standalone-cost-readiness`
 - **Name:** Carve-Out Standalone Cost Readiness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSCR
 
@@ -18,7 +18,7 @@ Carve-Out Standalone Cost Readiness (CSCR) addresses capability maturity or deve
 ## Formula
 
 ```
-Readiness Checklist Items Complete / Items
+CSCR = Readiness Checklist Items Complete / Items
 ```
 
 ## Unit

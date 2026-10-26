@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hold Time Percentage** (HTP) in the Op
 - **Canonical id:** `dea:metric-hold-time-percentage`
 - **Name:** Hold Time Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HTP
 
@@ -18,7 +18,7 @@ Hold Time Percentage (HTP) measures the quality of outputs and outcomes in the C
 ## Formula
 
 ```
-Hold Time / Handle Time
+HTP = Hold Time / Handle Time
 ```
 
 ## Unit

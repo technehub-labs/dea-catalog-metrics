@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Readiness Score** (CRS-C) in th
 - **Canonical id:** `dea:metric-change-readiness-score`
 - **Name:** Change Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRS-C
 
@@ -22,7 +22,7 @@ A pre-change diagnostic of the organization's capacity, willingness, and context
 ## Formula
 
 ```
-Weighted Index of Awareness, Sponsorship, and Capacity Items
+CRS-C = Weighted Index of Awareness, Sponsorship, and Capacity Items
 ```
 
 ## Unit

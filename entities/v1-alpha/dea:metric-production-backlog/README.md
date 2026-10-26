@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Backlog** (PBL) in the Open
 - **Canonical id:** `dea:metric-production-backlog`
 - **Name:** Production Backlog
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBL
 
@@ -18,7 +18,7 @@ Production Backlog (PBL) addresses the utilization or availability of capacity a
 ## Formula
 
 ```
-Open Production Orders Awaiting Start
+PBL = Open Production Orders Awaiting Start
 ```
 
 ## Unit

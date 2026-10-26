@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contracted Sell-Through Attainment** (
 - **Canonical id:** `dea:metric-contracted-sell-through-attainment`
 - **Name:** Contracted Sell-Through Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSTA
 
@@ -22,7 +22,7 @@ Measures whether partners meet their committed purchase or sales targets. Commit
 ## Formula
 
 ```
-Partner Sell-Through vs Commitment / Commitment
+CSTA = Partner Sell-Through vs Commitment / Commitment
 ```
 
 ## Unit

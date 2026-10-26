@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Role Clarity Score** (CRCS) in 
 - **Canonical id:** `dea:metric-crisis-role-clarity-score`
 - **Name:** Crisis Role Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCS
 
@@ -18,7 +18,7 @@ Crisis Role Clarity Score (CRCS) measures the engagement or satisfaction of the 
 ## Formula
 
 ```
-Post-Exercise Survey on Role Clarity
+CRCS = Post-Exercise Survey on Role Clarity
 ```
 
 ## Unit

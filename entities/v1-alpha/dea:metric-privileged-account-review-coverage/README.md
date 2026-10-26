@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privileged Account Review Coverage** (
 - **Canonical id:** `dea:metric-privileged-account-review-coverage`
 - **Name:** Privileged Account Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PARC
 
@@ -22,7 +22,7 @@ Measures the share of privileged accounts reviewed within the required period. I
 ## Formula
 
 ```
-Privileged Accounts Reviewed / Privileged Accounts
+PARC = Privileged Accounts Reviewed / Privileged Accounts
 ```
 
 ## Unit

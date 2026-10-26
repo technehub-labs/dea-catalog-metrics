@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chat-Handle Concurrent Capacity Utiliz
 - **Canonical id:** `dea:metric-chat-handle-concurrent-capacity-utilization`
 - **Name:** Chat-Handle Concurrent Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHCCU
 
@@ -18,7 +18,7 @@ Within Contact Center Standard Measures (Deep Dive), Chat-Handle Concurrent Capa
 ## Formula
 
 ```
-Active Concurrent Chats / Agents x Target Concurrency
+CHCCU = Active Concurrent Chats / Agents x Target Concurrency
 ```
 
 ## Unit

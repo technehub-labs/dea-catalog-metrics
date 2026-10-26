@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Ad Spend** (ROAS) in the Ope
 - **Canonical id:** `dea:metric-return-on-ad-spend`
 - **Name:** Return on Ad Spend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROAS
 
@@ -22,7 +22,7 @@ Measures revenue (or margin) generated per unit of advertising spend, by channel
 ## Formula
 
 ```
-Attributed Revenue / Ad Spend
+ROAS = Attributed Revenue / Ad Spend
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Rollback Time** (MRBT) in the Op
 - **Canonical id:** `dea:metric-model-rollback-time`
 - **Name:** Model Rollback Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRBT
 
@@ -18,7 +18,7 @@ Model Rollback Time (MRBT) captures how efficiently resources are converted into
 ## Formula
 
 ```
-Minutes to Roll Back to Prior Model Version
+MRBT = Minutes to Roll Back to Prior Model Version
 ```
 
 ## Unit

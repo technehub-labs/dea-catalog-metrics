@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cath Lab / Procedure Room Turnover Tim
 - **Canonical id:** `dea:metric-cath-lab-procedure-room-turnover-time`
 - **Name:** Cath Lab / Procedure Room Turnover Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLRT
 
@@ -18,7 +18,7 @@ A Medical Practice & Clinical Operations indicator, Cath Lab / Procedure Room Tu
 ## Formula
 
 ```
-Minutes between Procedures
+CLRT = Minutes between Procedures
 ```
 
 ## Unit

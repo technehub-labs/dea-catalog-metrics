@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Margin Compliance** (CMC-CD) i
 - **Canonical id:** `dea:metric-channel-margin-compliance`
 - **Name:** Channel Margin Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMC-CD
 
@@ -18,7 +18,7 @@ Channel Margin Compliance (CMC-CD) captures conformance to standards, plans, or 
 ## Formula
 
 ```
-Sales within Approved Channel Margin Framework / Sales Sampled
+CMC-CD = Sales within Approved Channel Margin Framework / Sales Sampled
 ```
 
 ## Unit

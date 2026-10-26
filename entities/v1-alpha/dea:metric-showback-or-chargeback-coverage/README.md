@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Showback or Chargeback Coverage** (SBC
 - **Canonical id:** `dea:metric-showback-or-chargeback-coverage`
 - **Name:** Showback or Chargeback Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBC-ITFM
 
@@ -22,7 +22,7 @@ Measures the share of technology cost made visible to, or billed to, consuming b
 ## Formula
 
 ```
-Business Units Receiving Cost Visibility / Units
+SBC-ITFM = Business Units Receiving Cost Visibility / Units
 ```
 
 ## Unit

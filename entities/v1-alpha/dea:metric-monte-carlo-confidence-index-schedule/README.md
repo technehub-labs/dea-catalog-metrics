@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monte Carlo Confidence Index (Schedule
 - **Canonical id:** `dea:metric-monte-carlo-confidence-index-schedule`
 - **Name:** Monte Carlo Confidence Index (Schedule)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCCIS
 
@@ -18,7 +18,7 @@ Monte Carlo Confidence Index (Schedule) (MCCIS) captures exposure to adverse out
 ## Formula
 
 ```
-Probability of Achieving Committed Date per Simulation
+MCCIS = Probability of Achieving Committed Date per Simulation
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unrealized Risk Ratio** (URR-P) in the
 - **Canonical id:** `dea:metric-unrealized-risk-ratio`
 - **Name:** Unrealized Risk Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** URR-P
 
@@ -18,7 +18,7 @@ Unrealized Risk Ratio (URR-P) measures the quality of outputs and outcomes in th
 ## Formula
 
 ```
-Risks That Materialized but Were Not on Register / Materialized Risks
+URR-P = Risks That Materialized but Were Not on Register / Materialized Risks
 ```
 
 ## Unit

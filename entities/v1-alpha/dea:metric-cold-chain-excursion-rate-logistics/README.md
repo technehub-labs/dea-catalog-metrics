@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Excursion Rate (Logistics)*
 - **Canonical id:** `dea:metric-cold-chain-excursion-rate-logistics`
 - **Name:** Cold Chain Excursion Rate (Logistics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCER
 
@@ -18,7 +18,7 @@ Cold Chain Excursion Rate (Logistics) (CCER) addresses exposure to adverse outco
 ## Formula
 
 ```
-Shipments with Temperature Excursion / Monitored Shipments
+CCER = Shipments with Temperature Excursion / Monitored Shipments
 ```
 
 ## Unit

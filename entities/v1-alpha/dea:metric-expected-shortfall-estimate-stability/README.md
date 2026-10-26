@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expected Shortfall Estimate Stability*
 - **Canonical id:** `dea:metric-expected-shortfall-estimate-stability`
 - **Name:** Expected Shortfall Estimate Stability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESES
 
@@ -22,7 +22,7 @@ Measures how stable the expected-shortfall (tail loss) estimates are across esti
 ## Formula
 
 ```
-Period Change in ES Estimate at 97.5% / Prior ES
+ESES = Period Change in ES Estimate at 97.5% / Prior ES
 ```
 
 ## Unit

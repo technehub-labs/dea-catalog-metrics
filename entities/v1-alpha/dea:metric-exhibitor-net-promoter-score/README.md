@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exhibitor Net Promoter Score** (XNPS) 
 - **Canonical id:** `dea:metric-exhibitor-net-promoter-score`
 - **Name:** Exhibitor Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** XNPS
 
@@ -22,7 +22,7 @@ Measures exhibitor satisfaction and likelihood to rebook-recommend. It is the le
 ## Formula
 
 ```
-Exhibitor NPS Survey Result
+XNPS = Exhibitor NPS Survey Result
 ```
 
 ## Unit

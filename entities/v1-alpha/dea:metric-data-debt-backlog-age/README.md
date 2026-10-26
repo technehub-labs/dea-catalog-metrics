@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Debt Backlog Age** (DDBA) in the 
 - **Canonical id:** `dea:metric-data-debt-backlog-age`
 - **Name:** Data Debt Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDBA
 
@@ -18,7 +18,7 @@ Data Debt Backlog Age (DDBA) captures how efficiently resources are converted in
 ## Formula
 
 ```
-Average Age of Open Data Governance Backlog Items
+DDBA = Average Age of Open Data Governance Backlog Items
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Stress Coverage (Emerging)** 
 - **Canonical id:** `dea:metric-scenario-stress-coverage-emerging`
 - **Name:** Scenario Stress Coverage (Emerging)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSCE
 
@@ -22,7 +22,7 @@ Measures how thoroughly emerging risks are stress-tested against plausible scena
 ## Formula
 
 ```
-Emerging Risks with Quantified Scenarios / Material Emerging Risks
+SSCE = Emerging Risks with Quantified Scenarios / Material Emerging Risks
 ```
 
 ## Unit

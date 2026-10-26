@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Lease Term Remaining** (ALTR) 
 - **Canonical id:** `dea:metric-average-lease-term-remaining`
 - **Name:** Average Lease Term Remaining
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALTR
 
@@ -22,7 +22,7 @@ Measures weighted average lease expiry across the portfolio. It is the stability
 ## Formula
 
 ```
-Weighted Years Unexpired across Leases
+ALTR = Weighted Years Unexpired across Leases
 ```
 
 ## Unit

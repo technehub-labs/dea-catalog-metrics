@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Initiative Alignment Score**
 - **Canonical id:** `dea:metric-strategic-initiative-alignment-score`
 - **Name:** Strategic Initiative Alignment Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIAS
 
@@ -22,7 +22,7 @@ Measures how well initiatives map to declared strategic priorities. Misaligned s
 ## Formula
 
 ```
-Weighted Alignment of Portfolio to Strategy Objectives
+SIAS = Weighted Alignment of Portfolio to Strategy Objectives
 ```
 
 ## Unit

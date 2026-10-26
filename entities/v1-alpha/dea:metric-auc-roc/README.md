@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AUC-ROC** (AUCROC) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-auc-roc`
 - **Name:** AUC-ROC
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUCROC
 
@@ -18,7 +18,7 @@ Within Statistical Model Performance Diagnostics, AUC-ROC (AUCROC) is used to ga
 ## Formula
 
 ```
-Area under Receiver Operating Characteristic Curve
+AUCROC = Area under Receiver Operating Characteristic Curve
 ```
 
 ## Unit

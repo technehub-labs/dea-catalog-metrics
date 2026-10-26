@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Event Reporting Timeliness (De
 - **Canonical id:** `dea:metric-adverse-event-reporting-timeliness-deep-dive`
 - **Name:** Adverse Event Reporting Timeliness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AERT
 
@@ -22,7 +22,7 @@ Measures whether adverse events meet pharmacovigilance reporting deadlines. Time
 ## Formula
 
 ```
-AE Reports Filed within Regulatory Window / Reports
+AERT = AE Reports Filed within Regulatory Window / Reports
 ```
 
 ## Unit

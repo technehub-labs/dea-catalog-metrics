@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interaction to Next Paint (P75)** (INP
 - **Canonical id:** `dea:metric-interaction-to-next-paint-p75`
 - **Name:** Interaction to Next Paint (P75)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INP75
 
@@ -18,7 +18,7 @@ Interaction to Next Paint (P75) (INP75) addresses the quality of outputs and out
 ## Formula
 
 ```
-75th Percentile Interaction Latency
+INP75 = 75th Percentile Interaction Latency
 ```
 
 ## Unit

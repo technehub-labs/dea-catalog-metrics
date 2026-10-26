@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Euthanasia to Death Ratio** (EDR) in t
 - **Canonical id:** `dea:metric-euthanasia-to-death-ratio`
 - **Name:** Euthanasia to Death Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDR
 
@@ -18,7 +18,7 @@ Euthanasia to Death Ratio (EDR) measures exposure to adverse outcomes in the Vet
 ## Formula
 
 ```
-Planned Euthanasia / Total Deaths Recorded
+EDR = Planned Euthanasia / Total Deaths Recorded
 ```
 
 ## Unit

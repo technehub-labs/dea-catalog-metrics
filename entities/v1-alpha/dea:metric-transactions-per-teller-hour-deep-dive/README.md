@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transactions per Teller Hour (Deep Div
 - **Canonical id:** `dea:metric-transactions-per-teller-hour-deep-dive`
 - **Name:** Transactions per Teller Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPTH-D
 
@@ -18,7 +18,7 @@ Transactions per Teller Hour (Deep Dive) (TPTH-D) measures how efficiently resou
 ## Formula
 
 ```
-Teller Transactions / Teller Hours
+TPTH-D = Teller Transactions / Teller Hours
 ```
 
 ## Unit

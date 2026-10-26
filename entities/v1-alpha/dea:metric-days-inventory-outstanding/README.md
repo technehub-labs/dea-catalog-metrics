@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Inventory Outstanding** (DIO) in 
 - **Canonical id:** `dea:metric-days-inventory-outstanding`
 - **Name:** Days Inventory Outstanding
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIO
 
@@ -22,7 +22,7 @@ Measures the average number of days inventory sits before being sold. It matters
 ## Formula
 
 ```
-(Inventory / Cost of Goods Sold) x 365
+DIO = (Inventory / Cost of Goods Sold) x 365
 ```
 
 ## Unit

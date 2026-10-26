@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unplanned Unit Downtime (Refining)** (
 - **Canonical id:** `dea:metric-unplanned-unit-downtime-refining`
 - **Name:** Unplanned Unit Downtime (Refining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UUDR
 
@@ -22,7 +22,7 @@ Measures unplanned outages of process units. In refining, unplanned downtime con
 ## Formula
 
 ```
-Unplanned Downtime / Operating Period
+UUDR = Unplanned Downtime / Operating Period
 ```
 
 ## Unit

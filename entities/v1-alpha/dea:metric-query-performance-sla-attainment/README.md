@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Query Performance SLA Attainment** (QP
 - **Canonical id:** `dea:metric-query-performance-sla-attainment`
 - **Name:** Query Performance SLA Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QPSLAA
 
@@ -18,7 +18,7 @@ Query Performance SLA Attainment (QPSLAA) captures the quality of outputs and ou
 ## Formula
 
 ```
-Dashboards Meeting Query Latency SLA / Dashboards
+QPSLAA = Dashboards Meeting Query Latency SLA / Dashboards
 ```
 
 ## Unit

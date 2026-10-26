@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reference Master Governance Coverage**
 - **Canonical id:** `dea:metric-reference-master-governance-coverage`
 - **Name:** Reference Master Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMGC
 
@@ -18,7 +18,7 @@ Reference Master Governance Coverage (RMGC) captures conformance to standards, p
 ## Formula
 
 ```
-Code Sets Governed Centrally / Code Sets in Use
+RMGC = Code Sets Governed Centrally / Code Sets in Use
 ```
 
 ## Unit

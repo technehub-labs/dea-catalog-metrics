@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Semantic Layer Coverage** (SLC-DS) in 
 - **Canonical id:** `dea:metric-semantic-layer-coverage`
 - **Name:** Semantic Layer Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLC-DS
 
@@ -22,7 +22,7 @@ Measures the share of key business metrics and dimensions defined once in a gove
 ## Formula
 
 ```
-Metrics Defined in Semantic Layer / Total Governed Metrics
+SLC-DS = Metrics Defined in Semantic Layer / Total Governed Metrics
 ```
 
 ## Unit

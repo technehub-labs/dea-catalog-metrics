@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Territory Penetration Rate** (TPR) in 
 - **Canonical id:** `dea:metric-territory-penetration-rate`
 - **Name:** Territory Penetration Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPR
 
@@ -22,7 +22,7 @@ Territory penetration rate measures market share of the addressable opportunity 
 ## Formula
 
 ```
-Active Franchised Territories / Addressable Territories
+TPR = Active Franchised Territories / Addressable Territories
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Contact per Claim** (CPCl) in
 - **Canonical id:** `dea:metric-customer-contact-per-claim`
 - **Name:** Customer Contact per Claim
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCl
 
@@ -18,7 +18,7 @@ A Claims Operations (Insurance) indicator, Customer Contact per Claim (CPCl) qua
 ## Formula
 
 ```
-Customer Contacts per Claim Lifetime
+CPCl = Customer Contacts per Claim Lifetime
 ```
 
 ## Unit

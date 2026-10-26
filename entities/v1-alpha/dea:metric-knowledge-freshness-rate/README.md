@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Freshness Rate** (KFR) in th
 - **Canonical id:** `dea:metric-knowledge-freshness-rate`
 - **Name:** Knowledge Freshness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KFR
 
@@ -18,7 +18,7 @@ A Knowledge Management indicator, Knowledge Freshness Rate (KFR) quantifies the 
 ## Formula
 
 ```
-Articles within Review Cycle / Total Articles
+KFR = Articles within Review Cycle / Total Articles
 ```
 
 ## Unit

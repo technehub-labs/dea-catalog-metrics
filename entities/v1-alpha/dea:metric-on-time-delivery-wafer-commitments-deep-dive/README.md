@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery - Wafer Commitments (
 - **Canonical id:** `dea:metric-on-time-delivery-wafer-commitments-deep-dive`
 - **Name:** On-Time Delivery - Wafer Commitments (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTD-D
 
@@ -22,7 +22,7 @@ Measures delivery of wafer lots against committed dates to internal and external
 ## Formula
 
 ```
-Lots Delivered to Commit Date / Lots
+OTD-D = Lots Delivered to Commit Date / Lots
 ```
 
 ## Unit

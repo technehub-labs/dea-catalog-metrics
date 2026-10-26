@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recruiter Productivity** (RPR-S) in th
 - **Canonical id:** `dea:metric-recruiter-productivity`
 - **Name:** Recruiter Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPR-S
 
@@ -22,7 +22,7 @@ Measures placements or revenue per recruiter. It matters because it benchmarks t
 ## Formula
 
 ```
-Placements per Recruiter per Period
+RPR-S = Placements per Recruiter per Period
 ```
 
 ## Unit

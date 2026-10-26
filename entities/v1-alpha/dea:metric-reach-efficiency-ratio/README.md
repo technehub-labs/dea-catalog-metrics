@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reach Efficiency Ratio** (RER) in the 
 - **Canonical id:** `dea:metric-reach-efficiency-ratio`
 - **Name:** Reach Efficiency Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RER
 
@@ -18,7 +18,7 @@ A Advertising & Media Buying indicator, Reach Efficiency Ratio (RER) quantifies 
 ## Formula
 
 ```
-Unique Audience Reached / Gross Impressions
+RER = Unique Audience Reached / Gross Impressions
 ```
 
 ## Unit

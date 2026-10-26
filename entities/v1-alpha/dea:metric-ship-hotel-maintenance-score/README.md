@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ship Hotel Maintenance Score** (SHMS) 
 - **Canonical id:** `dea:metric-ship-hotel-maintenance-score`
 - **Name:** Ship Hotel Maintenance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHMS
 
@@ -18,7 +18,7 @@ Ship Hotel Maintenance Score (SHMS) measures the quality of outputs and outcomes
 ## Formula
 
 ```
-Interior Condition Audit Score
+SHMS = Interior Condition Audit Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Policy Issuance Rate** (DPIR) 
 - **Canonical id:** `dea:metric-digital-policy-issuance-rate`
 - **Name:** Digital Policy Issuance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPIR
 
@@ -22,7 +22,7 @@ Measures the share of policies issued end-to-end digitally without manual touch.
 ## Formula
 
 ```
-Policies Issued Digitally / Policies Issued
+DPIR = Policies Issued Digitally / Policies Issued
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beneficiary Reach** (BFR) in the OpenD
 - **Canonical id:** `dea:metric-beneficiary-reach`
 - **Name:** Beneficiary Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFR
 
@@ -22,7 +22,7 @@ Beneficiary reach measures the number of people served by programs, and it is th
 ## Formula
 
 ```
-Individuals Served per Period
+BFR = Individuals Served per Period
 ```
 
 ## Unit

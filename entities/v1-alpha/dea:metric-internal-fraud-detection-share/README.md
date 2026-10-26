@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Fraud Detection Share** (IFDS
 - **Canonical id:** `dea:metric-internal-fraud-detection-share`
 - **Name:** Internal Fraud Detection Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFDS
 
@@ -22,7 +22,7 @@ Measures how much detected fraud originates internally (employees, collusion). I
 ## Formula
 
 ```
-Frauds Detected via Internal Controls / All Detected Frauds
+IFDS = Frauds Detected via Internal Controls / All Detected Frauds
 ```
 
 ## Unit

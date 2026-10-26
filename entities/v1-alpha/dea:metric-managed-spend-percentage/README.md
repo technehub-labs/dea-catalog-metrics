@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Managed Spend Percentage** (MSP) in th
 - **Canonical id:** `dea:metric-managed-spend-percentage`
 - **Name:** Managed Spend Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSP
 
@@ -22,7 +22,7 @@ The proportion of addressable spend governed by procurement agreements and chann
 ## Formula
 
 ```
-Spend via Managed Contracts / Total Spend
+MSP = Spend via Managed Contracts / Total Spend
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Fatigue Attrition Contribution*
 - **Canonical id:** `dea:metric-change-fatigue-attrition-contribution`
 - **Name:** Change Fatigue Attrition Contribution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFAC
 
@@ -22,7 +22,7 @@ Estimates the share of attrition attributable to cumulative change load - too ma
 ## Formula
 
 ```
-Voluntary Exits Citing Change Overload / Voluntary Exits
+CFAC = Voluntary Exits Citing Change Overload / Voluntary Exits
 ```
 
 ## Unit

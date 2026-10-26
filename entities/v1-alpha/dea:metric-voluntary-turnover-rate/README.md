@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voluntary Turnover Rate** (VTR) in the
 - **Canonical id:** `dea:metric-voluntary-turnover-rate`
 - **Name:** Voluntary Turnover Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VTR
 
@@ -22,7 +22,7 @@ Employees who chose to leave, as a share of headcount - the component of turnove
 ## Formula
 
 ```
-Voluntary Departures / Average Headcount
+VTR = Voluntary Departures / Average Headcount
 ```
 
 ## Unit

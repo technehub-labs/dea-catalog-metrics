@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search-to-Solution Conversion** (S2SC)
 - **Canonical id:** `dea:metric-search-to-solution-conversion`
 - **Name:** Search-to-Solution Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** S2SC
 
@@ -18,7 +18,7 @@ Within Knowledge Management, Search-to-Solution Conversion (S2SC) is used to gau
 ## Formula
 
 ```
-Searches Ending in Solution Use / Searches
+S2SC = Searches Ending in Solution Use / Searches
 ```
 
 ## Unit

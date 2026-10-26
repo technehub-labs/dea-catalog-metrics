@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preferred Supplier Clause Use Rate** (
 - **Canonical id:** `dea:metric-preferred-supplier-clause-use-rate`
 - **Name:** Preferred Supplier Clause Use Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSCUR
 
@@ -18,7 +18,7 @@ A Contract Lifecycle Management indicator, Preferred Supplier Clause Use Rate (P
 ## Formula
 
 ```
-Negotiations Starting from Preferred Positions / Negotiations
+PSCUR = Negotiations Starting from Preferred Positions / Negotiations
 ```
 
 ## Unit

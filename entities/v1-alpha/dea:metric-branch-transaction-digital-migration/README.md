@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Transaction Digital Migration**
 - **Canonical id:** `dea:metric-branch-transaction-digital-migration`
 - **Name:** Branch Transaction Digital Migration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTDM
 
@@ -22,7 +22,7 @@ Branch transaction digital migration measures the share of routine transactions 
 ## Formula
 
 ```
-Digitally Originated Transactions / Total Transactions
+BTDM = Digitally Originated Transactions / Total Transactions
 ```
 
 ## Unit

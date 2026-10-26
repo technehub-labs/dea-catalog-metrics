@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rights Cost per Viewing Hour** (RCPH) 
 - **Canonical id:** `dea:metric-rights-cost-per-viewing-hour`
 - **Name:** Rights Cost per Viewing Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCPH
 
@@ -22,7 +22,7 @@ Measures content licensing cost per hour viewed. It matters because it is the fu
 ## Formula
 
 ```
-Content Rights Cost / Total Viewing Hours
+RCPH = Content Rights Cost / Total Viewing Hours
 ```
 
 ## Unit

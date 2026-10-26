@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Comfort Compliance** (TCC-E) i
 - **Canonical id:** `dea:metric-thermal-comfort-compliance`
 - **Name:** Thermal Comfort Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCC-E
 
@@ -18,7 +18,7 @@ Thermal Comfort Compliance (TCC-E) measures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Working Hours within Comfort Band / Total Working Hours
+TCC-E = Working Hours within Comfort Band / Total Working Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Intelligence Integration Covera
 - **Canonical id:** `dea:metric-threat-intelligence-integration-coverage`
 - **Name:** Threat Intelligence Integration Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TIIC
 
@@ -22,7 +22,7 @@ Measures the share of detection and prevention tooling consuming relevant threat
 ## Formula
 
 ```
-Detection Sources Enriched with TI / Detection Sources
+TIIC = Detection Sources Enriched with TI / Detection Sources
 ```
 
 ## Unit

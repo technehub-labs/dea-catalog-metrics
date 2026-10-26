@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (Product)** (NPS-P)
 - **Canonical id:** `dea:metric-net-promoter-score-product`
 - **Name:** Net Promoter Score (Product)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPS-P
 
@@ -22,7 +22,7 @@ The recommend-intent metric applied to the product experience - promoters minus 
 ## Formula
 
 ```
-% Promoters - % Detractors among Product Users
+NPS-P = % Promoters - % Detractors among Product Users
 ```
 
 ## Unit

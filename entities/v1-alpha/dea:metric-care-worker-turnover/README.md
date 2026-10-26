@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Worker Turnover** (CWT) in the Op
 - **Canonical id:** `dea:metric-care-worker-turnover`
 - **Name:** Care Worker Turnover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CWT
 
@@ -22,7 +22,7 @@ Care worker turnover measures the annualized separation rate of direct-care staf
 ## Formula
 
 ```
-Care Worker Departures / Average Care Workforce
+CWT = Care Worker Departures / Average Care Workforce
 ```
 
 ## Unit

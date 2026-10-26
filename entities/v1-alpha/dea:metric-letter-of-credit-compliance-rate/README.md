@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Letter of Credit Compliance Rate** (LC
 - **Canonical id:** `dea:metric-letter-of-credit-compliance-rate`
 - **Name:** Letter of Credit Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCCR
 
@@ -18,7 +18,7 @@ Within International Trade & Customs, Letter of Credit Compliance Rate (LCCR) is
 ## Formula
 
 ```
-Presentations without Discrepancies / Presentations
+LCCR = Presentations without Discrepancies / Presentations
 ```
 
 ## Unit

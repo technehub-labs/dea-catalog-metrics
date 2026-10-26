@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Outcome Attainment Rate** (LO
 - **Canonical id:** `dea:metric-learning-outcome-attainment-rate`
 - **Name:** Learning Outcome Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOATR
 
@@ -22,7 +22,7 @@ Measures the share of students meeting defined learning outcomes. Outcomes are t
 ## Formula
 
 ```
-Students Meeting Course Learning Outcomes / Enrolled Students
+LOATR = Students Meeting Course Learning Outcomes / Enrolled Students
 ```
 
 ## Unit

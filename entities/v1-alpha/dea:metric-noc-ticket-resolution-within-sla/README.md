@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Ticket Resolution within SLA** (NC
 - **Canonical id:** `dea:metric-noc-ticket-resolution-within-sla`
 - **Name:** NOC Ticket Resolution within SLA
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCTRS
 
@@ -22,7 +22,7 @@ Measures the share of network tickets resolved within committed time windows. SL
 ## Formula
 
 ```
-Tickets Resolved within SLA / Tickets
+NCTRS = Tickets Resolved within SLA / Tickets
 ```
 
 ## Unit

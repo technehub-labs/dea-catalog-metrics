@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Invested Capital (Deep Dive)
 - **Canonical id:** `dea:metric-return-on-invested-capital-deep-dive`
 - **Name:** Return on Invested Capital (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROICDD
 
@@ -22,7 +22,7 @@ Measures return on the capital actively deployed in operations. ROIC is the qual
 ## Formula
 
 ```
-NOPAT / Invested Capital
+ROICDD = NOPAT / Invested Capital
 ```
 
 ## Unit

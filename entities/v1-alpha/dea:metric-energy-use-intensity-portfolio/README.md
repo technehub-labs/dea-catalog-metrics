@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Use Intensity (Portfolio)** (EU
 - **Canonical id:** `dea:metric-energy-use-intensity-portfolio`
 - **Name:** Energy Use Intensity (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EUI-P
 
@@ -18,7 +18,7 @@ Energy Use Intensity (Portfolio) (EUI-P) captures environmental and social susta
 ## Formula
 
 ```
-Building Energy / Gross Floor Area
+EUI-P = Building Energy / Gross Floor Area
 ```
 
 ## Unit

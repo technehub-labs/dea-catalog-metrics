@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Lift (Top Decile)** (LIFTD) in t
 - **Canonical id:** `dea:metric-model-lift-top-decile`
 - **Name:** Model Lift (Top Decile)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LIFTD
 
@@ -18,7 +18,7 @@ Model Lift (Top Decile) (LIFTD) captures the economic value created or preserved
 ## Formula
 
 ```
-Response Rate in Top Decile / Overall Response Rate
+LIFTD = Response Rate in Top Decile / Overall Response Rate
 ```
 
 ## Unit

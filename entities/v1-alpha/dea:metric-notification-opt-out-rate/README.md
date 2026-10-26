@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Notification Opt-Out Rate** (NOOR) in 
 - **Canonical id:** `dea:metric-notification-opt-out-rate`
 - **Name:** Notification Opt-Out Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOOR
 
@@ -18,7 +18,7 @@ A Web & Digital Analytics Standard Measures indicator, Notification Opt-Out Rate
 ## Formula
 
 ```
-Users Disabling Notifications / Notified Users
+NOOR = Users Disabling Notifications / Notified Users
 ```
 
 ## Unit

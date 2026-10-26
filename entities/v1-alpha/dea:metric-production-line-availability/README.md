@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Line Availability** (PLA) i
 - **Canonical id:** `dea:metric-production-line-availability`
 - **Name:** Production Line Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLA
 
@@ -18,7 +18,7 @@ Production Line Availability (PLA) addresses the utilization or availability of 
 ## Formula
 
 ```
-Line Uptime / Scheduled Line Time
+PLA = Line Uptime / Scheduled Line Time
 ```
 
 ## Unit

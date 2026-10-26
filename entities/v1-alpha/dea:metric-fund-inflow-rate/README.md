@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fund Inflow Rate** (FIR) in the OpenDE
 - **Canonical id:** `dea:metric-fund-inflow-rate`
 - **Name:** Fund Inflow Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FIR
 
@@ -22,7 +22,7 @@ Fund inflow rate measures net new capital entering a fund as a share of beginnin
 ## Formula
 
 ```
-Net New Investor Flows / Assets under Management
+FIR = Net New Investor Flows / Assets under Management
 ```
 
 ## Unit

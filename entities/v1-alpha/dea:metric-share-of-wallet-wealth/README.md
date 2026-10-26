@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Wallet (Wealth)** (SOW-W) in 
 - **Canonical id:** `dea:metric-share-of-wallet-wealth`
 - **Name:** Share of Wallet (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOW-W
 
@@ -22,7 +22,7 @@ Share of wallet measures the proportion of a client's total investable assets he
 ## Formula
 
 ```
-Assets Held with Firm / Client Estimated Total Assets
+SOW-W = Assets Held with Firm / Client Estimated Total Assets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remaining Useful Life Prediction Accur
 - **Canonical id:** `dea:metric-remaining-useful-life-prediction-accuracy`
 - **Name:** Remaining Useful Life Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RULPA
 
@@ -22,7 +22,7 @@ Measures how closely predicted asset life matches realized failure or replacemen
 ## Formula
 
 ```
-Predicted RUL within Tolerance of Actual / Predictions
+RULPA = Predicted RUL within Tolerance of Actual / Predictions
 ```
 
 ## Unit

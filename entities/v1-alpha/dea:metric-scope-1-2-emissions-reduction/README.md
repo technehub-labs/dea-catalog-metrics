@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope 1+2 Emissions Reduction** (S12R)
 - **Canonical id:** `dea:metric-scope-1-2-emissions-reduction`
 - **Name:** Scope 1+2 Emissions Reduction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** S12R
 
@@ -22,7 +22,7 @@ The percentage reduction in combined direct and purchased-energy emissions again
 ## Formula
 
 ```
-(Base-Year Emissions - Current Emissions) / Base-Year Emissions
+S12R = (Base-Year Emissions - Current Emissions) / Base-Year Emissions
 ```
 
 ## Unit

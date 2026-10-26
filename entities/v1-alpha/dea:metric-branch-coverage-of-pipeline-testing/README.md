@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Coverage of Pipeline Testing** 
 - **Canonical id:** `dea:metric-branch-coverage-of-pipeline-testing`
 - **Name:** Branch Coverage of Pipeline Testing
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCPT
 
@@ -18,7 +18,7 @@ Branch Coverage of Pipeline Testing (BCPT) measures conformance to standards, pl
 ## Formula
 
 ```
-Branches with Automated Verification before Merge / Branches
+BCPT = Branches with Automated Verification before Merge / Branches
 ```
 
 ## Unit

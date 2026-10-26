@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Debt Ratio** (TDR) in the Op
 - **Canonical id:** `dea:metric-technical-debt-ratio`
 - **Name:** Technical Debt Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDR
 
@@ -22,7 +22,7 @@ The estimated remediation cost of code-level shortcuts against the cost of devel
 ## Formula
 
 ```
-Remediation Cost / Development Cost to Rebuild
+TDR = Remediation Cost / Development Cost to Rebuild
 ```
 
 ## Unit

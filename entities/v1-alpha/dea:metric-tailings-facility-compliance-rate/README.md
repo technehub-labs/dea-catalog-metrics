@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tailings Facility Compliance Rate** (T
 - **Canonical id:** `dea:metric-tailings-facility-compliance-rate`
 - **Name:** Tailings Facility Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TFC
 
@@ -22,7 +22,7 @@ Tailings facility compliance measures adherence to engineered, inspection, and m
 ## Formula
 
 ```
-Tailings Facilities Meeting Stability Requirements / Facilities
+TFC = Tailings Facilities Meeting Stability Requirements / Facilities
 ```
 
 ## Unit

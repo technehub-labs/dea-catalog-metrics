@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lessons Learned Capture Rate** (LLCR) 
 - **Canonical id:** `dea:metric-lessons-learned-capture-rate`
 - **Name:** Lessons Learned Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLCR
 
@@ -22,7 +22,7 @@ Measures the share of projects that formally capture and share lessons learned. 
 ## Formula
 
 ```
-Projects Recording Lessons Learned / Projects Closed
+LLCR = Projects Recording Lessons Learned / Projects Closed
 ```
 
 ## Unit

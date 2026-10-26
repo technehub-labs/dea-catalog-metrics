@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Matter Cost Variance** (LMCV) in
 - **Canonical id:** `dea:metric-legal-matter-cost-variance`
 - **Name:** Legal Matter Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LMCV
 
@@ -18,7 +18,7 @@ Within Legal Operations, Legal Matter Cost Variance (LMCV) is used to gauge how 
 ## Formula
 
 ```
-Actual Matter Cost - Budgeted Cost / Budget
+LMCV = Actual Matter Cost - Budgeted Cost / Budget
 ```
 
 ## Unit

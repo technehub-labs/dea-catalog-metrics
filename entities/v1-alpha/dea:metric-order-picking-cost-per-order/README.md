@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Picking Cost per Order** (OPC) i
 - **Canonical id:** `dea:metric-order-picking-cost-per-order`
 - **Name:** Order Picking Cost per Order
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPC
 
@@ -18,7 +18,7 @@ Within Retail & E-commerce, Order Picking Cost per Order (OPC) is used to gauge 
 ## Formula
 
 ```
-Total Picking Cost / Orders
+OPC = Total Picking Cost / Orders
 ```
 
 ## Unit

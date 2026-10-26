@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Makeready Time** (MKT) in the OpenDEAM
 - **Canonical id:** `dea:metric-makeready-time`
 - **Name:** Makeready Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MKT
 
@@ -18,7 +18,7 @@ Within Printing & Publishing, Makeready Time (MKT) is used to gauge how efficien
 ## Formula
 
 ```
-Minutes to Set Up Job to Approved Standard
+MKT = Minutes to Set Up Job to Approved Standard
 ```
 
 ## Unit

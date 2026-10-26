@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Center Wait Time (Public)** (S
 - **Canonical id:** `dea:metric-service-center-wait-time-public`
 - **Name:** Service Center Wait Time (Public)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCWTP
 
@@ -18,7 +18,7 @@ Service Center Wait Time (Public) (SCWTP) measures the quality of outputs and ou
 ## Formula
 
 ```
-Median Wait at Citizen Service Points
+SCWTP = Median Wait at Citizen Service Points
 ```
 
 ## Unit

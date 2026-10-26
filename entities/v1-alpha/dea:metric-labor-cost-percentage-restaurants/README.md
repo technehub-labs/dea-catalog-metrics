@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Percentage (Restaurants)** 
 - **Canonical id:** `dea:metric-labor-cost-percentage-restaurants`
 - **Name:** Labor Cost Percentage (Restaurants)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCPR
 
@@ -22,7 +22,7 @@ Labor cost percentage measures labor spend against revenue, and it is one of the
 ## Formula
 
 ```
-Labor Cost / Food and Beverage Revenue
+LCPR = Labor Cost / Food and Beverage Revenue
 ```
 
 ## Unit

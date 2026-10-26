@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Response Effectiveness** (RRE) in
 - **Canonical id:** `dea:metric-risk-response-effectiveness`
 - **Name:** Risk Response Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRE
 
@@ -18,7 +18,7 @@ Risk Response Effectiveness (RRE) addresses exposure to adverse outcomes and is 
 ## Formula
 
 ```
-Risks Mitigated before Impact / Responded Risks
+RRE = Risks Mitigated before Impact / Responded Risks
 ```
 
 ## Unit

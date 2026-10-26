@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Creative Fatigue Onset Rate** (CFOR) i
 - **Canonical id:** `dea:metric-creative-fatigue-onset-rate`
 - **Name:** Creative Fatigue Onset Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFOR
 
@@ -18,7 +18,7 @@ Within Marketing & Advertising Standard Measures (Deep Dive), Creative Fatigue O
 ## Formula
 
 ```
-Creatives Depreciating below Threshold before Refresh / Creatives
+CFOR = Creatives Depreciating below Threshold before Refresh / Creatives
 ```
 
 ## Unit

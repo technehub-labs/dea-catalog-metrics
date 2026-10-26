@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rate Adequacy Index (Underwriting)** (
 - **Canonical id:** `dea:metric-rate-adequacy-index-underwriting`
 - **Name:** Rate Adequacy Index (Underwriting)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAIU
 
@@ -22,7 +22,7 @@ Compares actual rates charged against technically indicated rates for the risks 
 ## Formula
 
 ```
-Adequately Priced Renewals / Renewals
+RAIU = Adequately Priced Renewals / Renewals
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accounts Payable Turnover** (APT) in t
 - **Canonical id:** `dea:metric-accounts-payable-turnover`
 - **Name:** Accounts Payable Turnover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APT
 
@@ -18,7 +18,7 @@ Accounts Payable Turnover (APT) addresses how efficiently resources are converte
 ## Formula
 
 ```
-Total Supply Purchases / Average Accounts Payable
+APT = Total Supply Purchases / Average Accounts Payable
 ```
 
 ## Unit

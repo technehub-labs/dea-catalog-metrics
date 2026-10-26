@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuous Feedback Adoption Rate** (C
 - **Canonical id:** `dea:metric-continuous-feedback-adoption-rate`
 - **Name:** Continuous Feedback Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFAR-OKR
 
@@ -18,7 +18,7 @@ Within Enterprise OKR & Performance Management, Continuous Feedback Adoption Rat
 ## Formula
 
 ```
-Employees Giving or Receiving Regular Feedback / Employees
+CFAR-OKR = Employees Giving or Receiving Regular Feedback / Employees
 ```
 
 ## Unit

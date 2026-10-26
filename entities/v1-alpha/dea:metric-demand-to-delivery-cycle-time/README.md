@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand-to-Delivery Cycle Time** (DDCT-
 - **Canonical id:** `dea:metric-demand-to-delivery-cycle-time`
 - **Name:** Demand-to-Delivery Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDCT-PPM
 
@@ -22,7 +22,7 @@ Measures elapsed time from demand intake to delivered capability. Long queue tim
 ## Formula
 
 ```
-Days from Demand Intake to Initiative Start
+DDCT-PPM = Days from Demand Intake to Initiative Start
 ```
 
 ## Unit

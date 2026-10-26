@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Netting Center Settlement Efficiency**
 - **Canonical id:** `dea:metric-netting-center-settlement-efficiency`
 - **Name:** Netting Center Settlement Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCSE
 
@@ -18,7 +18,7 @@ A Corporate Treasury (Deep Dive) indicator, Netting Center Settlement Efficiency
 ## Formula
 
 ```
-Netted Intercompany Flows / Gross Flows
+NCSE = Netted Intercompany Flows / Gross Flows
 ```
 
 ## Unit

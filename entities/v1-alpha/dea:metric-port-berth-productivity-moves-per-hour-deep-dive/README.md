@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port Berth Productivity - Moves per Ho
 - **Canonical id:** `dea:metric-port-berth-productivity-moves-per-hour-deep-dive`
 - **Name:** Port Berth Productivity - Moves per Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBPH-D
 
@@ -22,7 +22,7 @@ Measures container moves per vessel hour at berth. It is the capacity metric of 
 ## Formula
 
 ```
-Container Moves / Berth Hour
+PBPH-D = Container Moves / Berth Hour
 ```
 
 ## Unit

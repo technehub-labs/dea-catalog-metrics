@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Largest Contentful Paint (P75)** (LCP7
 - **Canonical id:** `dea:metric-largest-contentful-paint-p75`
 - **Name:** Largest Contentful Paint (P75)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCP75
 
@@ -18,7 +18,7 @@ Largest Contentful Paint (P75) (LCP75) measures the quality of outputs and outco
 ## Formula
 
 ```
-75th Percentile Time to Largest Contentful Paint
+LCP75 = 75th Percentile Time to Largest Contentful Paint
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Continuity Assurance Coverage
 - **Canonical id:** `dea:metric-supplier-continuity-assurance-coverage-deep-dive`
 - **Name:** Supplier Continuity Assurance Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCAC
 
@@ -22,7 +22,7 @@ Measures the share of critical suppliers with verified continuity and recovery c
 ## Formula
 
 ```
-Critical Suppliers with Verified Continuity Plans / Critical Suppliers
+SCAC = Critical Suppliers with Verified Continuity Plans / Critical Suppliers
 ```
 
 ## Unit

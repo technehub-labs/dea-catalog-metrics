@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Input Use Efficiency - Nitrogen** (NUE
 - **Canonical id:** `dea:metric-input-use-efficiency-nitrogen`
 - **Name:** Input Use Efficiency - Nitrogen
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NUE
 
@@ -22,7 +22,7 @@ Measures crop output per unit of nitrogen applied. It is the sustainability-and-
 ## Formula
 
 ```
-Crop Nitrogen Uptake / Applied Nitrogen
+NUE = Crop Nitrogen Uptake / Applied Nitrogen
 ```
 
 ## Unit

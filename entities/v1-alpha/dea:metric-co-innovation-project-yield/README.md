@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Co-Innovation Project Yield** (CIPY) i
 - **Canonical id:** `dea:metric-co-innovation-project-yield`
 - **Name:** Co-Innovation Project Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIPY
 
@@ -22,7 +22,7 @@ Measures how many joint innovation projects with partners deliver commercial out
 ## Formula
 
 ```
-Co-Innovation Projects Reaching Market / Projects Started
+CIPY = Co-Innovation Projects Reaching Market / Projects Started
 ```
 
 ## Unit

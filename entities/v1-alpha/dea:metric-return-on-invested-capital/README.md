@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Invested Capital** (ROIC) in
 - **Canonical id:** `dea:metric-return-on-invested-capital`
 - **Name:** Return on Invested Capital
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROIC
 
@@ -22,7 +22,7 @@ NOPAT divided by invested capital (debt plus equity minus cash) - the return on 
 ## Formula
 
 ```
-NOPAT / Invested Capital
+ROIC = NOPAT / Invested Capital
 ```
 
 ## Unit

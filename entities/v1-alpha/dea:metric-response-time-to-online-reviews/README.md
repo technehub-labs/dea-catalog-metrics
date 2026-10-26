@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Response Time to Online Reviews** (RTO
 - **Canonical id:** `dea:metric-response-time-to-online-reviews`
 - **Name:** Response Time to Online Reviews
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTOR
 
@@ -18,7 +18,7 @@ A Hotel & Resort Operations (Deep Dive) indicator, Response Time to Online Revie
 ## Formula
 
 ```
-Hours to Respond to Guest Review
+RTOR = Hours to Respond to Guest Review
 ```
 
 ## Unit

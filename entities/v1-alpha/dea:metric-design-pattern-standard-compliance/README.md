@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Pattern Standard Compliance** (
 - **Canonical id:** `dea:metric-design-pattern-standard-compliance`
 - **Name:** Design Pattern Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPSC-SA
 
@@ -18,7 +18,7 @@ A Software Architecture & Technical Design indicator, Design Pattern Standard Co
 ## Formula
 
 ```
-Components Following Approved Patterns / Components
+DPSC-SA = Components Following Approved Patterns / Components
 ```
 
 ## Unit

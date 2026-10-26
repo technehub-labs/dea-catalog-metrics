@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turnover** (ITR) in the Open
 - **Canonical id:** `dea:metric-inventory-turnover`
 - **Name:** Inventory Turnover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITR
 
@@ -22,7 +22,7 @@ Cost of goods sold divided by average inventory - how many times per year the st
 ## Formula
 
 ```
-Cost of Goods Sold / Average Inventory
+ITR = Cost of Goods Sold / Average Inventory
 ```
 
 ## Unit

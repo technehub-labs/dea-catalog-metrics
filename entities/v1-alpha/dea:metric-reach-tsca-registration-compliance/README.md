@@ -7,7 +7,7 @@ Candidate Performance Metric record for **REACH / TSCA Registration Compliance**
 - **Canonical id:** `dea:metric-reach-tsca-registration-compliance`
 - **Name:** REACH / TSCA Registration Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTCC
 
@@ -22,7 +22,7 @@ Measures the share of substances and volumes compliant with chemical control reg
 ## Formula
 
 ```
-Substances with Current Registrations / Substances Handled
+RTCC = Substances with Current Registrations / Substances Handled
 ```
 
 ## Unit

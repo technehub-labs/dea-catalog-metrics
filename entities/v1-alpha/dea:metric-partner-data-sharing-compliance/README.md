@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Data Sharing Compliance** (PDS
 - **Canonical id:** `dea:metric-partner-data-sharing-compliance`
 - **Name:** Partner Data Sharing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDSC-AP
 
@@ -22,7 +22,7 @@ Measures whether data exchanged with partners follows the agreed controls and re
 ## Formula
 
 ```
-Data Exchanges under Agreed Terms / Exchanges
+PDSC-AP = Data Exchanges under Agreed Terms / Exchanges
 ```
 
 ## Unit

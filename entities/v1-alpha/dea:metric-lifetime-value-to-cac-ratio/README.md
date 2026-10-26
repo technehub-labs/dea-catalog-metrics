@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lifetime Value to CAC Ratio** (LTV:CAC
 - **Canonical id:** `dea:metric-lifetime-value-to-cac-ratio`
 - **Name:** Lifetime Value to CAC Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTV:CAC
 
@@ -22,7 +22,7 @@ Customer lifetime value divided by acquisition cost - the single number that adj
 ## Formula
 
 ```
-Customer Lifetime Value / Customer Acquisition Cost
+LTV:CAC = Customer Lifetime Value / Customer Acquisition Cost
 ```
 
 ## Unit

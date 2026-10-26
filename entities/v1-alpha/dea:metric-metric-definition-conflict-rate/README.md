@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metric Definition Conflict Rate** (MDC
 - **Canonical id:** `dea:metric-metric-definition-conflict-rate`
 - **Name:** Metric Definition Conflict Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDCR-DS
 
@@ -18,7 +18,7 @@ A Data Science & Analytics Operations indicator, Metric Definition Conflict Rate
 ## Formula
 
 ```
-Metrics with Conflicting Definitions Found / Metrics Audited
+MDCR-DS = Metrics with Conflicting Definitions Found / Metrics Audited
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Average Interruption Duration
 - **Canonical id:** `dea:metric-customer-average-interruption-duration-index-deep-dive`
 - **Name:** Customer Average Interruption Duration Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAIDI
 
@@ -22,7 +22,7 @@ CAIDI, from IEEE Std 1366, is SAIDI divided by SAIFI - the average duration of a
 ## Formula
 
 ```
-SAIDI / SAIFI
+CAIDI = SAIDI / SAIFI
 ```
 
 ## Unit

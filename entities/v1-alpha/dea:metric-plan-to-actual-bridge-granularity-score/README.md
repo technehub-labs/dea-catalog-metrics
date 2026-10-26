@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plan-to-Actual Bridge Granularity Scor
 - **Canonical id:** `dea:metric-plan-to-actual-bridge-granularity-score`
 - **Name:** Plan-to-Actual Bridge Granularity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBGRS
 
@@ -18,7 +18,7 @@ Within Financial Planning & Analysis, Plan-to-Actual Bridge Granularity Score (P
 ## Formula
 
 ```
-Rubric of Variance Explanatory Detail
+PBGRS = Rubric of Variance Explanatory Detail
 ```
 
 ## Unit

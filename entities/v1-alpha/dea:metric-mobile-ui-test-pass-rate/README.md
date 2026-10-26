@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile UI Test Pass Rate** (MUITP) in 
 - **Canonical id:** `dea:metric-mobile-ui-test-pass-rate`
 - **Name:** Mobile UI Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MUITP
 
@@ -18,7 +18,7 @@ Mobile UI Test Pass Rate (MUITP) captures the quality of outputs and outcomes fo
 ## Formula
 
 ```
-Automated UI Tests Passing / Executed
+MUITP = Automated UI Tests Passing / Executed
 ```
 
 ## Unit

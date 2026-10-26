@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Voice (Advertising)** (SOVDD)
 - **Canonical id:** `dea:metric-share-of-voice-advertising`
 - **Name:** Share of Voice (Advertising)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOVDD
 
@@ -22,7 +22,7 @@ Measures the brand's share of category advertising impressions. SOV above market
 ## Formula
 
 ```
-Owned Impressions / Category Impressions
+SOVDD = Owned Impressions / Category Impressions
 ```
 
 ## Unit

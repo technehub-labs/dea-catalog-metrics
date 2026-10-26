@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hotfix Rate** (HFR-CD) in the OpenDEAM
 - **Canonical id:** `dea:metric-hotfix-rate`
 - **Name:** Hotfix Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HFR-CD
 
@@ -18,7 +18,7 @@ A Continuous Delivery & Deployment indicator, Hotfix Rate (HFR-CD) quantifies ex
 ## Formula
 
 ```
-Hotfixes / Total Deployments
+HFR-CD = Hotfixes / Total Deployments
 ```
 
 ## Unit

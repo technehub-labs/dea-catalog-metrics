@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Observations** (
 - **Canonical id:** `dea:metric-regulatory-inspection-observations`
 - **Name:** Regulatory Inspection Observations
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIO
 
@@ -22,7 +22,7 @@ Findings issued by agency inspectors - the metric where manufacturing compliance
 ## Formula
 
 ```
-Observations from Regulatory Inspections
+RIO = Observations from Regulatory Inspections
 ```
 
 ## Unit

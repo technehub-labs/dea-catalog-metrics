@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runway Utilization** (RWU) in the Open
 - **Canonical id:** `dea:metric-runway-utilization`
 - **Name:** Runway Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RWU
 
@@ -22,7 +22,7 @@ Measures the share of runway capacity used for movements. It matters because run
 ## Formula
 
 ```
-Aircraft Movements / Available Runway Hours
+RWU = Aircraft Movements / Available Runway Hours
 ```
 
 ## Unit

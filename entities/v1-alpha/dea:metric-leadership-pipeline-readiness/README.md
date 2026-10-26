@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Pipeline Readiness** (LPR) 
 - **Canonical id:** `dea:metric-leadership-pipeline-readiness`
 - **Name:** Leadership Pipeline Readiness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPR
 
@@ -22,7 +22,7 @@ Leadership pipeline readiness measures the bench strength for key roles - typica
 ## Formula
 
 ```
-Leadership Roles with Ready Internal Candidates / Leadership Roles
+LPR = Leadership Roles with Ready Internal Candidates / Leadership Roles
 ```
 
 ## Unit

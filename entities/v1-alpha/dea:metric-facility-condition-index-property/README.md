@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility Condition Index (Property)** 
 - **Canonical id:** `dea:metric-facility-condition-index-property`
 - **Name:** Facility Condition Index (Property)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCI-P
 
@@ -22,7 +22,7 @@ Measures the physical condition of assets against renewal and maintenance standa
 ## Formula
 
 ```
-Deferred Maintenance Backlog / Replacement Value
+FCI-P = Deferred Maintenance Backlog / Replacement Value
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Forecast Accuracy - Services*
 - **Canonical id:** `dea:metric-capacity-forecast-accuracy-services`
 - **Name:** Capacity Forecast Accuracy - Services
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFAS
 
@@ -22,7 +22,7 @@ Measures how closely demand forecasts predict actual service resource consumptio
 ## Formula
 
 ```
-1 - Absolute Forecast Error / Actual
+CFAS = 1 - Absolute Forecast Error / Actual
 ```
 
 ## Unit

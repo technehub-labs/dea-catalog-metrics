@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Rebalancing Frequency** (PRF
 - **Canonical id:** `dea:metric-portfolio-rebalancing-frequency`
 - **Name:** Portfolio Rebalancing Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRF-PPM
 
@@ -22,7 +22,7 @@ Measures how often investment is genuinely reallocated based on performance and 
 ## Formula
 
 ```
-Quarterly Rebalance Decisions Executed / Required
+PRF-PPM = Quarterly Rebalance Decisions Executed / Required
 ```
 
 ## Unit

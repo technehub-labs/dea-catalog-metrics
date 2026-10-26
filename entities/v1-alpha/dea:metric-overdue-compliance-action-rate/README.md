@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overdue Compliance Action Rate** (OCAR
 - **Canonical id:** `dea:metric-overdue-compliance-action-rate`
 - **Name:** Overdue Compliance Action Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCAR
 
@@ -18,7 +18,7 @@ Overdue Compliance Action Rate (OCAR) captures conformance to standards, plans, 
 ## Formula
 
 ```
-Remediation Actions Past Due / Actions
+OCAR = Remediation Actions Past Due / Actions
 ```
 
 ## Unit

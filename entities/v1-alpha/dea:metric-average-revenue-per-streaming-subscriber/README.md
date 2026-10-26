@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Streaming Subscrib
 - **Canonical id:** `dea:metric-average-revenue-per-streaming-subscriber`
 - **Name:** Average Revenue per Streaming Subscriber
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPS
 
@@ -22,7 +22,7 @@ Measures revenue per paying account, blended across plans, tiers, and geographie
 ## Formula
 
 ```
-Subscription Revenue / Subscribers
+ARPS = Subscription Revenue / Subscribers
 ```
 
 ## Unit

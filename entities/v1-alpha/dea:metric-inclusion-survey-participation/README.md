@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusion Survey Participation** (ISP)
 - **Canonical id:** `dea:metric-inclusion-survey-participation`
 - **Name:** Inclusion Survey Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISP
 
@@ -18,7 +18,7 @@ Inclusion Survey Participation (ISP) measures the engagement or satisfaction of 
 ## Formula
 
 ```
-Survey Responses / Survey Invitations
+ISP = Survey Responses / Survey Invitations
 ```
 
 ## Unit

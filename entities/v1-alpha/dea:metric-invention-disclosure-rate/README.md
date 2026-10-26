@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Invention Disclosure Rate** (IDR-IP) i
 - **Canonical id:** `dea:metric-invention-disclosure-rate`
 - **Name:** Invention Disclosure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDR-IP
 
@@ -22,7 +22,7 @@ Measures how often engineers and scientists formally disclose inventions. Disclo
 ## Formula
 
 ```
-Disclosures Filed per 1,000 R&D Staff per Year
+IDR-IP = Disclosures Filed per 1,000 R&D Staff per Year
 ```
 
 ## Unit

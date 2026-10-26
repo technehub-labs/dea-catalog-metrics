@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tower Site Downtime** (TSD) in the Ope
 - **Canonical id:** `dea:metric-tower-site-downtime`
 - **Name:** Tower Site Downtime
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSD
 
@@ -18,7 +18,7 @@ Tower Site Downtime (TSD) addresses the quality of outputs and outcomes and is a
 ## Formula
 
 ```
-Site Unavailability Hours per Period
+TSD = Site Unavailability Hours per Period
 ```
 
 ## Unit

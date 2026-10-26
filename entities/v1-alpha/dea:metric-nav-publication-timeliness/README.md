@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Publication Timeliness** (NAVPT) i
 - **Canonical id:** `dea:metric-nav-publication-timeliness`
 - **Name:** NAV Publication Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAVPT
 
@@ -22,7 +22,7 @@ Measures whether NAVs are published within required deadlines. Timely NAV is a f
 ## Formula
 
 ```
-NAVs Published within Commitment / Publications
+NAVPT = NAVs Published within Commitment / Publications
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rent Collection Timeliness (Portfolio)
 - **Canonical id:** `dea:metric-rent-collection-timeliness-portfolio`
 - **Name:** Rent Collection Timeliness (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCT-P
 
@@ -18,7 +18,7 @@ Rent Collection Timeliness (Portfolio) (RCT-P) measures conformance to standards
 ## Formula
 
 ```
-Rent Received by Due Date / Billed Rent
+RCT-P = Rent Received by Due Date / Billed Rent
 ```
 
 ## Unit

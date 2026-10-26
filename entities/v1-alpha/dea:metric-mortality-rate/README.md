@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortality Rate** (MR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-mortality-rate`
 - **Name:** Mortality Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MR
 
@@ -22,7 +22,7 @@ Deaths as a share of the relevant population - in hospital use, conventionally t
 ## Formula
 
 ```
-Deaths / Discharges
+MR = Deaths / Discharges
 ```
 
 ## Unit

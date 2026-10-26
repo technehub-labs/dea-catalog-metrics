@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Account** (CPA) in the OpenDE
 - **Canonical id:** `dea:metric-cost-per-account`
 - **Name:** Cost per Account
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPA
 
@@ -18,7 +18,7 @@ Cost per Account (CPA) measures how efficiently resources are converted into out
 ## Formula
 
 ```
-Total Account Servicing Cost / Active Accounts
+CPA = Total Account Servicing Cost / Active Accounts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Accuracy Rate** (DAR) in the Open
 - **Canonical id:** `dea:metric-data-accuracy-rate`
 - **Name:** Data Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAR
 
@@ -22,7 +22,7 @@ Measures the share of data values verified correct against a source of truth. It
 ## Formula
 
 ```
-Records Matching Verified Source / Records Sampled
+DAR = Records Matching Verified Source / Records Sampled
 ```
 
 ## Unit

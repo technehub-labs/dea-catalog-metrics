@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vacancy Rate (Deep Dive)** (VRDD) in t
 - **Canonical id:** `dea:metric-vacancy-rate-deep-dive`
 - **Name:** Vacancy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRDD
 
@@ -18,7 +18,7 @@ Vacancy Rate (Deep Dive) (VRDD) captures the utilization or availability of capa
 ## Formula
 
 ```
-Open Positions / Total Positions
+VRDD = Open Positions / Total Positions
 ```
 
 ## Unit

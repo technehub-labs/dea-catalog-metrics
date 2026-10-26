@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Automation Coverage** (TAC) in th
 - **Canonical id:** `dea:metric-test-automation-coverage`
 - **Name:** Test Automation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAC
 
@@ -22,7 +22,7 @@ Measures the share of code paths, requirements, or tests executed by automated s
 ## Formula
 
 ```
-Automated Test Cases / Total Test Cases
+TAC = Automated Test Cases / Total Test Cases
 ```
 
 ## Unit

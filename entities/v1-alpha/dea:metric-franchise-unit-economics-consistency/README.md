@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchise Unit Economics Consistency**
 - **Canonical id:** `dea:metric-franchise-unit-economics-consistency`
 - **Name:** Franchise Unit Economics Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUEC
 
@@ -22,7 +22,7 @@ Measures the dispersion of franchisee profitability across the system. It is the
 ## Formula
 
 ```
-Units within EBITDA Band / Total Units
+FUEC = Units within EBITDA Band / Total Units
 ```
 
 ## Unit

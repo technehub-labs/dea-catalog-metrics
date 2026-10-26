@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Size Under Guideline Rate** (CS
 - **Canonical id:** `dea:metric-change-size-under-guideline-rate`
 - **Name:** Change Size Under Guideline Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSUG
 
@@ -18,7 +18,7 @@ A Code Review & Peer Quality indicator, Change Size Under Guideline Rate (CSUG) 
 ## Formula
 
 ```
-Changes within Size Guideline / Merged Changes
+CSUG = Changes within Size Guideline / Merged Changes
 ```
 
 ## Unit

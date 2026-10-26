@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Freshness Index** (CFI) in the
 - **Canonical id:** `dea:metric-content-freshness-index`
 - **Name:** Content Freshness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFI
 
@@ -18,7 +18,7 @@ Content Freshness Index (CFI) measures conformance to standards, plans, or oblig
 ## Formula
 
 ```
-Pages Updated within Review Cadence / Total Pages
+CFI = Pages Updated within Review Cadence / Total Pages
 ```
 
 ## Unit

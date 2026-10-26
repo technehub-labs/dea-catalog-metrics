@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewal Notice Compliance Rate** (RNCR
 - **Canonical id:** `dea:metric-renewal-notice-compliance-rate`
 - **Name:** Renewal Notice Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RNCR
 
@@ -18,7 +18,7 @@ Within Contract Lifecycle Management, Renewal Notice Compliance Rate (RNCR) is u
 ## Formula
 
 ```
-Renewals Decided before Auto-Renewal Deadline / Renewals
+RNCR = Renewals Decided before Auto-Renewal Deadline / Renewals
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port State Control Detention Rate** (P
 - **Canonical id:** `dea:metric-port-state-control-detention-rate`
 - **Name:** Port State Control Detention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSCD
 
@@ -22,7 +22,7 @@ Port State Control detention rate measures the share of vessel inspections resul
 ## Formula
 
 ```
-Inspections Ending in Detention / Inspections
+PSCD = Inspections Ending in Detention / Inspections
 ```
 
 ## Unit

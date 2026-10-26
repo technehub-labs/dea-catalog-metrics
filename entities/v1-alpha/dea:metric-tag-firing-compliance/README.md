@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tag Firing Compliance** (TFC) in the O
 - **Canonical id:** `dea:metric-tag-firing-compliance`
 - **Name:** Tag Firing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TFC
 
@@ -18,7 +18,7 @@ A Marketing Attribution & Analytics indicator, Tag Firing Compliance (TFC) quant
 ## Formula
 
 ```
-Tags Firing Correctly / Tags Deployed
+TFC = Tags Firing Correctly / Tags Deployed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sepsis Bundle Compliance Rate** (SBCHR
 - **Canonical id:** `dea:metric-sepsis-bundle-compliance-rate`
 - **Name:** Sepsis Bundle Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBCHR
 
@@ -18,7 +18,7 @@ A Healthcare Quality & Patient Safety Standard Measures indicator, Sepsis Bundle
 ## Formula
 
 ```
-Sepsis Cases Receiving Full 3-Hour Bundle / Cases
+SBCHR = Sepsis Cases Receiving Full 3-Hour Bundle / Cases
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benchmark Fit R-Squared** (BFR2) in th
 - **Canonical id:** `dea:metric-benchmark-fit-r-squared`
 - **Name:** Benchmark Fit R-Squared
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFR2
 
@@ -18,7 +18,7 @@ A Investment Performance Measurement indicator, Benchmark Fit R-Squared (BFR2) q
 ## Formula
 
 ```
-Explained Variance of Returns vs Benchmark
+BFR2 = Explained Variance of Returns vs Benchmark
 ```
 
 ## Unit

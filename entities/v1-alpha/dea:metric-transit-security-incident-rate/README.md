@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transit Security Incident Rate** (TSIR
 - **Canonical id:** `dea:metric-transit-security-incident-rate`
 - **Name:** Transit Security Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSIR
 
@@ -18,7 +18,7 @@ Transit Security Incident Rate (TSIR) captures exposure to adverse outcomes for 
 ## Formula
 
 ```
-Incidents per 100,000 Journeys
+TSIR = Incidents per 100,000 Journeys
 ```
 
 ## Unit

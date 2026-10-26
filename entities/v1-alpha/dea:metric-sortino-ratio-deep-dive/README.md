@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sortino Ratio (Deep Dive)** (SORTDD) i
 - **Canonical id:** `dea:metric-sortino-ratio-deep-dive`
 - **Name:** Sortino Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SORTDD
 
@@ -22,7 +22,7 @@ The Sortino ratio, from Frank A. Sortino's downside-risk framework (1980s), divi
 ## Formula
 
 ```
-Return below Target / Downside Deviation
+SORTDD = Return below Target / Downside Deviation
 ```
 
 ## Unit

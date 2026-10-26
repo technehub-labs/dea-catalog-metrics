@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Initiative Kill Decision Timeliness** 
 - **Canonical id:** `dea:metric-initiative-kill-decision-timeliness`
 - **Name:** Initiative Kill Decision Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IKDT
 
@@ -22,7 +22,7 @@ Measures how quickly underperforming initiatives are stopped once evidence of fa
 ## Formula
 
 ```
-Failing Initiatives Stopped at Defined Checkpoints / Failing
+IKDT = Failing Initiatives Stopped at Defined Checkpoints / Failing
 ```
 
 ## Unit

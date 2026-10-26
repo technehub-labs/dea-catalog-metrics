@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Deprecation Notice Compliance** (A
 - **Canonical id:** `dea:metric-api-deprecation-notice-compliance`
 - **Name:** API Deprecation Notice Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIDNC
 
@@ -18,7 +18,7 @@ API Deprecation Notice Compliance (APIDNC) measures conformance to standards, pl
 ## Formula
 
 ```
-Deprecations Announced within Policy Lead Time / Deprecations
+APIDNC = Deprecations Announced within Policy Lead Time / Deprecations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cell Site Outage Rate** (CSOR) in the 
 - **Canonical id:** `dea:metric-cell-site-outage-rate`
 - **Name:** Cell Site Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSOR
 
@@ -18,7 +18,7 @@ A Telecom Network Operations (Deep Dive) indicator, Cell Site Outage Rate (CSOR)
 ## Formula
 
 ```
-Site Outages / Sites
+CSOR = Site Outages / Sites
 ```
 
 ## Unit

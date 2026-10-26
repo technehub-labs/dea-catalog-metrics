@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bid Win Rate (Deep Dive)** (BWRDD) in 
 - **Canonical id:** `dea:metric-bid-win-rate-deep-dive`
 - **Name:** Bid Win Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BWRDD
 
@@ -18,7 +18,7 @@ Within Market Structure & Economics Standard Measures, Bid Win Rate (Deep Dive) 
 ## Formula
 
 ```
-Deals Won / Deals Bid
+BWRDD = Deals Won / Deals Bid
 ```
 
 ## Unit

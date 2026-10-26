@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Data Source Automation Rate** (BSA
 - **Canonical id:** `dea:metric-bsc-data-source-automation-rate`
 - **Name:** BSC Data Source Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSAR
 
@@ -18,7 +18,7 @@ BSC Data Source Automation Rate (BSAR) addresses how efficiently resources are c
 ## Formula
 
 ```
-Automated Data Feeds / Measure Feeds
+BSAR = Automated Data Feeds / Measure Feeds
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Ownership Distribution Index** (C
 - **Canonical id:** `dea:metric-code-ownership-distribution-index`
 - **Name:** Code Ownership Distribution Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CODI
 
@@ -18,7 +18,7 @@ A Software Development - Coding & Engineering Practices indicator, Code Ownershi
 ## Formula
 
 ```
-Files with Single Owner / Files
+CODI = Files with Single Owner / Files
 ```
 
 ## Unit

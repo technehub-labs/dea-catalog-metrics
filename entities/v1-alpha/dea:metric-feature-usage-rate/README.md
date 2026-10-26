@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Usage Rate** (FUR) in the Open
 - **Canonical id:** `dea:metric-feature-usage-rate`
 - **Name:** Feature Usage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUR
 
@@ -22,7 +22,7 @@ Measures the share of users or accounts actively using a released feature. It ma
 ## Formula
 
 ```
-Active Feature Users / Eligible Users
+FUR = Active Feature Users / Eligible Users
 ```
 
 ## Unit

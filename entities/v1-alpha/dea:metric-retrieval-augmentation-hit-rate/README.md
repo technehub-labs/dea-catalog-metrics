@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retrieval Augmentation Hit Rate** (RAH
 - **Canonical id:** `dea:metric-retrieval-augmentation-hit-rate`
 - **Name:** Retrieval Augmentation Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAHR-LLM
 
@@ -18,7 +18,7 @@ Within Generative AI & LLM Operations, Retrieval Augmentation Hit Rate (RAHR-LLM
 ## Formula
 
 ```
-Queries Returning Relevant Chunks / Queries
+RAHR-LLM = Queries Returning Relevant Chunks / Queries
 ```
 
 ## Unit

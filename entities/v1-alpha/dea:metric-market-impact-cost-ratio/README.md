@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Impact Cost Ratio** (MICR-T) in
 - **Canonical id:** `dea:metric-market-impact-cost-ratio`
 - **Name:** Market Impact Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MICR-T
 
@@ -18,7 +18,7 @@ Market Impact Cost Ratio (MICR-T) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Price Impact Cost / Order Value
+MICR-T = Price Impact Cost / Order Value
 ```
 
 ## Unit

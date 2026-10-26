@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Cost-to-Income (Deep Dive)** (B
 - **Canonical id:** `dea:metric-branch-cost-to-income-deep-dive`
 - **Name:** Branch Cost-to-Income (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCI-D
 
@@ -22,7 +22,7 @@ Measures branch operating cost against branch-attributable income. It is the sur
 ## Formula
 
 ```
-Branch Operating Costs / Branch Income
+BCI-D = Branch Operating Costs / Branch Income
 ```
 
 ## Unit

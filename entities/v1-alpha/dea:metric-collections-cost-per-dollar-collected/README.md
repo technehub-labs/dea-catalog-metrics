@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collections Cost per Dollar Collected*
 - **Canonical id:** `dea:metric-collections-cost-per-dollar-collected`
 - **Name:** Collections Cost per Dollar Collected
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCPDC
 
@@ -18,7 +18,7 @@ Collections Cost per Dollar Collected (CCPDC) measures how efficiently resources
 ## Formula
 
 ```
-Collections Spend / Dollars Collected
+CCPDC = Collections Spend / Dollars Collected
 ```
 
 ## Unit

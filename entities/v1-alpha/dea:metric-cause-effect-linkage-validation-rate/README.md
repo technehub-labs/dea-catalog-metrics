@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cause-Effect Linkage Validation Rate**
 - **Canonical id:** `dea:metric-cause-effect-linkage-validation-rate`
 - **Name:** Cause-Effect Linkage Validation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CELV
 
@@ -22,7 +22,7 @@ Measures how many of the scorecard's assumed objective linkages are supported by
 ## Formula
 
 ```
-Hypothesized Linkages Supported by Correlation / Linkages
+CELV = Hypothesized Linkages Supported by Correlation / Linkages
 ```
 
 ## Unit

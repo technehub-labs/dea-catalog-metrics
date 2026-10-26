@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subrogation Recovery Rate** (SRR-C) in
 - **Canonical id:** `dea:metric-subrogation-recovery-rate`
 - **Name:** Subrogation Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR-C
 
@@ -22,7 +22,7 @@ Measures the share of claim losses recovered from responsible third parties. It 
 ## Formula
 
 ```
-Recovered Amounts from Third Parties / Recoverable Amounts
+SRR-C = Recovered Amounts from Third Parties / Recoverable Amounts
 ```
 
 ## Unit

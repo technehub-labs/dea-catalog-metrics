@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Renewal Decision Compliance** (IRDC
 - **Canonical id:** `dea:metric-ip-renewal-decision-compliance`
 - **Name:** IP Renewal Decision Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRDC
 
@@ -18,7 +18,7 @@ IP Renewal Decision Compliance (IRDC) addresses the economic value created or pr
 ## Formula
 
 ```
-Renewals Decided by Review Date / Renewals Due
+IRDC = Renewals Decided by Review Date / Renewals Due
 ```
 
 ## Unit

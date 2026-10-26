@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fine-Tuning Cycle Time** (FTCT-LLM) in
 - **Canonical id:** `dea:metric-fine-tuning-cycle-time`
 - **Name:** Fine-Tuning Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTCT-LLM
 
@@ -18,7 +18,7 @@ A Generative AI & LLM Operations indicator, Fine-Tuning Cycle Time (FTCT-LLM) qu
 ## Formula
 
 ```
-Days from Data Curation to Fine-Tuned Model Evaluation
+FTCT-LLM = Days from Data Curation to Fine-Tuned Model Evaluation
 ```
 
 ## Unit

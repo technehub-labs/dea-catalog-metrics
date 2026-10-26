@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Defect Rate (Aviation)** (RDR-A
 - **Canonical id:** `dea:metric-repeat-defect-rate-aviation`
 - **Name:** Repeat Defect Rate (Aviation)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDR-A
 
@@ -22,7 +22,7 @@ Measures aircraft defects recurring after certified repair. It matters because r
 ## Formula
 
 ```
-Defects Recurring after Repair / Repairs Performed
+RDR-A = Defects Recurring after Repair / Repairs Performed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Funding per Faculty** (RFF) i
 - **Canonical id:** `dea:metric-research-funding-per-faculty`
 - **Name:** Research Funding per Faculty
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFF
 
@@ -22,7 +22,7 @@ External research funding divided by faculty count - the research-intensity metr
 ## Formula
 
 ```
-Total Research Funding / Faculty FTEs
+RFF = Total Research Funding / Faculty FTEs
 ```
 
 ## Unit

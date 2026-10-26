@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Service Ticket (Beauty)** (AST
 - **Canonical id:** `dea:metric-average-service-ticket-beauty`
 - **Name:** Average Service Ticket (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AST-B
 
@@ -18,7 +18,7 @@ Average Service Ticket (Beauty) (AST-B) measures the economic value created or p
 ## Formula
 
 ```
-Service Revenue / Client Visits
+AST-B = Service Revenue / Client Visits
 ```
 
 ## Unit

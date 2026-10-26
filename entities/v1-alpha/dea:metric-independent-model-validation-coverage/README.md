@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Independent Model Validation Coverage*
 - **Canonical id:** `dea:metric-independent-model-validation-coverage`
 - **Name:** Independent Model Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMVC-AI
 
@@ -22,7 +22,7 @@ Measures the share of models receiving independent validation per policy. Indepe
 ## Formula
 
 ```
-Material Models Independently Validated / Material Models
+IMVC-AI = Material Models Independently Validated / Material Models
 ```
 
 ## Unit

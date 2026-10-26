@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Referral Accuracy** (UWRA
 - **Canonical id:** `dea:metric-underwriting-referral-accuracy`
 - **Name:** Underwriting Referral Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UWRA
 
@@ -18,7 +18,7 @@ A Insurance Underwriting indicator, Underwriting Referral Accuracy (UWRA) quanti
 ## Formula
 
 ```
-Correctly Referred Risks / Total Referrals
+UWRA = Correctly Referred Risks / Total Referrals
 ```
 
 ## Unit

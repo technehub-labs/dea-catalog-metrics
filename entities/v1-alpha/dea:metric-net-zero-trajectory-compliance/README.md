@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Zero Trajectory Compliance** (NZTC
 - **Canonical id:** `dea:metric-net-zero-trajectory-compliance`
 - **Name:** Net Zero Trajectory Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NZTC
 
@@ -22,7 +22,7 @@ The degree to which the organization's emissions trajectory and planned measures
 ## Formula
 
 ```
-Actual Emissions / Science-Based Target Pathway
+NZTC = Actual Emissions / Science-Based Target Pathway
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff-to-Patient Ratio** (SPR) in the 
 - **Canonical id:** `dea:metric-staff-to-patient-ratio`
 - **Name:** Staff-to-Patient Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPR
 
@@ -18,7 +18,7 @@ A Healthcare indicator, Staff-to-Patient Ratio (SPR) quantifies the utilization 
 ## Formula
 
 ```
-Clinical Staff on Duty / Patients in Care
+SPR = Clinical Staff on Duty / Patients in Care
 ```
 
 ## Unit

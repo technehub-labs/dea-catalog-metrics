@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow Cloud Asset Detection Rate** (S
 - **Canonical id:** `dea:metric-shadow-cloud-asset-detection-rate`
 - **Name:** Shadow Cloud Asset Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCADR
 
@@ -18,7 +18,7 @@ Shadow Cloud Asset Detection Rate (SCADR) measures exposure to adverse outcomes 
 ## Formula
 
 ```
-Unregistered Assets Discovered per Discovery Run
+SCADR = Unregistered Assets Discovered per Discovery Run
 ```
 
 ## Unit

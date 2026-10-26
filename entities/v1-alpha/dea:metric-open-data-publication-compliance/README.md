@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Data Publication Compliance** (OD
 - **Canonical id:** `dea:metric-open-data-publication-compliance`
 - **Name:** Open Data Publication Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODPC
 
@@ -22,7 +22,7 @@ Measures whether publishable datasets are released per open data policy. Opennes
 ## Formula
 
 ```
-Datasets Published per Mandate / Mandated Datasets
+ODPC = Datasets Published per Mandate / Mandated Datasets
 ```
 
 ## Unit

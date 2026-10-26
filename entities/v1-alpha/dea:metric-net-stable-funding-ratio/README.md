@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Stable Funding Ratio** (NSFR) in t
 - **Canonical id:** `dea:metric-net-stable-funding-ratio`
 - **Name:** Net Stable Funding Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSFR
 
@@ -22,7 +22,7 @@ The Basel III structural liquidity counterpart to the LCR: available stable fund
 ## Formula
 
 ```
-Available Stable Funding / Required Stable Funding
+NSFR = Available Stable Funding / Required Stable Funding
 ```
 
 ## Unit

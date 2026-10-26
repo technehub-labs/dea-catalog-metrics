@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Ratio (Statement Analy
 - **Canonical id:** `dea:metric-working-capital-ratio-statement-analysis`
 - **Name:** Working Capital Ratio (Statement Analysis)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCRDD
 
@@ -22,7 +22,7 @@ Measures the current-assets-to-current-liabilities relationship in ratio terms f
 ## Formula
 
 ```
-Net Working Capital / Total Assets
+WCRDD = Net Working Capital / Total Assets
 ```
 
 ## Unit

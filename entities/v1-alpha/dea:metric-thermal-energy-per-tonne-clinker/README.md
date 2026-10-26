@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Energy per Tonne Clinker** (TE
 - **Canonical id:** `dea:metric-thermal-energy-per-tonne-clinker`
 - **Name:** Thermal Energy per Tonne Clinker
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TETC
 
@@ -22,7 +22,7 @@ Measures kiln fuel energy per unit of clinker. It is the operating-cost and emis
 ## Formula
 
 ```
-Heat Consumed / Clinker Tonnes
+TETC = Heat Consumed / Clinker Tonnes
 ```
 
 ## Unit

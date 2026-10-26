@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cut Order Plan Efficiency** (COPE) in 
 - **Canonical id:** `dea:metric-cut-order-plan-efficiency`
 - **Name:** Cut Order Plan Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COPE
 
@@ -18,7 +18,7 @@ Cut Order Plan Efficiency (COPE) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Fabric Utilized in Cut / Fabric Issued
+COPE = Fabric Utilized in Cut / Fabric Issued
 ```
 
 ## Unit

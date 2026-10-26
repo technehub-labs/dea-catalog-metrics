@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guard Attrition Rate (Security)** (GAR
 - **Canonical id:** `dea:metric-guard-attrition-rate-security`
 - **Name:** Guard Attrition Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GAR
 
@@ -22,7 +22,7 @@ Measures security officer turnover. Guarding is a low-margin, high-turnover indu
 ## Formula
 
 ```
-Guards Leaving / Guards Employed
+GAR = Guards Leaving / Guards Employed
 ```
 
 ## Unit

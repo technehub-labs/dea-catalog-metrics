@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Completion Rate (Streaming)** 
 - **Canonical id:** `dea:metric-content-completion-rate-streaming`
 - **Name:** Content Completion Rate (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-S
 
@@ -18,7 +18,7 @@ A Broadcasting & Streaming Media indicator, Content Completion Rate (Streaming) 
 ## Formula
 
 ```
-Titles Completed / Titles Started
+CCR-S = Titles Completed / Titles Started
 ```
 
 ## Unit

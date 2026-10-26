@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Data Extraction Accuracy** (C
 - **Canonical id:** `dea:metric-contract-data-extraction-accuracy`
 - **Name:** Contract Data Extraction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDEA
 
@@ -18,7 +18,7 @@ A Contract Lifecycle Management indicator, Contract Data Extraction Accuracy (CD
 ## Formula
 
 ```
-Key Fields Extracted Correctly / Fields Sampled
+CDEA = Key Fields Extracted Correctly / Fields Sampled
 ```
 
 ## Unit

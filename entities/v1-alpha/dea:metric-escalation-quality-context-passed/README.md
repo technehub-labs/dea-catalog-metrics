@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Quality (Context Passed)** 
 - **Canonical id:** `dea:metric-escalation-quality-context-passed`
 - **Name:** Escalation Quality (Context Passed)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EQCP
 
@@ -18,7 +18,7 @@ A Conversational AI & Chatbots indicator, Escalation Quality (Context Passed) (E
 ## Formula
 
 ```
-Escalations with Complete Context / Escalations
+EQCP = Escalations with Complete Context / Escalations
 ```
 
 ## Unit

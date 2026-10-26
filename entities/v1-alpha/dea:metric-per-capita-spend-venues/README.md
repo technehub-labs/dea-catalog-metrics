@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Per Capita Spend (Venues)** (PCSV) in 
 - **Canonical id:** `dea:metric-per-capita-spend-venues`
 - **Name:** Per Capita Spend (Venues)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCSV
 
@@ -22,7 +22,7 @@ Measures average spend per visitor on food, beverage, merchandise, and experienc
 ## Formula
 
 ```
-Total Revenue / Attendance
+PCSV = Total Revenue / Attendance
 ```
 
 ## Unit

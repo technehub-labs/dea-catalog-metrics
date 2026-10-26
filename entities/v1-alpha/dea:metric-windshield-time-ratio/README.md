@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Windshield Time Ratio** (WSTR-F) in th
 - **Canonical id:** `dea:metric-windshield-time-ratio`
 - **Name:** Windshield Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSTR-F
 
@@ -18,7 +18,7 @@ Within Field Maintenance & Technical Field Service (Deep Dive), Windshield Time 
 ## Formula
 
 ```
-Travel Hours / Total Field Hours
+WSTR-F = Travel Hours / Total Field Hours
 ```
 
 ## Unit

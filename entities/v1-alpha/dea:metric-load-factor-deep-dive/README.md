@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Factor (Deep Dive)** (LF-D) in th
 - **Canonical id:** `dea:metric-load-factor-deep-dive`
 - **Name:** Load Factor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LF-D
 
@@ -22,7 +22,7 @@ Measures the share of available seats occupied. It is the volume-efficiency metr
 ## Formula
 
 ```
-Revenue Passenger Kilometres / Available Seat Kilometres
+LF-D = Revenue Passenger Kilometres / Available Seat Kilometres
 ```
 
 ## Unit

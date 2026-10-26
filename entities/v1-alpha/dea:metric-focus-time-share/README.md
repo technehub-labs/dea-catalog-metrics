@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Focus Time Share** (FTS-DW) in the Ope
 - **Canonical id:** `dea:metric-focus-time-share`
 - **Name:** Focus Time Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTS-DW
 
@@ -22,7 +22,7 @@ Measures the share of work time available for uninterrupted deep work. It matter
 ## Formula
 
 ```
-Non-Meeting Work Time / Total Working Time
+FTS-DW = Non-Meeting Work Time / Total Working Time
 ```
 
 ## Unit

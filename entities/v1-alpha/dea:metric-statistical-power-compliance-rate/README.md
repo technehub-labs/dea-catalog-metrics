@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Statistical Power Compliance Rate** (S
 - **Canonical id:** `dea:metric-statistical-power-compliance-rate`
 - **Name:** Statistical Power Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPCR
 
@@ -18,7 +18,7 @@ A Data Science & Analytics Operations indicator, Statistical Power Compliance Ra
 ## Formula
 
 ```
-Tests Meeting Minimum Power Requirement / Tests
+SPCR = Tests Meeting Minimum Power Requirement / Tests
 ```
 
 ## Unit

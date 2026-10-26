@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Application Recovery Sequence
 - **Canonical id:** `dea:metric-critical-application-recovery-sequence-coverage`
 - **Name:** Critical Application Recovery Sequence Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CARSC
 
@@ -18,7 +18,7 @@ Critical Application Recovery Sequence Coverage (CARSC) captures conformance to 
 ## Formula
 
 ```
-Applications in Documented Runbook Sequence / Critical Applications
+CARSC = Applications in Documented Runbook Sequence / Critical Applications
 ```
 
 ## Unit

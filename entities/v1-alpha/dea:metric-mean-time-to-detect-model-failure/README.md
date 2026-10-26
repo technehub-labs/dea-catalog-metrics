@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Detect Model Failure** (M
 - **Canonical id:** `dea:metric-mean-time-to-detect-model-failure`
 - **Name:** Mean Time to Detect Model Failure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTD-M
 
@@ -18,7 +18,7 @@ Mean Time to Detect Model Failure (MTTD-M) measures the quality of outputs and o
 ## Formula
 
 ```
-Hours from Model Failure to Detection
+MTTD-M = Hours from Model Failure to Detection
 ```
 
 ## Unit

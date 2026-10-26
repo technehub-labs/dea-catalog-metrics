@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanitation Cycle Compliance (Deep Dive
 - **Canonical id:** `dea:metric-sanitation-cycle-compliance-deep-dive`
 - **Name:** Sanitation Cycle Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCC-D
 
@@ -18,7 +18,7 @@ Sanitation Cycle Compliance (Deep Dive) (SCC-D) captures conformance to standard
 ## Formula
 
 ```
-Sanitation Cycles on Schedule and Pass / Due
+SCC-D = Sanitation Cycles on Schedule and Pass / Due
 ```
 
 ## Unit

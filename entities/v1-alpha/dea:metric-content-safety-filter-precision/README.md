@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Safety Filter Precision** (CSF
 - **Canonical id:** `dea:metric-content-safety-filter-precision`
 - **Name:** Content Safety Filter Precision
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSFP
 
@@ -18,7 +18,7 @@ Within Generative AI & LLM Operations, Content Safety Filter Precision (CSFP) is
 ## Formula
 
 ```
-Correctly Flagged Content / Flagged Content
+CSFP = Correctly Flagged Content / Flagged Content
 ```
 
 ## Unit

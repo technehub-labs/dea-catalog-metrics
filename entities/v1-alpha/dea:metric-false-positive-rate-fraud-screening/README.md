@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Positive Rate (Fraud Screening)*
 - **Canonical id:** `dea:metric-false-positive-rate-fraud-screening`
 - **Name:** False Positive Rate (Fraud Screening)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPRFS
 
@@ -18,7 +18,7 @@ Within Enterprise Fraud & Financial Crime Management, False Positive Rate (Fraud
 ## Formula
 
 ```
-Alerts Dismissed as Legitimate / Alerts Generated
+FPRFS = Alerts Dismissed as Legitimate / Alerts Generated
 ```
 
 ## Unit

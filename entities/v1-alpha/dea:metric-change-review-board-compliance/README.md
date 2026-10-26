@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Review Board Compliance** (CRBC
 - **Canonical id:** `dea:metric-change-review-board-compliance`
 - **Name:** Change Review Board Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRBC
 
@@ -18,7 +18,7 @@ Within Network Change & Configuration Management, Change Review Board Compliance
 ## Formula
 
 ```
-High-Risk Changes with CAB Approval / High-Risk Changes
+CRBC = High-Risk Changes with CAB Approval / High-Risk Changes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Order Room Ratio** (OORR) in th
 - **Canonical id:** `dea:metric-out-of-order-room-ratio`
 - **Name:** Out-of-Order Room Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OORR
 
@@ -18,7 +18,7 @@ Out-of-Order Room Ratio (OORR) addresses the utilization or availability of capa
 ## Formula
 
 ```
-Rooms out of Order / Total Rooms
+OORR = Rooms out of Order / Total Rooms
 ```
 
 ## Unit

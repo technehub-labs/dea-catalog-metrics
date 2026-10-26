@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overtime Hours Ratio** (OHR-WF) in the
 - **Canonical id:** `dea:metric-overtime-hours-ratio`
 - **Name:** Overtime Hours Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OHR-WF
 
@@ -18,7 +18,7 @@ Overtime Hours Ratio (OHR-WF) addresses exposure to adverse outcomes and is a fi
 ## Formula
 
 ```
-Overtime Hours / Standard Hours
+OHR-WF = Overtime Hours / Standard Hours
 ```
 
 ## Unit

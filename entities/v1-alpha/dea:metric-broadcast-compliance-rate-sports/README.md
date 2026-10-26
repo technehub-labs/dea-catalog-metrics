@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broadcast Compliance Rate (Sports)** (
 - **Canonical id:** `dea:metric-broadcast-compliance-rate-sports`
 - **Name:** Broadcast Compliance Rate (Sports)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCR-S
 
@@ -18,7 +18,7 @@ A Sports Clubs & Leagues (Deep Dive) indicator, Broadcast Compliance Rate (Sport
 ## Formula
 
 ```
-Matches Meeting Broadcast Standards / Matches
+BCR-S = Matches Meeting Broadcast Standards / Matches
 ```
 
 ## Unit

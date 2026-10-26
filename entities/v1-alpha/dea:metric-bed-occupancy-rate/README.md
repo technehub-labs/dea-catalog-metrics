@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bed Occupancy Rate** (BOR2) in the Ope
 - **Canonical id:** `dea:metric-bed-occupancy-rate`
 - **Name:** Bed Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOR2
 
@@ -22,7 +22,7 @@ The share of staffed beds occupied - the capacity metric of the hospital, and on
 ## Formula
 
 ```
-Occupied Bed Days / Available Bed Days
+BOR2 = Occupied Bed Days / Available Bed Days
 ```
 
 ## Unit

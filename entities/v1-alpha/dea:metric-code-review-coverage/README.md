@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Review Coverage** (CRC-SD) in the
 - **Canonical id:** `dea:metric-code-review-coverage`
 - **Name:** Code Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-SD
 
@@ -18,7 +18,7 @@ Within Software Development - Coding & Engineering Practices, Code Review Covera
 ## Formula
 
 ```
-Changes Reviewed before Merge / Changes Merged
+CRC-SD = Changes Reviewed before Merge / Changes Merged
 ```
 
 ## Unit

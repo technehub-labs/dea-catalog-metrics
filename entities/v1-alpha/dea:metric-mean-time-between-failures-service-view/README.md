@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time between Failures - Service V
 - **Canonical id:** `dea:metric-mean-time-between-failures-service-view`
 - **Name:** Mean Time between Failures - Service View
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTBF-SV
 
@@ -22,7 +22,7 @@ Measures average operating time between service-impacting failures. MTBF at the 
 ## Formula
 
 ```
-Operating Hours between Service Failures
+MTBF-SV = Operating Hours between Service Failures
 ```
 
 ## Unit

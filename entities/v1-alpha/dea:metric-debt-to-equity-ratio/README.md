@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Equity Ratio** (D/E) in the Op
 - **Canonical id:** `dea:metric-debt-to-equity-ratio`
 - **Name:** Debt-to-Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D/E
 
@@ -22,7 +22,7 @@ Total debt over shareholders equity - the oldest leverage gauge in corporate fin
 ## Formula
 
 ```
-Total Debt / Shareholders' Equity
+D/E = Total Debt / Shareholders' Equity
 ```
 
 ## Unit

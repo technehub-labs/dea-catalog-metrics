@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Levelized Cost of Energy** (LCOE) in t
 - **Canonical id:** `dea:metric-levelized-cost-of-energy`
 - **Name:** Levelized Cost of Energy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCOE
 
@@ -22,7 +22,7 @@ Levelized cost of energy (LCOE) is the discounted lifetime cost per unit of ener
 ## Formula
 
 ```
-Lifetime Costs / Lifetime Energy Produced
+LCOE = Lifetime Costs / Lifetime Energy Produced
 ```
 
 ## Unit

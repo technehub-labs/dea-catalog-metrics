@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Breach Notification Timeliness
 - **Canonical id:** `dea:metric-privacy-breach-notification-timeliness`
 - **Name:** Privacy Breach Notification Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBNT
 
@@ -22,7 +22,7 @@ Measures whether personal data breaches are notified to regulators and individua
 ## Formula
 
 ```
-Breaches Notified to Regulator within Deadline / Notifiable Breaches
+PBNT = Breaches Notified to Regulator within Deadline / Notifiable Breaches
 ```
 
 ## Unit

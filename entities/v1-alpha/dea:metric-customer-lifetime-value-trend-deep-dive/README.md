@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Lifetime Value Trend (Deep Di
 - **Canonical id:** `dea:metric-customer-lifetime-value-trend-deep-dive`
 - **Name:** Customer Lifetime Value Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLVT-D
 
@@ -22,7 +22,7 @@ Measures the direction of predicted customer value over time. LTV trends reveal 
 ## Formula
 
 ```
-Change in CLV between Periods
+CLVT-D = Change in CLV between Periods
 ```
 
 ## Unit

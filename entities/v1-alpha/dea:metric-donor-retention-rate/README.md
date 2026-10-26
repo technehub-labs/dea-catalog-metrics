@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donor Retention Rate** (DRR-N) in the 
 - **Canonical id:** `dea:metric-donor-retention-rate`
 - **Name:** Donor Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRR-N
 
@@ -22,7 +22,7 @@ Donor retention rate measures the share of donors giving again after their first
 ## Formula
 
 ```
-Donors Giving Again within Year / Donors at Start
+DRR-N = Donors Giving Again within Year / Donors at Start
 ```
 
 ## Unit

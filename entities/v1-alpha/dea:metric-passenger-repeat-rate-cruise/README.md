@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Repeat Rate (Cruise)** (PRR-
 - **Canonical id:** `dea:metric-passenger-repeat-rate-cruise`
 - **Name:** Passenger Repeat Rate (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRR-C
 
@@ -22,7 +22,7 @@ Measures the share of guests who have cruised with the line (or industry) before
 ## Formula
 
 ```
-Repeat Passengers / Passengers
+PRR-C = Repeat Passengers / Passengers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserved Instance Coverage (Deep Dive)
 - **Canonical id:** `dea:metric-reserved-instance-coverage-deep-dive`
 - **Name:** Reserved Instance Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIC
 
@@ -18,7 +18,7 @@ A Data Centers & Cloud Infrastructure indicator, Reserved Instance Coverage (Dee
 ## Formula
 
 ```
-Spend on Reserved Capacity / Eligible Spend
+RIC = Spend on Reserved Capacity / Eligible Spend
 ```
 
 ## Unit

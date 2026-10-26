@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Risk Assessment Coverage** 
 - **Canonical id:** `dea:metric-compliance-risk-assessment-coverage`
 - **Name:** Compliance Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRAC
 
@@ -22,7 +22,7 @@ Measures the share of business lines, products, and jurisdictions covered by cur
 ## Formula
 
 ```
-Business Units Assessed / Units in Scope
+CRAC = Business Units Assessed / Units in Scope
 ```
 
 ## Unit

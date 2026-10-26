@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Meeting Cadence Compliance** (C
 - **Canonical id:** `dea:metric-client-meeting-cadence-compliance`
 - **Name:** Client Meeting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMCC
 
@@ -18,7 +18,7 @@ A Asset & Wealth Management (Deep Dive) indicator, Client Meeting Cadence Compli
 ## Formula
 
 ```
-Clients Reviewed per Service Schedule / Due
+CMCC = Clients Reviewed per Service Schedule / Due
 ```
 
 ## Unit

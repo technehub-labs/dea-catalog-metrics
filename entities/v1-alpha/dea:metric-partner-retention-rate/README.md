@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Retention Rate** (PRTN) in the
 - **Canonical id:** `dea:metric-partner-retention-rate`
 - **Name:** Partner Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRTN
 
@@ -22,7 +22,7 @@ Measures how many strategic partners remain active and committed year over year.
 ## Formula
 
 ```
-Active Partners Year-over-Year / Prior Active Partners
+PRTN = Active Partners Year-over-Year / Prior Active Partners
 ```
 
 ## Unit

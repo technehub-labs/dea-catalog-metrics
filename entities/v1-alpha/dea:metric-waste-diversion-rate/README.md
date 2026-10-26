@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Diversion Rate** (WDR) in the Op
 - **Canonical id:** `dea:metric-waste-diversion-rate`
 - **Name:** Waste Diversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WDR
 
@@ -22,7 +22,7 @@ Measures the share of waste diverted from landfill through recycling, reuse, or 
 ## Formula
 
 ```
-Non-Landfilled Waste / Total Waste
+WDR = Non-Landfilled Waste / Total Waste
 ```
 
 ## Unit

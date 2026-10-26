@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Records Backlog Age** (LRBA) in
 - **Canonical id:** `dea:metric-legacy-records-backlog-age`
 - **Name:** Legacy Records Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRBA
 
@@ -18,7 +18,7 @@ Legacy Records Backlog Age (LRBA) measures how efficiently resources are convert
 ## Formula
 
 ```
-Average Age of Unprocessed Legacy Records
+LRBA = Average Age of Unprocessed Legacy Records
 ```
 
 ## Unit

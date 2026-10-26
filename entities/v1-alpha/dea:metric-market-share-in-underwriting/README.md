@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share in Underwriting** (MSU) i
 - **Canonical id:** `dea:metric-market-share-in-underwriting`
 - **Name:** Market Share in Underwriting
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSU
 
@@ -22,7 +22,7 @@ Market share in underwriting measures the share of equity or debt issuance a ban
 ## Formula
 
 ```
-Firm Underwritten Volume / Total Market Volume
+MSU = Firm Underwritten Volume / Total Market Volume
 ```
 
 ## Unit

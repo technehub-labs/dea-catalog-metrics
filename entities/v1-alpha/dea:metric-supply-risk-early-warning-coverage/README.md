@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Risk Early Warning Coverage** (
 - **Canonical id:** `dea:metric-supply-risk-early-warning-coverage`
 - **Name:** Supply Risk Early Warning Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SREWC
 
@@ -22,7 +22,7 @@ Measures how completely monitored supply risks have defined triggers and alerts 
 ## Formula
 
 ```
-Critical Suppliers Monitored for Risk Signals / Critical Suppliers
+SREWC = Critical Suppliers Monitored for Risk Signals / Critical Suppliers
 ```
 
 ## Unit

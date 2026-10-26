@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Database Lock Cycle Time** (DBLC) in t
 - **Canonical id:** `dea:metric-database-lock-cycle-time`
 - **Name:** Database Lock Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBLC
 
@@ -22,7 +22,7 @@ Measures time from last-patient-out (or data cutoff) to clinical database lock i
 ## Formula
 
 ```
-Days from Last Patient Visit to Database Lock
+DBLC = Days from Last Patient Visit to Database Lock
 ```
 
 ## Unit

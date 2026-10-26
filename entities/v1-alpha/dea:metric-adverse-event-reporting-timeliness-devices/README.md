@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Event Reporting Timeliness (De
 - **Canonical id:** `dea:metric-adverse-event-reporting-timeliness-devices`
 - **Name:** Adverse Event Reporting Timeliness (Devices)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AERT-D
 
@@ -22,7 +22,7 @@ Adverse event reporting timeliness measures how quickly a manufacturer files leg
 ## Formula
 
 ```
-Reports Filed within Deadline / Reports Required
+AERT-D = Reports Filed within Deadline / Reports Required
 ```
 
 ## Unit

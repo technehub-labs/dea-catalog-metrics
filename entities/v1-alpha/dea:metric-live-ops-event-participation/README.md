@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Live Ops Event Participation** (LOEP) 
 - **Canonical id:** `dea:metric-live-ops-event-participation`
 - **Name:** Live Ops Event Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOEP
 
@@ -18,7 +18,7 @@ Live Ops Event Participation (LOEP) addresses the engagement or satisfaction of 
 ## Formula
 
 ```
-Players Joining Events / Active Players
+LOEP = Players Joining Events / Active Players
 ```
 
 ## Unit

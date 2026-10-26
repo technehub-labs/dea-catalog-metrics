@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Rework Cost Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-site-rework-cost-ratio-deep-dive`
 - **Name:** Site Rework Cost Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRCR-D
 
@@ -22,7 +22,7 @@ Measures rework cost against total project cost. Rework is the purest waste in c
 ## Formula
 
 ```
-Rework Cost / Total Construction Cost
+SRCR-D = Rework Cost / Total Construction Cost
 ```
 
 ## Unit

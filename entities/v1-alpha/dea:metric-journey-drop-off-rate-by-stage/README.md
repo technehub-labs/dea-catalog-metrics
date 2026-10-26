@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journey Drop-off Rate by Stage** (JDR)
 - **Canonical id:** `dea:metric-journey-drop-off-rate-by-stage`
 - **Name:** Journey Drop-off Rate by Stage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JDR
 
@@ -22,7 +22,7 @@ Measures customer abandonment at each stage of defined journeys. It matters beca
 ## Formula
 
 ```
-Customers Exiting at Stage / Customers Reaching Stage
+JDR = Customers Exiting at Stage / Customers Reaching Stage
 ```
 
 ## Unit

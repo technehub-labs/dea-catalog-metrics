@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Lifetime Value** (CLV) in the
 - **Canonical id:** `dea:metric-customer-lifetime-value`
 - **Name:** Customer Lifetime Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLV
 
@@ -22,7 +22,7 @@ The present value of all margin a customer relationship will generate - the deno
 ## Formula
 
 ```
-Average Revenue per Customer x Gross Margin x Average Lifespan
+CLV = Average Revenue per Customer x Gross Margin x Average Lifespan
 ```
 
 ## Unit

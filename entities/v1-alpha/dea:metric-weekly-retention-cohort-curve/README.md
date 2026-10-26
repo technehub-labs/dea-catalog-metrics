@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weekly Retention Cohort Curve** (WRCC)
 - **Canonical id:** `dea:metric-weekly-retention-cohort-curve`
 - **Name:** Weekly Retention Cohort Curve
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRCC
 
@@ -22,7 +22,7 @@ Measures week-by-week retention of each signup cohort. Cohort curves expose whet
 ## Formula
 
 ```
-Active Users in Week N / Cohort Size
+WRCC = Active Users in Week N / Cohort Size
 ```
 
 ## Unit

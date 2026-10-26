@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pricing Review Cycle Compliance** (PRC
 - **Canonical id:** `dea:metric-pricing-review-cycle-compliance`
 - **Name:** Pricing Review Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCC
 
@@ -18,7 +18,7 @@ Within Actuarial & Reserving, Pricing Review Cycle Compliance (PRCC) is used to 
 ## Formula
 
 ```
-Segments Reviewed within Cycle / Segments Due
+PRCC = Segments Reviewed within Cycle / Segments Due
 ```
 
 ## Unit

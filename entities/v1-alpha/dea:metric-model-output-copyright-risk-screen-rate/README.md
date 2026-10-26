@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Output Copyright Risk Screen Rat
 - **Canonical id:** `dea:metric-model-output-copyright-risk-screen-rate`
 - **Name:** Model Output Copyright Risk Screen Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MOCRS
 
@@ -22,7 +22,7 @@ Measures the share of outputs or training data screened for copyright exposure -
 ## Formula
 
 ```
-Outputs Screened for Protected Content / Outputs
+MOCRS = Outputs Screened for Protected Content / Outputs
 ```
 
 ## Unit

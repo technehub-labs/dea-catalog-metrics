@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Creative Fatigue Index** (CFI-M) in th
 - **Canonical id:** `dea:metric-creative-fatigue-index`
 - **Name:** Creative Fatigue Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFI-M
 
@@ -18,7 +18,7 @@ Within Marketing Attribution & Analytics, Creative Fatigue Index (CFI-M) is used
 ## Formula
 
 ```
-Decline in Response Rate per Creative Exposure Cohort
+CFI-M = Decline in Response Rate per Creative Exposure Cohort
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Cost** (CAC) in t
 - **Canonical id:** `dea:metric-customer-acquisition-cost`
 - **Name:** Customer Acquisition Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAC
 
@@ -22,7 +22,7 @@ The fully loaded cost of sales and marketing divided by new customers acquired -
 ## Formula
 
 ```
-Total Sales and Marketing Cost / New Customers Acquired
+CAC = Total Sales and Marketing Cost / New Customers Acquired
 ```
 
 ## Unit

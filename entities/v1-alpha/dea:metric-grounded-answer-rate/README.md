@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grounded Answer Rate** (GAR-LLM) in th
 - **Canonical id:** `dea:metric-grounded-answer-rate`
 - **Name:** Grounded Answer Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GAR-LLM
 
@@ -22,7 +22,7 @@ Measures the share of responses fully supported by cited source material. Ground
 ## Formula
 
 ```
-Responses Fully Grounded in Retrieved Context / Responses
+GAR-LLM = Responses Fully Grounded in Retrieved Context / Responses
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Forecast Precision** (LFP) in th
 - **Canonical id:** `dea:metric-labor-forecast-precision`
 - **Name:** Labor Forecast Precision
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LFP
 
@@ -18,7 +18,7 @@ Within Workforce Planning & Productivity, Labor Forecast Precision (LFP) is used
 ## Formula
 
 ```
-Forecast vs Actual Labor Hours / Actual
+LFP = Forecast vs Actual Labor Hours / Actual
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Equity Ratio** (PER-DEI) in 
 - **Canonical id:** `dea:metric-promotion-equity-ratio`
 - **Name:** Promotion Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PER-DEI
 
@@ -22,7 +22,7 @@ Measures whether promotion rates are equitable across demographic groups. Promot
 ## Formula
 
 ```
-Promotion Rates of Underrepresented vs Overall Population
+PER-DEI = Promotion Rates of Underrepresented vs Overall Population
 ```
 
 ## Unit

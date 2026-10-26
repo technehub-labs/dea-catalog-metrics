@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Database Availability** (DBAVL) in the
 - **Canonical id:** `dea:metric-database-availability`
 - **Name:** Database Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBAVL
 
@@ -18,7 +18,7 @@ Within Database & Data Platform Operations, Database Availability (DBAVL) is use
 ## Formula
 
 ```
-Database Service Uptime in Period
+DBAVL = Database Service Uptime in Period
 ```
 
 ## Unit

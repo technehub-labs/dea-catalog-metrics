@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Notice of Loss Response Time** (
 - **Canonical id:** `dea:metric-first-notice-of-loss-response-time`
 - **Name:** First Notice of Loss Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FNOLT
 
@@ -18,7 +18,7 @@ A Claims Operations (Insurance) indicator, First Notice of Loss Response Time (F
 ## Formula
 
 ```
-Hours from Loss Notification to First Customer Contact
+FNOLT = Hours from Loss Notification to First Customer Contact
 ```
 
 ## Unit

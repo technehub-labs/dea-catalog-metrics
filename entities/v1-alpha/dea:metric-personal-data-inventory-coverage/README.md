@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Data Inventory Coverage** (PD
 - **Canonical id:** `dea:metric-personal-data-inventory-coverage`
 - **Name:** Personal Data Inventory Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDIC
 
@@ -22,7 +22,7 @@ Measures how completely the organization's personal data holdings are mapped and
 ## Formula
 
 ```
-Processing Activities Documented in ROPA / Identified Activities
+PDIC = Processing Activities Documented in ROPA / Identified Activities
 ```
 
 ## Unit

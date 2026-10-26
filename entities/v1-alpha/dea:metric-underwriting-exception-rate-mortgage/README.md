@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Exception Rate (Mortgage)
 - **Canonical id:** `dea:metric-underwriting-exception-rate-mortgage`
 - **Name:** Underwriting Exception Rate (Mortgage)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UERM
 
@@ -18,7 +18,7 @@ Underwriting Exception Rate (Mortgage) (UERM) measures exposure to adverse outco
 ## Formula
 
 ```
-Loans with Approved Underwriting Exception / Loans
+UERM = Loans with Approved Underwriting Exception / Loans
 ```
 
 ## Unit

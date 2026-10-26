@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Survival Rate** (DSR) in the Op
 - **Canonical id:** `dea:metric-device-survival-rate`
 - **Name:** Device Survival Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSR
 
@@ -22,7 +22,7 @@ Device survival rate is the actuarial heart of the medical device industry - the
 ## Formula
 
 ```
-Devices Functioning at Time Point / Devices Implanted
+DSR = Devices Functioning at Time Point / Devices Implanted
 ```
 
 ## Unit

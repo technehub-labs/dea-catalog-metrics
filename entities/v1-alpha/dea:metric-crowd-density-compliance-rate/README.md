@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crowd Density Compliance Rate** (CDCR-
 - **Canonical id:** `dea:metric-crowd-density-compliance-rate`
 - **Name:** Crowd Density Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDCR-E
 
@@ -18,7 +18,7 @@ Crowd Density Compliance Rate (CDCR-E) measures exposure to adverse outcomes in 
 ## Formula
 
 ```
-Times within Density Limits / Monitoring Periods
+CDCR-E = Times within Density Limits / Monitoring Periods
 ```
 
 ## Unit

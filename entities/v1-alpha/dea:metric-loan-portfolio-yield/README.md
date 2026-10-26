@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Portfolio Yield** (LPY) in the Op
 - **Canonical id:** `dea:metric-loan-portfolio-yield`
 - **Name:** Loan Portfolio Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPY
 
@@ -22,7 +22,7 @@ Interest and fee income earned on the loan book as a percentage of average loans
 ## Formula
 
 ```
-Loan Interest Income / Average Loan Portfolio
+LPY = Loan Interest Income / Average Loan Portfolio
 ```
 
 ## Unit

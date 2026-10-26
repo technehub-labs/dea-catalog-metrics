@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packaging Reduction Rate** (PKR) in th
 - **Canonical id:** `dea:metric-packaging-reduction-rate`
 - **Name:** Packaging Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PKR
 
@@ -22,7 +22,7 @@ Measures the percentage reduction in packaging material per unit or overall. It 
 ## Formula
 
 ```
-(Packaging_prior - Packaging_current) / Packaging_prior
+PKR = (Packaging_prior - Packaging_current) / Packaging_prior
 ```
 
 ## Unit

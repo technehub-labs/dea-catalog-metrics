@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Spend Ratio** (MSR) in the O
 - **Canonical id:** `dea:metric-marketing-spend-ratio`
 - **Name:** Marketing Spend Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR
 
@@ -22,7 +22,7 @@ Marketing expense as a share of revenue - the pacing metric that expresses how h
 ## Formula
 
 ```
-Marketing Spend / Revenue
+MSR = Marketing Spend / Revenue
 ```
 
 ## Unit

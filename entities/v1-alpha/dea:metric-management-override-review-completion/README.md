@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Override Review Completion*
 - **Canonical id:** `dea:metric-management-override-review-completion`
 - **Name:** Management Override Review Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MORC
 
@@ -18,7 +18,7 @@ Within Internal Controls & Financial Reporting Integrity, Management Override Re
 ## Formula
 
 ```
-Required Override Reviews Performed / Required Reviews
+MORC = Required Override Reviews Performed / Required Reviews
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ransomware Recovery Readiness Score** 
 - **Canonical id:** `dea:metric-ransomware-recovery-readiness-score`
 - **Name:** Ransomware Recovery Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRRS
 
@@ -22,7 +22,7 @@ A composite assessment of the organization's ability to recover from a ransomwar
 ## Formula
 
 ```
-Weighted Index of Backups, Segmentation, Response Plans
+RRRS = Weighted Index of Backups, Segmentation, Response Plans
 ```
 
 ## Unit

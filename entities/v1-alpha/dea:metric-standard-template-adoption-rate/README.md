@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Template Adoption Rate** (STA
 - **Canonical id:** `dea:metric-standard-template-adoption-rate`
 - **Name:** Standard Template Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STAR-CL
 
@@ -18,7 +18,7 @@ A Contract Lifecycle Management indicator, Standard Template Adoption Rate (STAR
 ## Formula
 
 ```
-Contracts on Approved Templates / Contracts Drafted
+STAR-CL = Contracts on Approved Templates / Contracts Drafted
 ```
 
 ## Unit

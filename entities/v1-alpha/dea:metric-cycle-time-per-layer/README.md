@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cycle Time per Layer** (CTPL) in the O
 - **Canonical id:** `dea:metric-cycle-time-per-layer`
 - **Name:** Cycle Time per Layer
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTPL
 
@@ -18,7 +18,7 @@ Cycle Time per Layer (CTPL) measures how efficiently resources are converted int
 ## Formula
 
 ```
-Days per Mask Layer Processed
+CTPL = Days per Mask Layer Processed
 ```
 
 ## Unit

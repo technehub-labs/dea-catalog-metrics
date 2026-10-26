@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Global Process Standardization Rate** 
 - **Canonical id:** `dea:metric-global-process-standardization-rate`
 - **Name:** Global Process Standardization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GPSR
 
@@ -22,7 +22,7 @@ Global process standardization rate measures the share of processes that follow 
 ## Formula
 
 ```
-Entities Using Standard Process / Total Entities Served
+GPSR = Entities Using Standard Process / Total Entities Served
 ```
 
 ## Unit

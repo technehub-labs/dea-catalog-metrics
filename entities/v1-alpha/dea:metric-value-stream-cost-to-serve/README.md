@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Stream Cost-to-Serve** (VSCTS) i
 - **Canonical id:** `dea:metric-value-stream-cost-to-serve`
 - **Name:** Value Stream Cost-to-Serve
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSCTS
 
@@ -22,7 +22,7 @@ Measures the full accumulated cost of delivering a unit of value through the str
 ## Formula
 
 ```
-Total Cost / Served Units across Stream
+VSCTS = Total Cost / Served Units across Stream
 ```
 
 ## Unit

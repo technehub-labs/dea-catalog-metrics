@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per FTE (Deep Dive)** (RPFTE) 
 - **Canonical id:** `dea:metric-revenue-per-fte-deep-dive`
 - **Name:** Revenue per FTE (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPFTE
 
@@ -22,7 +22,7 @@ Measures revenue generated per full-time equivalent employee. It is the standard
 ## Formula
 
 ```
-Revenue / Full-Time Equivalents
+RPFTE = Revenue / Full-Time Equivalents
 ```
 
 ## Unit

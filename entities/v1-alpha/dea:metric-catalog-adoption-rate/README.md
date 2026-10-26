@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catalog Adoption Rate** (CAR-GBS) in t
 - **Canonical id:** `dea:metric-catalog-adoption-rate`
 - **Name:** Catalog Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR-GBS
 
@@ -22,7 +22,7 @@ Measures the share of services consumed via shared service catalogs rather than 
 ## Formula
 
 ```
-Requests via Service Catalog / Total Requests
+CAR-GBS = Requests via Service Catalog / Total Requests
 ```
 
 ## Unit

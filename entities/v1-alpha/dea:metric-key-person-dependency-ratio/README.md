@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Key-Person Dependency Ratio** (KPDR) i
 - **Canonical id:** `dea:metric-key-person-dependency-ratio`
 - **Name:** Key-Person Dependency Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KPDR
 
@@ -22,7 +22,7 @@ Measures the share of critical processes, systems, or relationships that depend 
 ## Formula
 
 ```
-Critical Roles without Deputies / Critical Roles
+KPDR = Critical Roles without Deputies / Critical Roles
 ```
 
 ## Unit

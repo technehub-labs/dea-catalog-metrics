@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Incident Frequency (Constructio
 - **Canonical id:** `dea:metric-safety-incident-frequency-construction`
 - **Name:** Safety Incident Frequency (Construction)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIFC
 
@@ -22,7 +22,7 @@ Recordable safety incidents per hours worked - the construction industry's core 
 ## Formula
 
 ```
-(Recordable Incidents x 200,000) / Total Hours Worked
+SIFC = (Recordable Incidents x 200,000) / Total Hours Worked
 ```
 
 ## Unit

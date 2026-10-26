@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dashboard Currency (PMO)** (
 - **Canonical id:** `dea:metric-portfolio-dashboard-currency-pmo`
 - **Name:** Portfolio Dashboard Currency (PMO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDC
 
@@ -18,7 +18,7 @@ Within PMO & Portfolio Governance, Portfolio Dashboard Currency (PMO) (PDC) is u
 ## Formula
 
 ```
-Initiatives with Status Updated in Last Period / Initiatives
+PDC = Initiatives with Status Updated in Last Period / Initiatives
 ```
 
 ## Unit

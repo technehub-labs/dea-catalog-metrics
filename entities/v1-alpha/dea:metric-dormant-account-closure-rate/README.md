@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dormant Account Closure Rate** (DACR-I
 - **Canonical id:** `dea:metric-dormant-account-closure-rate`
 - **Name:** Dormant Account Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DACR-IAM
 
@@ -18,7 +18,7 @@ Dormant Account Closure Rate (DACR-IAM) measures exposure to adverse outcomes in
 ## Formula
 
 ```
-Dormant Accounts Disabled per Policy / Detected
+DACR-IAM = Dormant Accounts Disabled per Policy / Detected
 ```
 
 ## Unit

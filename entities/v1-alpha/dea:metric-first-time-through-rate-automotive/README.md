@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Time Through Rate (Automotive)**
 - **Canonical id:** `dea:metric-first-time-through-rate-automotive`
 - **Name:** First Time Through Rate (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTT-A
 
@@ -22,7 +22,7 @@ Measures the share of vehicles or units passing through production without rewor
 ## Formula
 
 ```
-Vehicles Passing All Inspections without Rework / Vehicles Produced
+FTT-A = Vehicles Passing All Inspections without Rework / Vehicles Produced
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conversion Funnel Completion Rate (Dee
 - **Canonical id:** `dea:metric-conversion-funnel-completion-rate-deep-dive`
 - **Name:** Conversion Funnel Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFCRDD
 
@@ -18,7 +18,7 @@ A Web & Digital Analytics Standard Measures indicator, Conversion Funnel Complet
 ## Formula
 
 ```
-Users Completing Funnel / Users Entering Funnel
+CFCRDD = Users Completing Funnel / Users Entering Funnel
 ```
 
 ## Unit

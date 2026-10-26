@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Syndication Revenue Share** (SRS-B) in
 - **Canonical id:** `dea:metric-syndication-revenue-share`
 - **Name:** Syndication Revenue Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRS-B
 
@@ -22,7 +22,7 @@ Measures the share of revenue from licensing content to third parties - broadcas
 ## Formula
 
 ```
-Syndication Revenue / Total Revenue
+SRS-B = Syndication Revenue / Total Revenue
 ```
 
 ## Unit

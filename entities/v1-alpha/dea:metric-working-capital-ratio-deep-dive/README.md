@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Ratio (Deep Dive)** (W
 - **Canonical id:** `dea:metric-working-capital-ratio-deep-dive`
 - **Name:** Working Capital Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCR-D
 
@@ -22,7 +22,7 @@ Measures current assets against current liabilities, the classic short-term solv
 ## Formula
 
 ```
-Current Assets / Current Liabilities
+WCR-D = Current Assets / Current Liabilities
 ```
 
 ## Unit

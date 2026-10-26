@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaring Intensity** (FLRI) in the Open
 - **Canonical id:** `dea:metric-flaring-intensity`
 - **Name:** Flaring Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FLRI
 
@@ -22,7 +22,7 @@ Flaring intensity measures gas burned off at the wellhead per unit of oil produc
 ## Formula
 
 ```
-Volume Flared / Volume Produced
+FLRI = Volume Flared / Volume Produced
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marginal CAC Efficiency** (MCAE) in th
 - **Canonical id:** `dea:metric-marginal-cac-efficiency`
 - **Name:** Marginal CAC Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCAE
 
@@ -22,7 +22,7 @@ Measures how acquisition cost behaves as spend scales. Marginal efficiency is wh
 ## Formula
 
 ```
-Change in Customers / Change in Acquisition Spend
+MCAE = Change in Customers / Change in Acquisition Spend
 ```
 
 ## Unit

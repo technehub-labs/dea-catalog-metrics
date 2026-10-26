@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seed Germination Rate (Deep Dive)** (S
 - **Canonical id:** `dea:metric-seed-germination-rate-deep-dive`
 - **Name:** Seed Germination Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGR-D
 
@@ -18,7 +18,7 @@ Seed Germination Rate (Deep Dive) (SGR-D) addresses the quality of outputs and o
 ## Formula
 
 ```
-Established Plants / Seeds Sown
+SGR-D = Established Plants / Seeds Sown
 ```
 
 ## Unit

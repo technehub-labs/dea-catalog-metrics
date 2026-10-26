@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Exception Rate** (PER-O) in the
 - **Canonical id:** `dea:metric-policy-exception-rate`
 - **Name:** Policy Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PER-O
 
@@ -22,7 +22,7 @@ Measures the frequency of exceptions to established policies. It matters because
 ## Formula
 
 ```
-Policy Exceptions Granted / Policy Applications
+PER-O = Policy Exceptions Granted / Policy Applications
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Efficiency** (PCE) in th
 - **Canonical id:** `dea:metric-process-cycle-efficiency`
 - **Name:** Process Cycle Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCE
 
@@ -22,7 +22,7 @@ Measures value-added time as a percentage of total process lead time. It matters
 ## Formula
 
 ```
-Value-Added Time / Total Cycle Time
+PCE = Value-Added Time / Total Cycle Time
 ```
 
 ## Unit

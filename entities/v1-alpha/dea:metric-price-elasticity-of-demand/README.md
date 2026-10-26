@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Elasticity of Demand** (PED) in 
 - **Canonical id:** `dea:metric-price-elasticity-of-demand`
 - **Name:** Price Elasticity of Demand
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PED
 
@@ -22,7 +22,7 @@ Measures how sensitively demand responds to price changes. Elasticity is the mat
 ## Formula
 
 ```
-Percent Change in Quantity / Percent Change in Price
+PED = Percent Change in Quantity / Percent Change in Price
 ```
 
 ## Unit

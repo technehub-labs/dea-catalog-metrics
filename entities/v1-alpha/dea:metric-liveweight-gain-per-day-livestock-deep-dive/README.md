@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liveweight Gain per Day (Livestock Dee
 - **Canonical id:** `dea:metric-liveweight-gain-per-day-livestock-deep-dive`
 - **Name:** Liveweight Gain per Day (Livestock Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LWGD
 
@@ -18,7 +18,7 @@ Liveweight Gain per Day (Livestock Deep Dive) (LWGD) captures how effectively a 
 ## Formula
 
 ```
-Average Daily Liveweight Gain
+LWGD = Average Daily Liveweight Gain
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Attribution Turnaround** (CAT
 - **Canonical id:** `dea:metric-campaign-attribution-turnaround`
 - **Name:** Campaign Attribution Turnaround
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAT
 
@@ -18,7 +18,7 @@ A Threat Intelligence & Red Team indicator, Campaign Attribution Turnaround (CAT
 ## Formula
 
 ```
-Days to Characterize Active Campaign
+CAT = Days to Characterize Active Campaign
 ```
 
 ## Unit

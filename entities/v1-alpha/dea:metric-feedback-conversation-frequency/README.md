@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feedback Conversation Frequency** (FCF
 - **Canonical id:** `dea:metric-feedback-conversation-frequency`
 - **Name:** Feedback Conversation Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCF
 
@@ -18,7 +18,7 @@ Feedback Conversation Frequency (FCF) addresses the engagement or satisfaction o
 ## Formula
 
 ```
-Documented Feedback Conversations per Employee per Period
+FCF = Documented Feedback Conversations per Employee per Period
 ```
 
 ## Unit

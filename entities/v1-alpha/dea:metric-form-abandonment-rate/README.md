@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Form Abandonment Rate** (FAR) in the O
 - **Canonical id:** `dea:metric-form-abandonment-rate`
 - **Name:** Form Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR
 
@@ -18,7 +18,7 @@ Form Abandonment Rate (FAR) measures exposure to adverse outcomes in the Digital
 ## Formula
 
 ```
-Forms Started but Not Submitted / Forms Started
+FAR = Forms Started but Not Submitted / Forms Started
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Rationalization Progress R
 - **Canonical id:** `dea:metric-application-rationalization-progress-rate`
 - **Name:** Application Rationalization Progress Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARRP-ITFM
 
@@ -22,7 +22,7 @@ Measures how quickly the application portfolio is consolidated toward its target
 ## Formula
 
 ```
-Applications Retired or Consolidated per Plan / Planned
+ARRP-ITFM = Applications Retired or Consolidated per Plan / Planned
 ```
 
 ## Unit

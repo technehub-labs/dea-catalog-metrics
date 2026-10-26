@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Transaction (Shared Services)
 - **Canonical id:** `dea:metric-cost-per-transaction-shared-services`
 - **Name:** Cost per Transaction (Shared Services)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPT-G
 
@@ -22,7 +22,7 @@ Cost per transaction in shared services measures the fully loaded unit cost of a
 ## Formula
 
 ```
-Total Service Cost / Transactions Processed
+CPT-G = Total Service Cost / Transactions Processed
 ```
 
 ## Unit

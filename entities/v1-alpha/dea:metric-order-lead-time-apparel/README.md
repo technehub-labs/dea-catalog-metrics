@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Lead Time (Apparel)** (OLT-A) in
 - **Canonical id:** `dea:metric-order-lead-time-apparel`
 - **Name:** Order Lead Time (Apparel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OLT-A
 
@@ -22,7 +22,7 @@ Order lead time in apparel measures days from order placement to delivery, and i
 ## Formula
 
 ```
-Days from Order Confirmation to Shipment
+OLT-A = Days from Order Confirmation to Shipment
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pair or Mob Programming Adoption Rate*
 - **Canonical id:** `dea:metric-pair-or-mob-programming-adoption-rate`
 - **Name:** Pair or Mob Programming Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMPAR
 
@@ -18,7 +18,7 @@ Within Software Development - Coding & Engineering Practices, Pair or Mob Progra
 ## Formula
 
 ```
-Sessions Using Pairing / Development Sessions
+PMPAR = Sessions Using Pairing / Development Sessions
 ```
 
 ## Unit

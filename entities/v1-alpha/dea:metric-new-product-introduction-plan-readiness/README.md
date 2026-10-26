@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Product Introduction Plan Readines
 - **Canonical id:** `dea:metric-new-product-introduction-plan-readiness`
 - **Name:** New Product Introduction Plan Readiness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPIR
 
@@ -22,7 +22,7 @@ Assesses whether launch-critical elements - engineering release, supply commitme
 ## Formula
 
 ```
-NPIs with Supply Plan at Launch / NPIs Launched
+NPIR = NPIs with Supply Plan at Launch / NPIs Launched
 ```
 
 ## Unit

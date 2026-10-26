@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Originate** (CTO) in the OpenD
 - **Canonical id:** `dea:metric-cost-to-originate`
 - **Name:** Cost to Originate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTO
 
@@ -22,7 +22,7 @@ Cost to originate measures all expenses of producing a loan - staffing, technolo
 ## Formula
 
 ```
-Total Origination Cost / Loans Originated
+CTO = Total Origination Cost / Loans Originated
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Satisfaction - Post-Visit Survey
 - **Canonical id:** `dea:metric-guest-satisfaction-post-visit-survey-deep-dive`
 - **Name:** Guest Satisfaction - Post-Visit Survey (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSPS-D
 
@@ -22,7 +22,7 @@ Measures guest sentiment captured after the dining experience. In a review-drive
 ## Formula
 
 ```
-Average Post-Visit Rating
+GSPS-D = Average Post-Visit Rating
 ```
 
 ## Unit

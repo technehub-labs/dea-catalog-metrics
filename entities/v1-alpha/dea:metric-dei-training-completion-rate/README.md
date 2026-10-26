@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DEI Training Completion Rate** (DEITC)
 - **Canonical id:** `dea:metric-dei-training-completion-rate`
 - **Name:** DEI Training Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DEITC
 
@@ -18,7 +18,7 @@ A Diversity, Equity & Inclusion (Deep Dive) indicator, DEI Training Completion R
 ## Formula
 
 ```
-Staff Completing Required DEI Learning / Staff
+DEITC = Staff Completing Required DEI Learning / Staff
 ```
 
 ## Unit

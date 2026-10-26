@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net New Assets Growth** (NNAG) in the 
 - **Canonical id:** `dea:metric-net-new-assets-growth`
 - **Name:** Net New Assets Growth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NNAG
 
@@ -22,7 +22,7 @@ Net new assets growth measures the net inflow of client money into a wealth plat
 ## Formula
 
 ```
-Net New Client Assets / Assets under Management at Start
+NNAG = Net New Client Assets / Assets under Management at Start
 ```
 
 ## Unit

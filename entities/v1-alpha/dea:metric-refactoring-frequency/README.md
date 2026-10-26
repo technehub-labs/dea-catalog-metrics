@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refactoring Frequency** (REFF) in the 
 - **Canonical id:** `dea:metric-refactoring-frequency`
 - **Name:** Refactoring Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REFF
 
@@ -18,7 +18,7 @@ Refactoring Frequency (REFF) addresses the quality of outputs and outcomes and i
 ## Formula
 
 ```
-Refactoring Commits per 100 Commits
+REFF = Refactoring Commits per 100 Commits
 ```
 
 ## Unit

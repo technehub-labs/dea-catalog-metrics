@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access to Personal Data Justification 
 - **Canonical id:** `dea:metric-access-to-personal-data-justification-rate`
 - **Name:** Access to Personal Data Justification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APDJR
 
@@ -18,7 +18,7 @@ Access to Personal Data Justification Rate (APDJR) measures exposure to adverse 
 ## Formula
 
 ```
-Access Grants with Valid Justification / Grants Sampled
+APDJR = Access Grants with Valid Justification / Grants Sampled
 ```
 
 ## Unit

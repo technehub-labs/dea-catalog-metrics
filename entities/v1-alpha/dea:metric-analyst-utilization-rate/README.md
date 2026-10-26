@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Utilization Rate** (AUR-DS) in
 - **Canonical id:** `dea:metric-analyst-utilization-rate`
 - **Name:** Analyst Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUR-DS
 
@@ -18,7 +18,7 @@ A Data Science & Analytics Operations indicator, Analyst Utilization Rate (AUR-D
 ## Formula
 
 ```
-Billable or Project Hours / Total Hours
+AUR-DS = Billable or Project Hours / Total Hours
 ```
 
 ## Unit

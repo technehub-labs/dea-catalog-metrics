@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned vs Emergency Change Ratio** (P
 - **Canonical id:** `dea:metric-planned-vs-emergency-change-ratio`
 - **Name:** Planned vs Emergency Change Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PECR
 
@@ -18,7 +18,7 @@ Planned vs Emergency Change Ratio (PECR) measures governance in the Network Chan
 ## Formula
 
 ```
-Planned Changes / Emergency Changes
+PECR = Planned Changes / Emergency Changes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blind Spot Review Frequency** (BSRF) i
 - **Canonical id:** `dea:metric-blind-spot-review-frequency`
 - **Name:** Blind Spot Review Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSRF
 
@@ -22,7 +22,7 @@ Measures how often the risk process deliberately searches for what it is not see
 ## Formula
 
 ```
-Formal Unknown-Risk Reviews per Year
+BSRF = Formal Unknown-Risk Reviews per Year
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Tooling Adoption Rate** (BTAR-BSC)
 - **Canonical id:** `dea:metric-bsc-tooling-adoption-rate`
 - **Name:** BSC Tooling Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTAR-BSC
 
@@ -18,7 +18,7 @@ BSC Tooling Adoption Rate (BTAR-BSC) addresses how efficiently resources are con
 ## Formula
 
 ```
-Units Using Standard BSC Platform / Units
+BTAR-BSC = Units Using Standard BSC Platform / Units
 ```
 
 ## Unit

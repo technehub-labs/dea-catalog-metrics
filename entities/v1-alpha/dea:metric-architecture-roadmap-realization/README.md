@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Roadmap Realization** (AR
 - **Canonical id:** `dea:metric-architecture-roadmap-realization`
 - **Name:** Architecture Roadmap Realization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARR
 
@@ -22,7 +22,7 @@ Measures delivery of committed architecture roadmap milestones - capability laun
 ## Formula
 
 ```
-Roadmap Milestones Delivered / Milestones Planned
+ARR = Roadmap Milestones Delivered / Milestones Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Security Rating Currency** (VSR
 - **Canonical id:** `dea:metric-vendor-security-rating-currency`
 - **Name:** Vendor Security Rating Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSRC
 
@@ -18,7 +18,7 @@ Vendor Security Rating Currency (VSRC) addresses exposure to adverse outcomes an
 ## Formula
 
 ```
-Ratings Refreshed within Cycle / Rated Vendors
+VSRC = Ratings Refreshed within Cycle / Rated Vendors
 ```
 
 ## Unit

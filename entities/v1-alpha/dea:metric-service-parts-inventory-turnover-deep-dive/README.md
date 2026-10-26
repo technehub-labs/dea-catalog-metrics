@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Parts Inventory Turnover (Deep
 - **Canonical id:** `dea:metric-service-parts-inventory-turnover-deep-dive`
 - **Name:** Service Parts Inventory Turnover (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPIT-D
 
@@ -18,7 +18,7 @@ Service Parts Inventory Turnover (Deep Dive) (SPIT-D) measures the utilization o
 ## Formula
 
 ```
-Annual Parts Issued / Average Parts Stock
+SPIT-D = Annual Parts Issued / Average Parts Stock
 ```
 
 ## Unit

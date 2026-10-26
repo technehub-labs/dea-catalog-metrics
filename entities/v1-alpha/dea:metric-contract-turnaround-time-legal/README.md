@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Turnaround Time (Legal)** (CT
 - **Canonical id:** `dea:metric-contract-turnaround-time-legal`
 - **Name:** Contract Turnaround Time (Legal)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTTL
 
@@ -18,7 +18,7 @@ Contract Turnaround Time (Legal) (CTTL) measures how efficiently resources are c
 ## Formula
 
 ```
-Days from Request to Executed Contract
+CTTL = Days from Request to Executed Contract
 ```
 
 ## Unit

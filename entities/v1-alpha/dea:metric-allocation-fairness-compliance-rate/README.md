@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Allocation Fairness Compliance Rate** 
 - **Canonical id:** `dea:metric-allocation-fairness-compliance-rate`
 - **Name:** Allocation Fairness Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFCR
 
@@ -18,7 +18,7 @@ Allocation Fairness Compliance Rate (AFCR) captures conformance to standards, pl
 ## Formula
 
 ```
-Allocations Following Agreed Rules / Allocations
+AFCR = Allocations Following Agreed Rules / Allocations
 ```
 
 ## Unit

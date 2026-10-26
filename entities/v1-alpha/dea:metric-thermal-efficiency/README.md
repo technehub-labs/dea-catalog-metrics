@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Efficiency** (THE) in the Open
 - **Canonical id:** `dea:metric-thermal-efficiency`
 - **Name:** Thermal Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THE
 
@@ -22,7 +22,7 @@ The share of fuel energy converted to useful output - for a power plant, fuel in
 ## Formula
 
 ```
-Useful Energy Output / Fuel Energy Input
+THE = Useful Energy Output / Fuel Energy Input
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Drawdown Duration** (MDDD) in 
 - **Canonical id:** `dea:metric-maximum-drawdown-duration`
 - **Name:** Maximum Drawdown Duration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDDD
 
@@ -22,7 +22,7 @@ Measures how long the portfolio took to recover from its worst peak-to-trough de
 ## Formula
 
 ```
-Days from Peak to Recovery of Prior High
+MDDD = Days from Peak to Recovery of Prior High
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secret Scanning Coverage** (SSC-AS) in
 - **Canonical id:** `dea:metric-secret-scanning-coverage`
 - **Name:** Secret Scanning Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSC-AS
 
@@ -18,7 +18,7 @@ Secret Scanning Coverage (SSC-AS) captures exposure to adverse outcomes for orga
 ## Formula
 
 ```
-Repositories with Secret Scanning / Repositories
+SSC-AS = Repositories with Secret Scanning / Repositories
 ```
 
 ## Unit

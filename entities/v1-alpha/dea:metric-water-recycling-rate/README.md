@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recycling Rate** (WRR) in the Op
 - **Canonical id:** `dea:metric-water-recycling-rate`
 - **Name:** Water Recycling Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRR
 
@@ -22,7 +22,7 @@ Measures the share of water use supplied by recycled or reclaimed sources. It ma
 ## Formula
 
 ```
-Recycled or Reused Water / Total Water Withdrawn
+WRR = Recycled or Reused Water / Total Water Withdrawn
 ```
 
 ## Unit

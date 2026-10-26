@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales Cycle Length** (SCL) in the Open
 - **Canonical id:** `dea:metric-sales-cycle-length`
 - **Name:** Sales Cycle Length
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCL
 
@@ -22,7 +22,7 @@ Measures the average time from qualified opportunity to closed deal. It matters 
 ## Formula
 
 ```
-Days from First Contact to Close, Averaged
+SCL = Days from First Contact to Close, Averaged
 ```
 
 ## Unit

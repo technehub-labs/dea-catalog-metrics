@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paint Shop First Pass Yield** (PSFPY) 
 - **Canonical id:** `dea:metric-paint-shop-first-pass-yield`
 - **Name:** Paint Shop First Pass Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSFPY
 
@@ -18,7 +18,7 @@ Paint Shop First Pass Yield (PSFPY) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Bodies Passing Paint Inspection First Time / Bodies Painted
+PSFPY = Bodies Passing Paint Inspection First Time / Bodies Painted
 ```
 
 ## Unit

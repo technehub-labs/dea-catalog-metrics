@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Safety Compliance Rate (Ads)** (
 - **Canonical id:** `dea:metric-brand-safety-compliance-rate-ads`
 - **Name:** Brand Safety Compliance Rate (Ads)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSCR-A
 
@@ -18,7 +18,7 @@ Brand Safety Compliance Rate (Ads) (BSCR-A) captures exposure to adverse outcome
 ## Formula
 
 ```
-Impressions on Approved Content / Impressions
+BSCR-A = Impressions on Approved Content / Impressions
 ```
 
 ## Unit

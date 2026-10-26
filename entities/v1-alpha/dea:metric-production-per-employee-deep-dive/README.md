@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production per Employee (Deep Dive)** 
 - **Canonical id:** `dea:metric-production-per-employee-deep-dive`
 - **Name:** Production per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPE-D
 
@@ -22,7 +22,7 @@ Measures output per manufacturing employee, normalized by plant. It is the labor
 ## Formula
 
 ```
-Vehicles / Employee
+PPE-D = Vehicles / Employee
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Run Error Rate** (PER) in the 
 - **Canonical id:** `dea:metric-payment-run-error-rate`
 - **Name:** Payment Run Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PER
 
@@ -18,7 +18,7 @@ Within Treasury & Cash Management, Payment Run Error Rate (PER) is used to gauge
 ## Formula
 
 ```
-Failed or Rejected Payments / Payments Initiated
+PER = Failed or Rejected Payments / Payments Initiated
 ```
 
 ## Unit

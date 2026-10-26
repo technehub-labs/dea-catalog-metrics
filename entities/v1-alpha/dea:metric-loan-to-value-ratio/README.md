@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan-to-Value Ratio** (LTV) in the Ope
 - **Canonical id:** `dea:metric-loan-to-value-ratio`
 - **Name:** Loan-to-Value Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTV
 
@@ -22,7 +22,7 @@ Measures the loan amount as a percentage of the collateral value at origination.
 ## Formula
 
 ```
-Loan Amount / Collateral Value
+LTV = Loan Amount / Collateral Value
 ```
 
 ## Unit

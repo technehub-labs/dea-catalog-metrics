@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vital Records Protection Coverage** (V
 - **Canonical id:** `dea:metric-vital-records-protection-coverage`
 - **Name:** Vital Records Protection Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRPC
 
@@ -18,7 +18,7 @@ Within Business Continuity & Disaster Recovery, Vital Records Protection Coverag
 ## Formula
 
 ```
-Vital Records Stored per Retention and Protection Standard / Vital Records
+VRPC = Vital Records Stored per Retention and Protection Standard / Vital Records
 ```
 
 ## Unit

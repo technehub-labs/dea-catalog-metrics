@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate - Fraud Recoveries (Deep
 - **Canonical id:** `dea:metric-recovery-rate-fraud-recoveries-deep-dive`
 - **Name:** Recovery Rate - Fraud Recoveries (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFR-D
 
@@ -22,7 +22,7 @@ Measures the share of identified fraud losses actually recovered through restitu
 ## Formula
 
 ```
-Fraud Amounts Recovered / Fraud Losses
+RFR-D = Fraud Amounts Recovered / Fraud Losses
 ```
 
 ## Unit

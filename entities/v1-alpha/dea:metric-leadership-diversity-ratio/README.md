@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Diversity Ratio** (LDR-DEI)
 - **Canonical id:** `dea:metric-leadership-diversity-ratio`
 - **Name:** Leadership Diversity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LDR-DEI
 
@@ -22,7 +22,7 @@ Measures demographic diversity specifically in leadership and senior roles. Lead
 ## Formula
 
 ```
-Underrepresented Groups in Leadership / Leadership Roles
+LDR-DEI = Underrepresented Groups in Leadership / Leadership Roles
 ```
 
 ## Unit

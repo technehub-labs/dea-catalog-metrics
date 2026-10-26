@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Exception Rate (Banking)*
 - **Canonical id:** `dea:metric-underwriting-exception-rate-banking`
 - **Name:** Underwriting Exception Rate (Banking)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UER-B
 
@@ -18,7 +18,7 @@ Underwriting Exception Rate (Banking) (UER-B) measures exposure to adverse outco
 ## Formula
 
 ```
-Approved Loans beyond Policy / Approved Loans
+UER-B = Approved Loans beyond Policy / Approved Loans
 ```
 
 ## Unit

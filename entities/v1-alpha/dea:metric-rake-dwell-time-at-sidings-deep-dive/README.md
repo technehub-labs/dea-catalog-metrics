@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rake Dwell Time at Sidings (Deep Dive)
 - **Canonical id:** `dea:metric-rake-dwell-time-at-sidings-deep-dive`
 - **Name:** Rake Dwell Time at Sidings (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDT-D
 
@@ -18,7 +18,7 @@ A Rail Freight (Deep Dive) indicator, Rake Dwell Time at Sidings (Deep Dive) (RD
 ## Formula
 
 ```
-Hours at Sidings per Trip
+RDT-D = Hours at Sidings per Trip
 ```
 
 ## Unit

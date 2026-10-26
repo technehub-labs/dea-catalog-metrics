@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Network Density Index** (RNDI) in
 - **Canonical id:** `dea:metric-risk-network-density-index`
 - **Name:** Risk Network Density Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RNDI
 
@@ -22,7 +22,7 @@ Measures how interconnected the risk landscape is (risk-to-risk dependencies). D
 ## Formula
 
 ```
-Connectedness of Risk Clusters in Taxonomy Network
+RNDI = Connectedness of Risk Clusters in Taxonomy Network
 ```
 
 ## Unit

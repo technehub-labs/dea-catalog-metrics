@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Integration Cost Overrun Rate** (ICOR)
 - **Canonical id:** `dea:metric-integration-cost-overrun-rate`
 - **Name:** Integration Cost Overrun Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICOR
 
@@ -22,7 +22,7 @@ Measures actual integration costs against planned, and against deal-model assump
 ## Formula
 
 ```
-Integration Cost Overrun / Planned Integration Cost
+ICOR = Integration Cost Overrun / Planned Integration Cost
 ```
 
 ## Unit

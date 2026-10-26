@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Window Change Detection Rate** 
 - **Canonical id:** `dea:metric-out-of-window-change-detection-rate`
 - **Name:** Out-of-Window Change Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OWCDR
 
@@ -18,7 +18,7 @@ Out-of-Window Change Detection Rate (OWCDR) addresses conformance to standards, 
 ## Formula
 
 ```
-Unauthorized Changes Detected / Total Changes Audited
+OWCDR = Unauthorized Changes Detected / Total Changes Audited
 ```
 
 ## Unit

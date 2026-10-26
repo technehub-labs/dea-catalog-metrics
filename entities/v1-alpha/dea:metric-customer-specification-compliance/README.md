@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Specification Compliance** (C
 - **Canonical id:** `dea:metric-customer-specification-compliance`
 - **Name:** Customer Specification Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSC
 
@@ -18,7 +18,7 @@ Within Chemicals, Customer Specification Compliance (CSC) is used to gauge the q
 ## Formula
 
 ```
-Batches Meeting Customer Specification / Batches Tested
+CSC = Batches Meeting Customer Specification / Batches Tested
 ```
 
 ## Unit

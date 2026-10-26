@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Completion Rate*
 - **Canonical id:** `dea:metric-regulatory-inspection-completion-rate`
 - **Name:** Regulatory Inspection Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RICR
 
@@ -18,7 +18,7 @@ Regulatory Inspection Completion Rate (RICR) addresses conformance to standards,
 ## Formula
 
 ```
-Inspections Completed per Plan / Planned Inspections
+RICR = Inspections Completed per Plan / Planned Inspections
 ```
 
 ## Unit

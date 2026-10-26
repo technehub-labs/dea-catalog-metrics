@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Performance Measure Variance
 - **Canonical id:** `dea:metric-technical-performance-measure-variance`
 - **Name:** Technical Performance Measure Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPMV
 
@@ -22,7 +22,7 @@ Measures deviation of actual technical parameters - weight, range, power, signat
 ## Formula
 
 ```
-Actual TPM - Threshold TPM / Threshold
+TPMV = Actual TPM - Threshold TPM / Threshold
 ```
 
 ## Unit

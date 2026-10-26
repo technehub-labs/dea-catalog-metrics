@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Contribution Rate** (KCR-E) 
 - **Canonical id:** `dea:metric-knowledge-contribution-rate`
 - **Name:** Knowledge Contribution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KCR-E
 
@@ -18,7 +18,7 @@ A Knowledge Management indicator, Knowledge Contribution Rate (KCR-E) quantifies
 ## Formula
 
 ```
-Employees Contributing Knowledge per Period / Employees
+KCR-E = Employees Contributing Knowledge per Period / Employees
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Completion Rate (Fitness)**
 - **Canonical id:** `dea:metric-onboarding-completion-rate-fitness`
 - **Name:** Onboarding Completion Rate (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR-F
 
@@ -18,7 +18,7 @@ Onboarding Completion Rate (Fitness) (OCR-F) captures the retention of customers
 ## Formula
 
 ```
-New Members Completing Induction / Joiners
+OCR-F = New Members Completing Induction / Joiners
 ```
 
 ## Unit

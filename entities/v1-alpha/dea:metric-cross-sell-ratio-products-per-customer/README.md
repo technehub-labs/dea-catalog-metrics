@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Sell Ratio (Products per Custome
 - **Canonical id:** `dea:metric-cross-sell-ratio-products-per-customer`
 - **Name:** Cross-Sell Ratio (Products per Customer)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** XSR-B
 
@@ -22,7 +22,7 @@ Measures average product count per retail banking customer. It matters because m
 ## Formula
 
 ```
-Products Held / Customer Relationships
+XSR-B = Products Held / Customer Relationships
 ```
 
 ## Unit

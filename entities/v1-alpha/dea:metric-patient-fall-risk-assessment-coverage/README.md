@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Fall Risk Assessment Coverage*
 - **Canonical id:** `dea:metric-patient-fall-risk-assessment-coverage`
 - **Name:** Patient Fall Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFRAC
 
@@ -18,7 +18,7 @@ Patient Fall Risk Assessment Coverage (PFRAC) captures exposure to adverse outco
 ## Formula
 
 ```
-Admissions Screened for Fall Risk within Policy Window / Admissions
+PFRAC = Admissions Screened for Fall Risk within Policy Window / Admissions
 ```
 
 ## Unit

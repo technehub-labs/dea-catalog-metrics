@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weibull Shape Parameter Confidence** (
 - **Canonical id:** `dea:metric-weibull-shape-parameter-confidence`
 - **Name:** Weibull Shape Parameter Confidence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSPC
 
@@ -18,7 +18,7 @@ A Reliability & Maintainability Engineering (Deep Dive) indicator, Weibull Shape
 ## Formula
 
 ```
-Confidence Interval Width of Fitted Beta
+WSPC = Confidence Interval Width of Fitted Beta
 ```
 
 ## Unit

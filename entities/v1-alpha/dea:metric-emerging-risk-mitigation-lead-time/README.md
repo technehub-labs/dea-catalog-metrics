@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emerging Risk Mitigation Lead Time** (
 - **Canonical id:** `dea:metric-emerging-risk-mitigation-lead-time`
 - **Name:** Emerging Risk Mitigation Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERMLT
 
@@ -22,7 +22,7 @@ Measures how far in advance of impact mitigation actions can be completed. Lead 
 ## Formula
 
 ```
-Days from Risk Accepted to First Mitigation in Place
+ERMLT = Days from Risk Accepted to First Mitigation in Place
 ```
 
 ## Unit

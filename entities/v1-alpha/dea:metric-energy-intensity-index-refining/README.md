@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity Index - Refining** (E
 - **Canonical id:** `dea:metric-energy-intensity-index-refining`
 - **Name:** Energy Intensity Index - Refining
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIIR
 
@@ -22,7 +22,7 @@ Measures fuel and energy consumption normalized by throughput and complexity. Re
 ## Formula
 
 ```
-Actual Energy / Solomon or Benchmark Energy
+EIIR = Actual Energy / Solomon or Benchmark Energy
 ```
 
 ## Unit

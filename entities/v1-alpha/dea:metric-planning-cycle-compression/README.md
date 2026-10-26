@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planning Cycle Compression** (PCC-FP) 
 - **Canonical id:** `dea:metric-planning-cycle-compression`
 - **Name:** Planning Cycle Compression
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCC-FP
 
@@ -18,7 +18,7 @@ Planning Cycle Compression (PCC-FP) addresses how efficiently resources are conv
 ## Formula
 
 ```
-Reduction in Cycle Days vs Prior Year / Prior Year
+PCC-FP = Reduction in Cycle Days vs Prior Year / Prior Year
 ```
 
 ## Unit

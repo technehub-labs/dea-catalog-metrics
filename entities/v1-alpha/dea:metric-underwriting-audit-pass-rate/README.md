@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Audit Pass Rate** (UAPR) 
 - **Canonical id:** `dea:metric-underwriting-audit-pass-rate`
 - **Name:** Underwriting Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UAPR
 
@@ -18,7 +18,7 @@ Underwriting Audit Pass Rate (UAPR) captures conformance to standards, plans, or
 ## Formula
 
 ```
-Files Passing Underwriting Audit / Files Audited
+UAPR = Files Passing Underwriting Audit / Files Audited
 ```
 
 ## Unit

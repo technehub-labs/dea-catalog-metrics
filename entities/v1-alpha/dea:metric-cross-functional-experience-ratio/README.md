@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Experience Ratio** (C
 - **Canonical id:** `dea:metric-cross-functional-experience-ratio`
 - **Name:** Cross-Functional Experience Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFER-BSC
 
@@ -18,7 +18,7 @@ Cross-Functional Experience Ratio (CFER-BSC) measures capability maturity or dev
 ## Formula
 
 ```
-Employees with Cross-Functional Rotations / Employees
+CFER-BSC = Employees with Cross-Functional Rotations / Employees
 ```
 
 ## Unit

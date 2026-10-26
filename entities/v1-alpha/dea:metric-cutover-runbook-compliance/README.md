@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cutover Runbook Compliance** (CRC-RM) 
 - **Canonical id:** `dea:metric-cutover-runbook-compliance`
 - **Name:** Cutover Runbook Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-RM
 
@@ -18,7 +18,7 @@ Cutover Runbook Compliance (CRC-RM) measures conformance to standards, plans, or
 ## Formula
 
 ```
-Cutover Steps Executed per Runbook / Steps
+CRC-RM = Cutover Steps Executed per Runbook / Steps
 ```
 
 ## Unit

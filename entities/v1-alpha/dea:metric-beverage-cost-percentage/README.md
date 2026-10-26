@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beverage Cost Percentage** (BCP) in th
 - **Canonical id:** `dea:metric-beverage-cost-percentage`
 - **Name:** Beverage Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCP
 
@@ -22,7 +22,7 @@ Measures beverage cost as a share of beverage sales. It matters because beverage
 ## Formula
 
 ```
-Beverage Cost / Beverage Revenue
+BCP = Beverage Cost / Beverage Revenue
 ```
 
 ## Unit

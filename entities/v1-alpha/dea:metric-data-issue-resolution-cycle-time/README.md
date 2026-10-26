@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Issue Resolution Cycle Time** (DI
 - **Canonical id:** `dea:metric-data-issue-resolution-cycle-time`
 - **Name:** Data Issue Resolution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIRC
 
@@ -18,7 +18,7 @@ Within Data Governance & Stewardship, Data Issue Resolution Cycle Time (DIRC) is
 ## Formula
 
 ```
-Days from Data Issue Raised to Resolved
+DIRC = Days from Data Issue Raised to Resolved
 ```
 
 ## Unit

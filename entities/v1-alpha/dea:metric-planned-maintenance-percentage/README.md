@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned Maintenance Percentage** (PMP)
 - **Canonical id:** `dea:metric-planned-maintenance-percentage`
 - **Name:** Planned Maintenance Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMP
 
@@ -22,7 +22,7 @@ The share of maintenance hours that are planned rather than reactive - the matur
 ## Formula
 
 ```
-Planned Maintenance Hours / Total Maintenance Hours
+PMP = Planned Maintenance Hours / Total Maintenance Hours
 ```
 
 ## Unit

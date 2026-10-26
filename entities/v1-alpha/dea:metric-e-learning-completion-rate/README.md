@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-learning Completion Rate** (ELCR) in
 - **Canonical id:** `dea:metric-e-learning-completion-rate`
 - **Name:** E-learning Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELCR
 
@@ -18,7 +18,7 @@ E-learning Completion Rate (ELCR) captures the engagement or satisfaction of the
 ## Formula
 
 ```
-Completed Online Courses / Courses Started
+ELCR = Completed Online Courses / Courses Started
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Material Weakness Count** (MWC) in the
 - **Canonical id:** `dea:metric-material-weakness-count`
 - **Name:** Material Weakness Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MWC
 
@@ -22,7 +22,7 @@ Measures the number of material weaknesses identified in internal control over f
 ## Formula
 
 ```
-Material Weaknesses Identified in Period
+MWC = Material Weaknesses Identified in Period
 ```
 
 ## Unit

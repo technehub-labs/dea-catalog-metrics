@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alarm Rationalization Reduction Rate**
 - **Canonical id:** `dea:metric-alarm-rationalization-reduction-rate`
 - **Name:** Alarm Rationalization Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARRR-NOC
 
@@ -18,7 +18,7 @@ Alarm Rationalization Reduction Rate (ARRR-NOC) captures how efficiently resourc
 ## Formula
 
 ```
-Reduction in Redundant Alarms per Rationalization Cycle
+ARRR-NOC = Reduction in Redundant Alarms per Rationalization Cycle
 ```
 
 ## Unit

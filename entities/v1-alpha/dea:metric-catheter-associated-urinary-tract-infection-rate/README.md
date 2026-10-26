@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catheter-Associated Urinary Tract Infe
 - **Canonical id:** `dea:metric-catheter-associated-urinary-tract-infection-rate`
 - **Name:** Catheter-Associated Urinary Tract Infection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAUTI
 
@@ -22,7 +22,7 @@ Measures CAUTI events per catheter-day. CAUTI is a preventable-harm measure driv
 ## Formula
 
 ```
-CAUTI Events / 1,000 Catheter Days
+CAUTI = CAUTI Events / 1,000 Catheter Days
 ```
 
 ## Unit

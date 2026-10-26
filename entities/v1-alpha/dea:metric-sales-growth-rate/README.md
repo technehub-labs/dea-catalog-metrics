@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales Growth Rate** (SGR) in the OpenD
 - **Canonical id:** `dea:metric-sales-growth-rate`
 - **Name:** Sales Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGR
 
@@ -22,7 +22,7 @@ Period-over-period growth in sales - the topline heartbeat of the commercial org
 ## Formula
 
 ```
-(Sales_current - Sales_prior) / Sales_prior
+SGR = (Sales_current - Sales_prior) / Sales_prior
 ```
 
 ## Unit

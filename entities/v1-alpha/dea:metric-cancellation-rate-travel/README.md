@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cancellation Rate (Travel)** (CNL) in 
 - **Canonical id:** `dea:metric-cancellation-rate-travel`
 - **Name:** Cancellation Rate (Travel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CNL
 
@@ -22,7 +22,7 @@ Measures the share of bookings later cancelled. It matters because cancellations
 ## Formula
 
 ```
-Cancelled Bookings / Total Bookings
+CNL = Cancelled Bookings / Total Bookings
 ```
 
 ## Unit

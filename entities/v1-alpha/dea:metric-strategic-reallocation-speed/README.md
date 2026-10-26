@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Reallocation Speed** (SRS) i
 - **Canonical id:** `dea:metric-strategic-reallocation-speed`
 - **Name:** Strategic Reallocation Speed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRS
 
@@ -22,7 +22,7 @@ Measures how quickly capital, people, and management attention move from declini
 ## Formula
 
 ```
-Months to Shift Budget beyond Threshold between Units
+SRS = Months to Shift Budget beyond Threshold between Units
 ```
 
 ## Unit

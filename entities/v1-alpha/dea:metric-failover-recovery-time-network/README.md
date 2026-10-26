@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failover Recovery Time (Network)** (FR
 - **Canonical id:** `dea:metric-failover-recovery-time-network`
 - **Name:** Failover Recovery Time (Network)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRTN
 
@@ -18,7 +18,7 @@ Within Network Performance & Capacity, Failover Recovery Time (Network) (FRTN) i
 ## Formula
 
 ```
-Time to Restore Traffic over Redundant Path
+FRTN = Time to Restore Traffic over Redundant Path
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Literacy Program Reach** (DLPR) i
 - **Canonical id:** `dea:metric-data-literacy-program-reach`
 - **Name:** Data Literacy Program Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLPR
 
@@ -18,7 +18,7 @@ A Data Governance & Stewardship indicator, Data Literacy Program Reach (DLPR) qu
 ## Formula
 
 ```
-Staff Completing Data Literacy Training / Staff in Scope
+DLPR = Staff Completing Data Literacy Training / Staff in Scope
 ```
 
 ## Unit

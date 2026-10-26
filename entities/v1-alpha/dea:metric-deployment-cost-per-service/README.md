@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Cost per Service** (DCPS-CD
 - **Canonical id:** `dea:metric-deployment-cost-per-service`
 - **Name:** Deployment Cost per Service
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCPS-CD
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Deployment Cost per Service (DCPS-CD) i
 ## Formula
 
 ```
-Pipeline Cost per Deployable Service per Month
+DCPS-CD = Pipeline Cost per Deployable Service per Month
 ```
 
 ## Unit

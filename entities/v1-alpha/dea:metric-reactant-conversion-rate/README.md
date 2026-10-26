@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reactant Conversion Rate** (RCTR) in t
 - **Canonical id:** `dea:metric-reactant-conversion-rate`
 - **Name:** Reactant Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCTR
 
@@ -18,7 +18,7 @@ Reactant Conversion Rate (RCTR) measures how efficiently resources are converted
 ## Formula
 
 ```
-Reactant Converted to Product / Reactant Fed
+RCTR = Reactant Converted to Product / Reactant Fed
 ```
 
 ## Unit

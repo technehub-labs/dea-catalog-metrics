@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Cycle Time** (SCCT) in th
 - **Canonical id:** `dea:metric-supply-chain-cycle-time`
 - **Name:** Supply Chain Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCCT
 
@@ -22,7 +22,7 @@ The total time from procuring raw materials to delivering finished goods - the e
 ## Formula
 
 ```
-Days to Fulfill Order with Zero Inventory
+SCCT = Days to Fulfill Order with Zero Inventory
 ```
 
 ## Unit

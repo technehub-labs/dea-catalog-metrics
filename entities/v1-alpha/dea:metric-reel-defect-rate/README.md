@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reel Defect Rate** (RDR-P) in the Open
 - **Canonical id:** `dea:metric-reel-defect-rate`
 - **Name:** Reel Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDR-P
 
@@ -18,7 +18,7 @@ Reel Defect Rate (RDR-P) addresses the quality of outputs and outcomes and is a 
 ## Formula
 
 ```
-Reels with Defects / Reels Produced
+RDR-P = Reels with Defects / Reels Produced
 ```
 
 ## Unit

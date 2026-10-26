@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield Gap Ratio (Deep Dive)** (YGR-D) 
 - **Canonical id:** `dea:metric-yield-gap-ratio-deep-dive`
 - **Name:** Yield Gap Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YGR-D
 
@@ -22,7 +22,7 @@ Compares achieved yields against attainable yields for the same agro-climatic zo
 ## Formula
 
 ```
-Actual Yield - Attainable Yield / Attainable Yield
+YGR-D = Actual Yield - Attainable Yield / Attainable Yield
 ```
 
 ## Unit

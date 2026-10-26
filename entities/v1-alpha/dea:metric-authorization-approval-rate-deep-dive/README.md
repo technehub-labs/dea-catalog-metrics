@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Authorization Approval Rate (Deep Dive
 - **Canonical id:** `dea:metric-authorization-approval-rate-deep-dive`
 - **Name:** Authorization Approval Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAR-D
 
@@ -22,7 +22,7 @@ Measures the share of card authorizations approved. It is the revenue-enablement
 ## Formula
 
 ```
-Approved Authorizations / Authorization Attempts
+AAR-D = Approved Authorizations / Authorization Attempts
 ```
 
 ## Unit

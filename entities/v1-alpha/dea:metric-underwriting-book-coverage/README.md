@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Book Coverage** (UBC) in 
 - **Canonical id:** `dea:metric-underwriting-book-coverage`
 - **Name:** Underwriting Book Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UBC
 
@@ -22,7 +22,7 @@ Measures the share of potential deals or mandates actually pursued across the bo
 ## Formula
 
 ```
-Order Book Value / Offering Value
+UBC = Order Book Value / Offering Value
 ```
 
 ## Unit

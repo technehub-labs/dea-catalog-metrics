@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Resolution Cycle Time** (ER
 - **Canonical id:** `dea:metric-escalation-resolution-cycle-time`
 - **Name:** Escalation Resolution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERCT-P
 
@@ -18,7 +18,7 @@ Escalation Resolution Cycle Time (ERCT-P) measures how efficiently resources are
 ## Formula
 
 ```
-Days from Escalation to Decision
+ERCT-P = Days from Escalation to Decision
 ```
 
 ## Unit

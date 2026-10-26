@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Recovery Effectiveness** (SRE)
 - **Canonical id:** `dea:metric-service-recovery-effectiveness`
 - **Name:** Service Recovery Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRE
 
@@ -22,7 +22,7 @@ Measures how well failures are converted into retained, even strengthened, relat
 ## Formula
 
 ```
-Recovered Customers after Service Failure / Service Failure Cases
+SRE = Recovered Customers after Service Failure / Service Failure Cases
 ```
 
 ## Unit

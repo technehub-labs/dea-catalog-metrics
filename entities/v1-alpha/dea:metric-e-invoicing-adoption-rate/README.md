@@ -7,7 +7,7 @@ Candidate Performance Metric record for **e-Invoicing Adoption Rate** (EIA) in t
 - **Canonical id:** `dea:metric-e-invoicing-adoption-rate`
 - **Name:** e-Invoicing Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIA
 
@@ -18,7 +18,7 @@ e-Invoicing Adoption Rate (EIA) addresses how efficiently resources are converte
 ## Formula
 
 ```
-Invoices Received Electronically / Invoices
+EIA = Invoices Received Electronically / Invoices
 ```
 
 ## Unit

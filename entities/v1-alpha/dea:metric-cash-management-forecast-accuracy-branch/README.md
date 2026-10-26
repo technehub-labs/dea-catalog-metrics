@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Management Forecast Accuracy (Bra
 - **Canonical id:** `dea:metric-cash-management-forecast-accuracy-branch`
 - **Name:** Cash Management Forecast Accuracy (Branch)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMFA
 
@@ -18,7 +18,7 @@ Within Retail Banking Branch Network (Deep Dive), Cash Management Forecast Accur
 ## Formula
 
 ```
-1 - Absolute Forecast Error / Actual Cash Demand
+CMFA = 1 - Absolute Forecast Error / Actual Cash Demand
 ```
 
 ## Unit

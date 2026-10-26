@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Script Complement Rate - OTC Attach** 
 - **Canonical id:** `dea:metric-script-complement-rate-otc-attach`
 - **Name:** Script Complement Rate - OTC Attach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-O
 
@@ -18,7 +18,7 @@ A Pharmacy Retail indicator, Script Complement Rate - OTC Attach (SCR-O) quantif
 ## Formula
 
 ```
-OTC Recommendations Accepted / Offered
+SCR-O = OTC Recommendations Accepted / Offered
 ```
 
 ## Unit

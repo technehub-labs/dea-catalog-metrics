@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Decline Rate** (FDR-P) in the Op
 - **Canonical id:** `dea:metric-false-decline-rate`
 - **Name:** False Decline Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDR-P
 
@@ -22,7 +22,7 @@ False decline rate measures legitimate transactions rejected by risk controls, a
 ## Formula
 
 ```
-Legitimate Transactions Declined / Legitimate Attempts
+FDR-P = Legitimate Transactions Declined / Legitimate Attempts
 ```
 
 ## Unit

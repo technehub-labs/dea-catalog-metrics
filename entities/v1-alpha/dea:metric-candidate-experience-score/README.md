@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Candidate Experience Score** (CXS-TA) 
 - **Canonical id:** `dea:metric-candidate-experience-score`
 - **Name:** Candidate Experience Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CXS-TA
 
@@ -18,7 +18,7 @@ Within Talent Acquisition Deep Dive, Candidate Experience Score (CXS-TA) is used
 ## Formula
 
 ```
-Post-Process Candidate Survey Score
+CXS-TA = Post-Process Candidate Survey Score
 ```
 
 ## Unit

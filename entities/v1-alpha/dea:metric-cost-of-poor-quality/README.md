@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost of Poor Quality** (COPQ) in the O
 - **Canonical id:** `dea:metric-cost-of-poor-quality`
 - **Name:** Cost of Poor Quality
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COPQ
 
@@ -22,7 +22,7 @@ The total cost of failing to do things right the first time - prevention and app
 ## Formula
 
 ```
-Internal Failure + External Failure + Appraisal + Prevention Costs
+COPQ = Internal Failure + External Failure + Appraisal + Prevention Costs
 ```
 
 ## Unit

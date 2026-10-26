@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Question Rate** (RQR-KM) in the
 - **Canonical id:** `dea:metric-repeat-question-rate`
 - **Name:** Repeat Question Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RQR-KM
 
@@ -18,7 +18,7 @@ Repeat Question Rate (RQR-KM) captures the quality of outputs and outcomes for o
 ## Formula
 
 ```
-Questions Asked That Have Existing Answers / Questions
+RQR-KM = Questions Asked That Have Existing Answers / Questions
 ```
 
 ## Unit

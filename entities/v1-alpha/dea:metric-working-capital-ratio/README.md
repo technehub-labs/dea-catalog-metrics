@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Ratio** (WCR) in the O
 - **Canonical id:** `dea:metric-working-capital-ratio`
 - **Name:** Working Capital Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCR
 
@@ -22,7 +22,7 @@ Measures the ratio of current assets to current liabilities, showing how comfort
 ## Formula
 
 ```
-Current Assets / Current Liabilities
+WCR = Current Assets / Current Liabilities
 ```
 
 ## Unit

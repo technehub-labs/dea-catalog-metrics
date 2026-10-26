@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Initiative-to-Objective Traceability**
 - **Canonical id:** `dea:metric-initiative-to-objective-traceability`
 - **Name:** Initiative-to-Objective Traceability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IOT-BSC
 
@@ -22,7 +22,7 @@ Measures whether each strategic objective is supported by traceable initiatives 
 ## Formula
 
 ```
-Strategic Initiatives Mapped to Objectives / Initiatives
+IOT-BSC = Strategic Initiatives Mapped to Objectives / Initiatives
 ```
 
 ## Unit

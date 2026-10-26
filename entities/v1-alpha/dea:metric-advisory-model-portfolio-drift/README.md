@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advisory Model Portfolio Drift** (AMPD
 - **Canonical id:** `dea:metric-advisory-model-portfolio-drift`
 - **Name:** Advisory Model Portfolio Drift
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMPD
 
@@ -18,7 +18,7 @@ Advisory Model Portfolio Drift (AMPD) addresses conformance to standards, plans,
 ## Formula
 
 ```
-Client Allocations Deviating beyond Tolerance / Client Allocations
+AMPD = Client Allocations Deviating beyond Tolerance / Client Allocations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customs Clearance Cycle Time** (CCCT-T
 - **Canonical id:** `dea:metric-customs-clearance-cycle-time`
 - **Name:** Customs Clearance Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCCT-T
 
@@ -18,7 +18,7 @@ Customs Clearance Cycle Time (CCCT-T) addresses how efficiently resources are co
 ## Formula
 
 ```
-Hours from Arrival to Customs Release
+CCCT-T = Hours from Arrival to Customs Release
 ```
 
 ## Unit

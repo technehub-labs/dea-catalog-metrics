@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Listing to Sale Ratio** (LSR-RE) in th
 - **Canonical id:** `dea:metric-listing-to-sale-ratio`
 - **Name:** Listing to Sale Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSR-RE
 
@@ -22,7 +22,7 @@ The listing to sale ratio measures homes sold against homes listed, and it is th
 ## Formula
 
 ```
-Listings Sold within Period / Listings Taken
+LSR-RE = Listings Sold within Period / Listings Taken
 ```
 
 ## Unit

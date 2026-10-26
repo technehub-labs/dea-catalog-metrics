@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Drift Alert Response Time** (MDA
 - **Canonical id:** `dea:metric-model-drift-alert-response-time`
 - **Name:** Model Drift Alert Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDART
 
@@ -18,7 +18,7 @@ A AI Governance & Model Risk Management indicator, Model Drift Alert Response Ti
 ## Formula
 
 ```
-Hours from Drift Alert to Acknowledged Action
+MDART = Hours from Drift Alert to Acknowledged Action
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reservoir Recovery Factor** (RRF) in t
 - **Canonical id:** `dea:metric-reservoir-recovery-factor`
 - **Name:** Reservoir Recovery Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRF
 
@@ -22,7 +22,7 @@ Reservoir recovery factor measures the share of original oil in place ultimately
 ## Formula
 
 ```
-Hydrocarbons Recovered / Hydrocarbons in Place
+RRF = Hydrocarbons Recovered / Hydrocarbons in Place
 ```
 
 ## Unit

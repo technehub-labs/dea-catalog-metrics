@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rework and Scrap Rate (Semiconductor D
 - **Canonical id:** `dea:metric-rework-and-scrap-rate-semiconductor-deep-dive`
 - **Name:** Rework and Scrap Rate (Semiconductor Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSR-S
 
@@ -18,7 +18,7 @@ Rework and Scrap Rate (Semiconductor Deep Dive) (RSR-S) captures how efficiently
 ## Formula
 
 ```
-Reworked or Scrapped Wafers / Wafers Processed
+RSR-S = Reworked or Scrapped Wafers / Wafers Processed
 ```
 
 ## Unit

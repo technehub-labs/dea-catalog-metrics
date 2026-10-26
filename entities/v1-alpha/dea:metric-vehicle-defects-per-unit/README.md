@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Defects per Unit** (VDPU) in t
 - **Canonical id:** `dea:metric-vehicle-defects-per-unit`
 - **Name:** Vehicle Defects per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VDPU
 
@@ -18,7 +18,7 @@ Vehicle Defects per Unit (VDPU) measures the quality of outputs and outcomes in 
 ## Formula
 
 ```
-Assembly Defects / Vehicles Produced
+VDPU = Assembly Defects / Vehicles Produced
 ```
 
 ## Unit

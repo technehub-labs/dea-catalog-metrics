@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Centering Ratio** (PCR-SS) in 
 - **Canonical id:** `dea:metric-process-centering-ratio`
 - **Name:** Process Centering Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR-SS
 
@@ -18,7 +18,7 @@ A Process Capability & Six Sigma (Deep Dive) indicator, Process Centering Ratio 
 ## Formula
 
 ```
-Distance of Process Mean from Spec Midpoint / Half-Tolerance
+PCR-SS = Distance of Process Mean from Spec Midpoint / Half-Tolerance
 ```
 
 ## Unit

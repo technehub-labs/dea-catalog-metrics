@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Mille (CPM)** (CPMAD) in the 
 - **Canonical id:** `dea:metric-cost-per-mille-cpm`
 - **Name:** Cost per Mille (CPM)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPMAD
 
@@ -18,7 +18,7 @@ Within Marketing & Advertising Standard Measures (Deep Dive), Cost per Mille (CP
 ## Formula
 
 ```
-Spend / Impressions x 1,000
+CPMAD = Spend / Impressions x 1,000
 ```
 
 ## Unit

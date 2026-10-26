@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Channel Adoption (Government) 
 - **Canonical id:** `dea:metric-digital-channel-adoption-government-deep-dive`
 - **Name:** Digital Channel Adoption (Government) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCADD
 
@@ -22,7 +22,7 @@ Measures the share of citizen transactions completed through digital channels. D
 ## Formula
 
 ```
-Digital Service Transactions / Total Transactions
+DCADD = Digital Service Transactions / Total Transactions
 ```
 
 ## Unit

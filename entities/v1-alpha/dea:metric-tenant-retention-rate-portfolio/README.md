@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tenant Retention Rate (Portfolio)** (T
 - **Canonical id:** `dea:metric-tenant-retention-rate-portfolio`
 - **Name:** Tenant Retention Rate (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRR-P
 
@@ -22,7 +22,7 @@ Measures the share of expiring leases renewed. Retention is the cheapest leasing
 ## Formula
 
 ```
-Leases Renewed / Leases Expiring
+TRR-P = Leases Renewed / Leases Expiring
 ```
 
 ## Unit

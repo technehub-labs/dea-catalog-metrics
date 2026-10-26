@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Change Failure Rate** (APICFR) in 
 - **Canonical id:** `dea:metric-api-change-failure-rate`
 - **Name:** API Change Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APICFR
 
@@ -18,7 +18,7 @@ API Change Failure Rate (APICFR) captures the quality of outputs and outcomes fo
 ## Formula
 
 ```
-API Changes Causing Incident / API Changes
+APICFR = API Changes Causing Incident / API Changes
 ```
 
 ## Unit

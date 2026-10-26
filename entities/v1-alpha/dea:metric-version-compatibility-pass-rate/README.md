@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Version Compatibility Pass Rate** (VCP
 - **Canonical id:** `dea:metric-version-compatibility-pass-rate`
 - **Name:** Version Compatibility Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VCPR-CD
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Version Compatibility Pass Rate (VCPR-C
 ## Formula
 
 ```
-Compatibility Tests Passed before Promotion / Tests
+VCPR-CD = Compatibility Tests Passed before Promotion / Tests
 ```
 
 ## Unit

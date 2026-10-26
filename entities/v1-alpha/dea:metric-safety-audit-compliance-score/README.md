@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Audit Compliance Score** (SACS)
 - **Canonical id:** `dea:metric-safety-audit-compliance-score`
 - **Name:** Safety Audit Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACS
 
@@ -22,7 +22,7 @@ Measures performance against workplace safety audit checklists. It matters becau
 ## Formula
 
 ```
-Weighted Audit Score of Site Safety Conditions
+SACS = Weighted Audit Score of Site Safety Conditions
 ```
 
 ## Unit

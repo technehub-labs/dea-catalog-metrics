@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Mobility Fill Ratio** (IMFR) 
 - **Canonical id:** `dea:metric-internal-mobility-fill-ratio`
 - **Name:** Internal Mobility Fill Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMFR
 
@@ -22,7 +22,7 @@ Measures the share of open roles filled by internal candidates. Internal fills p
 ## Formula
 
 ```
-Roles Filled Internally / Roles Filled
+IMFR = Roles Filled Internally / Roles Filled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Curriculum Currency Rate** (CURR) in t
 - **Canonical id:** `dea:metric-curriculum-currency-rate`
 - **Name:** Curriculum Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CURR
 
@@ -22,7 +22,7 @@ Measures how recently each program's curriculum was reviewed against current pra
 ## Formula
 
 ```
-Courses Reviewed within Update Cycle / Courses
+CURR = Courses Reviewed within Update Cycle / Courses
 ```
 
 ## Unit

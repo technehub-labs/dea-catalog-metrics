@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Export Control License Cycle Time** (E
 - **Canonical id:** `dea:metric-export-control-license-cycle-time`
 - **Name:** Export Control License Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECLC
 
@@ -18,7 +18,7 @@ Within International Trade & Customs, Export Control License Cycle Time (ECLC) i
 ## Formula
 
 ```
-Days from License Application to Grant
+ECLC = Days from License Application to Grant
 ```
 
 ## Unit

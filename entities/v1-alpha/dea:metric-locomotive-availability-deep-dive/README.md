@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Locomotive Availability (Deep Dive)** 
 - **Canonical id:** `dea:metric-locomotive-availability-deep-dive`
 - **Name:** Locomotive Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LA-D
 
@@ -22,7 +22,7 @@ Measures the share of locomotives available for assignment. Locomotives are the 
 ## Formula
 
 ```
-Locomotives Available / Locomotives in Fleet
+LA-D = Locomotives Available / Locomotives in Fleet
 ```
 
 ## Unit

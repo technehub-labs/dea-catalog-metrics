@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Frequency 
 - **Canonical id:** `dea:metric-system-average-interruption-frequency-index-deep-dive`
 - **Name:** System Average Interruption Frequency Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAIFI-D
 
@@ -22,7 +22,7 @@ SAIFI, from IEEE Std 1366, is the average number of sustained interruptions per 
 ## Formula
 
 ```
-Customer Interruptions / Customers Served
+SAIFI-D = Customer Interruptions / Customers Served
 ```
 
 ## Unit

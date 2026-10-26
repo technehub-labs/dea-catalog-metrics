@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Churn Rate (Telecom)** (CR-T) in the O
 - **Canonical id:** `dea:metric-churn-rate-telecom`
 - **Name:** Churn Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CR-T
 
@@ -22,7 +22,7 @@ The share of subscribers lost over a period - the retention metric of the connec
 ## Formula
 
 ```
-Subscribers Lost / Average Subscribers
+CR-T = Subscribers Lost / Average Subscribers
 ```
 
 ## Unit

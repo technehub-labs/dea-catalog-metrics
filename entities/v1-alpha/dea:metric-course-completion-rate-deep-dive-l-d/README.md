@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Course Completion Rate (Deep Dive - L&
 - **Canonical id:** `dea:metric-course-completion-rate-deep-dive-l-d`
 - **Name:** Course Completion Rate (Deep Dive - L&D)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCRDD
 
@@ -18,7 +18,7 @@ Course Completion Rate (Deep Dive - L&D) (CCRDD) addresses conformance to standa
 ## Formula
 
 ```
-Completions per Enrollments
+CCRDD = Completions per Enrollments
 ```
 
 ## Unit

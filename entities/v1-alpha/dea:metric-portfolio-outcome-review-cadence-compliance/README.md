@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Outcome Review Cadence Compl
 - **Canonical id:** `dea:metric-portfolio-outcome-review-cadence-compliance`
 - **Name:** Portfolio Outcome Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PORCC
 
@@ -22,7 +22,7 @@ Measures whether the portfolio undergoes scheduled performance-versus-promise re
 ## Formula
 
 ```
-Reviews Held per Governance Calendar / Scheduled
+PORCC = Reviews Held per Governance Calendar / Scheduled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Resolution Rate (Citizen Se
 - **Canonical id:** `dea:metric-first-time-resolution-rate-citizen-services`
 - **Name:** First-Time Resolution Rate (Citizen Services)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTRCS
 
@@ -18,7 +18,7 @@ First-Time Resolution Rate (Citizen Services) (FTRCS) measures the quality of ou
 ## Formula
 
 ```
-Citizen Requests Resolved without Follow-up / Requests
+FTRCS = Citizen Requests Resolved without Follow-up / Requests
 ```
 
 ## Unit

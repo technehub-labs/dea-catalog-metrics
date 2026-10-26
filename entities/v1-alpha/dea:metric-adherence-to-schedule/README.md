@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adherence to Schedule** (SCH-AD) in th
 - **Canonical id:** `dea:metric-adherence-to-schedule`
 - **Name:** Adherence to Schedule
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCH-AD
 
@@ -18,7 +18,7 @@ A Contact Center indicator, Adherence to Schedule (SCH-AD) quantifies conformanc
 ## Formula
 
 ```
-Time Working as Scheduled / Scheduled Time
+SCH-AD = Time Working as Scheduled / Scheduled Time
 ```
 
 ## Unit

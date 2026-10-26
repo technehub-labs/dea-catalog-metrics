@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Override Justification Compliance** (O
 - **Canonical id:** `dea:metric-override-justification-compliance`
 - **Name:** Override Justification Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OJC-AI
 
@@ -18,7 +18,7 @@ Override Justification Compliance (OJC-AI) measures conformance to standards, pl
 ## Formula
 
 ```
-Overrides with Documented Justification / Overrides
+OJC-AI = Overrides with Documented Justification / Overrides
 ```
 
 ## Unit

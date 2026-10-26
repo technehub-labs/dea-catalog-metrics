@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Compliance** (CCC-F) in the
 - **Canonical id:** `dea:metric-cold-chain-compliance`
 - **Name:** Cold Chain Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC-F
 
@@ -22,7 +22,7 @@ Measures the share of perishable products maintained within required temperature
 ## Formula
 
 ```
-Shipments within Temperature Range / Shipments Monitored
+CCC-F = Shipments within Temperature Range / Shipments Monitored
 ```
 
 ## Unit

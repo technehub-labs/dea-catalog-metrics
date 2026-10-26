@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Session Length Percentile 50 (Gaming)*
 - **Canonical id:** `dea:metric-session-length-percentile-50-gaming`
 - **Name:** Session Length Percentile 50 (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SL50
 
@@ -18,7 +18,7 @@ Within Gaming Development & Live Operations, Session Length Percentile 50 (Gamin
 ## Formula
 
 ```
-Median Play Session Duration
+SL50 = Median Play Session Duration
 ```
 
 ## Unit

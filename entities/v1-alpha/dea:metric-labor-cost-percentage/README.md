@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Percentage** (LCP) in the O
 - **Canonical id:** `dea:metric-labor-cost-percentage`
 - **Name:** Labor Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCP
 
@@ -22,7 +22,7 @@ Measures labor cost as a share of revenue or total cost. It frames workforce eco
 ## Formula
 
 ```
-Total Labor Cost / Revenue
+LCP = Total Labor Cost / Revenue
 ```
 
 ## Unit

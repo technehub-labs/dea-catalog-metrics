@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability Growth Rate** (RGR-RM) in 
 - **Canonical id:** `dea:metric-reliability-growth-rate`
 - **Name:** Reliability Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RGR-RM
 
@@ -22,7 +22,7 @@ Measures how quickly product or asset reliability improves across design iterati
 ## Formula
 
 ```
-Change in MTBF across Test-Fix-Test Cycles
+RGR-RM = Change in MTBF across Test-Fix-Test Cycles
 ```
 
 ## Unit

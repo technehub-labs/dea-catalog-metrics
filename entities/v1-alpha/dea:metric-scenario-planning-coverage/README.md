@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Planning Coverage** (SPC-S) i
 - **Canonical id:** `dea:metric-scenario-planning-coverage`
 - **Name:** Scenario Planning Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPC-S
 
@@ -22,7 +22,7 @@ Measures the share of material demand or supply uncertainties with modeled scena
 ## Formula
 
 ```
-Plans with Documented Demand Scenarios / Plans
+SPC-S = Plans with Documented Demand Scenarios / Plans
 ```
 
 ## Unit

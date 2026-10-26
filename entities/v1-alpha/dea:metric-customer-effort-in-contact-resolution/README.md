@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Effort in Contact Resolution*
 - **Canonical id:** `dea:metric-customer-effort-in-contact-resolution`
 - **Name:** Customer Effort in Contact Resolution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CECR
 
@@ -22,7 +22,7 @@ Measures how much work customers invest to get an issue resolved through support
 ## Formula
 
 ```
-Average Contact Effort Rating on Survey
+CECR = Average Contact Effort Rating on Survey
 ```
 
 ## Unit

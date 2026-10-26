@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Throughput per User** (DTPU) in t
 - **Canonical id:** `dea:metric-data-throughput-per-user`
 - **Name:** Data Throughput per User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTPU
 
@@ -18,7 +18,7 @@ Within Telecom Network Operations, Data Throughput per User (DTPU) is used to ga
 ## Formula
 
 ```
-Total Data Delivered / Active Users
+DTPU = Total Data Delivered / Active Users
 ```
 
 ## Unit

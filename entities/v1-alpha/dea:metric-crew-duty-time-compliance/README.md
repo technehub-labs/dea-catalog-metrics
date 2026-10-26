@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew Duty Time Compliance** (CDTC) in 
 - **Canonical id:** `dea:metric-crew-duty-time-compliance`
 - **Name:** Crew Duty Time Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDTC
 
@@ -18,7 +18,7 @@ Crew Duty Time Compliance (CDTC) addresses conformance to standards, plans, or o
 ## Formula
 
 ```
-Crew Rosters within Duty Limits / Rosters Checked
+CDTC = Crew Rosters within Duty Limits / Rosters Checked
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duty Overpayment Recovery Rate** (DORR
 - **Canonical id:** `dea:metric-duty-overpayment-recovery-rate`
 - **Name:** Duty Overpayment Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DORR
 
@@ -18,7 +18,7 @@ A International Trade & Customs indicator, Duty Overpayment Recovery Rate (DORR)
 ## Formula
 
 ```
-Duty Refunds Recovered / Recoverable Overpayments
+DORR = Duty Refunds Recovered / Recoverable Overpayments
 ```
 
 ## Unit

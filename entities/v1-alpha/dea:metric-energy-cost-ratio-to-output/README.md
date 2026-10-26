@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost Ratio to Output** (ECRO) i
 - **Canonical id:** `dea:metric-energy-cost-ratio-to-output`
 - **Name:** Energy Cost Ratio to Output
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECRO
 
@@ -22,7 +22,7 @@ Measures energy cost as a share of production value or total operating cost. It 
 ## Formula
 
 ```
-Total Energy Cost / Units of Output
+ECRO = Total Energy Cost / Units of Output
 ```
 
 ## Unit

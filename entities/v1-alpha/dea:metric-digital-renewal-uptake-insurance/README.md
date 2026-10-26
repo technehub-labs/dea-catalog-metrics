@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Renewal Uptake (Insurance)** (
 - **Canonical id:** `dea:metric-digital-renewal-uptake-insurance`
 - **Name:** Digital Renewal Uptake (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRU-I
 
@@ -18,7 +18,7 @@ Within Insurance Distribution - Direct & Digital, Digital Renewal Uptake (Insura
 ## Formula
 
 ```
-Renewals Completed Digitally / Renewals
+DRU-I = Renewals Completed Digitally / Renewals
 ```
 
 ## Unit

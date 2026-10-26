@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Local Market Coverage Rate** (LMCR) in
 - **Canonical id:** `dea:metric-local-market-coverage-rate`
 - **Name:** Local Market Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LMCR
 
@@ -18,7 +18,7 @@ Within Advertising & Media Buying, Local Market Coverage Rate (LMCR) is used to 
 ## Formula
 
 ```
-Designated Markets Covered per Plan / Planned Markets
+LMCR = Designated Markets Covered per Plan / Planned Markets
 ```
 
 ## Unit

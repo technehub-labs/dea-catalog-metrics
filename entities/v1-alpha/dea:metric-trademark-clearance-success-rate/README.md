@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trademark Clearance Success Rate** (TC
 - **Canonical id:** `dea:metric-trademark-clearance-success-rate`
 - **Name:** Trademark Clearance Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCSR
 
@@ -18,7 +18,7 @@ Trademark Clearance Success Rate (TCSR) measures the quality of outputs and outc
 ## Formula
 
 ```
-Marks Cleared without Opposition / Marks Filed
+TCSR = Marks Cleared without Opposition / Marks Filed
 ```
 
 ## Unit

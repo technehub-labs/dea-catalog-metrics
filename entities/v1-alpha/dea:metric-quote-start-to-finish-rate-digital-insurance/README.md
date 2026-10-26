@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quote Start-to-Finish Rate (Digital In
 - **Canonical id:** `dea:metric-quote-start-to-finish-rate-digital-insurance`
 - **Name:** Quote Start-to-Finish Rate (Digital Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QSFR
 
@@ -18,7 +18,7 @@ A Insurance Distribution - Direct & Digital indicator, Quote Start-to-Finish Rat
 ## Formula
 
 ```
-Completed Quotes / Started Quotes
+QSFR = Completed Quotes / Started Quotes
 ```
 
 ## Unit

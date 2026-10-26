@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engineering Change Order Cycle Time** 
 - **Canonical id:** `dea:metric-engineering-change-order-cycle-time`
 - **Name:** Engineering Change Order Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECOT
 
@@ -18,7 +18,7 @@ Engineering Change Order Cycle Time (ECOT) measures how efficiently resources ar
 ## Formula
 
 ```
-Days from ECR to ECO Implementation
+ECOT = Days from ECR to ECO Implementation
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collections Right-Party Contact Rate**
 - **Canonical id:** `dea:metric-collections-right-party-contact-rate`
 - **Name:** Collections Right-Party Contact Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPCR
 
@@ -18,7 +18,7 @@ A Banking Retail Lending (Deep Dive) indicator, Collections Right-Party Contact 
 ## Formula
 
 ```
-Contacts with Customer / Contact Attempts
+RPCR = Contacts with Customer / Contact Attempts
 ```
 
 ## Unit

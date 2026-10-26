@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fourth-Party Visibility Rate** (FPVR) 
 - **Canonical id:** `dea:metric-fourth-party-visibility-rate`
 - **Name:** Fourth-Party Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPVR
 
@@ -22,7 +22,7 @@ Measures how well critical vendors' own critical subcontractors are known and as
 ## Formula
 
 ```
-Critical Subprocessors Disclosed and Assessed / Subprocessors Identified
+FPVR = Critical Subprocessors Disclosed and Assessed / Subprocessors Identified
 ```
 
 ## Unit

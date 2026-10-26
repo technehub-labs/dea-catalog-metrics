@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Change Validation Coverage** (PCVC
 - **Canonical id:** `dea:metric-pre-change-validation-coverage`
 - **Name:** Pre-Change Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCVC
 
@@ -18,7 +18,7 @@ Pre-Change Validation Coverage (PCVC) addresses exposure to adverse outcomes and
 ## Formula
 
 ```
-Changes with Validated Pre-Change State / Changes
+PCVC = Changes with Validated Pre-Change State / Changes
 ```
 
 ## Unit

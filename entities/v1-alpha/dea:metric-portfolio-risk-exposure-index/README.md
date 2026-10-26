@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Risk Exposure Index** (PREI)
 - **Canonical id:** `dea:metric-portfolio-risk-exposure-index`
 - **Name:** Portfolio Risk Exposure Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PREI
 
@@ -22,7 +22,7 @@ Measures aggregated risk exposure across the portfolio, weighted by severity and
 ## Formula
 
 ```
-Weighted Open Portfolio Risks vs Tolerance
+PREI = Weighted Open Portfolio Risks vs Tolerance
 ```
 
 ## Unit

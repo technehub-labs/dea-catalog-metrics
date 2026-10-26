@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Submission Acceptance Rate*
 - **Canonical id:** `dea:metric-regulatory-submission-acceptance-rate`
 - **Name:** Regulatory Submission Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSAR
 
@@ -22,7 +22,7 @@ Measures the share of regulatory submissions accepted for review on first filing
 ## Formula
 
 ```
-Submissions Accepted First Time / Submissions
+RSAR = Submissions Accepted First Time / Submissions
 ```
 
 ## Unit

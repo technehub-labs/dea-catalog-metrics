@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transport Request Cycle Time (ERP)** (
 - **Canonical id:** `dea:metric-transport-request-cycle-time-erp`
 - **Name:** Transport Request Cycle Time (ERP)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRCT
 
@@ -18,7 +18,7 @@ A ERP & Enterprise Application Operations indicator, Transport Request Cycle Tim
 ## Formula
 
 ```
-Days from Development to Production Transport
+TRCT = Days from Development to Production Transport
 ```
 
 ## Unit

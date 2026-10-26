@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Savings Ratio** (FSR) in the Ope
 - **Canonical id:** `dea:metric-fraud-savings-ratio`
 - **Name:** Fraud Savings Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSR
 
@@ -22,7 +22,7 @@ Measures fraud detection and avoidance savings against claims paid or fraud prog
 ## Formula
 
 ```
-Fraud-Related Savings / Claims Spend
+FSR = Fraud-Related Savings / Claims Spend
 ```
 
 ## Unit

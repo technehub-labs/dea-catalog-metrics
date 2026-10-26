@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Rule Breach Count** (CRBC-I
 - **Canonical id:** `dea:metric-compliance-rule-breach-count`
 - **Name:** Compliance Rule Breach Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRBC-IR
 
@@ -22,7 +22,7 @@ Measures the number of investment compliance rule breaches in the period. Breach
 ## Formula
 
 ```
-Mandate Rule Breaches in Period
+CRBC-IR = Mandate Rule Breaches in Period
 ```
 
 ## Unit

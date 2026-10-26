@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Push Notification Opt-In Rate** (PNOR)
 - **Canonical id:** `dea:metric-push-notification-opt-in-rate`
 - **Name:** Push Notification Opt-In Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PNOR
 
@@ -18,7 +18,7 @@ Push Notification Opt-In Rate (PNOR) measures the engagement or satisfaction of 
 ## Formula
 
 ```
-Users Enabling Push / App Users
+PNOR = Users Enabling Push / App Users
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Debt Service Ratio** (PDSR) in 
 - **Canonical id:** `dea:metric-public-debt-service-ratio`
 - **Name:** Public Debt Service Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDSR
 
@@ -22,7 +22,7 @@ Debt service payments as a share of revenue (or of exports, in the sovereign con
 ## Formula
 
 ```
-Debt Service Payments / Government Revenue
+PDSR = Debt Service Payments / Government Revenue
 ```
 
 ## Unit

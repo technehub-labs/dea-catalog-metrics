@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Idle Time** (EIT) in the Ope
 - **Canonical id:** `dea:metric-equipment-idle-time`
 - **Name:** Equipment Idle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIT
 
@@ -18,7 +18,7 @@ Equipment Idle Time (EIT) addresses the utilization or availability of capacity 
 ## Formula
 
 ```
-Idle Equipment Hours / Available Equipment Hours
+EIT = Idle Equipment Hours / Available Equipment Hours
 ```
 
 ## Unit

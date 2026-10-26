@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Job Delivery (Print)** (OTJD) 
 - **Canonical id:** `dea:metric-on-time-job-delivery-print`
 - **Name:** On-Time Job Delivery (Print)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTJD
 
@@ -22,7 +22,7 @@ Measures the share of print jobs delivered by the promised date. It matters beca
 ## Formula
 
 ```
-Jobs Delivered by Promised Date / Jobs
+OTJD = Jobs Delivered by Promised Date / Jobs
 ```
 
 ## Unit

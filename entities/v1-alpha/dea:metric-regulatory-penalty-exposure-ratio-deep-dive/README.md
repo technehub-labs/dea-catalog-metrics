@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Penalty Exposure Ratio (Dee
 - **Canonical id:** `dea:metric-regulatory-penalty-exposure-ratio-deep-dive`
 - **Name:** Regulatory Penalty Exposure Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPER
 
@@ -22,7 +22,7 @@ Measures the scale of potential penalties relative to capacity to absorb them. I
 ## Formula
 
 ```
-Penalties Paid and Accrued / Revenue
+RPER = Penalties Paid and Accrued / Revenue
 ```
 
 ## Unit

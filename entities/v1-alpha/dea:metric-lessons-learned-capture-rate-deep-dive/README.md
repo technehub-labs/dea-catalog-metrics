@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lessons Learned Capture Rate (Deep Div
 - **Canonical id:** `dea:metric-lessons-learned-capture-rate-deep-dive`
 - **Name:** Lessons Learned Capture Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLCR-PM
 
@@ -22,7 +22,7 @@ Measures the share of completed projects documenting lessons into a reusable rep
 ## Formula
 
 ```
-Projects Documenting Lessons Learned / Closed Projects
+LLCR-PM = Projects Documenting Lessons Learned / Closed Projects
 ```
 
 ## Unit

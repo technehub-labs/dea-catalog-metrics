@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate** (OCC) in the OpenDEAM
 - **Canonical id:** `dea:metric-occupancy-rate`
 - **Name:** Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCC
 
@@ -22,7 +22,7 @@ The share of available units or capacity sold - the revenue-side twin of vacancy
 ## Formula
 
 ```
-Rooms Occupied / Rooms Available
+OCC = Rooms Occupied / Rooms Available
 ```
 
 ## Unit

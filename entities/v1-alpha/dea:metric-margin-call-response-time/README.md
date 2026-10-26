@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Margin Call Response Time** (MCRT) in 
 - **Canonical id:** `dea:metric-margin-call-response-time`
 - **Name:** Margin Call Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCRT
 
@@ -18,7 +18,7 @@ Margin Call Response Time (MCRT) measures exposure to adverse outcomes in the In
 ## Formula
 
 ```
-Time from Call to Funded Response
+MCRT = Time from Call to Funded Response
 ```
 
 ## Unit

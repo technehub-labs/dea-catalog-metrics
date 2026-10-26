@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Coverage of Target Markets** (
 - **Canonical id:** `dea:metric-channel-coverage-of-target-markets`
 - **Name:** Channel Coverage of Target Markets
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCTM
 
@@ -22,7 +22,7 @@ Measures whether partner capacity covers priority segments, geographies, and ver
 ## Formula
 
 ```
-Markets with Active Channel Presence / Target Markets
+CCTM = Markets with Active Channel Presence / Target Markets
 ```
 
 ## Unit

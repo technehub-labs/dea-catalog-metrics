@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Headway Adherence Coefficient (Deep Di
 - **Canonical id:** `dea:metric-headway-adherence-coefficient-deep-dive`
 - **Name:** Headway Adherence Coefficient (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HAC-D
 
@@ -18,7 +18,7 @@ Headway Adherence Coefficient (Deep Dive) (HAC-D) captures the quality of output
 ## Formula
 
 ```
-Actual Headway Variance / Scheduled Headway
+HAC-D = Actual Headway Variance / Scheduled Headway
 ```
 
 ## Unit

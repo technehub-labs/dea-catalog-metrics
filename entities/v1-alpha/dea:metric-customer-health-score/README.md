@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Health Score** (CHS) in the O
 - **Canonical id:** `dea:metric-customer-health-score`
 - **Name:** Customer Health Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHS
 
@@ -22,7 +22,7 @@ Measures a composite index of usage, engagement, support signals, and relationsh
 ## Formula
 
 ```
-Weighted Index of Usage, Satisfaction, and Support Signals
+CHS = Weighted Index of Usage, Satisfaction, and Support Signals
 ```
 
 ## Unit

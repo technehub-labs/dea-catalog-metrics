@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Generation Availability Factor** (GAF)
 - **Canonical id:** `dea:metric-generation-availability-factor`
 - **Name:** Generation Availability Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GAF
 
@@ -22,7 +22,7 @@ The share of time a generating unit is available to generate, excluding outages 
 ## Formula
 
 ```
-Available Generation Hours / Calendar Hours
+GAF = Available Generation Hours / Calendar Hours
 ```
 
 ## Unit

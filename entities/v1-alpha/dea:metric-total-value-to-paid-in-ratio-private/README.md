@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Value to Paid-In Ratio (Private)
 - **Canonical id:** `dea:metric-total-value-to-paid-in-ratio-private`
 - **Name:** Total Value to Paid-In Ratio (Private)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TVPI
 
@@ -22,7 +22,7 @@ Measures total fund value (distributions plus residual unrealized value) against
 ## Formula
 
 ```
-(Distributions + Residual Value) / Paid-In Capital
+TVPI = (Distributions + Residual Value) / Paid-In Capital
 ```
 
 ## Unit

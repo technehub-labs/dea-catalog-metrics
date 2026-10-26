@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Region Release Consistency Rate*
 - **Canonical id:** `dea:metric-multi-region-release-consistency-rate`
 - **Name:** Multi-Region Release Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRRCR
 
@@ -18,7 +18,7 @@ Multi-Region Release Consistency Rate (MRRCR) addresses the quality of outputs a
 ## Formula
 
 ```
-Regions Deployed within Alignment Window / Regions
+MRRCR = Regions Deployed within Alignment Window / Regions
 ```
 
 ## Unit

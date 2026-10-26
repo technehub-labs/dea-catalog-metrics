@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Reconciliation Completion R
 - **Canonical id:** `dea:metric-medication-reconciliation-completion-rate`
 - **Name:** Medication Reconciliation Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRCHR
 
@@ -18,7 +18,7 @@ Medication Reconciliation Completion Rate (MRCHR) captures exposure to adverse o
 ## Formula
 
 ```
-Admissions with Reconciliation Completed / Admissions
+MRCHR = Admissions with Reconciliation Completed / Admissions
 ```
 
 ## Unit

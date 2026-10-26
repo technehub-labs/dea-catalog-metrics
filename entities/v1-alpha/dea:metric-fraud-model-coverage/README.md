@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Model Coverage** (FMC-EF) in the
 - **Canonical id:** `dea:metric-fraud-model-coverage`
 - **Name:** Fraud Model Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FMC-EF
 
@@ -22,7 +22,7 @@ Measures how completely the transaction and behavior landscape is scored by frau
 ## Formula
 
 ```
-Transaction Channels Monitored by Fraud Models / Channels
+FMC-EF = Transaction Channels Monitored by Fraud Models / Channels
 ```
 
 ## Unit

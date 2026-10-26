@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Rate** (SR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-scrap-rate`
 - **Name:** Scrap Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SR
 
@@ -18,7 +18,7 @@ Scrap Rate (SR) addresses the quality of outputs and outcomes and is a fixture o
 ## Formula
 
 ```
-Scrapped Units / Total Units Started
+SR = Scrapped Units / Total Units Started
 ```
 
 ## Unit

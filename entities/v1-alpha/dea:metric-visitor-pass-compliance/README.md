@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visitor Pass Compliance** (VPC) in the
 - **Canonical id:** `dea:metric-visitor-pass-compliance`
 - **Name:** Visitor Pass Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPC
 
@@ -18,7 +18,7 @@ Within Physical Security Operations, Visitor Pass Compliance (VPC) is used to ga
 ## Formula
 
 ```
-Visitors Properly Registered / Visitor Entries Audited
+VPC = Visitors Properly Registered / Visitor Entries Audited
 ```
 
 ## Unit

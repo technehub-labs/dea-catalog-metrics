@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Staffing versus Roster Coverage** 
 - **Canonical id:** `dea:metric-noc-staffing-versus-roster-coverage`
 - **Name:** NOC Staffing versus Roster Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSVRC
 
@@ -18,7 +18,7 @@ NOC Staffing versus Roster Coverage (NSVRC) measures the utilization or availabi
 ## Formula
 
 ```
-Shifts Fully Covered / Shifts Scheduled
+NSVRC = Shifts Fully Covered / Shifts Scheduled
 ```
 
 ## Unit

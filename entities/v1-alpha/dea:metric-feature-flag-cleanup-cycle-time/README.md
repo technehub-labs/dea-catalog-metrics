@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Flag Cleanup Cycle Time** (FFC
 - **Canonical id:** `dea:metric-feature-flag-cleanup-cycle-time`
 - **Name:** Feature Flag Cleanup Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FFCCT
 
@@ -18,7 +18,7 @@ Feature Flag Cleanup Cycle Time (FFCCT) captures the quality of outputs and outc
 ## Formula
 
 ```
-Days from Flag Full Rollout to Removal
+FFCCT = Days from Flag Full Rollout to Removal
 ```
 
 ## Unit

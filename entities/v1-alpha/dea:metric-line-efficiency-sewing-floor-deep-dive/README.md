@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Efficiency - Sewing Floor (Deep D
 - **Canonical id:** `dea:metric-line-efficiency-sewing-floor-deep-dive`
 - **Name:** Line Efficiency - Sewing Floor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LEF-D
 
@@ -18,7 +18,7 @@ Line Efficiency - Sewing Floor (Deep Dive) (LEF-D) measures how efficiently reso
 ## Formula
 
 ```
-Produced Standard Minutes / Attended Minutes
+LEF-D = Produced Standard Minutes / Attended Minutes
 ```
 
 ## Unit

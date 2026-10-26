@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Churn with Expansion Offset** 
 - **Canonical id:** `dea:metric-revenue-churn-with-expansion-offset`
 - **Name:** Revenue Churn with Expansion Offset
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCWEO
 
@@ -22,7 +22,7 @@ Measures net revenue churn after expansion offsets. The net view can flatter: he
 ## Formula
 
 ```
-Net Revenue Lost after Expansion / Starting MRR
+RCWEO = Net Revenue Lost after Expansion / Starting MRR
 ```
 
 ## Unit

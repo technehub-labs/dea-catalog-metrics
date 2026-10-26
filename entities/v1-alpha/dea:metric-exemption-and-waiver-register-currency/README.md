@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exemption and Waiver Register Currency
 - **Canonical id:** `dea:metric-exemption-and-waiver-register-currency`
 - **Name:** Exemption and Waiver Register Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EWRC
 
@@ -18,7 +18,7 @@ Exemption and Waiver Register Currency (EWRC) addresses conformance to standards
 ## Formula
 
 ```
-Approved Exceptions within Validity / Exceptions
+EWRC = Approved Exceptions within Validity / Exceptions
 ```
 
 ## Unit

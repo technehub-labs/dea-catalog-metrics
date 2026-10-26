@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Access Request Fulfilment Time** 
 - **Canonical id:** `dea:metric-data-access-request-fulfilment-time`
 - **Name:** Data Access Request Fulfilment Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DARFT
 
@@ -18,7 +18,7 @@ Data Access Request Fulfilment Time (DARFT) measures how efficiently resources a
 ## Formula
 
 ```
-Days to Fulfil Approved Data Access Request
+DARFT = Days to Fulfil Approved Data Access Request
 ```
 
 ## Unit

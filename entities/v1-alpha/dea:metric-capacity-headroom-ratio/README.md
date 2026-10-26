@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Headroom Ratio** (CHR-NW) in 
 - **Canonical id:** `dea:metric-capacity-headroom-ratio`
 - **Name:** Capacity Headroom Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHR-NW
 
@@ -22,7 +22,7 @@ Measures available capacity above current peak demand. Headroom is the buffer th
 ## Formula
 
 ```
-Available Capacity / Peak Demand
+CHR-NW = Available Capacity / Peak Demand
 ```
 
 ## Unit

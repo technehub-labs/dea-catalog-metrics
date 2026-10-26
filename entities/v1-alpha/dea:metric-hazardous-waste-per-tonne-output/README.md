@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hazardous Waste per Tonne Output** (HW
 - **Canonical id:** `dea:metric-hazardous-waste-per-tonne-output`
 - **Name:** Hazardous Waste per Tonne Output
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HWTO
 
@@ -18,7 +18,7 @@ Hazardous Waste per Tonne Output (HWTO) measures environmental and social sustai
 ## Formula
 
 ```
-Hazardous Waste Generated / Production Tonnes
+HWTO = Hazardous Waste Generated / Production Tonnes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Chart Signal Response Time** (
 - **Canonical id:** `dea:metric-control-chart-signal-response-time`
 - **Name:** Control Chart Signal Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCSRT
 
@@ -18,7 +18,7 @@ Within Process Capability & Six Sigma (Deep Dive), Control Chart Signal Response
 ## Formula
 
 ```
-Hours from Control Chart Signal to Containment Action
+CCSRT = Hours from Control Chart Signal to Containment Action
 ```
 
 ## Unit

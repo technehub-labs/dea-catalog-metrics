@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Encryption in Transit Coverage** (EITC
 - **Canonical id:** `dea:metric-encryption-in-transit-coverage`
 - **Name:** Encryption in Transit Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EITC
 
@@ -18,7 +18,7 @@ Encryption in Transit Coverage (EITC) captures exposure to adverse outcomes for 
 ## Formula
 
 ```
-Services Enforcing TLS / Network-Exposed Services
+EITC = Services Enforcing TLS / Network-Exposed Services
 ```
 
 ## Unit

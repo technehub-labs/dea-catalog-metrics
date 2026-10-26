@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Scoring Consistency Index** (OSCI)
 - **Canonical id:** `dea:metric-okr-scoring-consistency-index`
 - **Name:** OKR Scoring Consistency Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSCI
 
@@ -18,7 +18,7 @@ Within Enterprise OKR & Performance Management, OKR Scoring Consistency Index (O
 ## Formula
 
 ```
-Variance of Attainment Distributions across Teams
+OSCI = Variance of Attainment Distributions across Teams
 ```
 
 ## Unit

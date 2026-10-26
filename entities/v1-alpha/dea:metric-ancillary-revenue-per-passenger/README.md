@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ancillary Revenue per Passenger** (ARP
 - **Canonical id:** `dea:metric-ancillary-revenue-per-passenger`
 - **Name:** Ancillary Revenue per Passenger
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPP
 
@@ -22,7 +22,7 @@ Ancillary revenue per passenger measures non-ticket income - baggage fees, seat 
 ## Formula
 
 ```
-Ancillary Revenue / Passengers
+ARPP = Ancillary Revenue / Passengers
 ```
 
 ## Unit

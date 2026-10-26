@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Decision Log Completeness** (CD
 - **Canonical id:** `dea:metric-crisis-decision-log-completeness`
 - **Name:** Crisis Decision Log Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDLC
 
@@ -22,7 +22,7 @@ Measures whether crisis decisions, owners, and rationale are logged in real time
 ## Formula
 
 ```
-Crisis Decisions with Documented Rationale / Decisions
+CDLC = Crisis Decisions with Documented Rationale / Decisions
 ```
 
 ## Unit

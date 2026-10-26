@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Through Rate** (STR) in the OpenD
 - **Canonical id:** `dea:metric-sell-through-rate`
 - **Name:** Sell-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STR
 
@@ -22,7 +22,7 @@ Measures the share of received inventory sold at full or planned price within th
 ## Formula
 
 ```
-Units Sold / Units Available for Sale
+STR = Units Sold / Units Available for Sale
 ```
 
 ## Unit

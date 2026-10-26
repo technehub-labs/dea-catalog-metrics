@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Concession Spend per Capita** (CSPC) i
 - **Canonical id:** `dea:metric-concession-spend-per-capita`
 - **Name:** Concession Spend per Capita
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPC
 
@@ -22,7 +22,7 @@ Measures concession revenue per attendee at venues. It matters because concessio
 ## Formula
 
 ```
-Concession Revenue / Attendance
+CSPC = Concession Revenue / Attendance
 ```
 
 ## Unit

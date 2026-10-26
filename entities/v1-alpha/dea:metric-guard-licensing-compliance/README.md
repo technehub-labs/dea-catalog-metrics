@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guard Licensing Compliance** (GLC-S) i
 - **Canonical id:** `dea:metric-guard-licensing-compliance`
 - **Name:** Guard Licensing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GLC-S
 
@@ -22,7 +22,7 @@ Measures the share of security officers deployed with valid licenses and require
 ## Formula
 
 ```
-Guards with Valid Licenses / Deployed Guards
+GLC-S = Guards with Valid Licenses / Deployed Guards
 ```
 
 ## Unit

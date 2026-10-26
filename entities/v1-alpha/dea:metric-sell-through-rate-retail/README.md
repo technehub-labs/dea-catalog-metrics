@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sell-Through Rate (Retail)** (STR-RT) 
 - **Canonical id:** `dea:metric-sell-through-rate-retail`
 - **Name:** Sell-Through Rate (Retail)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STR-RT
 
@@ -18,7 +18,7 @@ A Retail Standard Measures indicator, Sell-Through Rate (Retail) (STR-RT) quanti
 ## Formula
 
 ```
-Units Sold / (Units Sold + Ending Inventory)
+STR-RT = Units Sold / (Units Sold + Ending Inventory)
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Store Rating** (ASR-MOB) in the Op
 - **Canonical id:** `dea:metric-app-store-rating`
 - **Name:** App Store Rating
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASR-MOB
 
@@ -22,7 +22,7 @@ Measures the average user rating of the mobile app in public stores. It is the m
 ## Formula
 
 ```
-Average User Rating across App Stores
+ASR-MOB = Average User Rating across App Stores
 ```
 
 ## Unit

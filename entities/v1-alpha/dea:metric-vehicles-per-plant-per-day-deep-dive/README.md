@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicles per Plant per Day (Deep Dive)
 - **Canonical id:** `dea:metric-vehicles-per-plant-per-day-deep-dive`
 - **Name:** Vehicles per Plant per Day (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPD-D
 
@@ -22,7 +22,7 @@ Measures daily production output per assembly plant. It is the throughput heart 
 ## Formula
 
 ```
-Units Produced / Plant Day
+VPD-D = Units Produced / Plant Day
 ```
 
 ## Unit

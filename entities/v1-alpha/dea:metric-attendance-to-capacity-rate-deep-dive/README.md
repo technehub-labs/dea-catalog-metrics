@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendance-to-Capacity Rate (Deep Dive
 - **Canonical id:** `dea:metric-attendance-to-capacity-rate-deep-dive`
 - **Name:** Attendance-to-Capacity Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATC-D
 
@@ -22,7 +22,7 @@ Measures stadium or arena fill against available capacity, by competition and ev
 ## Formula
 
 ```
-Tickets Sold / Stadium Capacity
+ATC-D = Tickets Sold / Stadium Capacity
 ```
 
 ## Unit

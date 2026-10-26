@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Opportunity Density** (DOD) in 
 - **Canonical id:** `dea:metric-defect-opportunity-density`
 - **Name:** Defect Opportunity Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOD
 
@@ -18,7 +18,7 @@ A Process Capability & Six Sigma (Deep Dive) indicator, Defect Opportunity Densi
 ## Formula
 
 ```
-Defect Opportunities per Unit
+DOD = Defect Opportunities per Unit
 ```
 
 ## Unit

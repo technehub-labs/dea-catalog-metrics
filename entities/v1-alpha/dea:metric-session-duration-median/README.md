@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Session Duration (Median)** (SESDUR) i
 - **Canonical id:** `dea:metric-session-duration-median`
 - **Name:** Session Duration (Median)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SESDUR
 
@@ -18,7 +18,7 @@ A Web & Digital Analytics Standard Measures indicator, Session Duration (Median)
 ## Formula
 
 ```
-Median Time on Site per Session
+SESDUR = Median Time on Site per Session
 ```
 
 ## Unit

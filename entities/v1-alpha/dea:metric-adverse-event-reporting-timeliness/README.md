@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Event Reporting Timeliness** (
 - **Canonical id:** `dea:metric-adverse-event-reporting-timeliness`
 - **Name:** Adverse Event Reporting Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AERT
 
@@ -22,7 +22,7 @@ The speed of submitting safety reports to regulators within required windows - t
 ## Formula
 
 ```
-Adverse Reports Filed within Regulatory Deadline / Reports Due
+AERT = Adverse Reports Filed within Regulatory Deadline / Reports Due
 ```
 
 ## Unit

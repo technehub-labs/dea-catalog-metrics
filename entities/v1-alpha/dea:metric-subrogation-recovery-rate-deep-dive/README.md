@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subrogation Recovery Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-subrogation-recovery-rate-deep-dive`
 - **Name:** Subrogation Recovery Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR-D
 
@@ -18,7 +18,7 @@ Subrogation Recovery Rate (Deep Dive) (SRR-D) addresses the economic value creat
 ## Formula
 
 ```
-Recovered via Subrogation / Recoverable Opportunities
+SRR-D = Recovered via Subrogation / Recoverable Opportunities
 ```
 
 ## Unit

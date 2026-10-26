@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Cost Update Frequency** (SCUF
 - **Canonical id:** `dea:metric-standard-cost-update-frequency`
 - **Name:** Standard Cost Update Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCUF
 
@@ -18,7 +18,7 @@ Standard Cost Update Frequency (SCUF) measures conformance to standards, plans, 
 ## Formula
 
 ```
-Days since Last Standard Cost Roll
+SCUF = Days since Last Standard Cost Roll
 ```
 
 ## Unit

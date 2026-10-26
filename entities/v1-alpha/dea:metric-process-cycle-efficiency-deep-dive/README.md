@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Efficiency (Deep Dive)**
 - **Canonical id:** `dea:metric-process-cycle-efficiency-deep-dive`
 - **Name:** Process Cycle Efficiency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCED
 
@@ -18,7 +18,7 @@ Process Cycle Efficiency (Deep Dive) (PCED) captures how efficiently resources a
 ## Formula
 
 ```
-Value-Added Time / Total Lead Time
+PCED = Value-Added Time / Total Lead Time
 ```
 
 ## Unit

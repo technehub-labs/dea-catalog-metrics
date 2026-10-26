@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention at Day 30** (R30) in the Ope
 - **Canonical id:** `dea:metric-retention-at-day-30`
 - **Name:** Retention at Day 30
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** R30
 
@@ -22,7 +22,7 @@ The share of a new-user cohort still active thirty days after signup - the early
 ## Formula
 
 ```
-Users Active on Day 30 / Users in Cohort
+R30 = Users Active on Day 30 / Users in Cohort
 ```
 
 ## Unit

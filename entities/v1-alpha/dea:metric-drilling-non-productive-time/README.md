@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drilling Non-Productive Time** (NPT) i
 - **Canonical id:** `dea:metric-drilling-non-productive-time`
 - **Name:** Drilling Non-Productive Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPT
 
@@ -22,7 +22,7 @@ Measures the share of rig time not drilling productively. It matters because NPT
 ## Formula
 
 ```
-Non-Productive Drilling Hours / Total Drilling Hours
+NPT = Non-Productive Drilling Hours / Total Drilling Hours
 ```
 
 ## Unit

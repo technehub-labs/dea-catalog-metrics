@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Effectiveness Index** (CEI)
 - **Canonical id:** `dea:metric-collection-effectiveness-index`
 - **Name:** Collection Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEI
 
@@ -22,7 +22,7 @@ Measures the share of receivables collected within terms over a period. It matte
 ## Formula
 
 ```
-Collected Receivables / Receivables Due
+CEI = Collected Receivables / Receivables Due
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Exposure Trend Index** (RETI-PM) 
 - **Canonical id:** `dea:metric-risk-exposure-trend-index`
 - **Name:** Risk Exposure Trend Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RETI-PM
 
@@ -22,7 +22,7 @@ Measures whether aggregated project risk exposure is rising or falling over time
 ## Formula
 
 ```
-Change in Aggregated Risk Score per Reporting Cycle
+RETI-PM = Change in Aggregated Risk Score per Reporting Cycle
 ```
 
 ## Unit

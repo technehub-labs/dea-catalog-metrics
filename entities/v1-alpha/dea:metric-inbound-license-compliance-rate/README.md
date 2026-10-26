@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inbound License Compliance Rate** (ILC
 - **Canonical id:** `dea:metric-inbound-license-compliance-rate`
 - **Name:** Inbound License Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ILCR
 
@@ -18,7 +18,7 @@ Inbound License Compliance Rate (ILCR) captures exposure to adverse outcomes for
 ## Formula
 
 ```
-Third-Party IP Usage within License Terms / Usage Sampled
+ILCR = Third-Party IP Usage within License Terms / Usage Sampled
 ```
 
 ## Unit

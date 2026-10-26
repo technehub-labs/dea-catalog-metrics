@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Interest Margin** (NIM) in the Ope
 - **Canonical id:** `dea:metric-net-interest-margin`
 - **Name:** Net Interest Margin
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NIM
 
@@ -22,7 +22,7 @@ Net interest income as a percentage of average interest-earning assets - the fun
 ## Formula
 
 ```
-(Interest Income - Interest Expense) / Average Earning Assets
+NIM = (Interest Income - Interest Expense) / Average Earning Assets
 ```
 
 ## Unit

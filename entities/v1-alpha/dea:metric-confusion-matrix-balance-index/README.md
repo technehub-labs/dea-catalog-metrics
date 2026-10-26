@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Confusion Matrix Balance Index** (CMBI
 - **Canonical id:** `dea:metric-confusion-matrix-balance-index`
 - **Name:** Confusion Matrix Balance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMBI
 
@@ -18,7 +18,7 @@ Confusion Matrix Balance Index (CMBI) addresses the quality of outputs and outco
 ## Formula
 
 ```
-Symmetry of Error Types at Operating Threshold
+CMBI = Symmetry of Error Types at Operating Threshold
 ```
 
 ## Unit

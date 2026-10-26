@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exit Interview Completion Rate (Deep D
 - **Canonical id:** `dea:metric-exit-interview-completion-rate-deep-dive`
 - **Name:** Exit Interview Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EICR-EE
 
@@ -18,7 +18,7 @@ Exit Interview Completion Rate (Deep Dive) (EICR-EE) addresses the quality of ou
 ## Formula
 
 ```
-Leavers Completing Exit Interview / Leavers
+EICR-EE = Leavers Completing Exit Interview / Leavers
 ```
 
 ## Unit

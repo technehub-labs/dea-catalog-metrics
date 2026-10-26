@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Improvement Project Cycle Time** (IPCT
 - **Canonical id:** `dea:metric-improvement-project-cycle-time`
 - **Name:** Improvement Project Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPCT
 
@@ -22,7 +22,7 @@ Measures average duration of improvement projects from charter to closure. It ma
 ## Formula
 
 ```
-Days from Project Start to Control Phase Handover
+IPCT = Days from Project Start to Control Phase Handover
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Pipeline Success Rate** (RPSR) in 
 - **Canonical id:** `dea:metric-r-d-pipeline-success-rate`
 - **Name:** R&D Pipeline Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPSR
 
@@ -22,7 +22,7 @@ The share of pipeline candidates advancing through each development phase - the 
 ## Formula
 
 ```
-Candidates Passing Stage / Candidates Entering Stage
+RPSR = Candidates Passing Stage / Candidates Entering Stage
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Profit Margin (Deep Dive)** (NPMDD
 - **Canonical id:** `dea:metric-net-profit-margin-deep-dive`
 - **Name:** Net Profit Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPMDD
 
@@ -22,7 +22,7 @@ Measures the share of revenue surviving all costs. It is the bottom-line efficie
 ## Formula
 
 ```
-Net Income / Revenue
+NPMDD = Net Income / Revenue
 ```
 
 ## Unit

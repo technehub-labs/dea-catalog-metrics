@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Square Meter Built** (CSMB) i
 - **Canonical id:** `dea:metric-cost-per-square-meter-built`
 - **Name:** Cost per Square Meter Built
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSMB
 
@@ -22,7 +22,7 @@ Construction cost divided by delivered area - the unit-cost metric that anchors 
 ## Formula
 
 ```
-Total Construction Cost / Gross Floor Area
+CSMB = Total Construction Cost / Gross Floor Area
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pricing Win Rate** (PWR-P) in the Open
 - **Canonical id:** `dea:metric-pricing-win-rate`
 - **Name:** Pricing Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PWR-P
 
@@ -22,7 +22,7 @@ Measures the share of deals won at target price without discount erosion. It mat
 ## Formula
 
 ```
-Deals Won at Target Price / Deals Won
+PWR-P = Deals Won at Target Price / Deals Won
 ```
 
 ## Unit

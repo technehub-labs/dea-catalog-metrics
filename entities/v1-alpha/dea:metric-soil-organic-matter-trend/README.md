@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Soil Organic Matter Trend** (SOMT) in 
 - **Canonical id:** `dea:metric-soil-organic-matter-trend`
 - **Name:** Soil Organic Matter Trend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOMT
 
@@ -22,7 +22,7 @@ Measures the multi-year trajectory of soil organic matter content. SOM is the sl
 ## Formula
 
 ```
-Change in Soil Organic Matter per Cycle
+SOMT = Change in Soil Organic Matter per Cycle
 ```
 
 ## Unit

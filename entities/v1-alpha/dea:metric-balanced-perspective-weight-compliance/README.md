@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Balanced Perspective Weight Compliance
 - **Canonical id:** `dea:metric-balanced-perspective-weight-compliance`
 - **Name:** Balanced Perspective Weight Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BPWC
 
@@ -18,7 +18,7 @@ Balanced Perspective Weight Compliance (BPWC) measures conformance to standards,
 ## Formula
 
 ```
-Units Applying Approved Perspective Weighting / Units
+BPWC = Units Applying Approved Perspective Weighting / Units
 ```
 
 ## Unit

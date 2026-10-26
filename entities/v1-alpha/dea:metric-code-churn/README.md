@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Churn** (CHN) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-code-churn`
 - **Name:** Code Churn
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHN
 
@@ -18,7 +18,7 @@ Within Software Engineering, Code Churn (CHN) is used to gauge the quality of ou
 ## Formula
 
 ```
-Lines Rewritten or Deleted shortly after Writing / Total Lines
+CHN = Lines Rewritten or Deleted shortly after Writing / Total Lines
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Conversion Cycle (Working Capital
 - **Canonical id:** `dea:metric-cash-conversion-cycle-working-capital`
 - **Name:** Cash Conversion Cycle (Working Capital)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC
 
@@ -22,7 +22,7 @@ Measures the days between paying for inputs and collecting from customers. It is
 ## Formula
 
 ```
-Days Inventory + Days Receivable - Days Payable
+CCC = Days Inventory + Days Receivable - Days Payable
 ```
 
 ## Unit

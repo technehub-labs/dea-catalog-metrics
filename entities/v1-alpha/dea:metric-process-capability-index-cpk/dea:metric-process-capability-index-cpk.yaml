@@ -8,7 +8,7 @@ description: A Process Capability & Six Sigma (Deep Dive) indicator, Process Cap
   and losses as deterioration. Its use is concentrated in Manufacturing.
 abbreviation: CPKS
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - capability
@@ -26,7 +26,7 @@ source_credit: Statistical process control tradition (Juran / SQC)
 calculation_definition: Min Distance of Mean to Spec Limit / (3 x Std Dev)
 formula_definition:
   formula_id: dea:formula-process-capability-index-cpk
-  expression: Min Distance of Mean to Spec Limit / (3 x Std Dev)
+  expression: CPKS = Min Distance of Mean to Spec Limit / (3 x Std Dev)
   inputs:
   - name: Min Distance of Mean to Spec Limit
   - name: 3 x Std Dev
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '9'
 domain: process_capability_six_sigma_deep_dive
 sector: manufacturing
+subject_concept: dea:subject-process_capability_index_cpk
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4076
+  - Statistical process control tradition (Juran / SQC)
+  known_limitations: []

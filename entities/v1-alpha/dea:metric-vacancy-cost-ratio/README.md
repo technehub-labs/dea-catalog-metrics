@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vacancy Cost Ratio** (VCR-E) in the Op
 - **Canonical id:** `dea:metric-vacancy-cost-ratio`
 - **Name:** Vacancy Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VCR-E
 
@@ -22,7 +22,7 @@ Measures the cost of vacancy - lost rent, operating costs on empty space, incent
 ## Formula
 
 ```
-Lost Rent from Vacancy / Gross Potential Rent
+VCR-E = Lost Rent from Vacancy / Gross Potential Rent
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Press Release Pickup Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-press-release-pickup-rate-deep-dive`
 - **Name:** Press Release Pickup Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRPR-D
 
@@ -18,7 +18,7 @@ Press Release Pickup Rate (Deep Dive) (PRPR-D) measures how effectively a proces
 ## Formula
 
 ```
-Outlets Publishing Release / Outlets Targeted
+PRPR-D = Outlets Publishing Release / Outlets Targeted
 ```
 
 ## Unit

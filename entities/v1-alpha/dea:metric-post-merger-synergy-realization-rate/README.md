@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Merger Synergy Realization Rate**
 - **Canonical id:** `dea:metric-post-merger-synergy-realization-rate`
 - **Name:** Post-Merger Synergy Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSRR
 
@@ -22,7 +22,7 @@ Measures captured synergies against the deal model, in money and timing. It is t
 ## Formula
 
 ```
-Realized Synergies / Promised Synergies
+PSRR = Realized Synergies / Promised Synergies
 ```
 
 ## Unit

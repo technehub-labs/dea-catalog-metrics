@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Land Use per Megawatt** (LUMW) in the 
 - **Canonical id:** `dea:metric-land-use-per-megawatt`
 - **Name:** Land Use per Megawatt
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LUMW
 
@@ -22,7 +22,7 @@ Measures land footprint per unit of renewable capacity. It matters because sitin
 ## Formula
 
 ```
-Land Area Occupied / Installed Capacity
+LUMW = Land Area Occupied / Installed Capacity
 ```
 
 ## Unit

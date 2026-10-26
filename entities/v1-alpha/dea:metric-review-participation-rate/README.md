@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Participation Rate** (RPR-PR) i
 - **Canonical id:** `dea:metric-review-participation-rate`
 - **Name:** Review Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPR-PR
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Review Participation Rate (RPR-PR) is used to
 ## Formula
 
 ```
-Engineers Contributing Reviews / Active Engineers
+RPR-PR = Engineers Contributing Reviews / Active Engineers
 ```
 
 ## Unit

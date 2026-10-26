@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Stewardship Inquiry Response T
 - **Canonical id:** `dea:metric-product-stewardship-inquiry-response-time`
 - **Name:** Product Stewardship Inquiry Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIRT
 
@@ -18,7 +18,7 @@ Within Chemicals & Specialty Materials, Product Stewardship Inquiry Response Tim
 ## Formula
 
 ```
-Days to Respond to Product Stewardship Request
+PIRT = Days to Respond to Product Stewardship Request
 ```
 
 ## Unit

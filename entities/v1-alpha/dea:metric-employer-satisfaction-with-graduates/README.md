@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employer Satisfaction with Graduates**
 - **Canonical id:** `dea:metric-employer-satisfaction-with-graduates`
 - **Name:** Employer Satisfaction with Graduates
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESG-ED
 
@@ -22,7 +22,7 @@ Measures employer-rated readiness and performance of hired graduates. Employer s
 ## Formula
 
 ```
-Employer Survey Score of Graduate Readiness
+ESG-ED = Employer Survey Score of Graduate Readiness
 ```
 
 ## Unit

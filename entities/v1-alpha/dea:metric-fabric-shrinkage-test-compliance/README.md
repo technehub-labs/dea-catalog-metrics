@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fabric Shrinkage Test Compliance** (FS
 - **Canonical id:** `dea:metric-fabric-shrinkage-test-compliance`
 - **Name:** Fabric Shrinkage Test Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSTC-T
 
@@ -18,7 +18,7 @@ Fabric Shrinkage Test Compliance (FSTC-T) captures the quality of outputs and ou
 ## Formula
 
 ```
-Tests within Shrinkage Spec / Tests
+FSTC-T = Tests within Shrinkage Spec / Tests
 ```
 
 ## Unit

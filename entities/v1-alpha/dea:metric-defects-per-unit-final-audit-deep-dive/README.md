@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defects per Unit - Final Audit (Deep D
 - **Canonical id:** `dea:metric-defects-per-unit-final-audit-deep-dive`
 - **Name:** Defects per Unit - Final Audit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPU-D
 
@@ -18,7 +18,7 @@ Defects per Unit - Final Audit (Deep Dive) (DPU-D) measures the quality of outpu
 ## Formula
 
 ```
-Audit Defects / Vehicles Audited
+DPU-D = Audit Defects / Vehicles Audited
 ```
 
 ## Unit

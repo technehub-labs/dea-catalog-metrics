@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Effluent Quality Compliance (Pul
 - **Canonical id:** `dea:metric-water-effluent-quality-compliance-pulp`
 - **Name:** Water Effluent Quality Compliance (Pulp)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WEQC
 
@@ -22,7 +22,7 @@ Measures treated mill effluent against permitted parameters - BOD, COD, AOX, tem
 ## Formula
 
 ```
-Discharges within Permit / Discharges Tested
+WEQC = Discharges within Permit / Discharges Tested
 ```
 
 ## Unit

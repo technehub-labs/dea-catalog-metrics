@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Time to First Hello** (TTFH) in th
 - **Canonical id:** `dea:metric-api-time-to-first-hello`
 - **Name:** API Time to First Hello
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTFH
 
@@ -18,7 +18,7 @@ API Time to First Hello (TTFH) addresses how efficiently resources are converted
 ## Formula
 
 ```
-Median Minutes for New Consumer to Make Successful Call
+TTFH = Median Minutes for New Consumer to Make Successful Call
 ```
 
 ## Unit

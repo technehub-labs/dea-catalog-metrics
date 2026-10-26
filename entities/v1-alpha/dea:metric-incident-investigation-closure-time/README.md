@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Investigation Closure Time** 
 - **Canonical id:** `dea:metric-incident-investigation-closure-time`
 - **Name:** Incident Investigation Closure Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IICT
 
@@ -18,7 +18,7 @@ Incident Investigation Closure Time (IICT) captures conformance to standards, pl
 ## Formula
 
 ```
-Days from Incident to Investigation Closure
+IICT = Days from Incident to Investigation Closure
 ```
 
 ## Unit

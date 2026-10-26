@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Abandonment Rate (Lending)
 - **Canonical id:** `dea:metric-application-abandonment-rate-lending`
 - **Name:** Application Abandonment Rate (Lending)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAR-L
 
@@ -22,7 +22,7 @@ Measures the share of started loan applications never submitted. It matters beca
 ## Formula
 
 ```
-Abandoned Applications / Started Applications
+AAR-L = Abandoned Applications / Started Applications
 ```
 
 ## Unit

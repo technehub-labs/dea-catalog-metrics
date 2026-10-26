@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calmar Ratio** (CALR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-calmar-ratio`
 - **Name:** Calmar Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CALR
 
@@ -22,7 +22,7 @@ The Calmar ratio, named for California Managed Accounts Reports (1990s), is annu
 ## Formula
 
 ```
-Annualized Return / Maximum Drawdown
+CALR = Annualized Return / Maximum Drawdown
 ```
 
 ## Unit

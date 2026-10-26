@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Comment Resolution Rate** (RCR-
 - **Canonical id:** `dea:metric-review-comment-resolution-rate`
 - **Name:** Review Comment Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-PR
 
@@ -18,7 +18,7 @@ Review Comment Resolution Rate (RCR-PR) addresses the quality of outputs and out
 ## Formula
 
 ```
-Comments Resolved before Merge / Comments Raised
+RCR-PR = Comments Resolved before Merge / Comments Raised
 ```
 
 ## Unit

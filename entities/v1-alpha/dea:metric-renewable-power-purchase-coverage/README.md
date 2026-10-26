@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewable Power Purchase Coverage** (R
 - **Canonical id:** `dea:metric-renewable-power-purchase-coverage`
 - **Name:** Renewable Power Purchase Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPPC
 
@@ -22,7 +22,7 @@ Measures the share of electricity consumption covered by renewable power purchas
 ## Formula
 
 ```
-Consumption under Renewable Contracts / Total Consumption
+RPPC = Consumption under Renewable Contracts / Total Consumption
 ```
 
 ## Unit

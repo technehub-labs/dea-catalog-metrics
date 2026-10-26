@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Die Yield** (DIEY) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-die-yield`
 - **Name:** Die Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIEY
 
@@ -22,7 +22,7 @@ Die yield measures the share of dies on a wafer that pass electrical test - the 
 ## Formula
 
 ```
-Functional Die per Wafer / Total Die per Wafer
+DIEY = Functional Die per Wafer / Total Die per Wafer
 ```
 
 ## Unit

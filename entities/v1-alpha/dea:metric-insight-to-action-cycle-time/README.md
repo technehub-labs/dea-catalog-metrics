@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight-to-Action Cycle Time** (I2ACT)
 - **Canonical id:** `dea:metric-insight-to-action-cycle-time`
 - **Name:** Insight-to-Action Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** I2ACT
 
@@ -22,7 +22,7 @@ Measures elapsed time from insight generation to implemented action. It is the m
 ## Formula
 
 ```
-Days from Insight Delivered to Action Taken
+I2ACT = Days from Insight Delivered to Action Taken
 ```
 
 ## Unit

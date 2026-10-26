@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Startup Pilot Conversion Rate** (SPCR)
 - **Canonical id:** `dea:metric-startup-pilot-conversion-rate`
 - **Name:** Startup Pilot Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPCR
 
@@ -22,7 +22,7 @@ Measures how many startup pilots progress to scaled adoption, contract, or inves
 ## Formula
 
 ```
-Pilots Converted to Scaled Deployment / Pilots Run
+SPCR = Pilots Converted to Scaled Deployment / Pilots Run
 ```
 
 ## Unit

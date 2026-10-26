@@ -7,7 +7,7 @@ Candidate Performance Metric record for **High-Performer Retention Rate** (HPRR)
 - **Canonical id:** `dea:metric-high-performer-retention-rate`
 - **Name:** High-Performer Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HPRR
 
@@ -22,7 +22,7 @@ Measures retention of the top-rated employee population specifically. Losing hig
 ## Formula
 
 ```
-Top Quartile Performers Retained / Top Quartile
+HPRR = Top Quartile Performers Retained / Top Quartile
 ```
 
 ## Unit

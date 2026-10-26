@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Referral Rate** (CRR-RE) in the
 - **Canonical id:** `dea:metric-client-referral-rate`
 - **Name:** Client Referral Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRR-RE
 
@@ -22,7 +22,7 @@ Client referral rate measures the share of new business arriving from client rec
 ## Formula
 
 ```
-Clients from Referrals / New Clients
+CRR-RE = Clients from Referrals / New Clients
 ```
 
 ## Unit

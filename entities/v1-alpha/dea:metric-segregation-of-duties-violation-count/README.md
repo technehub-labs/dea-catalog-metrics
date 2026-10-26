@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Segregation of Duties Violation Count*
 - **Canonical id:** `dea:metric-segregation-of-duties-violation-count`
 - **Name:** Segregation of Duties Violation Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SODVC
 
@@ -18,7 +18,7 @@ Segregation of Duties Violation Count (SODVC) addresses exposure to adverse outc
 ## Formula
 
 ```
-Unresolved SoD Conflicts in Period
+SODVC = Unresolved SoD Conflicts in Period
 ```
 
 ## Unit

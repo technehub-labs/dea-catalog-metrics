@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assumption Change Frequency** (ACF-A) 
 - **Canonical id:** `dea:metric-assumption-change-frequency`
 - **Name:** Assumption Change Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACF-A
 
@@ -18,7 +18,7 @@ Within Actuarial & Reserving, Assumption Change Frequency (ACF-A) is used to gau
 ## Formula
 
 ```
-Material Assumption Changes per Valuation Cycle
+ACF-A = Material Assumption Changes per Valuation Cycle
 ```
 
 ## Unit

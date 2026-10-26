@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pair Review Compliance for Critical Pa
 - **Canonical id:** `dea:metric-pair-review-compliance-for-critical-paths`
 - **Name:** Pair Review Compliance for Critical Paths
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCC
 
@@ -18,7 +18,7 @@ Pair Review Compliance for Critical Paths (PRCC) measures exposure to adverse ou
 ## Formula
 
 ```
-Critical-Path Changes with Two Reviewers / Critical-Path Changes
+PRCC = Critical-Path Changes with Two Reviewers / Critical-Path Changes
 ```
 
 ## Unit

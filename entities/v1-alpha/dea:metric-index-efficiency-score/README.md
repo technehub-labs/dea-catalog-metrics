@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Index Efficiency Score** (IES-DB) in t
 - **Canonical id:** `dea:metric-index-efficiency-score`
 - **Name:** Index Efficiency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IES-DB
 
@@ -18,7 +18,7 @@ A Database & Data Platform Operations indicator, Index Efficiency Score (IES-DB)
 ## Formula
 
 ```
-Queries Using Efficient Index Plans / Queries Sampled
+IES-DB = Queries Using Efficient Index Plans / Queries Sampled
 ```
 
 ## Unit

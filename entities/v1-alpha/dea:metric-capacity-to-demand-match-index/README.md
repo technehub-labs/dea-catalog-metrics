@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity-to-Demand Match Index** (CDMI
 - **Canonical id:** `dea:metric-capacity-to-demand-match-index`
 - **Name:** Capacity-to-Demand Match Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDMI
 
@@ -22,7 +22,7 @@ Measures how well available workforce capacity aligns with demand patterns acros
 ## Formula
 
 ```
-Available Capacity vs Demand across Skills
+CDMI = Available Capacity vs Demand across Skills
 ```
 
 ## Unit

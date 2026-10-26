@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Knowledge Flight Risk** (CKFR
 - **Canonical id:** `dea:metric-critical-knowledge-flight-risk`
 - **Name:** Critical Knowledge Flight Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CKFR
 
@@ -22,7 +22,7 @@ Measures the concentration of critical, undocumentable knowledge in individuals 
 ## Formula
 
 ```
-Sole-Source Experts Nearing Departure Risk / Sole-Source Expertise
+CKFR = Sole-Source Experts Nearing Departure Risk / Sole-Source Expertise
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aged Receivables Ratio (Property)** (A
 - **Canonical id:** `dea:metric-aged-receivables-ratio-property`
 - **Name:** Aged Receivables Ratio (Property)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARR-P
 
@@ -18,7 +18,7 @@ Aged Receivables Ratio (Property) (ARR-P) addresses exposure to adverse outcomes
 ## Formula
 
 ```
-Rent Over 60 Days / Total Rent Receivable
+ARR-P = Rent Over 60 Days / Total Rent Receivable
 ```
 
 ## Unit

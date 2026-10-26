@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Accreditation Standard Complia
 - **Canonical id:** `dea:metric-program-accreditation-standard-compliance`
 - **Name:** Program Accreditation Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PASC
 
@@ -22,7 +22,7 @@ Measures adherence to accreditation bodies' standards across programs. Accredita
 ## Formula
 
 ```
-Standards Met at Last Review / Standards
+PASC = Standards Met at Last Review / Standards
 ```
 
 ## Unit

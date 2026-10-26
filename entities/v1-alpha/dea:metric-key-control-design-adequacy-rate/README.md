@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Key Control Design Adequacy Rate** (KC
 - **Canonical id:** `dea:metric-key-control-design-adequacy-rate`
 - **Name:** Key Control Design Adequacy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KCDAR
 
@@ -22,7 +22,7 @@ Measures whether key controls, as designed, would actually mitigate the risks th
 ## Formula
 
 ```
-Key Controls Assessed as Adequately Designed / Key Controls
+KCDAR = Key Controls Assessed as Adequately Designed / Key Controls
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SCA - Vulnerable Dependency Detection 
 - **Canonical id:** `dea:metric-sca-vulnerable-dependency-detection-rate`
 - **Name:** SCA - Vulnerable Dependency Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCAVDR
 
@@ -22,7 +22,7 @@ Measures how completely software composition analysis identifies known-vulnerabl
 ## Formula
 
 ```
-Known Vulnerable Dependencies Detected before Release / Total Found
+SCAVDR = Known Vulnerable Dependencies Detected before Release / Total Found
 ```
 
 ## Unit

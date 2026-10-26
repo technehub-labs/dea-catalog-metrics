@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Factor Authentication Coverage**
 - **Canonical id:** `dea:metric-multi-factor-authentication-coverage`
 - **Name:** Multi-Factor Authentication Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFAC
 
@@ -22,7 +22,7 @@ Measures the share of user accounts protected by MFA. MFA blocks the dominant in
 ## Formula
 
 ```
-Identities Enrolled in MFA / Eligible Identities
+MFAC = Identities Enrolled in MFA / Eligible Identities
 ```
 
 ## Unit

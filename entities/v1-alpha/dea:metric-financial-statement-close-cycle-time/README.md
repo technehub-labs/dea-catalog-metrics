@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Statement Close Cycle Time**
 - **Canonical id:** `dea:metric-financial-statement-close-cycle-time`
 - **Name:** Financial Statement Close Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSCCT
 
@@ -22,7 +22,7 @@ Measures elapsed time from period end to published financial statements. Fast, h
 ## Formula
 
 ```
-Days from Period End to Signed Financials
+FSCCT = Days from Period End to Signed Financials
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Volunteer Retention Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-volunteer-retention-rate-deep-dive`
 - **Name:** Volunteer Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRR-D
 
@@ -18,7 +18,7 @@ Volunteer Retention Rate (Deep Dive) (VRR-D) captures the retention of customers
 ## Formula
 
 ```
-Volunteers Returning / Prior Volunteers
+VRR-D = Volunteers Returning / Prior Volunteers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Communication Reach Rate** (
 - **Canonical id:** `dea:metric-emergency-communication-reach-rate`
 - **Name:** Emergency Communication Reach Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECRR
 
@@ -18,7 +18,7 @@ Emergency Communication Reach Rate (ECRR) captures exposure to adverse outcomes 
 ## Formula
 
 ```
-Staff Reached within Target Time / Staff in Test
+ECRR = Staff Reached within Target Time / Staff in Test
 ```
 
 ## Unit

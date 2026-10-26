@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Mission Capability Rate** (MC
 - **Canonical id:** `dea:metric-aircraft-mission-capability-rate`
 - **Name:** Aircraft Mission Capability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCR
 
@@ -22,7 +22,7 @@ Aircraft mission capability rate measures the share of aircraft able to perform 
 ## Formula
 
 ```
-Aircraft Available for Tasking / Aircraft Assigned
+MCR = Aircraft Available for Tasking / Aircraft Assigned
 ```
 
 ## Unit

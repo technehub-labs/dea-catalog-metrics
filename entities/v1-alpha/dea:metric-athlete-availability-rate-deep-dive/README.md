@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Athlete Availability Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-athlete-availability-rate-deep-dive`
 - **Name:** Athlete Availability Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAR-D
 
@@ -22,7 +22,7 @@ Measures the share of squad available for selection, weighting by player importa
 ## Formula
 
 ```
-Matches Available per Player / Squad Matches
+AAR-D = Matches Available per Player / Squad Matches
 ```
 
 ## Unit

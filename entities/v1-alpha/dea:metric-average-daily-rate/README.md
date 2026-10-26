@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Daily Rate** (ADR) in the Open
 - **Canonical id:** `dea:metric-average-daily-rate`
 - **Name:** Average Daily Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADR
 
@@ -22,7 +22,7 @@ Revenue earned per occupied room-night - the pricing metric of hospitality, and 
 ## Formula
 
 ```
-Room Revenue / Rooms Sold
+ADR = Room Revenue / Rooms Sold
 ```
 
 ## Unit

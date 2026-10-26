@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Fidelity Validation Rate** (
 - **Canonical id:** `dea:metric-prototype-fidelity-validation-rate`
 - **Name:** Prototype Fidelity Validation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFVR
 
@@ -18,7 +18,7 @@ Prototype Fidelity Validation Rate (PFVR) measures the quality of outputs and ou
 ## Formula
 
 ```
-Prototypes Validated with Users before Build / Prototypes
+PFVR = Prototypes Validated with Users before Build / Prototypes
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machinery Field Capacity Utilization**
 - **Canonical id:** `dea:metric-machinery-field-capacity-utilization`
 - **Name:** Machinery Field Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFCU
 
@@ -18,7 +18,7 @@ Within Agriculture & Agronomy (Deep Dive), Machinery Field Capacity Utilization 
 ## Formula
 
 ```
-Actual Work Rate / Theoretical Work Rate
+MFCU = Actual Work Rate / Theoretical Work Rate
 ```
 
 ## Unit

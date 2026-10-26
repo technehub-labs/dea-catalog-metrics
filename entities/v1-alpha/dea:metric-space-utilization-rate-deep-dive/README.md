@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Utilization Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-space-utilization-rate-deep-dive`
 - **Name:** Space Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUR-D
 
@@ -22,7 +22,7 @@ Measures actual use of workspace against available capacity. It is the economic 
 ## Formula
 
 ```
-Occupied or Booked Space / Total Space
+SUR-D = Occupied or Booked Space / Total Space
 ```
 
 ## Unit

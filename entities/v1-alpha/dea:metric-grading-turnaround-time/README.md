@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grading Turnaround Time** (GTT) in the
 - **Canonical id:** `dea:metric-grading-turnaround-time`
 - **Name:** Grading Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GTT
 
@@ -18,7 +18,7 @@ A Education & Training (Deep Dive) indicator, Grading Turnaround Time (GTT) quan
 ## Formula
 
 ```
-Days from Assessment to Grade Release
+GTT = Days from Assessment to Grade Release
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Governance Committee Cadence Compli
 - **Canonical id:** `dea:metric-ai-governance-committee-cadence-compliance`
 - **Name:** AI Governance Committee Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIGCC
 
@@ -18,7 +18,7 @@ Within AI Governance & Model Risk Management, AI Governance Committee Cadence Co
 ## Formula
 
 ```
-Governance Meetings Held per Charter / Scheduled
+AIGCC = Governance Meetings Held per Charter / Scheduled
 ```
 
 ## Unit

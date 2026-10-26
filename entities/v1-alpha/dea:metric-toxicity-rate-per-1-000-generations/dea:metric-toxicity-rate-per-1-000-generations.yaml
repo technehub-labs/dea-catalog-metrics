@@ -8,7 +8,7 @@ description: 'Within Generative AI & LLM Operations, Toxicity Rate per 1,000 Gen
   Reduction is the goal, and sustained decreases indicate successful intervention.'
 abbreviation: TOXR
 unit: event
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Generations Flagged Toxic / 1,000 Generations
 formula_definition:
   formula_id: dea:formula-toxicity-rate-per-1-000-generations
-  expression: Generations Flagged Toxic / 1,000 Generations
+  expression: TOXR = Generations Flagged Toxic / 1,000 Generations
   inputs:
   - name: Generations Flagged Toxic
   - name: 1,000 Generations
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-event
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 2550
     batch: '7'
 domain: generative_ai_llm_operations
+subject_concept: dea:subject-toxicity_rate_per_1_000_generations
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2550
+  - Public domain - no attribution required
+  known_limitations: []

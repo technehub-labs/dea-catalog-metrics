@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maverick Spend Rate** (MSR-P) in the O
 - **Canonical id:** `dea:metric-maverick-spend-rate`
 - **Name:** Maverick Spend Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR-P
 
@@ -22,7 +22,7 @@ Measures the share of spend made outside approved contracts and channels. It mat
 ## Formula
 
 ```
-Off-Contract Spend / Total Spend
+MSR-P = Off-Contract Spend / Total Spend
 ```
 
 ## Unit

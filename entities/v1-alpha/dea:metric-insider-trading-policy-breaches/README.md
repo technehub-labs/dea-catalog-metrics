@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insider Trading Policy Breaches** (ITP
 - **Canonical id:** `dea:metric-insider-trading-policy-breaches`
 - **Name:** Insider Trading Policy Breaches
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITPB
 
@@ -22,7 +22,7 @@ Insider trading policy breaches count violations of the company's insider tradin
 ## Formula
 
 ```
-Detected Insider Dealing Breaches per Period
+ITPB = Detected Insider Dealing Breaches per Period
 ```
 
 ## Unit

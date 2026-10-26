@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Points of Dependency Count** (S
 - **Canonical id:** `dea:metric-single-points-of-dependency-count`
 - **Name:** Single Points of Dependency Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPOD
 
@@ -22,7 +22,7 @@ Measures the count of critical functions resting on single systems, people, supp
 ## Formula
 
 ```
-Critical Dependencies without Redundancy / Critical Dependencies
+SPOD = Critical Dependencies without Redundancy / Critical Dependencies
 ```
 
 ## Unit

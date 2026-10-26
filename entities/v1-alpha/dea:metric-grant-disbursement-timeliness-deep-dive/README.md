@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grant Disbursement Timeliness (Deep Di
 - **Canonical id:** `dea:metric-grant-disbursement-timeliness-deep-dive`
 - **Name:** Grant Disbursement Timeliness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GDT
 
@@ -18,7 +18,7 @@ Grant Disbursement Timeliness (Deep Dive) (GDT) measures conformance to standard
 ## Formula
 
 ```
-Grants Disbursed by Deadline / Grants Approved
+GDT = Grants Disbursed by Deadline / Grants Approved
 ```
 
 ## Unit

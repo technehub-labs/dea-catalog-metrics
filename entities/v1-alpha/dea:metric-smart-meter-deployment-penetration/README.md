@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Smart Meter Deployment Penetration** (
 - **Canonical id:** `dea:metric-smart-meter-deployment-penetration`
 - **Name:** Smart Meter Deployment Penetration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMDP
 
@@ -22,7 +22,7 @@ Measures the share of endpoints with advanced metering infrastructure. Penetrati
 ## Formula
 
 ```
-Smart Meters Installed / Meter Points
+SMDP = Smart Meters Installed / Meter Points
 ```
 
 ## Unit

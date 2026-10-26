@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Cost of Ownership Optimization R
 - **Canonical id:** `dea:metric-total-cost-of-ownership-optimization-rate`
 - **Name:** Total Cost of Ownership Optimization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCOOR
 
@@ -22,7 +22,7 @@ Measures progress reducing full lifecycle cost, not just purchase price. TCO is 
 ## Formula
 
 ```
-Awards on TCO Basis rather than Price / Awards
+TCOOR = Awards on TCO Basis rather than Price / Awards
 ```
 
 ## Unit

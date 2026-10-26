@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Environment Availability** (TEA-Q
 - **Canonical id:** `dea:metric-test-environment-availability`
 - **Name:** Test Environment Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TEA-QA
 
@@ -18,7 +18,7 @@ Test Environment Availability (TEA-QA) measures the utilization or availability 
 ## Formula
 
 ```
-Environment Available Time / Required Time
+TEA-QA = Environment Available Time / Required Time
 ```
 
 ## Unit

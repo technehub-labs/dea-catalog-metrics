@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAST Coverage** (DASTC) in the OpenDEA
 - **Canonical id:** `dea:metric-dast-coverage`
 - **Name:** DAST Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DASTC
 
@@ -18,7 +18,7 @@ DAST Coverage (DASTC) measures exposure to adverse outcomes in the Application S
 ## Formula
 
 ```
-Applications Under Dynamic Testing / Internet-Facing Applications
+DASTC = Applications Under Dynamic Testing / Internet-Facing Applications
 ```
 
 ## Unit

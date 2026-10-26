@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Currency Rate (Security)** (T
 - **Canonical id:** `dea:metric-training-currency-rate-security`
 - **Name:** Training Currency Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCR-S
 
@@ -18,7 +18,7 @@ Training Currency Rate (Security) (TCR-S) addresses capability maturity or devel
 ## Formula
 
 ```
-Guards with Current Training / Guards
+TCR-S = Guards with Current Training / Guards
 ```
 
 ## Unit

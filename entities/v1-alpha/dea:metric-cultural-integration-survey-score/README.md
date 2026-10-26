@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cultural Integration Survey Score** (C
 - **Canonical id:** `dea:metric-cultural-integration-survey-score`
 - **Name:** Cultural Integration Survey Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CISS
 
@@ -22,7 +22,7 @@ Measures employee sentiment about the merged organization's culture, identity, a
 ## Formula
 
 ```
-Post-Merger Employee Culture Survey Score
+CISS = Post-Merger Employee Culture Survey Score
 ```
 
 ## Unit

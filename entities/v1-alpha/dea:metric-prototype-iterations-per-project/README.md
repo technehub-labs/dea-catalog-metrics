@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Iterations per Project** (PI
 - **Canonical id:** `dea:metric-prototype-iterations-per-project`
 - **Name:** Prototype Iterations per Project
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIP
 
@@ -18,7 +18,7 @@ Within R&D and Innovation, Prototype Iterations per Project (PIP) is used to gau
 ## Formula
 
 ```
-Prototype Build Cycles / Project
+PIP = Prototype Build Cycles / Project
 ```
 
 ## Unit

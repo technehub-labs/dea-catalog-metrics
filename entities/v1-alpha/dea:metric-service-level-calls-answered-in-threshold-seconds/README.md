@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level - Calls Answered in Thre
 - **Canonical id:** `dea:metric-service-level-calls-answered-in-threshold-seconds`
 - **Name:** Service Level - Calls Answered in Threshold Seconds
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLDD
 
@@ -18,7 +18,7 @@ Service Level - Calls Answered in Threshold Seconds (SLDD) measures conformance 
 ## Formula
 
 ```
-Calls Answered within Threshold / Calls Offered
+SLDD = Calls Answered within Threshold / Calls Offered
 ```
 
 ## Unit

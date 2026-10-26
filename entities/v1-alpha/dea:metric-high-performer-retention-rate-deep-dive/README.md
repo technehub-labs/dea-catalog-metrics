@@ -7,7 +7,7 @@ Candidate Performance Metric record for **High Performer Retention Rate (Deep Di
 - **Canonical id:** `dea:metric-high-performer-retention-rate-deep-dive`
 - **Name:** High Performer Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HPRR-D
 
@@ -22,7 +22,7 @@ Measures retention of top-rated talent specifically. Losing high performers at a
 ## Formula
 
 ```
-Top-Rated Employees Retained / Top-Rated
+HPRR-D = Top-Rated Employees Retained / Top-Rated
 ```
 
 ## Unit

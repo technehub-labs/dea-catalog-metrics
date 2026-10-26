@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Landfill Rate** (LFR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-landfill-rate`
 - **Name:** Landfill Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LFR
 
@@ -22,7 +22,7 @@ Measures the share of total waste sent to landfill. It matters because landfill 
 ## Formula
 
 ```
-Landfilled Waste / Total Waste
+LFR = Landfilled Waste / Total Waste
 ```
 
 ## Unit

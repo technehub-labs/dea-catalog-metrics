@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Tracking Adoption** (ETA-M)
 - **Canonical id:** `dea:metric-experiment-tracking-adoption`
 - **Name:** Experiment Tracking Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETA-M
 
@@ -18,7 +18,7 @@ Experiment Tracking Adoption (ETA-M) captures the quality of outputs and outcome
 ## Formula
 
 ```
-Experiments Logged in Tracking System / Experiments
+ETA-M = Experiments Logged in Tracking System / Experiments
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Review Comments per Change** (
 - **Canonical id:** `dea:metric-average-review-comments-per-change`
 - **Name:** Average Review Comments per Change
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARCC
 
@@ -18,7 +18,7 @@ Average Review Comments per Change (ARCC) captures the quality of outputs and ou
 ## Formula
 
 ```
-Review Comments / Merged Changes
+ARCC = Review Comments / Merged Changes
 ```
 
 ## Unit

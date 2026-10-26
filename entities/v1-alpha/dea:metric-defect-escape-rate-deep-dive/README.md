@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Escape Rate (Deep Dive)** (DER-
 - **Canonical id:** `dea:metric-defect-escape-rate-deep-dive`
 - **Name:** Defect Escape Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DER-QA
 
@@ -22,7 +22,7 @@ Measures the share of known defects that reach production despite testing. Escap
 ## Formula
 
 ```
-Defects Found in Production / Total Defects
+DER-QA = Defects Found in Production / Total Defects
 ```
 
 ## Unit

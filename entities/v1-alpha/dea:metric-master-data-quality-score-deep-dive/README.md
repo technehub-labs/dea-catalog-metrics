@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Quality Score (Deep Dive)*
 - **Canonical id:** `dea:metric-master-data-quality-score-deep-dive`
 - **Name:** Master Data Quality Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDQ-D
 
@@ -22,7 +22,7 @@ Measures completeness, accuracy, and consistency of core master data - customer,
 ## Formula
 
 ```
-Composite Master Data Quality Score
+MDQ-D = Composite Master Data Quality Score
 ```
 
 ## Unit

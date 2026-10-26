@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Truck Loading Cycle Time (Cement)** (T
 - **Canonical id:** `dea:metric-truck-loading-cycle-time-cement`
 - **Name:** Truck Loading Cycle Time (Cement)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLCT
 
@@ -18,7 +18,7 @@ Truck Loading Cycle Time (Cement) (TLCT) measures how efficiently resources are 
 ## Formula
 
 ```
-Minutes to Load and Dispatch Truck
+TLCT = Minutes to Load and Dispatch Truck
 ```
 
 ## Unit

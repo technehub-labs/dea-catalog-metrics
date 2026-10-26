@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Handover Success Rate** (HOSR) in the 
 - **Canonical id:** `dea:metric-handover-success-rate`
 - **Name:** Handover Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HOSR
 
@@ -18,7 +18,7 @@ Handover Success Rate (HOSR) addresses the quality of outputs and outcomes and i
 ## Formula
 
 ```
-Successful Handovers / Handover Attempts
+HOSR = Successful Handovers / Handover Attempts
 ```
 
 ## Unit

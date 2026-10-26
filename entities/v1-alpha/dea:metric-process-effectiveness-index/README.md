@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Effectiveness Index** (PEI-BSC
 - **Canonical id:** `dea:metric-process-effectiveness-index`
 - **Name:** Process Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEI-BSC
 
@@ -22,7 +22,7 @@ Measures aggregate performance of core processes against defined performance sta
 ## Formula
 
 ```
-Composite Process Performance Score
+PEI-BSC = Composite Process Performance Score
 ```
 
 ## Unit

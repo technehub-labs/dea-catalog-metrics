@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Lead** (CPL) in the OpenDEAM 
 - **Canonical id:** `dea:metric-cost-per-lead`
 - **Name:** Cost per Lead
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPL
 
@@ -22,7 +22,7 @@ Measures average marketing spend to generate one lead. It matters because it set
 ## Formula
 
 ```
-Total Campaign Cost / Leads Generated
+CPL = Total Campaign Cost / Leads Generated
 ```
 
 ## Unit

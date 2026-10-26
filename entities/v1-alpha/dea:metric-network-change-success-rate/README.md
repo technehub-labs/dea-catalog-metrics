@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Change Success Rate** (NCSR) i
 - **Canonical id:** `dea:metric-network-change-success-rate`
 - **Name:** Network Change Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCSR
 
@@ -18,7 +18,7 @@ Network Change Success Rate (NCSR) captures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Changes Completed without Rollback or Incident / Changes
+NCSR = Changes Completed without Rollback or Incident / Changes
 ```
 
 ## Unit

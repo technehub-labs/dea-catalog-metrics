@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Health Score** (AHS-AP) in th
 - **Canonical id:** `dea:metric-alliance-health-score`
 - **Name:** Alliance Health Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AHS-AP
 
@@ -22,7 +22,7 @@ Measures the composite condition of a strategic alliance across relationship, ex
 ## Formula
 
 ```
-Composite Relationship Survey across Both Parties
+AHS-AP = Composite Relationship Survey across Both Parties
 ```
 
 ## Unit

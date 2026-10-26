@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Data Completeness Rate** (ESGDC) i
 - **Canonical id:** `dea:metric-esg-data-completeness-rate`
 - **Name:** ESG Data Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESGDC
 
@@ -22,7 +22,7 @@ Measures the share of required ESG data points populated with quality evidence. 
 ## Formula
 
 ```
-Reported Data Points / Required Data Points
+ESGDC = Reported Data Points / Required Data Points
 ```
 
 ## Unit

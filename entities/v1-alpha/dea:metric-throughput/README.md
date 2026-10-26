@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Throughput** (THR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-throughput`
 - **Name:** Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THR
 
@@ -18,7 +18,7 @@ Within Operations, Throughput (THR) is used to gauge the utilization or availabi
 ## Formula
 
 ```
-Units Produced or Served per Period
+THR = Units Produced or Served per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Fleet Availability (Transit De
 - **Canonical id:** `dea:metric-vehicle-fleet-availability-transit-deep-dive`
 - **Name:** Vehicle Fleet Availability (Transit Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VFA-D
 
@@ -22,7 +22,7 @@ Measures the share of fleet available for service versus maintenance hold. Avail
 ## Formula
 
 ```
-Vehicles Available for Service / Peak Vehicles Required
+VFA-D = Vehicles Available for Service / Peak Vehicles Required
 ```
 
 ## Unit

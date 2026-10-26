@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Maintenance Coverage** (PMC) in
 - **Canonical id:** `dea:metric-patent-maintenance-coverage`
 - **Name:** Patent Maintenance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMC
 
@@ -18,7 +18,7 @@ Patent Maintenance Coverage (PMC) addresses conformance to standards, plans, or 
 ## Formula
 
 ```
-Patents with Current Maintenance Payments / Patents
+PMC = Patents with Current Maintenance Payments / Patents
 ```
 
 ## Unit

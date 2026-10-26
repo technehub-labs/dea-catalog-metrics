@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Uniqueness Rate** (DUR-DQ) in the
 - **Canonical id:** `dea:metric-data-uniqueness-rate`
 - **Name:** Data Uniqueness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DUR-DQ
 
@@ -18,7 +18,7 @@ Data Uniqueness Rate (DUR-DQ) addresses the quality of outputs and outcomes and 
 ## Formula
 
 ```
-Unique Identifiers / Identifiers Sampled
+DUR-DQ = Unique Identifiers / Identifiers Sampled
 ```
 
 ## Unit

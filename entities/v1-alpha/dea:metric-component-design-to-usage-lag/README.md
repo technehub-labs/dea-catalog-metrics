@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Component Design-to-Usage Lag** (CDUL)
 - **Canonical id:** `dea:metric-component-design-to-usage-lag`
 - **Name:** Component Design-to-Usage Lag
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDUL
 
@@ -18,7 +18,7 @@ Component Design-to-Usage Lag (CDUL) measures how efficiently resources are conv
 ## Formula
 
 ```
-Median Days from Component Design to First Production Use
+CDUL = Median Days from Component Design to First Production Use
 ```
 
 ## Unit

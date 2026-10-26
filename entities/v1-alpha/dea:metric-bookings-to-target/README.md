@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bookings to Target** (B2T) in the Open
 - **Canonical id:** `dea:metric-bookings-to-target`
 - **Name:** Bookings to Target
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** B2T
 
@@ -22,7 +22,7 @@ Measures total bookings against the period target. It matters as the single clea
 ## Formula
 
 ```
-Total Bookings / Target Bookings
+B2T = Total Bookings / Target Bookings
 ```
 
 ## Unit

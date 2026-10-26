@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blaine Fineness Consistency** (BFC) in
 - **Canonical id:** `dea:metric-blaine-fineness-consistency`
 - **Name:** Blaine Fineness Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFC
 
@@ -18,7 +18,7 @@ Blaine Fineness Consistency (BFC) addresses the quality of outputs and outcomes 
 ## Formula
 
 ```
-Samples within Blaine Range / Samples
+BFC = Samples within Blaine Range / Samples
 ```
 
 ## Unit

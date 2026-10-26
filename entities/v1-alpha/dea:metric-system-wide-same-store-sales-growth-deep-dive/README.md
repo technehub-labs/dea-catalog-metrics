@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System-wide Same-Store Sales Growth (D
 - **Canonical id:** `dea:metric-system-wide-same-store-sales-growth-deep-dive`
 - **Name:** System-wide Same-Store Sales Growth (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSSG-D
 
@@ -22,7 +22,7 @@ Measures like-for-like sales growth across franchise and corporate units. It is 
 ## Formula
 
 ```
-Comparable Sales Growth across System
+SSSG-D = Comparable Sales Growth across System
 ```
 
 ## Unit

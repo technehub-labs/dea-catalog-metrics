@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost-to-Income Ratio** (CIR) in the Op
 - **Canonical id:** `dea:metric-cost-to-income-ratio`
 - **Name:** Cost-to-Income Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIR
 
@@ -22,7 +22,7 @@ Operating expenses over operating income - the banking sectors efficiency benchm
 ## Formula
 
 ```
-Operating Expenses / Operating Income
+CIR = Operating Expenses / Operating Income
 ```
 
 ## Unit

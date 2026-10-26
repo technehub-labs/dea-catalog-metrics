@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takeout and Delivery Mix (Deep Dive)**
 - **Canonical id:** `dea:metric-takeout-and-delivery-mix-deep-dive`
 - **Name:** Takeout and Delivery Mix (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDM-D
 
@@ -22,7 +22,7 @@ Measures the share of revenue from off-premise channels. The mix shift reshapes 
 ## Formula
 
 ```
-Off-Premise Revenue / Total Revenue
+TDM-D = Off-Premise Revenue / Total Revenue
 ```
 
 ## Unit

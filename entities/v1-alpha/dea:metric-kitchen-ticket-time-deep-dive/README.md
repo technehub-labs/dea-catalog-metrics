@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kitchen Ticket Time (Deep Dive)** (KTT
 - **Canonical id:** `dea:metric-kitchen-ticket-time-deep-dive`
 - **Name:** Kitchen Ticket Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KTT-D
 
@@ -18,7 +18,7 @@ Kitchen Ticket Time (Deep Dive) (KTT-D) captures how efficiently resources are c
 ## Formula
 
 ```
-Minutes from Order Fire to Plate
+KTT-D = Minutes from Order Fire to Plate
 ```
 
 ## Unit

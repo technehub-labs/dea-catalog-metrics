@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Source of Hire Effectiveness Index** (
 - **Canonical id:** `dea:metric-source-of-hire-effectiveness-index`
 - **Name:** Source of Hire Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOHEI
 
@@ -22,7 +22,7 @@ Measures how well each recruiting channel produces hires who perform and stay. C
 ## Formula
 
 ```
-Quality-Retention Adjusted Yield per Sourcing Channel
+SOHEI = Quality-Retention Adjusted Yield per Sourcing Channel
 ```
 
 ## Unit

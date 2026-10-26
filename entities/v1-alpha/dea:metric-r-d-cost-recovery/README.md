@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Cost Recovery** (RDCC) in the Open
 - **Canonical id:** `dea:metric-r-d-cost-recovery`
 - **Name:** R&D Cost Recovery
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDCC
 
@@ -22,7 +22,7 @@ The share of research and development expenditure recovered through the revenue 
 ## Formula
 
 ```
-Revenue from New Products / Cumulative R&D Investment
+RDCC = Revenue from New Products / Cumulative R&D Investment
 ```
 
 ## Unit

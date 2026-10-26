@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Maturity Score** (DGMS
 - **Canonical id:** `dea:metric-data-governance-maturity-score`
 - **Name:** Data Governance Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DGMS-DG
 
@@ -22,7 +22,7 @@ Measures overall maturity of data governance across policy, stewardship, quality
 ## Formula
 
 ```
-Assessed Maturity Level per DAMA-Style Framework
+DGMS-DG = Assessed Maturity Level per DAMA-Style Framework
 ```
 
 ## Unit

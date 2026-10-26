@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue Leakage (Telecom)** (A
 - **Canonical id:** `dea:metric-average-revenue-leakage-telecom`
 - **Name:** Average Revenue Leakage (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARLT
 
@@ -22,7 +22,7 @@ Quantifies revenue lost to unbilled services, mis-rated usage, provisioning mism
 ## Formula
 
 ```
-Billed Value Shortfalls / Total Billed Value
+ARLT = Billed Value Shortfalls / Total Billed Value
 ```
 
 ## Unit

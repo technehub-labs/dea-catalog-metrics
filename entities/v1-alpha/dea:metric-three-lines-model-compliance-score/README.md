@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Three Lines Model Compliance Score** (
 - **Canonical id:** `dea:metric-three-lines-model-compliance-score`
 - **Name:** Three Lines Model Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLMCS
 
@@ -22,7 +22,7 @@ Measures structural conformance with separation of management, risk/compliance o
 ## Formula
 
 ```
-Composite Independence and Coverage Assessment
+TLMCS = Composite Independence and Coverage Assessment
 ```
 
 ## Unit

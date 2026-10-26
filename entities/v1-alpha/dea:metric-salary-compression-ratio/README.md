@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Salary Compression Ratio** (SCR-PAY) i
 - **Canonical id:** `dea:metric-salary-compression-ratio`
 - **Name:** Salary Compression Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-PAY
 
@@ -18,7 +18,7 @@ Within Standard Workforce & Pay Metrics, Salary Compression Ratio (SCR-PAY) is u
 ## Formula
 
 ```
-New Hire Pay vs Incumbent Pay for Same Role
+SCR-PAY = New Hire Pay vs Incumbent Pay for Same Role
 ```
 
 ## Unit

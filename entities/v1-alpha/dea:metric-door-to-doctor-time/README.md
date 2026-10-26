@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Door-to-Doctor Time** (D2D) in the Ope
 - **Canonical id:** `dea:metric-door-to-doctor-time`
 - **Name:** Door-to-Doctor Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D2D
 
@@ -18,7 +18,7 @@ Door-to-Doctor Time (D2D) measures how efficiently resources are converted into 
 ## Formula
 
 ```
-Minutes from ED Arrival to Clinician Assessment
+D2D = Minutes from ED Arrival to Clinician Assessment
 ```
 
 ## Unit

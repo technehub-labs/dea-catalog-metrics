@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Point Objective Compliance Ra
 - **Canonical id:** `dea:metric-recovery-point-objective-compliance-rate`
 - **Name:** Recovery Point Objective Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPOCR
 
@@ -22,7 +22,7 @@ Measures whether achievable data loss windows meet declared RPOs. RPO failures m
 ## Formula
 
 ```
-Data Restored within RPO in Tests / Data Restores Tested
+RPOCR = Data Restored within RPO in Tests / Data Restores Tested
 ```
 
 ## Unit

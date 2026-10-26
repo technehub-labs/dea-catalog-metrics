@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Decline Reason Insight Coverage*
 - **Canonical id:** `dea:metric-offer-decline-reason-insight-coverage`
 - **Name:** Offer Decline Reason Insight Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODRIC
 
@@ -18,7 +18,7 @@ Offer Decline Reason Insight Coverage (ODRIC) captures the quality of outputs an
 ## Formula
 
 ```
-Declines with Coded Reason / Declines
+ODRIC = Declines with Coded Reason / Declines
 ```
 
 ## Unit

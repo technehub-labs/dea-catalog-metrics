@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Usage Compliance (Salon Standa
 - **Canonical id:** `dea:metric-product-usage-compliance-salon-standards`
 - **Name:** Product Usage Compliance (Salon Standards)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PUCS
 
@@ -18,7 +18,7 @@ A Beauty & Personal Care Services indicator, Product Usage Compliance (Salon Sta
 ## Formula
 
 ```
-Services Using Approved Products / Services
+PUCS = Services Using Approved Products / Services
 ```
 
 ## Unit

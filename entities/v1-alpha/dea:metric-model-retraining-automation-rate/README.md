@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Retraining Automation Rate** (MR
 - **Canonical id:** `dea:metric-model-retraining-automation-rate`
 - **Name:** Model Retraining Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRAR
 
@@ -22,7 +22,7 @@ Measures the share of retraining executed through automated, governed pipelines 
 ## Formula
 
 ```
-Automated Retraining Workflows / Retraining Workflows
+MRAR = Automated Retraining Workflows / Retraining Workflows
 ```
 
 ## Unit

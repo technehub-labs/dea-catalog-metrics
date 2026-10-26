@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy (Revenue)** (FAR) in
 - **Canonical id:** `dea:metric-forecast-accuracy-revenue`
 - **Name:** Forecast Accuracy (Revenue)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR
 
@@ -22,7 +22,7 @@ Measures how closely realized revenue tracks the forecast. Revenue forecast accu
 ## Formula
 
 ```
-Absolute Variance of Forecast vs Actual / Actual
+FAR = Absolute Variance of Forecast vs Actual / Actual
 ```
 
 ## Unit

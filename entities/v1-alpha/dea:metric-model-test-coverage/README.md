@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Test Coverage** (MTC-M) in the O
 - **Canonical id:** `dea:metric-model-test-coverage`
 - **Name:** Model Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTC-M
 
@@ -18,7 +18,7 @@ Within MLOps & Model Lifecycle Operations, Model Test Coverage (MTC-M) is used t
 ## Formula
 
 ```
-Models with Automated Test Suites / Models in Production
+MTC-M = Models with Automated Test Suites / Models in Production
 ```
 
 ## Unit

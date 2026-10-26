@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bandwidth Cost per GB Delivered** (BCG
 - **Canonical id:** `dea:metric-bandwidth-cost-per-gb-delivered`
 - **Name:** Bandwidth Cost per GB Delivered
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCGB
 
@@ -18,7 +18,7 @@ Within Network Performance & Capacity, Bandwidth Cost per GB Delivered (BCGB) is
 ## Formula
 
 ```
-Network Spend / GB Delivered
+BCGB = Network Spend / GB Delivered
 ```
 
 ## Unit

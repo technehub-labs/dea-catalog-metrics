@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Risk Incident Rate** (VRIR) in 
 - **Canonical id:** `dea:metric-vendor-risk-incident-rate`
 - **Name:** Vendor Risk Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRIR
 
@@ -22,7 +22,7 @@ Measures the frequency of incidents attributable to third parties. It is the out
 ## Formula
 
 ```
-Material Vendor-Caused Incidents / Vendor Engagements
+VRIR = Material Vendor-Caused Incidents / Vendor Engagements
 ```
 
 ## Unit

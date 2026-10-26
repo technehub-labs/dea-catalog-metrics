@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attention Metric Score (Ads)** (AMS) i
 - **Canonical id:** `dea:metric-attention-metric-score-ads`
 - **Name:** Attention Metric Score (Ads)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMS
 
@@ -18,7 +18,7 @@ Attention Metric Score (Ads) (AMS) addresses how effectively a process or entity
 ## Formula
 
 ```
-Composite Attention Measurement Score
+AMS = Composite Attention Measurement Score
 ```
 
 ## Unit

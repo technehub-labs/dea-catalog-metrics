@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Execution Cycle Time** (TECT-QA) 
 - **Canonical id:** `dea:metric-test-execution-cycle-time`
 - **Name:** Test Execution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TECT-QA
 
@@ -18,7 +18,7 @@ A Software Testing & Quality Engineering indicator, Test Execution Cycle Time (T
 ## Formula
 
 ```
-Duration of Full Regression Suite
+TECT-QA = Duration of Full Regression Suite
 ```
 
 ## Unit

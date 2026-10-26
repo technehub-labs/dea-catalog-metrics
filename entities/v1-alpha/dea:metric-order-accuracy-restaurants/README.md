@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Accuracy (Restaurants)** (OAR) i
 - **Canonical id:** `dea:metric-order-accuracy-restaurants`
 - **Name:** Order Accuracy (Restaurants)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OAR
 
@@ -18,7 +18,7 @@ Order Accuracy (Restaurants) (OAR) addresses the quality of outputs and outcomes
 ## Formula
 
 ```
-Orders Delivered as Placed / Orders
+OAR = Orders Delivered as Placed / Orders
 ```
 
 ## Unit

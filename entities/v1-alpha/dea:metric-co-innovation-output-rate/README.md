@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Co-Innovation Output Rate** (CIOR) in 
 - **Canonical id:** `dea:metric-co-innovation-output-rate`
 - **Name:** Co-Innovation Output Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIOR
 
@@ -22,7 +22,7 @@ Measures how much jointly developed product or capability reaches market from al
 ## Formula
 
 ```
-Jointly Launched Innovations per Year
+CIOR = Jointly Launched Innovations per Year
 ```
 
 ## Unit

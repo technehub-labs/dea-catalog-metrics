@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Rate (Plastics)** (SRP) in the O
 - **Canonical id:** `dea:metric-scrap-rate-plastics`
 - **Name:** Scrap Rate (Plastics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRP
 
@@ -18,7 +18,7 @@ Scrap Rate (Plastics) (SRP) measures how efficiently resources are converted int
 ## Formula
 
 ```
-Scrap Material / Total Material
+SRP = Scrap Material / Total Material
 ```
 
 ## Unit

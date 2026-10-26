@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice of Customer Closed-Loop Rate** (
 - **Canonical id:** `dea:metric-voice-of-customer-closed-loop-rate`
 - **Name:** Voice of Customer Closed-Loop Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VoCCL
 
@@ -22,7 +22,7 @@ Measures the share of customer feedback items formally closed with the customer 
 ## Formula
 
 ```
-Survey Follow-ups Closed with Customer / Negative Surveys
+VoCCL = Survey Follow-ups Closed with Customer / Negative Surveys
 ```
 
 ## Unit

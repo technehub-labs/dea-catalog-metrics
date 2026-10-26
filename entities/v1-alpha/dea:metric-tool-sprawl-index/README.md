@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tool Sprawl Index** (TSI) in the OpenD
 - **Canonical id:** `dea:metric-tool-sprawl-index`
 - **Name:** Tool Sprawl Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSI
 
@@ -18,7 +18,7 @@ Within Digital Workplace & Collaboration, Tool Sprawl Index (TSI) is used to gau
 ## Formula
 
 ```
-Distinct Collaboration Apps per Team / Target App Count
+TSI = Distinct Collaboration Apps per Team / Target App Count
 ```
 
 ## Unit

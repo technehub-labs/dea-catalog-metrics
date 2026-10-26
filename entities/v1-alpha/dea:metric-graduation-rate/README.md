@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Graduation Rate** (GR) in the OpenDEAM
 - **Canonical id:** `dea:metric-graduation-rate`
 - **Name:** Graduation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GR
 
@@ -22,7 +22,7 @@ The share of a cohort completing their program within a defined window - the out
 ## Formula
 
 ```
-Students Graduating On Time / Students in Cohort
+GR = Students Graduating On Time / Students in Cohort
 ```
 
 ## Unit

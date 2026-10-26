@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emerging Risk Board Reporting Depth Sc
 - **Canonical id:** `dea:metric-emerging-risk-board-reporting-depth-score`
 - **Name:** Emerging Risk Board Reporting Depth Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERBRD
 
@@ -22,7 +22,7 @@ Measures whether board-level emerging risk reporting carries sufficient insight 
 ## Formula
 
 ```
-Rubric of Board Discussion Quality on Emerging Risks
+ERBRD = Rubric of Board Discussion Quality on Emerging Risks
 ```
 
 ## Unit

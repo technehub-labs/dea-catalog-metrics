@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Resolution Time** (ART) in the
 - **Canonical id:** `dea:metric-average-resolution-time`
 - **Name:** Average Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ART
 
@@ -18,7 +18,7 @@ Within Customer, Average Resolution Time (ART) is used to gauge how efficiently 
 ## Formula
 
 ```
-Total Resolution Time / Resolved Cases
+ART = Total Resolution Time / Resolved Cases
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Cash Flow** (FCF) in the OpenDEAM
 - **Canonical id:** `dea:metric-free-cash-flow`
 - **Name:** Free Cash Flow
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCF
 
@@ -22,7 +22,7 @@ Operating cash flow minus capital expenditure - the cash actually available to i
 ## Formula
 
 ```
-Operating Cash Flow - Capital Expenditure
+FCF = Operating Cash Flow - Capital Expenditure
 ```
 
 ## Unit

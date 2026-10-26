@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exception Approval Cycle Time** (EACT-
 - **Canonical id:** `dea:metric-exception-approval-cycle-time`
 - **Name:** Exception Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EACT-IR
 
@@ -18,7 +18,7 @@ Exception Approval Cycle Time (EACT-IR) measures how efficiently resources are c
 ## Formula
 
 ```
-Days from Risk Exception Raised to Approval Decision
+EACT-IR = Days from Risk Exception Raised to Approval Decision
 ```
 
 ## Unit

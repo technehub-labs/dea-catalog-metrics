@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Expense Ratio (Property)** (
 - **Canonical id:** `dea:metric-operating-expense-ratio-property`
 - **Name:** Operating Expense Ratio (Property)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OER-P
 
@@ -22,7 +22,7 @@ Measures property operating costs against revenue. It is the efficiency and reco
 ## Formula
 
 ```
-Operating Expenses / Effective Gross Income
+OER-P = Operating Expenses / Effective Gross Income
 ```
 
 ## Unit

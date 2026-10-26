@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Owner Engagement Rate** (BOER) 
 - **Canonical id:** `dea:metric-budget-owner-engagement-rate`
 - **Name:** Budget Owner Engagement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOER
 
@@ -18,7 +18,7 @@ Budget Owner Engagement Rate (BOER) addresses the engagement or satisfaction of 
 ## Formula
 
 ```
-Owners Submitting on First Request / Owners
+BOER = Owners Submitting on First Request / Owners
 ```
 
 ## Unit

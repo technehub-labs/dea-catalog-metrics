@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Clauses Audit Pass Rate** (
 - **Canonical id:** `dea:metric-compliance-clauses-audit-pass-rate`
 - **Name:** Compliance Clauses Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCAP
 
@@ -18,7 +18,7 @@ Within Legal Operations, Compliance Clauses Audit Pass Rate (CCAP) is used to ga
 ## Formula
 
 ```
-Audited Contracts with Required Clauses / Audited
+CCAP = Audited Contracts with Required Clauses / Audited
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Medication Review Completion**
 - **Canonical id:** `dea:metric-patient-medication-review-completion`
 - **Name:** Patient Medication Review Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMRC
 
@@ -18,7 +18,7 @@ Patient Medication Review Completion (PMRC) addresses the quality of outputs and
 ## Formula
 
 ```
-Completed Medication Reviews / Due
+PMRC = Completed Medication Reviews / Due
 ```
 
 ## Unit

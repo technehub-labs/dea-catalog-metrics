@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Work Order Data Completeness** (WODC) 
 - **Canonical id:** `dea:metric-work-order-data-completeness`
 - **Name:** Work Order Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WODC
 
@@ -18,7 +18,7 @@ Work Order Data Completeness (WODC) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Work Orders with Complete Asset, Cause, Action Data / Work Orders
+WODC = Work Orders with Complete Asset, Cause, Action Data / Work Orders
 ```
 
 ## Unit

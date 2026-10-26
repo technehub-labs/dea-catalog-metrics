@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Substation Maintenance Backlog** (SMB)
 - **Canonical id:** `dea:metric-substation-maintenance-backlog`
 - **Name:** Substation Maintenance Backlog
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMB
 
@@ -18,7 +18,7 @@ Substation Maintenance Backlog (SMB) addresses exposure to adverse outcomes and 
 ## Formula
 
 ```
-Overdue Maintenance Tasks / Total Tasks
+SMB = Overdue Maintenance Tasks / Total Tasks
 ```
 
 ## Unit

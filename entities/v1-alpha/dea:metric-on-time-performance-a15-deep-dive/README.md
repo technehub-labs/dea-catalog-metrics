@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance - A15 (Deep Dive)*
 - **Canonical id:** `dea:metric-on-time-performance-a15-deep-dive`
 - **Name:** On-Time Performance - A15 (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTP-A15
 
@@ -22,7 +22,7 @@ Measures flights arriving within fifteen minutes of schedule, the industry-stand
 ## Formula
 
 ```
-Arrivals within 15 Minutes / Arrivals
+OTP-A15 = Arrivals within 15 Minutes / Arrivals
 ```
 
 ## Unit

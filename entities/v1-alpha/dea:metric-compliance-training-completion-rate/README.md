@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Training Completion Rate** 
 - **Canonical id:** `dea:metric-compliance-training-completion-rate`
 - **Name:** Compliance Training Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCR-CM
 
@@ -18,7 +18,7 @@ Compliance Training Completion Rate (CTCR-CM) captures conformance to standards,
 ## Formula
 
 ```
-Staff Completing Mandatory Training by Due Date / Staff
+CTCR-CM = Staff Completing Mandatory Training by Due Date / Staff
 ```
 
 ## Unit

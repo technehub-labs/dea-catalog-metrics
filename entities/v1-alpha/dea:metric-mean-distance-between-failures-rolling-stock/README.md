@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Distance between Failures (Rollin
 - **Canonical id:** `dea:metric-mean-distance-between-failures-rolling-stock`
 - **Name:** Mean Distance between Failures (Rolling Stock)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDBF
 
@@ -22,7 +22,7 @@ Mean distance between failures for rolling stock measures reliability per kilome
 ## Formula
 
 ```
-Distance Operated / Service-Affecting Failures
+MDBF = Distance Operated / Service-Affecting Failures
 ```
 
 ## Unit

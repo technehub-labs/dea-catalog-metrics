@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Persistency Rate** (PR) in the OpenDEA
 - **Canonical id:** `dea:metric-persistency-rate`
 - **Name:** Persistency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PR
 
@@ -22,7 +22,7 @@ The share of policies that remain in force through a measurement window - the in
 ## Formula
 
 ```
-Policies Remaining In Force / Policies Issued
+PR = Policies Remaining In Force / Policies Issued
 ```
 
 ## Unit

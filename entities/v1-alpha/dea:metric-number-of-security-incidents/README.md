@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Number of Security Incidents** (NSI) i
 - **Canonical id:** `dea:metric-number-of-security-incidents`
 - **Name:** Number of Security Incidents
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSI
 
@@ -22,7 +22,7 @@ The count of detected security events that triggered response - the raw frequenc
 ## Formula
 
 ```
-Confirmed Security Incidents per Period
+NSI = Confirmed Security Incidents per Period
 ```
 
 ## Unit

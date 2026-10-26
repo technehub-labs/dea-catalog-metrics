@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trims and Accessories Stockout Rate** 
 - **Canonical id:** `dea:metric-trims-and-accessories-stockout-rate`
 - **Name:** Trims and Accessories Stockout Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAS
 
@@ -18,7 +18,7 @@ A Textile & Apparel indicator, Trims and Accessories Stockout Rate (TAS) quantif
 ## Formula
 
 ```
-Trims Stockouts / Trims Required Events
+TAS = Trims Stockouts / Trims Required Events
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plan Accuracy** (PLAN) in the OpenDEAM
 - **Canonical id:** `dea:metric-plan-accuracy`
 - **Name:** Plan Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLAN
 
@@ -22,7 +22,7 @@ Measures how closely actual production or demand outcomes match the plan. It mat
 ## Formula
 
 ```
-1 - ABS(Actual - Plan) / Plan
+PLAN = 1 - ABS(Actual - Plan) / Plan
 ```
 
 ## Unit

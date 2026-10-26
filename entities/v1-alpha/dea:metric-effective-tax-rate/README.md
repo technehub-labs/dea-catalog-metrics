@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Effective Tax Rate** (ETR) in the Open
 - **Canonical id:** `dea:metric-effective-tax-rate`
 - **Name:** Effective Tax Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETR
 
@@ -22,7 +22,7 @@ Total tax expense over pre-tax accounting profit - the realized tax burden that 
 ## Formula
 
 ```
-Total Tax Expense / Pre-Tax Accounting Income
+ETR = Total Tax Expense / Pre-Tax Accounting Income
 ```
 
 ## Unit

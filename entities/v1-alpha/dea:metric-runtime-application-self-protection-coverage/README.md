@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runtime Application Self-Protection Co
 - **Canonical id:** `dea:metric-runtime-application-self-protection-coverage`
 - **Name:** Runtime Application Self-Protection Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RASPC
 
@@ -18,7 +18,7 @@ A DevSecOps & Application Security Engineering indicator, Runtime Application Se
 ## Formula
 
 ```
-Critical Services with RASP or Runtime Protection / Critical Services
+RASPC = Critical Services with RASP or Runtime Protection / Critical Services
 ```
 
 ## Unit

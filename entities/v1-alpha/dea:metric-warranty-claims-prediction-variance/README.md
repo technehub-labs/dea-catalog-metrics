@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Claims Prediction Variance** 
 - **Canonical id:** `dea:metric-warranty-claims-prediction-variance`
 - **Name:** Warranty Claims Prediction Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCPV
 
@@ -18,7 +18,7 @@ Warranty Claims Prediction Variance (WCPV) addresses the quality of outputs and 
 ## Formula
 
 ```
-Predicted vs Actual Claims Rate Variance
+WCPV = Predicted vs Actual Claims Rate Variance
 ```
 
 ## Unit

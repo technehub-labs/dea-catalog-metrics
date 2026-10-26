@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Graduate Employment Rate** (GER) in th
 - **Canonical id:** `dea:metric-graduate-employment-rate`
 - **Name:** Graduate Employment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GER
 
@@ -22,7 +22,7 @@ Measures the share of graduates employed (ideally in field) within a defined win
 ## Formula
 
 ```
-Graduates Employed within Study Field Window / Graduates
+GER = Graduates Employed within Study Field Window / Graduates
 ```
 
 ## Unit

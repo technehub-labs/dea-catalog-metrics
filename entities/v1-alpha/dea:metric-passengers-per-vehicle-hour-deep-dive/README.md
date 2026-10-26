@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passengers per Vehicle Hour (Deep Dive
 - **Canonical id:** `dea:metric-passengers-per-vehicle-hour-deep-dive`
 - **Name:** Passengers per Vehicle Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPVH-D
 
@@ -22,7 +22,7 @@ Measures ridership carried per vehicle service hour. It is the productive-effici
 ## Formula
 
 ```
-Passengers / Vehicle Revenue Hour
+PPVH-D = Passengers / Vehicle Revenue Hour
 ```
 
 ## Unit

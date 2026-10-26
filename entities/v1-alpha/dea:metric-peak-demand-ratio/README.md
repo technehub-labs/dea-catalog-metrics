@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Demand Ratio** (PDR-E) in the Ope
 - **Canonical id:** `dea:metric-peak-demand-ratio`
 - **Name:** Peak Demand Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDR-E
 
@@ -22,7 +22,7 @@ Measures peak demand relative to average demand in operations energy management.
 ## Formula
 
 ```
-Peak Power Demand / Contracted Demand Capacity
+PDR-E = Peak Power Demand / Contracted Demand Capacity
 ```
 
 ## Unit

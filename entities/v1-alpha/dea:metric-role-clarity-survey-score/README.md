@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Role Clarity Survey Score** (RCSS-OM) 
 - **Canonical id:** `dea:metric-role-clarity-survey-score`
 - **Name:** Role Clarity Survey Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCSS-OM
 
@@ -18,7 +18,7 @@ Role Clarity Survey Score (RCSS-OM) measures the engagement or satisfaction of t
 ## Formula
 
 ```
-Employee-Reported Role and Decision Clarity
+RCSS-OM = Employee-Reported Role and Decision Clarity
 ```
 
 ## Unit

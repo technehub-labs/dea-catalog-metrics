@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha** (ALPHA) in the OpenDEAM Metric
 - **Canonical id:** `dea:metric-alpha`
 - **Name:** Alpha
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALPHA
 
@@ -22,7 +22,7 @@ Alpha is the return of a portfolio above what its risk profile would predict - t
 ## Formula
 
 ```
-Portfolio Return - Benchmark-Adjusted Expected Return
+ALPHA = Portfolio Return - Benchmark-Adjusted Expected Return
 ```
 
 ## Unit

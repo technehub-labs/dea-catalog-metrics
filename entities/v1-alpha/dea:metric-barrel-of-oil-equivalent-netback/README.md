@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Barrel of Oil Equivalent Netback** (BO
 - **Canonical id:** `dea:metric-barrel-of-oil-equivalent-netback`
 - **Name:** Barrel of Oil Equivalent Netback
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOEN
 
@@ -22,7 +22,7 @@ The boe netback measures revenue per barrel equivalent minus royalties, operatin
 ## Formula
 
 ```
-Revenue per Barrel - Lifting Cost - Transportation - Taxes
+BOEN = Revenue per Barrel - Lifting Cost - Transportation - Taxes
 ```
 
 ## Unit

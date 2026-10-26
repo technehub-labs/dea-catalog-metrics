@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Gender Diversity** (BGD) in the 
 - **Canonical id:** `dea:metric-board-gender-diversity`
 - **Name:** Board Gender Diversity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BGD
 
@@ -22,7 +22,7 @@ The share of board seats held by women - the governance metric that moved from a
 ## Formula
 
 ```
-Women on Board / Total Board Members
+BGD = Women on Board / Total Board Members
 ```
 
 ## Unit

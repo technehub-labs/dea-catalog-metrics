@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Response Plan Completion Rate** (
 - **Canonical id:** `dea:metric-risk-response-plan-completion-rate`
 - **Name:** Risk Response Plan Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRPCR
 
@@ -22,7 +22,7 @@ Measures the share of identified significant risks with funded, owned response p
 ## Formula
 
 ```
-Mitigation Plans Implemented for Red Risks / Red Risks
+RRPCR = Mitigation Plans Implemented for Red Risks / Red Risks
 ```
 
 ## Unit

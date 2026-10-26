@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Productivity (Deep Dive)** (WP-D
 - **Canonical id:** `dea:metric-water-productivity-deep-dive`
 - **Name:** Water Productivity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WP-D
 
@@ -18,7 +18,7 @@ Water Productivity (Deep Dive) (WP-D) addresses how efficiently resources are co
 ## Formula
 
 ```
-Crop Yield per mm Irrigation Water
+WP-D = Crop Yield per mm Irrigation Water
 ```
 
 ## Unit

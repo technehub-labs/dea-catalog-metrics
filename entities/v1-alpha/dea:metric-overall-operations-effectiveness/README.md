@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Operations Effectiveness** (OO
 - **Canonical id:** `dea:metric-overall-operations-effectiveness`
 - **Name:** Overall Operations Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OOE
 
@@ -22,7 +22,7 @@ The composite of availability, performance, and quality of the constrained opera
 ## Formula
 
 ```
-OEE over Calendar Time Including Planned Stops
+OOE = OEE over Calendar Time Including Planned Stops
 ```
 
 ## Unit

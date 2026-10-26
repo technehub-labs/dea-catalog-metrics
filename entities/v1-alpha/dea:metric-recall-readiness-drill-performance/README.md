@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recall Readiness Drill Performance** (
 - **Canonical id:** `dea:metric-recall-readiness-drill-performance`
 - **Name:** Recall Readiness Drill Performance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRDP
 
@@ -22,7 +22,7 @@ Measures execution quality of simulated recalls - traceability retrieval speed, 
 ## Formula
 
 ```
-Mock Recall Time and Traceability Completeness Score
+RRDP = Mock Recall Time and Traceability Completeness Score
 ```
 
 ## Unit

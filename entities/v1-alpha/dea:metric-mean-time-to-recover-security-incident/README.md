@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Recover - Security Incide
 - **Canonical id:** `dea:metric-mean-time-to-recover-security-incident`
 - **Name:** Mean Time to Recover - Security Incident
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTRSI
 
@@ -22,7 +22,7 @@ Measures the average time from incident to full restoration of trusted, normal o
 ## Formula
 
 ```
-Hours from Containment to Full Recovery
+MTTRSI = Hours from Containment to Full Recovery
 ```
 
 ## Unit

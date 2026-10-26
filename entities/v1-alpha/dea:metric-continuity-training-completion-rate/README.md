@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Training Completion Rate** 
 - **Canonical id:** `dea:metric-continuity-training-completion-rate`
 - **Name:** Continuity Training Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCR
 
@@ -18,7 +18,7 @@ Continuity Training Completion Rate (CTCR) measures capability maturity or devel
 ## Formula
 
 ```
-Staff Completing Continuity Role Training / Staff in Roles
+CTCR = Staff Completing Continuity Role Training / Staff in Roles
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Deployment Verification Coverage*
 - **Canonical id:** `dea:metric-post-deployment-verification-coverage`
 - **Name:** Post-Deployment Verification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDVC
 
@@ -18,7 +18,7 @@ A Continuous Delivery & Deployment indicator, Post-Deployment Verification Cover
 ## Formula
 
 ```
-Deployments with Automated Smoke Verification / Deployments
+PDVC = Deployments with Automated Smoke Verification / Deployments
 ```
 
 ## Unit

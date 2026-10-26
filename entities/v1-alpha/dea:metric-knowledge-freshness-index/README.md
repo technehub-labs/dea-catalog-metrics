@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Freshness Index** (KFI) in t
 - **Canonical id:** `dea:metric-knowledge-freshness-index`
 - **Name:** Knowledge Freshness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KFI
 
@@ -18,7 +18,7 @@ A Knowledge Management (Deep Dive) indicator, Knowledge Freshness Index (KFI) qu
 ## Formula
 
 ```
-Articles Reviewed within Currency Standard / Articles
+KFI = Articles Reviewed within Currency Standard / Articles
 ```
 
 ## Unit

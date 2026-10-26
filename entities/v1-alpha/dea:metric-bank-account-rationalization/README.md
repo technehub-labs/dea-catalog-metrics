@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bank Account Rationalization** (BAR) i
 - **Canonical id:** `dea:metric-bank-account-rationalization`
 - **Name:** Bank Account Rationalization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BAR
 
@@ -22,7 +22,7 @@ Measures progress consolidating bank accounts toward the target structure. It ma
 ## Formula
 
 ```
-Active Bank Accounts / Total Bank Accounts Held
+BAR = Active Bank Accounts / Total Bank Accounts Held
 ```
 
 ## Unit

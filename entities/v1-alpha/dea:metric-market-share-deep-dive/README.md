@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share (Deep Dive)** (MSDD) in t
 - **Canonical id:** `dea:metric-market-share-deep-dive`
 - **Name:** Market Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSDD
 
@@ -22,7 +22,7 @@ Measures the company's share of the addressable market. Share is the scoreboard 
 ## Formula
 
 ```
-Entity Sales / Total Addressable Market Sales
+MSDD = Entity Sales / Total Addressable Market Sales
 ```
 
 ## Unit

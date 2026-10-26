@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alarm False Callout Rate** (AFCR) in t
 - **Canonical id:** `dea:metric-alarm-false-callout-rate`
 - **Name:** Alarm False Callout Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFCR
 
@@ -18,7 +18,7 @@ Alarm False Callout Rate (AFCR) addresses how efficiently resources are converte
 ## Formula
 
 ```
-False Alarm Responses / Alarm Responses
+AFCR = False Alarm Responses / Alarm Responses
 ```
 
 ## Unit

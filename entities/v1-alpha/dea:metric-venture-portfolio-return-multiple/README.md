@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Venture Portfolio Return Multiple** (V
 - **Canonical id:** `dea:metric-venture-portfolio-return-multiple`
 - **Name:** Venture Portfolio Return Multiple
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPRM
 
@@ -22,7 +22,7 @@ Measures realized and unrealized value of a corporate venture portfolio against 
 ## Formula
 
 ```
-Portfolio Exit and Fair Value / Capital Invested
+VPRM = Portfolio Exit and Fair Value / Capital Invested
 ```
 
 ## Unit

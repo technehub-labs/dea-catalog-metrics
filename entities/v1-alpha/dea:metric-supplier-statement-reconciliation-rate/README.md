@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Statement Reconciliation Rate
 - **Canonical id:** `dea:metric-supplier-statement-reconciliation-rate`
 - **Name:** Supplier Statement Reconciliation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRR
 
@@ -18,7 +18,7 @@ Supplier Statement Reconciliation Rate (SSRR) captures the quality of outputs an
 ## Formula
 
 ```
-Statements Reconciled Monthly / Suppliers
+SSRR = Statements Reconciled Monthly / Suppliers
 ```
 
 ## Unit

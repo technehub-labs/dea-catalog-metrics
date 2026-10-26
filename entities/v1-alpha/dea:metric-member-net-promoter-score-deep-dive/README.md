@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Net Promoter Score (Deep Dive)*
 - **Canonical id:** `dea:metric-member-net-promoter-score-deep-dive`
 - **Name:** Member Net Promoter Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MNPS-D
 
@@ -22,7 +22,7 @@ Measures member willingness to recommend the facility. In a market with low swit
 ## Formula
 
 ```
-Member NPS Survey Result
+MNPS-D = Member NPS Survey Result
 ```
 
 ## Unit

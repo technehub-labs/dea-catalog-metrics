@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Closure Cycle Time** (DCCT) in th
 - **Canonical id:** `dea:metric-deal-closure-cycle-time`
 - **Name:** Deal Closure Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCCT
 
@@ -22,7 +22,7 @@ Deal closure cycle time measures time from mandate to completion, and in M&A it 
 ## Formula
 
 ```
-Days from Mandate to Completion
+DCCT = Days from Mandate to Completion
 ```
 
 ## Unit

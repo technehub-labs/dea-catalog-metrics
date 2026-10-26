@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Downtime per Release** (DDP
 - **Canonical id:** `dea:metric-deployment-downtime-per-release`
 - **Name:** Deployment Downtime per Release
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDPR-CD
 
@@ -22,7 +22,7 @@ Measures the average user-visible service interruption attributable to each depl
 ## Formula
 
 ```
-Customer-Visible Minutes Lost per Release
+DDPR-CD = Customer-Visible Minutes Lost per Release
 ```
 
 ## Unit

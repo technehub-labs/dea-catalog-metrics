@@ -7,7 +7,7 @@ Candidate Performance Metric record for **QBR Completion Rate** (QBRC) in the Op
 - **Canonical id:** `dea:metric-qbr-completion-rate`
 - **Name:** QBR Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QBRC
 
@@ -18,7 +18,7 @@ QBR Completion Rate (QBRC) addresses the engagement or satisfaction of the peopl
 ## Formula
 
 ```
-Quarterly Business Reviews Held / Reviews Planned
+QBRC = Quarterly Business Reviews Held / Reviews Planned
 ```
 
 ## Unit

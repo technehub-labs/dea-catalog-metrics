@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Time** (TAKT) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-takt-time`
 - **Name:** Takt Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAKT
 
@@ -22,7 +22,7 @@ Takt time is the drumbeat of lean production: available production time divided 
 ## Formula
 
 ```
-Available Production Time / Customer Demand Units
+TAKT = Available Production Time / Customer Demand Units
 ```
 
 ## Unit

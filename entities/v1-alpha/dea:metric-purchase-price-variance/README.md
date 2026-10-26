@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Price Variance** (PPV) in the
 - **Canonical id:** `dea:metric-purchase-price-variance`
 - **Name:** Purchase Price Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPV
 
@@ -22,7 +22,7 @@ Measures the gap between standard and actual prices paid for purchased goods. It
 ## Formula
 
 ```
-(Actual Price - Standard Price) x Quantity Purchased
+PPV = (Actual Price - Standard Price) x Quantity Purchased
 ```
 
 ## Unit

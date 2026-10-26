@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Error Rate** (MER) in the O
 - **Canonical id:** `dea:metric-medication-error-rate`
 - **Name:** Medication Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MER
 
@@ -22,7 +22,7 @@ Errors in prescribing, dispensing, or administration of medication, normalized p
 ## Formula
 
 ```
-Medication Errors / Medication Administrations
+MER = Medication Errors / Medication Administrations
 ```
 
 ## Unit

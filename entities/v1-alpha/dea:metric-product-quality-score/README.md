@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product-Quality Score** (PQS) in the O
 - **Canonical id:** `dea:metric-product-quality-score`
 - **Name:** Product-Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PQS
 
@@ -22,7 +22,7 @@ A composite assessment of product quality across dimensions - typically defect r
 ## Formula
 
 ```
-Weighted Index of Defects, Performance, Satisfaction
+PQS = Weighted Index of Defects, Performance, Satisfaction
 ```
 
 ## Unit

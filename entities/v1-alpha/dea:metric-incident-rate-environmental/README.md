@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Rate (Environmental)** (IRE) 
 - **Canonical id:** `dea:metric-incident-rate-environmental`
 - **Name:** Incident Rate (Environmental)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRE
 
@@ -22,7 +22,7 @@ Environmental incident rate measures the frequency of reportable spills, exceeda
 ## Formula
 
 ```
-Reportable Environmental Incidents / Sites per Period
+IRE = Reportable Environmental Incidents / Sites per Period
 ```
 
 ## Unit

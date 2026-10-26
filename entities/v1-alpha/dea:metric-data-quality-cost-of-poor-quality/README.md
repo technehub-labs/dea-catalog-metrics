@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Cost of Poor Quality** (D
 - **Canonical id:** `dea:metric-data-quality-cost-of-poor-quality`
 - **Name:** Data Quality Cost of Poor Quality
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQPQ
 
@@ -22,7 +22,7 @@ Measures the financial cost of defective data: rework, bad decisions, compliance
 ## Formula
 
 ```
-Estimated Rework and Error Cost per Quarter
+DQPQ = Estimated Rework and Error Cost per Quarter
 ```
 
 ## Unit

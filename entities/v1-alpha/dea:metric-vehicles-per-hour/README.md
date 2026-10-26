@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicles per Hour** (VPH) in the OpenD
 - **Canonical id:** `dea:metric-vehicles-per-hour`
 - **Name:** Vehicles per Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPH
 
@@ -18,7 +18,7 @@ Vehicles per Hour (VPH) measures the utilization or availability of capacity in 
 ## Formula
 
 ```
-Vehicles Assembled / Production Hours
+VPH = Vehicles Assembled / Production Hours
 ```
 
 ## Unit

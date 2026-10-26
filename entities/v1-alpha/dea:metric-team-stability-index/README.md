@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Team Stability Index** (TSI-AG) in the
 - **Canonical id:** `dea:metric-team-stability-index`
 - **Name:** Team Stability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSI-AG
 
@@ -18,7 +18,7 @@ A Agile Delivery & Team Effectiveness indicator, Team Stability Index (TSI-AG) q
 ## Formula
 
 ```
-Team Composition Unchanged over Quarter / Team
+TSI-AG = Team Composition Unchanged over Quarter / Team
 ```
 
 ## Unit

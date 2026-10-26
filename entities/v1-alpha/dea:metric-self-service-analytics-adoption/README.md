@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Analytics Adoption** (SSA
 - **Canonical id:** `dea:metric-self-service-analytics-adoption`
 - **Name:** Self-Service Analytics Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSAA
 
@@ -18,7 +18,7 @@ Within Financial Planning & Analysis, Self-Service Analytics Adoption (SSAA) is 
 ## Formula
 
 ```
-Business Users with Direct Planning Access / Users in Scope
+SSAA = Business Users with Direct Planning Access / Users in Scope
 ```
 
 ## Unit

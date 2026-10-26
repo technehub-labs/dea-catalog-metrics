@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Completion for Change** (TCC-
 - **Canonical id:** `dea:metric-training-completion-for-change`
 - **Name:** Training Completion for Change
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCC-C
 
@@ -18,7 +18,7 @@ Training Completion for Change (TCC-C) captures conformance to standards, plans,
 ## Formula
 
 ```
-Target Users Completing Change Training / Target Users
+TCC-C = Target Users Completing Change Training / Target Users
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Availability (Defense)** (SAD) 
 - **Canonical id:** `dea:metric-spares-availability-defense`
 - **Name:** Spares Availability (Defense)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAD
 
@@ -18,7 +18,7 @@ Spares Availability (Defense) (SAD) addresses the utilization or availability of
 ## Formula
 
 ```
-Mission-Critical Spares in Stock / Required
+SAD = Mission-Critical Spares in Stock / Required
 ```
 
 ## Unit

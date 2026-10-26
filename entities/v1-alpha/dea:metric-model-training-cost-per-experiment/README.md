@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Training Cost per Experiment** (
 - **Canonical id:** `dea:metric-model-training-cost-per-experiment`
 - **Name:** Model Training Cost per Experiment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTCE
 
@@ -18,7 +18,7 @@ Model Training Cost per Experiment (MTCE) captures how efficiently resources are
 ## Formula
 
 ```
-Compute Cost for Experiments / Experiments
+MTCE = Compute Cost for Experiments / Experiments
 ```
 
 ## Unit

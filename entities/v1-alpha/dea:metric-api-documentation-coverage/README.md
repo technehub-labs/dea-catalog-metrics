@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Documentation Coverage** (APIDC) i
 - **Canonical id:** `dea:metric-api-documentation-coverage`
 - **Name:** API Documentation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIDC
 
@@ -18,7 +18,7 @@ API Documentation Coverage (APIDC) measures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Endpoints with Current Documentation / Endpoints
+APIDC = Endpoints with Current Documentation / Endpoints
 ```
 
 ## Unit

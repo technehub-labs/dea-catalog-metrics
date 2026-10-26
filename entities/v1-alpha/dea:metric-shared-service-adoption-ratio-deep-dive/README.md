@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shared Service Adoption Ratio (Deep Di
 - **Canonical id:** `dea:metric-shared-service-adoption-ratio-deep-dive`
 - **Name:** Shared Service Adoption Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSAR-D
 
@@ -22,7 +22,7 @@ Measures the share of eligible demand routed through shared services rather than
 ## Formula
 
 ```
-Business Units Using Shared Services / Eligible Units
+SSAR-D = Business Units Using Shared Services / Eligible Units
 ```
 
 ## Unit

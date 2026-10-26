@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Bill Right Rate** (FBRR) in the 
 - **Canonical id:** `dea:metric-first-bill-right-rate`
 - **Name:** First Bill Right Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FBRR
 
@@ -22,7 +22,7 @@ Measures the share of first bills issued correctly without adjustment. It matter
 ## Formula
 
 ```
-First Bills without Error / New Customer Bills
+FBRR = First Bills without Error / New Customer Bills
 ```
 
 ## Unit

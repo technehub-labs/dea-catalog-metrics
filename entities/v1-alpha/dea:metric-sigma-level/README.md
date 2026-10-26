@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Level** (SIG) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-sigma-level`
 - **Name:** Sigma Level
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIG
 
@@ -22,7 +22,7 @@ Process quality expressed in standard deviations of capability between the proce
 ## Formula
 
 ```
-Normal Inverse CDF of (1 - DPMO/1,000,000) + 1.5 Shift
+SIG = Normal Inverse CDF of (1 - DPMO/1,000,000) + 1.5 Shift
 ```
 
 ## Unit

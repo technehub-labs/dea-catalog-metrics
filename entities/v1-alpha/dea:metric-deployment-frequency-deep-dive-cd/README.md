@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Frequency (Deep Dive - CD)*
 - **Canonical id:** `dea:metric-deployment-frequency-deep-dive-cd`
 - **Name:** Deployment Frequency (Deep Dive - CD)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DFCD-D
 
@@ -22,7 +22,7 @@ Measures how often code deploys to production. It is the first of the DORA metri
 ## Formula
 
 ```
-Production Deployments per Week per Team
+DFCD-D = Production Deployments per Week per Team
 ```
 
 ## Unit

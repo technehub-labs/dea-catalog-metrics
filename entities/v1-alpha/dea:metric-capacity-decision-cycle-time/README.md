@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Decision Cycle Time** (CDCT-S
 - **Canonical id:** `dea:metric-capacity-decision-cycle-time`
 - **Name:** Capacity Decision Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDCT-S
 
@@ -22,7 +22,7 @@ Measures the time to move through S&OP capacity decisions from signal to commitm
 ## Formula
 
 ```
-Days to Resolve Identified Capacity Gap
+CDCT-S = Days to Resolve Identified Capacity Gap
 ```
 
 ## Unit

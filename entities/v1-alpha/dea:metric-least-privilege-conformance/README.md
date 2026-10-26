@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Least Privilege Conformance** (LPC-CS)
 - **Canonical id:** `dea:metric-least-privilege-conformance`
 - **Name:** Least Privilege Conformance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPC-CS
 
@@ -22,7 +22,7 @@ Measures how well cloud identities and roles conform to least-privilege policy. 
 ## Formula
 
 ```
-Identities within Least-Privilege Policy / Identities
+LPC-CS = Identities within Least-Privilege Policy / Identities
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bug Triage Cycle Time** (BTCT-QA) in t
 - **Canonical id:** `dea:metric-bug-triage-cycle-time`
 - **Name:** Bug Triage Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTCT-QA
 
@@ -18,7 +18,7 @@ Bug Triage Cycle Time (BTCT-QA) captures how efficiently resources are converted
 ## Formula
 
 ```
-Hours from Report to Triage Decision
+BTCT-QA = Hours from Report to Triage Decision
 ```
 
 ## Unit

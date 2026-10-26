@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Category Growth Differential** (CGD) i
 - **Canonical id:** `dea:metric-category-growth-differential`
 - **Name:** Category Growth Differential
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CGD
 
@@ -22,7 +22,7 @@ Measures whether the company grows faster or slower than its category. The diffe
 ## Formula
 
 ```
-Entity Category Growth minus Market Growth
+CGD = Entity Category Growth minus Market Growth
 ```
 
 ## Unit

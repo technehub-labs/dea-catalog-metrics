@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Incident Rate** (RIR-RM) in th
 - **Canonical id:** `dea:metric-release-incident-rate`
 - **Name:** Release Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIR-RM
 
@@ -22,7 +22,7 @@ Measures the frequency of production incidents attributable to releases. It is t
 ## Formula
 
 ```
-Incidents per Release
+RIR-RM = Incidents per Release
 ```
 
 ## Unit

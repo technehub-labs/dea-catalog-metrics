@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Lot Acceptance Rate** (DLAR) in
 - **Canonical id:** `dea:metric-device-lot-acceptance-rate`
 - **Name:** Device Lot Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLAR
 
@@ -18,7 +18,7 @@ A Medical Devices indicator, Device Lot Acceptance Rate (DLAR) quantifies the qu
 ## Formula
 
 ```
-Lots Accepted on Release Testing / Lots Tested
+DLAR = Lots Accepted on Release Testing / Lots Tested
 ```
 
 ## Unit

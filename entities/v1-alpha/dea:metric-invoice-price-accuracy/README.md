@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Invoice Price Accuracy** (IPA) in the 
 - **Canonical id:** `dea:metric-invoice-price-accuracy`
 - **Name:** Invoice Price Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPA
 
@@ -18,7 +18,7 @@ Invoice Price Accuracy (IPA) measures the quality of outputs and outcomes in the
 ## Formula
 
 ```
-Invoices Billed at Approved Price / Invoices
+IPA = Invoices Billed at Approved Price / Invoices
 ```
 
 ## Unit

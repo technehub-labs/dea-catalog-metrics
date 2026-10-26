@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnout Achievement Rate** (EAR-M) in 
 - **Canonical id:** `dea:metric-earnout-achievement-rate`
 - **Name:** Earnout Achievement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EAR-M
 
@@ -18,7 +18,7 @@ Earnout Achievement Rate (EAR-M) measures the economic value created or preserve
 ## Formula
 
 ```
-Earnout Targets Achieved / Earnout Agreements
+EAR-M = Earnout Targets Achieved / Earnout Agreements
 ```
 
 ## Unit

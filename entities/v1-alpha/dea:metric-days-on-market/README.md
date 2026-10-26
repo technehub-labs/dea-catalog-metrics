@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days on Market** (DOM) in the OpenDEAM
 - **Canonical id:** `dea:metric-days-on-market`
 - **Name:** Days on Market
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOM
 
@@ -22,7 +22,7 @@ Days on market measures time from listing to contract, and it is the real estate
 ## Formula
 
 ```
-Average Days from Listing to Contract
+DOM = Average Days from Listing to Contract
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Parts Availability for Field Visits** 
 - **Canonical id:** `dea:metric-parts-availability-for-field-visits`
 - **Name:** Parts Availability for Field Visits
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAFFV
 
@@ -18,7 +18,7 @@ Within Field Maintenance & Technical Field Service (Deep Dive), Parts Availabili
 ## Formula
 
 ```
-Jobs Completed without Parts Stockout / Jobs
+PAFFV = Jobs Completed without Parts Stockout / Jobs
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Near Miss Reporting Rate** (NMRR) in t
 - **Canonical id:** `dea:metric-near-miss-reporting-rate`
 - **Name:** Near Miss Reporting Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NMRR
 
@@ -22,7 +22,7 @@ Measures the frequency of reported near-miss incidents per workforce or hours wo
 ## Formula
 
 ```
-Near Misses Reported per 100 Employees
+NMRR = Near Misses Reported per 100 Employees
 ```
 
 ## Unit

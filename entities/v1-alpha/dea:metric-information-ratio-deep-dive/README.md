@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Information Ratio (Deep Dive)** (IR-D)
 - **Canonical id:** `dea:metric-information-ratio-deep-dive`
 - **Name:** Information Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IR-D
 
@@ -22,7 +22,7 @@ Measures excess return per unit of tracking error - the efficiency of active man
 ## Formula
 
 ```
-Active Return / Tracking Error
+IR-D = Active Return / Tracking Error
 ```
 
 ## Unit

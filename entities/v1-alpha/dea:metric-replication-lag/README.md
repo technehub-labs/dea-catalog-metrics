@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Replication Lag** (REPLAG) in the Open
 - **Canonical id:** `dea:metric-replication-lag`
 - **Name:** Replication Lag
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REPLAG
 
@@ -18,7 +18,7 @@ Replication Lag (REPLAG) captures the quality of outputs and outcomes for organi
 ## Formula
 
 ```
-Seconds Behind Primary for Read Replicas
+REPLAG = Seconds Behind Primary for Read Replicas
 ```
 
 ## Unit

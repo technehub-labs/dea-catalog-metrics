@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog of Pending Cases** (BPC) in th
 - **Canonical id:** `dea:metric-backlog-of-pending-cases`
 - **Name:** Backlog of Pending Cases
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BPC
 
@@ -22,7 +22,7 @@ Measures the count and age of unresolved cases. It matters because backlog is de
 ## Formula
 
 ```
-Open Cases Aged beyond Service Standard
+BPC = Open Cases Aged beyond Service Standard
 ```
 
 ## Unit

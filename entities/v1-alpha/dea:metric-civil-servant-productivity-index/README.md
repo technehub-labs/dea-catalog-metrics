@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Civil Servant Productivity Index** (CS
 - **Canonical id:** `dea:metric-civil-servant-productivity-index`
 - **Name:** Civil Servant Productivity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPI
 
@@ -22,7 +22,7 @@ A composite of output per civil servant across government functions - the produc
 ## Formula
 
 ```
-Weighted Index of Throughput, Timeliness, Satisfaction
+CSPI = Weighted Index of Throughput, Timeliness, Satisfaction
 ```
 
 ## Unit

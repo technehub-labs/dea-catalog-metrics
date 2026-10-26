@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partnership Revenue Contribution** (PR
 - **Canonical id:** `dea:metric-partnership-revenue-contribution`
 - **Name:** Partnership Revenue Contribution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRC-AP
 
@@ -22,7 +22,7 @@ Measures the share of revenue attributable to alliances and partnerships. It qua
 ## Formula
 
 ```
-Partner-Attributed Revenue / Total Revenue
+PRC-AP = Partner-Attributed Revenue / Total Revenue
 ```
 
 ## Unit

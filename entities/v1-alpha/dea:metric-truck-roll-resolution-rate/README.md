@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Truck Roll Resolution Rate** (TRRR) in
 - **Canonical id:** `dea:metric-truck-roll-resolution-rate`
 - **Name:** Truck Roll Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRRR
 
@@ -22,7 +22,7 @@ Measures the share of issues resolved on-site after a technician dispatch. Truck
 ## Formula
 
 ```
-Issues Resolved without Truck Roll via Remote Support / Issues
+TRRR = Issues Resolved without Truck Roll via Remote Support / Issues
 ```
 
 ## Unit

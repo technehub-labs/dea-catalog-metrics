@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drift Detection Rate** (DDR-CS) in the
 - **Canonical id:** `dea:metric-drift-detection-rate`
 - **Name:** Drift Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDR-CS
 
@@ -18,7 +18,7 @@ Drift Detection Rate (DDR-CS) measures exposure to adverse outcomes in the Cloud
 ## Formula
 
 ```
-Config Drift Events Detected before Change Window / Drift Events
+DDR-CS = Config Drift Events Detected before Change Window / Drift Events
 ```
 
 ## Unit

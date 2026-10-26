@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Member Churn** (MMC-F) in the 
 - **Canonical id:** `dea:metric-monthly-member-churn`
 - **Name:** Monthly Member Churn
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MMC-F
 
@@ -22,7 +22,7 @@ Monthly member churn measures the share of members leaving each month, and it is
 ## Formula
 
 ```
-Members Cancelling in Month / Members at Start
+MMC-F = Members Cancelling in Month / Members at Start
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drawing Release Rework Rate** (DRRR) i
 - **Canonical id:** `dea:metric-drawing-release-rework-rate`
 - **Name:** Drawing Release Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRRR
 
@@ -18,7 +18,7 @@ A Engineering & Design indicator, Drawing Release Rework Rate (DRRR) quantifies 
 ## Formula
 
 ```
-Drawings Revised after Release / Drawings
+DRRR = Drawings Revised after Release / Drawings
 ```
 
 ## Unit

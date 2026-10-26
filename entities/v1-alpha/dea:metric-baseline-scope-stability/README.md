@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baseline Scope Stability** (BSS) in th
 - **Canonical id:** `dea:metric-baseline-scope-stability`
 - **Name:** Baseline Scope Stability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSS
 
@@ -22,7 +22,7 @@ Measures how much the approved baseline scope has changed since approval. It mat
 ## Formula
 
 ```
-1 - Changed Scope / Baseline Scope
+BSS = 1 - Changed Scope / Baseline Scope
 ```
 
 ## Unit

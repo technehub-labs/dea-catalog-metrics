@@ -7,7 +7,7 @@ Candidate Performance Metric record for **FX Hedge Effectiveness Ratio** (FXHER)
 - **Canonical id:** `dea:metric-fx-hedge-effectiveness-ratio`
 - **Name:** FX Hedge Effectiveness Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FXHER
 
@@ -22,7 +22,7 @@ Measures how well hedges offset the exposures they cover, against effectiveness 
 ## Formula
 
 ```
-Hedge Gains or Losses vs Exposure Movement
+FXHER = Hedge Gains or Losses vs Exposure Movement
 ```
 
 ## Unit

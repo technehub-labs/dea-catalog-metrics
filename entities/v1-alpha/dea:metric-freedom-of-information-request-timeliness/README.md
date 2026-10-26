@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freedom of Information Request Timelin
 - **Canonical id:** `dea:metric-freedom-of-information-request-timeliness`
 - **Name:** Freedom of Information Request Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FOIT
 
@@ -18,7 +18,7 @@ Within Government & Public Administration, Freedom of Information Request Timeli
 ## Formula
 
 ```
-FOI Responses within Statutory Time / Requests
+FOIT = FOI Responses within Statutory Time / Requests
 ```
 
 ## Unit

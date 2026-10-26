@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Coverage Ratio (Fund Ops)** 
 - **Canonical id:** `dea:metric-liquidity-coverage-ratio-fund-ops`
 - **Name:** Liquidity Coverage Ratio (Fund Ops)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCRFO
 
@@ -22,7 +22,7 @@ Measures the fund's buffer of liquid assets against stressed redemption demands.
 ## Formula
 
 ```
-Liquid Assets within Days / Projected Redemptions
+LCRFO = Liquid Assets within Days / Projected Redemptions
 ```
 
 ## Unit

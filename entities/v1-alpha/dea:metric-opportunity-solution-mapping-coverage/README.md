@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Opportunity Solution Mapping Coverage*
 - **Canonical id:** `dea:metric-opportunity-solution-mapping-coverage`
 - **Name:** Opportunity Solution Mapping Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSMC
 
@@ -18,7 +18,7 @@ Opportunity Solution Mapping Coverage (OSMC) captures capability maturity or dev
 ## Formula
 
 ```
-Key Outcomes with Mapped Opportunities / Key Outcomes
+OSMC = Key Outcomes with Mapped Opportunities / Key Outcomes
 ```
 
 ## Unit

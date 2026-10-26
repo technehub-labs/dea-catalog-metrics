@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whistleblower Report Volume** (WRV) in
 - **Canonical id:** `dea:metric-whistleblower-report-volume`
 - **Name:** Whistleblower Report Volume
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRV
 
@@ -22,7 +22,7 @@ Measures the count of internal whistleblower reports received. It matters becaus
 ## Formula
 
 ```
-Reports Received per Period per 1,000 Employees
+WRV = Reports Received per Period per 1,000 Employees
 ```
 
 ## Unit

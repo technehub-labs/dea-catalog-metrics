@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Parking Stand Turnover** (APS
 - **Canonical id:** `dea:metric-aircraft-parking-stand-turnover`
 - **Name:** Aircraft Parking Stand Turnover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APST
 
@@ -18,7 +18,7 @@ A Airport Operations (Deep Dive) indicator, Aircraft Parking Stand Turnover (APS
 ## Formula
 
 ```
-Stand Occupancy Hours / Stand Hours Available
+APST = Stand Occupancy Hours / Stand Hours Available
 ```
 
 ## Unit

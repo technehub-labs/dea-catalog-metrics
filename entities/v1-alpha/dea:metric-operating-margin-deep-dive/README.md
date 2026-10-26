@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Margin (Deep Dive)** (OPMDD)
 - **Canonical id:** `dea:metric-operating-margin-deep-dive`
 - **Name:** Operating Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPMDD
 
@@ -22,7 +22,7 @@ Measures profitability after operating costs but before financing and tax. It is
 ## Formula
 
 ```
-Operating Income / Revenue
+OPMDD = Operating Income / Revenue
 ```
 
 ## Unit

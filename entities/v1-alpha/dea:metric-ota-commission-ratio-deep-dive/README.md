@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OTA Commission Ratio (Deep Dive)** (OT
 - **Canonical id:** `dea:metric-ota-commission-ratio-deep-dive`
 - **Name:** OTA Commission Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTAC-D
 
@@ -22,7 +22,7 @@ Measures online travel agency commissions as a share of OTA-booked revenue or to
 ## Formula
 
 ```
-OTA Commissions / Rooms Revenue
+OTAC-D = OTA Commissions / Rooms Revenue
 ```
 
 ## Unit

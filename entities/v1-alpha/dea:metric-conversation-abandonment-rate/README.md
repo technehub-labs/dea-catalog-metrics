@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conversation Abandonment Rate** (CAR-C
 - **Canonical id:** `dea:metric-conversation-abandonment-rate`
 - **Name:** Conversation Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR-CB
 
@@ -18,7 +18,7 @@ Within Conversational AI & Chatbots, Conversation Abandonment Rate (CAR-CB) is u
 ## Formula
 
 ```
-Conversations Abandoned before Resolution / Conversations
+CAR-CB = Conversations Abandoned before Resolution / Conversations
 ```
 
 ## Unit

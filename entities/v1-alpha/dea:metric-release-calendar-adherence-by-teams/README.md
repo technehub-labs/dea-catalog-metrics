@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Calendar Adherence by Teams** 
 - **Canonical id:** `dea:metric-release-calendar-adherence-by-teams`
 - **Name:** Release Calendar Adherence by Teams
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCAT
 
@@ -18,7 +18,7 @@ Release Calendar Adherence by Teams (RCAT) addresses conformance to standards, p
 ## Formula
 
 ```
-Teams Following Coordinated Release Calendar / Teams
+RCAT = Teams Following Coordinated Release Calendar / Teams
 ```
 
 ## Unit

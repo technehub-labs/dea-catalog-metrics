@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Prediction Accuracy** (MPA) in t
 - **Canonical id:** `dea:metric-model-prediction-accuracy`
 - **Name:** Model Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MPA
 
@@ -22,7 +22,7 @@ Measures how closely model outputs match observed outcomes on evaluation data. I
 ## Formula
 
 ```
-Correct Model Predictions / Total Predictions
+MPA = Correct Model Predictions / Total Predictions
 ```
 
 ## Unit

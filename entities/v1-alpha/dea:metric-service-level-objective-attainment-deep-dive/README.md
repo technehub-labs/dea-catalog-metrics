@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Objective Attainment (De
 - **Canonical id:** `dea:metric-service-level-objective-attainment-deep-dive`
 - **Name:** Service Level Objective Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLOA
 
@@ -22,7 +22,7 @@ Measures whether services met their SLOs over the window. SLO attainment is the 
 ## Formula
 
 ```
-Windows Meeting SLO / Total Windows
+SLOA = Windows Meeting SLO / Total Windows
 ```
 
 ## Unit

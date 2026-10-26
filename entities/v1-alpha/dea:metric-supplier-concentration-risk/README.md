@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Concentration Risk** (SCR) in
 - **Canonical id:** `dea:metric-supplier-concentration-risk`
 - **Name:** Supplier Concentration Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR
 
@@ -22,7 +22,7 @@ The share of spend or volume dependent on the top suppliers - classically measur
 ## Formula
 
 ```
-Spend with Top Supplier / Total Supplier Spend
+SCR = Spend with Top Supplier / Total Supplier Spend
 ```
 
 ## Unit

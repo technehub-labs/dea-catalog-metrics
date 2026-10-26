@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Individual Goal Alignment Rate** (IGAR
 - **Canonical id:** `dea:metric-individual-goal-alignment-rate`
 - **Name:** Individual Goal Alignment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IGAR-OKR
 
@@ -18,7 +18,7 @@ Individual Goal Alignment Rate (IGAR-OKR) addresses the engagement or satisfacti
 ## Formula
 
 ```
-Individual Goals Mapped to Team OKRs / Goals
+IGAR-OKR = Individual Goals Mapped to Team OKRs / Goals
 ```
 
 ## Unit

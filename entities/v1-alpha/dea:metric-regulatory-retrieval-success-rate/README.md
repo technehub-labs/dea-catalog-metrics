@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Retrieval Success Rate** (R
 - **Canonical id:** `dea:metric-regulatory-retrieval-success-rate`
 - **Name:** Regulatory Retrieval Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRSR
 
@@ -22,7 +22,7 @@ Measures whether required records can be retrieved within mandated response wind
 ## Formula
 
 ```
-Records Retrieved within Regulatory Deadline / Requests
+RRSR = Records Retrieved within Regulatory Deadline / Requests
 ```
 
 ## Unit

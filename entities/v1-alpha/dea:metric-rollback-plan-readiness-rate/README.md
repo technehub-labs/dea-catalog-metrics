@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rollback Plan Readiness Rate** (RPRR) 
 - **Canonical id:** `dea:metric-rollback-plan-readiness-rate`
 - **Name:** Rollback Plan Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPRR
 
@@ -22,7 +22,7 @@ Measures the share of releases carrying a tested, current rollback path before d
 ## Formula
 
 ```
-Releases with Tested Rollback Plan / Releases
+RPRR = Releases with Tested Rollback Plan / Releases
 ```
 
 ## Unit

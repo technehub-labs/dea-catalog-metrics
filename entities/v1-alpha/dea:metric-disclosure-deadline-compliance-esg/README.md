@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disclosure Deadline Compliance (ESG)**
 - **Canonical id:** `dea:metric-disclosure-deadline-compliance-esg`
 - **Name:** Disclosure Deadline Compliance (ESG)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDCE
 
@@ -22,7 +22,7 @@ Measures on-time delivery of mandatory ESG disclosures under regulatory regimes.
 ## Formula
 
 ```
-Disclosures on Time / Required
+DDCE = Disclosures on Time / Required
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disparate Impact Ratio** (DIR-AI) in t
 - **Canonical id:** `dea:metric-disparate-impact-ratio`
 - **Name:** Disparate Impact Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIR-AI
 
@@ -22,7 +22,7 @@ Measures the selection rate of the protected group against the majority group, b
 ## Formula
 
 ```
-Selection Rate of Protected Group / Reference Group
+DIR-AI = Selection Rate of Protected Group / Reference Group
 ```
 
 ## Unit

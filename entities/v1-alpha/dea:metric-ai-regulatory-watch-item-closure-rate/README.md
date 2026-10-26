@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Regulatory Watch Item Closure Rate*
 - **Canonical id:** `dea:metric-ai-regulatory-watch-item-closure-rate`
 - **Name:** AI Regulatory Watch Item Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIRWIC
 
@@ -18,7 +18,7 @@ AI Regulatory Watch Item Closure Rate (AIRWIC) addresses conformance to standard
 ## Formula
 
 ```
-Regulatory Watch Actions Closed by Date / Actions
+AIRWIC = Regulatory Watch Actions Closed by Date / Actions
 ```
 
 ## Unit

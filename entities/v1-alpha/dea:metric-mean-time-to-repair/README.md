@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Repair** (MTTR-M) in the 
 - **Canonical id:** `dea:metric-mean-time-to-repair`
 - **Name:** Mean Time to Repair
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTR-M
 
@@ -18,7 +18,7 @@ A Maintenance & Reliability indicator, Mean Time to Repair (MTTR-M) quantifies h
 ## Formula
 
 ```
-Total Repair Time / Number of Repairs
+MTTR-M = Total Repair Time / Number of Repairs
 ```
 
 ## Unit

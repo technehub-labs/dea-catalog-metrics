@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hardware Kitting Accuracy** (HKA) in t
 - **Canonical id:** `dea:metric-hardware-kitting-accuracy`
 - **Name:** Hardware Kitting Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HKA
 
@@ -18,7 +18,7 @@ Hardware Kitting Accuracy (HKA) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Kits Complete on First Pick / Kits
+HKA = Kits Complete on First Pick / Kits
 ```
 
 ## Unit

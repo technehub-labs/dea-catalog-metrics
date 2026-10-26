@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Intel Analyst Utilization** (TI
 - **Canonical id:** `dea:metric-threat-intel-analyst-utilization`
 - **Name:** Threat Intel Analyst Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TIAU
 
@@ -18,7 +18,7 @@ Threat Intel Analyst Utilization (TIAU) captures the utilization or availability
 ## Formula
 
 ```
-Analyst Hours on Strategic Intel / Total Analyst Hours
+TIAU = Analyst Hours on Strategic Intel / Total Analyst Hours
 ```
 
 ## Unit

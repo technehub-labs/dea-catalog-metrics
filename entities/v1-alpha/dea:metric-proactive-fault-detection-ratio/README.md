@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proactive Fault Detection Ratio** (PFD
 - **Canonical id:** `dea:metric-proactive-fault-detection-ratio`
 - **Name:** Proactive Fault Detection Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFDR-N
 
@@ -22,7 +22,7 @@ Measures the share of faults detected by monitoring and prediction before custom
 ## Formula
 
 ```
-Faults Detected Proactively / Total Faults
+PFDR-N = Faults Detected Proactively / Total Faults
 ```
 
 ## Unit

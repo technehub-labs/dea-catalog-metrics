@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Norovirus or GI Outbreak Rate (Cruise)
 - **Canonical id:** `dea:metric-norovirus-or-gi-outbreak-rate-cruise`
 - **Name:** Norovirus or GI Outbreak Rate (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GIOR
 
@@ -22,7 +22,7 @@ Measures gastrointestinal illness incidence against public-health thresholds tha
 ## Formula
 
 ```
-Outbreak Voyages / Voyages
+GIOR = Outbreak Voyages / Voyages
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lessons Learned Reuse Rate** (LLRR-PM)
 - **Canonical id:** `dea:metric-lessons-learned-reuse-rate`
 - **Name:** Lessons Learned Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLRR-PM
 
@@ -22,7 +22,7 @@ Measures how often prior lessons demonstrably shape later project decisions. Reu
 ## Formula
 
 ```
-Projects Citing Prior Lessons / New Projects
+LLRR-PM = Projects Citing Prior Lessons / New Projects
 ```
 
 ## Unit

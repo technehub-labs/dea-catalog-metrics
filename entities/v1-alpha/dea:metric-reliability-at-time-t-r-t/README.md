@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability at Time t (R(t))** (RTT) i
 - **Canonical id:** `dea:metric-reliability-at-time-t-r-t`
 - **Name:** Reliability at Time t (R(t))
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTT
 
@@ -22,7 +22,7 @@ Measures the probability an asset survives failure-free to a specified time. R(t
 ## Formula
 
 ```
-exp(-Integral of Hazard Function to t)
+RTT = exp(-Integral of Hazard Function to t)
 ```
 
 ## Unit

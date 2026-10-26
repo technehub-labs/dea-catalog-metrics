@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Availability (Mining)** (EA-
 - **Canonical id:** `dea:metric-equipment-availability-mining`
 - **Name:** Equipment Availability (Mining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EA-M
 
@@ -22,7 +22,7 @@ Measures the share of scheduled time mining equipment is operable. It matters be
 ## Formula
 
 ```
-Available Equipment Hours / Scheduled Hours
+EA-M = Available Equipment Hours / Scheduled Hours
 ```
 
 ## Unit

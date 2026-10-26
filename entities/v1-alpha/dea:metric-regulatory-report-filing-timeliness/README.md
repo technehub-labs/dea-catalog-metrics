@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Report Filing Timeliness** 
 - **Canonical id:** `dea:metric-regulatory-report-filing-timeliness`
 - **Name:** Regulatory Report Filing Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRFT
 
@@ -22,7 +22,7 @@ Measures whether regulatory reports are filed within mandated deadlines. Late fi
 ## Formula
 
 ```
-Filings Submitted by Deadline / Filings Due
+RRFT = Filings Submitted by Deadline / Filings Due
 ```
 
 ## Unit

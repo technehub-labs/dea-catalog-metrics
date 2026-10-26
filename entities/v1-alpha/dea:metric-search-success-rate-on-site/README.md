@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search Success Rate (On-Site)** (SSR-W
 - **Canonical id:** `dea:metric-search-success-rate-on-site`
 - **Name:** Search Success Rate (On-Site)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSR-W
 
@@ -18,7 +18,7 @@ Search Success Rate (On-Site) (SSR-W) addresses how effectively a process or ent
 ## Formula
 
 ```
-Searches Leading to Result Click / Total Searches
+SSR-W = Searches Leading to Result Click / Total Searches
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Pipeline Freshness SLA Attainment
 - **Canonical id:** `dea:metric-data-pipeline-freshness-sla-attainment`
 - **Name:** Data Pipeline Freshness SLA Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPFSLA
 
@@ -18,7 +18,7 @@ A MLOps & Model Lifecycle Operations indicator, Data Pipeline Freshness SLA Atta
 ## Formula
 
 ```
-Pipelines Meeting Freshness SLA / Pipelines
+DPFSLA = Pipelines Meeting Freshness SLA / Pipelines
 ```
 
 ## Unit

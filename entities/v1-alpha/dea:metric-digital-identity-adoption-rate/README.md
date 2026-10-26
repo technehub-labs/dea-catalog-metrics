@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Identity Adoption Rate** (DIA)
 - **Canonical id:** `dea:metric-digital-identity-adoption-rate`
 - **Name:** Digital Identity Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIA
 
@@ -22,7 +22,7 @@ Measures the share of citizens or businesses using the national or agency digita
 ## Formula
 
 ```
-Citizens Using National Digital Identity / Eligible Citizens
+DIA = Citizens Using National Digital Identity / Eligible Citizens
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Employee** (RPE) in the Op
 - **Canonical id:** `dea:metric-revenue-per-employee`
 - **Name:** Revenue per Employee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPE
 
@@ -22,7 +22,7 @@ Revenue divided by headcount - the blunt but powerful productivity measure that 
 ## Formula
 
 ```
-Revenue / Average Headcount
+RPE = Revenue / Average Headcount
 ```
 
 ## Unit

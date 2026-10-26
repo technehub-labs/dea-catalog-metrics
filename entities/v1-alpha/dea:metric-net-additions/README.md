@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Additions** (NADD) in the OpenDEAM
 - **Canonical id:** `dea:metric-net-additions`
 - **Name:** Net Additions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NADD
 
@@ -22,7 +22,7 @@ Gross additions minus disconnects over a period - the growth metric of subscribe
 ## Formula
 
 ```
-New Subscribers - Lost Subscribers
+NADD = New Subscribers - Lost Subscribers
 ```
 
 ## Unit

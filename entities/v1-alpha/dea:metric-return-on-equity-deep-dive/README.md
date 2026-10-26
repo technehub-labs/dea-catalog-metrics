@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Equity (Deep Dive)** (ROEDD)
 - **Canonical id:** `dea:metric-return-on-equity-deep-dive`
 - **Name:** Return on Equity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROEDD
 
@@ -22,7 +22,7 @@ Measures profit generated on shareholder capital. ROE is the headline shareholde
 ## Formula
 
 ```
-Net Income / Shareholder Equity
+ROEDD = Net Income / Shareholder Equity
 ```
 
 ## Unit

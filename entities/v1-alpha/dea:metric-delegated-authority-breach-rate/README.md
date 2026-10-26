@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegated Authority Breach Rate** (DAB
 - **Canonical id:** `dea:metric-delegated-authority-breach-rate`
 - **Name:** Delegated Authority Breach Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DABR
 
@@ -18,7 +18,7 @@ Delegated Authority Breach Rate (DABR) captures conformance to standards, plans,
 ## Formula
 
 ```
-Decisions beyond Delegated Limits / Decisions Sampled
+DABR = Decisions beyond Delegated Limits / Decisions Sampled
 ```
 
 ## Unit

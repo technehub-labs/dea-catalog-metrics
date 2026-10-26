@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Serving Latency - 95th Percentil
 - **Canonical id:** `dea:metric-model-serving-latency-95th-percentile`
 - **Name:** Model Serving Latency - 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSL95
 
@@ -18,7 +18,7 @@ Model Serving Latency - 95th Percentile (MSL95) addresses the quality of outputs
 ## Formula
 
 ```
-95th Percentile Prediction Latency
+MSL95 = 95th Percentile Prediction Latency
 ```
 
 ## Unit

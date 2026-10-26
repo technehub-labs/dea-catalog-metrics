@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Defect Density** (RDD) in
 - **Canonical id:** `dea:metric-requirements-defect-density`
 - **Name:** Requirements Defect Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDD
 
@@ -18,7 +18,7 @@ Requirements Defect Density (RDD) measures the quality of outputs and outcomes i
 ## Formula
 
 ```
-Requirement Defects per 100 Requirements
+RDD = Requirement Defects per 100 Requirements
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Indoor Environmental Quality Score** (
 - **Canonical id:** `dea:metric-indoor-environmental-quality-score`
 - **Name:** Indoor Environmental Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IEQS
 
@@ -18,7 +18,7 @@ Indoor Environmental Quality Score (IEQS) addresses the quality of outputs and o
 ## Formula
 
 ```
-Composite Air, Light, Acoustics and Comfort Score
+IEQS = Composite Air, Light, Acoustics and Comfort Score
 ```
 
 ## Unit

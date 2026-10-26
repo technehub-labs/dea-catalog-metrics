@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Usability Scale Score** (SUS-UX
 - **Canonical id:** `dea:metric-system-usability-scale-score`
 - **Name:** System Usability Scale Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUS-UX
 
@@ -22,7 +22,7 @@ The System Usability Scale, created by John Brooke (1996), is a 10-item question
 ## Formula
 
 ```
-Standardized 10-Item Usability Questionnaire Score
+SUS-UX = Standardized 10-Item Usability Questionnaire Score
 ```
 
 ## Unit

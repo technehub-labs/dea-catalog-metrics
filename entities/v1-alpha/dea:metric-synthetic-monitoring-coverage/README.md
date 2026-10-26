@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Synthetic Monitoring Coverage** (SYNMC
 - **Canonical id:** `dea:metric-synthetic-monitoring-coverage`
 - **Name:** Synthetic Monitoring Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SYNMC
 
@@ -18,7 +18,7 @@ Synthetic Monitoring Coverage (SYNMC) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Critical User Journeys under Synthetic Test / Critical Journeys
+SYNMC = Critical User Journeys under Synthetic Test / Critical Journeys
 ```
 
 ## Unit

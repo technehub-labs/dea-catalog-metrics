@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Profit per Employee (Deep Dive)** (PPE
 - **Canonical id:** `dea:metric-profit-per-employee-deep-dive`
 - **Name:** Profit per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPE-WF
 
@@ -22,7 +22,7 @@ Measures net profit generated per employee. It is the sharpest single measure of
 ## Formula
 
 ```
-Operating Profit / Average Headcount
+PPE-WF = Operating Profit / Average Headcount
 ```
 
 ## Unit

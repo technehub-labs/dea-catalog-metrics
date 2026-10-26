@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Average Interruption Duration
 - **Canonical id:** `dea:metric-customer-average-interruption-duration-index`
 - **Name:** Customer Average Interruption Duration Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAIDI
 
@@ -22,7 +22,7 @@ Measures the average outage duration each customer experiences over a period. It
 ## Formula
 
 ```
-Total Interruption Minutes / Total Interruptions
+CAIDI = Total Interruption Minutes / Total Interruptions
 ```
 
 ## Unit

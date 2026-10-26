@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Viewability Rate (Deep Dive)** (VR-D) 
 - **Canonical id:** `dea:metric-viewability-rate-deep-dive`
 - **Name:** Viewability Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VR-D
 
@@ -18,7 +18,7 @@ Within Advertising & Media Buying, Viewability Rate (Deep Dive) (VR-D) is used t
 ## Formula
 
 ```
-Viewable Impressions / Measurable Impressions
+VR-D = Viewable Impressions / Measurable Impressions
 ```
 
 ## Unit

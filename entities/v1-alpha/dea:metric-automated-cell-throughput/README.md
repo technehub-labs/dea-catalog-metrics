@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automated Cell Throughput** (ACT) in t
 - **Canonical id:** `dea:metric-automated-cell-throughput`
 - **Name:** Automated Cell Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACT
 
@@ -18,7 +18,7 @@ A Industrial Automation & Robotics indicator, Automated Cell Throughput (ACT) qu
 ## Formula
 
 ```
-Units Produced per Automated Cell per Shift
+ACT = Units Produced per Automated Cell per Shift
 ```
 
 ## Unit

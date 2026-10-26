@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Capture Ratio (Refining)** (MCR
 - **Canonical id:** `dea:metric-market-capture-ratio-refining`
 - **Name:** Market Capture Ratio (Refining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCR-R
 
@@ -22,7 +22,7 @@ Compares actual crack margins captured against benchmark market cracks. It is th
 ## Formula
 
 ```
-Realized Crack Spread / Market Crack Spread
+MCR-R = Realized Crack Spread / Market Crack Spread
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Caused by Change Rate** (ICBC
 - **Canonical id:** `dea:metric-incident-caused-by-change-rate`
 - **Name:** Incident Caused by Change Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICBCR
 
@@ -22,7 +22,7 @@ Measures the share of incidents traced to changes (deployments, config, infrastr
 ## Formula
 
 ```
-Incidents Caused by Recent Change / Incidents
+ICBCR = Incidents Caused by Recent Change / Incidents
 ```
 
 ## Unit

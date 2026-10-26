@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Path Adherence** (CPA-PM) in 
 - **Canonical id:** `dea:metric-critical-path-adherence`
 - **Name:** Critical Path Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPA-PM
 
@@ -22,7 +22,7 @@ Measures how well the project protects schedule on its longest dependent task ch
 ## Formula
 
 ```
-Critical Path Activities on Schedule / Critical Path Activities
+CPA-PM = Critical Path Activities on Schedule / Critical Path Activities
 ```
 
 ## Unit

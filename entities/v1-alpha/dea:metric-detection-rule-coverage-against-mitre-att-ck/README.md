@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Detection Rule Coverage against MITRE 
 - **Canonical id:** `dea:metric-detection-rule-coverage-against-mitre-att-ck`
 - **Name:** Detection Rule Coverage against MITRE ATT&CK
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRCMA
 
@@ -22,7 +22,7 @@ Measures how broadly SOC detections map to MITRE ATT&CK techniques. It exposes t
 ## Formula
 
 ```
-ATT&CK Techniques with Detection Coverage / Applicable Techniques
+DRCMA = ATT&CK Techniques with Detection Coverage / Applicable Techniques
 ```
 
 ## Unit

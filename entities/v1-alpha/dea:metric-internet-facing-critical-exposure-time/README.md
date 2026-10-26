@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internet-Facing Critical Exposure Time
 - **Canonical id:** `dea:metric-internet-facing-critical-exposure-time`
 - **Name:** Internet-Facing Critical Exposure Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFCET
 
@@ -22,7 +22,7 @@ Measures how long critical vulnerabilities remain unremediated on internet-conne
 ## Formula
 
 ```
-Hours Critical Vulnerability Remains Internet-Exposed
+IFCET = Hours Critical Vulnerability Remains Internet-Exposed
 ```
 
 ## Unit

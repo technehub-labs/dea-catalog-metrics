@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strip Ratio (Deep Dive)** (SR-D) in th
 - **Canonical id:** `dea:metric-strip-ratio-deep-dive`
 - **Name:** Strip Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SR-D
 
@@ -22,7 +22,7 @@ Measures waste tonnes moved per ore tonne in open-pit operations. It is the cost
 ## Formula
 
 ```
-Waste Tonnes / Ore Tonnes
+SR-D = Waste Tonnes / Ore Tonnes
 ```
 
 ## Unit

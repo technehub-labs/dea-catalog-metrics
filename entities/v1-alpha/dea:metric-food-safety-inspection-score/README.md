@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Safety Inspection Score** (FSIS) 
 - **Canonical id:** `dea:metric-food-safety-inspection-score`
 - **Name:** Food Safety Inspection Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSIS
 
@@ -22,7 +22,7 @@ Food safety inspection scores come from health department visits, and in restaur
 ## Formula
 
 ```
-Weighted Regulatory Inspection Score
+FSIS = Weighted Regulatory Inspection Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Invoice Processed (AP)** (CPI
 - **Canonical id:** `dea:metric-cost-per-invoice-processed-ap`
 - **Name:** Cost per Invoice Processed (AP)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPIP
 
@@ -18,7 +18,7 @@ Cost per Invoice Processed (AP) (CPIP) addresses how efficiently resources are c
 ## Formula
 
 ```
-AP Cost / Invoices Processed
+CPIP = AP Cost / Invoices Processed
 ```
 
 ## Unit

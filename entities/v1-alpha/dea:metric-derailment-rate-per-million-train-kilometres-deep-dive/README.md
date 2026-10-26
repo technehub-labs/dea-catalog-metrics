@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Derailment Rate per Million Train Kilo
 - **Canonical id:** `dea:metric-derailment-rate-per-million-train-kilometres-deep-dive`
 - **Name:** Derailment Rate per Million Train Kilometres (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRMTK
 
@@ -22,7 +22,7 @@ Measures derailments normalized by train distance. It is the safety-core metric 
 ## Formula
 
 ```
-Derailments / Million Train Kilometres
+DRMTK = Derailments / Million Train Kilometres
 ```
 
 ## Unit

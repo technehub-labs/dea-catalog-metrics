@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bitrate Efficiency Score** (BES) in th
 - **Canonical id:** `dea:metric-bitrate-efficiency-score`
 - **Name:** Bitrate Efficiency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BES
 
@@ -18,7 +18,7 @@ Within Broadcasting & Streaming Media, Bitrate Efficiency Score (BES) is used to
 ## Formula
 
 ```
-Perceived Quality per Bitrate Delivered
+BES = Perceived Quality per Bitrate Delivered
 ```
 
 ## Unit

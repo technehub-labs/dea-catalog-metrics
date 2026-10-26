@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Surgical Case Cancellation Rate (Deep 
 - **Canonical id:** `dea:metric-surgical-case-cancellation-rate-deep-dive`
 - **Name:** Surgical Case Cancellation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCCR-D
 
@@ -18,7 +18,7 @@ Surgical Case Cancellation Rate (Deep Dive) (SCCR-D) addresses how efficiently r
 ## Formula
 
 ```
-Cases Cancelled Day of Surgery / Cases Scheduled
+SCCR-D = Cases Cancelled Day of Surgery / Cases Scheduled
 ```
 
 ## Unit

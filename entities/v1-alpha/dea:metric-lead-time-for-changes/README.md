@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lead Time for Changes** (LTDC) in the 
 - **Canonical id:** `dea:metric-lead-time-for-changes`
 - **Name:** Lead Time for Changes
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTDC
 
@@ -22,7 +22,7 @@ Lead time for changes, one of the four DORA metrics, is the elapsed time from co
 ## Formula
 
 ```
-Median Time from Commit to Production
+LTDC = Median Time from Commit to Production
 ```
 
 ## Unit

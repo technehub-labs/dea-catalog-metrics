@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Production Cycle Time** (CPCT)
 - **Canonical id:** `dea:metric-content-production-cycle-time`
 - **Name:** Content Production Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCT
 
@@ -22,7 +22,7 @@ Elapsed time from greenlight to release - the velocity metric of content busines
 ## Formula
 
 ```
-Days from Greenlight to Release
+CPCT = Days from Greenlight to Release
 ```
 
 ## Unit

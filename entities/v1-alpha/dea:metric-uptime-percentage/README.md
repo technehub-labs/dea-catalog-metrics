@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Uptime Percentage** (UP) in the OpenDE
 - **Canonical id:** `dea:metric-uptime-percentage`
 - **Name:** Uptime Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UP
 
@@ -22,7 +22,7 @@ The share of time an asset or service is available for use - the twin of availab
 ## Formula
 
 ```
-Available Time / Total Time
+UP = Available Time / Total Time
 ```
 
 ## Unit

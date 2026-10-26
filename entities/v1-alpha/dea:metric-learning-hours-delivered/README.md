@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Hours Delivered** (LHD) in th
 - **Canonical id:** `dea:metric-learning-hours-delivered`
 - **Name:** Learning Hours Delivered
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LHD
 
@@ -18,7 +18,7 @@ Learning Hours Delivered (LHD) addresses the utilization or availability of capa
 ## Formula
 
 ```
-Total Learner Instruction Hours per Period
+LHD = Total Learner Instruction Hours per Period
 ```
 
 ## Unit

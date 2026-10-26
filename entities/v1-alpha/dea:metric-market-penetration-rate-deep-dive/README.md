@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Penetration Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-market-penetration-rate-deep-dive`
 - **Name:** Market Penetration Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MPRDD
 
@@ -22,7 +22,7 @@ Measures the share of the addressable population that are active customers. Pene
 ## Formula
 
 ```
-Users of Product / Total Potential Users
+MPRDD = Users of Product / Total Potential Users
 ```
 
 ## Unit

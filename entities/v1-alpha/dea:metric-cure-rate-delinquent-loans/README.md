@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cure Rate (Delinquent Loans)** (CRDL) 
 - **Canonical id:** `dea:metric-cure-rate-delinquent-loans`
 - **Name:** Cure Rate (Delinquent Loans)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRDL
 
@@ -22,7 +22,7 @@ Measures the share of delinquent borrowers returning to current status. It is th
 ## Formula
 
 ```
-Accounts Returning to Current / Delinquent Accounts
+CRDL = Accounts Returning to Current / Delinquent Accounts
 ```
 
 ## Unit

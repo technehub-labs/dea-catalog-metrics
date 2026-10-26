@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Retention Rate (Fitness)** (MRR
 - **Canonical id:** `dea:metric-member-retention-rate-fitness`
 - **Name:** Member Retention Rate (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRR-F
 
@@ -22,7 +22,7 @@ Member retention rate measures the share of members staying over time, and it is
 ## Formula
 
 ```
-Members Retained at Year End / Members at Start
+MRR-F = Members Retained at Year End / Members at Start
 ```
 
 ## Unit

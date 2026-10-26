@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ticket Sales Conversion** (TSC) in the
 - **Canonical id:** `dea:metric-ticket-sales-conversion`
 - **Name:** Ticket Sales Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSC
 
@@ -22,7 +22,7 @@ Ticket sales conversion measures the share of interested prospects (site visitor
 ## Formula
 
 ```
-Tickets Sold / Tickets Offered
+TSC = Tickets Sold / Tickets Offered
 ```
 
 ## Unit

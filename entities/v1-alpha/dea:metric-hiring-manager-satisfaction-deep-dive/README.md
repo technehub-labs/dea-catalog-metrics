@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hiring Manager Satisfaction (Deep Dive
 - **Canonical id:** `dea:metric-hiring-manager-satisfaction-deep-dive`
 - **Name:** Hiring Manager Satisfaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HMSATD
 
@@ -18,7 +18,7 @@ Hiring Manager Satisfaction (Deep Dive) (HMSATD) captures the quality of outputs
 ## Formula
 
 ```
-Hiring Manager Survey Score with TA Process
+HMSATD = Hiring Manager Survey Score with TA Process
 ```
 
 ## Unit

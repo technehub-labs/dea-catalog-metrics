@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Impact Analysis Currency** (AI
 - **Canonical id:** `dea:metric-adverse-impact-analysis-currency`
 - **Name:** Adverse Impact Analysis Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIAC-E
 
@@ -22,7 +22,7 @@ Measures whether adverse impact analyses are current for selection systems in ac
 ## Formula
 
 ```
-Analyses Completed within Required Cycle / Due
+AIAC-E = Analyses Completed within Required Cycle / Due
 ```
 
 ## Unit

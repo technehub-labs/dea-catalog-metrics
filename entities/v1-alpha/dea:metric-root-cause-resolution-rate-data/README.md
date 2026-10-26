@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Root Cause Resolution Rate (Data)** (R
 - **Canonical id:** `dea:metric-root-cause-resolution-rate-data`
 - **Name:** Root Cause Resolution Rate (Data)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCRRD
 
@@ -18,7 +18,7 @@ Root Cause Resolution Rate (Data) (RCRRD) measures the quality of outputs and ou
 ## Formula
 
 ```
-Recurring Quality Failures Eliminated at Root Cause / Identified Root Causes
+RCRRD = Recurring Quality Failures Eliminated at Root Cause / Identified Root Causes
 ```
 
 ## Unit

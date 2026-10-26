@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Pacing Compliance** (CPC-MK) 
 - **Canonical id:** `dea:metric-campaign-pacing-compliance`
 - **Name:** Campaign Pacing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPC-MK
 
@@ -18,7 +18,7 @@ A Marketing & Advertising Standard Measures (Deep Dive) indicator, Campaign Paci
 ## Formula
 
 ```
-Delivery within Pacing Tolerance of Plan / Campaigns
+CPC-MK = Delivery within Pacing Tolerance of Plan / Campaigns
 ```
 
 ## Unit

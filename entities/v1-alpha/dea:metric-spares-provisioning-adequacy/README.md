@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Provisioning Adequacy** (SPA-RM
 - **Canonical id:** `dea:metric-spares-provisioning-adequacy`
 - **Name:** Spares Provisioning Adequacy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPA-RM
 
@@ -18,7 +18,7 @@ Spares Provisioning Adequacy (SPA-RM) addresses the utilization or availability 
 ## Formula
 
 ```
-Demand Met from Stock / Total Spares Demand
+SPA-RM = Demand Met from Stock / Total Spares Demand
 ```
 
 ## Unit

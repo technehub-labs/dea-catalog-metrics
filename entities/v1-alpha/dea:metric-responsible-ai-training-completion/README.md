@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Responsible AI Training Completion** (
 - **Canonical id:** `dea:metric-responsible-ai-training-completion`
 - **Name:** Responsible AI Training Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAITC
 
@@ -18,7 +18,7 @@ A AI Ethics, Fairness & Responsible AI indicator, Responsible AI Training Comple
 ## Formula
 
 ```
-Staff Completing Responsible AI Training / Staff in Scope
+RAITC = Staff Completing Responsible AI Training / Staff in Scope
 ```
 
 ## Unit

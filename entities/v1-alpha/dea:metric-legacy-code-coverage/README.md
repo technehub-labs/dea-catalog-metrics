@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Code Coverage** (LCC) in the Op
 - **Canonical id:** `dea:metric-legacy-code-coverage`
 - **Name:** Legacy Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCC
 
@@ -18,7 +18,7 @@ A Code Quality & Static Analysis indicator, Legacy Code Coverage (LCC) quantifie
 ## Formula
 
 ```
-Legacy Modules under Test / Legacy Modules
+LCC = Legacy Modules under Test / Legacy Modules
 ```
 
 ## Unit

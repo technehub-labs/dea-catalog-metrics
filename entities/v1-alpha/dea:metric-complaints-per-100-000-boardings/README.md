@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaints per 100,000 Boardings** (CP
 - **Canonical id:** `dea:metric-complaints-per-100-000-boardings`
 - **Name:** Complaints per 100,000 Boardings
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPB
 
@@ -22,7 +22,7 @@ Measures complaint frequency normalized by passenger volume in transit. It matte
 ## Formula
 
 ```
-Complaints / Boardings x 100,000
+CPB = Complaints / Boardings x 100,000
 ```
 
 ## Unit

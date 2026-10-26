@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Referral Partner Volume** (RPV) in the
 - **Canonical id:** `dea:metric-referral-partner-volume`
 - **Name:** Referral Partner Volume
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPV
 
@@ -22,7 +22,7 @@ Measures business referred through partner channels in insurance distribution. I
 ## Formula
 
 ```
-New Business from Referral Partners per Period
+RPV = New Business from Referral Partners per Period
 ```
 
 ## Unit

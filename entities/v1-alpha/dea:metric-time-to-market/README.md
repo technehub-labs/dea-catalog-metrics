@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Market** (TTM) in the OpenDEAM
 - **Canonical id:** `dea:metric-time-to-market`
 - **Name:** Time to Market
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTM
 
@@ -22,7 +22,7 @@ Elapsed time from concept approval to launch - the velocity metric of product de
 ## Formula
 
 ```
-Days from Concept Approval to First Sale
+TTM = Days from Concept Approval to First Sale
 ```
 
 ## Unit

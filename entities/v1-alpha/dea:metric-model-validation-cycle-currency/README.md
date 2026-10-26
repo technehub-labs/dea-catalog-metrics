@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Validation Cycle Currency** (MVC
 - **Canonical id:** `dea:metric-model-validation-cycle-currency`
 - **Name:** Model Validation Cycle Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVCC
 
@@ -22,7 +22,7 @@ Measures whether validations are current against required periodicity. Model per
 ## Formula
 
 ```
-Validations within Recurrent Cycle / Due in Period
+MVCC = Validations within Recurrent Cycle / Due in Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Implementation Review Coverage** 
 - **Canonical id:** `dea:metric-post-implementation-review-coverage`
 - **Name:** Post-Implementation Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIRC
 
@@ -22,7 +22,7 @@ Measures the share of completed initiatives undergoing structured post-implement
 ## Formula
 
 ```
-Closed Initiatives with PIR / Closed Initiatives
+PIRC = Closed Initiatives with PIR / Closed Initiatives
 ```
 
 ## Unit

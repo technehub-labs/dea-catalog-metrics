@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Adoption Depth (Deep Dive)** (
 - **Canonical id:** `dea:metric-feature-adoption-depth-deep-dive`
 - **Name:** Feature Adoption Depth (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FADD
 
@@ -18,7 +18,7 @@ Within Web & Digital Analytics Standard Measures, Feature Adoption Depth (Deep D
 ## Formula
 
 ```
-Users Using Feature's Full Capability Set / Feature Adopters
+FADD = Users Using Feature's Full Capability Set / Feature Adopters
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Related-Party Transaction Approval Rat
 - **Canonical id:** `dea:metric-related-party-transaction-approval-rate`
 - **Name:** Related-Party Transaction Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPTA
 
@@ -22,7 +22,7 @@ Related-party transaction approval rate measures the share of transactions with 
 ## Formula
 
 ```
-Related-Party Transactions Approved per Policy / Total Related-Party Transactions
+RPTA = Related-Party Transactions Approved per Policy / Total Related-Party Transactions
 ```
 
 ## Unit

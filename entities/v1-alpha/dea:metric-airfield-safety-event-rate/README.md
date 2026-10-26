@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Airfield Safety Event Rate** (ASER-A) 
 - **Canonical id:** `dea:metric-airfield-safety-event-rate`
 - **Name:** Airfield Safety Event Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASER-A
 
@@ -22,7 +22,7 @@ Measures runway incursions, taxiway excursions, and airside events against movem
 ## Formula
 
 ```
-Runway Incursions or Excursions per 100,000 Movements
+ASER-A = Runway Incursions or Excursions per 100,000 Movements
 ```
 
 ## Unit

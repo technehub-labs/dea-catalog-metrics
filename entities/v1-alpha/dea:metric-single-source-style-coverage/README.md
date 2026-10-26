@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single-Source Style Coverage** (SSSC) 
 - **Canonical id:** `dea:metric-single-source-style-coverage`
 - **Name:** Single-Source Style Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSSC
 
@@ -18,7 +18,7 @@ A UX & Design Systems indicator, Single-Source Style Coverage (SSSC) quantifies 
 ## Formula
 
 ```
-UI Tokens Sourced from Central Library / Tokens in Use
+SSSC = UI Tokens Sourced from Central Library / Tokens in Use
 ```
 
 ## Unit

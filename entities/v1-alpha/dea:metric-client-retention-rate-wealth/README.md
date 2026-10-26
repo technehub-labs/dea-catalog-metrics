@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Retention Rate (Wealth)** (CRR-
 - **Canonical id:** `dea:metric-client-retention-rate-wealth`
 - **Name:** Client Retention Rate (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRR-W
 
@@ -22,7 +22,7 @@ Client retention rate in wealth measures the share of client relationships (and 
 ## Formula
 
 ```
-Client Relationships Retained / Relationships at Start
+CRR-W = Client Relationships Retained / Relationships at Start
 ```
 
 ## Unit

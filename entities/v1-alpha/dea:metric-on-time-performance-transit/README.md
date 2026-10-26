@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance (Transit)** (OTP-T
 - **Canonical id:** `dea:metric-on-time-performance-transit`
 - **Name:** On-Time Performance (Transit)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTP-T
 
@@ -22,7 +22,7 @@ On-time performance measures the share of transit trips within schedule toleranc
 ## Formula
 
 ```
-Trips Departing Key Stops within Threshold / Trips
+OTP-T = Trips Departing Key Stops within Threshold / Trips
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secure Coding Standard Adoption** (SCS
 - **Canonical id:** `dea:metric-secure-coding-standard-adoption`
 - **Name:** Secure Coding Standard Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCSA
 
@@ -18,7 +18,7 @@ Secure Coding Standard Adoption (SCSA) measures capability maturity or developme
 ## Formula
 
 ```
-Teams Following Secure Coding Standard / Teams
+SCSA = Teams Following Secure Coding Standard / Teams
 ```
 
 ## Unit

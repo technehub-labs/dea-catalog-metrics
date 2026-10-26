@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Job Posting Visibility Rate**
 - **Canonical id:** `dea:metric-internal-job-posting-visibility-rate`
 - **Name:** Internal Job Posting Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IJPVR
 
@@ -18,7 +18,7 @@ A Employee Engagement & Culture (Deep Dive) indicator, Internal Job Posting Visi
 ## Formula
 
 ```
-Openings Posted Internally First / Openings
+IJPVR = Openings Posted Internally First / Openings
 ```
 
 ## Unit

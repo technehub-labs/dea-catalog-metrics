@@ -7,7 +7,7 @@ Candidate Performance Metric record for **License Compliance Gate Pass Rate** (L
 - **Canonical id:** `dea:metric-license-compliance-gate-pass-rate`
 - **Name:** License Compliance Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCGPR
 
@@ -18,7 +18,7 @@ License Compliance Gate Pass Rate (LCGPR) captures conformance to standards, pla
 ## Formula
 
 ```
-Releases Passing Open Source License Policy / Releases
+LCGPR = Releases Passing Open Source License Policy / Releases
 ```
 
 ## Unit

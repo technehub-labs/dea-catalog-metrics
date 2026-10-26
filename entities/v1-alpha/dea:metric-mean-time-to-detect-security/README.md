@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Detect - Security** (MTTD
 - **Canonical id:** `dea:metric-mean-time-to-detect-security`
 - **Name:** Mean Time to Detect - Security
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTD-S
 
@@ -22,7 +22,7 @@ Measures the average time from security incident start to SOC detection. Dwell t
 ## Formula
 
 ```
-Minutes from Alert Generation to Triage
+MTTD-S = Minutes from Alert Generation to Triage
 ```
 
 ## Unit

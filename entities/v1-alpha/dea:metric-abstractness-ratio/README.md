@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abstractness Ratio** (ABSTR) in the Op
 - **Canonical id:** `dea:metric-abstractness-ratio`
 - **Name:** Abstractness Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABSTR
 
@@ -18,7 +18,7 @@ A Code Quality & Static Analysis indicator, Abstractness Ratio (ABSTR) quantifie
 ## Formula
 
 ```
-Abstract Components / Total Components
+ABSTR = Abstract Components / Total Components
 ```
 
 ## Unit

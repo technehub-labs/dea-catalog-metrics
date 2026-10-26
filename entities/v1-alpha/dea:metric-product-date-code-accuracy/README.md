@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Date Code Accuracy** (PDCA) in
 - **Canonical id:** `dea:metric-product-date-code-accuracy`
 - **Name:** Product Date Code Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDCA
 
@@ -18,7 +18,7 @@ Within Food & Beverage Manufacturing, Product Date Code Accuracy (PDCA) is used 
 ## Formula
 
 ```
-Correctly Coded Packages / Packages Sampled
+PDCA = Correctly Coded Packages / Packages Sampled
 ```
 
 ## Unit

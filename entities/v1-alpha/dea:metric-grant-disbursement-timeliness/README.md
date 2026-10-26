@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grant Disbursement Timeliness** (GDT) 
 - **Canonical id:** `dea:metric-grant-disbursement-timeliness`
 - **Name:** Grant Disbursement Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GDT
 
@@ -22,7 +22,7 @@ Measures the share of grants paid within committed timelines. It matters because
 ## Formula
 
 ```
-Grants Disbursed by Target Date / Grants Approved
+GDT = Grants Disbursed by Target Date / Grants Approved
 ```
 
 ## Unit

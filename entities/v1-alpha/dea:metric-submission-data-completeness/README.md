@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Submission Data Completeness** (SDC) i
 - **Canonical id:** `dea:metric-submission-data-completeness`
 - **Name:** Submission Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDC
 
@@ -18,7 +18,7 @@ Submission Data Completeness (SDC) addresses the quality of outputs and outcomes
 ## Formula
 
 ```
-Complete Submissions / Submissions Received
+SDC = Complete Submissions / Submissions Received
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Consent Compliance Rate** (PCC
 - **Canonical id:** `dea:metric-privacy-consent-compliance-rate`
 - **Name:** Privacy Consent Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCCR-A
 
@@ -22,7 +22,7 @@ Measures the share of customer data processing and marketing activity for which 
 ## Formula
 
 ```
-Profiles with Valid Marketing Consent / Profiles Marketed
+PCCR-A = Profiles with Valid Marketing Consent / Profiles Marketed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baggage Handling System Availability**
 - **Canonical id:** `dea:metric-baggage-handling-system-availability`
 - **Name:** Baggage Handling System Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BHSA
 
@@ -18,7 +18,7 @@ Baggage Handling System Availability (BHSA) addresses the quality of outputs and
 ## Formula
 
 ```
-System Uptime / Scheduled Operating Time
+BHSA = System Uptime / Scheduled Operating Time
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Algorithmic Bias Audit Coverage** (ABA
 - **Canonical id:** `dea:metric-algorithmic-bias-audit-coverage`
 - **Name:** Algorithmic Bias Audit Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABAC
 
@@ -22,7 +22,7 @@ Measures the share of consequential decision systems audited for bias. Bias audi
 ## Formula
 
 ```
-High-Risk Models Audited for Bias / High-Risk Models
+ABAC = High-Risk Models Audited for Bias / High-Risk Models
 ```
 
 ## Unit

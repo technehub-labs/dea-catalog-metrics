@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Win Rate** (EXPWR) in the O
 - **Canonical id:** `dea:metric-experiment-win-rate`
 - **Name:** Experiment Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EXPWR
 
@@ -18,7 +18,7 @@ Experiment Win Rate (EXPWR) addresses the quality of outputs and outcomes and is
 ## Formula
 
 ```
-Experiments with Statistically Significant Positive Result / Experiments
+EXPWR = Experiments with Statistically Significant Positive Result / Experiments
 ```
 
 ## Unit

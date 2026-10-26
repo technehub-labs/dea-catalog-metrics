@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Responder Coordination Score** (
 - **Canonical id:** `dea:metric-first-responder-coordination-score`
 - **Name:** First Responder Coordination Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRCS
 
@@ -18,7 +18,7 @@ First Responder Coordination Score (FRCS) measures capability maturity or develo
 ## Formula
 
 ```
-Rubric for External Agency Coordination in Exercises
+FRCS = Rubric for External Agency Coordination in Exercises
 ```
 
 ## Unit

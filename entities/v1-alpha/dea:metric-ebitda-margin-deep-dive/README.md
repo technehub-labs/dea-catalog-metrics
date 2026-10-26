@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EBITDA Margin (Deep Dive)** (EBMDD) in
 - **Canonical id:** `dea:metric-ebitda-margin-deep-dive`
 - **Name:** EBITDA Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBMDD
 
@@ -22,7 +22,7 @@ Measures operating profitability before depreciation and amortization. EBITDA ap
 ## Formula
 
 ```
-EBITDA / Revenue
+EBMDD = EBITDA / Revenue
 ```
 
 ## Unit

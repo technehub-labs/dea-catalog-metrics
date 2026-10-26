@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Acknowledge** (MTTA) in t
 - **Canonical id:** `dea:metric-mean-time-to-acknowledge`
 - **Name:** Mean Time to Acknowledge
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTA
 
@@ -18,7 +18,7 @@ Mean Time to Acknowledge (MTTA) captures how efficiently resources are converted
 ## Formula
 
 ```
-Total Acknowledgment Time / Incidents
+MTTA = Total Acknowledgment Time / Incidents
 ```
 
 ## Unit

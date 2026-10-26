@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hire (Deep Dive)** (CPHDD) in
 - **Canonical id:** `dea:metric-cost-per-hire-deep-dive`
 - **Name:** Cost per Hire (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPHDD
 
@@ -18,7 +18,7 @@ Within Talent Acquisition Deep Dive, Cost per Hire (Deep Dive) (CPHDD) is used t
 ## Formula
 
 ```
-Total Acquisition Cost / Hires
+CPHDD = Total Acquisition Cost / Hires
 ```
 
 ## Unit

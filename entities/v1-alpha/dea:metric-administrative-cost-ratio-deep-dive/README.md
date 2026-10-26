@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Administrative Cost Ratio (Deep Dive)*
 - **Canonical id:** `dea:metric-administrative-cost-ratio-deep-dive`
 - **Name:** Administrative Cost Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR-D
 
@@ -22,7 +22,7 @@ Measures the share of spending on administration and overhead. It is the capacit
 ## Formula
 
 ```
-Administrative Expenses / Total Expenses
+ACR-D = Administrative Expenses / Total Expenses
 ```
 
 ## Unit

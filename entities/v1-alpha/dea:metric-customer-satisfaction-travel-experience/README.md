@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction (Travel Experien
 - **Canonical id:** `dea:metric-customer-satisfaction-travel-experience`
 - **Name:** Customer Satisfaction (Travel Experience)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CST
 
@@ -22,7 +22,7 @@ Customer satisfaction in travel measures the end-to-end experience - booking thr
 ## Formula
 
 ```
-Satisfied Traveler Survey Responses / Responses
+CST = Satisfied Traveler Survey Responses / Responses
 ```
 
 ## Unit

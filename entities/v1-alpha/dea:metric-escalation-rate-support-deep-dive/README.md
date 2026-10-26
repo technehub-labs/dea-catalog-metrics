@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate (Support Deep Dive)** 
 - **Canonical id:** `dea:metric-escalation-rate-support-deep-dive`
 - **Name:** Escalation Rate (Support Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESCR-D
 
@@ -18,7 +18,7 @@ Escalation Rate (Support Deep Dive) (ESCR-D) addresses the quality of outputs an
 ## Formula
 
 ```
-Escalated Tickets / Tickets
+ESCR-D = Escalated Tickets / Tickets
 ```
 
 ## Unit

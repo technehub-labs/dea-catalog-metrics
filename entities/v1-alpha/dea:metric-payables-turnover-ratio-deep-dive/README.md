@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payables Turnover Ratio (Deep Dive)** 
 - **Canonical id:** `dea:metric-payables-turnover-ratio-deep-dive`
 - **Name:** Payables Turnover Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTRDD
 
@@ -18,7 +18,7 @@ Payables Turnover Ratio (Deep Dive) (PTRDD) captures how efficiently resources a
 ## Formula
 
 ```
-Cost of Sales / Average Payables
+PTRDD = Cost of Sales / Average Payables
 ```
 
 ## Unit

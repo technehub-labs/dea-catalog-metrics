@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Team Attrition Rate (Deep Dive
 - **Canonical id:** `dea:metric-project-team-attrition-rate-deep-dive`
 - **Name:** Project Team Attrition Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTAR-D
 
@@ -18,7 +18,7 @@ Project Team Attrition Rate (Deep Dive) (PTAR-D) measures exposure to adverse ou
 ## Formula
 
 ```
-Team Members Departing Mid-Project / Team
+PTAR-D = Team Members Departing Mid-Project / Team
 ```
 
 ## Unit

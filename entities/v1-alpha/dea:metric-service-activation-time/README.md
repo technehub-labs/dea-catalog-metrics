@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Activation Time** (SAT) in the
 - **Canonical id:** `dea:metric-service-activation-time`
 - **Name:** Service Activation Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAT
 
@@ -22,7 +22,7 @@ Measures elapsed time from service order to fully activated telecom service. It 
 ## Formula
 
 ```
-Days from Order to Service Activation
+SAT = Days from Order to Service Activation
 ```
 
 ## Unit

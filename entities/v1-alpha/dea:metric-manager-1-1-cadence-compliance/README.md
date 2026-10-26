@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager 1:1 Cadence Compliance** (MCC)
 - **Canonical id:** `dea:metric-manager-1-1-cadence-compliance`
 - **Name:** Manager 1:1 Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCC
 
@@ -18,7 +18,7 @@ Manager 1:1 Cadence Compliance (MCC) measures the engagement or satisfaction of 
 ## Formula
 
 ```
-Direct Reports Receiving Regular 1:1s / Direct Reports
+MCC = Direct Reports Receiving Regular 1:1s / Direct Reports
 ```
 
 ## Unit

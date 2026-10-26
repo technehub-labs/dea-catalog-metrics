@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Induced Downtime Share (Ch
 - **Canonical id:** `dea:metric-maintenance-induced-downtime-share-chemicals`
 - **Name:** Maintenance-Induced Downtime Share (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIDS
 
@@ -18,7 +18,7 @@ A Chemicals & Specialty Materials indicator, Maintenance-Induced Downtime Share 
 ## Formula
 
 ```
-Downtime from Maintenance / Total Downtime
+MIDS = Downtime from Maintenance / Total Downtime
 ```
 
 ## Unit

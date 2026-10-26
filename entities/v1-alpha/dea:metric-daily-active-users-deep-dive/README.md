@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users (Deep Dive)** (DAU-
 - **Canonical id:** `dea:metric-daily-active-users-deep-dive`
 - **Name:** Daily Active Users (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAU-D
 
@@ -22,7 +22,7 @@ Measures the share of a game's player base active daily. DAU is the heartbeat of
 ## Formula
 
 ```
-Unique Active Players per Day
+DAU-D = Unique Active Players per Day
 ```
 
 ## Unit

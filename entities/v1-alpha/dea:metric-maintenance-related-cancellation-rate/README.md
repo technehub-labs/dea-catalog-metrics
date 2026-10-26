@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Related Cancellation Rate*
 - **Canonical id:** `dea:metric-maintenance-related-cancellation-rate`
 - **Name:** Maintenance-Related Cancellation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRCR-A
 
@@ -22,7 +22,7 @@ Measures cancellations attributable to technical causes. It is the customer-faci
 ## Formula
 
 ```
-Cancellations Due to Maintenance / Schedules
+MRCR-A = Cancellations Due to Maintenance / Schedules
 ```
 
 ## Unit

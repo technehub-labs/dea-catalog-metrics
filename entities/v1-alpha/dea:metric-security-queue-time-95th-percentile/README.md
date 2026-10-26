@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Queue Time - 95th Percentile*
 - **Canonical id:** `dea:metric-security-queue-time-95th-percentile`
 - **Name:** Security Queue Time - 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQT95
 
@@ -18,7 +18,7 @@ Security Queue Time - 95th Percentile (SQT95) captures the quality of outputs an
 ## Formula
 
 ```
-Minutes waited by 95th percentile passenger
+SQT95 = Minutes waited by 95th percentile passenger
 ```
 
 ## Unit

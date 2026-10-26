@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Watchlist Migration Rate** (WMR-CC) in
 - **Canonical id:** `dea:metric-watchlist-migration-rate`
 - **Name:** Watchlist Migration Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WMR-CC
 
@@ -18,7 +18,7 @@ A Credit & Collections Risk (Enterprise) indicator, Watchlist Migration Rate (WM
 ## Formula
 
 ```
-Accounts Migrating to Watchlist / Monitored Accounts
+WMR-CC = Accounts Migrating to Watchlist / Monitored Accounts
 ```
 
 ## Unit

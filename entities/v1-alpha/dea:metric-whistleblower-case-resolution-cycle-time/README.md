@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whistleblower Case Resolution Cycle Ti
 - **Canonical id:** `dea:metric-whistleblower-case-resolution-cycle-time`
 - **Name:** Whistleblower Case Resolution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCRC
 
@@ -18,7 +18,7 @@ Whistleblower Case Resolution Cycle Time (WCRC) captures how efficiently resourc
 ## Formula
 
 ```
-Days from Hotline Report to Case Closure
+WCRC = Days from Hotline Report to Case Closure
 ```
 
 ## Unit

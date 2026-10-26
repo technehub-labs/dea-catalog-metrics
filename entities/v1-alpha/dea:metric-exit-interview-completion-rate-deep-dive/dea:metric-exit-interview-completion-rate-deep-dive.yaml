@@ -9,7 +9,7 @@ description: Exit Interview Completion Rate (Deep Dive) (EICR-EE) addresses the 
   in cross-industry performance frameworks.
 abbreviation: EICR-EE
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -27,7 +27,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Leavers Completing Exit Interview / Leavers
 formula_definition:
   formula_id: dea:formula-exit-interview-completion-rate-deep-dive
-  expression: Leavers Completing Exit Interview / Leavers
+  expression: EICR-EE = Leavers Completing Exit Interview / Leavers
   inputs:
   - name: Leavers Completing Exit Interview
   - name: Leavers
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,9 +48,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3868
     batch: '8'
 domain: employee_engagement_culture_deep_dive
+subject_concept: dea:subject-exit_interview_completion_rate
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3868
+  - Public domain - no attribution required
+  known_limitations: []

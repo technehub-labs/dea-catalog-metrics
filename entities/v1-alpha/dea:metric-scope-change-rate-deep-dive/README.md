@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope Change Rate (Deep Dive)** (SCR-D
 - **Canonical id:** `dea:metric-scope-change-rate-deep-dive`
 - **Name:** Scope Change Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-D
 
@@ -22,7 +22,7 @@ Measures the frequency and size of approved changes against the original scope. 
 ## Formula
 
 ```
-Approved Changes / Baseline Scope Items
+SCR-D = Approved Changes / Baseline Scope Items
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Covenant Headroom** (DCH-T) in th
 - **Canonical id:** `dea:metric-debt-covenant-headroom`
 - **Name:** Debt Covenant Headroom
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCH-T
 
@@ -22,7 +22,7 @@ Measures distance between actual covenant metrics (leverage, interest cover, DSC
 ## Formula
 
 ```
-Distance to Tightest Covenant / Covenant Level
+DCH-T = Distance to Tightest Covenant / Covenant Level
 ```
 
 ## Unit

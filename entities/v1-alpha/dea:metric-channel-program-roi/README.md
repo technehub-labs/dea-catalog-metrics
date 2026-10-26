@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Program ROI** (CPROI) in the O
 - **Canonical id:** `dea:metric-channel-program-roi`
 - **Name:** Channel Program ROI
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPROI
 
@@ -22,7 +22,7 @@ Measures the full return of the partner program against its cost (incentives, MD
 ## Formula
 
 ```
-Channel Contribution Margin / Program Cost
+CPROI = Channel Contribution Margin / Program Cost
 ```
 
 ## Unit

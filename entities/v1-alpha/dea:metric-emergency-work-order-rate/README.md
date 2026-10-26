@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Work Order Rate** (EWR) in t
 - **Canonical id:** `dea:metric-emergency-work-order-rate`
 - **Name:** Emergency Work Order Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EWR
 
@@ -22,7 +22,7 @@ Measures the share of maintenance work orders that are emergency or breakdown-dr
 ## Formula
 
 ```
-Emergency Work Orders / Total Work Orders
+EWR = Emergency Work Orders / Total Work Orders
 ```
 
 ## Unit

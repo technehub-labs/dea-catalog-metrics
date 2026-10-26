@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Allocation Effectiveness Score
 - **Canonical id:** `dea:metric-capital-allocation-effectiveness-score`
 - **Name:** Capital Allocation Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAES
 
@@ -22,7 +22,7 @@ Measures how well the organization deploys capital across competing uses over ti
 ## Formula
 
 ```
-Composite of Value Created per Dollar Deployed across Uses
+CAES = Composite of Value Created per Dollar Deployed across Uses
 ```
 
 ## Unit

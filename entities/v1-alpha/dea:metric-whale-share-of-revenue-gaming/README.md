@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whale Share of Revenue (Gaming)** (WSR
 - **Canonical id:** `dea:metric-whale-share-of-revenue-gaming`
 - **Name:** Whale Share of Revenue (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSR-G
 
@@ -22,7 +22,7 @@ Measures the concentration of revenue in top-spending players. Live-service econ
 ## Formula
 
 ```
-Top Spender Cohort Revenue / Total Revenue
+WSR-G = Top Spender Cohort Revenue / Total Revenue
 ```
 
 ## Unit

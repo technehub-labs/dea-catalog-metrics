@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Licensing Compliance Rate** (ALC
 - **Canonical id:** `dea:metric-agent-licensing-compliance-rate`
 - **Name:** Agent Licensing Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALCR
 
@@ -18,7 +18,7 @@ Agent Licensing Compliance Rate (ALCR) addresses conformance to standards, plans
 ## Formula
 
 ```
-Agents with Valid Licenses / Appointed Agents
+ALCR = Agents with Valid Licenses / Appointed Agents
 ```
 
 ## Unit

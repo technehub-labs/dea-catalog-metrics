@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Accommodation Fulfilment
 - **Canonical id:** `dea:metric-accessibility-accommodation-fulfilment-rate`
 - **Name:** Accessibility Accommodation Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAFR
 
@@ -18,7 +18,7 @@ Accessibility Accommodation Fulfilment Rate (AAFR) captures conformance to stand
 ## Formula
 
 ```
-Workplace Accommodations Delivered within SLA / Requests
+AAFR = Workplace Accommodations Delivered within SLA / Requests
 ```
 
 ## Unit

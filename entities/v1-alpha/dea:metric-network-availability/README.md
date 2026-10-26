@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Availability** (NAV) in the Op
 - **Canonical id:** `dea:metric-network-availability`
 - **Name:** Network Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAV
 
@@ -22,7 +22,7 @@ The share of time the network performs within its service commitments - the foun
 ## Formula
 
 ```
-Uptime of Network Services / Total Time
+NAV = Uptime of Network Services / Total Time
 ```
 
 ## Unit

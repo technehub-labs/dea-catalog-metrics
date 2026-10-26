@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Exception Rate** (PER-AP) in t
 - **Canonical id:** `dea:metric-payment-exception-rate`
 - **Name:** Payment Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PER-AP
 
@@ -18,7 +18,7 @@ Payment Exception Rate (PER-AP) addresses the quality of outputs and outcomes an
 ## Formula
 
 ```
-Payments Requiring Manual Exception Handling / Payments
+PER-AP = Payments Requiring Manual Exception Handling / Payments
 ```
 
 ## Unit

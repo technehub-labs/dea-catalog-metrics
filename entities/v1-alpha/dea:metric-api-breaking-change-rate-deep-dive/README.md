@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Breaking Change Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-api-breaking-change-rate-deep-dive`
 - **Name:** API Breaking Change Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIBC
 
@@ -18,7 +18,7 @@ A API Lifecycle Management indicator, API Breaking Change Rate (Deep Dive) (APIB
 ## Formula
 
 ```
-Breaking Changes Released / Releases with API Changes
+APIBC = Breaking Changes Released / Releases with API Changes
 ```
 
 ## Unit

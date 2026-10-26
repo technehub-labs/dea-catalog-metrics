@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Departure Rate - Airport (Deep
 - **Canonical id:** `dea:metric-on-time-departure-rate-airport-deep-dive`
 - **Name:** On-Time Departure Rate - Airport (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTDR-D
 
@@ -22,7 +22,7 @@ Measures the share of departing flights pushing back within tolerance. It is the
 ## Formula
 
 ```
-Departures On Time / Departures
+OTDR-D = Departures On Time / Departures
 ```
 
 ## Unit

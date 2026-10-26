@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Handoff Count per Process** (HCPP) in 
 - **Canonical id:** `dea:metric-handoff-count-per-process`
 - **Name:** Handoff Count per Process
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HCPP
 
@@ -18,7 +18,7 @@ A Operating Model & Process Health Deep Dive indicator, Handoff Count per Proces
 ## Formula
 
 ```
-Average Handoffs between Functions per Process Run
+HCPP = Average Handoffs between Functions per Process Run
 ```
 
 ## Unit

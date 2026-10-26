@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinance Capture Rate** (RCR-RE) in t
 - **Canonical id:** `dea:metric-refinance-capture-rate`
 - **Name:** Refinance Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-RE
 
@@ -18,7 +18,7 @@ Refinance Capture Rate (RCR-RE) addresses growth over time and is a fixture of r
 ## Formula
 
 ```
-Eligible Borrowers Refinanced / Eligible Population
+RCR-RE = Eligible Borrowers Refinanced / Eligible Population
 ```
 
 ## Unit

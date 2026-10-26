@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pulp Yield per Ton of Wood** (PYT) in 
 - **Canonical id:** `dea:metric-pulp-yield-per-ton-of-wood`
 - **Name:** Pulp Yield per Ton of Wood
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PYT
 
@@ -18,7 +18,7 @@ Within Pulp, Paper & Forest Products, Pulp Yield per Ton of Wood (PYT) is used t
 ## Formula
 
 ```
-Pulp Produced / Wood Consumed
+PYT = Pulp Produced / Wood Consumed
 ```
 
 ## Unit

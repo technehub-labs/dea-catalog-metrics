@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Origin Determination Accuracy** (ODA) 
 - **Canonical id:** `dea:metric-origin-determination-accuracy`
 - **Name:** Origin Determination Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODA
 
@@ -18,7 +18,7 @@ Origin Determination Accuracy (ODA) captures conformance to standards, plans, or
 ## Formula
 
 ```
-Origin Declarations Correct / Declarations Audited
+ODA = Origin Declarations Correct / Declarations Audited
 ```
 
 ## Unit

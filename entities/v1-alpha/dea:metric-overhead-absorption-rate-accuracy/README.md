@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overhead Absorption Rate Accuracy** (O
 - **Canonical id:** `dea:metric-overhead-absorption-rate-accuracy`
 - **Name:** Overhead Absorption Rate Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OARA
 
@@ -22,7 +22,7 @@ Measures how closely absorbed overhead matches actual overhead incurred. It matt
 ## Formula
 
 ```
-1 - ABS(Absorbed Overhead - Actual Overhead) / Actual Overhead
+OARA = 1 - ABS(Absorbed Overhead - Actual Overhead) / Actual Overhead
 ```
 
 ## Unit

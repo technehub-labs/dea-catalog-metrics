@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Submission Approval Rate** 
 - **Canonical id:** `dea:metric-regulatory-submission-approval-rate`
 - **Name:** Regulatory Submission Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSAR
 
@@ -22,7 +22,7 @@ Regulatory submission approval rate measures the share of FDA/CE/other regulator
 ## Formula
 
 ```
-Submissions Approved without Major Deficiency / Submissions
+RSAR = Submissions Approved without Major Deficiency / Submissions
 ```
 
 ## Unit

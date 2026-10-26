@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Suitability Assessment Compliance Rate
 - **Canonical id:** `dea:metric-suitability-assessment-compliance-rate`
 - **Name:** Suitability Assessment Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACR-W
 
@@ -22,7 +22,7 @@ Measures adherence to required suitability processes - documented needs analysis
 ## Formula
 
 ```
-Suitable Recommendations on Audit / Sampled
+SACR-W = Suitable Recommendations on Audit / Sampled
 ```
 
 ## Unit

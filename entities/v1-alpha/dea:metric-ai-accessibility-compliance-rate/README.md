@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Accessibility Compliance Rate** (AA
 - **Canonical id:** `dea:metric-ai-accessibility-compliance-rate`
 - **Name:** AI Accessibility Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAICR
 
@@ -18,7 +18,7 @@ AI Accessibility Compliance Rate (AAICR) addresses conformance to standards, pla
 ## Formula
 
 ```
-AI Interfaces Meeting Accessibility Standards / Interfaces
+AAICR = AI Interfaces Meeting Accessibility Standards / Interfaces
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Available Seat Kilometer**
 - **Canonical id:** `dea:metric-revenue-per-available-seat-kilometer`
 - **Name:** Revenue per Available Seat Kilometer
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RASK
 
@@ -22,7 +22,7 @@ Measures passenger revenue per seat-kilometer offered. RASK is the standard traf
 ## Formula
 
 ```
-Passenger Revenue / Available Seat Kilometers
+RASK = Passenger Revenue / Available Seat Kilometers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Cost per Wafer** (SCW) in the Op
 - **Canonical id:** `dea:metric-scrap-cost-per-wafer`
 - **Name:** Scrap Cost per Wafer
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCW
 
@@ -22,7 +22,7 @@ Measures scrapped wafer cost per production unit. It matters because wafer value
 ## Formula
 
 ```
-Total Scrap Cost / Wafers Started
+SCW = Total Scrap Cost / Wafers Started
 ```
 
 ## Unit

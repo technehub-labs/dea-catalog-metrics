@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Acquisition** (CPA) in the Op
 - **Canonical id:** `dea:metric-cost-per-acquisition`
 - **Name:** Cost per Acquisition
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPA
 
@@ -22,7 +22,7 @@ Measures total cost to acquire one new customer. It matters because it must stay
 ## Formula
 
 ```
-Total Campaign Cost / Acquisitions
+CPA = Total Campaign Cost / Acquisitions
 ```
 
 ## Unit

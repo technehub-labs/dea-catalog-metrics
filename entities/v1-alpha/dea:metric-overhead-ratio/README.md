@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overhead Ratio** (OHR) in the OpenDEAM
 - **Canonical id:** `dea:metric-overhead-ratio`
 - **Name:** Overhead Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OHR
 
@@ -22,7 +22,7 @@ Non-interest expense over average assets - the banking cost gauge that scales th
 ## Formula
 
 ```
-Non-Interest Expense / Average Assets
+OHR = Non-Interest Expense / Average Assets
 ```
 
 ## Unit

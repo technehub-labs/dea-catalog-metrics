@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spokesperson Briefing Compliance** (SB
 - **Canonical id:** `dea:metric-spokesperson-briefing-compliance`
 - **Name:** Spokesperson Briefing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBC
 
@@ -22,7 +22,7 @@ Measures the share of designated spokespeople who are media-trained and current 
 ## Formula
 
 ```
-Interviews per Approved Messaging / Interviews
+SBC = Interviews per Approved Messaging / Interviews
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: Within Unit Economics & Growth (Deep Dive), Contribution Margin per
   levels. Its use is concentrated in Software.
 abbreviation: CMPUD
 unit: currency
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - customer
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: (Price - Variable Cost) per Unit
 formula_definition:
   formula_id: dea:formula-contribution-margin-per-unit-deep-dive
-  expression: (Price - Variable Cost) per Unit
+  expression: CMPUD = (Price - Variable Cost) per Unit
   inputs:
   - name: Price
   - name: Variable Cost
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-currency
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,6 +48,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -55,3 +59,11 @@ metadata:
     batch: '9'
 domain: unit_economics_growth_deep_dive
 sector: software
+subject_concept: dea:subject-contribution_margin_per_unit
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4161
+  - Public domain - no attribution required
+  known_limitations: []

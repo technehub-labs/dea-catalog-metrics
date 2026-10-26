@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage Rate (Retail Deep Dive)** (S
 - **Canonical id:** `dea:metric-shrinkage-rate-retail-deep-dive`
 - **Name:** Shrinkage Rate (Retail Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHR
 
@@ -22,7 +22,7 @@ Measures inventory lost to theft, damage, and administrative error. Shrink is th
 ## Formula
 
 ```
-Inventory Loss / Sales
+SHR = Inventory Loss / Sales
 ```
 
 ## Unit

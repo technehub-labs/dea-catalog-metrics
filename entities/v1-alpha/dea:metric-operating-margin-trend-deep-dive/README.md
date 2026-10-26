@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Margin Trend (Deep Dive)** (
 - **Canonical id:** `dea:metric-operating-margin-trend-deep-dive`
 - **Name:** Operating Margin Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMT-D
 
@@ -22,7 +22,7 @@ Measures the direction of operating profitability over time. Margin trend reveal
 ## Formula
 
 ```
-Change in Operating Margin over Periods
+OMT-D = Change in Operating Margin over Periods
 ```
 
 ## Unit

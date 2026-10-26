@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Cost (Deep Dive)*
 - **Canonical id:** `dea:metric-customer-acquisition-cost-deep-dive`
 - **Name:** Customer Acquisition Cost (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CACDD
 
@@ -22,7 +22,7 @@ Measures the fully loaded cost to acquire a customer. CAC is the denominator of 
 ## Formula
 
 ```
-Total Acquisition Spend / New Customers
+CACDD = Total Acquisition Spend / New Customers
 ```
 
 ## Unit

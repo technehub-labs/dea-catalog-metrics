@@ -8,7 +8,7 @@ description: 'A Packaging & Plastics indicator, Mold Changeover Time (Plastics) 
   sustained decreases indicate successful intervention.'
 abbreviation: MCT-P
 unit: minute
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - product_or_service
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Minutes from Last Good Part to Next Good Part
 formula_definition:
   formula_id: dea:formula-mold-changeover-time-plastics
-  expression: Minutes from Last Good Part to Next Good Part
+  expression: MCT-P = Minutes from Last Good Part to Next Good Part
   inputs:
   - name: Minutes from Last Good Part to Next Good Part
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-minute
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,6 +46,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -53,3 +57,11 @@ metadata:
     batch: '6'
 domain: packaging_plastics
 sector: manufacturing
+subject_concept: dea:subject-mold_changeover_time_plastics
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1827
+  - Public domain - no attribution required
+  known_limitations: []

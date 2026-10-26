@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hit Rate (Winning Positions)** (HRWP) 
 - **Canonical id:** `dea:metric-hit-rate-winning-positions`
 - **Name:** Hit Rate (Winning Positions)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRWP
 
@@ -18,7 +18,7 @@ Hit Rate (Winning Positions) (HRWP) captures the economic value created or prese
 ## Formula
 
 ```
-Positions with Positive Return / Positions
+HRWP = Positions with Positive Return / Positions
 ```
 
 ## Unit

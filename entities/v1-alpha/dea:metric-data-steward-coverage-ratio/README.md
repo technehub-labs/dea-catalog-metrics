@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Steward Coverage Ratio** (DSCR) i
 - **Canonical id:** `dea:metric-data-steward-coverage-ratio`
 - **Name:** Data Steward Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCR
 
@@ -18,7 +18,7 @@ A Data Governance & Stewardship indicator, Data Steward Coverage Ratio (DSCR) qu
 ## Formula
 
 ```
-Systems with Assigned Stewards / Systems
+DSCR = Systems with Assigned Stewards / Systems
 ```
 
 ## Unit

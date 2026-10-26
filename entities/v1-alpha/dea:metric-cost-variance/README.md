@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Variance** (CV) in the OpenDEAM M
 - **Canonical id:** `dea:metric-cost-variance`
 - **Name:** Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CV
 
@@ -22,7 +22,7 @@ CV is earned value minus actual cost - the gap between the budgeted worth of wor
 ## Formula
 
 ```
-Earned Value - Actual Cost
+CV = Earned Value - Actual Cost
 ```
 
 ## Unit

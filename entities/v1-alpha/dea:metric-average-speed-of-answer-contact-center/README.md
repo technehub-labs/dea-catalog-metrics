@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Speed of Answer (Contact Cente
 - **Canonical id:** `dea:metric-average-speed-of-answer-contact-center`
 - **Name:** Average Speed of Answer (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASA-CC
 
@@ -18,7 +18,7 @@ Average Speed of Answer (Contact Center) (ASA-CC) measures the quality of output
 ## Formula
 
 ```
-Seconds Waiting before Agent Answer
+ASA-CC = Seconds Waiting before Agent Answer
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Major Incident Declared Accuracy** (MI
 - **Canonical id:** `dea:metric-major-incident-declared-accuracy`
 - **Name:** Major Incident Declared Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIDA
 
@@ -18,7 +18,7 @@ Major Incident Declared Accuracy (MIDA) measures the quality of outputs and outc
 ## Formula
 
 ```
-Major Declarations Justified / Declarations
+MIDA = Major Declarations Justified / Declarations
 ```
 
 ## Unit

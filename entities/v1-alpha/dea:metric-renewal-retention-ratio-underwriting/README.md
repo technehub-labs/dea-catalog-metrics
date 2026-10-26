@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewal Retention Ratio (Underwriting)
 - **Canonical id:** `dea:metric-renewal-retention-ratio-underwriting`
 - **Name:** Renewal Retention Ratio (Underwriting)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRR-U
 
@@ -22,7 +22,7 @@ Measures the share of in-force premium renewing, weighted by premium, at policy 
 ## Formula
 
 ```
-Policies Renewed / Policies Eligible for Renewal
+RRR-U = Policies Renewed / Policies Eligible for Renewal
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Token Cost per Resolution** (LLMTC
 - **Canonical id:** `dea:metric-llm-token-cost-per-resolution`
 - **Name:** LLM Token Cost per Resolution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLMTCR
 
@@ -22,7 +22,7 @@ Measures token and serving cost per successfully resolved user task. It is the u
 ## Formula
 
 ```
-Token and Inference Cost / Resolved Interactions
+LLMTCR = Token and Inference Cost / Resolved Interactions
 ```
 
 ## Unit

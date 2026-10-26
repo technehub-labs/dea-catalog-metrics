@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attack Surface Compromise Simulations*
 - **Canonical id:** `dea:metric-attack-surface-compromise-simulations`
 - **Name:** Attack Surface Compromise Simulations
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASCS
 
@@ -18,7 +18,7 @@ Attack Surface Compromise Simulations (ASCS) addresses exposure to adverse outco
 ## Formula
 
 ```
-Compromise Paths Demonstrated per Exercise
+ASCS = Compromise Paths Demonstrated per Exercise
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Configuration Drift Incidents** (CDI-C
 - **Canonical id:** `dea:metric-configuration-drift-incidents`
 - **Name:** Configuration Drift Incidents
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDI-CD
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Configuration Drift Incidents (CDI-CD) 
 ## Formula
 
 ```
-Drift Incidents Detected per Month
+CDI-CD = Drift Incidents Detected per Month
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin Stability Index** (GMSI) 
 - **Canonical id:** `dea:metric-gross-margin-stability-index`
 - **Name:** Gross Margin Stability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMSI
 
@@ -22,7 +22,7 @@ Measures the variance of gross margins over time. Stability signals pricing powe
 ## Formula
 
 ```
-Variance of Gross Margin around Trend
+GMSI = Variance of Gross Margin around Trend
 ```
 
 ## Unit

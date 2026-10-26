@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blast Fragmentation Index** (BFI) in t
 - **Canonical id:** `dea:metric-blast-fragmentation-index`
 - **Name:** Blast Fragmentation Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFI
 
@@ -18,7 +18,7 @@ Blast Fragmentation Index (BFI) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Fragment Size Distribution Match to Target
+BFI = Fragment Size Distribution Match to Target
 ```
 
 ## Unit

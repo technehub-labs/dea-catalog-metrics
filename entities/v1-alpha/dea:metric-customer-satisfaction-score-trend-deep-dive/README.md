@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction Score Trend (Dee
 - **Canonical id:** `dea:metric-customer-satisfaction-score-trend-deep-dive`
 - **Name:** Customer Satisfaction Score Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSATT-D
 
@@ -22,7 +22,7 @@ Measures the direction of customer satisfaction over time. The trend is more dia
 ## Formula
 
 ```
-Change in CSAT between Periods
+CSATT-D = Change in CSAT between Periods
 ```
 
 ## Unit

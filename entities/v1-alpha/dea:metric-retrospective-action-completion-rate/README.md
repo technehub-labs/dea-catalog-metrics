@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retrospective Action Completion Rate**
 - **Canonical id:** `dea:metric-retrospective-action-completion-rate`
 - **Name:** Retrospective Action Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RACR-AG
 
@@ -18,7 +18,7 @@ A Agile Delivery & Team Effectiveness indicator, Retrospective Action Completion
 ## Formula
 
 ```
-Retro Actions Closed by Next Retrospective / Actions
+RACR-AG = Retro Actions Closed by Next Retrospective / Actions
 ```
 
 ## Unit

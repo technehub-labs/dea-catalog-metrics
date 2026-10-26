@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Coverage - Cascading Ratio** (OKRC
 - **Canonical id:** `dea:metric-okr-coverage-cascading-ratio`
 - **Name:** OKR Coverage - Cascading Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OKRCR
 
@@ -22,7 +22,7 @@ Measures how far objectives cascade from enterprise level through functions to t
 ## Formula
 
 ```
-Departmental OKRs Linked to Enterprise Objectives / Objectives
+OKRCR = Departmental OKRs Linked to Enterprise Objectives / Objectives
 ```
 
 ## Unit

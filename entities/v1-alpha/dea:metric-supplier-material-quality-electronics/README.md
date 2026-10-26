@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Material Quality (Electronics
 - **Canonical id:** `dea:metric-supplier-material-quality-electronics`
 - **Name:** Supplier Material Quality (Electronics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMQ
 
@@ -22,7 +22,7 @@ Measures incoming material quality from electronics suppliers. It matters becaus
 ## Formula
 
 ```
-Incoming Lots Meeting Specification / Lots Received
+SMQ = Incoming Lots Meeting Specification / Lots Received
 ```
 
 ## Unit

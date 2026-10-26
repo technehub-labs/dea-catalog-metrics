@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guaranteed Service Level Payments** (G
 - **Canonical id:** `dea:metric-guaranteed-service-level-payments`
 - **Name:** Guaranteed Service Level Payments
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSLP
 
@@ -22,7 +22,7 @@ Measures the value of penalty payments made for missing contracted service level
 ## Formula
 
 ```
-Service Standard Payments Issued / Customers
+GSLP = Service Standard Payments Issued / Customers
 ```
 
 ## Unit

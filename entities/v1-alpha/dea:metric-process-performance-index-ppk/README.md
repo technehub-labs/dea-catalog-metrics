@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Performance Index (Ppk)** (PPK
 - **Canonical id:** `dea:metric-process-performance-index-ppk`
 - **Name:** Process Performance Index (Ppk)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPKS
 
@@ -18,7 +18,7 @@ Process Performance Index (Ppk) (PPKS) measures the quality of outputs and outco
 ## Formula
 
 ```
-Min Distance of Mean to Spec Limit / (3 x Total Std Dev)
+PPKS = Min Distance of Mean to Spec Limit / (3 x Total Std Dev)
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threshold Alert Rate** (THAR) in the O
 - **Canonical id:** `dea:metric-threshold-alert-rate`
 - **Name:** Threshold Alert Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THAR
 
@@ -18,7 +18,7 @@ Threshold Alert Rate (THAR) captures how efficiently resources are converted int
 ## Formula
 
 ```
-Scored Cases Requiring Manual Review at Threshold / Cases
+THAR = Scored Cases Requiring Manual Review at Threshold / Cases
 ```
 
 ## Unit

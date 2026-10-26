@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned Maintenance Window Compliance*
 - **Canonical id:** `dea:metric-planned-maintenance-window-compliance`
 - **Name:** Planned Maintenance Window Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMWC
 
@@ -18,7 +18,7 @@ A Telecom Network Operations (Deep Dive) indicator, Planned Maintenance Window C
 ## Formula
 
 ```
-Maintenance Completed in Window / Scheduled
+PMWC = Maintenance Completed in Window / Scheduled
 ```
 
 ## Unit

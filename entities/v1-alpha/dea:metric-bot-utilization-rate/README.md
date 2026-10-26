@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bot Utilization Rate** (BUR) in the Op
 - **Canonical id:** `dea:metric-bot-utilization-rate`
 - **Name:** Bot Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BUR
 
@@ -22,7 +22,7 @@ Measures the share of deployed software robots actively running at expected volu
 ## Formula
 
 ```
-Bot Productive Hours / Bot Licensed Hours
+BUR = Bot Productive Hours / Bot Licensed Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Significant Deficiency Closure Rate** 
 - **Canonical id:** `dea:metric-significant-deficiency-closure-rate`
 - **Name:** Significant Deficiency Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDCR
 
@@ -22,7 +22,7 @@ Measures how promptly identified significant deficiencies are remediated and re-
 ## Formula
 
 ```
-Significant Deficiencies Remediated by Commit Date / Deficiencies
+SDCR = Significant Deficiencies Remediated by Commit Date / Deficiencies
 ```
 
 ## Unit

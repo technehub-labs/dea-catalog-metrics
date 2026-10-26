@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Buffer Days** (CBD) in the OpenDE
 - **Canonical id:** `dea:metric-cash-buffer-days`
 - **Name:** Cash Buffer Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBD
 
@@ -22,7 +22,7 @@ The number of days the organization could operate on current liquidity with no i
 ## Formula
 
 ```
-Cash and Liquid Reserves / Average Daily Cash Outflow
+CBD = Cash and Liquid Reserves / Average Daily Cash Outflow
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Error** (TE) in the OpenDEAM 
 - **Canonical id:** `dea:metric-tracking-error`
 - **Name:** Tracking Error
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TE
 
@@ -22,7 +22,7 @@ Tracking error is the annualized standard deviation of a portfolio's return rela
 ## Formula
 
 ```
-Standard Deviation of Portfolio Return minus Benchmark Return
+TE = Standard Deviation of Portfolio Return minus Benchmark Return
 ```
 
 ## Unit

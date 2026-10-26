@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Review Cadence Compliance** (BRCC)
 - **Canonical id:** `dea:metric-bsc-review-cadence-compliance`
 - **Name:** BSC Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRCC
 
@@ -18,7 +18,7 @@ Within Balanced Scorecard Implementation & Review, BSC Review Cadence Compliance
 ## Formula
 
 ```
-Reviews Held per Calendar / Reviews Scheduled
+BRCC = Reviews Held per Calendar / Reviews Scheduled
 ```
 
 ## Unit

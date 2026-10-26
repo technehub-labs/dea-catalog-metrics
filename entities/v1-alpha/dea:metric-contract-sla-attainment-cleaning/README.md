@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract SLA Attainment (Cleaning)** (
 - **Canonical id:** `dea:metric-contract-sla-attainment-cleaning`
 - **Name:** Contract SLA Attainment (Cleaning)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSLA-C
 
@@ -18,7 +18,7 @@ Contract SLA Attainment (Cleaning) (CSLA-C) measures conformance to standards, p
 ## Formula
 
 ```
-SLAs Met / SLAs Measured
+CSLA-C = SLAs Met / SLAs Measured
 ```
 
 ## Unit

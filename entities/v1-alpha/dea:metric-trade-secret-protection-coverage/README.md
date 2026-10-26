@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Secret Protection Coverage** (TS
 - **Canonical id:** `dea:metric-trade-secret-protection-coverage`
 - **Name:** Trade Secret Protection Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSPC
 
@@ -22,7 +22,7 @@ Measures how completely trade-secret assets are identified and protected by reas
 ## Formula
 
 ```
-Trade Secrets under Documented Controls / Identified Trade Secrets
+TSPC = Trade Secrets under Documented Controls / Identified Trade Secrets
 ```
 
 ## Unit

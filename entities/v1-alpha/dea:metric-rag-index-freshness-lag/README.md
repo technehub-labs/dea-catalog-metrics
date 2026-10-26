@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RAG Index Freshness Lag** (RAGIFL) in 
 - **Canonical id:** `dea:metric-rag-index-freshness-lag`
 - **Name:** RAG Index Freshness Lag
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAGIFL
 
@@ -18,7 +18,7 @@ RAG Index Freshness Lag (RAGIFL) measures the quality of outputs and outcomes in
 ## Formula
 
 ```
-Hours between Source Update and Index Refresh
+RAGIFL = Hours between Source Update and Index Refresh
 ```
 
 ## Unit

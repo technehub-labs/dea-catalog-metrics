@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Export Authorization Compliance Rate**
 - **Canonical id:** `dea:metric-export-authorization-compliance-rate`
 - **Name:** Export Authorization Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EACR
 
@@ -22,7 +22,7 @@ Measures adherence to export control obligations - licensing, classification, en
 ## Formula
 
 ```
-Transfers with Valid Authorization / Transfers
+EACR = Transfers with Valid Authorization / Transfers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Financing Portfolio Risk** (DFP
 - **Canonical id:** `dea:metric-device-financing-portfolio-risk`
 - **Name:** Device Financing Portfolio Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DFPR
 
@@ -22,7 +22,7 @@ Measures credit quality of the device installment and financing book - delinquen
 ## Formula
 
 ```
-Financing Balances Past Due / Total Financing Balances
+DFPR = Financing Balances Past Due / Total Financing Balances
 ```
 
 ## Unit

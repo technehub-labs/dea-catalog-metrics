@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Incident Rate (Physical)** (S
 - **Canonical id:** `dea:metric-security-incident-rate-physical`
 - **Name:** Security Incident Rate (Physical)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIRP
 
@@ -22,7 +22,7 @@ Security incident rate measures security-relevant events per site or per period 
 ## Formula
 
 ```
-Security Incidents per Site per Period
+SIRP = Security Incidents per Site per Period
 ```
 
 ## Unit

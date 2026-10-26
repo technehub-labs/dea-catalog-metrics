@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserved Instance Coverage** (RIC) in 
 - **Canonical id:** `dea:metric-reserved-instance-coverage`
 - **Name:** Reserved Instance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIC
 
@@ -22,7 +22,7 @@ Measures the share of cloud compute spend covered by committed-use discounts. It
 ## Formula
 
 ```
-Workloads on Reserved Capacity / Total Workloads
+RIC = Workloads on Reserved Capacity / Total Workloads
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cycle Time Percentile 85 - Delivery** 
 - **Canonical id:** `dea:metric-cycle-time-percentile-85-delivery`
 - **Name:** Cycle Time Percentile 85 - Delivery
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTP85-AG
 
@@ -18,7 +18,7 @@ Within Agile Delivery & Team Effectiveness, Cycle Time Percentile 85 - Delivery 
 ## Formula
 
 ```
-85th Percentile Item Cycle Time
+CTP85-AG = 85th Percentile Item Cycle Time
 ```
 
 ## Unit

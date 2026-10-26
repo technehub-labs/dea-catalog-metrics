@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adjuster Case Load (Deep Dive)** (ACL-
 - **Canonical id:** `dea:metric-adjuster-case-load-deep-dive`
 - **Name:** Adjuster Case Load (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACL-D
 
@@ -18,7 +18,7 @@ Within Insurance Claims Deep Dive, Adjuster Case Load (Deep Dive) (ACL-D) is use
 ## Formula
 
 ```
-Open Claims per Adjuster
+ACL-D = Open Claims per Adjuster
 ```
 
 ## Unit

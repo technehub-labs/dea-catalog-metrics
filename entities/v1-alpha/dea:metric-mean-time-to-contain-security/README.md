@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Contain - Security** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-contain-security`
 - **Name:** Mean Time to Contain - Security
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTC-S
 
@@ -22,7 +22,7 @@ Measures the average time from detection to an incident being contained and atta
 ## Formula
 
 ```
-Hours from Response to Containment
+MTTC-S = Hours from Response to Containment
 ```
 
 ## Unit

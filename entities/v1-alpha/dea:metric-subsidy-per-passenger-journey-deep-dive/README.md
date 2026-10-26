@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subsidy per Passenger Journey (Deep Di
 - **Canonical id:** `dea:metric-subsidy-per-passenger-journey-deep-dive`
 - **Name:** Subsidy per Passenger Journey (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPR-D
 
@@ -22,7 +22,7 @@ Measures public funding per rider carried. It is the value-for-money metric tran
 ## Formula
 
 ```
-Net Subsidy / Journeys
+SPR-D = Net Subsidy / Journeys
 ```
 
 ## Unit

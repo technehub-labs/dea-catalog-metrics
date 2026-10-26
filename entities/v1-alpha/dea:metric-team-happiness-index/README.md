@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Team Happiness Index** (THI-AG) in the
 - **Canonical id:** `dea:metric-team-happiness-index`
 - **Name:** Team Happiness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THI-AG
 
@@ -22,7 +22,7 @@ Measures delivery-team self-reported satisfaction and morale. Sustainable delive
 ## Formula
 
 ```
-Composite Team Sentiment Score
+THI-AG = Composite Team Sentiment Score
 ```
 
 ## Unit

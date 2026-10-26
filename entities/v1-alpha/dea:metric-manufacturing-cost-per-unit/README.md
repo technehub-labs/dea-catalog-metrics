@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manufacturing Cost per Unit** (MCU) in
 - **Canonical id:** `dea:metric-manufacturing-cost-per-unit`
 - **Name:** Manufacturing Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCU
 
@@ -22,7 +22,7 @@ Total manufacturing cost - materials, labor, and manufacturing overhead - divide
 ## Formula
 
 ```
-Total Manufacturing Cost / Units Produced
+MCU = Total Manufacturing Cost / Units Produced
 ```
 
 ## Unit

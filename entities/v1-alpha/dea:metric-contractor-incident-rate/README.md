@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contractor Incident Rate** (CIR) in th
 - **Canonical id:** `dea:metric-contractor-incident-rate`
 - **Name:** Contractor Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIR
 
@@ -22,7 +22,7 @@ Measures incidents involving contractors per contractor hours worked. It matters
 ## Formula
 
 ```
-(Contractor Recordable Incidents x 200,000) / Contractor Hours
+CIR = (Contractor Recordable Incidents x 200,000) / Contractor Hours
 ```
 
 ## Unit

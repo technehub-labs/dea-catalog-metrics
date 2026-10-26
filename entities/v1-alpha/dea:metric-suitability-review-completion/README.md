@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Suitability Review Completion** (SRC-W
 - **Canonical id:** `dea:metric-suitability-review-completion`
 - **Name:** Suitability Review Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRC-W
 
@@ -22,7 +22,7 @@ Suitability review completion measures adherence to the regulatory obligation to
 ## Formula
 
 ```
-Client Files Reviewed within Cycle / Client Files
+SRC-W = Client Files Reviewed within Cycle / Client Files
 ```
 
 ## Unit

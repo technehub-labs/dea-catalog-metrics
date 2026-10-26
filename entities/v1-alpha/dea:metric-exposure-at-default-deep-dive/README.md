@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exposure at Default (Deep Dive)** (EAD
 - **Canonical id:** `dea:metric-exposure-at-default-deep-dive`
 - **Name:** Exposure at Default (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EADDD
 
@@ -22,7 +22,7 @@ Measures the expected exposure at the moment of default, including future drawdo
 ## Formula
 
 ```
-Outstanding Balance plus Undrawn Commitment at Default
+EADDD = Outstanding Balance plus Undrawn Commitment at Default
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pulse Survey Trend Stability** (PSTS) 
 - **Canonical id:** `dea:metric-pulse-survey-trend-stability`
 - **Name:** Pulse Survey Trend Stability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSTS
 
@@ -18,7 +18,7 @@ Within Employee Engagement & Culture (Deep Dive), Pulse Survey Trend Stability (
 ## Formula
 
 ```
-Variance of Pulse Scores across Periods
+PSTS = Variance of Pulse Scores across Periods
 ```
 
 ## Unit

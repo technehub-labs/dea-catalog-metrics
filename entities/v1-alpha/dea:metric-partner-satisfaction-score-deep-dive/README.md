@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Satisfaction Score (Deep Dive)
 - **Canonical id:** `dea:metric-partner-satisfaction-score-deep-dive`
 - **Name:** Partner Satisfaction Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSSDD
 
@@ -22,7 +22,7 @@ Measures partner-rated satisfaction with the program, economics, and support. Pa
 ## Formula
 
 ```
-Annual Partner Survey Composite
+PSSDD = Annual Partner Survey Composite
 ```
 
 ## Unit

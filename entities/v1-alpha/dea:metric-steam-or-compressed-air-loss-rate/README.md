@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Steam or Compressed Air Loss Rate** (S
 - **Canonical id:** `dea:metric-steam-or-compressed-air-loss-rate`
 - **Name:** Steam or Compressed Air Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCAL
 
@@ -18,7 +18,7 @@ Steam or Compressed Air Loss Rate (SCAL) addresses how efficiently resources are
 ## Formula
 
 ```
-Leakage Losses / Generated Utility Volume
+SCAL = Leakage Losses / Generated Utility Volume
 ```
 
 ## Unit

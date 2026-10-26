@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Dispatch Reliability** (TDR)
 - **Canonical id:** `dea:metric-technical-dispatch-reliability`
 - **Name:** Technical Dispatch Reliability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDR
 
@@ -18,7 +18,7 @@ Technical Dispatch Reliability (TDR) captures the quality of outputs and outcome
 ## Formula
 
 ```
-Departures without Technical Delay or Cancellation / Total Departures
+TDR = Departures without Technical Delay or Cancellation / Total Departures
 ```
 
 ## Unit

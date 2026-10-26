@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Documentation Comment Coverage** (DCC-
 - **Canonical id:** `dea:metric-documentation-comment-coverage`
 - **Name:** Documentation Comment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCC-SD
 
@@ -18,7 +18,7 @@ Documentation Comment Coverage (DCC-SD) captures the quality of outputs and outc
 ## Formula
 
 ```
-Public APIs with Documentation / Public APIs
+DCC-SD = Public APIs with Documentation / Public APIs
 ```
 
 ## Unit

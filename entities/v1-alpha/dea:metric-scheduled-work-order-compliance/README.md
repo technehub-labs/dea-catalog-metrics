@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scheduled Work Order Compliance** (SWO
 - **Canonical id:** `dea:metric-scheduled-work-order-compliance`
 - **Name:** Scheduled Work Order Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SWOC-F
 
@@ -18,7 +18,7 @@ Scheduled Work Order Compliance (SWOC-F) captures conformance to standards, plan
 ## Formula
 
 ```
-PM Work Orders Completed on Schedule / Scheduled
+SWOC-F = PM Work Orders Completed on Schedule / Scheduled
 ```
 
 ## Unit

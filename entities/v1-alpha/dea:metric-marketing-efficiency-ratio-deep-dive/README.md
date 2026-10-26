@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Efficiency Ratio (Deep Dive)
 - **Canonical id:** `dea:metric-marketing-efficiency-ratio-deep-dive`
 - **Name:** Marketing Efficiency Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MERDD
 
@@ -22,7 +22,7 @@ Measures total marketing cost relative to new revenue generated. It is the blend
 ## Formula
 
 ```
-Total Revenue / Total Marketing Spend
+MERDD = Total Revenue / Total Marketing Spend
 ```
 
 ## Unit

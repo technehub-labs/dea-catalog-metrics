@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Succession Ready-now Ratio (Deep Dive)
 - **Canonical id:** `dea:metric-succession-ready-now-ratio-deep-dive`
 - **Name:** Succession Ready-now Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRNRD
 
@@ -22,7 +22,7 @@ Measures the share of critical roles with a successor ready to step in today. Re
 ## Formula
 
 ```
-Critical Roles with Ready-Now Successor / Critical Roles
+SRNRD = Critical Roles with Ready-Now Successor / Critical Roles
 ```
 
 ## Unit

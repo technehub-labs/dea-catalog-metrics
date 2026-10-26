@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capitalization Rate** (CAPRT) in the O
 - **Canonical id:** `dea:metric-capitalization-rate`
 - **Name:** Capitalization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAPRT
 
@@ -22,7 +22,7 @@ Measures property net operating income relative to its value. Cap rate is the ma
 ## Formula
 
 ```
-Net Operating Income / Property Value
+CAPRT = Net Operating Income / Property Value
 ```
 
 ## Unit

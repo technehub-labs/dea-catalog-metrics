@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment System Availability (Deep Dive
 - **Canonical id:** `dea:metric-payment-system-availability-deep-dive`
 - **Name:** Payment System Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSA-D
 
@@ -22,7 +22,7 @@ Measures uptime of payment processing across the authorization chain. Payments a
 ## Formula
 
 ```
-Available Minutes / Required Minutes
+PSA-D = Available Minutes / Required Minutes
 ```
 
 ## Unit

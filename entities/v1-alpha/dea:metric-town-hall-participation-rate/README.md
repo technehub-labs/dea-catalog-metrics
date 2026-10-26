@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Town Hall Participation Rate** (THPR) 
 - **Canonical id:** `dea:metric-town-hall-participation-rate`
 - **Name:** Town Hall Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THPR
 
@@ -18,7 +18,7 @@ Within Corporate Communications & PR, Town Hall Participation Rate (THPR) is use
 ## Formula
 
 ```
-Attendees / Eligible Employees
+THPR = Attendees / Eligible Employees
 ```
 
 ## Unit

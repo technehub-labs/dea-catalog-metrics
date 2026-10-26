@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Hours per Employee** (THPE) i
 - **Canonical id:** `dea:metric-training-hours-per-employee`
 - **Name:** Training Hours per Employee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THPE
 
@@ -22,7 +22,7 @@ Measures average training hours delivered per employee. It matters as the input 
 ## Formula
 
 ```
-Total Training Hours / Average Headcount
+THPE = Total Training Hours / Average Headcount
 ```
 
 ## Unit

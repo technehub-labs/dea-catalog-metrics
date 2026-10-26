@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instructor Class Coverage** (ICC) in t
 - **Canonical id:** `dea:metric-instructor-class-coverage`
 - **Name:** Instructor Class Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICC
 
@@ -18,7 +18,7 @@ Instructor Class Coverage (ICC) captures conformance to standards, plans, or obl
 ## Formula
 
 ```
-Classes Taught as Scheduled / Classes Scheduled
+ICC = Classes Taught as Scheduled / Classes Scheduled
 ```
 
 ## Unit

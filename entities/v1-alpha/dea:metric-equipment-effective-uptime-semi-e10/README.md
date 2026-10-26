@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Effective Uptime - SEMI E10*
 - **Canonical id:** `dea:metric-equipment-effective-uptime-semi-e10`
 - **Name:** Equipment Effective Uptime - SEMI E10
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EEU
 
@@ -18,7 +18,7 @@ Within Semiconductor Manufacturing (Deep Dive), Equipment Effective Uptime - SEM
 ## Formula
 
 ```
-Productive Time / Total Time
+EEU = Productive Time / Total Time
 ```
 
 ## Unit

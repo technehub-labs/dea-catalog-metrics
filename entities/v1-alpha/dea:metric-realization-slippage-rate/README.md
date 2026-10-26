@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Realization Slippage Rate** (RSR-P) in
 - **Canonical id:** `dea:metric-realization-slippage-rate`
 - **Name:** Realization Slippage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSR-P
 
@@ -22,7 +22,7 @@ Measures how far actual benefit realization lags the business case timeline. Sli
 ## Formula
 
 ```
-Benefits Realized Later than Plan / Planned Benefits
+RSR-P = Benefits Realized Later than Plan / Planned Benefits
 ```
 
 ## Unit

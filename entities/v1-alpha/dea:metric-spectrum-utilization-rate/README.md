@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spectrum Utilization Rate** (SUR-T) in
 - **Canonical id:** `dea:metric-spectrum-utilization-rate`
 - **Name:** Spectrum Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUR-T
 
@@ -22,7 +22,7 @@ Measures the efficiency of licensed spectrum use - traffic carried per unit of s
 ## Formula
 
 ```
-Used Capacity / Licensed Spectrum Capacity
+SUR-T = Used Capacity / Licensed Spectrum Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Charge-Off Rate** (COR) in the OpenDEA
 - **Canonical id:** `dea:metric-charge-off-rate`
 - **Name:** Charge-Off Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COR
 
@@ -22,7 +22,7 @@ The portion of the loan book written off as uncollectible over a period, net of 
 ## Formula
 
 ```
-Net Charge-Offs / Average Loans Outstanding
+COR = Net Charge-Offs / Average Loans Outstanding
 ```
 
 ## Unit

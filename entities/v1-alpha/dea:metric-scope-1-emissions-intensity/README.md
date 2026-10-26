@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope 1 Emissions Intensity** (S1EI) i
 - **Canonical id:** `dea:metric-scope-1-emissions-intensity`
 - **Name:** Scope 1 Emissions Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** S1EI
 
@@ -22,7 +22,7 @@ Measures direct emissions normalized by output. It is the primary-decarbonizatio
 ## Formula
 
 ```
-Scope 1 tCO2e / Revenue Unit
+S1EI = Scope 1 tCO2e / Revenue Unit
 ```
 
 ## Unit

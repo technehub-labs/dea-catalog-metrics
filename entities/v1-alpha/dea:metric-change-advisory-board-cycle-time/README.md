@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Advisory Board Cycle Time** (CA
 - **Canonical id:** `dea:metric-change-advisory-board-cycle-time`
 - **Name:** Change Advisory Board Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CABCT
 
@@ -18,7 +18,7 @@ Within Release Management & Environments, Change Advisory Board Cycle Time (CABC
 ## Formula
 
 ```
-Days from CAB Submission to Decision
+CABCT = Days from CAB Submission to Decision
 ```
 
 ## Unit

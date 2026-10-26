@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Fix Rate - Field (Deep Dive
 - **Canonical id:** `dea:metric-first-time-fix-rate-field-deep-dive`
 - **Name:** First-Time Fix Rate - Field (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTFR-D
 
@@ -22,7 +22,7 @@ Measures the share of field visits resolving the issue on the first appointment.
 ## Formula
 
 ```
-Issues Resolved on First Visit / Field Jobs
+FTFR-D = Issues Resolved on First Visit / Field Jobs
 ```
 
 ## Unit

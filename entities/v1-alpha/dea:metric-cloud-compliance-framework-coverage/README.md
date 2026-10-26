@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Compliance Framework Coverage** 
 - **Canonical id:** `dea:metric-cloud-compliance-framework-coverage`
 - **Name:** Cloud Compliance Framework Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCFC
 
@@ -22,7 +22,7 @@ Measures how completely cloud environments are assessed against required framewo
 ## Formula
 
 ```
-Framework Controls Monitored / Applicable Controls
+CCFC = Framework Controls Monitored / Applicable Controls
 ```
 
 ## Unit

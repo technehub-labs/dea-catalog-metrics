@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Value Sharing Accuracy** (AVS
 - **Canonical id:** `dea:metric-alliance-value-sharing-accuracy`
 - **Name:** Alliance Value Sharing Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVSA
 
@@ -18,7 +18,7 @@ Within Alliances & Partnerships Management, Alliance Value Sharing Accuracy (AVS
 ## Formula
 
 ```
-Revenue Splits Calculated Correctly / Splits
+AVSA = Revenue Splits Calculated Correctly / Splits
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dashboard Data Freshness Compliance** 
 - **Canonical id:** `dea:metric-dashboard-data-freshness-compliance`
 - **Name:** Dashboard Data Freshness Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDFC
 
@@ -18,7 +18,7 @@ Dashboard Data Freshness Compliance (DDFC) measures the quality of outputs and o
 ## Formula
 
 ```
-Dashards Meeting Freshness SLA / Dashboards
+DDFC = Dashards Meeting Freshness SLA / Dashboards
 ```
 
 ## Unit

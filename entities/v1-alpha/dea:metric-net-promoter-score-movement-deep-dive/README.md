@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score Movement (Deep Dive
 - **Canonical id:** `dea:metric-net-promoter-score-movement-deep-dive`
 - **Name:** Net Promoter Score Movement (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPSM-D
 
@@ -22,7 +22,7 @@ Measures the change in NPS rather than its level. Movement isolates the effect o
 ## Formula
 
 ```
-NPS Change between Periods
+NPSM-D = NPS Change between Periods
 ```
 
 ## Unit

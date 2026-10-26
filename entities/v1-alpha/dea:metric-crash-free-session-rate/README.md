@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crash-Free Session Rate** (CFSR) in th
 - **Canonical id:** `dea:metric-crash-free-session-rate`
 - **Name:** Crash-Free Session Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFSR
 
@@ -18,7 +18,7 @@ Within Gaming, Crash-Free Session Rate (CFSR) is used to gauge the quality of ou
 ## Formula
 
 ```
-Sessions without Crash / Total Sessions
+CFSR = Sessions without Crash / Total Sessions
 ```
 
 ## Unit

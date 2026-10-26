@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Battery Consumption Index** (ABCI)
 - **Canonical id:** `dea:metric-app-battery-consumption-index`
 - **Name:** App Battery Consumption Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABCI
 
@@ -18,7 +18,7 @@ App Battery Consumption Index (ABCI) captures the quality of outputs and outcome
 ## Formula
 
 ```
-Battery Drain per Hour of Active Use vs Category Benchmark
+ABCI = Battery Drain per Hour of Active Use vs Category Benchmark
 ```
 
 ## Unit

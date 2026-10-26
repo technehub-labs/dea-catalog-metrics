@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journalist Relationship Index** (JRI) 
 - **Canonical id:** `dea:metric-journalist-relationship-index`
 - **Name:** Journalist Relationship Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JRI
 
@@ -18,7 +18,7 @@ Journalist Relationship Index (JRI) addresses capability maturity or development
 ## Formula
 
 ```
-Composite Journalist Engagement Score
+JRI = Composite Journalist Engagement Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Charge Capture Accuracy** (CCA-H) in t
 - **Canonical id:** `dea:metric-charge-capture-accuracy`
 - **Name:** Charge Capture Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCA-H
 
@@ -22,7 +22,7 @@ Measures how completely billable services are captured and coded in patient reco
 ## Formula
 
 ```
-Charges Captured for Billable Services / Billable Services
+CCA-H = Charges Captured for Billable Services / Billable Services
 ```
 
 ## Unit

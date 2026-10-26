@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Regulatory Findings Rate** (RRF
 - **Canonical id:** `dea:metric-repeat-regulatory-findings-rate`
 - **Name:** Repeat Regulatory Findings Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRFR
 
@@ -22,7 +22,7 @@ Measures the share of regulatory findings that recur after prior remediation. It
 ## Formula
 
 ```
-Findings Recurring across Cycles / Findings
+RRFR = Findings Recurring across Cycles / Findings
 ```
 
 ## Unit

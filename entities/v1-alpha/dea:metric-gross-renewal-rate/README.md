@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Renewal Rate** (GRR-S) in the Op
 - **Canonical id:** `dea:metric-gross-renewal-rate`
 - **Name:** Gross Renewal Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GRR-S
 
@@ -22,7 +22,7 @@ The share of up-for-renewal recurring revenue that renewed, excluding expansion 
 ## Formula
 
 ```
-Renewed Contracts / Contracts Up for Renewal
+GRR-S = Renewed Contracts / Contracts Up for Renewal
 ```
 
 ## Unit

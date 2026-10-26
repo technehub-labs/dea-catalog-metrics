@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Page Printed** (CPP) in the O
 - **Canonical id:** `dea:metric-cost-per-page-printed`
 - **Name:** Cost per Page Printed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPP
 
@@ -22,7 +22,7 @@ Measures total cost per page across production printing. It matters because per-
 ## Formula
 
 ```
-Total Production Cost / Pages Printed
+CPP = Total Production Cost / Pages Printed
 ```
 
 ## Unit

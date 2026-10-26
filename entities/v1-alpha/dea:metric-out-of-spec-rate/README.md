@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Spec Rate** (OSPR) in the OpenD
 - **Canonical id:** `dea:metric-out-of-spec-rate`
 - **Name:** Out-of-Spec Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSPR
 
@@ -18,7 +18,7 @@ Out-of-Spec Rate (OSPR) measures the quality of outputs and outcomes in the Proc
 ## Formula
 
 ```
-Units Outside Specification / Units Produced
+OSPR = Units Outside Specification / Units Produced
 ```
 
 ## Unit

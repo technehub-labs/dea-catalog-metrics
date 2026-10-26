@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Succession Plan Coverage** (SPC) in th
 - **Canonical id:** `dea:metric-succession-plan-coverage`
 - **Name:** Succession Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPC
 
@@ -22,7 +22,7 @@ The share of critical roles with a named, development-tracked successor - the co
 ## Formula
 
 ```
-Critical Roles with Ready Successors / Critical Roles
+SPC = Critical Roles with Ready Successors / Critical Roles
 ```
 
 ## Unit

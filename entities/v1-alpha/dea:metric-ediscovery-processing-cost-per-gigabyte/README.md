@@ -7,7 +7,7 @@ Candidate Performance Metric record for **eDiscovery Processing Cost per Gigabyt
 - **Canonical id:** `dea:metric-ediscovery-processing-cost-per-gigabyte`
 - **Name:** eDiscovery Processing Cost per Gigabyte
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDPC
 
@@ -18,7 +18,7 @@ eDiscovery Processing Cost per Gigabyte (EDPC) addresses how efficiently resourc
 ## Formula
 
 ```
-eDiscovery Costs / Processed Data Volume
+EDPC = eDiscovery Costs / Processed Data Volume
 ```
 
 ## Unit

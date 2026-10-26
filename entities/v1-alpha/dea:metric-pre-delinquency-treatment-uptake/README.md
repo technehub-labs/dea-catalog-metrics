@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Delinquency Treatment Uptake** (PD
 - **Canonical id:** `dea:metric-pre-delinquency-treatment-uptake`
 - **Name:** Pre-Delinquency Treatment Uptake
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDTU
 
@@ -18,7 +18,7 @@ Pre-Delinquency Treatment Uptake (PDTU) captures exposure to adverse outcomes fo
 ## Formula
 
 ```
-At-Risk Customers Accepting Treatment / Offered
+PDTU = At-Risk Customers Accepting Treatment / Offered
 ```
 
 ## Unit

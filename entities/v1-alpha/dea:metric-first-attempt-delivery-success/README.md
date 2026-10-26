@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Attempt Delivery Success** (FADS
 - **Canonical id:** `dea:metric-first-attempt-delivery-success`
 - **Name:** First-Attempt Delivery Success
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FADS
 
@@ -18,7 +18,7 @@ Within Postal & Courier, First-Attempt Delivery Success (FADS) is used to gauge 
 ## Formula
 
 ```
-Items Delivered on First Attempt / Delivery Attempts
+FADS = Items Delivered on First Attempt / Delivery Attempts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Broadband User** (
 - **Canonical id:** `dea:metric-average-revenue-per-broadband-user`
 - **Name:** Average Revenue per Broadband User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPBU
 
@@ -22,7 +22,7 @@ Broadband revenue per broadband subscriber - the ARPU refinement for the fixed-a
 ## Formula
 
 ```
-Broadband Revenue / Broadband Subscribers
+ARPBU = Broadband Revenue / Broadband Subscribers
 ```
 
 ## Unit

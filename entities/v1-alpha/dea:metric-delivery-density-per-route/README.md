@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delivery Density per Route** (DDPR) in
 - **Canonical id:** `dea:metric-delivery-density-per-route`
 - **Name:** Delivery Density per Route
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDPR
 
@@ -18,7 +18,7 @@ Within Parcel & Last-Mile Logistics (Deep Dive), Delivery Density per Route (DDP
 ## Formula
 
 ```
-Stops / Route
+DDPR = Stops / Route
 ```
 
 ## Unit

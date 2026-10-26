@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Review Completion Rate** (
 - **Canonical id:** `dea:metric-performance-review-completion-rate`
 - **Name:** Performance Review Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCR
 
@@ -18,7 +18,7 @@ Performance Review Completion Rate (PRCR) captures conformance to standards, pla
 ## Formula
 
 ```
-Completed Reviews / Required Reviews
+PRCR = Completed Reviews / Required Reviews
 ```
 
 ## Unit

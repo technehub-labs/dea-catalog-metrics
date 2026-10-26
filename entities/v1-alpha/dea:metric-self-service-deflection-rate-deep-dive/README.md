@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Deflection Rate (Deep Div
 - **Canonical id:** `dea:metric-self-service-deflection-rate-deep-dive`
 - **Name:** Self-Service Deflection Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSDRDD
 
@@ -18,7 +18,7 @@ Self-Service Deflection Rate (Deep Dive) (SSDRDD) measures how efficiently resou
 ## Formula
 
 ```
-Contacts Deflected by Self-Service / Total Demand
+SSDRDD = Contacts Deflected by Self-Service / Total Demand
 ```
 
 ## Unit

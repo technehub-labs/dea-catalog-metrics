@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Season Capacity Flex Ratio** (PSC
 - **Canonical id:** `dea:metric-peak-season-capacity-flex-ratio`
 - **Name:** Peak Season Capacity Flex Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSCF
 
@@ -22,7 +22,7 @@ Measures peak-to-average capacity and the flex capability (temporary drivers, re
 ## Formula
 
 ```
-Peak Volume Handled / Baseline Capacity
+PSCF = Peak Volume Handled / Baseline Capacity
 ```
 
 ## Unit

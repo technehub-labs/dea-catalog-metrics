@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha Generation Consistency** (AGC-W)
 - **Canonical id:** `dea:metric-alpha-generation-consistency`
 - **Name:** Alpha Generation Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AGC-W
 
@@ -22,7 +22,7 @@ Measures the persistence of risk-adjusted excess returns across periods. Consist
 ## Formula
 
 ```
-Periods with Positive Alpha / Periods
+AGC-W = Periods with Positive Alpha / Periods
 ```
 
 ## Unit

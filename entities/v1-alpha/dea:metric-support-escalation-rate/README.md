@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Support Escalation Rate** (SER-S) in t
 - **Canonical id:** `dea:metric-support-escalation-rate`
 - **Name:** Support Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SER-S
 
@@ -18,7 +18,7 @@ Support Escalation Rate (SER-S) addresses exposure to adverse outcomes and is a 
 ## Formula
 
 ```
-Escalated Tickets / Total Tickets
+SER-S = Escalated Tickets / Total Tickets
 ```
 
 ## Unit

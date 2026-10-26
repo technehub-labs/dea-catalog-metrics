@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Digital Preference Share** (C
 - **Canonical id:** `dea:metric-customer-digital-preference-share`
 - **Name:** Customer Digital Preference Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDPS
 
@@ -22,7 +22,7 @@ Measures the share of customer interactions or transactions customers choose to 
 ## Formula
 
 ```
-Customers Choosing Digital Channel for Key Journey / Customers
+CDPS = Customers Choosing Digital Channel for Key Journey / Customers
 ```
 
 ## Unit

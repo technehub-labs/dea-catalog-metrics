@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expansion Revenue Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-expansion-revenue-rate-deep-dive`
 - **Name:** Expansion Revenue Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EXPRD
 
@@ -22,7 +22,7 @@ Measures revenue growth from existing customers (upsell, cross-sell, usage). Exp
 ## Formula
 
 ```
-Expansion MRR / Total Prior MRR
+EXPRD = Expansion MRR / Total Prior MRR
 ```
 
 ## Unit

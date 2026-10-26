@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planogram Compliance Rate** (PGCR) in 
 - **Canonical id:** `dea:metric-planogram-compliance-rate`
 - **Name:** Planogram Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PGCR
 
@@ -18,7 +18,7 @@ Planogram Compliance Rate (PGCR) measures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Shelves Matching Planogram on Audit / Audited
+PGCR = Shelves Matching Planogram on Audit / Audited
 ```
 
 ## Unit

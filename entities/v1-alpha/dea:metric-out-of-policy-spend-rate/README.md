@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Policy Spend Rate** (OPSR) in t
 - **Canonical id:** `dea:metric-out-of-policy-spend-rate`
 - **Name:** Out-of-Policy Spend Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPSR
 
@@ -22,7 +22,7 @@ Measures travel spend outside policy channels and limits. It matters because lea
 ## Formula
 
 ```
-Out-of-Policy Travel Spend / Total Travel Spend
+OPSR = Out-of-Policy Travel Spend / Total Travel Spend
 ```
 
 ## Unit

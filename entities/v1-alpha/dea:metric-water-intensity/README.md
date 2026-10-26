@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Intensity** (WI2) in the OpenDEA
 - **Canonical id:** `dea:metric-water-intensity`
 - **Name:** Water Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WI2
 
@@ -22,7 +22,7 @@ Measures water consumed per unit of output. It matters because water stress is a
 ## Formula
 
 ```
-Water Withdrawn / Unit of Output
+WI2 = Water Withdrawn / Unit of Output
 ```
 
 ## Unit

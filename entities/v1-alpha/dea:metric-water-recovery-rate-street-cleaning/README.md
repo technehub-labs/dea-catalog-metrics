@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recovery Rate (Street Cleaning)*
 - **Canonical id:** `dea:metric-water-recovery-rate-street-cleaning`
 - **Name:** Water Recovery Rate (Street Cleaning)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRR-S2
 
@@ -18,7 +18,7 @@ Water Recovery Rate (Street Cleaning) (WRR-S2) measures environmental and social
 ## Formula
 
 ```
-Recovered Wastewater / Water Used
+WRR-S2 = Recovered Wastewater / Water Used
 ```
 
 ## Unit

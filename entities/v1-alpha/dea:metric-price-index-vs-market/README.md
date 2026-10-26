@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Index vs Market** (PIM) in the O
 - **Canonical id:** `dea:metric-price-index-vs-market`
 - **Name:** Price Index vs Market
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIM
 
@@ -22,7 +22,7 @@ Measures the firm's price position relative to a market basket of competitors. I
 ## Formula
 
 ```
-Average Selling Price / Market Average Price
+PIM = Average Selling Price / Market Average Price
 ```
 
 ## Unit

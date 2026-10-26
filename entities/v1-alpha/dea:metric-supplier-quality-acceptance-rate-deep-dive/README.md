@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Quality Acceptance Rate (Deep
 - **Canonical id:** `dea:metric-supplier-quality-acceptance-rate-deep-dive`
 - **Name:** Supplier Quality Acceptance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQAR
 
@@ -18,7 +18,7 @@ Supplier Quality Acceptance Rate (Deep Dive) (SQAR) addresses the quality of out
 ## Formula
 
 ```
-Receipts Accepted without Rejection / Receipts
+SQAR = Receipts Accepted without Rejection / Receipts
 ```
 
 ## Unit

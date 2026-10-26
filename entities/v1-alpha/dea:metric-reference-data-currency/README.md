@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reference Data Currency** (REFDC) in t
 - **Canonical id:** `dea:metric-reference-data-currency`
 - **Name:** Reference Data Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REFDC
 
@@ -18,7 +18,7 @@ A Data Quality Management indicator, Reference Data Currency (REFDC) quantifies 
 ## Formula
 
 ```
-Reference Sets within Refresh Cycle / Reference Sets
+REFDC = Reference Sets within Refresh Cycle / Reference Sets
 ```
 
 ## Unit

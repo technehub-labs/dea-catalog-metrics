@@ -7,7 +7,7 @@ Candidate Performance Metric record for **League Table Rank** (LTR) in the OpenD
 - **Canonical id:** `dea:metric-league-table-rank`
 - **Name:** League Table Rank
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTR
 
@@ -22,7 +22,7 @@ League table rank measures a bank's position in deal-volume or fee rankings (M&A
 ## Formula
 
 ```
-Rank in Deal Volume or Fee League Tables
+LTR = Rank in Deal Volume or Fee League Tables
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cargo Load Factor** (CLF-AT) in the Op
 - **Canonical id:** `dea:metric-cargo-load-factor`
 - **Name:** Cargo Load Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLF-AT
 
@@ -22,7 +22,7 @@ Measures the utilization of available cargo capacity. Cargo contribution is the 
 ## Formula
 
 ```
-Cargo Tonne-Kilometers Carried / Available Tonne-Kilometers
+CLF-AT = Cargo Tonne-Kilometers Carried / Available Tonne-Kilometers
 ```
 
 ## Unit

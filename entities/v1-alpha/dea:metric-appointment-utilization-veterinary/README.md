@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment Utilization (Veterinary)**
 - **Canonical id:** `dea:metric-appointment-utilization-veterinary`
 - **Name:** Appointment Utilization (Veterinary)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUV
 
@@ -18,7 +18,7 @@ A Veterinary & Animal Health indicator, Appointment Utilization (Veterinary) (AU
 ## Formula
 
 ```
-Booked Slots / Available Slots
+AUV = Booked Slots / Available Slots
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Satisfaction Index (Deep Di
 - **Canonical id:** `dea:metric-franchisee-satisfaction-index-deep-dive`
 - **Name:** Franchisee Satisfaction Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSI-D
 
@@ -22,7 +22,7 @@ Measures franchisee sentiment on support, economics, and system direction. Franc
 ## Formula
 
 ```
-Franchisee Survey Composite Score
+FSI-D = Franchisee Survey Composite Score
 ```
 
 ## Unit

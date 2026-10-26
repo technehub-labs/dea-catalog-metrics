@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Data Element Governance Cover
 - **Canonical id:** `dea:metric-critical-data-element-governance-coverage`
 - **Name:** Critical Data Element Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDEGC
 
@@ -22,7 +22,7 @@ Measures how completely the elements that decisions and reporting depend on are 
 ## Formula
 
 ```
-Critical Data Elements with Defined Standard / CDEs
+CDEGC = Critical Data Elements with Defined Standard / CDEs
 ```
 
 ## Unit

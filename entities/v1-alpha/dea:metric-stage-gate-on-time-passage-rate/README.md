@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage Gate On-Time Passage Rate** (SGO
 - **Canonical id:** `dea:metric-stage-gate-on-time-passage-rate`
 - **Name:** Stage Gate On-Time Passage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGOTP
 
@@ -18,7 +18,7 @@ A PMO & Portfolio Governance indicator, Stage Gate On-Time Passage Rate (SGOTP) 
 ## Formula
 
 ```
-Initiatives Passing Gates on Schedule / Gate Reviews
+SGOTP = Initiatives Passing Gates on Schedule / Gate Reviews
 ```
 
 ## Unit

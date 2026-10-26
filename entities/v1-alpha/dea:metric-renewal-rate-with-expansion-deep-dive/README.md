@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewal Rate with Expansion (Deep Dive
 - **Canonical id:** `dea:metric-renewal-rate-with-expansion-deep-dive`
 - **Name:** Renewal Rate with Expansion (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RREWED
 
@@ -22,7 +22,7 @@ Measures the share of up-for-renewal revenue retained including expansion. Renew
 ## Formula
 
 ```
-Renewed including Uplift / Contract Value Up for Renewal
+RREWED = Renewed including Uplift / Contract Value Up for Renewal
 ```
 
 ## Unit

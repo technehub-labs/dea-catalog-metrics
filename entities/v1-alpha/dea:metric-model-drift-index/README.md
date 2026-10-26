@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Drift Index** (MDI) in the OpenD
 - **Canonical id:** `dea:metric-model-drift-index`
 - **Name:** Model Drift Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDI
 
@@ -22,7 +22,7 @@ Measures the degree to which a production model's inputs or performance have shi
 ## Formula
 
 ```
-Change in Feature or Prediction Distribution vs Training Baseline
+MDI = Change in Feature or Prediction Distribution vs Training Baseline
 ```
 
 ## Unit

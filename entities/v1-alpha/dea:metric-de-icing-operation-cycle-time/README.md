@@ -7,7 +7,7 @@ Candidate Performance Metric record for **De-Icing Operation Cycle Time** (DIO) 
 - **Canonical id:** `dea:metric-de-icing-operation-cycle-time`
 - **Name:** De-Icing Operation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIO
 
@@ -18,7 +18,7 @@ A Airport Operations indicator, De-Icing Operation Cycle Time (DIO) quantifies h
 ## Formula
 
 ```
-Minutes to De-Ice Aircraft
+DIO = Minutes to De-Ice Aircraft
 ```
 
 ## Unit

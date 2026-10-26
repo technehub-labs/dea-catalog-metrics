@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Follow-the-Sun Handoff Failure Rate** 
 - **Canonical id:** `dea:metric-follow-the-sun-handoff-failure-rate`
 - **Name:** Follow-the-Sun Handoff Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTSHFR
 
@@ -18,7 +18,7 @@ Within Network Operations Center (Deep Dive), Follow-the-Sun Handoff Failure Rat
 ## Formula
 
 ```
-Handoffs with Dropped Context / Handoffs
+FTSHFR = Handoffs with Dropped Context / Handoffs
 ```
 
 ## Unit

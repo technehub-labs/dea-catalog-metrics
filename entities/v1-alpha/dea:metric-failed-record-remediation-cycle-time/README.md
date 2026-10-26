@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failed Record Remediation Cycle Time**
 - **Canonical id:** `dea:metric-failed-record-remediation-cycle-time`
 - **Name:** Failed Record Remediation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRRCT
 
@@ -18,7 +18,7 @@ A Data Quality Management indicator, Failed Record Remediation Cycle Time (FRRCT
 ## Formula
 
 ```
-Days to Remediate Failed Records
+FRRCT = Days to Remediate Failed Records
 ```
 
 ## Unit

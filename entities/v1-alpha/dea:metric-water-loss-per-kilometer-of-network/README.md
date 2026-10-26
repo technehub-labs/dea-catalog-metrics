@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Loss per Kilometer of Network** 
 - **Canonical id:** `dea:metric-water-loss-per-kilometer-of-network`
 - **Name:** Water Loss per Kilometer of Network
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WLK
 
@@ -22,7 +22,7 @@ Measures non-revenue water lost per unit of distribution network. It matters bec
 ## Formula
 
 ```
-Volume of Water Lost / Network Length
+WLK = Volume of Water Lost / Network Length
 ```
 
 ## Unit

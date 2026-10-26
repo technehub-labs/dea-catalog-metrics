@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resistance Escalation Rate** (RER) in 
 - **Canonical id:** `dea:metric-resistance-escalation-rate`
 - **Name:** Resistance Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RER
 
@@ -22,7 +22,7 @@ Measures how often change resistance escalates beyond local management. It matte
 ## Formula
 
 ```
-Resistance Cases Escalated / Resistance Cases Identified
+RER = Resistance Cases Escalated / Resistance Cases Identified
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skill Gap Closure Rate (L&D)** (SGCR-L
 - **Canonical id:** `dea:metric-skill-gap-closure-rate-l-d`
 - **Name:** Skill Gap Closure Rate (L&D)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGCR-LD
 
@@ -22,7 +22,7 @@ Measures how quickly identified skill gaps are actually closed. Closure converts
 ## Formula
 
 ```
-Critical Skill Gaps Closed within Plan / Gaps
+SGCR-LD = Critical Skill Gaps Closed within Plan / Gaps
 ```
 
 ## Unit

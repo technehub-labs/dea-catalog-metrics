@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Coverage** (DGC) in th
 - **Canonical id:** `dea:metric-data-governance-coverage`
 - **Name:** Data Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DGC
 
@@ -22,7 +22,7 @@ The share of critical data assets with defined ownership, stewardship, classific
 ## Formula
 
 ```
-Data Domains with Steward and Standards / Total Domains
+DGC = Data Domains with Steward and Standards / Total Domains
 ```
 
 ## Unit

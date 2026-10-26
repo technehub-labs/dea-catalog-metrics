@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Restructuring Success Rate** (RSR-CC) 
 - **Canonical id:** `dea:metric-restructuring-success-rate`
 - **Name:** Restructuring Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSR-CC
 
@@ -22,7 +22,7 @@ Measures how many restructured or cured loans perform sustainably. Restructuring
 ## Formula
 
 ```
-Restructured Accounts Remaining Current / Restructured
+RSR-CC = Restructured Accounts Remaining Current / Restructured
 ```
 
 ## Unit

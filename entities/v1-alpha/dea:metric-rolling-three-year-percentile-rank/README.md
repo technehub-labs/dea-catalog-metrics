@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolling Three-Year Percentile Rank** (
 - **Canonical id:** `dea:metric-rolling-three-year-percentile-rank`
 - **Name:** Rolling Three-Year Percentile Rank
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTYPR
 
@@ -22,7 +22,7 @@ Measures the portfolio's rank versus peers over rolling three-year windows. Peer
 ## Formula
 
 ```
-Peer Percentile of Rolling 3-Year Return
+RTYPR = Peer Percentile of Rolling 3-Year Return
 ```
 
 ## Unit

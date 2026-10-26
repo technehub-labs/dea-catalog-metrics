@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Risk Register Coverage** (ARR
 - **Canonical id:** `dea:metric-alliance-risk-register-coverage`
 - **Name:** Alliance Risk Register Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARRC
 
@@ -22,7 +22,7 @@ Measures how completely alliance-specific risks are identified, owned, and revie
 ## Formula
 
 ```
-Alliances with Joint Risk Register / Strategic Alliances
+ARRC = Alliances with Joint Risk Register / Strategic Alliances
 ```
 
 ## Unit

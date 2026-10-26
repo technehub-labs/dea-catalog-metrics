@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim and Dispute Recovery Rate** (CDR
 - **Canonical id:** `dea:metric-claim-and-dispute-recovery-rate`
 - **Name:** Claim and Dispute Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDRR
 
@@ -22,7 +22,7 @@ Measures successful recovery of contract claims - variations, delays, disruption
 ## Formula
 
 ```
-Claims Recovered / Claims Filed
+CDRR = Claims Recovered / Claims Filed
 ```
 
 ## Unit

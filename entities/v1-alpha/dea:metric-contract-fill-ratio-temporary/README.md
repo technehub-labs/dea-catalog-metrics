@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Fill Ratio (Temporary)** (CFR
 - **Canonical id:** `dea:metric-contract-fill-ratio-temporary`
 - **Name:** Contract Fill Ratio (Temporary)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFRT
 
@@ -22,7 +22,7 @@ Measures the share of temporary staffing requisitions filled within the requeste
 ## Formula
 
 ```
-Contract Requirements Filled / Contract Openings
+CFRT = Contract Requirements Filled / Contract Openings
 ```
 
 ## Unit

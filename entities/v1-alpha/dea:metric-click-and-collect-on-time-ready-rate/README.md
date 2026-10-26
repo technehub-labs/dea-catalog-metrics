@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Click-and-Collect On-Time Ready Rate**
 - **Canonical id:** `dea:metric-click-and-collect-on-time-ready-rate`
 - **Name:** Click-and-Collect On-Time Ready Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCTR
 
@@ -18,7 +18,7 @@ Click-and-Collect On-Time Ready Rate (CCTR) addresses the quality of outputs and
 ## Formula
 
 ```
-Orders Ready by Promised Time / Orders
+CCTR = Orders Ready by Promised Time / Orders
 ```
 
 ## Unit

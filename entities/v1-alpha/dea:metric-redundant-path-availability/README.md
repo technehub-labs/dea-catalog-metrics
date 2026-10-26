@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Redundant Path Availability** (RPA-NW)
 - **Canonical id:** `dea:metric-redundant-path-availability`
 - **Name:** Redundant Path Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPA-NW
 
@@ -22,7 +22,7 @@ Measures whether failover paths for critical network segments are actually avail
 ## Formula
 
 ```
-Sites with Diverse Redundant Paths / Sites
+RPA-NW = Sites with Diverse Redundant Paths / Sites
 ```
 
 ## Unit

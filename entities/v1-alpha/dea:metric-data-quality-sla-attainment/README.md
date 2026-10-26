@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality SLA Attainment** (DQSLA) 
 - **Canonical id:** `dea:metric-data-quality-sla-attainment`
 - **Name:** Data Quality SLA Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQSLA
 
@@ -18,7 +18,7 @@ Data Quality SLA Attainment (DQSLA) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Datasets Meeting Quality SLA / Datasets Monitored
+DQSLA = Datasets Meeting Quality SLA / Datasets Monitored
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure-as-Code Coverage** (IaC
 - **Canonical id:** `dea:metric-infrastructure-as-code-coverage`
 - **Name:** Infrastructure-as-Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IaCC
 
@@ -22,7 +22,7 @@ Measures the proportion of infrastructure provisioned and managed through declar
 ## Formula
 
 ```
-Infrastructure Managed as Code / Total Infrastructure
+IaCC = Infrastructure Managed as Code / Total Infrastructure
 ```
 
 ## Unit

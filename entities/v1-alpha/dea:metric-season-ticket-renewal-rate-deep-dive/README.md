@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Season Ticket Renewal Rate (Deep Dive)
 - **Canonical id:** `dea:metric-season-ticket-renewal-rate-deep-dive`
 - **Name:** Season Ticket Renewal Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STRR-D
 
@@ -22,7 +22,7 @@ Measures the share of season-ticket holders renewing. It is the recurring-revenu
 ## Formula
 
 ```
-Renewed Season Seats / Eligible Season Seats
+STRR-D = Renewed Season Seats / Eligible Season Seats
 ```
 
 ## Unit

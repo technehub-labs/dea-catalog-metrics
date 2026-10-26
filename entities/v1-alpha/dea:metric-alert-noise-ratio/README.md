@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert Noise Ratio** (ALNR) in the Open
 - **Canonical id:** `dea:metric-alert-noise-ratio`
 - **Name:** Alert Noise Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALNR
 
@@ -18,7 +18,7 @@ A SRE & Observability Standard Measures indicator, Alert Noise Ratio (ALNR) quan
 ## Formula
 
 ```
-Non-Actionable Alerts / Total Alerts
+ALNR = Non-Actionable Alerts / Total Alerts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Booking Conversion Rate (Travel)** (BC
 - **Canonical id:** `dea:metric-booking-conversion-rate-travel`
 - **Name:** Booking Conversion Rate (Travel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCR-T
 
@@ -22,7 +22,7 @@ Measures the share of searches or quotes that become bookings. It matters becaus
 ## Formula
 
 ```
-Completed Bookings / Search Sessions
+BCR-T = Completed Bookings / Search Sessions
 ```
 
 ## Unit

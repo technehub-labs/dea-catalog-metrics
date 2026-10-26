@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution (Utilities)**
 - **Canonical id:** `dea:metric-first-contact-resolution-utilities`
 - **Name:** First Contact Resolution (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-U
 
@@ -18,7 +18,7 @@ A Utilities Customer Operations indicator, First Contact Resolution (Utilities) 
 ## Formula
 
 ```
-Requests Resolved on First Contact / Requests
+FCR-U = Requests Resolved on First Contact / Requests
 ```
 
 ## Unit

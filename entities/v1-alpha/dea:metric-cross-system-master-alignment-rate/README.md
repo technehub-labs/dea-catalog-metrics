@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-System Master Alignment Rate** (
 - **Canonical id:** `dea:metric-cross-system-master-alignment-rate`
 - **Name:** Cross-System Master Alignment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSMAR
 
@@ -18,7 +18,7 @@ A Master Data Management indicator, Cross-System Master Alignment Rate (CSMAR) q
 ## Formula
 
 ```
-Subscribing Systems Aligned with Master within Tolerance / Systems
+CSMAR = Subscribing Systems Aligned with Master within Tolerance / Systems
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Standard Clause Exception Rate** (
 - **Canonical id:** `dea:metric-non-standard-clause-exception-rate`
 - **Name:** Non-Standard Clause Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSCER
 
@@ -18,7 +18,7 @@ Non-Standard Clause Exception Rate (NSCER) captures exposure to adverse outcomes
 ## Formula
 
 ```
-Clause Deviations Approved / Contracts
+NSCER = Clause Deviations Approved / Contracts
 ```
 
 ## Unit

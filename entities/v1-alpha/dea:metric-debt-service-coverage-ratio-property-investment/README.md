@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Service Coverage Ratio (Property 
 - **Canonical id:** `dea:metric-debt-service-coverage-ratio-property-investment`
 - **Name:** Debt Service Coverage Ratio (Property Investment)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCRPR
 
@@ -22,7 +22,7 @@ Measures property cash flow available to service its debt. DSCR is the viability
 ## Formula
 
 ```
-Net Operating Income / Annual Debt Service
+DSCRPR = Net Operating Income / Annual Debt Service
 ```
 
 ## Unit

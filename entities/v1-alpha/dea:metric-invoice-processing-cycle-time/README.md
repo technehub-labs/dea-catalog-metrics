@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Invoice Processing Cycle Time** (IPCT)
 - **Canonical id:** `dea:metric-invoice-processing-cycle-time`
 - **Name:** Invoice Processing Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPCT
 
@@ -18,7 +18,7 @@ Invoice Processing Cycle Time (IPCT) measures how efficiently resources are conv
 ## Formula
 
 ```
-Days from Receipt to Posted
+IPCT = Days from Receipt to Posted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Audience Share (Deep Dive)** (
 - **Canonical id:** `dea:metric-average-audience-share-deep-dive`
 - **Name:** Average Audience Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAS-D
 
@@ -22,7 +22,7 @@ Measures the audience watching a channel or program as a share of the total view
 ## Formula
 
 ```
-Viewers of Channel / Total Viewers
+AAS-D = Viewers of Channel / Total Viewers
 ```
 
 ## Unit

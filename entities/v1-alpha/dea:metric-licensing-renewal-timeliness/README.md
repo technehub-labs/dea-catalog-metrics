@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Licensing Renewal Timeliness** (LRT) i
 - **Canonical id:** `dea:metric-licensing-renewal-timeliness`
 - **Name:** Licensing Renewal Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRT
 
@@ -18,7 +18,7 @@ Licensing Renewal Timeliness (LRT) addresses conformance to standards, plans, or
 ## Formula
 
 ```
-Licenses Renewed before Expiry / Licenses Due
+LRT = Licenses Renewed before Expiry / Licenses Due
 ```
 
 ## Unit

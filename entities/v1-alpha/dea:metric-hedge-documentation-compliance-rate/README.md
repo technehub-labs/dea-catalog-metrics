@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hedge Documentation Compliance Rate** 
 - **Canonical id:** `dea:metric-hedge-documentation-compliance-rate`
 - **Name:** Hedge Documentation Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HDCR-T
 
@@ -22,7 +22,7 @@ Measures whether derivative hedges carry complete, timely documentation as accou
 ## Formula
 
 ```
-Hedges Meeting Documentation Requirements / Hedges
+HDCR-T = Hedges Meeting Documentation Requirements / Hedges
 ```
 
 ## Unit

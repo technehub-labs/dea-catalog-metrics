@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Anti-Doping Test Compliance Rate** (AD
 - **Canonical id:** `dea:metric-anti-doping-test-compliance-rate`
 - **Name:** Anti-Doping Test Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADTC
 
@@ -22,7 +22,7 @@ Measures completion of required testing - no-notice availability, whereabouts ac
 ## Formula
 
 ```
-Tests Completed per Testing Plan / Planned
+ADTC = Tests Completed per Testing Plan / Planned
 ```
 
 ## Unit

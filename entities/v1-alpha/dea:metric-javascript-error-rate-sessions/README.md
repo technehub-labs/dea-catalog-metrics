@@ -7,7 +7,7 @@ Candidate Performance Metric record for **JavaScript Error Rate (Sessions)** (JS
 - **Canonical id:** `dea:metric-javascript-error-rate-sessions`
 - **Name:** JavaScript Error Rate (Sessions)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JSERR
 
@@ -18,7 +18,7 @@ JavaScript Error Rate (Sessions) (JSERR) measures the quality of outputs and out
 ## Formula
 
 ```
-Sessions with Console Error / Sessions
+JSERR = Sessions with Console Error / Sessions
 ```
 
 ## Unit

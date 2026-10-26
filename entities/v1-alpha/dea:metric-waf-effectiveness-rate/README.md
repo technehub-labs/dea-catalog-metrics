@@ -7,7 +7,7 @@ Candidate Performance Metric record for **WAF Effectiveness Rate** (WAFER) in th
 - **Canonical id:** `dea:metric-waf-effectiveness-rate`
 - **Name:** WAF Effectiveness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WAFER
 
@@ -18,7 +18,7 @@ WAF Effectiveness Rate (WAFER) addresses exposure to adverse outcomes and is a f
 ## Formula
 
 ```
-Attacks Blocked by WAF / Attack Attempts Detected
+WAFER = Attacks Blocked by WAF / Attack Attempts Detected
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Experience Score by Journey**
 - **Canonical id:** `dea:metric-employee-experience-score-by-journey`
 - **Name:** Employee Experience Score by Journey
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EXJB
 
@@ -22,7 +22,7 @@ Measures employee sentiment at specific journey moments - onboarding, promotion,
 ## Formula
 
 ```
-Average Satisfaction across Key Employee Journey Moments
+EXJB = Average Satisfaction across Key Employee Journey Moments
 ```
 
 ## Unit

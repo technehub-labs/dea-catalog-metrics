@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Tenancy Isolation Compliance** (
 - **Canonical id:** `dea:metric-multi-tenancy-isolation-compliance`
 - **Name:** Multi-Tenancy Isolation Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTIC-SA
 
@@ -22,7 +22,7 @@ Measures whether tenant data, compute, and access boundaries meet isolation stan
 ## Formula
 
 ```
-Isolation Tests Passed / Isolation Tests
+MTIC-SA = Isolation Tests Passed / Isolation Tests
 ```
 
 ## Unit

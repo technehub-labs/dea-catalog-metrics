@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Configuration Drift Rate (Network)** (
 - **Canonical id:** `dea:metric-configuration-drift-rate-network`
 - **Name:** Configuration Drift Rate (Network)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDRN
 
@@ -18,7 +18,7 @@ Within Network Change & Configuration Management, Configuration Drift Rate (Netw
 ## Formula
 
 ```
-Devices with Unapproved Config Drift / Devices
+CDRN = Devices with Unapproved Config Drift / Devices
 ```
 
 ## Unit

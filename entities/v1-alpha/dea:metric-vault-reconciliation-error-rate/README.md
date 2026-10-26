@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vault Reconciliation Error Rate** (VRE
 - **Canonical id:** `dea:metric-vault-reconciliation-error-rate`
 - **Name:** Vault Reconciliation Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRER
 
@@ -18,7 +18,7 @@ Vault Reconciliation Error Rate (VRER) captures the quality of outputs and outco
 ## Formula
 
 ```
-Vault Reconciliation Discrepancies / Reconciliations
+VRER = Vault Reconciliation Discrepancies / Reconciliations
 ```
 
 ## Unit

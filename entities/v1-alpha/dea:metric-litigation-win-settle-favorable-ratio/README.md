@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Litigation Win-Settle-Favorable Ratio*
 - **Canonical id:** `dea:metric-litigation-win-settle-favorable-ratio`
 - **Name:** Litigation Win-Settle-Favorable Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LWSF
 
@@ -22,7 +22,7 @@ Measures the share of resolved matters with favorable outcomes - wins at trial, 
 ## Formula
 
 ```
-Favorable Outcomes / Resolved Matters
+LWSF = Favorable Outcomes / Resolved Matters
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Undocumented API Discovery Rate** (UAD
 - **Canonical id:** `dea:metric-undocumented-api-discovery-rate`
 - **Name:** Undocumented API Discovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UADR
 
@@ -18,7 +18,7 @@ A API Lifecycle Management indicator, Undocumented API Discovery Rate (UADR) qua
 ## Formula
 
 ```
-Shadow Endpoints Discovered per Discovery Cycle
+UADR = Shadow Endpoints Discovered per Discovery Cycle
 ```
 
 ## Unit

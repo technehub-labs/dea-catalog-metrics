@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Management Data Completeness** (C
 - **Canonical id:** `dea:metric-case-management-data-completeness`
 - **Name:** Case Management Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMDC-SOC
 
@@ -18,7 +18,7 @@ Case Management Data Completeness (CMDC-SOC) captures the quality of outputs and
 ## Formula
 
 ```
-Incident Records with Required Fields / Records
+CMDC-SOC = Incident Records with Required Fields / Records
 ```
 
 ## Unit
