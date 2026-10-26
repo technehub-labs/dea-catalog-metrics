@@ -1,11 +1,11 @@
 id: dea:metric-customer-retention-rate
 name: Customer Retention Rate
 type: Metric
-version: 1.0.0
+description: The percentage of customers from a defined starting cohort that remain customers at the end
+  of the reporting period, excluding new acquisitions during the period. Higher values indicate greater
+  loyalty of the existing customer base.
+version: 1.0.1
 lifecycle_status: admitted
-status: admitted
-
-# CR-MET-002 binding 6-axis classification
 subject_concept: dea:subject-customer-base
 measurement_nature: numeric
 subject_classification:
@@ -21,24 +21,20 @@ directionality: higher_is_better
 management_significance:
 - managerial
 - executive
-measurement_nature_detail: >
-  Ratio expressed as a percentage; bounded by 0% (no customers retained)
-  and 100% (all customers retained). Higher values are better; bounded
-  optimum per CR-MET-005 §3.3.
+measurement_nature_detail: 'Ratio expressed as a percentage; bounded by 0% (no customers retained) and
+  100% (all customers retained). Higher values are better; bounded optimum per CR-MET-005 §3.3.
 
-# CR-MET-005 binding unit + formula
+  '
 unit_ref: dea:unit-ratio-percent
 precision: 2
 decimal_scale: 1
 rounding_rule: half_up
 null_value_semantics: excluded_from_aggregation
+calculation_definition: 'Customer Retention Rate = (E - N) / S * 100, where E = customers at end of period,
+  N = new customers acquired during the period, S = customers at start of period. Excludes new acquisitions;
+  measures loyalty of the existing cohort.
 
-calculation_definition: >
-  Customer Retention Rate = (E - N) / S * 100, where E = customers at end
-  of period, N = new customers acquired during the period, S = customers
-  at start of period. Excludes new acquisitions; measures loyalty of the
-  existing cohort.
-
+  '
 formula_definition:
   formula_id: dea:formula-customer-retention-rate
   expression: CRR = (E - N) / S * 100
@@ -69,14 +65,9 @@ formula_definition:
   - result <= 100
   - S > 0
   version: 1.0.0
-
 frequency: quarterly
-
-# CR-MET-009 dual-anchor (binding)
 measurable_entity_kind: dea:BusinessCapability
 reputability_tier: industry_standard
-
-# CR-MET-007 cross-domain applicability
 applicability:
   intended_subjects:
   - dea:BusinessCapability
@@ -84,19 +75,14 @@ applicability:
   - dea:Outcome
   excluded_subjects:
   - dea:ApplicationComponent
-
-# CR-MET-008 designation references (catalog-side)
 designations:
 - dea:designation-customer-retention-kpi-lagging
 - dea:designation-customer-retention-kri-leading
-
-# CR-MET-006 baseline + target + threshold references
 related_metrics:
 - metric_ref: dea:metric-customer-satisfaction
   relationship: leads_to
 - metric_ref: dea:metric-customer-acquisition-cost
   relationship: complements
-
 quality:
   validation_rules:
   - The reporting period MUST be a calendar quarter (Q1..Q4) or fiscal equivalent.
@@ -107,11 +93,13 @@ quality:
   measurement_evidence:
   - APQC Customer Relationship Management framework
   - Balanced Scorecard customer perspective
-
 metadata:
   established_by: CR-MET-009
-  established_at: "2026-10-18"
+  established_at: '2026-10-18'
   change_history:
   - cr: CR-MET-009
-    date: "2026-10-18"
+    date: '2026-10-18'
     change: Initial catalog admission (5-Metric pilot)
+  - cr: CR-MET-014
+    date: '2026-10-25'
+    change: Added required description field; removed undeclared duplicate status field

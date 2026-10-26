@@ -10,44 +10,62 @@ catalog:
   entities:
   - id: dea:metric-control-effectiveness-rate
     name: Control Effectiveness Rate
+    description: The ratio of effective control operations to total control operations,
+      expressed as a percentage. Effective is the count of control operations where
+      the control operated as designed; Total is the count of all control operations
+      evaluated. Higher values indicate greater control effectiveness.
     lifecycle_status: admitted
     subject_classification:
     - governance
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-control-effectiveness-rate/dea:metric-control-effectiveness-rate.yaml
-    last_modified: '2026-10-20'
+    last_modified: '2026-10-25'
   - id: dea:metric-customer-retention-rate
     name: Customer Retention Rate
+    description: The percentage of customers from a defined starting cohort that remain
+      customers at the end of the reporting period, excluding new acquisitions during
+      the period. Higher values indicate greater loyalty of the existing customer
+      base.
     lifecycle_status: admitted
     subject_classification:
     - customer
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-customer-retention-rate/dea:metric-customer-retention-rate.yaml
-    last_modified: '2026-10-20'
+    last_modified: '2026-10-25'
   - id: dea:metric-data-completeness
     name: Data Completeness
+    description: The ratio of populated records to expected records for a defined
+      data entity, expressed as a percentage. Expected is the total population of
+      records required by the data entity definition; Populated is the count of records
+      with non-null required attributes. Higher values indicate greater data completeness.
     lifecycle_status: admitted
     subject_classification:
     - information_architecture
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-data-completeness/dea:metric-data-completeness.yaml
-    last_modified: '2026-10-20'
+    last_modified: '2026-10-25'
   - id: dea:metric-mean-time-to-recovery
     name: Mean Time to Recovery
+    description: The arithmetic mean of recovery times across n incidents, expressed
+      in minutes. Recovery time is measured from incident-detection to service-restoration.
+      Lower values indicate faster recovery.
     lifecycle_status: admitted
     subject_classification:
     - technology_architecture
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-mean-time-to-recovery/dea:metric-mean-time-to-recovery.yaml
-    last_modified: '2026-10-20'
+    last_modified: '2026-10-25'
   - id: dea:metric-operating-margin
     name: Operating Margin
+    description: The ratio of operating income to revenue, expressed as a percentage.
+      Operating income excludes non-operating items (interest, taxes, extraordinary
+      items). Higher values indicate greater operational efficiency.
     lifecycle_status: admitted
     subject_classification:
     - financial
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-operating-margin/dea:metric-operating-margin.yaml
-    last_modified: '2026-10-20'
+    last_modified: '2026-10-25'
   cross_cutting:
     change_requests: change-requests/
     classifications: classifications/

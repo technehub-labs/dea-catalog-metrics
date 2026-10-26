@@ -100,7 +100,7 @@ def test_schema_supersets_dea_metamodel_metric_json():
     import json
     catalog = json.loads((BASE / "schemas" / "entity.schema.json").read_text())
     required = set(catalog.get("required", []))
-    for field in ["id", "name", "type", "version", "lifecycle_status",
+    for field in ["id", "name", "type", "description", "version", "lifecycle_status",
                   "subject_concept", "measurement_nature",
                   "subject_classification", "purpose_classification",
                   "orientation_classification", "scope_classification",
@@ -145,3 +145,41 @@ def test_foundations_doc_present():
     text = foundations.read_text()
     for section in ["Scope", "Classification model", "Dual-anchor model", "MECE coverage target", "Pilot composition"]:
         assert section in text, f"FOUNDATIONS.md must cover '{section}'"
+
+
+def _norm_ws(s: str) -> str:
+    return " ".join(s.split())
+
+
+def test_readme_definition_matches_description():
+    """CR-MET-014 D3: the record README 'Definition' section must match the
+    record's YAML description verbatim (whitespace-normalised), so the two
+    prose surfaces cannot diverge silently (board card #602)."""
+    import re
+    import yaml
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        m = yaml.safe_load(p.read_text())
+        desc = m.get("description")
+        assert desc, f"{m['id']}: missing required description (CR-MET-014)"
+        readme = (p.parent / "README.md").read_text()
+        match = re.search(r"##\s*\d+\.\s*Definition\s*\n+(.*?)(?=\n##|\Z)", readme, re.S)
+        assert match, f"{m['id']}: README has no 'Definition' section"
+        assert _norm_ws(match.group(1)) == _norm_ws(desc), (
+            f"{m['id']}: README Definition and YAML description diverge; "
+            "edit both together (CR-MET-014 D3)"
+        )
+
+
+def test_catalog_regeneration_is_idempotent():
+    """CR-MET-014 D6: regenerate_catalog.py must produce byte-identical output
+    on consecutive runs (board card #580). last_modified is derived from record
+    provenance, not the run date."""
+    before = (BASE / "CATALOG.yaml").read_bytes()
+    for _ in range(2):
+        result = subprocess.run(
+            ["python3", str(SCRIPTS / "regenerate_catalog.py")],
+            capture_output=True, text=True, cwd=str(BASE),
+        )
+        assert result.returncode == 0, f"regenerate_catalog.py failed: {result.stderr}"
+    after = (BASE / "CATALOG.yaml").read_bytes()
+    assert after == before, "CATALOG.yaml changed across regeneration runs (not idempotent)"

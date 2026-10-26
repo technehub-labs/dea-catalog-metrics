@@ -32,6 +32,10 @@ jobs:
           pip install pyyaml jsonschema pytest
       - name: Regenerate catalog
         run: python3 scripts/regenerate_catalog.py
+      - name: Verify CATALOG.yaml is current
+        # CR-MET-014 D6: the generator is idempotent, so a contributor who
+        # edits a record without regenerating fails here.
+        run: git diff --exit-code CATALOG.yaml
       - name: Gate 1 - check_metric_schema.py
         run: python3 scripts/check_metric_schema.py
       - name: Gate 2 - check_measurement_conformance.py
