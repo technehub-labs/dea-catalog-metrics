@@ -43,6 +43,13 @@ jobs:
       - name: Coverage report
         # A report, not a gate: it prints how the corpus is distributed.
         run: python3 scripts/report_coverage.py
+      - name: Verify the domain and sector reconciliation matches the corpus
+        # CR-MET-018: the reconciliation is generated from the corpus, so a
+        # hand-edited artefact, or a corpus change that nobody regenerated
+        # for, fails CI.
+        run: |
+          python3 scripts/reconcile_domain_sector.py
+          git diff --exit-code -- classifications/domain-reconciliation.yaml classifications/sector-reconciliation.yaml
       - name: Gate 1 - check_metric_schema.py
         run: python3 scripts/check_metric_schema.py
       - name: Gate 2 - check_measurement_conformance.py

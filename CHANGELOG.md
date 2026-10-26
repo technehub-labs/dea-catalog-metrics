@@ -16,6 +16,20 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   records are refreshed and bump to version 1.0.1 with a change-history
   entry; the 5 admitted records are unchanged. No record carries a flat or
   plural unit reference after the refresh.
+- CR-MET-018: the domain and sector reconciliation input for the Q16
+  enrichment slice. `scripts/reconcile_domain_sector.py` generates
+  `classifications/domain-reconciliation.yaml` (286 seeded domain values)
+  and `classifications/sector-reconciliation.yaml` (77 seeded sector
+  values) from the corpus, and CI checks that the committed artefacts match
+  it. Two findings, both derived from the data: the `domain` axis mixes
+  functional areas with sector-scoped variants of them, and the corpus
+  itself separates them (203 function values over 3338 records, 83
+  sector-variant values over 1085 records, 0 mixed); and every seeded
+  `sector` value names an INDUSTRY, so none maps to the metamodel's
+  organisation-type vocabulary (`OrganizationalUnit.ou_type` holds
+  structural forms, not industries). The ECF compound-domain mapping is
+  deliberately left unresolved: it needs the domain-grounding discipline
+  dea-metaframework owns. Nothing is renamed and no vocabulary is frozen.
 - CR-MET-016: seed ingestion and the 4428-record corpus. The
   candidate-metrics seed workbook is committed at
   `seeds/open-deam-candidate-metrics-seed.xlsx` (sha-256
