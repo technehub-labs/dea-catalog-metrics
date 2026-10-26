@@ -1,0 +1,52 @@
+id: dea:metric-water-intensity
+name: Water Intensity
+type: Metric
+description: Within Sustainability & ESG, Water Intensity (WI2) is used to gauge environmental and social
+  sustainability performance. It is computed as Water Withdrawn / Unit of Output, expressed in ratio (x:1
+  or x). It is applied across virtually every sector. It is reviewed at cadence by planning owners to
+  correct course before issues become strategic. Reduction is the goal, and sustained decreases indicate
+  successful intervention.
+abbreviation: WI2
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- sustainability
+purpose_classification:
+- sustainability
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Water Withdrawn / Unit of Output
+formula_definition:
+  formula_id: dea:formula-water-intensity
+  expression: Water Withdrawn / Unit of Output
+  inputs:
+  - name: Water Withdrawn
+  - name: Unit of Output
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 418
+    batch: '1'
+domain: sustainability_esg

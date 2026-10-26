@@ -1,0 +1,52 @@
+id: dea:metric-defect-escape-rate
+name: Defect Escape Rate
+type: Metric
+description: Defect Escape Rate (DER) addresses the quality of outputs and outcomes and is a fixture of
+  software engineering reporting. It is defined as Defects Found in Production / Total Defects Found;
+  the result is stated in percent (%). It is applied across virtually every sector. It bridges daily operations
+  and executive reporting, giving managers a lever to pull within a quarter. Reduction is the goal, and
+  sustained decreases indicate successful intervention.
+abbreviation: DER
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Defects Found in Production / Total Defects Found
+formula_definition:
+  formula_id: dea:formula-defect-escape-rate
+  expression: Defects Found in Production / Total Defects Found
+  inputs:
+  - name: Defects Found in Production
+  - name: Total Defects Found
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 286
+    batch: '1'
+domain: software_engineering

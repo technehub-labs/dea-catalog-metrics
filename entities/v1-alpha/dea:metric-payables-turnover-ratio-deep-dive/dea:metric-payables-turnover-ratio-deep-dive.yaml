@@ -1,0 +1,52 @@
+id: dea:metric-payables-turnover-ratio-deep-dive
+name: Payables Turnover Ratio (Deep Dive)
+type: Metric
+description: 'Payables Turnover Ratio (Deep Dive) (PTRDD) captures how efficiently resources are converted
+  into outputs for organizations tracking financial statement analysis ratios (deep dive). It is a working-level
+  control: thresholds trigger immediate operational response. It is defined as Cost of Sales / Average
+  Payables; the result is stated in ratio (x:1 or x). The objective is neither maximization nor minimization
+  but staying within an agreed operating band. Practitioners in nearly any industry can adopt it directly.'
+abbreviation: PTRDD
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Cost of Sales / Average Payables
+formula_definition:
+  formula_id: dea:formula-payables-turnover-ratio-deep-dive
+  expression: Cost of Sales / Average Payables
+  inputs:
+  - name: Cost of Sales
+  - name: Average Payables
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4026
+    batch: '9'
+domain: financial_statement_analysis_ratios_deep_dive

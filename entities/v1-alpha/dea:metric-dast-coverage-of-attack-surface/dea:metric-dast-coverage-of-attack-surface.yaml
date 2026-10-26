@@ -1,0 +1,52 @@
+id: dea:metric-dast-coverage-of-attack-surface
+name: DAST Coverage of Attack Surface
+type: Metric
+description: A DevSecOps & Application Security Engineering indicator, DAST Coverage of Attack Surface
+  (DASC-DV) quantifies exposure to adverse outcomes. It is defined as Applications Scanned Dynamically
+  / Applications in Production; the result is stated in percent (%). It is applied across virtually every
+  sector. Its trend is watched by senior leadership as an early signal of structural performance shifts.
+  It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: DASC-DV
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Applications Scanned Dynamically / Applications in Production
+formula_definition:
+  formula_id: dea:formula-dast-coverage-of-attack-surface
+  expression: Applications Scanned Dynamically / Applications in Production
+  inputs:
+  - name: Applications Scanned Dynamically
+  - name: Applications in Production
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2750
+    batch: '7'
+domain: devsecops_application_security_engineering

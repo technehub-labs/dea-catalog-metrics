@@ -1,0 +1,52 @@
+id: dea:metric-staffing-gap-ratio
+name: Staffing Gap Ratio
+type: Metric
+description: Staffing Gap Ratio (SGR-W) addresses the utilization or availability of capacity and is a
+  fixture of workforce planning & analytics reporting. It carries weight in boardroom and executive reviews,
+  where it anchors cross-organization trade-offs. The formula is (Required Staff - Actual Staff) / Required
+  Staff - reported in percent (%). The objective is neither maximization nor minimization but staying
+  within an agreed operating band. Practitioners in nearly any industry can adopt it directly.
+abbreviation: SGR-W
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: (Required Staff - Actual Staff) / Required Staff
+formula_definition:
+  formula_id: dea:formula-staffing-gap-ratio
+  expression: (Required Staff - Actual Staff) / Required Staff
+  inputs:
+  - name: Required Staff
+  - name: Actual Staff
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1451
+    batch: '5'
+domain: workforce_planning_analytics

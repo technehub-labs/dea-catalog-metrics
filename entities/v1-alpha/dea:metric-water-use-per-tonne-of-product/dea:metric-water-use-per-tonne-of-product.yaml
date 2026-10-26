@@ -1,0 +1,53 @@
+id: dea:metric-water-use-per-tonne-of-product
+name: Water Use per Tonne of Product
+type: Metric
+description: Water Use per Tonne of Product (WUTP) captures environmental and social sustainability performance
+  for organizations tracking food & beverage manufacturing. Its calculation is Water Consumed / Production
+  Tonnes, measured in ratio (x:1 or x). It originates from and is most used in Food & Beverage practice.
+  Its value drives prioritization and resource reallocation among competing initiatives. Reduction is
+  the goal, and sustained decreases indicate successful intervention.
+abbreviation: WUTP
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- sustainability
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Water Consumed / Production Tonnes
+formula_definition:
+  formula_id: dea:formula-water-use-per-tonne-of-product
+  expression: Water Consumed / Production Tonnes
+  inputs:
+  - name: Water Consumed
+  - name: Production Tonnes
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1806
+    batch: '6'
+domain: food_beverage_manufacturing
+sector: food_beverage

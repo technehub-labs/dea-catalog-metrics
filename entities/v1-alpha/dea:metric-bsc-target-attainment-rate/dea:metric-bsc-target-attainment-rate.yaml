@@ -1,0 +1,52 @@
+id: dea:metric-bsc-target-attainment-rate
+name: BSC Target Attainment Rate
+type: Metric
+description: BSC Target Attainment Rate (BTAR) addresses the economic value created or preserved and is
+  a fixture of balanced scorecard implementation & review reporting. It is defined as Measures Meeting
+  Target / Measures with Targets; the result is stated in percent (%). It is applied across virtually
+  every sector. Its trend is watched by senior leadership as an early signal of structural performance
+  shifts. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: BTAR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Measures Meeting Target / Measures with Targets
+formula_definition:
+  formula_id: dea:formula-bsc-target-attainment-rate
+  expression: Measures Meeting Target / Measures with Targets
+  inputs:
+  - name: Measures Meeting Target
+  - name: Measures with Targets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3485
+    batch: '7'
+domain: balanced_scorecard_implementation_review

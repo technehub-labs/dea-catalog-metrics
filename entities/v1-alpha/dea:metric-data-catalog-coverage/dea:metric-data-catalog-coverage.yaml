@@ -1,0 +1,52 @@
+id: dea:metric-data-catalog-coverage
+name: Data Catalog Coverage
+type: Metric
+description: Data Catalog Coverage (DCC) addresses capability maturity or development and is a fixture
+  of data management & analytics reporting. Its value drives prioritization and resource reallocation
+  among competing initiatives. Its calculation is Documented Datasets / Total Datasets, measured in percent
+  (%). Improvement means raising this figure toward best-in-class levels. Practitioners in nearly any
+  industry can adopt it directly.
+abbreviation: DCC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:DataEntity
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Documented Datasets / Total Datasets
+formula_definition:
+  formula_id: dea:formula-data-catalog-coverage
+  expression: Documented Datasets / Total Datasets
+  inputs:
+  - name: Documented Datasets
+  - name: Total Datasets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 347
+    batch: '1'
+domain: data_management_analytics

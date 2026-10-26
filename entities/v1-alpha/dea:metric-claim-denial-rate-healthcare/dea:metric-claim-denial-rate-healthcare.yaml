@@ -1,0 +1,53 @@
+id: dea:metric-claim-denial-rate-healthcare
+name: Claim Denial Rate (Healthcare)
+type: Metric
+description: 'Claim Denial Rate (Healthcare) (CDR-H) addresses how efficiently resources are converted
+  into outputs and is a fixture of healthcare reporting. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. The formula is Denied Claims / Claims Submitted
+  - reported in percent (%). It should be driven down, since lower readings signal healthier performance.
+  It is a standard measure in the Healthcare sector.'
+abbreviation: CDR-H
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Denied Claims / Claims Submitted
+formula_definition:
+  formula_id: dea:formula-claim-denial-rate-healthcare
+  expression: Denied Claims / Claims Submitted
+  inputs:
+  - name: Denied Claims
+  - name: Claims Submitted
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 477
+    batch: '1'
+domain: healthcare
+sector: healthcare

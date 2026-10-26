@@ -1,0 +1,52 @@
+id: dea:metric-ship-hotel-maintenance-score
+name: Ship Hotel Maintenance Score
+type: Metric
+description: Ship Hotel Maintenance Score (SHMS) measures the quality of outputs and outcomes in the Cruise
+  & Passenger Shipping domain. Its calculation is Interior Condition Audit Score, measured in score (points).
+  It originates from and is most used in Hospitality practice. Its value drives prioritization and resource
+  reallocation among competing initiatives. It should be maximized within the limits of cost and quality
+  trade-offs.
+abbreviation: SHMS
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Interior Condition Audit Score
+formula_definition:
+  formula_id: dea:formula-ship-hotel-maintenance-score
+  expression: Interior Condition Audit Score
+  inputs:
+  - name: Interior Condition Audit Score
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1929
+    batch: '6'
+domain: cruise_passenger_shipping
+sector: hospitality

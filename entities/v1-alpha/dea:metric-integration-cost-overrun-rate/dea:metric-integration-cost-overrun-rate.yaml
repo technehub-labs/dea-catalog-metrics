@@ -1,0 +1,52 @@
+id: dea:metric-integration-cost-overrun-rate
+name: Integration Cost Overrun Rate
+type: Metric
+description: A Mergers & Acquisitions indicator, Integration Cost Overrun Rate (ICOR) quantifies exposure
+  to adverse outcomes. It is defined as Integration Cost Overrun / Planned Integration Cost; the result
+  is stated in percent (%). Its trend is watched by senior leadership as an early signal of structural
+  performance shifts. Lower values are better; each reduction is an improvement. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: ICOR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Integration Cost Overrun / Planned Integration Cost
+formula_definition:
+  formula_id: dea:formula-integration-cost-overrun-rate
+  expression: Integration Cost Overrun / Planned Integration Cost
+  inputs:
+  - name: Integration Cost Overrun
+  - name: Planned Integration Cost
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1696
+    batch: '6'
+domain: mergers_acquisitions

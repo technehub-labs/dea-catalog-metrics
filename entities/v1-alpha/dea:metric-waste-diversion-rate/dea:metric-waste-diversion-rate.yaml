@@ -1,0 +1,53 @@
+id: dea:metric-waste-diversion-rate
+name: Waste Diversion Rate
+type: Metric
+description: 'A Sustainability & ESG indicator, Waste Diversion Rate (WDR) quantifies environmental and
+  social sustainability performance. The formula is Non-Landfilled Waste / Total Waste - reported in percent
+  (%). It is applied across virtually every sector. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. It should be maximized within the limits of cost
+  and quality trade-offs.'
+abbreviation: WDR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- sustainability
+purpose_classification:
+- sustainability
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Non-Landfilled Waste / Total Waste
+formula_definition:
+  formula_id: dea:formula-waste-diversion-rate
+  expression: Non-Landfilled Waste / Total Waste
+  inputs:
+  - name: Non
+  - name: Landfilled Waste
+  - name: Total Waste
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 420
+    batch: '1'
+domain: sustainability_esg

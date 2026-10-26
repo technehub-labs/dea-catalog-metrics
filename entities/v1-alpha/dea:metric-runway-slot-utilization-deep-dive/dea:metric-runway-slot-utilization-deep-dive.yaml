@@ -1,0 +1,53 @@
+id: dea:metric-runway-slot-utilization-deep-dive
+name: Runway Slot Utilization (Deep Dive)
+type: Metric
+description: Runway Slot Utilization (Deep Dive) (RSU-D) addresses the utilization or availability of
+  capacity and is a fixture of airport operations (deep dive) reporting. Its calculation is Used Slots
+  / Declared Capacity, measured in percent (%). It informs long-horizon decisions and is typically tracked
+  on enterprise dashboards rather than team boards. Higher values are better; gains are read as improvement
+  and losses as deterioration. It originates from and is most used in Aviation practice.
+abbreviation: RSU-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Used Slots / Declared Capacity
+formula_definition:
+  formula_id: dea:formula-runway-slot-utilization-deep-dive
+  expression: Used Slots / Declared Capacity
+  inputs:
+  - name: Used Slots
+  - name: Declared Capacity
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2274
+    batch: '6'
+domain: airport_operations_deep_dive
+sector: aviation

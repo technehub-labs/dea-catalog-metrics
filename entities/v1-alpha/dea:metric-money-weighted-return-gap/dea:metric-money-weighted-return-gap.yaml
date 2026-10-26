@@ -1,0 +1,54 @@
+id: dea:metric-money-weighted-return-gap
+name: Money-Weighted Return Gap
+type: Metric
+description: Money-Weighted Return Gap (MWRG) captures the economic value created or preserved for organizations
+  tracking investment performance measurement. It is computed as Money-Weighted minus Time-Weighted Return,
+  expressed in percent (%). It is reviewed at cadence by planning owners to correct course before issues
+  become strategic. It is managed toward a defined target band rather than an extreme - both overshoot
+  and undershoot can signal problems. Its use is concentrated in Investment management.
+abbreviation: MWRG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Money-Weighted minus Time-Weighted Return
+formula_definition:
+  formula_id: dea:formula-money-weighted-return-gap
+  expression: Money-Weighted minus Time-Weighted Return
+  inputs:
+  - name: Money
+  - name: Weighted minus Time
+  - name: Weighted Return
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3442
+    batch: '7'
+domain: investment_performance_measurement
+sector: investment_management

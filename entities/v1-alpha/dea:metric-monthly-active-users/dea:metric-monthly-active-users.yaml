@@ -1,0 +1,51 @@
+id: dea:metric-monthly-active-users
+name: Monthly Active Users
+type: Metric
+description: Monthly Active Users (MAU) captures the engagement or satisfaction of the people involved
+  for organizations tracking product management. Its calculation is Unique Active Users per Month, measured
+  in count (items per period). It is applied across virtually every sector. It informs long-horizon decisions
+  and is typically tracked on enterprise dashboards rather than team boards. It should be maximized within
+  the limits of cost and quality trade-offs.
+abbreviation: MAU
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- engagement
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Unique Active Users per Month
+formula_definition:
+  formula_id: dea:formula-monthly-active-users
+  expression: Unique Active Users per Month
+  inputs:
+  - name: Unique Active Users per Month
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 551
+    batch: '1'
+domain: product_management

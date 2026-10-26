@@ -1,0 +1,53 @@
+id: dea:metric-mortgage-early-payment-default-rate-deep-dive
+name: Mortgage Early Payment Default Rate (Deep Dive)
+type: Metric
+description: Mortgage Early Payment Default Rate (Deep Dive) (MEPDR) measures exposure to adverse outcomes
+  in the Real Estate & Mortgage Standard Measures domain. The formula is Defaults within 24 Months of
+  Origination / Loans Originated - reported in percent (%). It is a standard measure in the Real estate
+  sector. It carries weight in boardroom and executive reviews, where it anchors cross-organization trade-offs.
+  Reduction is the goal, and sustained decreases indicate successful intervention.
+abbreviation: MEPDR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Defaults within 24 Months of Origination / Loans Originated
+formula_definition:
+  formula_id: dea:formula-mortgage-early-payment-default-rate-deep-dive
+  expression: Defaults within 24 Months of Origination / Loans Originated
+  inputs:
+  - name: Defaults within 24 Months of Origination
+  - name: Loans Originated
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4231
+    batch: '10'
+domain: real_estate_mortgage_standard_measures
+sector: real_estate

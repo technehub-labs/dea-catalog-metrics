@@ -1,0 +1,51 @@
+id: dea:metric-revenue-per-employee
+name: Revenue per Employee
+type: Metric
+description: A Human Resources indicator, Revenue per Employee (RPE) quantifies the economic value created
+  or preserved. Its calculation is Revenue / Average Headcount, measured in currency value. It is applied
+  across virtually every sector. It informs long-horizon decisions and is typically tracked on enterprise
+  dashboards rather than team boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: RPE
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Revenue / Average Headcount
+formula_definition:
+  formula_id: dea:formula-revenue-per-employee
+  expression: Revenue / Average Headcount
+  inputs:
+  - name: Revenue
+  - name: Average Headcount
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 136
+    batch: '1'
+domain: human_resources

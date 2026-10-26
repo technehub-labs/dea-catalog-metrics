@@ -1,0 +1,53 @@
+id: dea:metric-staff-to-guest-ratio-deep-dive
+name: Staff-to-Guest Ratio (Deep Dive)
+type: Metric
+description: 'Staff-to-Guest Ratio (Deep Dive) (SGR-D) measures the utilization or availability of capacity
+  in the Hotel & Resort Operations (Deep Dive) domain. The formula is Staff / Guests in House - reported
+  in ratio (x:1 or x). It is a standard measure in the Hospitality sector. It is monitored close to the
+  work: teams act on it within a shift, sprint, or daily review. Values outside the intended band, on
+  either side, warrant investigation.'
+abbreviation: SGR-D
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Staff / Guests in House
+formula_definition:
+  formula_id: dea:formula-staff-to-guest-ratio-deep-dive
+  expression: Staff / Guests in House
+  inputs:
+  - name: Staff
+  - name: Guests in House
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1911
+    batch: '6'
+domain: hotel_resort_operations_deep_dive
+sector: hospitality

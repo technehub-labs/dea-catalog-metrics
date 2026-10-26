@@ -1,0 +1,51 @@
+id: dea:metric-release-cycle-time
+name: Release Cycle Time
+type: Metric
+description: A Release Management & Environments indicator, Release Cycle Time (RCLT-RM) quantifies how
+  efficiently resources are converted into outputs. It is defined as Days between Consecutive Production
+  Releases; the result is stated in days. It is applied across virtually every sector. Its trend is watched
+  by senior leadership as an early signal of structural performance shifts. Reduction is the goal, and
+  sustained decreases indicate successful intervention.
+abbreviation: RCLT-RM
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days between Consecutive Production Releases
+formula_definition:
+  formula_id: dea:formula-release-cycle-time
+  expression: Days between Consecutive Production Releases
+  inputs:
+  - name: Days between Consecutive Production Releases
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2732
+    batch: '7'
+domain: release_management_environments

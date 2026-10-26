@@ -1,0 +1,53 @@
+id: dea:metric-tuition-net-revenue-per-student
+name: Tuition Net Revenue Per Student
+type: Metric
+description: Tuition Net Revenue Per Student (TNRS) captures the economic value created or preserved for
+  organizations tracking education & training outcome standard measures. Its calculation is Net Tuition
+  Revenue / Enrolled Students, measured in currency per unit. It originates from and is most used in Education
+  practice. It informs long-horizon decisions and is typically tracked on enterprise dashboards rather
+  than team boards. Values outside the intended band, on either side, warrant investigation.
+abbreviation: TNRS
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Net Tuition Revenue / Enrolled Students
+formula_definition:
+  formula_id: dea:formula-tuition-net-revenue-per-student
+  expression: Net Tuition Revenue / Enrolled Students
+  inputs:
+  - name: Net Tuition Revenue
+  - name: Enrolled Students
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4408
+    batch: '11'
+domain: education_training_outcome_standard_measures
+sector: education

@@ -1,0 +1,53 @@
+id: dea:metric-sast-pipeline-coverage
+name: SAST Pipeline Coverage
+type: Metric
+description: SAST Pipeline Coverage (SASTPC) measures conformance to standards, plans, or obligations
+  in the Application Security (AppSec) domain. It provides the day-to-day signal that a process is running
+  as designed. Its calculation is Repositories with Static Analysis in Pipeline / Repositories, measured
+  in percent (%). Improvement means raising this figure toward best-in-class levels. It originates from
+  and is most used in Software practice.
+abbreviation: SASTPC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Repositories with Static Analysis in Pipeline / Repositories
+formula_definition:
+  formula_id: dea:formula-sast-pipeline-coverage
+  expression: Repositories with Static Analysis in Pipeline / Repositories
+  inputs:
+  - name: Repositories with Static Analysis in Pipeline
+  - name: Repositories
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3322
+    batch: '7'
+domain: application_security_appsec
+sector: software

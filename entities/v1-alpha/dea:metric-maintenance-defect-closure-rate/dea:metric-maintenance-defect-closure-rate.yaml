@@ -1,0 +1,53 @@
+id: dea:metric-maintenance-defect-closure-rate
+name: Maintenance Defect Closure Rate
+type: Metric
+description: 'Maintenance Defect Closure Rate (MDCR) captures the quality of outputs and outcomes for
+  organizations tracking aviation maintenance repair & overhaul. The formula is Deferred Defects Closed
+  within Limit / Defects - reported in percent (%). It is monitored close to the work: teams act on it
+  within a shift, sprint, or daily review. Higher values are better; gains are read as improvement and
+  losses as deterioration. It is a standard measure in the Airlines & aviation sector.'
+abbreviation: MDCR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Deferred Defects Closed within Limit / Defects
+formula_definition:
+  formula_id: dea:formula-maintenance-defect-closure-rate
+  expression: Deferred Defects Closed within Limit / Defects
+  inputs:
+  - name: Deferred Defects Closed within Limit
+  - name: Defects
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1185
+    batch: '4'
+domain: aviation_maintenance_repair_overhaul
+sector: airlines_aviation

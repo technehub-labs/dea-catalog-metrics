@@ -1,0 +1,52 @@
+id: dea:metric-operational-loss-event-rate
+name: Operational Loss Event Rate
+type: Metric
+description: A Investment Risk & Middle Office Operations indicator, Operational Loss Event Rate (OLER)
+  quantifies exposure to adverse outcomes. It provides the day-to-day signal that a process is running
+  as designed. Its calculation is Operational Loss Events per 1,000 Trades, measured in events per thousand
+  or million (scaled). It should be driven down, since lower readings signal healthier performance. It
+  originates from and is most used in Investment management practice.
+abbreviation: OLER
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Operational Loss Events per 1,000 Trades
+formula_definition:
+  formula_id: dea:formula-operational-loss-event-rate
+  expression: Operational Loss Events per 1,000 Trades
+  inputs:
+  - name: Operational Loss Events per 1,000 Trades
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3472
+    batch: '7'
+domain: investment_risk_middle_office_operations
+sector: investment_management

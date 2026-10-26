@@ -1,0 +1,52 @@
+id: dea:metric-franchisee-satisfaction-index-deep-dive
+name: Franchisee Satisfaction Index (Deep Dive)
+type: Metric
+description: Franchisee Satisfaction Index (Deep Dive) (FSI-D) addresses the engagement or satisfaction
+  of the people involved and is a fixture of franchise operations (deep dive) reporting. The formula is
+  Franchisee Survey Composite Score - reported in index (0-100 or normalized). It carries weight in boardroom
+  and executive reviews, where it anchors cross-organization trade-offs. Higher values are better; gains
+  are read as improvement and losses as deterioration. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.
+abbreviation: FSI-D
+unit: index
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- engagement
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-index
+source_credit: Public domain - no attribution required
+calculation_definition: Franchisee Survey Composite Score
+formula_definition:
+  formula_id: dea:formula-franchisee-satisfaction-index-deep-dive
+  expression: Franchisee Survey Composite Score
+  inputs:
+  - name: Franchisee Survey Composite Score
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-index
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2219
+    batch: '6'
+domain: franchise_operations_deep_dive

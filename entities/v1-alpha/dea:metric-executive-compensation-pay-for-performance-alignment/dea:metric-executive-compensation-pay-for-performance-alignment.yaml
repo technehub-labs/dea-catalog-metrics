@@ -1,0 +1,52 @@
+id: dea:metric-executive-compensation-pay-for-performance-alignment
+name: Executive Compensation Pay-for-Performance Alignment
+type: Metric
+description: Within Corporate Governance, Executive Compensation Pay-for-Performance Alignment (ECPA)
+  is used to gauge the economic value created or preserved. It is defined as Executives Above Target Pay
+  / Executives Above Target Performance; the result is stated in ratio (x:1 or x). It is applied across
+  virtually every sector. Its trend is watched by senior leadership as an early signal of structural performance
+  shifts. Values outside the intended band, on either side, warrant investigation.
+abbreviation: ECPA
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Executives Above Target Pay / Executives Above Target Performance
+formula_definition:
+  formula_id: dea:formula-executive-compensation-pay-for-performance-alignment
+  expression: Executives Above Target Pay / Executives Above Target Performance
+  inputs:
+  - name: Executives Above Target Pay
+  - name: Executives Above Target Performance
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1048
+    batch: '4'
+domain: corporate_governance

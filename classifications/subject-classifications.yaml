@@ -1,30 +1,37 @@
 # Subject classifications (CR-MET-002 binding axis 1)
-# The Metric subject axis; one Metric MAY have multiple subject classifications.
+#
+# 'operations' and 'risk' are the values the candidate-metrics seed
+# contributed (CR-MET-016). schemas/entity.schema.json carries the enforced
+# copy of this vocabulary.
 version: 1.0.0
 values:
-- id: strategy
-  definition: Strategic-level Metrics (Objective attainment, Strategy execution)
-- id: organization
-  definition: Organization-level Metrics (Enterprise, Business Unit, Organizational Unit performance)
-- id: customer
-  definition: Customer-domain Metrics (Retention, Satisfaction, NPS)
-- id: product_or_service
-  definition: Product or service-level Metrics (Defect rate, Service quality)
 - id: business_architecture
-  definition: Business architecture Metrics (Capability performance, Process efficiency)
-- id: value_architecture
-  definition: Value-stream Metrics (Lead-to-cash cycle time, Value delivery)
-- id: information_architecture
-  definition: Data and information Metrics (Data quality, Information completeness)
-- id: technology_architecture
-  definition: Technology Metrics (System availability, Reliability, Performance)
-- id: governance
-  definition: Governance Metrics (Risk exposure, Control effectiveness, Policy compliance)
-- id: transformation
-  definition: Transformation Metrics (Benefits realization, Adoption)
-- id: sustainability
-  definition: Sustainability Metrics (Energy intensity, Carbon footprint)
+  definition: "Business architecture Metrics (Capability performance, Process efficiency)"
 - id: capability
-  definition: Capability-level Metrics (Capability maturity, Capability performance)
+  definition: "Capability-level Metrics (Capability maturity, Capability performance)"
+- id: customer
+  definition: "Customer-domain Metrics (Retention, Satisfaction, NPS)"
 - id: financial
-  definition: Financial Metrics (Operating margin, ROI, EBITDA)
+  definition: "Financial Metrics (Operating margin, ROI, EBITDA)"
+- id: governance
+  definition: "Governance Metrics (Risk exposure, Control effectiveness, Policy compliance)"
+- id: information_architecture
+  definition: "Data and information Metrics (Data quality, Information completeness)"
+- id: operations
+  definition: "Operational subject area: how an enterprise runs its day-to-day work, capacity and process execution."
+- id: organization
+  definition: "Organization-level Metrics (Enterprise, Business Unit, Organizational Unit performance)"
+- id: product_or_service
+  definition: "Product or service-level Metrics (Defect rate, Service quality)"
+- id: risk
+  definition: "Risk subject area: exposure, likelihood, and the controls that bound it."
+- id: strategy
+  definition: "Strategic-level Metrics (Objective attainment, Strategy execution)"
+- id: sustainability
+  definition: "Sustainability Metrics (Energy intensity, Carbon footprint)"
+- id: technology_architecture
+  definition: "Technology Metrics (System availability, Reliability, Performance)"
+- id: transformation
+  definition: "Transformation Metrics (Benefits realization, Adoption)"
+- id: value_architecture
+  definition: "Value-stream Metrics (Lead-to-cash cycle time, Value delivery)"

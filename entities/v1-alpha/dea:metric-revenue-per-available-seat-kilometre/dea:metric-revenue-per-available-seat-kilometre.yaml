@@ -1,0 +1,53 @@
+id: dea:metric-revenue-per-available-seat-kilometre
+name: Revenue per Available Seat Kilometre
+type: Metric
+description: Within Airlines & Aviation, Revenue per Available Seat Kilometre (RASK) is used to gauge
+  the economic value created or preserved. Its calculation is Passenger Revenue / Available Seat Kilometres,
+  measured in currency per unit. It originates from and is most used in Airlines & aviation practice.
+  It informs long-horizon decisions and is typically tracked on enterprise dashboards rather than team
+  boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: RASK
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Passenger Revenue / Available Seat Kilometres
+formula_definition:
+  formula_id: dea:formula-revenue-per-available-seat-kilometre
+  expression: Passenger Revenue / Available Seat Kilometres
+  inputs:
+  - name: Passenger Revenue
+  - name: Available Seat Kilometres
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 649
+    batch: '2'
+domain: airlines_aviation
+sector: airlines_aviation

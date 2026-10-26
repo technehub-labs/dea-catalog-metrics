@@ -1,0 +1,52 @@
+id: dea:metric-customer-effort-score
+name: Customer Effort Score
+type: Metric
+description: Within Customer, Customer Effort Score (CES) is used to gauge the engagement or satisfaction
+  of the people involved. It is defined as Average Ease Rating on 7-Point Scale; the result is stated
+  in score (points). It bridges daily operations and executive reporting, giving managers a lever to pull
+  within a quarter. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: CES
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- engagement
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Average Ease Rating on 7-Point Scale
+formula_definition:
+  formula_id: dea:formula-customer-effort-score
+  expression: Average Ease Rating on 7-Point Scale
+  inputs:
+  - name: Average Ease Rating on 7
+  - name: Point Scale
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 68
+    batch: '1'
+domain: customer

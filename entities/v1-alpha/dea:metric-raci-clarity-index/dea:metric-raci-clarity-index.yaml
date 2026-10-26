@@ -1,0 +1,52 @@
+id: dea:metric-raci-clarity-index
+name: RACI Clarity Index
+type: Metric
+description: 'A Operating Model & Decision Effectiveness indicator, RACI Clarity Index (RACI) quantifies
+  capability maturity or development. The formula is Decisions with Clear Accountability / Decisions Mapped
+  - reported in percent (%). It guides mid-horizon planning: portfolio, program, and function owners act
+  on it between review cycles. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: RACI
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Decisions with Clear Accountability / Decisions Mapped
+formula_definition:
+  formula_id: dea:formula-raci-clarity-index
+  expression: Decisions with Clear Accountability / Decisions Mapped
+  inputs:
+  - name: Decisions with Clear Accountability
+  - name: Decisions Mapped
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1305
+    batch: '5'
+domain: operating_model_decision_effectiveness

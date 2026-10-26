@@ -1,0 +1,53 @@
+id: dea:metric-medication-administration-accuracy-care
+name: Medication Administration Accuracy (Care)
+type: Metric
+description: 'Within Elder & Social Care, Medication Administration Accuracy (Care) (MAAC) is used to
+  gauge the quality of outputs and outcomes. It is computed as Correct Administrations Observed / Administrations
+  Observed, expressed in percent (%). It is a headline indicator: movement in it prompts leadership questions
+  about strategy and resourcing. Higher values are better; gains are read as improvement and losses as
+  deterioration. Its use is concentrated in Social care.'
+abbreviation: MAAC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Correct Administrations Observed / Administrations Observed
+formula_definition:
+  formula_id: dea:formula-medication-administration-accuracy-care
+  expression: Correct Administrations Observed / Administrations Observed
+  inputs:
+  - name: Correct Administrations Observed
+  - name: Administrations Observed
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1195
+    batch: '4'
+domain: elder_social_care
+sector: social_care

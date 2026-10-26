@@ -1,0 +1,51 @@
+id: dea:metric-llm-latency-first-token
+name: LLM Latency - First Token
+type: Metric
+description: LLM Latency - First Token (LLMFTL) measures the quality of outputs and outcomes in the Generative
+  AI & LLM Operations domain. Its calculation is Milliseconds to First Generated Token, measured in milliseconds
+  (ms). It provides the day-to-day signal that a process is running as designed. Lower values are better;
+  each reduction is an improvement. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: LLMFTL
+unit: milliseconds
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-milliseconds
+source_credit: Public domain - no attribution required
+calculation_definition: Milliseconds to First Generated Token
+formula_definition:
+  formula_id: dea:formula-llm-latency-first-token
+  expression: Milliseconds to First Generated Token
+  inputs:
+  - name: Milliseconds to First Generated Token
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-milliseconds
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2544
+    batch: '7'
+domain: generative_ai_llm_operations

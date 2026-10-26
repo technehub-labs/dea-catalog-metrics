@@ -1,0 +1,52 @@
+id: dea:metric-batch-window-compliance-rate
+name: Batch Window Compliance Rate
+type: Metric
+description: 'Batch Window Compliance Rate (BWCR) addresses conformance to standards, plans, or obligations
+  and is a fixture of erp & enterprise application operations reporting. It is monitored close to the
+  work: teams act on it within a shift, sprint, or daily review. The formula is Batches Completed within
+  Window / Batches - reported in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.'
+abbreviation: BWCR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Batches Completed within Window / Batches
+formula_definition:
+  formula_id: dea:formula-batch-window-compliance-rate
+  expression: Batches Completed within Window / Batches
+  inputs:
+  - name: Batches Completed within Window
+  - name: Batches
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2169
+    batch: '6'
+domain: erp_enterprise_application_operations

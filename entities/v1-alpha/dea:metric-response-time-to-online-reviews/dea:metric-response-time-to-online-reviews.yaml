@@ -1,0 +1,52 @@
+id: dea:metric-response-time-to-online-reviews
+name: Response Time to Online Reviews
+type: Metric
+description: 'A Hotel & Resort Operations (Deep Dive) indicator, Response Time to Online Reviews (RTOR)
+  quantifies the engagement or satisfaction of the people involved. It is monitored close to the work:
+  teams act on it within a shift, sprint, or daily review. The formula is Hours to Respond to Guest Review
+  - reported in hours. It should be driven down, since lower readings signal healthier performance. It
+  is a standard measure in the Hospitality sector.'
+abbreviation: RTOR
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- engagement
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Hours to Respond to Guest Review
+formula_definition:
+  formula_id: dea:formula-response-time-to-online-reviews
+  expression: Hours to Respond to Guest Review
+  inputs:
+  - name: Hours to Respond to Guest Review
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1908
+    batch: '6'
+domain: hotel_resort_operations_deep_dive
+sector: hospitality

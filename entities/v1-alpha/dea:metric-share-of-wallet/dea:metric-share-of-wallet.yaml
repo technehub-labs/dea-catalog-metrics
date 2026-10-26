@@ -1,0 +1,53 @@
+id: dea:metric-share-of-wallet
+name: Share of Wallet
+type: Metric
+description: Share of Wallet (SOW) measures growth over time in the Banking & Financial Services domain.
+  Its calculation is Organization Revenue from Customer / Customer Total Spend in Category, measured in
+  percent (%). Its value drives prioritization and resource reallocation among competing initiatives.
+  Higher values are better; gains are read as improvement and losses as deterioration. It originates from
+  and is most used in Financial services practice.
+abbreviation: SOW
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- growth
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Organization Revenue from Customer / Customer Total Spend in Category
+formula_definition:
+  formula_id: dea:formula-share-of-wallet
+  expression: Organization Revenue from Customer / Customer Total Spend in Category
+  inputs:
+  - name: Organization Revenue from Customer
+  - name: Customer Total Spend in Category
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 51
+    batch: '1'
+domain: banking_financial_services
+sector: financial_services

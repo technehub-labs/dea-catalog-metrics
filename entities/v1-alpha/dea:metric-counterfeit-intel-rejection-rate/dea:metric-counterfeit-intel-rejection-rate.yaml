@@ -1,0 +1,52 @@
+id: dea:metric-counterfeit-intel-rejection-rate
+name: Counterfeit Intel Rejection Rate
+type: Metric
+description: 'Counterfeit Intel Rejection Rate (CIRR) captures the quality of outputs and outcomes for
+  organizations tracking threat intelligence & red team. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. The formula is Unverified Intel Rejected / Intel
+  Received - reported in percent (%). Improvement means raising this figure toward best-in-class levels.
+  Practitioners in nearly any industry can adopt it directly.'
+abbreviation: CIRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Unverified Intel Rejected / Intel Received
+formula_definition:
+  formula_id: dea:formula-counterfeit-intel-rejection-rate
+  expression: Unverified Intel Rejected / Intel Received
+  inputs:
+  - name: Unverified Intel Rejected
+  - name: Intel Received
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3294
+    batch: '7'
+domain: threat_intelligence_red_team

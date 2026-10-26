@@ -1,0 +1,52 @@
+id: dea:metric-ip-value-realization-rate
+name: IP Value Realization Rate
+type: Metric
+description: 'IP Value Realization Rate (IPVRR) addresses the economic value created or preserved and
+  is a fixture of intellectual property & licensing reporting. It is computed as Products Launched Using
+  Owned IP / Portfolio Assets, expressed in percent (%). It is applied across virtually every sector.
+  It is a headline indicator: movement in it prompts leadership questions about strategy and resourcing.
+  Values outside the intended band, on either side, warrant investigation.'
+abbreviation: IPVRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Products Launched Using Owned IP / Portfolio Assets
+formula_definition:
+  formula_id: dea:formula-ip-value-realization-rate
+  expression: Products Launched Using Owned IP / Portfolio Assets
+  inputs:
+  - name: Products Launched Using Owned IP
+  - name: Portfolio Assets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3954
+    batch: '8'
+domain: intellectual_property_licensing

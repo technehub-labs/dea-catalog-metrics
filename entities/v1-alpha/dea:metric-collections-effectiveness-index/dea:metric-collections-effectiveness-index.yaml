@@ -1,0 +1,52 @@
+id: dea:metric-collections-effectiveness-index
+name: Collections Effectiveness Index
+type: Metric
+description: A Accounts Payable & Receivable Operations (Deep Dive) indicator, Collections Effectiveness
+  Index (CEI-AR) quantifies the quality of outputs and outcomes. Its calculation is Collected Amount /
+  Amount Receivable in Period, measured in percent (%). It is applied across virtually every sector. It
+  informs long-horizon decisions and is typically tracked on enterprise dashboards rather than team boards.
+  It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: CEI-AR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Collected Amount / Amount Receivable in Period
+formula_definition:
+  formula_id: dea:formula-collections-effectiveness-index
+  expression: Collected Amount / Amount Receivable in Period
+  inputs:
+  - name: Collected Amount
+  - name: Amount Receivable in Period
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3804
+    batch: '8'
+domain: accounts_payable_receivable_operations_deep_dive

@@ -1,0 +1,55 @@
+id: dea:metric-total-landed-cost
+name: Total Landed Cost
+type: Metric
+description: 'Total Landed Cost (TLC) measures the economic value created or preserved in the Supply Chain
+  domain. It guides mid-horizon planning: portfolio, program, and function owners act on it between review
+  cycles. The formula is Product Cost + Freight + Duties + Insurance + Handling - reported in currency
+  value. It should be driven down, since lower readings signal healthier performance. Practitioners in
+  nearly any industry can adopt it directly.'
+abbreviation: TLC
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Product Cost + Freight + Duties + Insurance + Handling
+formula_definition:
+  formula_id: dea:formula-total-landed-cost
+  expression: Product Cost + Freight + Duties + Insurance + Handling
+  inputs:
+  - name: Product Cost
+  - name: Freight
+  - name: Duties
+  - name: Insurance
+  - name: Handling
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 182
+    batch: '1'
+domain: supply_chain

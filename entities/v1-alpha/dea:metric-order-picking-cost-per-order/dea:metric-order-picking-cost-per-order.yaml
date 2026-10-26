@@ -1,0 +1,53 @@
+id: dea:metric-order-picking-cost-per-order
+name: Order Picking Cost per Order
+type: Metric
+description: Within Retail & E-commerce, Order Picking Cost per Order (OPC) is used to gauge how efficiently
+  resources are converted into outputs. Its calculation is Total Picking Cost / Orders, measured in currency
+  per unit. It originates from and is most used in Retail practice. It provides the day-to-day signal
+  that a process is running as designed. Reduction is the goal, and sustained decreases indicate successful
+  intervention.
+abbreviation: OPC
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Picking Cost / Orders
+formula_definition:
+  formula_id: dea:formula-order-picking-cost-per-order
+  expression: Total Picking Cost / Orders
+  inputs:
+  - name: Total Picking Cost
+  - name: Orders
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 502
+    batch: '1'
+domain: retail_e_commerce
+sector: retail

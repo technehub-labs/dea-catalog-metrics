@@ -1,0 +1,55 @@
+id: dea:metric-spares-availability-defense
+name: Spares Availability (Defense)
+type: Metric
+description: Spares Availability (Defense) (SAD) addresses the utilization or availability of capacity
+  and is a fixture of aerospace & defense program management reporting. It is defined as Mission-Critical
+  Spares in Stock / Required; the result is stated in percent (%). It bridges daily operations and executive
+  reporting, giving managers a lever to pull within a quarter. Higher values are better; gains are read
+  as improvement and losses as deterioration. In Aerospace & Defense, it is a recognized element of the
+  standard performance toolkit.
+abbreviation: SAD
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Mission-Critical Spares in Stock / Required
+formula_definition:
+  formula_id: dea:formula-spares-availability-defense
+  expression: Mission-Critical Spares in Stock / Required
+  inputs:
+  - name: Mission
+  - name: Critical Spares in Stock
+  - name: Required
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1790
+    batch: '6'
+domain: aerospace_defense_program_management
+sector: aerospace_defense

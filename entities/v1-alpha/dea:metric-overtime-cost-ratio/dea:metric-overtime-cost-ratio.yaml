@@ -1,0 +1,52 @@
+id: dea:metric-overtime-cost-ratio
+name: Overtime Cost Ratio
+type: Metric
+description: 'A Standard Workforce & Pay Metrics indicator, Overtime Cost Ratio (OCR-PAY) quantifies how
+  efficiently resources are converted into outputs. The formula is Overtime Pay / Total Labor Cost - reported
+  in percent (%). It is applied across virtually every sector. It is monitored close to the work: teams
+  act on it within a shift, sprint, or daily review. Reduction is the goal, and sustained decreases indicate
+  successful intervention.'
+abbreviation: OCR-PAY
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Overtime Pay / Total Labor Cost
+formula_definition:
+  formula_id: dea:formula-overtime-cost-ratio
+  expression: Overtime Pay / Total Labor Cost
+  inputs:
+  - name: Overtime Pay
+  - name: Total Labor Cost
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4128
+    batch: '9'
+domain: standard_workforce_pay_metrics

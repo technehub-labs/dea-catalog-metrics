@@ -1,0 +1,53 @@
+id: dea:metric-conversion-funnel-completion-rate-deep-dive
+name: Conversion Funnel Completion Rate (Deep Dive)
+type: Metric
+description: A Web & Digital Analytics Standard Measures indicator, Conversion Funnel Completion Rate
+  (Deep Dive) (CFCRDD) quantifies growth over time. It provides the day-to-day signal that a process is
+  running as designed. Its calculation is Users Completing Funnel / Users Entering Funnel, measured in
+  percent (%). Improvement means raising this figure toward best-in-class levels. It originates from and
+  is most used in Digital product practice.
+abbreviation: CFCRDD
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- growth
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Users Completing Funnel / Users Entering Funnel
+formula_definition:
+  formula_id: dea:formula-conversion-funnel-completion-rate-deep-dive
+  expression: Users Completing Funnel / Users Entering Funnel
+  inputs:
+  - name: Users Completing Funnel
+  - name: Users Entering Funnel
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4360
+    batch: '11'
+domain: web_digital_analytics_standard_measures
+sector: digital_product

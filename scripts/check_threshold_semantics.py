@@ -14,7 +14,9 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-import yaml
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import load_metrics  # noqa: E402
+
 
 BASE = Path(__file__).parent.parent
 ENTITIES_DIR = BASE / "entities"
@@ -22,17 +24,9 @@ ENTITIES_DIR = BASE / "entities"
 ALLOWED = {"higher_is_better", "lower_is_better", "target_band", "categorical"}
 
 
-def _load_metrics():
-    metrics = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
-        if path.parent.name.startswith("dea:metric-"):
-            metrics.append((path.parent.name, yaml.safe_load(path.read_text())))
-    return metrics
-
-
 def main():
     findings = []
-    for mid, m in _load_metrics():
+    for mid, m in load_metrics():
         d = m.get("directionality")
         if d not in ALLOWED:
             findings.append(f"{mid}: directionality {d!r} not in {sorted(ALLOWED)}")
@@ -41,7 +35,7 @@ def main():
         for f in findings:
             print(f"  {f}")
         sys.exit(1)
-    n = len(_load_metrics())
+    n = len(load_metrics())
     print(f"PASS: check_threshold_semantics.py ({n} metrics, 0 directionality findings)")
 
 

@@ -1,0 +1,52 @@
+id: dea:metric-ceremony-attendance-rate
+name: Ceremony Attendance Rate
+type: Metric
+description: Ceremony Attendance Rate (CAR-AG) addresses the engagement or satisfaction of the people
+  involved and is a fixture of agile delivery & team effectiveness reporting. It provides the day-to-day
+  signal that a process is running as designed. Its calculation is Team Member Attendance at Scheduled
+  Ceremonies / Expected, measured in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: CAR-AG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- engagement
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Team Member Attendance at Scheduled Ceremonies / Expected
+formula_definition:
+  formula_id: dea:formula-ceremony-attendance-rate
+  expression: Team Member Attendance at Scheduled Ceremonies / Expected
+  inputs:
+  - name: Team Member Attendance at Scheduled Ceremonies
+  - name: Expected
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2985
+    batch: '7'
+domain: agile_delivery_team_effectiveness

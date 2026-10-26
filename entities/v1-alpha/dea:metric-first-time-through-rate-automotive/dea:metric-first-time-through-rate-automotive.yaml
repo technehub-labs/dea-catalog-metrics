@@ -1,0 +1,53 @@
+id: dea:metric-first-time-through-rate-automotive
+name: First Time Through Rate (Automotive)
+type: Metric
+description: First Time Through Rate (Automotive) (FTT-A) addresses the quality of outputs and outcomes
+  and is a fixture of automotive reporting. It is computed as Vehicles Passing All Inspections without
+  Rework / Vehicles Produced, expressed in percent (%). It is reviewed at cadence by planning owners to
+  correct course before issues become strategic. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is concentrated in Automotive.
+abbreviation: FTT-A
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Vehicles Passing All Inspections without Rework / Vehicles Produced
+formula_definition:
+  formula_id: dea:formula-first-time-through-rate-automotive
+  expression: Vehicles Passing All Inspections without Rework / Vehicles Produced
+  inputs:
+  - name: Vehicles Passing All Inspections without Rework
+  - name: Vehicles Produced
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 739
+    batch: '2'
+domain: automotive
+sector: automotive

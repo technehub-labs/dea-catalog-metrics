@@ -1,0 +1,53 @@
+id: dea:metric-all-in-sustaining-cost
+name: All-In Sustaining Cost
+type: Metric
+description: All-In Sustaining Cost (AISC) addresses the economic value created or preserved and is a
+  fixture of mining & metals reporting. The formula is Total Sustaining Production Cost / Unit of Metal
+  Produced - reported in currency per unit. It carries weight in boardroom and executive reviews, where
+  it anchors cross-organization trade-offs. Lower values are better; each reduction is an improvement.
+  It is a standard measure in the Mining & metals sector.
+abbreviation: AISC
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Sustaining Production Cost / Unit of Metal Produced
+formula_definition:
+  formula_id: dea:formula-all-in-sustaining-cost
+  expression: Total Sustaining Production Cost / Unit of Metal Produced
+  inputs:
+  - name: Total Sustaining Production Cost
+  - name: Unit of Metal Produced
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 718
+    batch: '2'
+domain: mining_metals
+sector: mining_metals

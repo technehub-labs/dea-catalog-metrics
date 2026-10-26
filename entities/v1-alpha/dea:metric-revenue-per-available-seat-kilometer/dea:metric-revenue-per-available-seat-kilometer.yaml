@@ -1,0 +1,53 @@
+id: dea:metric-revenue-per-available-seat-kilometer
+name: Revenue per Available Seat Kilometer
+type: Metric
+description: Within Airline & Transportation Standard Measures (Deep Dive), Revenue per Available Seat
+  Kilometer (RASK) is used to gauge the economic value created or preserved. The formula is Passenger
+  Revenue / Available Seat Kilometers - reported in currency per unit. It is a standard measure in the
+  Airlines & Aviation sector. It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: RASK
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- operations
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Passenger Revenue / Available Seat Kilometers
+formula_definition:
+  formula_id: dea:formula-revenue-per-available-seat-kilometer
+  expression: Passenger Revenue / Available Seat Kilometers
+  inputs:
+  - name: Passenger Revenue
+  - name: Available Seat Kilometers
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4276
+    batch: '10'
+domain: airline_transportation_standard_measures_deep_dive
+sector: airlines_aviation

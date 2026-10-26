@@ -1,0 +1,53 @@
+id: dea:metric-surgical-complication-rate-vet
+name: Surgical Complication Rate (Vet)
+type: Metric
+description: 'Surgical Complication Rate (Vet) (SCR-V) captures exposure to adverse outcomes for organizations
+  tracking veterinary & animal health. It is computed as Complications / Surgical Procedures, expressed
+  in percent (%). It is a headline indicator: movement in it prompts leadership questions about strategy
+  and resourcing. Lower values are better; each reduction is an improvement. Its use is concentrated in
+  Healthcare.'
+abbreviation: SCR-V
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Complications / Surgical Procedures
+formula_definition:
+  formula_id: dea:formula-surgical-complication-rate-vet
+  expression: Complications / Surgical Procedures
+  inputs:
+  - name: Complications
+  - name: Surgical Procedures
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2032
+    batch: '6'
+domain: veterinary_animal_health
+sector: healthcare

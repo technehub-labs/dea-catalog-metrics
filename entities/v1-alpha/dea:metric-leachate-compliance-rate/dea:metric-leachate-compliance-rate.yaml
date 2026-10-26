@@ -1,0 +1,53 @@
+id: dea:metric-leachate-compliance-rate
+name: Leachate Compliance Rate
+type: Metric
+description: 'A Waste & Environmental Services indicator, Leachate Compliance Rate (LCR-W) quantifies
+  conformance to standards, plans, or obligations. It is computed as Leachate Samples within Discharge
+  Limits / Samples, expressed in percent (%). It is a headline indicator: movement in it prompts leadership
+  questions about strategy and resourcing. Higher values are better; gains are read as improvement and
+  losses as deterioration. Its use is concentrated in Environmental services.'
+abbreviation: LCR-W
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- sustainability
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Leachate Samples within Discharge Limits / Samples
+formula_definition:
+  formula_id: dea:formula-leachate-compliance-rate
+  expression: Leachate Samples within Discharge Limits / Samples
+  inputs:
+  - name: Leachate Samples within Discharge Limits
+  - name: Samples
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 821
+    batch: '2'
+domain: waste_environmental_services
+sector: environmental_services

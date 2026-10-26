@@ -1,0 +1,53 @@
+id: dea:metric-ibnr-accuracy-ratio
+name: IBNR Accuracy Ratio
+type: Metric
+description: IBNR Accuracy Ratio (IBNR-AR) captures the quality of outputs and outcomes for organizations
+  tracking actuarial & reserving. The formula is Actual IBNR / Estimated IBNR - reported in ratio (x:1
+  or x). It carries weight in boardroom and executive reviews, where it anchors cross-organization trade-offs.
+  It is managed toward a defined target band rather than an extreme - both overshoot and undershoot can
+  signal problems. It is a standard measure in the Insurance sector.
+abbreviation: IBNR-AR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:DataEntity
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Actual IBNR / Estimated IBNR
+formula_definition:
+  formula_id: dea:formula-ibnr-accuracy-ratio
+  expression: Actual IBNR / Estimated IBNR
+  inputs:
+  - name: Actual IBNR
+  - name: Estimated IBNR
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1526
+    batch: '6'
+domain: actuarial_reserving
+sector: insurance

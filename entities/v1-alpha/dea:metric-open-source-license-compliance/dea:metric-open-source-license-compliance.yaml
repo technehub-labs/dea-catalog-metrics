@@ -1,0 +1,52 @@
+id: dea:metric-open-source-license-compliance
+name: Open Source License Compliance
+type: Metric
+description: A Intellectual Property & Licensing indicator, Open Source License Compliance (OSLC) quantifies
+  exposure to adverse outcomes. Its calculation is Open Source Components with Compliant Use / Components,
+  measured in percent (%). It is applied across virtually every sector. It provides the day-to-day signal
+  that a process is running as designed. It should be maximized within the limits of cost and quality
+  trade-offs.
+abbreviation: OSLC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Open Source Components with Compliant Use / Components
+formula_definition:
+  formula_id: dea:formula-open-source-license-compliance
+  expression: Open Source Components with Compliant Use / Components
+  inputs:
+  - name: Open Source Components with Compliant Use
+  - name: Components
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3946
+    batch: '8'
+domain: intellectual_property_licensing

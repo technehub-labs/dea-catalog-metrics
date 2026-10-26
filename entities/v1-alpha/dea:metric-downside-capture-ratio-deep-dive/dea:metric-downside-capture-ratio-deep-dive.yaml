@@ -1,0 +1,53 @@
+id: dea:metric-downside-capture-ratio-deep-dive
+name: Downside Capture Ratio (Deep Dive)
+type: Metric
+description: Downside Capture Ratio (Deep Dive) (DCR-IM) measures exposure to adverse outcomes in the
+  Investment Management - Portfolio Operations domain. The formula is Fund Downside Return / Benchmark
+  Downside Return - reported in ratio (x:1 or x). It carries weight in boardroom and executive reviews,
+  where it anchors cross-organization trade-offs. Lower values are better; each reduction is an improvement.
+  It is a standard measure in the Financial Services sector.
+abbreviation: DCR-IM
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Fund Downside Return / Benchmark Downside Return
+formula_definition:
+  formula_id: dea:formula-downside-capture-ratio-deep-dive
+  expression: Fund Downside Return / Benchmark Downside Return
+  inputs:
+  - name: Fund Downside Return
+  - name: Benchmark Downside Return
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3001
+    batch: '7'
+domain: investment_management_portfolio_operations
+sector: financial_services

@@ -1,0 +1,51 @@
+id: dea:metric-security-debt-age
+name: Security Debt Age
+type: Metric
+description: Within Application Security (AppSec), Security Debt Age (SDA-AS) is used to gauge exposure
+  to adverse outcomes. It is reviewed at cadence by planning owners to correct course before issues become
+  strategic. It is computed as Average Age of Open Security Backlog Items, expressed in days. It should
+  be driven down, since lower readings signal healthier performance. Its use is concentrated in Software.
+abbreviation: SDA-AS
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Average Age of Open Security Backlog Items
+formula_definition:
+  formula_id: dea:formula-security-debt-age
+  expression: Average Age of Open Security Backlog Items
+  inputs:
+  - name: Average Age of Open Security Backlog Items
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3333
+    batch: '7'
+domain: application_security_appsec
+sector: software

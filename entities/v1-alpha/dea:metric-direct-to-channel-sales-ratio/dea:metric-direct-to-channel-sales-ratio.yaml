@@ -1,0 +1,52 @@
+id: dea:metric-direct-to-channel-sales-ratio
+name: Direct-to-Channel Sales Ratio
+type: Metric
+description: A Channel & Distribution Management indicator, Direct-to-Channel Sales Ratio (DCSR) quantifies
+  strategy. Its trend is watched by senior leadership as an early signal of structural performance shifts.
+  It is defined as Direct Sales / Channel Sales; the result is stated in ratio (x:1 or x). The objective
+  is neither maximization nor minimization but staying within an agreed operating band. Practitioners
+  in nearly any industry can adopt it directly.
+abbreviation: DCSR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- strategy
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Direct Sales / Channel Sales
+formula_definition:
+  formula_id: dea:formula-direct-to-channel-sales-ratio
+  expression: Direct Sales / Channel Sales
+  inputs:
+  - name: Direct Sales
+  - name: Channel Sales
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3987
+    batch: '8'
+domain: channel_distribution_management

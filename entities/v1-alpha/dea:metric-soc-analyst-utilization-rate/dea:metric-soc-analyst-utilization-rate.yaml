@@ -1,0 +1,52 @@
+id: dea:metric-soc-analyst-utilization-rate
+name: SOC Analyst Utilization Rate
+type: Metric
+description: SOC Analyst Utilization Rate (SAUR-SOC) captures the utilization or availability of capacity
+  for organizations tracking secops & security operations center. Its calculation is Triage Hours / Shift
+  Hours, measured in percent (%). It provides the day-to-day signal that a process is running as designed.
+  It is managed toward a defined target band rather than an extreme - both overshoot and undershoot can
+  signal problems. Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: SAUR-SOC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Triage Hours / Shift Hours
+formula_definition:
+  formula_id: dea:formula-soc-analyst-utilization-rate
+  expression: Triage Hours / Shift Hours
+  inputs:
+  - name: Triage Hours
+  - name: Shift Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2778
+    batch: '7'
+domain: secops_security_operations_center

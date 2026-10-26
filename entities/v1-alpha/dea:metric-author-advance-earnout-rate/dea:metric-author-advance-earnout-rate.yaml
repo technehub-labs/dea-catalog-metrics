@@ -1,0 +1,53 @@
+id: dea:metric-author-advance-earnout-rate
+name: Author Advance Earnout Rate
+type: Metric
+description: Author Advance Earnout Rate (AAER-P) addresses the economic value created or preserved and
+  is a fixture of publishing & news media reporting. Its calculation is Titles Earning out Advances /
+  Titles with Advances, measured in percent (%). It originates from and is most used in Media & Entertainment
+  practice. It informs long-horizon decisions and is typically tracked on enterprise dashboards rather
+  than team boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: AAER-P
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Titles Earning out Advances / Titles with Advances
+formula_definition:
+  formula_id: dea:formula-author-advance-earnout-rate
+  expression: Titles Earning out Advances / Titles with Advances
+  inputs:
+  - name: Titles Earning out Advances
+  - name: Titles with Advances
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1974
+    batch: '6'
+domain: publishing_news_media
+sector: media_entertainment

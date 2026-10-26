@@ -1,0 +1,53 @@
+id: dea:metric-scrap-cost-per-defect-opportunity
+name: Scrap Cost per Defect Opportunity
+type: Metric
+description: 'Within Process Capability & Six Sigma (Deep Dive), Scrap Cost per Defect Opportunity (SCPDO)
+  is used to gauge the economic value created or preserved. The formula is Scrap Cost / Defect Opportunities
+  - reported in currency per unit. It guides mid-horizon planning: portfolio, program, and function owners
+  act on it between review cycles. Lower values are better; each reduction is an improvement. It is a
+  standard measure in the Manufacturing sector.'
+abbreviation: SCPDO
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Scrap Cost / Defect Opportunities
+formula_definition:
+  formula_id: dea:formula-scrap-cost-per-defect-opportunity
+  expression: Scrap Cost / Defect Opportunities
+  inputs:
+  - name: Scrap Cost
+  - name: Defect Opportunities
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4092
+    batch: '9'
+domain: process_capability_six_sigma_deep_dive
+sector: manufacturing

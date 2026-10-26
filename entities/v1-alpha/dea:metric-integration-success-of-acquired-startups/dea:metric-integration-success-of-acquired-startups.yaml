@@ -1,0 +1,53 @@
+id: dea:metric-integration-success-of-acquired-startups
+name: Integration Success of Acquired Startups
+type: Metric
+description: Within Corporate Venturing & Partnerships, Integration Success of Acquired Startups (ISAS)
+  is used to gauge exposure to adverse outcomes. It is defined as Acquisitions Retaining Founders and
+  Targets at 24 Months / Acquisitions; the result is stated in percent (%). Its trend is watched by senior
+  leadership as an early signal of structural performance shifts. Higher values are better; gains are
+  read as improvement and losses as deterioration. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.
+abbreviation: ISAS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Acquisitions Retaining Founders and Targets at 24 Months / Acquisitions
+formula_definition:
+  formula_id: dea:formula-integration-success-of-acquired-startups
+  expression: Acquisitions Retaining Founders and Targets at 24 Months / Acquisitions
+  inputs:
+  - name: Acquisitions Retaining Founders and Targets at 24 Months
+  - name: Acquisitions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1407
+    batch: '5'
+domain: corporate_venturing_partnerships

@@ -1,0 +1,53 @@
+id: dea:metric-physical-occupancy-rate-portfolio
+name: Physical Occupancy Rate (Portfolio)
+type: Metric
+description: A Real Estate Portfolio & Property Management indicator, Physical Occupancy Rate (Portfolio)
+  (POR-P) quantifies the utilization or availability of capacity. Its calculation is Occupied Units or
+  Area / Total Units or Area, measured in percent (%). It originates from and is most used in Real Estate
+  practice. It informs long-horizon decisions and is typically tracked on enterprise dashboards rather
+  than team boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: POR-P
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Occupied Units or Area / Total Units or Area
+formula_definition:
+  formula_id: dea:formula-physical-occupancy-rate-portfolio
+  expression: Occupied Units or Area / Total Units or Area
+  inputs:
+  - name: Occupied Units or Area
+  - name: Total Units or Area
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1740
+    batch: '6'
+domain: real_estate_portfolio_property_management
+sector: real_estate

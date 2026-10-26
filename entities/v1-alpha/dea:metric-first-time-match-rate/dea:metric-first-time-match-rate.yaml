@@ -1,0 +1,53 @@
+id: dea:metric-first-time-match-rate
+name: First-Time Match Rate
+type: Metric
+description: First-Time Match Rate (FTMR) addresses the quality of outputs and outcomes and is a fixture
+  of accounts payable & receivable operations (deep dive) reporting. Its calculation is Invoices Auto-Matched
+  on First Pass / Invoices, measured in percent (%). It is applied across virtually every sector. It provides
+  the day-to-day signal that a process is running as designed. It should be maximized within the limits
+  of cost and quality trade-offs.
+abbreviation: FTMR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Invoices Auto-Matched on First Pass / Invoices
+formula_definition:
+  formula_id: dea:formula-first-time-match-rate
+  expression: Invoices Auto-Matched on First Pass / Invoices
+  inputs:
+  - name: Invoices Auto
+  - name: Matched on First Pass
+  - name: Invoices
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3797
+    batch: '8'
+domain: accounts_payable_receivable_operations_deep_dive

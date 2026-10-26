@@ -1,0 +1,52 @@
+id: dea:metric-labor-productivity
+name: Labor Productivity
+type: Metric
+description: Labor Productivity (LP) addresses how efficiently resources are converted into outputs and
+  is a fixture of operations reporting. It is reviewed at cadence by planning owners to correct course
+  before issues become strategic. It is computed as Output Units / Labor Hour, expressed in ratio (x:1
+  or x). Improvement means raising this figure toward best-in-class levels. Practitioners in nearly any
+  industry can adopt it directly.
+abbreviation: LP
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Output Units / Labor Hour
+formula_definition:
+  formula_id: dea:formula-labor-productivity
+  expression: Output Units / Labor Hour
+  inputs:
+  - name: Output Units
+  - name: Labor Hour
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 165
+    batch: '1'
+domain: operations

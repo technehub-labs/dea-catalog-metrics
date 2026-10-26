@@ -1,0 +1,53 @@
+id: dea:metric-revenue-per-member-deep-dive
+name: Revenue per Member (Deep Dive)
+type: Metric
+description: 'Within Fitness & Wellness (Deep Dive), Revenue per Member (Deep Dive) (RPM-D) is used to
+  gauge the economic value created or preserved. It is computed as Total Revenue / Active Members, expressed
+  in currency per unit. It is a headline indicator: movement in it prompts leadership questions about
+  strategy and resourcing. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is concentrated in Health & Fitness.'
+abbreviation: RPM-D
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Revenue / Active Members
+formula_definition:
+  formula_id: dea:formula-revenue-per-member-deep-dive
+  expression: Total Revenue / Active Members
+  inputs:
+  - name: Total Revenue
+  - name: Active Members
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2016
+    batch: '6'
+domain: fitness_wellness_deep_dive
+sector: health_fitness

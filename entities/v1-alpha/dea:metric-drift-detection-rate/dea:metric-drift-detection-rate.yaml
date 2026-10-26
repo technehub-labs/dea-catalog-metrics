@@ -1,0 +1,52 @@
+id: dea:metric-drift-detection-rate
+name: Drift Detection Rate
+type: Metric
+description: Drift Detection Rate (DDR-CS) measures exposure to adverse outcomes in the Cloud Security
+  Posture Management domain. Front-line and delivery teams watch it in real time, as small deviations
+  demand immediate correction. It is computed as Config Drift Events Detected before Change Window / Drift
+  Events, expressed in percent (%). Improvement means raising this figure toward best-in-class levels.
+  Practitioners in nearly any industry can adopt it directly.
+abbreviation: DDR-CS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Config Drift Events Detected before Change Window / Drift Events
+formula_definition:
+  formula_id: dea:formula-drift-detection-rate
+  expression: Config Drift Events Detected before Change Window / Drift Events
+  inputs:
+  - name: Config Drift Events Detected before Change Window
+  - name: Drift Events
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3312
+    batch: '7'
+domain: cloud_security_posture_management

@@ -1,0 +1,52 @@
+id: dea:metric-asset-downtime-cost-per-incident
+name: Asset Downtime Cost per Incident
+type: Metric
+description: Asset Downtime Cost per Incident (ADCI) measures exposure to adverse outcomes in the Field
+  Service & Asset Performance domain. The formula is Total Downtime Cost / Downtime Incidents - reported
+  in currency per unit. It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. Lower values are better; each reduction is an improvement. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: ADCI
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- operations
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Downtime Cost / Downtime Incidents
+formula_definition:
+  formula_id: dea:formula-asset-downtime-cost-per-incident
+  expression: Total Downtime Cost / Downtime Incidents
+  inputs:
+  - name: Total Downtime Cost
+  - name: Downtime Incidents
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3385
+    batch: '7'
+domain: field_service_asset_performance

@@ -1,0 +1,52 @@
+id: dea:metric-llm-token-cost-per-resolution
+name: LLM Token Cost per Resolution
+type: Metric
+description: A Generative AI & LLM Operations indicator, LLM Token Cost per Resolution (LLMTCR) quantifies
+  how efficiently resources are converted into outputs. Its trend is watched by senior leadership as an
+  early signal of structural performance shifts. It is defined as Token and Inference Cost / Resolved
+  Interactions; the result is stated in currency per unit. It should be driven down, since lower readings
+  signal healthier performance. Practitioners in nearly any industry can adopt it directly.
+abbreviation: LLMTCR
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Token and Inference Cost / Resolved Interactions
+formula_definition:
+  formula_id: dea:formula-llm-token-cost-per-resolution
+  expression: Token and Inference Cost / Resolved Interactions
+  inputs:
+  - name: Token and Inference Cost
+  - name: Resolved Interactions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2543
+    batch: '7'
+domain: generative_ai_llm_operations

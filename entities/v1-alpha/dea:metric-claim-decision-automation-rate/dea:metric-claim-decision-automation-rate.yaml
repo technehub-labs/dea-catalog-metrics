@@ -1,0 +1,53 @@
+id: dea:metric-claim-decision-automation-rate
+name: Claim Decision Automation Rate
+type: Metric
+description: Within Insurance Claims Deep Dive, Claim Decision Automation Rate (CDAR) is used to gauge
+  how efficiently resources are converted into outputs. Its calculation is Decisions Made by Rules or
+  Models / Decisions, measured in percent (%). It informs long-horizon decisions and is typically tracked
+  on enterprise dashboards rather than team boards. Higher values are better; gains are read as improvement
+  and losses as deterioration. It originates from and is most used in Insurance practice.
+abbreviation: CDAR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Decisions Made by Rules or Models / Decisions
+formula_definition:
+  formula_id: dea:formula-claim-decision-automation-rate
+  expression: Decisions Made by Rules or Models / Decisions
+  inputs:
+  - name: Decisions Made by Rules or Models
+  - name: Decisions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1564
+    batch: '6'
+domain: insurance_claims_deep_dive
+sector: insurance

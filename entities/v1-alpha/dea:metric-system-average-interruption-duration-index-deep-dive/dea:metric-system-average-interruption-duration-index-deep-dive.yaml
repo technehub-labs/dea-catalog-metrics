@@ -1,0 +1,54 @@
+id: dea:metric-system-average-interruption-duration-index-deep-dive
+name: System Average Interruption Duration Index (Deep Dive)
+type: Metric
+description: 'System Average Interruption Duration Index (Deep Dive) (SAIDI-D) addresses the quality of
+  outputs and outcomes and is a fixture of utilities field operations & grid reporting. It is computed
+  as Customer-Minutes Interrupted / Customers Served, expressed in minutes. Its use is concentrated in
+  Utilities. It is a headline indicator: movement in it prompts leadership questions about strategy and
+  resourcing. Reduction is the goal, and sustained decreases indicate successful intervention.'
+abbreviation: SAIDI-D
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: IEEE Std 1366 reliability indices
+calculation_definition: Customer-Minutes Interrupted / Customers Served
+formula_definition:
+  formula_id: dea:formula-system-average-interruption-duration-index-deep-dive
+  expression: Customer-Minutes Interrupted / Customers Served
+  inputs:
+  - name: Customer
+  - name: Minutes Interrupted
+  - name: Customers Served
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1882
+    batch: '6'
+domain: utilities_field_operations_grid
+sector: utilities

@@ -74,11 +74,12 @@ Records are classified on 5 axes plus a directionality axis:
 Because these axes jointly define a Metric's identity, two records may not share
 the same axis signature. The `check_mece_coverage` gate is the arbiter.
 
-## Status (CR-MET-009, 2026-10-20)
+## Status (CR-MET-016, 2026-10-26)
 
-- **5 Metric records admitted**, all at version 1.2.0: Customer Retention Rate,
-  Mean Time to Recovery, Operating Margin, Data Completeness, Control
-  Effectiveness Rate. These are the pilot cohort; they are not a complete set.
+- **4428 Metric records**: 5 admitted (the CR-MET-009 pilot cohort, all at
+  version 1.2.0: Customer Retention Rate, Mean Time to Recovery, Operating
+  Margin, Data Completeness, Control Effectiveness Rate) and 4423 candidates
+  ingested from the candidate-metrics seed workbook.
 - **8 validation gates run in CI**: schema, measurement-conformance, MECE
   coverage, evidence anchors, threshold semantics, dual-anchor, formula
   namespace, and field alignment, plus a pytest run. See
@@ -91,6 +92,19 @@ the same axis signature. The `check_mece_coverage` gate is the arbiter.
   optional `domain`, `sector`, and `source_credit`. A field-alias registry
   maps an external vocabulary onto the catalog's canonical names, for
   ingesting Metric contributions.
+- **Seed ingestion** (CR-MET-016): `seeds/open-deam-candidate-metrics-seed.xlsx`
+  is a committed, versioned artefact, and `scripts/ingest_seed.py` maps its
+  fields and values onto this schema through the alias registry and
+  `classifications/seed-value-maps.yaml`. A seed value with no mapping stops
+  the ingestion rather than being guessed, and CI checks the corpus against
+  the workbook. `scripts/report_coverage.py` reports how the corpus is
+  distributed across the axes.
+- **Lifecycle-aware requiredness** (CR-MET-016): a `candidate` record carries
+  the 15 fields the source provides. Any other lifecycle carries those plus
+  the 4 admission fields (`subject_concept`, `measurement_nature`,
+  `orientation_classification`, `measurement_nature_detail`). The seed has no
+  column for any of them, and the workbook's own field guide does not mention
+  them, so requiring them of a candidate would mean inventing them.
 
 See [docs/FOUNDATIONS.md](./docs/FOUNDATIONS.md) for the canonical scope,
 classification model, dual-anchor model, MECE coverage target, and pilot
@@ -112,10 +126,15 @@ dea-catalog-metrics/
 |
 |-- entities/v1-alpha/               # Metric records (admitted + candidate)
 |
+|-- seeds/                           # the candidate-metrics seed workbook
+|   `-- open-deam-candidate-metrics-seed.xlsx
+|
 |-- schemas/entity.schema.json       # SUPERSET of dea-metamodel metric.json
 |-- classifications/                 # 5-axis vocabularies + field-alias registry
+|                                     # + seed-value maps
 |
 |-- scripts/                         # gate scripts + catalog regenerator
+|                                     # + seed ingestion + coverage report
 |-- tests/                           # gate tests
 |
 |-- docs/FOUNDATIONS.md              # scope, classification, dual-anchor, MECE, pilot
@@ -156,10 +175,12 @@ Three constraints are easy to miss and are enforced in CI, not by review:
 - **MECE uniqueness.** The 5-axis signature must not collide with an existing
   record. Copying an existing record and renaming it fails
   `check_mece_coverage`.
-- **The pilot-count assertion.** `tests/test_conformance.py` asserts the record
-  count is 5 ("CR-MET-009: pilot must have 5 metrics"). Adding a record makes
-  that test red until the same PR updates the count. This is a pilot-era
-  assertion and is tracked for removal.
+- **The corpus check.** `tests/test_conformance.py` reads the seed workbook
+  and asserts that every seed-derived record exists, that the set of ids
+  matches the workbook's, and that each record's provenance points back at its
+  own workbook row. It replaced the pilot-era assertion that the catalog holds
+  exactly 5 records, which turned red on any addition. A hard-coded count is
+  replaced by a derived relationship.
 - **Registry freshness.** `CATALOG.yaml` is generated. Edit a record, then run
   `python3 scripts/regenerate_catalog.py` and commit the result in the same
   change. Since CR-MET-014 the generator is idempotent, so CI fails a PR whose

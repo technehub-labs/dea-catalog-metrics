@@ -1,0 +1,52 @@
+id: dea:metric-losses-and-gains-variance-refining
+name: Losses and Gains Variance (Refining)
+type: Metric
+description: Losses and Gains Variance (Refining) (LGV) measures the quality of outputs and outcomes in
+  the Oil & Gas Downstream & Refining domain. It is reviewed at cadence by planning owners to correct
+  course before issues become strategic. It is computed as Measured Output vs Theoretical Output Variance,
+  expressed in percent (%). The objective is neither maximization nor minimization but staying within
+  an agreed operating band. Its use is concentrated in Oil & Gas.
+abbreviation: LGV
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Measured Output vs Theoretical Output Variance
+formula_definition:
+  formula_id: dea:formula-losses-and-gains-variance-refining
+  expression: Measured Output vs Theoretical Output Variance
+  inputs:
+  - name: Measured Output vs Theoretical Output Variance
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2303
+    batch: '6'
+domain: oil_gas_downstream_refining
+sector: oil_gas

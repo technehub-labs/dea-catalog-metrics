@@ -1,0 +1,52 @@
+id: dea:metric-master-data-compliance
+name: Master Data Compliance
+type: Metric
+description: 'Master Data Compliance (MDC) captures conformance to standards, plans, or obligations for
+  organizations tracking data management & analytics. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. The formula is Records Meeting Governance Standards
+  / Total Records - reported in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.'
+abbreviation: MDC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:DataEntity
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Records Meeting Governance Standards / Total Records
+formula_definition:
+  formula_id: dea:formula-master-data-compliance
+  expression: Records Meeting Governance Standards / Total Records
+  inputs:
+  - name: Records Meeting Governance Standards
+  - name: Total Records
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 339
+    batch: '1'
+domain: data_management_analytics

@@ -1,0 +1,52 @@
+id: dea:metric-portfolio-value-delivery-rate
+name: Portfolio Value Delivery Rate
+type: Metric
+description: Portfolio Value Delivery Rate (PVDR) measures the economic value created or preserved in
+  the Program & Portfolio Management domain. It informs long-horizon decisions and is typically tracked
+  on enterprise dashboards rather than team boards. Its calculation is Value Realized / Portfolio Investment,
+  measured in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners
+  in nearly any industry can adopt it directly.
+abbreviation: PVDR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Value Realized / Portfolio Investment
+formula_definition:
+  formula_id: dea:formula-portfolio-value-delivery-rate
+  expression: Value Realized / Portfolio Investment
+  inputs:
+  - name: Value Realized
+  - name: Portfolio Investment
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2959
+    batch: '7'
+domain: program_portfolio_management

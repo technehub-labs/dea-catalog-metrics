@@ -1,0 +1,53 @@
+id: dea:metric-cross-dock-throughput
+name: Cross-Dock Throughput
+type: Metric
+description: Within Warehousing, Cross-Dock Throughput (CDT) is used to gauge the utilization or availability
+  of capacity. It is computed as Units Cross-Docked / Day, expressed in count (items per period). It is
+  applied across virtually every sector. Front-line and delivery teams watch it in real time, as small
+  deviations demand immediate correction. It should be maximized within the limits of cost and quality
+  trade-offs.
+abbreviation: CDT
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Units Cross-Docked / Day
+formula_definition:
+  formula_id: dea:formula-cross-dock-throughput
+  expression: Units Cross-Docked / Day
+  inputs:
+  - name: Units Cross
+  - name: Docked
+  - name: Day
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 219
+    batch: '1'
+domain: warehousing

@@ -1,0 +1,52 @@
+id: dea:metric-noc-first-level-resolution-rate
+name: NOC First-Level Resolution Rate
+type: Metric
+description: A Network Operations Center (Deep Dive) indicator, NOC First-Level Resolution Rate (NOCFLR)
+  quantifies how efficiently resources are converted into outputs. Its value drives prioritization and
+  resource reallocation among competing initiatives. Its calculation is Tickets Resolved at NOC Tier 1
+  / Tickets, measured in percent (%). Improvement means raising this figure toward best-in-class levels.
+  Practitioners in nearly any industry can adopt it directly.
+abbreviation: NOCFLR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Tickets Resolved at NOC Tier 1 / Tickets
+formula_definition:
+  formula_id: dea:formula-noc-first-level-resolution-rate
+  expression: Tickets Resolved at NOC Tier 1 / Tickets
+  inputs:
+  - name: Tickets Resolved at NOC Tier 1
+  - name: Tickets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2840
+    batch: '7'
+domain: network_operations_center_deep_dive

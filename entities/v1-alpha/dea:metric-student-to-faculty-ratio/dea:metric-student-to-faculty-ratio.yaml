@@ -1,0 +1,53 @@
+id: dea:metric-student-to-faculty-ratio
+name: Student-to-Faculty Ratio
+type: Metric
+description: Student-to-Faculty Ratio (SFR) measures the utilization or availability of capacity in the
+  Education domain. It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. The formula is Enrolled Students / Faculty Members - reported in ratio (x:1 or x). The objective
+  is neither maximization nor minimization but staying within an agreed operating band. It is a standard
+  measure in the Education sector.
+abbreviation: SFR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- capacity
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Enrolled Students / Faculty Members
+formula_definition:
+  formula_id: dea:formula-student-to-faculty-ratio
+  expression: Enrolled Students / Faculty Members
+  inputs:
+  - name: Enrolled Students
+  - name: Faculty Members
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 516
+    batch: '1'
+domain: education
+sector: education

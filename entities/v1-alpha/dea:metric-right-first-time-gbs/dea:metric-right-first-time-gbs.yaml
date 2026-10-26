@@ -1,0 +1,52 @@
+id: dea:metric-right-first-time-gbs
+name: Right First Time (GBS)
+type: Metric
+description: Within Shared Services & Global Business Services, Right First Time (GBS) (RFT-GBS) is used
+  to gauge the quality of outputs and outcomes. Front-line and delivery teams watch it in real time, as
+  small deviations demand immediate correction. It is computed as Requests Completed without Rework /
+  Requests Completed, expressed in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: RFT-GBS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Requests Completed without Rework / Requests Completed
+formula_definition:
+  formula_id: dea:formula-right-first-time-gbs
+  expression: Requests Completed without Rework / Requests Completed
+  inputs:
+  - name: Requests Completed without Rework
+  - name: Requests Completed
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1053
+    batch: '4'
+domain: shared_services_global_business_services

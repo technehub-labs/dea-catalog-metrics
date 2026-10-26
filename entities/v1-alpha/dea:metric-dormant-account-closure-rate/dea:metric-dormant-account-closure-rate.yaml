@@ -1,0 +1,52 @@
+id: dea:metric-dormant-account-closure-rate
+name: Dormant Account Closure Rate
+type: Metric
+description: 'Dormant Account Closure Rate (DACR-IAM) measures exposure to adverse outcomes in the Identity
+  & Access Management Operations domain. The formula is Dormant Accounts Disabled per Policy / Detected
+  - reported in percent (%). It is monitored close to the work: teams act on it within a shift, sprint,
+  or daily review. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: DACR-IAM
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Dormant Accounts Disabled per Policy / Detected
+formula_definition:
+  formula_id: dea:formula-dormant-account-closure-rate
+  expression: Dormant Accounts Disabled per Policy / Detected
+  inputs:
+  - name: Dormant Accounts Disabled per Policy
+  - name: Detected
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2823
+    batch: '7'
+domain: identity_access_management_operations

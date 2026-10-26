@@ -1,0 +1,53 @@
+id: dea:metric-effective-tax-rate
+name: Effective Tax Rate
+type: Metric
+description: 'Effective Tax Rate (ETR) captures conformance to standards, plans, or obligations for organizations
+  tracking tax & fiscal. It is computed as Total Tax Expense / Pre-Tax Accounting Income, expressed in
+  percent (%). It is applied across virtually every sector. It is a headline indicator: movement in it
+  prompts leadership questions about strategy and resourcing. Values outside the intended band, on either
+  side, warrant investigation.'
+abbreviation: ETR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Total Tax Expense / Pre-Tax Accounting Income
+formula_definition:
+  formula_id: dea:formula-effective-tax-rate
+  expression: Total Tax Expense / Pre-Tax Accounting Income
+  inputs:
+  - name: Total Tax Expense
+  - name: Pre
+  - name: Tax Accounting Income
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 604
+    batch: '2'
+domain: tax_fiscal

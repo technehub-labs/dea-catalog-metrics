@@ -1,0 +1,52 @@
+id: dea:metric-stage-gate-bypass-rate
+name: Stage Gate Bypass Rate
+type: Metric
+description: Within Program & Portfolio Management, Stage Gate Bypass Rate (SGBR-PPM) is used to gauge
+  conformance to standards, plans, or obligations. Its calculation is Gates Approved with Exceptions or
+  Waivers / Gates, measured in percent (%). It informs long-horizon decisions and is typically tracked
+  on enterprise dashboards rather than team boards. Lower values are better; each reduction is an improvement.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: SGBR-PPM
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Gates Approved with Exceptions or Waivers / Gates
+formula_definition:
+  formula_id: dea:formula-stage-gate-bypass-rate
+  expression: Gates Approved with Exceptions or Waivers / Gates
+  inputs:
+  - name: Gates Approved with Exceptions or Waivers
+  - name: Gates
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2971
+    batch: '7'
+domain: program_portfolio_management

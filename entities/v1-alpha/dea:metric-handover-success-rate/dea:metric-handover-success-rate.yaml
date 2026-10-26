@@ -1,0 +1,53 @@
+id: dea:metric-handover-success-rate
+name: Handover Success Rate
+type: Metric
+description: Handover Success Rate (HOSR) addresses the quality of outputs and outcomes and is a fixture
+  of telecom network operations reporting. It is computed as Successful Handovers / Handover Attempts,
+  expressed in percent (%). Its use is concentrated in Telecommunications. Front-line and delivery teams
+  watch it in real time, as small deviations demand immediate correction. It should be maximized within
+  the limits of cost and quality trade-offs.
+abbreviation: HOSR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Successful Handovers / Handover Attempts
+formula_definition:
+  formula_id: dea:formula-handover-success-rate
+  expression: Successful Handovers / Handover Attempts
+  inputs:
+  - name: Successful Handovers
+  - name: Handover Attempts
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 862
+    batch: '3'
+domain: telecom_network_operations
+sector: telecommunications

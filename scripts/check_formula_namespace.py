@@ -43,6 +43,12 @@ because the meaning of a reserved form is fixed catalogue-wide.
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import load_metrics  # noqa: E402
+
 import re
 import sys
 from pathlib import Path
@@ -76,7 +82,7 @@ QUALIFIERS = {"mean", "time", "average", "total", "sum", "rate", "ratio"}
 VAR_RE = re.compile(r"^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=")
 
 
-def _load_metrics() -> list[tuple[str, dict]]:
+def load_metrics() -> list[tuple[str, dict]]:
     out = []
     for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
         if path.parent.name.startswith("dea:metric-"):
@@ -124,7 +130,7 @@ def _core(text: str) -> frozenset[str]:
 
 
 def main() -> int:
-    metrics = _load_metrics()
+    metrics = load_metrics()
     blocking: list[str] = []
     advisory: list[str] = []
 

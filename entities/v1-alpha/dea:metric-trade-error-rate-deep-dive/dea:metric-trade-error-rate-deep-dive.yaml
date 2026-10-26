@@ -1,0 +1,53 @@
+id: dea:metric-trade-error-rate-deep-dive
+name: Trade Error Rate (Deep Dive)
+type: Metric
+description: Within Investment Management - Portfolio Operations, Trade Error Rate (Deep Dive) (TER-D)
+  is used to gauge the quality of outputs and outcomes. It provides the day-to-day signal that a process
+  is running as designed. Its calculation is Trade Errors / Trades, measured in events per thousand or
+  million (scaled). It should be driven down, since lower readings signal healthier performance. It originates
+  from and is most used in Financial Services practice.
+abbreviation: TER-D
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Trade Errors / Trades
+formula_definition:
+  formula_id: dea:formula-trade-error-rate-deep-dive
+  expression: Trade Errors / Trades
+  inputs:
+  - name: Trade Errors
+  - name: Trades
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3014
+    batch: '7'
+domain: investment_management_portfolio_operations
+sector: financial_services

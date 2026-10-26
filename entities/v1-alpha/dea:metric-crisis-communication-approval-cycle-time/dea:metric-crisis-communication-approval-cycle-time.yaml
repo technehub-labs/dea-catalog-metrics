@@ -1,0 +1,51 @@
+id: dea:metric-crisis-communication-approval-cycle-time
+name: Crisis Communication Approval Cycle Time
+type: Metric
+description: Crisis Communication Approval Cycle Time (CCACT) measures how efficiently resources are converted
+  into outputs in the Crisis Management & Emergency Response domain. Its calculation is Minutes to Draft,
+  Approve and Issue Public Statement, measured in minutes. It is applied across virtually every sector.
+  It informs long-horizon decisions and is typically tracked on enterprise dashboards rather than team
+  boards. Reduction is the goal, and sustained decreases indicate successful intervention.
+abbreviation: CCACT
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: Public domain - no attribution required
+calculation_definition: Minutes to Draft, Approve and Issue Public Statement
+formula_definition:
+  formula_id: dea:formula-crisis-communication-approval-cycle-time
+  expression: Minutes to Draft, Approve and Issue Public Statement
+  inputs:
+  - name: Minutes to Draft, Approve and Issue Public Statement
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3537
+    batch: '8'
+domain: crisis_management_emergency_response

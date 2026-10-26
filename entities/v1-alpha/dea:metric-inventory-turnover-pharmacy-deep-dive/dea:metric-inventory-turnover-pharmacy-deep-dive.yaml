@@ -1,0 +1,53 @@
+id: dea:metric-inventory-turnover-pharmacy-deep-dive
+name: Inventory Turnover - Pharmacy (Deep Dive)
+type: Metric
+description: Inventory Turnover - Pharmacy (Deep Dive) (ITP-D) measures how efficiently resources are
+  converted into outputs in the Pharmacy Retail domain. It is computed as Cost of Goods / Average Inventory,
+  expressed in times per period. Its use is concentrated in Healthcare. It is reviewed at cadence by planning
+  owners to correct course before issues become strategic. It should be maximized within the limits of
+  cost and quality trade-offs.
+abbreviation: ITP-D
+unit: times
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-times
+source_credit: Public domain - no attribution required
+calculation_definition: Cost of Goods / Average Inventory
+formula_definition:
+  formula_id: dea:formula-inventory-turnover-pharmacy-deep-dive
+  expression: Cost of Goods / Average Inventory
+  inputs:
+  - name: Cost of Goods
+  - name: Average Inventory
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-times
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2290
+    batch: '6'
+domain: pharmacy_retail
+sector: healthcare

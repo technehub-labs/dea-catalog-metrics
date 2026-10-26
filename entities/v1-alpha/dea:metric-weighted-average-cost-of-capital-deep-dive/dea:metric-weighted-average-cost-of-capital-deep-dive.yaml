@@ -1,0 +1,53 @@
+id: dea:metric-weighted-average-cost-of-capital-deep-dive
+name: Weighted Average Cost of Capital (Deep Dive)
+type: Metric
+description: Weighted Average Cost of Capital (Deep Dive) (WACC) addresses the economic value created
+  or preserved and is a fixture of valuation & corporate finance standard measures reporting. The formula
+  is Weighted Cost of Equity and After-Tax Debt - reported in percent (%). It carries weight in boardroom
+  and executive reviews, where it anchors cross-organization trade-offs. Lower values are better; each
+  reduction is an improvement. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: WACC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Weighted Cost of Equity and After-Tax Debt
+formula_definition:
+  formula_id: dea:formula-weighted-average-cost-of-capital-deep-dive
+  expression: Weighted Cost of Equity and After-Tax Debt
+  inputs:
+  - name: Weighted Cost of Equity and After
+  - name: Tax Debt
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4038
+    batch: '9'
+domain: valuation_corporate_finance_standard_measures

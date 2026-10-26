@@ -1,0 +1,53 @@
+id: dea:metric-soc-cost-per-investigated-incident
+name: SOC Cost per Investigated Incident
+type: Metric
+description: SOC Cost per Investigated Incident (SOCPII) addresses how efficiently resources are converted
+  into outputs and is a fixture of secops & security operations center reporting. It is defined as SOC
+  Operating Cost / Investigated Incidents; the result is stated in currency value. Its trend is watched
+  by senior leadership as an early signal of structural performance shifts. Lower values are better; each
+  reduction is an improvement. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: SOCPII
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: SOC Operating Cost / Investigated Incidents
+formula_definition:
+  formula_id: dea:formula-soc-cost-per-investigated-incident
+  expression: SOC Operating Cost / Investigated Incidents
+  inputs:
+  - name: SOC Operating Cost
+  - name: Investigated Incidents
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2796
+    batch: '7'
+domain: secops_security_operations_center

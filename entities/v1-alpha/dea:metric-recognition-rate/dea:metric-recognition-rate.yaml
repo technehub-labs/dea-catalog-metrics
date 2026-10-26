@@ -1,0 +1,52 @@
+id: dea:metric-recognition-rate
+name: Recognition Rate
+type: Metric
+description: Recognition Rate (RGR-E) measures the engagement or satisfaction of the people involved in
+  the Culture & Employee Experience domain. Its calculation is Employees Recognized per Period / Employees,
+  measured in percent (%). It provides the day-to-day signal that a process is running as designed. Higher
+  values are better; gains are read as improvement and losses as deterioration. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: RGR-E
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- engagement
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Employees Recognized per Period / Employees
+formula_definition:
+  formula_id: dea:formula-recognition-rate
+  expression: Employees Recognized per Period / Employees
+  inputs:
+  - name: Employees Recognized per Period
+  - name: Employees
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1358
+    batch: '5'
+domain: culture_employee_experience

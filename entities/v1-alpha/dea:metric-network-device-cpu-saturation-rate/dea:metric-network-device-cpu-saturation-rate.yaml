@@ -1,0 +1,52 @@
+id: dea:metric-network-device-cpu-saturation-rate
+name: Network Device CPU Saturation Rate
+type: Metric
+description: Network Device CPU Saturation Rate (NDCPU) captures the utilization or availability of capacity
+  for organizations tracking network performance & capacity. It is computed as Devices above CPU Threshold
+  / Devices, expressed in percent (%). It is applied across virtually every sector. Front-line and delivery
+  teams watch it in real time, as small deviations demand immediate correction. Reduction is the goal,
+  and sustained decreases indicate successful intervention.
+abbreviation: NDCPU
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Devices above CPU Threshold / Devices
+formula_definition:
+  formula_id: dea:formula-network-device-cpu-saturation-rate
+  expression: Devices above CPU Threshold / Devices
+  inputs:
+  - name: Devices above CPU Threshold
+  - name: Devices
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3359
+    batch: '7'
+domain: network_performance_capacity

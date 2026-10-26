@@ -1,0 +1,52 @@
+id: dea:metric-api-breaking-change-density
+name: API Breaking Change Density
+type: Metric
+description: 'Within Code Quality & Static Analysis, API Breaking Change Density (APBCD) is used to gauge
+  exposure to adverse outcomes. The formula is Breaking Changes per Major Release - reported in ratio
+  (x:1 or x). It is monitored close to the work: teams act on it within a shift, sprint, or daily review.
+  Lower values are better; each reduction is an improvement. It is a standard measure in the Software
+  sector.'
+abbreviation: APBCD
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Breaking Changes per Major Release
+formula_definition:
+  formula_id: dea:formula-api-breaking-change-density
+  expression: Breaking Changes per Major Release
+  inputs:
+  - name: Breaking Changes per Major Release
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4192
+    batch: '9'
+domain: code_quality_static_analysis
+sector: software

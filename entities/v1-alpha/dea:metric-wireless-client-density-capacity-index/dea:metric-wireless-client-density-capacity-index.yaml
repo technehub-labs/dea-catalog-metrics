@@ -1,0 +1,51 @@
+id: dea:metric-wireless-client-density-capacity-index
+name: Wireless Client Density Capacity Index
+type: Metric
+description: 'Wireless Client Density Capacity Index (WCDI) measures the utilization or availability of
+  capacity in the Network Performance & Capacity domain. It is monitored close to the work: teams act
+  on it within a shift, sprint, or daily review. The formula is Concurrent Clients per AP vs Design Threshold
+  - reported in index (0-100 or normalized). The objective is neither maximization nor minimization but
+  staying within an agreed operating band. Practitioners in nearly any industry can adopt it directly.'
+abbreviation: WCDI
+unit: index
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-index
+source_credit: Public domain - no attribution required
+calculation_definition: Concurrent Clients per AP vs Design Threshold
+formula_definition:
+  formula_id: dea:formula-wireless-client-density-capacity-index
+  expression: Concurrent Clients per AP vs Design Threshold
+  inputs:
+  - name: Concurrent Clients per AP vs Design Threshold
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-index
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3354
+    batch: '7'
+domain: network_performance_capacity

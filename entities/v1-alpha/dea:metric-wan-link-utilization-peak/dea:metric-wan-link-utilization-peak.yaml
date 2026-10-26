@@ -1,0 +1,52 @@
+id: dea:metric-wan-link-utilization-peak
+name: WAN Link Utilization Peak
+type: Metric
+description: 'A Network Performance & Capacity indicator, WAN Link Utilization Peak (WLUP) quantifies
+  the utilization or availability of capacity. It is monitored close to the work: teams act on it within
+  a shift, sprint, or daily review. The formula is Peak Period Traffic / Circuit Capacity - reported in
+  percent (%). The objective is neither maximization nor minimization but staying within an agreed operating
+  band. Practitioners in nearly any industry can adopt it directly.'
+abbreviation: WLUP
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Peak Period Traffic / Circuit Capacity
+formula_definition:
+  formula_id: dea:formula-wan-link-utilization-peak
+  expression: Peak Period Traffic / Circuit Capacity
+  inputs:
+  - name: Peak Period Traffic
+  - name: Circuit Capacity
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3341
+    batch: '7'
+domain: network_performance_capacity

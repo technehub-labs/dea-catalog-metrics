@@ -11,23 +11,17 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-import yaml
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import load_metrics  # noqa: E402
+
 
 BASE = Path(__file__).parent.parent
 ENTITIES_DIR = BASE / "entities"
 
 
-def _load_metrics():
-    metrics = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
-        if path.parent.name.startswith("dea:metric-"):
-            metrics.append((path.parent.name, yaml.safe_load(path.read_text())))
-    return metrics
-
-
 def main():
     findings = []
-    for mid, m in _load_metrics():
+    for mid, m in load_metrics():
         if m.get("lifecycle_status") != "admitted":
             continue
         fd = m.get("formula_definition") or {}
@@ -43,7 +37,7 @@ def main():
         for f in findings:
             print(f"  {f}")
         sys.exit(1)
-    n = sum(1 for _, m in _load_metrics() if m.get("lifecycle_status") == "admitted")
+    n = sum(1 for _, m in load_metrics() if m.get("lifecycle_status") == "admitted")
     print(f"PASS: check_measurement_conformance.py ({n} admitted metrics, 0 findings)")
 
 

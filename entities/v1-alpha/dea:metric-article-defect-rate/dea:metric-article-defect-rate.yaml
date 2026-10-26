@@ -1,0 +1,52 @@
+id: dea:metric-article-defect-rate
+name: Article Defect Rate
+type: Metric
+description: Article Defect Rate (ADR-KM) measures the quality of outputs and outcomes in the Knowledge
+  Management (Deep Dive) domain. Its calculation is Articles Flagged Incorrect / Articles, measured in
+  events per thousand or million (scaled). It is applied across virtually every sector. It provides the
+  day-to-day signal that a process is running as designed. Reduction is the goal, and sustained decreases
+  indicate successful intervention.
+abbreviation: ADR-KM
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Articles Flagged Incorrect / Articles
+formula_definition:
+  formula_id: dea:formula-article-defect-rate
+  expression: Articles Flagged Incorrect / Articles
+  inputs:
+  - name: Articles Flagged Incorrect
+  - name: Articles
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3927
+    batch: '8'
+domain: knowledge_management_deep_dive

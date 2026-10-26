@@ -1,0 +1,54 @@
+id: dea:metric-total-cost-of-ownership-per-application-deep-dive
+name: Total Cost of Ownership per Application (Deep Dive)
+type: Metric
+description: Total Cost of Ownership per Application (Deep Dive) (TCOA-D) captures how efficiently resources
+  are converted into outputs for organizations tracking it financial management & technology budgeting.
+  It carries weight in boardroom and executive reviews, where it anchors cross-organization trade-offs.
+  The formula is Annual All-in Application Cost / Application - reported in currency value. It should
+  be driven down, since lower readings signal healthier performance. Practitioners in nearly any industry
+  can adopt it directly.
+abbreviation: TCOA-D
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Annual All-in Application Cost / Application
+formula_definition:
+  formula_id: dea:formula-total-cost-of-ownership-per-application-deep-dive
+  expression: Annual All-in Application Cost / Application
+  inputs:
+  - name: Annual All
+  - name: in Application Cost
+  - name: Application
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3179
+    batch: '7'
+domain: it_financial_management_technology_budgeting

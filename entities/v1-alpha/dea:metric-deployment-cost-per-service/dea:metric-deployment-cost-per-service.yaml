@@ -1,0 +1,51 @@
+id: dea:metric-deployment-cost-per-service
+name: Deployment Cost per Service
+type: Metric
+description: Within Continuous Delivery & Deployment, Deployment Cost per Service (DCPS-CD) is used to
+  gauge how efficiently resources are converted into outputs. It is computed as Pipeline Cost per Deployable
+  Service per Month, expressed in currency value. It is applied across virtually every sector. It is reviewed
+  at cadence by planning owners to correct course before issues become strategic. Reduction is the goal,
+  and sustained decreases indicate successful intervention.
+abbreviation: DCPS-CD
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Pipeline Cost per Deployable Service per Month
+formula_definition:
+  formula_id: dea:formula-deployment-cost-per-service
+  expression: Pipeline Cost per Deployable Service per Month
+  inputs:
+  - name: Pipeline Cost per Deployable Service per Month
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2701
+    batch: '7'
+domain: continuous_delivery_deployment

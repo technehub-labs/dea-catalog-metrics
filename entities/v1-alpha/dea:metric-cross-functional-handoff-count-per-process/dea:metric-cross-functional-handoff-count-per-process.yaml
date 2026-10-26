@@ -1,0 +1,52 @@
+id: dea:metric-cross-functional-handoff-count-per-process
+name: Cross-Functional Handoff Count per Process
+type: Metric
+description: 'Cross-Functional Handoff Count per Process (CFHCP) addresses how efficiently resources are
+  converted into outputs and is a fixture of operating model monitoring & design effectiveness reporting.
+  The formula is Handoffs between Functions per Process - reported in count (items per period). It guides
+  mid-horizon planning: portfolio, program, and function owners act on it between review cycles. Lower
+  values are better; each reduction is an improvement. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.'
+abbreviation: CFHCP
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Handoffs between Functions per Process
+formula_definition:
+  formula_id: dea:formula-cross-functional-handoff-count-per-process
+  expression: Handoffs between Functions per Process
+  inputs:
+  - name: Handoffs between Functions per Process
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3120
+    batch: '7'
+domain: operating_model_monitoring_design_effectiveness

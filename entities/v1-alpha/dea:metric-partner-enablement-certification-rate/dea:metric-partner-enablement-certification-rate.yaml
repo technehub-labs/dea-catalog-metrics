@@ -1,0 +1,52 @@
+id: dea:metric-partner-enablement-certification-rate
+name: Partner Enablement Certification Rate
+type: Metric
+description: Partner Enablement Certification Rate (PECR) captures capability maturity or development
+  for organizations tracking alliances & partnerships management. Its calculation is Partner Staff Certified
+  / Required Certifications, measured in percent (%). Its value drives prioritization and resource reallocation
+  among competing initiatives. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: PECR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Partner Staff Certified / Required Certifications
+formula_definition:
+  formula_id: dea:formula-partner-enablement-certification-rate
+  expression: Partner Staff Certified / Required Certifications
+  inputs:
+  - name: Partner Staff Certified
+  - name: Required Certifications
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3959
+    batch: '8'
+domain: alliances_partnerships_management

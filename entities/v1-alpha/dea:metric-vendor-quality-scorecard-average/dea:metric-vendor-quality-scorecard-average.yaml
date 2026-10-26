@@ -1,0 +1,52 @@
+id: dea:metric-vendor-quality-scorecard-average
+name: Vendor Quality Scorecard Average
+type: Metric
+description: Vendor Quality Scorecard Average (VQSA) captures the quality of outputs and outcomes for
+  organizations tracking outsourcing & vendor management. It is computed as Average Weighted Quality Score
+  across Strategic Vendors, expressed in score (points). It is reviewed at cadence by planning owners
+  to correct course before issues become strategic. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: VQSA
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Average Weighted Quality Score across Strategic Vendors
+formula_definition:
+  formula_id: dea:formula-vendor-quality-scorecard-average
+  expression: Average Weighted Quality Score across Strategic Vendors
+  inputs:
+  - name: Average Weighted Quality Score across Strategic Vendors
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1131
+    batch: '4'
+domain: outsourcing_vendor_management

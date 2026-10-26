@@ -1,0 +1,53 @@
+id: dea:metric-mortgage-offer-fall-through-rate
+name: Mortgage Offer Fall-Through Rate
+type: Metric
+description: Mortgage Offer Fall-Through Rate (MOFTR) measures exposure to adverse outcomes in the Banking
+  Retail Lending (Deep Dive) domain. Its value drives prioritization and resource reallocation among competing
+  initiatives. Its calculation is Offers Not Proceeding to Completion / Offers, measured in percent (%).
+  It should be driven down, since lower readings signal healthier performance. It originates from and
+  is most used in Banking practice.
+abbreviation: MOFTR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Offers Not Proceeding to Completion / Offers
+formula_definition:
+  formula_id: dea:formula-mortgage-offer-fall-through-rate
+  expression: Offers Not Proceeding to Completion / Offers
+  inputs:
+  - name: Offers Not Proceeding to Completion
+  - name: Offers
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2086
+    batch: '6'
+domain: banking_retail_lending_deep_dive
+sector: banking

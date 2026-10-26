@@ -1,0 +1,52 @@
+id: dea:metric-board-reporting-cadence-compliance
+name: Board Reporting Cadence Compliance
+type: Metric
+description: Board Reporting Cadence Compliance (BRCC-S) measures governance in the Startup & Venture-Backed
+  Business domain. It is reviewed at cadence by planning owners to correct course before issues become
+  strategic. It is computed as Board Packs Delivered on Schedule / Board Cycles, expressed in percent
+  (%). Improvement means raising this figure toward best-in-class levels. Practitioners in nearly any
+  industry can adopt it directly.
+abbreviation: BRCC-S
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- governance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Board Packs Delivered on Schedule / Board Cycles
+formula_definition:
+  formula_id: dea:formula-board-reporting-cadence-compliance
+  expression: Board Packs Delivered on Schedule / Board Cycles
+  inputs:
+  - name: Board Packs Delivered on Schedule
+  - name: Board Cycles
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2448
+    batch: '6'
+domain: startup_venture_backed_business

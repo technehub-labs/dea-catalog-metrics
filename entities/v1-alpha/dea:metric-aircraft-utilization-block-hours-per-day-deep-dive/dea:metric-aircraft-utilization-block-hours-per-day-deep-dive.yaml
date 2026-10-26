@@ -1,0 +1,53 @@
+id: dea:metric-aircraft-utilization-block-hours-per-day-deep-dive
+name: Aircraft Utilization - Block Hours per Day (Deep Dive)
+type: Metric
+description: Within Airline Operations (Deep Dive), Aircraft Utilization - Block Hours per Day (Deep Dive)
+  (AUHD-D) is used to gauge the utilization or availability of capacity. The formula is Block Hours /
+  Aircraft Days - reported in hours. It carries weight in boardroom and executive reviews, where it anchors
+  cross-organization trade-offs. Higher values are better; gains are read as improvement and losses as
+  deterioration. It is a standard measure in the Airlines sector.
+abbreviation: AUHD-D
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Block Hours / Aircraft Days
+formula_definition:
+  formula_id: dea:formula-aircraft-utilization-block-hours-per-day-deep-dive
+  expression: Block Hours / Aircraft Days
+  inputs:
+  - name: Block Hours
+  - name: Aircraft Days
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2251
+    batch: '6'
+domain: airline_operations_deep_dive
+sector: airlines

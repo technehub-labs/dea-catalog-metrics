@@ -1,0 +1,53 @@
+id: dea:metric-syndication-and-licensing-revenue-ratio
+name: Syndication and Licensing Revenue Ratio
+type: Metric
+description: 'Syndication and Licensing Revenue Ratio (SLRR) addresses the economic value created or preserved
+  and is a fixture of publishing & news media reporting. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. The formula is Licensing Revenue / Total Revenue
+  - reported in percent (%). The objective is neither maximization nor minimization but staying within
+  an agreed operating band. It is a standard measure in the Media & Entertainment sector.'
+abbreviation: SLRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Licensing Revenue / Total Revenue
+formula_definition:
+  formula_id: dea:formula-syndication-and-licensing-revenue-ratio
+  expression: Licensing Revenue / Total Revenue
+  inputs:
+  - name: Licensing Revenue
+  - name: Total Revenue
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1977
+    batch: '6'
+domain: publishing_news_media
+sector: media_entertainment

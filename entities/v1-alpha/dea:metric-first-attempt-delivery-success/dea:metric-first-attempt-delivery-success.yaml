@@ -1,0 +1,53 @@
+id: dea:metric-first-attempt-delivery-success
+name: First-Attempt Delivery Success
+type: Metric
+description: 'Within Postal & Courier, First-Attempt Delivery Success (FADS) is used to gauge the quality
+  of outputs and outcomes. It is monitored close to the work: teams act on it within a shift, sprint,
+  or daily review. The formula is Items Delivered on First Attempt / Delivery Attempts - reported in percent
+  (%). Improvement means raising this figure toward best-in-class levels. It is a standard measure in
+  the Postal & courier sector.'
+abbreviation: FADS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Items Delivered on First Attempt / Delivery Attempts
+formula_definition:
+  formula_id: dea:formula-first-attempt-delivery-success
+  expression: Items Delivered on First Attempt / Delivery Attempts
+  inputs:
+  - name: Items Delivered on First Attempt
+  - name: Delivery Attempts
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 825
+    batch: '2'
+domain: postal_courier
+sector: postal_courier

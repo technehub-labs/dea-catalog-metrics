@@ -1,0 +1,52 @@
+id: dea:metric-code-review-coverage
+name: Code Review Coverage
+type: Metric
+description: Within Software Development - Coding & Engineering Practices, Code Review Coverage (CRC-SD)
+  is used to gauge the quality of outputs and outcomes. It provides the day-to-day signal that a process
+  is running as designed. Its calculation is Changes Reviewed before Merge / Changes Merged, measured
+  in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners in
+  nearly any industry can adopt it directly.
+abbreviation: CRC-SD
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Changes Reviewed before Merge / Changes Merged
+formula_definition:
+  formula_id: dea:formula-code-review-coverage
+  expression: Changes Reviewed before Merge / Changes Merged
+  inputs:
+  - name: Changes Reviewed before Merge
+  - name: Changes Merged
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2640
+    batch: '7'
+domain: software_development_coding_engineering_practices

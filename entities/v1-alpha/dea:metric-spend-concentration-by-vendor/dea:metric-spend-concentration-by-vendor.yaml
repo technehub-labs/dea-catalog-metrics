@@ -1,0 +1,52 @@
+id: dea:metric-spend-concentration-by-vendor
+name: Spend Concentration by Vendor
+type: Metric
+description: Spend Concentration by Vendor (SCV) measures exposure to adverse outcomes in the Outsourcing
+  & Vendor Management domain. Its trend is watched by senior leadership as an early signal of structural
+  performance shifts. It is defined as Largest Vendor Spend / Total Outsourced Spend; the result is stated
+  in percent (%). It should be driven down, since lower readings signal healthier performance. Practitioners
+  in nearly any industry can adopt it directly.
+abbreviation: SCV
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Largest Vendor Spend / Total Outsourced Spend
+formula_definition:
+  formula_id: dea:formula-spend-concentration-by-vendor
+  expression: Largest Vendor Spend / Total Outsourced Spend
+  inputs:
+  - name: Largest Vendor Spend
+  - name: Total Outsourced Spend
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1130
+    batch: '4'
+domain: outsourcing_vendor_management

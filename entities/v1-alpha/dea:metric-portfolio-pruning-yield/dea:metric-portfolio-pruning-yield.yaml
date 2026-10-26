@@ -1,0 +1,54 @@
+id: dea:metric-portfolio-pruning-yield
+name: Portfolio Pruning Yield
+type: Metric
+description: A Intellectual Property & Licensing indicator, Portfolio Pruning Yield (PPY) quantifies how
+  efficiently resources are converted into outputs. It is defined as Low-Value Assets Divested or Abandoned
+  / Flagged Assets; the result is stated in percent (%). It bridges daily operations and executive reporting,
+  giving managers a lever to pull within a quarter. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: PPY
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Low-Value Assets Divested or Abandoned / Flagged Assets
+formula_definition:
+  formula_id: dea:formula-portfolio-pruning-yield
+  expression: Low-Value Assets Divested or Abandoned / Flagged Assets
+  inputs:
+  - name: Low
+  - name: Value Assets Divested or Abandoned
+  - name: Flagged Assets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3953
+    batch: '8'
+domain: intellectual_property_licensing

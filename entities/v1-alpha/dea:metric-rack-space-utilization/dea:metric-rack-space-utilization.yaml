@@ -1,0 +1,54 @@
+id: dea:metric-rack-space-utilization
+name: Rack Space Utilization
+type: Metric
+description: 'Rack Space Utilization (RSU) addresses the utilization or availability of capacity and is
+  a fixture of data center & cloud operations reporting. The formula is Occupied Rack Units / Total Rack
+  Units - reported in percent (%). It guides mid-horizon planning: portfolio, program, and function owners
+  act on it between review cycles. It is managed toward a defined target band rather than an extreme -
+  both overshoot and undershoot can signal problems. It is a standard measure in the Technology & data
+  centers sector.'
+abbreviation: RSU
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Occupied Rack Units / Total Rack Units
+formula_definition:
+  formula_id: dea:formula-rack-space-utilization
+  expression: Occupied Rack Units / Total Rack Units
+  inputs:
+  - name: Occupied Rack Units
+  - name: Total Rack Units
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1091
+    batch: '4'
+domain: data_center_cloud_operations
+sector: technology_data_centers

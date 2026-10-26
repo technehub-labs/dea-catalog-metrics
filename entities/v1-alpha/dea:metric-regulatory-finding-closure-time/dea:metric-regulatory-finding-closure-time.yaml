@@ -1,0 +1,51 @@
+id: dea:metric-regulatory-finding-closure-time
+name: Regulatory Finding Closure Time
+type: Metric
+description: Regulatory Finding Closure Time (RFCT) addresses conformance to standards, plans, or obligations
+  and is a fixture of risk & compliance reporting. Its calculation is Days from Finding to Verified Closure,
+  measured in days. It is applied across virtually every sector. Its value drives prioritization and resource
+  reallocation among competing initiatives. Reduction is the goal, and sustained decreases indicate successful
+  intervention.
+abbreviation: RFCT
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days from Finding to Verified Closure
+formula_definition:
+  formula_id: dea:formula-regulatory-finding-closure-time
+  expression: Days from Finding to Verified Closure
+  inputs:
+  - name: Days from Finding to Verified Closure
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 378
+    batch: '1'
+domain: risk_compliance

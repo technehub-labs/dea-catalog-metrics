@@ -1,0 +1,54 @@
+id: dea:metric-direct-material-usage-variance
+name: Direct Material Usage Variance
+type: Metric
+description: A Manufacturing indicator, Direct Material Usage Variance (DMUV) quantifies the economic
+  value created or preserved. It is computed as (Actual Material Used - Standard Material) x Standard
+  Price, expressed in currency value. It is reviewed at cadence by planning owners to correct course before
+  issues become strategic. Lower values are better; each reduction is an improvement. Its use is concentrated
+  in Manufacturing.
+abbreviation: DMUV
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: (Actual Material Used - Standard Material) x Standard Price
+formula_definition:
+  formula_id: dea:formula-direct-material-usage-variance
+  expression: (Actual Material Used - Standard Material) x Standard Price
+  inputs:
+  - name: Actual Material Used
+  - name: Standard Material
+  - name: x Standard Price
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 256
+    batch: '1'
+domain: manufacturing
+sector: manufacturing

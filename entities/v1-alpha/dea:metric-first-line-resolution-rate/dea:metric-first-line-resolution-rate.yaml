@@ -1,0 +1,52 @@
+id: dea:metric-first-line-resolution-rate
+name: First Line Resolution Rate
+type: Metric
+description: 'A IT Service Management indicator, First Line Resolution Rate (FLRR) quantifies how efficiently
+  resources are converted into outputs. It is defined as Tickets Resolved at First Line / Total Tickets;
+  the result is stated in percent (%). It is a working-level control: thresholds trigger immediate operational
+  response. Higher values are better; gains are read as improvement and losses as deterioration. Its use
+  is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: FLRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Tickets Resolved at First Line / Total Tickets
+formula_definition:
+  formula_id: dea:formula-first-line-resolution-rate
+  expression: Tickets Resolved at First Line / Total Tickets
+  inputs:
+  - name: Tickets Resolved at First Line
+  - name: Total Tickets
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 310
+    batch: '1'
+domain: it_service_management

@@ -1,0 +1,51 @@
+id: dea:metric-learning-hours-delivered
+name: Learning Hours Delivered
+type: Metric
+description: Learning Hours Delivered (LHD) addresses the utilization or availability of capacity and
+  is a fixture of learning & development reporting. Its calculation is Total Learner Instruction Hours
+  per Period, measured in hours. It provides the day-to-day signal that a process is running as designed.
+  Higher values are better; gains are read as improvement and losses as deterioration. Its use is not
+  sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: LHD
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Total Learner Instruction Hours per Period
+formula_definition:
+  formula_id: dea:formula-learning-hours-delivered
+  expression: Total Learner Instruction Hours per Period
+  inputs:
+  - name: Total Learner Instruction Hours per Period
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 799
+    batch: '2'
+domain: learning_development

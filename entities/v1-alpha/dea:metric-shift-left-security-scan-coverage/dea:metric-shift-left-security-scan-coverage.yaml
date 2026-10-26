@@ -1,0 +1,53 @@
+id: dea:metric-shift-left-security-scan-coverage
+name: Shift-Left Security Scan Coverage
+type: Metric
+description: Shift-Left Security Scan Coverage (SLSSC) measures capability maturity or development in
+  the DevSecOps & Application Security Engineering domain. Its calculation is Pipelines with Security
+  Scanning at Build Time / Pipelines, measured in percent (%). It informs long-horizon decisions and is
+  typically tracked on enterprise dashboards rather than team boards. Higher values are better; gains
+  are read as improvement and losses as deterioration. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.
+abbreviation: SLSSC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Pipelines with Security Scanning at Build Time / Pipelines
+formula_definition:
+  formula_id: dea:formula-shift-left-security-scan-coverage
+  expression: Pipelines with Security Scanning at Build Time / Pipelines
+  inputs:
+  - name: Pipelines with Security Scanning at Build Time
+  - name: Pipelines
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2748
+    batch: '7'
+domain: devsecops_application_security_engineering

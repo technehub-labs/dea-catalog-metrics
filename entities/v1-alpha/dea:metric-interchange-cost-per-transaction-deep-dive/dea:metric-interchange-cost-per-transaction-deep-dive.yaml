@@ -1,0 +1,53 @@
+id: dea:metric-interchange-cost-per-transaction-deep-dive
+name: Interchange Cost per Transaction (Deep Dive)
+type: Metric
+description: A Payments & Cards (Deep Dive) indicator, Interchange Cost per Transaction (Deep Dive) (ICPT-D)
+  quantifies how efficiently resources are converted into outputs. Its value drives prioritization and
+  resource reallocation among competing initiatives. Its calculation is Interchange Fees / Transactions,
+  measured in currency per unit. It should be driven down, since lower readings signal healthier performance.
+  It originates from and is most used in Payments practice.
+abbreviation: ICPT-D
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Interchange Fees / Transactions
+formula_definition:
+  formula_id: dea:formula-interchange-cost-per-transaction-deep-dive
+  expression: Interchange Fees / Transactions
+  inputs:
+  - name: Interchange Fees
+  - name: Transactions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2093
+    batch: '6'
+domain: payments_cards_deep_dive
+sector: payments

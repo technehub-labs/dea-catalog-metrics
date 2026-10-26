@@ -1,0 +1,52 @@
+id: dea:metric-market-share-growth
+name: Market Share Growth
+type: Metric
+description: A Strategy & Portfolio indicator, Market Share Growth (MSG) quantifies growth over time.
+  It is defined as (Market Share_current - Market Share_prior) / Market Share_prior; the result is stated
+  in percent (%). Its trend is watched by senior leadership as an early signal of structural performance
+  shifts. Higher values are better; gains are read as improvement and losses as deterioration. Its use
+  is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: MSG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- growth
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: (Market Share_current - Market Share_prior) / Market Share_prior
+formula_definition:
+  formula_id: dea:formula-market-share-growth
+  expression: (Market Share_current - Market Share_prior) / Market Share_prior
+  inputs:
+  - name: Market Share_current
+  - name: Market Share_prior
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 365
+    batch: '1'
+domain: strategy_portfolio

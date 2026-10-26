@@ -1,0 +1,53 @@
+id: dea:metric-interagency-case-referral-cycle-time
+name: Interagency Case Referral Cycle Time
+type: Metric
+description: Interagency Case Referral Cycle Time (ICRC) addresses how efficiently resources are converted
+  into outputs and is a fixture of government & public administration reporting. Its calculation is Days
+  for Cross-Agency Case Completion, measured in days. Its value drives prioritization and resource reallocation
+  among competing initiatives. Lower values are better; each reduction is an improvement. It originates
+  from and is most used in Public Sector practice.
+abbreviation: ICRC
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days for Cross-Agency Case Completion
+formula_definition:
+  formula_id: dea:formula-interagency-case-referral-cycle-time
+  expression: Days for Cross-Agency Case Completion
+  inputs:
+  - name: Days for Cross
+  - name: Agency Case Completion
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1573
+    batch: '6'
+domain: government_public_administration
+sector: public_sector

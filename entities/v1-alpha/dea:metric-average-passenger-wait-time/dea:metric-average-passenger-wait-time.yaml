@@ -1,0 +1,51 @@
+id: dea:metric-average-passenger-wait-time
+name: Average Passenger Wait Time
+type: Metric
+description: 'Within Public Transit, Average Passenger Wait Time (APWT) is used to gauge the quality of
+  outputs and outcomes. The formula is Observed Waiting Time at Stops, Averaged - reported in minutes.
+  It is monitored close to the work: teams act on it within a shift, sprint, or daily review. Lower values
+  are better; each reduction is an improvement. It is a standard measure in the Public transit sector.'
+abbreviation: APWT
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: Public domain - no attribution required
+calculation_definition: Observed Waiting Time at Stops, Averaged
+formula_definition:
+  formula_id: dea:formula-average-passenger-wait-time
+  expression: Observed Waiting Time at Stops, Averaged
+  inputs:
+  - name: Observed Waiting Time at Stops, Averaged
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1004
+    batch: '3'
+domain: public_transit
+sector: public_transit

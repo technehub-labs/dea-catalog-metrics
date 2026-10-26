@@ -1,0 +1,52 @@
+id: dea:metric-compensation-ratio-to-market
+name: Compensation Ratio to Market
+type: Metric
+description: 'Compensation Ratio to Market (CRM) addresses the economic value created or preserved and
+  is a fixture of human resources reporting. It is computed as Average Salary / Market Median Salary,
+  expressed in ratio (x:1 or x). It is applied across virtually every sector. It is a headline indicator:
+  movement in it prompts leadership questions about strategy and resourcing. Values outside the intended
+  band, on either side, warrant investigation.'
+abbreviation: CRM
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Average Salary / Market Median Salary
+formula_definition:
+  formula_id: dea:formula-compensation-ratio-to-market
+  expression: Average Salary / Market Median Salary
+  inputs:
+  - name: Average Salary
+  - name: Market Median Salary
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 143
+    batch: '1'
+domain: human_resources
