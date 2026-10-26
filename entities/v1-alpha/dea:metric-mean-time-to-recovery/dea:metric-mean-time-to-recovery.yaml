@@ -3,7 +3,9 @@ name: Mean Time to Recovery
 type: Metric
 description: The arithmetic mean of recovery times across n incidents, expressed in minutes. Recovery
   time is measured from incident-detection to service-restoration. Lower values indicate faster recovery.
-version: 1.0.1
+abbreviation: MTTR
+unit: minute
+version: 1.2.0
 lifecycle_status: admitted
 subject_concept: dea:subject-incident
 measurement_nature: numeric
@@ -88,3 +90,8 @@ metadata:
   - cr: CR-MET-014
     date: '2026-10-25'
     change: Added required description field
+  - cr: CR-MET-015
+    date: '2026-10-25'
+    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector left
+      unset pending a controlled vocabulary (Q16)
+source_credit: ITIL 4 incident management practice

@@ -4,7 +4,9 @@ type: Metric
 description: The ratio of operating income to revenue, expressed as a percentage. Operating income excludes
   non-operating items (interest, taxes, extraordinary items). Higher values indicate greater operational
   efficiency.
-version: 1.0.1
+abbreviation: OM
+unit: percent
+version: 1.2.0
 lifecycle_status: admitted
 subject_concept: dea:subject-operating-profit
 measurement_nature: numeric
@@ -95,3 +97,8 @@ metadata:
   - cr: CR-MET-014
     date: '2026-10-25'
     change: Added required description field
+  - cr: CR-MET-015
+    date: '2026-10-25'
+    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector left
+      unset pending a controlled vocabulary (Q16)
+source_credit: IFRS 15 revenue recognition

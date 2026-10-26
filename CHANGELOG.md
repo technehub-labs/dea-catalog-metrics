@@ -7,6 +7,27 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 ### Added
+- CR-MET-015: five field dimensions added to the catalog Metric schema.
+  `abbreviation` and `unit` are required; `domain`, `sector`, and
+  `source_credit` are optional. `abbreviation` must equal the left-hand
+  variable of `formula_definition.expression`, so the short form is stated in
+  one place. `unit` is coherent with `unit_ref` under the mechanical rule
+  `unit_ref` is `dea:unit-<unit>` or `dea:unit-ratio-<unit>`. `source_credit`
+  must appear among the record's `quality.measurement_evidence` entries.
+  The pilot records are bumped 1.0.1 to 1.2.0.
+- CR-MET-015: field-alias registry `classifications/field-aliases.yaml`, so a
+  Metric authored against an external vocabulary can be ingested. The catalog
+  keeps its canonical names; `subject_classification` is not renamed to
+  `subject_area`, the two are synonyms at ingestion. Nine aliases are
+  registered: `metric id`, `formula`, `unit id`, `subject_area`, `scope`,
+  `purpose`, `orientation`, `significance`, `status`.
+- CR-MET-015: `scripts/normalize_record.py`, the ingestion step that rewrites
+  alias names to canonical ones, refuses a record carrying both spellings of
+  one field with different values, and is idempotent on a canonical record.
+- CR-MET-015: `scripts/check_field_alignment.py`, wired into CI as Gate 8. It
+  checks that every alias resolves to a declared schema property, that no
+  alias collides with a canonical name, that no stored record uses an alias
+  name or carries both spellings, and the three field-coherence rules above.
 - CR-MET-014: `description` is now a first-class required field of
   `schemas/entity.schema.json` (`{type: string, minLength: 1, maxLength: 2000}`,
   mirroring the normative `dea-metamodel/schemas/entities/metric.json`). All 5

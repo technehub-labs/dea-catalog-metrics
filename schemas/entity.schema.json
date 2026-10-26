@@ -10,6 +10,8 @@
     "name",
     "type",
     "description",
+    "abbreviation",
+    "unit",
     "version",
     "lifecycle_status",
     "subject_concept",
@@ -37,6 +39,32 @@
       "minLength": 1,
       "maxLength": 2000,
       "description": "Canonical human-readable definition of this Metric record (CR-MET-014). Mirrors dea-metamodel/schemas/entities/metric.json description. Must match the record README 'Definition' section verbatim (whitespace-normalised); enforced by tests/test_conformance.py."
+    },
+    "abbreviation": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Z0-9]{1,9}$",
+      "description": "CR-MET-015: the Metric's short form. Must equal the left-hand variable of formula_definition.expression for admitted records; the formula namespace gate (check_formula_namespace.py) guards the form's meaning."
+    },
+    "unit": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*$",
+      "description": "CR-MET-015: the plain unit label the value is expressed in. Coherent with unit_ref: unit_ref must be dea:unit-<unit> or dea:unit-ratio-<unit>."
+    },
+    "domain": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*$",
+      "description": "CR-MET-015: the business domain the Metric characterises. Free slug; no controlled vocabulary exists for Metric (see CR-MET-015 Q16)."
+    },
+    "sector": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*$",
+      "description": "CR-MET-015: the industry sector the Metric applies to. Free slug; no sector axis exists in the metamodel (see CR-MET-015 Q16)."
+    },
+    "source_credit": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 500,
+      "description": "CR-MET-015: the attribution for the Metric's definition. Must appear among the record's quality.measurement_evidence entries."
     },
     "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
     "lifecycle_status": {

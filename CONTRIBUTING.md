@@ -122,7 +122,8 @@ python3 scripts/check_formula_namespace.py
 
 ## Validation gates
 
-CI runs 7 checks: the regenerator, 6 numbered gates, and pytest.
+CI runs 11 steps: the regenerator, a registry-freshness check, 8 numbered
+gates, and pytest.
 
 | Gate | Script |
 |---|---|
@@ -132,7 +133,51 @@ CI runs 7 checks: the regenerator, 6 numbered gates, and pytest.
 | 4 | `check_evidence_anchors.py` |
 | 5 | `check_threshold_semantics.py` |
 | 6 | `check_dual_anchor.py` |
-| (7) | `check_formula_namespace.py` **not wired; run it locally** |
+| 7 | `check_formula_namespace.py` |
+| 8 | `check_field_alignment.py` |
+
+Gate 7 checks that a formula's short form does not rebind a reserved meaning.
+Gate 8 checks the field-alias discipline and the coherence of the
+CR-MET-015 field dimensions: `abbreviation` against the formula short form,
+`unit` against `unit_ref`, and `source_credit` against the measurement
+evidence.
+
+## Field dimensions (CR-MET-015)
+
+Two fields are required on every record:
+
+| Field | Rule |
+|---|---|
+| `abbreviation` | The Metric's short form. It **must equal** the left-hand variable of `formula_definition.expression`, so there is one place the short form is stated. |
+| `unit` | The plain unit label, e.g. `minute`, `percent`. Coherent with `unit_ref`: that must be `dea:unit-<unit>` or `dea:unit-ratio-<unit>`. |
+
+Three more are optional:
+
+| Field | Rule |
+|---|---|
+| `domain` | Business domain the Metric characterises. A free slug; no controlled vocabulary exists for Metric yet. |
+| `sector` | Industry sector the Metric applies to. A free slug; no sector axis exists in the metamodel yet. |
+| `source_credit` | Attribution for the Metric's definition. Must appear among the record's `quality.measurement_evidence` entries. |
+
+## Ingesting a contribution written in another vocabulary
+
+A Metric authored against an external field vocabulary may use an alias for
+the catalog's canonical name, for example `subject_area` instead of
+`subject_classification`, or `metric id` instead of `id`. The catalog does
+**not** rename its own fields: the alias registry
+[`classifications/field-aliases.yaml`](./classifications/field-aliases.yaml)
+maps the external names onto the canonical ones, and the catalogue itself
+stores only canonical names.
+
+Canonicalise a contribution before you validate it:
+
+```bash
+python3 scripts/normalize_record.py <contribution.yaml> -o <canonical.yaml>
+```
+
+The normaliser rewrites alias names, refuses a record that carries both
+spellings of one field with different values, and is idempotent on a record
+that is already canonical.
 
 ## Versioning (CR-MM-04 R1)
 

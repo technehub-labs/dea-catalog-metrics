@@ -50,6 +50,8 @@ jobs:
         run: python3 scripts/check_dual_anchor.py
       - name: Gate 7 - check_formula_namespace.py
         run: python3 scripts/check_formula_namespace.py
+      - name: Gate 8 - check_field_alignment.py
+        run: python3 scripts/check_field_alignment.py
       - name: Run pytest
         run: pytest tests/ -q
         env:
