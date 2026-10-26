@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overdue Management Actions** (OMA) in 
 - **Canonical id:** `dea:metric-overdue-management-actions`
 - **Name:** Overdue Management Actions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMA
 

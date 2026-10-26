@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Unit Produced** (CPU) in the 
 - **Canonical id:** `dea:metric-cost-per-unit-produced`
 - **Name:** Cost per Unit Produced
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPU
 

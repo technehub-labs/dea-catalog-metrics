@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Respond to Alerts** (MTTR
 - **Canonical id:** `dea:metric-mean-time-to-respond-to-alerts`
 - **Name:** Mean Time to Respond to Alerts
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTRA
 
@@ -23,8 +23,8 @@ Total Alert Response Time / Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

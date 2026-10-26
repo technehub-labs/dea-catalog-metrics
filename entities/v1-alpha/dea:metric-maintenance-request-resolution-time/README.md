@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Request Resolution Time** 
 - **Canonical id:** `dea:metric-maintenance-request-resolution-time`
 - **Name:** Maintenance Request Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRRT
 
@@ -23,8 +23,8 @@ Hours from Request to Completion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

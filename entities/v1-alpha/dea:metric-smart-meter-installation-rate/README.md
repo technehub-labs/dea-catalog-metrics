@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Smart Meter Installation Rate** (SMIR)
 - **Canonical id:** `dea:metric-smart-meter-installation-rate`
 - **Name:** Smart Meter Installation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMIR
 
@@ -27,7 +27,7 @@ Smart Meters Installed / Meters in Service
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **TCA Coverage of Orders** (TCACO) in th
 - **Canonical id:** `dea:metric-tca-coverage-of-orders`
 - **Name:** TCA Coverage of Orders
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCACO
 
@@ -27,7 +27,7 @@ Orders with Transaction Cost Analysis / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

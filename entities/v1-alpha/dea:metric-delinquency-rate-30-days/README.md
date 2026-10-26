@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delinquency Rate (30+ Days)** (DEL30) 
 - **Canonical id:** `dea:metric-delinquency-rate-30-days`
 - **Name:** Delinquency Rate (30+ Days)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DEL30
 
@@ -27,7 +27,7 @@ Loans 30+ Days Past Due / Gross Loans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

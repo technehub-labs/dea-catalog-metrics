@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned-to-Reactive Maintenance Ratio 
 - **Canonical id:** `dea:metric-planned-to-reactive-maintenance-ratio-deep-dive`
 - **Name:** Planned-to-Reactive Maintenance Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRMR-D
 

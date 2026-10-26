@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punch List Closure Time** (PLCT) in th
 - **Canonical id:** `dea:metric-punch-list-closure-time`
 - **Name:** Punch List Closure Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLCT
 
@@ -23,8 +23,8 @@ Days from Handover Inspection to Punch List Completion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

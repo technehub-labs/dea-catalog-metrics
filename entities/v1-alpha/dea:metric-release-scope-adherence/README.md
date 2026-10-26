@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Scope Adherence** (RSA-RM) in 
 - **Canonical id:** `dea:metric-release-scope-adherence`
 - **Name:** Release Scope Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSA-RM
 
@@ -23,7 +23,7 @@ Delivered Scope vs Committed Scope / Committed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

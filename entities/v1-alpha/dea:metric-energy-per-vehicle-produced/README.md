@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy per Vehicle Produced** (EPV) in
 - **Canonical id:** `dea:metric-energy-per-vehicle-produced`
 - **Name:** Energy per Vehicle Produced
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPV
 

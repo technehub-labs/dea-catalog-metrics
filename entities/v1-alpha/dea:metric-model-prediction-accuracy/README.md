@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Prediction Accuracy** (MPA) in t
 - **Canonical id:** `dea:metric-model-prediction-accuracy`
 - **Name:** Model Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPA
 
@@ -27,7 +27,7 @@ Correct Model Predictions / Total Predictions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

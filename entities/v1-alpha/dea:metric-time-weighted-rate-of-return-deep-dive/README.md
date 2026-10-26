@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-Weighted Rate of Return (Deep Div
 - **Canonical id:** `dea:metric-time-weighted-rate-of-return-deep-dive`
 - **Name:** Time-Weighted Rate of Return (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TWRR-D
 
@@ -27,7 +27,7 @@ Compound Sub-Period Returns Adjusted for Flows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

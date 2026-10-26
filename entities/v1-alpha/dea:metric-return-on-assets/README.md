@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Assets** (ROA) in the OpenDE
 - **Canonical id:** `dea:metric-return-on-assets`
 - **Name:** Return on Assets
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROA
 
@@ -27,7 +27,7 @@ Net Income / Total Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

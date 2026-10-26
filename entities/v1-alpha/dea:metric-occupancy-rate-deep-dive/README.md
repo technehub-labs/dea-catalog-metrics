@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate (Deep Dive)** (OCC-D) i
 - **Canonical id:** `dea:metric-occupancy-rate-deep-dive`
 - **Name:** Occupancy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCC-D
 
@@ -23,7 +23,7 @@ Handle Time / Scheduled Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

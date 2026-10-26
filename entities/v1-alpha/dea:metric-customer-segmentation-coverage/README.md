@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segmentation Coverage** (CSC-
 - **Canonical id:** `dea:metric-customer-segmentation-coverage`
 - **Name:** Customer Segmentation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSC-A
 
@@ -27,7 +27,7 @@ Customers with Active Segment Assignment / Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

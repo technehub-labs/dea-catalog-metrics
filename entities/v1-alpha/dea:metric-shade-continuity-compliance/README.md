@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shade Continuity Compliance** (SCC-T) 
 - **Canonical id:** `dea:metric-shade-continuity-compliance`
 - **Name:** Shade Continuity Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCC-T
 
@@ -23,7 +23,7 @@ Rolls Matched for Shade within Tolerance / Rolls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

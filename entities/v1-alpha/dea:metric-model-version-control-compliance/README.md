@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Version Control Compliance** (MV
 - **Canonical id:** `dea:metric-model-version-control-compliance`
 - **Name:** Model Version Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVCC-M
 
@@ -23,7 +23,7 @@ Models with Versioned Artifacts / Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

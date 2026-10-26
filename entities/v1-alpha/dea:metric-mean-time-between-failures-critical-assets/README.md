@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time Between Failures (Critical A
 - **Canonical id:** `dea:metric-mean-time-between-failures-critical-assets`
 - **Name:** Mean Time Between Failures (Critical Assets)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTBFCA
 
@@ -27,8 +27,8 @@ Operating Hours / Failures for Critical Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

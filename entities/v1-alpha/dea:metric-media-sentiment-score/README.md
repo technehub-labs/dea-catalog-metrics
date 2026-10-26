@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Sentiment Score** (MSS-C) in the
 - **Canonical id:** `dea:metric-media-sentiment-score`
 - **Name:** Media Sentiment Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSS-C
 

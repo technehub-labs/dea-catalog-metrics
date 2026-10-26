@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Action Closure Rate** (MACR
 - **Canonical id:** `dea:metric-management-action-closure-rate`
 - **Name:** Management Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MACR
 
@@ -27,7 +27,7 @@ Actions Closed by Due Date / Actions Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

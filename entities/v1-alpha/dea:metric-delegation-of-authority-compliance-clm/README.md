@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegation of Authority Compliance (CL
 - **Canonical id:** `dea:metric-delegation-of-authority-compliance-clm`
 - **Name:** Delegation of Authority Compliance (CLM)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DOAC-CL
 
@@ -27,7 +27,7 @@ Contracts Signed per Authority Matrix / Contracts Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

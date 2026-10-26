@@ -7,7 +7,7 @@ Candidate Performance Metric record for **In-Game Purchase Frequency** (IGPF) in
 - **Canonical id:** `dea:metric-in-game-purchase-frequency`
 - **Name:** In-Game Purchase Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IGPF
 

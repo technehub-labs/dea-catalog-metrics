@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technician Training Currency** (TTC-F)
 - **Canonical id:** `dea:metric-technician-training-currency`
 - **Name:** Technician Training Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTC-F
 
@@ -23,7 +23,7 @@ Technicians with Current Certifications / Technicians
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

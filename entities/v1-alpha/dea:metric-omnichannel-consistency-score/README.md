@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Omnichannel Consistency Score** (OCS) 
 - **Canonical id:** `dea:metric-omnichannel-consistency-score`
 - **Name:** Omnichannel Consistency Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCS
 

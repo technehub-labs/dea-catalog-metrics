@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Subscription Conversion Rate (
 - **Canonical id:** `dea:metric-digital-subscription-conversion-rate-deep-dive`
 - **Name:** Digital Subscription Conversion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSCR-D
 
@@ -27,7 +27,7 @@ New Digital Subscribers / Anonymous Visitors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

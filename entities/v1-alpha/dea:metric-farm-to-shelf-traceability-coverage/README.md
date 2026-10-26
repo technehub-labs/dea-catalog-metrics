@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farm-to-Shelf Traceability Coverage** 
 - **Canonical id:** `dea:metric-farm-to-shelf-traceability-coverage`
 - **Name:** Farm-to-Shelf Traceability Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSTC
 
@@ -27,7 +27,7 @@ Batches with Full Traceability Records / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

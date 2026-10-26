@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct Channel Loss Ratio** (DCLR) in 
 - **Canonical id:** `dea:metric-direct-channel-loss-ratio`
 - **Name:** Direct Channel Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCLR
 
@@ -27,7 +27,7 @@ Direct Channel Claims / Direct Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

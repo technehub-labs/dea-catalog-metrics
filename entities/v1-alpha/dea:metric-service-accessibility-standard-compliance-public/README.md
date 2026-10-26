@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Accessibility Standard Complia
 - **Canonical id:** `dea:metric-service-accessibility-standard-compliance-public`
 - **Name:** Service Accessibility Standard Compliance (Public)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SASCP
 
@@ -27,7 +27,7 @@ Services Meeting Accessibility Obligations / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

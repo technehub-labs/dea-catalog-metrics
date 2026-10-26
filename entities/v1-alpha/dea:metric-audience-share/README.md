@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audience Share** (ASH) in the OpenDEAM
 - **Canonical id:** `dea:metric-audience-share`
 - **Name:** Audience Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASH
 
@@ -27,7 +27,7 @@ Audience for Property / Total Category Audience
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

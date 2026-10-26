@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resource Utilization on Projects** (RU
 - **Canonical id:** `dea:metric-resource-utilization-on-projects`
 - **Name:** Resource Utilization on Projects
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RUP
 
@@ -27,7 +27,7 @@ Billable or Project Hours / Available Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

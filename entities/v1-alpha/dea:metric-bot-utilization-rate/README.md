@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bot Utilization Rate** (BUR) in the Op
 - **Canonical id:** `dea:metric-bot-utilization-rate`
 - **Name:** Bot Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BUR
 
@@ -27,7 +27,7 @@ Bot Productive Hours / Bot Licensed Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

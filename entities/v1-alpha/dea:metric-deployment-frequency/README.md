@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Frequency** (DF) in the Ope
 - **Canonical id:** `dea:metric-deployment-frequency`
 - **Name:** Deployment Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DF
 

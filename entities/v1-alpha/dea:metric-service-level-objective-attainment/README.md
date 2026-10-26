@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Objective Attainment** (
 - **Canonical id:** `dea:metric-service-level-objective-attainment`
 - **Name:** Service Level Objective Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLOA
 
@@ -27,7 +27,7 @@ SLO Windows Achieved / Total Windows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

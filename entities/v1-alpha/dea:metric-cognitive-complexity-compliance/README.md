@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cognitive Complexity Compliance** (CCC
 - **Canonical id:** `dea:metric-cognitive-complexity-compliance`
 - **Name:** Cognitive Complexity Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCC-SD
 
@@ -23,7 +23,7 @@ Functions within Cognitive Complexity Limit / Functions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

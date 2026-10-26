@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Volume** (IV) in the OpenDEAM
 - **Canonical id:** `dea:metric-incident-volume`
 - **Name:** Incident Volume
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IV
 

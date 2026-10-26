@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to First Key Action** (TTKA) in t
 - **Canonical id:** `dea:metric-time-to-first-key-action`
 - **Name:** Time to First Key Action
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTKA
 
@@ -23,8 +23,8 @@ Time from Onboarding to First Key User Action
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

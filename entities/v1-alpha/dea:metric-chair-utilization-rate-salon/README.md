@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chair Utilization Rate (Salon)** (CUR-
 - **Canonical id:** `dea:metric-chair-utilization-rate-salon`
 - **Name:** Chair Utilization Rate (Salon)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CUR-S
 
@@ -23,7 +23,7 @@ Booked Stylist Hours / Available Chair Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

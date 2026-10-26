@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Story Acceptance Criteria Coverag
 - **Canonical id:** `dea:metric-user-story-acceptance-criteria-coverage`
 - **Name:** User Story Acceptance Criteria Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** USACC
 
@@ -23,7 +23,7 @@ Stories with Clear Acceptance Criteria / Stories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

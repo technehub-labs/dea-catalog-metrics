@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cost per Transaction (Deep Div
 - **Canonical id:** `dea:metric-process-cost-per-transaction-deep-dive`
 - **Name:** Process Cost per Transaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCPT-D
 

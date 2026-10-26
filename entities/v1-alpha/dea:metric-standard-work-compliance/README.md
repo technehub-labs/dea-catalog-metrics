@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Work Compliance** (SWC) in th
 - **Canonical id:** `dea:metric-standard-work-compliance`
 - **Name:** Standard Work Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SWC
 
@@ -23,7 +23,7 @@ Operations Executed per Standard Work / Operations Observed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

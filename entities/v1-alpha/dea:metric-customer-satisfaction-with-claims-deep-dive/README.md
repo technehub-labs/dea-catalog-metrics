@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction with Claims (Dee
 - **Canonical id:** `dea:metric-customer-satisfaction-with-claims-deep-dive`
 - **Name:** Customer Satisfaction with Claims (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAT-C
 

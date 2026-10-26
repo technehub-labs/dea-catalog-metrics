@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delivery Lead Time - Factory to DC (De
 - **Canonical id:** `dea:metric-delivery-lead-time-factory-to-dc-deep-dive`
 - **Name:** Delivery Lead Time - Factory to DC (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLT-D
 
@@ -23,8 +23,8 @@ Days from Ex-Factory to DC Receipt
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Debt Ratio (Deep Dive)** (TD
 - **Canonical id:** `dea:metric-technical-debt-ratio-deep-dive`
 - **Name:** Technical Debt Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDR-SA
 
@@ -27,7 +27,7 @@ Remediation Cost / Development Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

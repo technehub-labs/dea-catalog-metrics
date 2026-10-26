@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remaining Useful Life Prediction Accur
 - **Canonical id:** `dea:metric-remaining-useful-life-prediction-accuracy`
 - **Name:** Remaining Useful Life Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RULPA
 
@@ -27,7 +27,7 @@ Predicted RUL within Tolerance of Actual / Predictions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

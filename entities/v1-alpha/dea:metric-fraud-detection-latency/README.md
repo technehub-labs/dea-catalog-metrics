@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Detection Latency** (FDL-EF) in 
 - **Canonical id:** `dea:metric-fraud-detection-latency`
 - **Name:** Fraud Detection Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDL-EF
 
@@ -23,8 +23,8 @@ Days between Fraud Occurrence and Detection
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

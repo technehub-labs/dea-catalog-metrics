@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Turns to Resolution** (ATTR) i
 - **Canonical id:** `dea:metric-average-turns-to-resolution`
 - **Name:** Average Turns to Resolution
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 

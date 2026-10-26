@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alarm Response Time** (ALRT) in the Op
 - **Canonical id:** `dea:metric-alarm-response-time`
 - **Name:** Alarm Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALRT
 
@@ -23,8 +23,8 @@ Minutes from Alarm to Security Response on Scene
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

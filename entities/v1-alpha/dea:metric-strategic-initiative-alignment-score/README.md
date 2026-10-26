@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Initiative Alignment Score**
 - **Canonical id:** `dea:metric-strategic-initiative-alignment-score`
 - **Name:** Strategic Initiative Alignment Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIAS
 

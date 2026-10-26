@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Best Possible DSO Gap** (BPDG) in the 
 - **Canonical id:** `dea:metric-best-possible-dso-gap`
 - **Name:** Best Possible DSO Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BPDG
 
@@ -27,8 +27,8 @@ DSO minus Best Possible DSO
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

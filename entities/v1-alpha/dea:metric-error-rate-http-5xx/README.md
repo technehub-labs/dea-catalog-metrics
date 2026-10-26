@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Rate (HTTP 5xx)** (ERR5) in the 
 - **Canonical id:** `dea:metric-error-rate-http-5xx`
 - **Name:** Error Rate (HTTP 5xx)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERR5
 
@@ -23,7 +23,7 @@ Server Error Responses / Total Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

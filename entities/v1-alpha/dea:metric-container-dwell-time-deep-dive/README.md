@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Container Dwell Time (Deep Dive)** (CD
 - **Canonical id:** `dea:metric-container-dwell-time-deep-dive`
 - **Name:** Container Dwell Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDT-D
 
@@ -23,8 +23,8 @@ Days Container in Yard before Pickup
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

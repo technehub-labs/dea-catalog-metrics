@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Alliance Health Score** (SAH
 - **Canonical id:** `dea:metric-strategic-alliance-health-score`
 - **Name:** Strategic Alliance Health Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAHS
 

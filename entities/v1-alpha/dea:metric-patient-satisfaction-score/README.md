@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Satisfaction Score** (PSS) in 
 - **Canonical id:** `dea:metric-patient-satisfaction-score`
 - **Name:** Patient Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSS
 
@@ -27,7 +27,7 @@ Satisfied Patient Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

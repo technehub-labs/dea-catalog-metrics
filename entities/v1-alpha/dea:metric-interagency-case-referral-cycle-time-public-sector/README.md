@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interagency Case Referral Cycle Time (
 - **Canonical id:** `dea:metric-interagency-case-referral-cycle-time-public-sector`
 - **Name:** Interagency Case Referral Cycle Time (Public Sector)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICRCT
 
@@ -23,8 +23,8 @@ Days for Referral between Agencies to be Actioned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

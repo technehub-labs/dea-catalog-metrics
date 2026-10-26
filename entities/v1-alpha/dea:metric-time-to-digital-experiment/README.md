@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Digital Experiment** (TTDE) in
 - **Canonical id:** `dea:metric-time-to-digital-experiment`
 - **Name:** Time to Digital Experiment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTDE
 
@@ -27,8 +27,8 @@ Days from Idea to Live Digital Experiment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

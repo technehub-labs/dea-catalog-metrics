@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whale Share of Revenue (Gaming)** (WSR
 - **Canonical id:** `dea:metric-whale-share-of-revenue-gaming`
 - **Name:** Whale Share of Revenue (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WSR-G
 
@@ -27,7 +27,7 @@ Top Spender Cohort Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

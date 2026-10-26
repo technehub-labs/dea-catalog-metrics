@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Returns Rate (Deep Dive)** (RETDD) in 
 - **Canonical id:** `dea:metric-returns-rate-deep-dive`
 - **Name:** Returns Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RETDD
 
@@ -23,7 +23,7 @@ Returned Value / Gross Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

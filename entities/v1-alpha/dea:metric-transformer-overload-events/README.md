@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transformer Overload Events** (TOE) in
 - **Canonical id:** `dea:metric-transformer-overload-events`
 - **Name:** Transformer Overload Events
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TOE
 
@@ -23,8 +23,8 @@ Hours above Emergency Rating per Transformer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

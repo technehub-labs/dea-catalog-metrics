@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Induced Delay Rate (Airlin
 - **Canonical id:** `dea:metric-maintenance-induced-delay-rate-airline`
 - **Name:** Maintenance-Induced Delay Rate (Airline)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIDRA
 
@@ -23,7 +23,7 @@ Delays Attributed to Maintenance / Departure Delays
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

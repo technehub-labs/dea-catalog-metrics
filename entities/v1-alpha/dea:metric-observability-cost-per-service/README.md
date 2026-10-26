@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Observability Cost per Service** (OCS-
 - **Canonical id:** `dea:metric-observability-cost-per-service`
 - **Name:** Observability Cost per Service
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCS-SRE
 

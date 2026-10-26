@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Target Price Accuracy Band** (TPAB) in
 - **Canonical id:** `dea:metric-target-price-accuracy-band`
 - **Name:** Target Price Accuracy Band
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPAB
 
@@ -27,7 +27,7 @@ Actual Prices within Target Band / Targets Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Alliance Governance Cadence 
 - **Canonical id:** `dea:metric-strategic-alliance-governance-cadence-compliance`
 - **Name:** Strategic Alliance Governance Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAGCC
 
@@ -27,7 +27,7 @@ Joint Steering Meetings Held per Charter / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

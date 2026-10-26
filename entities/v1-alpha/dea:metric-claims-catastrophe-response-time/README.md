@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Catastrophe Response Time** (CC
 - **Canonical id:** `dea:metric-claims-catastrophe-response-time`
 - **Name:** Claims Catastrophe Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCRT
 
@@ -23,8 +23,8 @@ Hours from Catastrophe Event to First Claim Response
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Foreign Object Damage Rate** (FODR) in
 - **Canonical id:** `dea:metric-foreign-object-damage-rate`
 - **Name:** Foreign Object Damage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FODR
 
@@ -23,8 +23,8 @@ Foreign Object Damage Events / Flight Hours x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

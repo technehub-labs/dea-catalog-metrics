@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engagement Satisfaction Score** (ESS) 
 - **Canonical id:** `dea:metric-engagement-satisfaction-score`
 - **Name:** Engagement Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESS
 
@@ -27,7 +27,7 @@ Satisfied Client Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

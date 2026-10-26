@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Content Ratio** (DCR-KM) in 
 - **Canonical id:** `dea:metric-duplicate-content-ratio`
 - **Name:** Duplicate Content Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCR-KM
 
@@ -23,7 +23,7 @@ Redundant Articles / Total Articles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

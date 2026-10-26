@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vital Records Protection Coverage** (V
 - **Canonical id:** `dea:metric-vital-records-protection-coverage`
 - **Name:** Vital Records Protection Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VRPC
 
@@ -23,7 +23,7 @@ Vital Records Stored per Retention and Protection Standard / Vital Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

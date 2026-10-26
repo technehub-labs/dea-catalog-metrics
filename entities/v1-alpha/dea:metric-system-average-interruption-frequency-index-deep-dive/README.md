@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Frequency 
 - **Canonical id:** `dea:metric-system-average-interruption-frequency-index-deep-dive`
 - **Name:** System Average Interruption Frequency Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAIFI-D
 

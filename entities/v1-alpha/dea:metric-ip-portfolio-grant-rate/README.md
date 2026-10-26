@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Portfolio Grant Rate** (IPGR) in th
 - **Canonical id:** `dea:metric-ip-portfolio-grant-rate`
 - **Name:** IP Portfolio Grant Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPGR
 
@@ -27,7 +27,7 @@ Granted IP Applications / Applications Filed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

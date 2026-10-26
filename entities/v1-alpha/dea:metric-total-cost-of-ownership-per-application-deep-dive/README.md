@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Cost of Ownership per Applicatio
 - **Canonical id:** `dea:metric-total-cost-of-ownership-per-application-deep-dive`
 - **Name:** Total Cost of Ownership per Application (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCOA-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Failed Settlement Rate (Investments)**
 - **Canonical id:** `dea:metric-failed-settlement-rate-investments`
 - **Name:** Failed Settlement Rate (Investments)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSRI
 
@@ -23,7 +23,7 @@ Settlements Failed on Settlement Date / Settlements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

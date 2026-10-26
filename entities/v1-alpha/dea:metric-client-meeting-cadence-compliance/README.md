@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Meeting Cadence Compliance** (C
 - **Canonical id:** `dea:metric-client-meeting-cadence-compliance`
 - **Name:** Client Meeting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMCC
 
@@ -23,7 +23,7 @@ Clients Reviewed per Service Schedule / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defects per Unit** (DPU) in the OpenDE
 - **Canonical id:** `dea:metric-defects-per-unit`
 - **Name:** Defects per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPU
 

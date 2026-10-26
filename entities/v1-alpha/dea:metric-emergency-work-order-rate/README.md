@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Work Order Rate** (EWR) in t
 - **Canonical id:** `dea:metric-emergency-work-order-rate`
 - **Name:** Emergency Work Order Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EWR
 
@@ -27,7 +27,7 @@ Emergency Work Orders / Total Work Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

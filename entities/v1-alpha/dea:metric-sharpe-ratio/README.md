@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sharpe Ratio** (SHARPE) in the OpenDEA
 - **Canonical id:** `dea:metric-sharpe-ratio`
 - **Name:** Sharpe Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SHARPE
 

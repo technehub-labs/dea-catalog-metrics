@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Radar Refresh Currency** (RRRC) i
 - **Canonical id:** `dea:metric-risk-radar-refresh-currency`
 - **Name:** Risk Radar Refresh Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRRC
 
@@ -23,7 +23,7 @@ Risk Radar Updated per Cadence / Required Updates
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

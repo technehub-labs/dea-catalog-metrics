@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SD-WAN Path Selection Efficiency** (SP
 - **Canonical id:** `dea:metric-sd-wan-path-selection-efficiency`
 - **Name:** SD-WAN Path Selection Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPSE
 
@@ -23,7 +23,7 @@ Optimal Path Selections / Steering Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

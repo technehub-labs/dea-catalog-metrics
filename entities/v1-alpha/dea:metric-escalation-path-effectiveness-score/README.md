@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Path Effectiveness Score** 
 - **Canonical id:** `dea:metric-escalation-path-effectiveness-score`
 - **Name:** Escalation Path Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPES
 

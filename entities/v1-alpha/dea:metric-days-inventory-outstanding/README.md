@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Inventory Outstanding** (DIO) in 
 - **Canonical id:** `dea:metric-days-inventory-outstanding`
 - **Name:** Days Inventory Outstanding
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIO
 
@@ -27,8 +27,8 @@ Measures the average number of days inventory sits before being sold. It matters
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

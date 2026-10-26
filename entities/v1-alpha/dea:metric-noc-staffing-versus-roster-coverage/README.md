@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Staffing versus Roster Coverage** 
 - **Canonical id:** `dea:metric-noc-staffing-versus-roster-coverage`
 - **Name:** NOC Staffing versus Roster Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSVRC
 
@@ -23,7 +23,7 @@ Shifts Fully Covered / Shifts Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

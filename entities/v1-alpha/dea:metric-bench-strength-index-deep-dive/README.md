@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bench Strength Index (Deep Dive)** (BS
 - **Canonical id:** `dea:metric-bench-strength-index-deep-dive`
 - **Name:** Bench Strength Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSIDD
 

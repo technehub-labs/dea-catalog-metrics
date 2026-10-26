@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin Return on Inventory** (GM
 - **Canonical id:** `dea:metric-gross-margin-return-on-inventory`
 - **Name:** Gross Margin Return on Inventory
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMROI
 

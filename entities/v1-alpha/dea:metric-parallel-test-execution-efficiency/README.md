@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Parallel Test Execution Efficiency** (
 - **Canonical id:** `dea:metric-parallel-test-execution-efficiency`
 - **Name:** Parallel Test Execution Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTEE
 
@@ -23,7 +23,7 @@ Speedup from Parallelization / Theoretical Maximum
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

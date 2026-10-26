@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Exception Rate (Mortgage)
 - **Canonical id:** `dea:metric-underwriting-exception-rate-mortgage`
 - **Name:** Underwriting Exception Rate (Mortgage)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UERM
 
@@ -23,7 +23,7 @@ Loans with Approved Underwriting Exception / Loans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

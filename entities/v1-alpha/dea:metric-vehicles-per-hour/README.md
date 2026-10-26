@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicles per Hour** (VPH) in the OpenD
 - **Canonical id:** `dea:metric-vehicles-per-hour`
 - **Name:** Vehicles per Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPH
 

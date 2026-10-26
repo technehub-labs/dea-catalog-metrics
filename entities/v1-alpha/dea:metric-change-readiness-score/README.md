@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Readiness Score** (CRS-C) in th
 - **Canonical id:** `dea:metric-change-readiness-score`
 - **Name:** Change Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRS-C
 

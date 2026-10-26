@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Publication Timeliness** (NAVPT) i
 - **Canonical id:** `dea:metric-nav-publication-timeliness`
 - **Name:** NAV Publication Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NAVPT
 
@@ -27,7 +27,7 @@ NAVs Published within Commitment / Publications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

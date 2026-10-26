@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Retention per Stylist** (CRPS) 
 - **Canonical id:** `dea:metric-client-retention-per-stylist`
 - **Name:** Client Retention per Stylist
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRPS
 
@@ -23,7 +23,7 @@ Returning Clients / Client Base of Stylist
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

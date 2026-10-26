@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capability Maturity Assessment Currenc
 - **Canonical id:** `dea:metric-capability-maturity-assessment-currency`
 - **Name:** Capability Maturity Assessment Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMAC-OM
 
@@ -27,7 +27,7 @@ Capabilities Assessed within Two Years / Capabilities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

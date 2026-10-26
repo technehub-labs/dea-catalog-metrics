@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Persistency Rate** (APR-I) in t
 - **Canonical id:** `dea:metric-agency-persistency-rate`
 - **Name:** Agency Persistency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APR-I
 
@@ -27,7 +27,7 @@ Policies Renewing across Periods / Policies In Force
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy System Migration Progress** (LS
 - **Canonical id:** `dea:metric-legacy-system-migration-progress`
 - **Name:** Legacy System Migration Progress
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSMP
 
@@ -27,7 +27,7 @@ Workloads or Functions Migrated / Functions in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

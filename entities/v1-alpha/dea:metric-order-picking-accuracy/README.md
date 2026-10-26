@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Picking Accuracy** (OPA) in the 
 - **Canonical id:** `dea:metric-order-picking-accuracy`
 - **Name:** Order Picking Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OPA
 
@@ -23,7 +23,7 @@ Correctly Picked Lines / Lines Picked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

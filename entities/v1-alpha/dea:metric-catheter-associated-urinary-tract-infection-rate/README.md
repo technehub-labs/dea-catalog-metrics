@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catheter-Associated Urinary Tract Infe
 - **Canonical id:** `dea:metric-catheter-associated-urinary-tract-infection-rate`
 - **Name:** Catheter-Associated Urinary Tract Infection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAUTI
 
@@ -27,8 +27,8 @@ CAUTI Events / 1,000 Catheter Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

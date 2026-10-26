@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Champion Coverage per Team** 
 - **Canonical id:** `dea:metric-security-champion-coverage-per-team`
 - **Name:** Security Champion Coverage per Team
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCCPT
 
@@ -27,7 +27,7 @@ Teams with Trained Security Champion / Teams
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

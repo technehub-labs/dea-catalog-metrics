@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lead Time for Changes** (LTDC) in the 
 - **Canonical id:** `dea:metric-lead-time-for-changes`
 - **Name:** Lead Time for Changes
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTDC
 
@@ -27,8 +27,8 @@ Median Time from Commit to Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

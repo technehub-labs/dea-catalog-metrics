@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CLM System Adoption Rate** (CLMSAR) in
 - **Canonical id:** `dea:metric-clm-system-adoption-rate`
 - **Name:** CLM System Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLMSAR
 
@@ -23,7 +23,7 @@ Users Creating Contracts in CLM Platform / Contract Creators
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

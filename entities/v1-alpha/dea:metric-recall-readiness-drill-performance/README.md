@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recall Readiness Drill Performance** (
 - **Canonical id:** `dea:metric-recall-readiness-drill-performance`
 - **Name:** Recall Readiness Drill Performance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRDP
 

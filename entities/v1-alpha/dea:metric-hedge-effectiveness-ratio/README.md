@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hedge Effectiveness Ratio** (HER) in t
 - **Canonical id:** `dea:metric-hedge-effectiveness-ratio`
 - **Name:** Hedge Effectiveness Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HER
 

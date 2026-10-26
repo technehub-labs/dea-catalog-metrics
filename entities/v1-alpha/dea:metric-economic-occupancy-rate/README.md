@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Occupancy Rate** (EOR-E) in t
 - **Canonical id:** `dea:metric-economic-occupancy-rate`
 - **Name:** Economic Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EOR-E
 
@@ -27,7 +27,7 @@ Collected Rent / Gross Potential Rent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

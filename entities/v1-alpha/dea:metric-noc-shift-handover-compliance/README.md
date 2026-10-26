@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Shift Handover Compliance** (NSHC)
 - **Canonical id:** `dea:metric-noc-shift-handover-compliance`
 - **Name:** NOC Shift Handover Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSHC
 
@@ -23,7 +23,7 @@ Handover Checklists Completed / Shifts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

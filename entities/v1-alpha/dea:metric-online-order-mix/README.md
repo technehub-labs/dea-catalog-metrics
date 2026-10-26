@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Online Order Mix** (OOM) in the OpenDE
 - **Canonical id:** `dea:metric-online-order-mix`
 - **Name:** Online Order Mix
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OOM
 
@@ -27,7 +27,7 @@ Digital Orders / Total Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

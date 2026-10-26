@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expense Ratio** (ExR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-expense-ratio`
 - **Name:** Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ExR
 
@@ -27,7 +27,7 @@ Underwriting Expenses / Earned Premiums
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

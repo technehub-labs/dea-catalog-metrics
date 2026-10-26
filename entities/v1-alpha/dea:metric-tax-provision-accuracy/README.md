@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Provision Accuracy** (TPA) in the 
 - **Canonical id:** `dea:metric-tax-provision-accuracy`
 - **Name:** Tax Provision Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPA
 
@@ -27,7 +27,7 @@ Measures how closely booked tax provisions match final tax liabilities. It matte
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

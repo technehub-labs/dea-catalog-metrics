@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abandonment Rate (Deep Dive)** (ABR-D)
 - **Canonical id:** `dea:metric-abandonment-rate-deep-dive`
 - **Name:** Abandonment Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABR-D
 
@@ -23,7 +23,7 @@ Calls Abandoned / Calls Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

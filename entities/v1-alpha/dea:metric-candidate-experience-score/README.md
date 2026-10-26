@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Candidate Experience Score** (CXS-TA) 
 - **Canonical id:** `dea:metric-candidate-experience-score`
 - **Name:** Candidate Experience Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CXS-TA
 

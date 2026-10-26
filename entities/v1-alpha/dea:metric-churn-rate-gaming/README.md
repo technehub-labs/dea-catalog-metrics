@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Churn Rate (Gaming)** (CHR-G) in the O
 - **Canonical id:** `dea:metric-churn-rate-gaming`
 - **Name:** Churn Rate (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHR-G
 
@@ -27,7 +27,7 @@ Players Lost during Period / Players at Start
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

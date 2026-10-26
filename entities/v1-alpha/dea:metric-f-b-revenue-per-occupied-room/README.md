@@ -7,7 +7,7 @@ Candidate Performance Metric record for **F&B Revenue per Occupied Room** (FBRPO
 - **Canonical id:** `dea:metric-f-b-revenue-per-occupied-room`
 - **Name:** F&B Revenue per Occupied Room
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBRPOR
 

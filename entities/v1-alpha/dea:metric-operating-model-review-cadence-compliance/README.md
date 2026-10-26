@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Review Cadence Complia
 - **Canonical id:** `dea:metric-operating-model-review-cadence-compliance`
 - **Name:** Operating Model Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMRCC
 
@@ -27,7 +27,7 @@ Scheduled Operating Model Reviews Held / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

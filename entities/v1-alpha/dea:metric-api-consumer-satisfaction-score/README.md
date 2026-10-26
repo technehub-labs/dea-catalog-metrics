@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Consumer Satisfaction Score** (API
 - **Canonical id:** `dea:metric-api-consumer-satisfaction-score`
 - **Name:** API Consumer Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APICSAT
 

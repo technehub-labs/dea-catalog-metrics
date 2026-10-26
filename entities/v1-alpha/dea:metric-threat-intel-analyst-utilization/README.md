@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Intel Analyst Utilization** (TI
 - **Canonical id:** `dea:metric-threat-intel-analyst-utilization`
 - **Name:** Threat Intel Analyst Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TIAU
 
@@ -23,7 +23,7 @@ Analyst Hours on Strategic Intel / Total Analyst Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

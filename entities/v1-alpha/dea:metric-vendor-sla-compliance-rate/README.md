@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor SLA Compliance Rate** (VSCR) in
 - **Canonical id:** `dea:metric-vendor-sla-compliance-rate`
 - **Name:** Vendor SLA Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VSCR
 
@@ -27,7 +27,7 @@ Vendor Deliveries Meeting SLA / Vendor Deliveries Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

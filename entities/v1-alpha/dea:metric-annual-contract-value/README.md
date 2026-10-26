@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Annual Contract Value** (ACV) in the O
 - **Canonical id:** `dea:metric-annual-contract-value`
 - **Name:** Annual Contract Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACV
 

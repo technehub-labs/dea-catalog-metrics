@@ -7,7 +7,7 @@ Candidate Performance Metric record for **At-Risk Learner Intervention Rate** (A
 - **Canonical id:** `dea:metric-at-risk-learner-intervention-rate`
 - **Name:** At-Risk Learner Intervention Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALIR
 
@@ -23,7 +23,7 @@ At-Risk Learners Receiving Support / Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

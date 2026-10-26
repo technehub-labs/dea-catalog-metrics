@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Test Pass Rate** (CTPR-CM) in 
 - **Canonical id:** `dea:metric-control-test-pass-rate`
 - **Name:** Control Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTPR-CM
 
@@ -23,7 +23,7 @@ Controls Passing without Exception / Controls Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Analysis Coverage** (SAC-FP) 
 - **Canonical id:** `dea:metric-scenario-analysis-coverage`
 - **Name:** Scenario Analysis Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAC-FP
 
@@ -27,7 +27,7 @@ Material Uncertainties with Modeled Scenarios / Identified Uncertainties
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

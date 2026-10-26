@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Horizon Scanning Coverage** (HSC) in t
 - **Canonical id:** `dea:metric-horizon-scanning-coverage`
 - **Name:** Horizon Scanning Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HSC
 
@@ -23,7 +23,7 @@ Jurisdictions Monitored / Jurisdictions in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

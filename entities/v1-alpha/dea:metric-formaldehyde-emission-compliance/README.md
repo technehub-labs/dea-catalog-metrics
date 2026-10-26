@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Formaldehyde Emission Compliance** (FE
 - **Canonical id:** `dea:metric-formaldehyde-emission-compliance`
 - **Name:** Formaldehyde Emission Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FEC
 
@@ -27,7 +27,7 @@ Batches Meeting E1 or Equivalent / Batches Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

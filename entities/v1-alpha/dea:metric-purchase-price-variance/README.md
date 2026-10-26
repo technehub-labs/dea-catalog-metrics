@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Price Variance** (PPV) in the
 - **Canonical id:** `dea:metric-purchase-price-variance`
 - **Name:** Purchase Price Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPV
 

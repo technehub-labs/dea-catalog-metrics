@@ -7,7 +7,7 @@ Candidate Performance Metric record for **De-Icing Cycle Compliance** (DICC) in 
 - **Canonical id:** `dea:metric-de-icing-cycle-compliance`
 - **Name:** De-Icing Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DICC
 
@@ -23,7 +23,7 @@ De-Icing within Holdover Time / Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

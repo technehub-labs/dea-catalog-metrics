@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Thermal Efficiency** (THE) in the Open
 - **Canonical id:** `dea:metric-thermal-efficiency`
 - **Name:** Thermal Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** THE
 
@@ -27,7 +27,7 @@ Useful Energy Output / Fuel Energy Input
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

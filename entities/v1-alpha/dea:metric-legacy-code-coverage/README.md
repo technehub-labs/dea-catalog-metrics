@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Code Coverage** (LCC) in the Op
 - **Canonical id:** `dea:metric-legacy-code-coverage`
 - **Name:** Legacy Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCC
 
@@ -23,7 +23,7 @@ Legacy Modules under Test / Legacy Modules
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

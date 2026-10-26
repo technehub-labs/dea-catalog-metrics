@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Renewal Rate - Maintenance Co
 - **Canonical id:** `dea:metric-contract-renewal-rate-maintenance-contracts-deep-dive`
 - **Name:** Contract Renewal Rate - Maintenance Contracts (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRMC-D
 
@@ -27,7 +27,7 @@ Maintenance Contracts Renewed / Expiring
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

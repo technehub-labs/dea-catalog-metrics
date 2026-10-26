@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Lot Acceptance Rate** (DLAR) in
 - **Canonical id:** `dea:metric-device-lot-acceptance-rate`
 - **Name:** Device Lot Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLAR
 
@@ -23,7 +23,7 @@ Lots Accepted on Release Testing / Lots Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

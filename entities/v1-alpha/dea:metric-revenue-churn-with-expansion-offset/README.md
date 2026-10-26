@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Churn with Expansion Offset** 
 - **Canonical id:** `dea:metric-revenue-churn-with-expansion-offset`
 - **Name:** Revenue Churn with Expansion Offset
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCWEO
 
@@ -27,7 +27,7 @@ Net Revenue Lost after Expansion / Starting MRR
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

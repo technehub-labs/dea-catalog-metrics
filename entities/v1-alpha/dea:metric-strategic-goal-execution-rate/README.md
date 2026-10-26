@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Goal Execution Rate** (SGER)
 - **Canonical id:** `dea:metric-strategic-goal-execution-rate`
 - **Name:** Strategic Goal Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGER
 
@@ -27,7 +27,7 @@ Strategic Goals Achieved on Time / Goals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

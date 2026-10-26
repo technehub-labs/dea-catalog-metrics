@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paywall Conversion-to-Trial Rate** (PC
 - **Canonical id:** `dea:metric-paywall-conversion-to-trial-rate`
 - **Name:** Paywall Conversion-to-Trial Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCTR
 
@@ -23,7 +23,7 @@ Trial Starts / Paywall Hits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

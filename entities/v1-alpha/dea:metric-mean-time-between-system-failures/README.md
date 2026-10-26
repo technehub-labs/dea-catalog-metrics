@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time Between System Failures** (M
 - **Canonical id:** `dea:metric-mean-time-between-system-failures`
 - **Name:** Mean Time Between System Failures
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTBSF
 
@@ -23,8 +23,8 @@ Total Uptime / Number of System Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

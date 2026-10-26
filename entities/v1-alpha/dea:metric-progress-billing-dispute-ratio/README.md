@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Progress Billing Dispute Ratio** (PBDR
 - **Canonical id:** `dea:metric-progress-billing-dispute-ratio`
 - **Name:** Progress Billing Dispute Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PBDR
 
@@ -23,7 +23,7 @@ Billing Disputes / Progress Claims
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

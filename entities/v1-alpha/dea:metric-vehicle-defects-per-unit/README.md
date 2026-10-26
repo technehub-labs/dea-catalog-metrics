@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Defects per Unit** (VDPU) in t
 - **Canonical id:** `dea:metric-vehicle-defects-per-unit`
 - **Name:** Vehicle Defects per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VDPU
 

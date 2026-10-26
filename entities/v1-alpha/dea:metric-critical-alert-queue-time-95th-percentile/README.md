@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Alert Queue Time - 95th Perce
 - **Canonical id:** `dea:metric-critical-alert-queue-time-95th-percentile`
 - **Name:** Critical Alert Queue Time - 95th Percentile
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAQT95
 
@@ -23,8 +23,8 @@ Minutes Critical Alerts Wait in Queue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

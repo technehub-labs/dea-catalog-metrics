@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Dispute Rate** (PDR-AP) in the
 - **Canonical id:** `dea:metric-partner-dispute-rate`
 - **Name:** Partner Dispute Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDR-AP
 

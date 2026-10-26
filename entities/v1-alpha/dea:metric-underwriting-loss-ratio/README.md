@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Loss Ratio** (UWLR) in th
 - **Canonical id:** `dea:metric-underwriting-loss-ratio`
 - **Name:** Underwriting Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UWLR
 
@@ -27,7 +27,7 @@ Incurred Claims / Earned Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

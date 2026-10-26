@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Coverage Ratio** (LCR) in th
 - **Canonical id:** `dea:metric-liquidity-coverage-ratio`
 - **Name:** Liquidity Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCR
 

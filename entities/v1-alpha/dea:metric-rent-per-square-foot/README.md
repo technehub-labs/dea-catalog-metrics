@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rent per Square Foot** (RPSF) in the O
 - **Canonical id:** `dea:metric-rent-per-square-foot`
 - **Name:** Rent per Square Foot
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPSF
 

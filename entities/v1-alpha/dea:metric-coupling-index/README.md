@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Coupling Index** (COUI) in the OpenDEA
 - **Canonical id:** `dea:metric-coupling-index`
 - **Name:** Coupling Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COUI
 

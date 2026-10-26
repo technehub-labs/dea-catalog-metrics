@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Buffer Consumption Rate** (SB
 - **Canonical id:** `dea:metric-schedule-buffer-consumption-rate`
 - **Name:** Schedule Buffer Consumption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SBCR
 
@@ -23,7 +23,7 @@ Buffer Consumed / Buffer Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

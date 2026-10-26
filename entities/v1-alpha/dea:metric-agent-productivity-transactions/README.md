@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Productivity (Transactions)** (A
 - **Canonical id:** `dea:metric-agent-productivity-transactions`
 - **Name:** Agent Productivity (Transactions)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APT
 

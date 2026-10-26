@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marginal CAC Efficiency** (MCAE) in th
 - **Canonical id:** `dea:metric-marginal-cac-efficiency`
 - **Name:** Marginal CAC Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCAE
 

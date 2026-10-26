@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prime Cost Percentage** (PCP-R) in the
 - **Canonical id:** `dea:metric-prime-cost-percentage`
 - **Name:** Prime Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCP-R
 
@@ -27,7 +27,7 @@ Prime cost - food plus beverage cost plus labor cost, as a percentage of sales -
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

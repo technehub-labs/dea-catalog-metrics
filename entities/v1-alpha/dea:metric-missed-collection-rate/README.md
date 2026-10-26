@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missed Collection Rate** (MCR) in the 
 - **Canonical id:** `dea:metric-missed-collection-rate`
 - **Name:** Missed Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCR
 
@@ -23,7 +23,7 @@ Missed Collections / Scheduled Collections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

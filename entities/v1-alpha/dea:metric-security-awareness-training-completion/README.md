@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Awareness Training Completion
 - **Canonical id:** `dea:metric-security-awareness-training-completion`
 - **Name:** Security Awareness Training Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SATC
 
@@ -23,7 +23,7 @@ Users Completing Training / Users Assigned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

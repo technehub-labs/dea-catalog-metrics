@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Lane Cost Variance** (TLCV) in t
 - **Canonical id:** `dea:metric-trade-lane-cost-variance`
 - **Name:** Trade Lane Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLCV
 
@@ -23,7 +23,7 @@ Actual Lane Cost - Benchmark Cost / Benchmark
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

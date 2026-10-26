@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Deployment Frequency** (MDF-M) i
 - **Canonical id:** `dea:metric-model-deployment-frequency`
 - **Name:** Model Deployment Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDF-M
 

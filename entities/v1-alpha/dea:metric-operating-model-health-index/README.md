@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Health Index** (OMHI) 
 - **Canonical id:** `dea:metric-operating-model-health-index`
 - **Name:** Operating Model Health Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMHI
 

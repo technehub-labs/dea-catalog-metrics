@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Proficiency (Deep Dive)** (TTP
 - **Canonical id:** `dea:metric-time-to-proficiency-deep-dive`
 - **Name:** Time to Proficiency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTP-D
 
@@ -23,8 +23,8 @@ Days from Hire to Target Proficiency
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

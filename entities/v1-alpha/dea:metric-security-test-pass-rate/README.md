@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Test Pass Rate** (STPR) in th
 - **Canonical id:** `dea:metric-security-test-pass-rate`
 - **Name:** Security Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STPR
 
@@ -23,7 +23,7 @@ Pipeline Runs Passing Security Gates / Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

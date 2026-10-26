@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escape Rate** (ER) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-escape-rate`
 - **Name:** Escape Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ER
 
@@ -23,7 +23,7 @@ Defects Found Downstream / Defects Present at Stage
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

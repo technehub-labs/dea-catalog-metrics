@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Version Control Compliance (Deep
 - **Canonical id:** `dea:metric-model-version-control-compliance-deep-dive`
 - **Name:** Model Version Control Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVCCC
 
@@ -23,7 +23,7 @@ Planning Models under Version Control / Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

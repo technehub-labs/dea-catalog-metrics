@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Front-of-Store Sales per Pharmacy Visi
 - **Canonical id:** `dea:metric-front-of-store-sales-per-pharmacy-visit`
 - **Name:** Front-of-Store Sales per Pharmacy Visit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSSPV
 

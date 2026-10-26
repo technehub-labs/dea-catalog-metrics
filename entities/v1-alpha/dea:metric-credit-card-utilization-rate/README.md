@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credit Card Utilization Rate** (CCUR) 
 - **Canonical id:** `dea:metric-credit-card-utilization-rate`
 - **Name:** Credit Card Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCUR
 
@@ -27,7 +27,7 @@ Outstanding Card Balances / Approved Credit Limits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

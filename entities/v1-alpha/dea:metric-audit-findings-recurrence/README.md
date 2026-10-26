@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Findings Recurrence** (AFR) in t
 - **Canonical id:** `dea:metric-audit-findings-recurrence`
 - **Name:** Audit Findings Recurrence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFR
 
@@ -27,7 +27,7 @@ Repeat Findings / Total Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

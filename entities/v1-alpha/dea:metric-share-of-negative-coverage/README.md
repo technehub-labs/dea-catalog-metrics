@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Negative Coverage** (SNC) in 
 - **Canonical id:** `dea:metric-share-of-negative-coverage`
 - **Name:** Share of Negative Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SNC
 
@@ -27,7 +27,7 @@ Negative Articles / Total Articles Monitored
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

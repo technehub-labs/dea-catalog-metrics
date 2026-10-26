@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Cost** (CAC) in t
 - **Canonical id:** `dea:metric-customer-acquisition-cost`
 - **Name:** Customer Acquisition Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAC
 

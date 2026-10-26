@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Variance Percent (Deep Dive)*
 - **Canonical id:** `dea:metric-schedule-variance-percent-deep-dive`
 - **Name:** Schedule Variance Percent (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVP-D
 
@@ -27,7 +27,7 @@ Measures how far actual project progress deviates from the baseline schedule. Sc
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

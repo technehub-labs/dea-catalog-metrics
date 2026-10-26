@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Postponement Rate** (RPR-RM) i
 - **Canonical id:** `dea:metric-release-postponement-rate`
 - **Name:** Release Postponement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPR-RM
 
@@ -23,7 +23,7 @@ Releases Deferred after Announcement / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

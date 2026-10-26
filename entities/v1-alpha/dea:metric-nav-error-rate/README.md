@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Error Rate** (NAVER) in the OpenDE
 - **Canonical id:** `dea:metric-nav-error-rate`
 - **Name:** NAV Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NAVER
 
@@ -23,8 +23,8 @@ NAV Calculations with Error / NAVs Calculated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

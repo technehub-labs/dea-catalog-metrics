@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Standards Audit Score (Deep Dive
 - **Canonical id:** `dea:metric-brand-standards-audit-score-deep-dive`
 - **Name:** Brand Standards Audit Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSAS-D
 

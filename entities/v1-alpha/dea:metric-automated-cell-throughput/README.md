@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automated Cell Throughput** (ACT) in t
 - **Canonical id:** `dea:metric-automated-cell-throughput`
 - **Name:** Automated Cell Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACT
 

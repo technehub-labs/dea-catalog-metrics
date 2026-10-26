@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SLO Review Cadence Compliance** (SLOCC
 - **Canonical id:** `dea:metric-slo-review-cadence-compliance`
 - **Name:** SLO Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLOCC
 
@@ -23,7 +23,7 @@ SLOs Reviewed per Cadence / SLOs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

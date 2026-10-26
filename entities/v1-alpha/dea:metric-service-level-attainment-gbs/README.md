@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Attainment (GBS)** (SLA-
 - **Canonical id:** `dea:metric-service-level-attainment-gbs`
 - **Name:** Service Level Attainment (GBS)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLA-G
 
@@ -27,7 +27,7 @@ Requests Met within Agreed Service Level / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

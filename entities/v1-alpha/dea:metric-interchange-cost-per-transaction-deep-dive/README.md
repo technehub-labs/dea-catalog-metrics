@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interchange Cost per Transaction (Deep
 - **Canonical id:** `dea:metric-interchange-cost-per-transaction-deep-dive`
 - **Name:** Interchange Cost per Transaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICPT-D
 

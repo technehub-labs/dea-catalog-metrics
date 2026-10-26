@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Productivity (Construction)** (L
 - **Canonical id:** `dea:metric-labor-productivity-construction`
 - **Name:** Labor Productivity (Construction)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPC
 

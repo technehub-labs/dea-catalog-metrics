@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fibre Loss Rate** (FLR) in the OpenDEA
 - **Canonical id:** `dea:metric-fibre-loss-rate`
 - **Name:** Fibre Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FLR
 
@@ -23,7 +23,7 @@ Fibre Lost to Effluent / Fibre Input
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

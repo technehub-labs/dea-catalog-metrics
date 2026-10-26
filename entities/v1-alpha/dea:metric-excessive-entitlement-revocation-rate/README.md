@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excessive Entitlement Revocation Rate*
 - **Canonical id:** `dea:metric-excessive-entitlement-revocation-rate`
 - **Name:** Excessive Entitlement Revocation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EERR-IAM
 
@@ -23,7 +23,7 @@ Entitlements Revoked after Recertification Flag / Flagged
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

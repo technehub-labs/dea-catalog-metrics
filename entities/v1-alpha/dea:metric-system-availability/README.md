@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Availability** (SYS-A) in the O
 - **Canonical id:** `dea:metric-system-availability`
 - **Name:** System Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SYS-A
 
@@ -27,7 +27,7 @@ Uptime / Scheduled Availability
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

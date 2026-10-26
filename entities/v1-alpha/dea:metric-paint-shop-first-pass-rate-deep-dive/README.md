@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paint Shop First-Pass Rate (Deep Dive)
 - **Canonical id:** `dea:metric-paint-shop-first-pass-rate-deep-dive`
 - **Name:** Paint Shop First-Pass Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSFP-D
 
@@ -23,7 +23,7 @@ Bodies Passing Paint Inspection / Bodies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

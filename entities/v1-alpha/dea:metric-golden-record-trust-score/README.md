@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Record Trust Score** (GRTS) in 
 - **Canonical id:** `dea:metric-golden-record-trust-score`
 - **Name:** Golden Record Trust Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GRTS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Continuity Assurance Coverage
 - **Canonical id:** `dea:metric-supplier-continuity-assurance-coverage`
 - **Name:** Supplier Continuity Assurance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCAC
 
@@ -27,7 +27,7 @@ Critical Suppliers with Continuity Assurance / Critical Suppliers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

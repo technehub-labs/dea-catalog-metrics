@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kolmogorov-Smirnov Statistic (Model)**
 - **Canonical id:** `dea:metric-kolmogorov-smirnov-statistic-model`
 - **Name:** Kolmogorov-Smirnov Statistic (Model)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KSM
 
@@ -27,7 +27,7 @@ Maximum Separation of Cumulative Event Distributions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

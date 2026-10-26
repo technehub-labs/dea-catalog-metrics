@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sprint Goal Success Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-sprint-goal-success-rate-deep-dive`
 - **Name:** Sprint Goal Success Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGSR-AG
 
@@ -23,7 +23,7 @@ Sprint Goals Achieved / Sprints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

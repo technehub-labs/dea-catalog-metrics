@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burnout Risk Index** (BRI-EE) in the O
 - **Canonical id:** `dea:metric-burnout-risk-index`
 - **Name:** Burnout Risk Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRI-EE
 

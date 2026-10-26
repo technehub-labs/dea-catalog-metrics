@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Cycle Time** (SCCT) in th
 - **Canonical id:** `dea:metric-supply-chain-cycle-time`
 - **Name:** Supply Chain Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCCT
 
@@ -27,8 +27,8 @@ Days to Fulfill Order with Zero Inventory
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

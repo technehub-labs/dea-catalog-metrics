@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Store Conversion Rate (Deep Dive)** (S
 - **Canonical id:** `dea:metric-store-conversion-rate-deep-dive`
 - **Name:** Store Conversion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCRDD
 
@@ -23,7 +23,7 @@ Transactions / Store Traffic
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

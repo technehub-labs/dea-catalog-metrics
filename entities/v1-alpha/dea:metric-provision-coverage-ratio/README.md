@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Provision Coverage Ratio** (PCR-CC) in
 - **Canonical id:** `dea:metric-provision-coverage-ratio`
 - **Name:** Provision Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCR-CC
 

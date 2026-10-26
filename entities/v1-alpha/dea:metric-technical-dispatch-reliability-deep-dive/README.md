@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Dispatch Reliability (Deep D
 - **Canonical id:** `dea:metric-technical-dispatch-reliability-deep-dive`
 - **Name:** Technical Dispatch Reliability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDR-A
 
@@ -27,7 +27,7 @@ Departures without Technical Delay or Cancel / Departures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

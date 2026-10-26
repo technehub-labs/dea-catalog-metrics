@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recurring Incident Ratio** (RIR-IT) in
 - **Canonical id:** `dea:metric-recurring-incident-ratio`
 - **Name:** Recurring Incident Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RIR-IT
 
@@ -27,7 +27,7 @@ Incidents Repeating within 30 Days / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

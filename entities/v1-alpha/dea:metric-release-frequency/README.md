@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Frequency** (RLF) in the OpenD
 - **Canonical id:** `dea:metric-release-frequency`
 - **Name:** Release Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RLF
 

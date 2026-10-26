@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interoperability Standard Compliance**
 - **Canonical id:** `dea:metric-interoperability-standard-compliance`
 - **Name:** Interoperability Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ISC-SA
 
@@ -23,7 +23,7 @@ Integrations Using Approved Standards / Integrations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

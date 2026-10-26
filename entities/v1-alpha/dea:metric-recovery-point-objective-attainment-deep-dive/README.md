@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Point Objective Attainment (D
 - **Canonical id:** `dea:metric-recovery-point-objective-attainment-deep-dive`
 - **Name:** Recovery Point Objective Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPOA-SA
 
@@ -27,7 +27,7 @@ Data Loss within RPO / Loss Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

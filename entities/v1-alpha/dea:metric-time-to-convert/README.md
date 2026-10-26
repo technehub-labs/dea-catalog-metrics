@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Convert** (TTC) in the OpenDEA
 - **Canonical id:** `dea:metric-time-to-convert`
 - **Name:** Time to Convert
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTC
 
@@ -27,8 +27,8 @@ Average Days from First Touch to Conversion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

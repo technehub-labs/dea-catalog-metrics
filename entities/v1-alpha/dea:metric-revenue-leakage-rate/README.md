@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Leakage Rate** (RVL) in the Op
 - **Canonical id:** `dea:metric-revenue-leakage-rate`
 - **Name:** Revenue Leakage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RVL
 
@@ -27,7 +27,7 @@ Detected Under-Billing and Missed Billing / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

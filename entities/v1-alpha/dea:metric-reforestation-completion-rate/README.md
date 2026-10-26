@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reforestation Completion Rate** (RCR-F
 - **Canonical id:** `dea:metric-reforestation-completion-rate`
 - **Name:** Reforestation Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCR-F
 
@@ -27,7 +27,7 @@ Areas Replanted per License Requirement / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

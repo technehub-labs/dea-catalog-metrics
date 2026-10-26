@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Maintenance Cost Ratio** (TMCR-QA
 - **Canonical id:** `dea:metric-test-maintenance-cost-ratio`
 - **Name:** Test Maintenance Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TMCR-QA
 
@@ -23,7 +23,7 @@ Test Maintenance Effort / Total Test Effort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

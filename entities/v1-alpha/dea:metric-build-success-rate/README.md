@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Build Success Rate** (BSR) in the Open
 - **Canonical id:** `dea:metric-build-success-rate`
 - **Name:** Build Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSR
 
@@ -23,7 +23,7 @@ Successful Builds / Total Builds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

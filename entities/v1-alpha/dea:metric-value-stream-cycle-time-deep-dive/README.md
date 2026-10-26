@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Stream Cycle Time (Deep Dive)** 
 - **Canonical id:** `dea:metric-value-stream-cycle-time-deep-dive`
 - **Name:** Value Stream Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VSCT-D
 
@@ -27,8 +27,8 @@ End-to-End Time across Value Stream
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

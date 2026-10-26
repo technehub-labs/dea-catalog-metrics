@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Value to Paid-In Ratio (Private)
 - **Canonical id:** `dea:metric-total-value-to-paid-in-ratio-private`
 - **Name:** Total Value to Paid-In Ratio (Private)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TVPI
 

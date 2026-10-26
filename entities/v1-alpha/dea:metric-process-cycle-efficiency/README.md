@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cycle Efficiency** (PCE) in th
 - **Canonical id:** `dea:metric-process-cycle-efficiency`
 - **Name:** Process Cycle Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCE
 
@@ -27,7 +27,7 @@ Value-Added Time / Total Cycle Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paint Shop First Pass Yield** (PSFPY) 
 - **Canonical id:** `dea:metric-paint-shop-first-pass-yield`
 - **Name:** Paint Shop First Pass Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSFPY
 
@@ -23,7 +23,7 @@ Bodies Passing Paint Inspection First Time / Bodies Painted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

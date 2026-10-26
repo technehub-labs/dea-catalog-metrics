@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hectare** (CPh) in the OpenDE
 - **Canonical id:** `dea:metric-cost-per-hectare`
 - **Name:** Cost per Hectare
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPh
 

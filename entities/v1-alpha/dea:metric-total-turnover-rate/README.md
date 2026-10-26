@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Turnover Rate** (TTR) in the Ope
 - **Canonical id:** `dea:metric-total-turnover-rate`
 - **Name:** Total Turnover Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTR
 
@@ -27,7 +27,7 @@ All Departures / Average Headcount
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

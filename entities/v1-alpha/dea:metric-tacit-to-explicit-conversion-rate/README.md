@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tacit-to-Explicit Conversion Rate** (T
 - **Canonical id:** `dea:metric-tacit-to-explicit-conversion-rate`
 - **Name:** Tacit-to-Explicit Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TECR
 
@@ -27,7 +27,7 @@ Documented Expert Sessions / Sessions Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

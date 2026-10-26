@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingency Income per Agency** (CIPA)
 - **Canonical id:** `dea:metric-contingency-income-per-agency`
 - **Name:** Contingency Income per Agency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIPA
 

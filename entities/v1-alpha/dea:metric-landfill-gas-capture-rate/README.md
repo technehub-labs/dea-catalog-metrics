@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Landfill Gas Capture Rate** (LGCR) in 
 - **Canonical id:** `dea:metric-landfill-gas-capture-rate`
 - **Name:** Landfill Gas Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LGCR
 
@@ -27,7 +27,7 @@ Captured Landfill Gas / Generated Landfill Gas
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

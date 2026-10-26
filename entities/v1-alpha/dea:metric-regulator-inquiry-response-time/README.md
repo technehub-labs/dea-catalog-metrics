@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulator Inquiry Response Time** (RIR
 - **Canonical id:** `dea:metric-regulator-inquiry-response-time`
 - **Name:** Regulator Inquiry Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RIRT
 
@@ -23,8 +23,8 @@ Days to Respond to Regulatory Inquiries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

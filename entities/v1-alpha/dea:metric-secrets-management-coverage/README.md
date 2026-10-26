@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secrets Management Coverage** (SMC-CS)
 - **Canonical id:** `dea:metric-secrets-management-coverage`
 - **Name:** Secrets Management Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMC-CS
 
@@ -23,7 +23,7 @@ Secrets in Managed Vault / Secrets in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

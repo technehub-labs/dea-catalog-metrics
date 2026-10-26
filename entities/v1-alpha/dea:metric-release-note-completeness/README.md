@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Note Completeness** (RNC-RM) i
 - **Canonical id:** `dea:metric-release-note-completeness`
 - **Name:** Release Note Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RNC-RM
 
@@ -23,7 +23,7 @@ Changes Documented in Release Notes / Changes Shipped
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

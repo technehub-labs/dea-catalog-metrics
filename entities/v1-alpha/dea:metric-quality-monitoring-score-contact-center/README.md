@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Monitoring Score (Contact Cent
 - **Canonical id:** `dea:metric-quality-monitoring-score-contact-center`
 - **Name:** Quality Monitoring Score (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QMDD
 

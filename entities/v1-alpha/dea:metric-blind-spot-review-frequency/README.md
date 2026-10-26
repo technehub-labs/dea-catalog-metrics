@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blind Spot Review Frequency** (BSRF) i
 - **Canonical id:** `dea:metric-blind-spot-review-frequency`
 - **Name:** Blind Spot Review Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSRF
 

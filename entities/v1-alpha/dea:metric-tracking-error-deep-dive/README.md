@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Error (Deep Dive)** (TE-D) in
 - **Canonical id:** `dea:metric-tracking-error-deep-dive`
 - **Name:** Tracking Error (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TE-D
 
@@ -27,7 +27,7 @@ Standard Deviation of Active Returns
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

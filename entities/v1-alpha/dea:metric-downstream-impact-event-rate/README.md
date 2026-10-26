@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downstream Impact Event Rate** (DIER) 
 - **Canonical id:** `dea:metric-downstream-impact-event-rate`
 - **Name:** Downstream Impact Event Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIER
 
@@ -23,7 +23,7 @@ Quality Failures Reaching Downstream Consumers / Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

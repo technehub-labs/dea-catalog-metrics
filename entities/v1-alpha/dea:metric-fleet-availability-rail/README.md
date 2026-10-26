@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Availability (Rail)** (FAR) in t
 - **Canonical id:** `dea:metric-fleet-availability-rail`
 - **Name:** Fleet Availability (Rail)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FAR
 
@@ -27,7 +27,7 @@ Serviceable Trains / Total Fleet
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

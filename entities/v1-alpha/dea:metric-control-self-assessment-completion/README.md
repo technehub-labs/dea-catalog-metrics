@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Self-Assessment Completion** (
 - **Canonical id:** `dea:metric-control-self-assessment-completion`
 - **Name:** Control Self-Assessment Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAC
 
@@ -23,7 +23,7 @@ Business Units Submitting CSAs by Due Date / Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

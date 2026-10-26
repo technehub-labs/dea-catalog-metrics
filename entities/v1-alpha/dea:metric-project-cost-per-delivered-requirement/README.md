@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Cost per Delivered Requirement
 - **Canonical id:** `dea:metric-project-cost-per-delivered-requirement`
 - **Name:** Project Cost per Delivered Requirement
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCPDR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsorship Activation Delivery Rate**
 - **Canonical id:** `dea:metric-sponsorship-activation-delivery-rate`
 - **Name:** Sponsorship Activation Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SADR-S
 
@@ -23,7 +23,7 @@ Contracted Assets Delivered / Contracted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

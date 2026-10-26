@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigator Caseload (Deep Dive)** (I
 - **Canonical id:** `dea:metric-investigator-caseload-deep-dive`
 - **Name:** Investigator Caseload (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICL-D
 

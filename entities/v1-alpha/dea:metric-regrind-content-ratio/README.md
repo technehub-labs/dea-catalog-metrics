@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regrind Content Ratio** (RCR-P) in the
 - **Canonical id:** `dea:metric-regrind-content-ratio`
 - **Name:** Regrind Content Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCR-P
 
@@ -23,7 +23,7 @@ Regrind Used / Total Resin Input
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

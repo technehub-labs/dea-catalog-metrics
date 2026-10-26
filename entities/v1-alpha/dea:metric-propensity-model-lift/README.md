@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Propensity Model Lift** (PML) in the O
 - **Canonical id:** `dea:metric-propensity-model-lift`
 - **Name:** Propensity Model Lift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PML
 

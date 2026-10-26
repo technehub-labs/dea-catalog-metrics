@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defects per Unit - Final Audit (Deep D
 - **Canonical id:** `dea:metric-defects-per-unit-final-audit-deep-dive`
 - **Name:** Defects per Unit - Final Audit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPU-D
 

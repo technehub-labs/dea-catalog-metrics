@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Community Sentiment Score (Gaming)** (
 - **Canonical id:** `dea:metric-community-sentiment-score-gaming`
 - **Name:** Community Sentiment Score (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSS-G
 

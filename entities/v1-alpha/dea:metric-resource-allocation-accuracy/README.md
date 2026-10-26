@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resource Allocation Accuracy** (RAA-PM
 - **Canonical id:** `dea:metric-resource-allocation-accuracy`
 - **Name:** Resource Allocation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RAA-PM
 
@@ -23,7 +23,7 @@ Actual Resource Use vs Plan / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

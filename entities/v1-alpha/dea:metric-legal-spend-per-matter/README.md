@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Spend per Matter** (LSPM) in the
 - **Canonical id:** `dea:metric-legal-spend-per-matter`
 - **Name:** Legal Spend per Matter
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSPM
 

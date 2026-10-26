@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deprecated API Usage Rate** (DAUR) in 
 - **Canonical id:** `dea:metric-deprecated-api-usage-rate`
 - **Name:** Deprecated API Usage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAUR
 
@@ -23,7 +23,7 @@ Calls to Deprecated APIs / Total Internal API Calls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

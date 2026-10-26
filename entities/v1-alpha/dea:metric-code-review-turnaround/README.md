@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Review Turnaround** (CRT) in the 
 - **Canonical id:** `dea:metric-code-review-turnaround`
 - **Name:** Code Review Turnaround
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRT
 
@@ -23,8 +23,8 @@ Median Time from Pull Request to Review Completion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

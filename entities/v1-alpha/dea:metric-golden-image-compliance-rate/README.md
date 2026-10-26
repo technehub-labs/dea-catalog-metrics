@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Image Compliance Rate** (GICR) 
 - **Canonical id:** `dea:metric-golden-image-compliance-rate`
 - **Name:** Golden Image Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GICR
 
@@ -23,7 +23,7 @@ Workloads Launched from Approved Images / Workloads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

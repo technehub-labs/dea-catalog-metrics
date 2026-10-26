@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party AI Risk Assessment Coverag
 - **Canonical id:** `dea:metric-third-party-ai-risk-assessment-coverage`
 - **Name:** Third-Party AI Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TAIRA
 
@@ -27,7 +27,7 @@ Vendor AI Tools Assessed / Tools in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

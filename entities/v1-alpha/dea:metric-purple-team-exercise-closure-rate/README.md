@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purple Team Exercise Closure Rate** (P
 - **Canonical id:** `dea:metric-purple-team-exercise-closure-rate`
 - **Name:** Purple Team Exercise Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTECR
 
@@ -23,7 +23,7 @@ Exercise Findings Remediated / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

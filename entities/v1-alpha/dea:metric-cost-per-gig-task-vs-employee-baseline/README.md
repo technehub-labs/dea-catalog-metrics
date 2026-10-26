@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Gig Task vs Employee Baseline
 - **Canonical id:** `dea:metric-cost-per-gig-task-vs-employee-baseline`
 - **Name:** Cost per Gig Task vs Employee Baseline
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PGC
 

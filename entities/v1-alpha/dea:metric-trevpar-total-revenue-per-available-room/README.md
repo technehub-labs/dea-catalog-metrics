@@ -7,7 +7,7 @@ Candidate Performance Metric record for **TRevPAR - Total Revenue per Available 
 - **Canonical id:** `dea:metric-trevpar-total-revenue-per-available-room`
 - **Name:** TRevPAR - Total Revenue per Available Room
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TRevPAR
 

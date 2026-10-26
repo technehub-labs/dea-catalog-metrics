@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Trend Detection Accuracy** (RTDA)
 - **Canonical id:** `dea:metric-risk-trend-detection-accuracy`
 - **Name:** Risk Trend Detection Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTDA
 
@@ -27,7 +27,7 @@ Leading Indicators Predicting Risk / Leading Indicators
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

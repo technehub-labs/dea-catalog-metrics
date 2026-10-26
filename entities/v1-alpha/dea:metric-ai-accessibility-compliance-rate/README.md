@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Accessibility Compliance Rate** (AA
 - **Canonical id:** `dea:metric-ai-accessibility-compliance-rate`
 - **Name:** AI Accessibility Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAICR
 
@@ -23,7 +23,7 @@ AI Interfaces Meeting Accessibility Standards / Interfaces
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

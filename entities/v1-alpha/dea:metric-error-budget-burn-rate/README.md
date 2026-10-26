@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Burn Rate** (EBBR) in the
 - **Canonical id:** `dea:metric-error-budget-burn-rate`
 - **Name:** Error Budget Burn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBBR
 

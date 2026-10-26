@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Deficiency Aging** (CDA-IC) in
 - **Canonical id:** `dea:metric-control-deficiency-aging`
 - **Name:** Control Deficiency Aging
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDA-IC
 
@@ -23,8 +23,8 @@ Average Age of Open Control Deficiencies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Landed Cost** (TLC) in the OpenD
 - **Canonical id:** `dea:metric-total-landed-cost`
 - **Name:** Total Landed Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLC
 

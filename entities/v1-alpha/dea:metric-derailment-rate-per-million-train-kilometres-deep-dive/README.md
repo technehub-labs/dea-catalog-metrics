@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Derailment Rate per Million Train Kilo
 - **Canonical id:** `dea:metric-derailment-rate-per-million-train-kilometres-deep-dive`
 - **Name:** Derailment Rate per Million Train Kilometres (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRMTK
 
@@ -27,8 +27,8 @@ Derailments / Million Train Kilometres
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Trend Estimation Error** (LTE) in
 - **Canonical id:** `dea:metric-loss-trend-estimation-error`
 - **Name:** Loss Trend Estimation Error
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTE
 
@@ -27,7 +27,7 @@ Actual Loss Trend - Estimated Loss Trend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

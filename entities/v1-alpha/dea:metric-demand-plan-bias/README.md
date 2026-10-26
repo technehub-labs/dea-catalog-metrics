@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Plan Bias** (DPB-S) in the Open
 - **Canonical id:** `dea:metric-demand-plan-bias`
 - **Name:** Demand Plan Bias
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPB-S
 
@@ -27,7 +27,7 @@ Sum of Plan Errors / Sum of Actuals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

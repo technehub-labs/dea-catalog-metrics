@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Contain** (MTTC) in the O
 - **Canonical id:** `dea:metric-mean-time-to-contain`
 - **Name:** Mean Time to Contain
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTC
 
@@ -27,8 +27,8 @@ Total Containment Time / Security Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

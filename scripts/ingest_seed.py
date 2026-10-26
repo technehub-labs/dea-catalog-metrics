@@ -43,6 +43,22 @@ SEED_SHEET = "Candidate Metrics"
 HEADER_ROW = 6
 ESTABLISHED_AT = "2026-10-26"
 ESTABLISHED_BY = "CR-MET-016"
+# CR-MET-017 (Q19): unit references canonicalised. The record version tracks
+# record changes (the formula version tracks the formula, which did not
+# change); the pilot records bumped their version on each field change.
+RECORD_VERSION = "1.0.1"
+RECORD_CHANGES = [
+    {
+        "cr": ESTABLISHED_BY,
+        "date": ESTABLISHED_AT,
+        "change": "Ingested from the candidate-metrics seed workbook",
+    },
+    {
+        "cr": "CR-MET-017",
+        "date": "2026-10-26",
+        "change": "Unit reference canonicalised: ratio form and singular names (Q19)",
+    },
+]
 SEED_WORKBOOK = "seeds/open-deam-candidate-metrics-seed.xlsx"
 
 # Columns the workbook carries that the catalog has no field for. They are
@@ -159,6 +175,29 @@ def map_value(axis: str, value: str, maps: dict) -> str:
     )
 
 
+def map_unit_ref(value: str, maps: dict) -> str:
+    """Resolve a seed unit id to the catalog's canonical unit reference.
+
+    CR-MET-017 (Q19): the ratio form is canonical and unit names are
+    singular. Unit ids are hyphen-significant (`dea:unit-percent` is not
+    `dea:unit_percent`), so unlike the classification axes this lookup does
+    no hyphen normalisation. An unmapped value stops the ingestion, same as
+    the other axes.
+    """
+    spec = maps.get("unit_ref") or {}
+    carry = set(spec.get("carry") or [])
+    mapped = dict(spec.get("map") or {})
+    v = str(value).strip()
+    if v in carry:
+        return v
+    if v in mapped:
+        return mapped[v]
+    raise SystemExit(
+        f"ingest_seed.py: no mapping for unit_ref value {value!r}; add it to "
+        f"{VALUE_MAP_FILE.name} rather than guessing"
+    )
+
+
 def build_record(row: dict, aliases: dict, maps: dict) -> dict:
     """Build one candidate Metric record from one workbook row."""
     def cell(name: str) -> str:
@@ -170,7 +209,7 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
     description = cell("description")
     abbreviation = cell("abbr")
     formula = cell("formula")
-    unit_ref = cell("unit_id")
+    unit_ref = map_unit_ref(cell("unit_id"), maps)
     unit = unit_slug(unit_ref)
 
     record = {
@@ -180,7 +219,7 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
         "description": description,
         "abbreviation": abbreviation,
         "unit": unit,
-        "version": "1.0.0",
+        "version": RECORD_VERSION,
         "lifecycle_status": cell("status") or "candidate",
         "subject_classification": [map_value("subject_classification", cell("subject_area"), maps)],
         "purpose_classification": [map_value("purpose_classification", cell("purpose"), maps)],
@@ -205,13 +244,7 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
         "metadata": {
             "established_by": ESTABLISHED_BY,
             "established_at": ESTABLISHED_AT,
-            "change_history": [
-                {
-                    "cr": ESTABLISHED_BY,
-                    "date": ESTABLISHED_AT,
-                    "change": "Ingested from the candidate-metrics seed workbook",
-                }
-            ],
+            "change_history": [dict(entry) for entry in RECORD_CHANGES],
             "seed": {
                 "workbook": SEED_WORKBOOK,
                 "sheet": SEED_SHEET,

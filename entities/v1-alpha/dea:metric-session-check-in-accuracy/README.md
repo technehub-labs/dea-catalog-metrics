@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Session Check-in Accuracy** (SCIA) in 
 - **Canonical id:** `dea:metric-session-check-in-accuracy`
 - **Name:** Session Check-in Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCIA
 
@@ -23,7 +23,7 @@ Checked-in Sessions Matching Registrations / Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

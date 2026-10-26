@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Fines and Penalties Ratio**
 - **Canonical id:** `dea:metric-regulatory-fines-and-penalties-ratio`
 - **Name:** Regulatory Fines and Penalties Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFPR
 
@@ -27,7 +27,7 @@ Total Penalties / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

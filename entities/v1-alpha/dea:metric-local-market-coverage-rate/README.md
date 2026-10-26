@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Local Market Coverage Rate** (LMCR) in
 - **Canonical id:** `dea:metric-local-market-coverage-rate`
 - **Name:** Local Market Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LMCR
 
@@ -23,7 +23,7 @@ Designated Markets Covered per Plan / Planned Markets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

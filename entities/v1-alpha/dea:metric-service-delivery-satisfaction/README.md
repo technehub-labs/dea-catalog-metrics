@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Delivery Satisfaction** (SDS) 
 - **Canonical id:** `dea:metric-service-delivery-satisfaction`
 - **Name:** Service Delivery Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDS
 
@@ -27,7 +27,7 @@ Satisfied Citizen Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

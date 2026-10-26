@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Issue Escalation Compliance** (IEC-P) 
 - **Canonical id:** `dea:metric-issue-escalation-compliance`
 - **Name:** Issue Escalation Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IEC-P
 
@@ -23,7 +23,7 @@ Issues Escalated per Matrix / Issues Meeting Criteria
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

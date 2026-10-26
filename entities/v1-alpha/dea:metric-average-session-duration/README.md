@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Session Duration** (ASD) in th
 - **Canonical id:** `dea:metric-average-session-duration`
 - **Name:** Average Session Duration
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASD
 
@@ -23,8 +23,8 @@ Total Session Time / Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

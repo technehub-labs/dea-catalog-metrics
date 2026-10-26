@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Hierarchy Accuracy** (MDHA
 - **Canonical id:** `dea:metric-master-data-hierarchy-accuracy`
 - **Name:** Master Data Hierarchy Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDHA
 
@@ -27,7 +27,7 @@ Hierarchy Structures Matching Verified Reality / Hierarchies Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

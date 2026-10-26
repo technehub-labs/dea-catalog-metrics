@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peer Review Turnaround Time** (PRTT-SD
 - **Canonical id:** `dea:metric-peer-review-turnaround-time`
 - **Name:** Peer Review Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRTT-SD
 
@@ -23,8 +23,8 @@ Hours from Review Request to Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

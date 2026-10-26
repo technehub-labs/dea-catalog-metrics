@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Plan Delivery Accuracy** (MPDA) 
 - **Canonical id:** `dea:metric-media-plan-delivery-accuracy`
 - **Name:** Media Plan Delivery Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPDA
 
@@ -23,7 +23,7 @@ Delivered Impressions vs Plan within Tolerance / Placements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

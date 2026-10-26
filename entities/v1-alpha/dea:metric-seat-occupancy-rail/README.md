@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seat Occupancy (Rail)** (SO-R) in the 
 - **Canonical id:** `dea:metric-seat-occupancy-rail`
 - **Name:** Seat Occupancy (Rail)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SO-R
 
@@ -27,7 +27,7 @@ Passenger Kilometres Travelled / Seat Kilometres Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

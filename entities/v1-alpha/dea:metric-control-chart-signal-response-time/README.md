@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Chart Signal Response Time** (
 - **Canonical id:** `dea:metric-control-chart-signal-response-time`
 - **Name:** Control Chart Signal Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCSRT
 
@@ -23,8 +23,8 @@ Hours from Control Chart Signal to Containment Action
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

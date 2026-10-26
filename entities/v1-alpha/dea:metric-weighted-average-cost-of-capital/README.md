@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weighted Average Cost of Capital** (WA
 - **Canonical id:** `dea:metric-weighted-average-cost-of-capital`
 - **Name:** Weighted Average Cost of Capital
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WACC
 
@@ -27,7 +27,7 @@ Weighted Average of Cost of Equity and After-Tax Cost of Debt
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

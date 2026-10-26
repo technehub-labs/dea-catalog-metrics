@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Equity** (ROE) in the OpenDE
 - **Canonical id:** `dea:metric-return-on-equity`
 - **Name:** Return on Equity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROE
 
@@ -27,7 +27,7 @@ Net Income / Shareholders' Equity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

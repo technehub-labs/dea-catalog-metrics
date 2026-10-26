@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adverse Impact Analysis Currency** (AI
 - **Canonical id:** `dea:metric-adverse-impact-analysis-currency`
 - **Name:** Adverse Impact Analysis Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AIAC-E
 
@@ -27,7 +27,7 @@ Analyses Completed within Required Cycle / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

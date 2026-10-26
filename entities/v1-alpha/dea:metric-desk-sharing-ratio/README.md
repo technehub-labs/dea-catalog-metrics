@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Desk Sharing Ratio** (DSR) in the Open
 - **Canonical id:** `dea:metric-desk-sharing-ratio`
 - **Name:** Desk Sharing Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSR
 

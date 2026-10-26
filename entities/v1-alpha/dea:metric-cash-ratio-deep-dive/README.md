@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Ratio (Deep Dive)** (CashRD) in t
 - **Canonical id:** `dea:metric-cash-ratio-deep-dive`
 - **Name:** Cash Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CashRD
 

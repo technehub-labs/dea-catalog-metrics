@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experience Cost of Failure** (ECF) in 
 - **Canonical id:** `dea:metric-experience-cost-of-failure`
 - **Name:** Experience Cost of Failure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECF
 

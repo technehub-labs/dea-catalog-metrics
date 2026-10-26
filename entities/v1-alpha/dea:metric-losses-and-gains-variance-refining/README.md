@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Losses and Gains Variance (Refining)**
 - **Canonical id:** `dea:metric-losses-and-gains-variance-refining`
 - **Name:** Losses and Gains Variance (Refining)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LGV
 
@@ -23,7 +23,7 @@ Measured Output vs Theoretical Output Variance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

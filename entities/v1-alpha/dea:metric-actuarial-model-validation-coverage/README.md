@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Actuarial Model Validation Coverage** 
 - **Canonical id:** `dea:metric-actuarial-model-validation-coverage`
 - **Name:** Actuarial Model Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMVC
 
@@ -27,7 +27,7 @@ Models Validated in Period / Models in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

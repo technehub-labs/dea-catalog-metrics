@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Jitter** (JTR) in the OpenDEAM Metric 
 - **Canonical id:** `dea:metric-jitter`
 - **Name:** Jitter
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JTR
 
@@ -23,8 +23,8 @@ Mean Variation in Packet Arrival Delay
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

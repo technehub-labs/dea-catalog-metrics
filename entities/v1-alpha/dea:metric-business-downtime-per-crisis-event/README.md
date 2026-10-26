@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Downtime per Crisis Event** (
 - **Canonical id:** `dea:metric-business-downtime-per-crisis-event`
 - **Name:** Business Downtime per Crisis Event
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BDCE
 
@@ -27,8 +27,8 @@ Average Operating Hours Lost per Crisis
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

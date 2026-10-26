@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Health Score** (AHS-AP) in th
 - **Canonical id:** `dea:metric-alliance-health-score`
 - **Name:** Alliance Health Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AHS-AP
 

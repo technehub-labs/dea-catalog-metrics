@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bunker Consumption Variance (Deep Dive
 - **Canonical id:** `dea:metric-bunker-consumption-variance-deep-dive`
 - **Name:** Bunker Consumption Variance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCV-D
 
@@ -23,7 +23,7 @@ Actual - Planned Consumption / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

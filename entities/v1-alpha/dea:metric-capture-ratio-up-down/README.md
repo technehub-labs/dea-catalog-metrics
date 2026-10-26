@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capture Ratio (Up/Down)** (CRUD) in th
 - **Canonical id:** `dea:metric-capture-ratio-up-down`
 - **Name:** Capture Ratio (Up/Down)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRUD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application-to-Offer Cycle Time (Deep 
 - **Canonical id:** `dea:metric-application-to-offer-cycle-time-deep-dive`
 - **Name:** Application-to-Offer Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AOT-D
 
@@ -23,8 +23,8 @@ Days from Application to Offer Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

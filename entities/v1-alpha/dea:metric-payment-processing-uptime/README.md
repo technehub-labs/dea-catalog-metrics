@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Processing Uptime** (PPU) in t
 - **Canonical id:** `dea:metric-payment-processing-uptime`
 - **Name:** Payment Processing Uptime
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPU
 
@@ -27,7 +27,7 @@ Available Processing Time / Total Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

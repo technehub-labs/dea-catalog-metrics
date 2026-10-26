@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ticket Backlog** (TBK) in the OpenDEAM
 - **Canonical id:** `dea:metric-ticket-backlog`
 - **Name:** Ticket Backlog
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TBK
 

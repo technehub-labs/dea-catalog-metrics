@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Size Under Guideline Rate** (CS
 - **Canonical id:** `dea:metric-change-size-under-guideline-rate`
 - **Name:** Change Size Under Guideline Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSUG
 
@@ -23,7 +23,7 @@ Changes within Size Guideline / Merged Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

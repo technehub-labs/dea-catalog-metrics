@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Activation Rate** (ACT) in the OpenDEA
 - **Canonical id:** `dea:metric-activation-rate`
 - **Name:** Activation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACT
 
@@ -27,7 +27,7 @@ Users Reaching Activation Milestone / New Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

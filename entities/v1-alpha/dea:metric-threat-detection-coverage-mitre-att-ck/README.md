@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Detection Coverage (MITRE ATT&C
 - **Canonical id:** `dea:metric-threat-detection-coverage-mitre-att-ck`
 - **Name:** Threat Detection Coverage (MITRE ATT&CK)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDCA
 
@@ -27,7 +27,7 @@ Techniques with Detectable Coverage / Prioritized Techniques
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Load Factor** (PLF-A) in the
 - **Canonical id:** `dea:metric-passenger-load-factor`
 - **Name:** Passenger Load Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLF-A
 
@@ -27,7 +27,7 @@ Revenue Passenger Kilometres / Available Seat Kilometres
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

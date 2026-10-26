@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Fund Spend Compliance** (MFS
 - **Canonical id:** `dea:metric-marketing-fund-spend-compliance`
 - **Name:** Marketing Fund Spend Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MFSC
 
@@ -23,7 +23,7 @@ Spend per Approved Plan / Approved Fund
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Audit Adjustment Ratio** (TAAR) in
 - **Canonical id:** `dea:metric-tax-audit-adjustment-ratio`
 - **Name:** Tax Audit Adjustment Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TAAR
 
@@ -27,7 +27,7 @@ Tax Audit Adjustments / Taxes Originally Declared
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

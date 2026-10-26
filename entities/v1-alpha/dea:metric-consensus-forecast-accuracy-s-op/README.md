@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Consensus Forecast Accuracy (S&OP)** (
 - **Canonical id:** `dea:metric-consensus-forecast-accuracy-s-op`
 - **Name:** Consensus Forecast Accuracy (S&OP)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFA-S
 
@@ -27,7 +27,7 @@ Measures how closely the jointly agreed demand plan matches actual demand, the s
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

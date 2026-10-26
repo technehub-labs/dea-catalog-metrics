@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution Rate (Deep Di
 - **Canonical id:** `dea:metric-first-contact-resolution-rate-deep-dive`
 - **Name:** First Contact Resolution Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCRDD
 
@@ -23,7 +23,7 @@ Contacts Resolved without Repeat / Contacts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Landed Cost Variance** (TLCV) in
 - **Canonical id:** `dea:metric-total-landed-cost-variance`
 - **Name:** Total Landed Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLCV
 
@@ -27,7 +27,7 @@ Actual vs Planned Landed Cost / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

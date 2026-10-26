@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Aging (GBS)** (BAG) in the Ope
 - **Canonical id:** `dea:metric-backlog-aging-gbs`
 - **Name:** Backlog Aging (GBS)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAG
 

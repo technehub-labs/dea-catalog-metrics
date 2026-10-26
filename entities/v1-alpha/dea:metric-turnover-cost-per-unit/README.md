@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnover Cost per Unit** (TCPU) in the
 - **Canonical id:** `dea:metric-turnover-cost-per-unit`
 - **Name:** Turnover Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCPU
 

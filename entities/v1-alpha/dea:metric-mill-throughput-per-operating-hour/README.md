@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mill Throughput per Operating Hour** (
 - **Canonical id:** `dea:metric-mill-throughput-per-operating-hour`
 - **Name:** Mill Throughput per Operating Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTOH
 

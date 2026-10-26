@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Forecast Accuracy** (W
 - **Canonical id:** `dea:metric-working-capital-forecast-accuracy`
 - **Name:** Working Capital Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCFA
 
@@ -27,7 +27,7 @@ Variance of Forecast vs Actual Working Capital / Actual
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vegetation Management Compliance (Grid
 - **Canonical id:** `dea:metric-vegetation-management-compliance-grid`
 - **Name:** Vegetation Management Compliance (Grid)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VMC
 
@@ -27,7 +27,7 @@ Spans Treated per Cycle Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

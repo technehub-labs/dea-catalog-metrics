@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Net Promoter Score (Attendees)**
 - **Canonical id:** `dea:metric-event-net-promoter-score-attendees`
 - **Name:** Event Net Promoter Score (Attendees)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ENPS-A
 

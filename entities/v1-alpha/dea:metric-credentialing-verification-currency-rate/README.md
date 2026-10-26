@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credentialing Verification Currency Ra
 - **Canonical id:** `dea:metric-credentialing-verification-currency-rate`
 - **Name:** Credentialing Verification Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CVCR-HC
 
@@ -27,7 +27,7 @@ Practitioners with Current Primary Source Verification / Practitioners
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

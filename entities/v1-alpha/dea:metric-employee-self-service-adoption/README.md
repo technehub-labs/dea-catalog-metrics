@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Self-Service Adoption** (ESSA
 - **Canonical id:** `dea:metric-employee-self-service-adoption`
 - **Name:** Employee Self-Service Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESSA
 
@@ -27,7 +27,7 @@ Transactions Completed by Employees via Self-Service / Total Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

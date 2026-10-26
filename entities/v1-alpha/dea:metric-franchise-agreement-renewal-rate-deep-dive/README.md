@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchise Agreement Renewal Rate (Deep
 - **Canonical id:** `dea:metric-franchise-agreement-renewal-rate-deep-dive`
 - **Name:** Franchise Agreement Renewal Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FARR-D
 
@@ -27,7 +27,7 @@ Renewed Agreements / Expiring Agreements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

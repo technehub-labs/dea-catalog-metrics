@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortality within 30 Days of Procedure*
 - **Canonical id:** `dea:metric-mortality-within-30-days-of-procedure`
 - **Name:** Mortality within 30 Days of Procedure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MP30
 
@@ -27,7 +27,7 @@ Deaths within 30 Days / Procedures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

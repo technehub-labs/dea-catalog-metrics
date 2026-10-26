@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Configuration Compliance** (P
 - **Canonical id:** `dea:metric-pipeline-configuration-compliance`
 - **Name:** Pipeline Configuration Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCC-CI
 
@@ -23,7 +23,7 @@ Pipelines Using Approved Templates / Pipelines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

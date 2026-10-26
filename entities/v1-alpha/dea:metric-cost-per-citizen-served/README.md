@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Citizen Served** (CPCS) in th
 - **Canonical id:** `dea:metric-cost-per-citizen-served`
 - **Name:** Cost per Citizen Served
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCS
 

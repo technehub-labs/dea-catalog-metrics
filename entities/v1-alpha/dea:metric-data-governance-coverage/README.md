@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Coverage** (DGC) in th
 - **Canonical id:** `dea:metric-data-governance-coverage`
 - **Name:** Data Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DGC
 
@@ -27,7 +27,7 @@ Data Domains with Steward and Standards / Total Domains
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

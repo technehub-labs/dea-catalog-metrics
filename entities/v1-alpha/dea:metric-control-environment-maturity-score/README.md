@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Environment Maturity Score** (
 - **Canonical id:** `dea:metric-control-environment-maturity-score`
 - **Name:** Control Environment Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEMS
 

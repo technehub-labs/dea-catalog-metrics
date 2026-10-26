@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Review Cadence Compliance** (OKRRC
 - **Canonical id:** `dea:metric-okr-review-cadence-compliance`
 - **Name:** OKR Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OKRRCC
 
@@ -23,7 +23,7 @@ Check-ins Completed per Cadence / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

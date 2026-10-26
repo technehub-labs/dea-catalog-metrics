@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Leakage Rate** (UWLR2) in
 - **Canonical id:** `dea:metric-underwriting-leakage-rate`
 - **Name:** Underwriting Leakage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UWLR2
 
@@ -23,7 +23,7 @@ Premium Shortfalls from Rating Errors / Gross Premium
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

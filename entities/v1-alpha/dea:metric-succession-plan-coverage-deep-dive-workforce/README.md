@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Succession Plan Coverage (Deep Dive - 
 - **Canonical id:** `dea:metric-succession-plan-coverage-deep-dive-workforce`
 - **Name:** Succession Plan Coverage (Deep Dive - Workforce)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPCD
 
@@ -27,7 +27,7 @@ Critical Roles with Ready Successor / Critical Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Contract Test Coverage** (APICC) i
 - **Canonical id:** `dea:metric-api-contract-test-coverage`
 - **Name:** API Contract Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APICC
 
@@ -23,7 +23,7 @@ Endpoints Covered by Contract Tests / Endpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

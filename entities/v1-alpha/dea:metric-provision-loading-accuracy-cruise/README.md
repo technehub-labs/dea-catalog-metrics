@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Provision Loading Accuracy (Cruise)** 
 - **Canonical id:** `dea:metric-provision-loading-accuracy-cruise`
 - **Name:** Provision Loading Accuracy (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLAC
 
@@ -23,7 +23,7 @@ Provision Items Delivered per Manifest / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

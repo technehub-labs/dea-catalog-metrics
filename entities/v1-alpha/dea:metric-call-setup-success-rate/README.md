@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Call Setup Success Rate** (CSSR) in th
 - **Canonical id:** `dea:metric-call-setup-success-rate`
 - **Name:** Call Setup Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSSR
 
@@ -23,7 +23,7 @@ Successfully Established Calls / Call Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

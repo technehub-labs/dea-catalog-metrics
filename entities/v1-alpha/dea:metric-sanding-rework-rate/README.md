@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanding Rework Rate** (SRR-F) in the O
 - **Canonical id:** `dea:metric-sanding-rework-rate`
 - **Name:** Sanding Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRR-F
 
@@ -23,7 +23,7 @@ Items Requiring Sanding Rework / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

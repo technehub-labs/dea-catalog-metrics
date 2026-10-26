@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cleaning Audit Pass Rate** (CAPR-C) in
 - **Canonical id:** `dea:metric-cleaning-audit-pass-rate`
 - **Name:** Cleaning Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAPR-C
 
@@ -23,7 +23,7 @@ Inspections Meeting Standard / Inspections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

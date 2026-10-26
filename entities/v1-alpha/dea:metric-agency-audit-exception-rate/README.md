@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Audit Exception Rate** (AAER) i
 - **Canonical id:** `dea:metric-agency-audit-exception-rate`
 - **Name:** Agency Audit Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAER
 
@@ -23,7 +23,7 @@ Audit Exceptions / Audit Items Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

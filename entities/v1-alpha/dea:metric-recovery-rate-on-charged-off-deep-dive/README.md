@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate on Charged-Off (Deep Div
 - **Canonical id:** `dea:metric-recovery-rate-on-charged-off-deep-dive`
 - **Name:** Recovery Rate on Charged-Off (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRCOD
 
@@ -27,7 +27,7 @@ Recovered Amount / Charged-Off Amount
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

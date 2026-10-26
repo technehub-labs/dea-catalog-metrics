@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Backlog** (PBL) in the Open
 - **Canonical id:** `dea:metric-production-backlog`
 - **Name:** Production Backlog
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PBL
 

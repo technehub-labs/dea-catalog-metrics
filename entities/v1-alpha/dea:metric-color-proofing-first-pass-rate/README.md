@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Color Proofing First-Pass Rate** (CPF)
 - **Canonical id:** `dea:metric-color-proofing-first-pass-rate`
 - **Name:** Color Proofing First-Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPF
 
@@ -23,7 +23,7 @@ Jobs Passing Color Proof First Time / Jobs Proofed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

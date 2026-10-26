@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff Leverage Ratio** (SLR-PS) in the
 - **Canonical id:** `dea:metric-staff-leverage-ratio`
 - **Name:** Staff Leverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLR-PS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Flag Release Success** (FFRS) 
 - **Canonical id:** `dea:metric-feature-flag-release-success`
 - **Name:** Feature Flag Release Success
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FFRS
 
@@ -23,7 +23,7 @@ Features Released without Rollback / Features Released
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

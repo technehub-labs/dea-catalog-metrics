@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Emissions per Household Served**
 - **Canonical id:** `dea:metric-fleet-emissions-per-household-served`
 - **Name:** Fleet Emissions per Household Served
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FEHS
 

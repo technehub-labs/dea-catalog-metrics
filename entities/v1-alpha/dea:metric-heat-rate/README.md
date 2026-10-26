@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Heat Rate** (HR) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-heat-rate`
 - **Name:** Heat Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HR
 

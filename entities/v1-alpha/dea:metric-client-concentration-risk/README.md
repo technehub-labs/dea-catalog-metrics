@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Concentration Risk** (CCR-PS) i
 - **Canonical id:** `dea:metric-client-concentration-risk`
 - **Name:** Client Concentration Risk
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-PS
 
@@ -27,7 +27,7 @@ Largest Client Fee Revenue / Total Fee Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

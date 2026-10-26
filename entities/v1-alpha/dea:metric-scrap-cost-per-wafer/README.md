@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scrap Cost per Wafer** (SCW) in the Op
 - **Canonical id:** `dea:metric-scrap-cost-per-wafer`
 - **Name:** Scrap Cost per Wafer
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCW
 

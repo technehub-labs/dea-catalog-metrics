@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Marketing Investment** (ROMI
 - **Canonical id:** `dea:metric-return-on-marketing-investment`
 - **Name:** Return on Marketing Investment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROMI
 
@@ -27,7 +27,7 @@ Incremental profit or revenue attributable to marketing, divided by the marketin
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

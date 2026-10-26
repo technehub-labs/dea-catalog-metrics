@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Availability (Mining)** (EA-
 - **Canonical id:** `dea:metric-equipment-availability-mining`
 - **Name:** Equipment Availability (Mining)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EA-M
 
@@ -27,7 +27,7 @@ Available Equipment Hours / Scheduled Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

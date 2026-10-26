@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Innovation Climate Score** (ICS-BSC) i
 - **Canonical id:** `dea:metric-innovation-climate-score`
 - **Name:** Innovation Climate Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICS-BSC
 

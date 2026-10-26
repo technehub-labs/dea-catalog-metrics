@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EBITDA Margin (Deep Dive)** (EBMDD) in
 - **Canonical id:** `dea:metric-ebitda-margin-deep-dive`
 - **Name:** EBITDA Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBMDD
 
@@ -27,7 +27,7 @@ EBITDA / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

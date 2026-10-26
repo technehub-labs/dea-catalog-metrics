@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conversion Rate** (CVR) in the OpenDEA
 - **Canonical id:** `dea:metric-conversion-rate`
 - **Name:** Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CVR
 
@@ -23,7 +23,7 @@ Conversions / Total Sessions or Visitors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

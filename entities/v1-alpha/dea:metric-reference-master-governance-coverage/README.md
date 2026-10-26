@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reference Master Governance Coverage**
 - **Canonical id:** `dea:metric-reference-master-governance-coverage`
 - **Name:** Reference Master Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RMGC
 
@@ -23,7 +23,7 @@ Code Sets Governed Centrally / Code Sets in Use
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

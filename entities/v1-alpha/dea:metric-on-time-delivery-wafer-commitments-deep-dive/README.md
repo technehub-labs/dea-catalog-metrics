@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery - Wafer Commitments (
 - **Canonical id:** `dea:metric-on-time-delivery-wafer-commitments-deep-dive`
 - **Name:** On-Time Delivery - Wafer Commitments (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTD-D
 
@@ -27,7 +27,7 @@ Lots Delivered to Commit Date / Lots
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

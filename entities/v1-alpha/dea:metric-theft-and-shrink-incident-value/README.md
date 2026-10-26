@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Theft and Shrink Incident Value** (TSI
 - **Canonical id:** `dea:metric-theft-and-shrink-incident-value`
 - **Name:** Theft and Shrink Incident Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSIV
 

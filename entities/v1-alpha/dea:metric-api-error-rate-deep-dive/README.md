@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Error Rate (Deep Dive)** (APIER) i
 - **Canonical id:** `dea:metric-api-error-rate-deep-dive`
 - **Name:** API Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIER
 
@@ -23,7 +23,7 @@ API Error Rate (Deep Dive) (APIER) addresses the quality of outputs and outcomes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

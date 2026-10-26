@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SCA - Vulnerable Dependency Detection 
 - **Canonical id:** `dea:metric-sca-vulnerable-dependency-detection-rate`
 - **Name:** SCA - Vulnerable Dependency Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCAVDR
 
@@ -27,7 +27,7 @@ Known Vulnerable Dependencies Detected before Release / Total Found
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

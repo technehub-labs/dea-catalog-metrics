@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Policy Coverage** (CSPMC) in the 
 - **Canonical id:** `dea:metric-cspm-policy-coverage`
 - **Name:** CSPM Policy Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSPMC
 
@@ -27,7 +27,7 @@ Enforced Policies / Framework-Mapped Policies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

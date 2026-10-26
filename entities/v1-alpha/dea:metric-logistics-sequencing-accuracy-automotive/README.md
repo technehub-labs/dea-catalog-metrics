@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Sequencing Accuracy (Automot
 - **Canonical id:** `dea:metric-logistics-sequencing-accuracy-automotive`
 - **Name:** Logistics Sequencing Accuracy (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSA
 
@@ -23,7 +23,7 @@ Sequenced Deliveries Correct / Deliveries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

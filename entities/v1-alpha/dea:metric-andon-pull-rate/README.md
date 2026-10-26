@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Andon Pull Rate** (APR-A) in the OpenD
 - **Canonical id:** `dea:metric-andon-pull-rate`
 - **Name:** Andon Pull Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APR-A
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remediation Ticket Cycle Time** (RTCVM
 - **Canonical id:** `dea:metric-remediation-ticket-cycle-time`
 - **Name:** Remediation Ticket Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTCVM
 
@@ -23,8 +23,8 @@ Days from Finding to Ticket Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

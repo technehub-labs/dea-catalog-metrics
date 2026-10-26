@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost of Quality Ratio** (COQR) in the 
 - **Canonical id:** `dea:metric-cost-of-quality-ratio`
 - **Name:** Cost of Quality Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COQR
 
@@ -27,7 +27,7 @@ Cost of Poor Quality / Total Production Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

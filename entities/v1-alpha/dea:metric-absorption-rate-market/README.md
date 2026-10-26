@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Absorption Rate (Market)** (ABSR-RE) i
 - **Canonical id:** `dea:metric-absorption-rate-market`
 - **Name:** Absorption Rate (Market)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABSR-RE
 
@@ -27,7 +27,7 @@ Units Leased or Sold per Period / Total Available Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

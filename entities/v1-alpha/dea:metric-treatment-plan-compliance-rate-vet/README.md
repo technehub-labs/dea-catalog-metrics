@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Treatment Plan Compliance Rate (Vet)**
 - **Canonical id:** `dea:metric-treatment-plan-compliance-rate-vet`
 - **Name:** Treatment Plan Compliance Rate (Vet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPCR-V
 
@@ -23,7 +23,7 @@ Completed Plans / Prescribed Plans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

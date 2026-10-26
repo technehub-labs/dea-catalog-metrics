@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Satisfaction Index (Deep Dive)**
 - **Canonical id:** `dea:metric-guest-satisfaction-index-deep-dive`
 - **Name:** Guest Satisfaction Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GSI-D
 

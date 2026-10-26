@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Risk Register Coverage** (ARR
 - **Canonical id:** `dea:metric-alliance-risk-register-coverage`
 - **Name:** Alliance Risk Register Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARRC
 
@@ -27,7 +27,7 @@ Alliances with Joint Risk Register / Strategic Alliances
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

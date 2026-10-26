@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Layer Depth** (ELD) in the 
 - **Canonical id:** `dea:metric-escalation-layer-depth`
 - **Name:** Escalation Layer Depth
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELD
 

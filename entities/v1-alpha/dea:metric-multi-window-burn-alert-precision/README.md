@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Window Burn Alert Precision** (M
 - **Canonical id:** `dea:metric-multi-window-burn-alert-precision`
 - **Name:** Multi-Window Burn Alert Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWBAP
 
@@ -23,7 +23,7 @@ Pages Confirmed Actionable / Multi-Window Burn Pages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

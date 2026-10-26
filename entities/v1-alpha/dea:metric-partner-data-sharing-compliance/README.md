@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Data Sharing Compliance** (PDS
 - **Canonical id:** `dea:metric-partner-data-sharing-compliance`
 - **Name:** Partner Data Sharing Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDSC-AP
 
@@ -27,7 +27,7 @@ Data Exchanges under Agreed Terms / Exchanges
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

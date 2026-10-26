@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score (SaaS)** (NPS-S) in
 - **Canonical id:** `dea:metric-net-promoter-score-saas`
 - **Name:** Net Promoter Score (SaaS)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPS-S
 

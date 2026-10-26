@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Litigation Cost Exposure Ratio** (I
 - **Canonical id:** `dea:metric-ip-litigation-cost-exposure-ratio`
 - **Name:** IP Litigation Cost Exposure Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ILCER
 
@@ -27,7 +27,7 @@ Litigation Spend and Reserves / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

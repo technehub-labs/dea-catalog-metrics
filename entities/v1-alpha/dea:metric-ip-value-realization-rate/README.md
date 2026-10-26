@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Value Realization Rate** (IPVRR) in
 - **Canonical id:** `dea:metric-ip-value-realization-rate`
 - **Name:** IP Value Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPVRR
 
@@ -27,7 +27,7 @@ Products Launched Using Owned IP / Portfolio Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

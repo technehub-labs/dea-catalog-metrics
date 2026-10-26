@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Counterfeit Intel Rejection Rate** (CI
 - **Canonical id:** `dea:metric-counterfeit-intel-rejection-rate`
 - **Name:** Counterfeit Intel Rejection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIRR
 
@@ -23,7 +23,7 @@ Unverified Intel Rejected / Intel Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

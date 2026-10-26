@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Retirement Compliance (Telecom
 - **Canonical id:** `dea:metric-product-retirement-compliance-telecom`
 - **Name:** Product Retirement Compliance (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCT
 
@@ -27,7 +27,7 @@ Retirements Completed by Migration Deadline / Retirements Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

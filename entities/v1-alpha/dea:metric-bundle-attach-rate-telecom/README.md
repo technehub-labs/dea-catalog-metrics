@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bundle Attach Rate (Telecom)** (BART-T
 - **Canonical id:** `dea:metric-bundle-attach-rate-telecom`
 - **Name:** Bundle Attach Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BART-T
 
@@ -27,7 +27,7 @@ Customers with Multi-Product Bundle / Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

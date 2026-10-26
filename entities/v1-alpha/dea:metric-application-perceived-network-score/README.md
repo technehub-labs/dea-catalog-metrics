@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application-Perceived Network Score** 
 - **Canonical id:** `dea:metric-application-perceived-network-score`
 - **Name:** Application-Perceived Network Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APNS
 

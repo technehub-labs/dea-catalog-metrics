@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hire** (CPH) in the OpenDEAM 
 - **Canonical id:** `dea:metric-cost-per-hire`
 - **Name:** Cost per Hire
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPH
 

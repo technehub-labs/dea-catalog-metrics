@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quote Conversion Rate (Insurance)** (Q
 - **Canonical id:** `dea:metric-quote-conversion-rate-insurance`
 - **Name:** Quote Conversion Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QCR-I
 
@@ -27,7 +27,7 @@ Quotes Converted to Bound Policies / Quotes Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

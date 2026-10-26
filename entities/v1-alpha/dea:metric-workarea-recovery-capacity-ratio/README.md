@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workarea Recovery Capacity Ratio** (WR
 - **Canonical id:** `dea:metric-workarea-recovery-capacity-ratio`
 - **Name:** Workarea Recovery Capacity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRCR-BC
 

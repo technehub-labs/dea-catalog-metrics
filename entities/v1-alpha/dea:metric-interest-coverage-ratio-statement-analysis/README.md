@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interest Coverage Ratio (Statement Ana
 - **Canonical id:** `dea:metric-interest-coverage-ratio-statement-analysis`
 - **Name:** Interest Coverage Ratio (Statement Analysis)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICRDD
 

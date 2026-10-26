@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Shift Detection Rate** (PSDR) 
 - **Canonical id:** `dea:metric-process-shift-detection-rate`
 - **Name:** Process Shift Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSDR
 
@@ -23,7 +23,7 @@ Sustained Shifts Detected by Control Plan / Shifts Confirmed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

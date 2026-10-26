@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Actuarial Function Independence Rating
 - **Canonical id:** `dea:metric-actuarial-function-independence-rating`
 - **Name:** Actuarial Function Independence Rating
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFIR
 

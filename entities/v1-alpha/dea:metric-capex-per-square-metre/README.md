@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CapEx per Square Metre** (CPSM) in the
 - **Canonical id:** `dea:metric-capex-per-square-metre`
 - **Name:** CapEx per Square Metre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPSM
 

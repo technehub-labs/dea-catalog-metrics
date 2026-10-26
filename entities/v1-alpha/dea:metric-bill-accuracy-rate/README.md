@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bill Accuracy Rate** (BAR-U) in the Op
 - **Canonical id:** `dea:metric-bill-accuracy-rate`
 - **Name:** Bill Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAR-U
 
@@ -27,7 +27,7 @@ Bills Issued without Correction / Bills Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

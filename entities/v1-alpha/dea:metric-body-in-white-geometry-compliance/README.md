@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Body-in-White Geometry Compliance** (B
 - **Canonical id:** `dea:metric-body-in-white-geometry-compliance`
 - **Name:** Body-in-White Geometry Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BWGC
 
@@ -23,7 +23,7 @@ Dimensional Measurements in Tolerance / Measurements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

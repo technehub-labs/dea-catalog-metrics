@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Downtime Cost** (ADC) in th
 - **Canonical id:** `dea:metric-automation-downtime-cost`
 - **Name:** Automation Downtime Cost
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADC
 

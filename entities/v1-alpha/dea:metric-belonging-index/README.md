@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Belonging Index** (BI-DEI) in the Open
 - **Canonical id:** `dea:metric-belonging-index`
 - **Name:** Belonging Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BI-DEI
 

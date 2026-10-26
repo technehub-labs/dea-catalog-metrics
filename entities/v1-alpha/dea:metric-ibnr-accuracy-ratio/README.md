@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IBNR Accuracy Ratio** (IBNR-AR) in the
 - **Canonical id:** `dea:metric-ibnr-accuracy-ratio`
 - **Name:** IBNR Accuracy Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IBNR-AR
 

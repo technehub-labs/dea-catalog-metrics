@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Manager Governance Load Index*
 - **Canonical id:** `dea:metric-program-manager-governance-load-index`
 - **Name:** Program Manager Governance Load Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMGLI
 
@@ -23,8 +23,8 @@ Governance Hours per Program Manager per Week
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

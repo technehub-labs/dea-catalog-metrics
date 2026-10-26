@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Template Adoption Rate** (STA
 - **Canonical id:** `dea:metric-standard-template-adoption-rate`
 - **Name:** Standard Template Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STAR-CL
 
@@ -23,7 +23,7 @@ Contracts on Approved Templates / Contracts Drafted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Past Due 30+ Rate** (DPD30) in th
 - **Canonical id:** `dea:metric-days-past-due-30-rate`
 - **Name:** Days Past Due 30+ Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPD30
 
@@ -23,7 +23,7 @@ Accounts 30+ Days Past Due / Active Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Raise a Dollar** (CTR) in the 
 - **Canonical id:** `dea:metric-cost-to-raise-a-dollar`
 - **Name:** Cost to Raise a Dollar
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cooling Efficiency - Delta-T Complianc
 - **Canonical id:** `dea:metric-cooling-efficiency-delta-t-compliance`
 - **Name:** Cooling Efficiency - Delta-T Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEDT
 
@@ -23,7 +23,7 @@ Airflow Tests Meeting Delta-T Design / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

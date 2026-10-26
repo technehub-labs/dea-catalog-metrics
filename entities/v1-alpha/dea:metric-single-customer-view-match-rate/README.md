@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Customer View Match Rate** (SCV
 - **Canonical id:** `dea:metric-single-customer-view-match-rate`
 - **Name:** Single Customer View Match Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCVM
 
@@ -27,7 +27,7 @@ Profiles Matched across Sources / Profiles Processed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

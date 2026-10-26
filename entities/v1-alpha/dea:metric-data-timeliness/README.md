@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Timeliness** (DT) in the OpenDEAM
 - **Canonical id:** `dea:metric-data-timeliness`
 - **Name:** Data Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DT
 
@@ -23,7 +23,7 @@ Data Available within Target Latency / Total Data Deliveries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

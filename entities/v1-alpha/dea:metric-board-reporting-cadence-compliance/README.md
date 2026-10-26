@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Reporting Cadence Compliance** (
 - **Canonical id:** `dea:metric-board-reporting-cadence-compliance`
 - **Name:** Board Reporting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRCC-S
 
@@ -23,7 +23,7 @@ Board Packs Delivered on Schedule / Board Cycles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

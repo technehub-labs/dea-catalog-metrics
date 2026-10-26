@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Concession Spend per Capita** (CSPC) i
 - **Canonical id:** `dea:metric-concession-spend-per-capita`
 - **Name:** Concession Spend per Capita
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSPC
 

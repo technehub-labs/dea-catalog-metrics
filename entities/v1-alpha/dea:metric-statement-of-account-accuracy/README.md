@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Statement of Account Accuracy** (SOAA)
 - **Canonical id:** `dea:metric-statement-of-account-accuracy`
 - **Name:** Statement of Account Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOAA
 
@@ -23,7 +23,7 @@ Accurate Commission Statements / Statements Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

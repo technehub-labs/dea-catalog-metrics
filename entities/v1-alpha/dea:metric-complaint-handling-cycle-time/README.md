@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Handling Cycle Time** (CHCT)
 - **Canonical id:** `dea:metric-complaint-handling-cycle-time`
 - **Name:** Complaint Handling Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHCT
 
@@ -27,8 +27,8 @@ Days from Complaint Receipt to Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

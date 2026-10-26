@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subcontractor On-Time Performance** (S
 - **Canonical id:** `dea:metric-subcontractor-on-time-performance`
 - **Name:** Subcontractor On-Time Performance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOTP
 
@@ -27,7 +27,7 @@ Subcontractor Milestones Met on Time / Milestones Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

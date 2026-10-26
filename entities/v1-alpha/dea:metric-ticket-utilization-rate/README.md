@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ticket Utilization Rate** (TUR-A) in t
 - **Canonical id:** `dea:metric-ticket-utilization-rate`
 - **Name:** Ticket Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TUR-A
 
@@ -27,7 +27,7 @@ Tickets Used / Tickets Sold or Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

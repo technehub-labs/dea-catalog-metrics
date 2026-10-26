@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Regulatory Approval** (TTRA) i
 - **Canonical id:** `dea:metric-time-to-regulatory-approval`
 - **Name:** Time to Regulatory Approval
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTRA
 
@@ -27,8 +27,8 @@ Days from Submission to Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

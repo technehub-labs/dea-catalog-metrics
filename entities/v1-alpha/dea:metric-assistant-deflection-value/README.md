@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assistant Deflection Value** (ADV-LLM)
 - **Canonical id:** `dea:metric-assistant-deflection-value`
 - **Name:** Assistant Deflection Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADV-LLM
 

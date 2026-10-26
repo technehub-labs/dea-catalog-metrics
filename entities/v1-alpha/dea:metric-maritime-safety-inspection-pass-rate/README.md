@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maritime Safety Inspection Pass Rate**
 - **Canonical id:** `dea:metric-maritime-safety-inspection-pass-rate`
 - **Name:** Maritime Safety Inspection Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSIP
 
@@ -27,7 +27,7 @@ Inspections Passed without Major Finding / Inspections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

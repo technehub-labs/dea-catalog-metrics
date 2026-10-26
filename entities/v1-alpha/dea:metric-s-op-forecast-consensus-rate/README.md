@@ -7,7 +7,7 @@ Candidate Performance Metric record for **S&OP Forecast Consensus Rate** (SFCSR)
 - **Canonical id:** `dea:metric-s-op-forecast-consensus-rate`
 - **Name:** S&OP Forecast Consensus Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SFCSR
 
@@ -23,7 +23,7 @@ Consensus Reached without Escalation / Planning Cycles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

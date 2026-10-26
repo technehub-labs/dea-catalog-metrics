@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recruiter Funnel Efficiency** (RFE-TA)
 - **Canonical id:** `dea:metric-recruiter-funnel-efficiency`
 - **Name:** Recruiter Funnel Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFE-TA
 
@@ -23,8 +23,8 @@ Hires per Recruiter per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

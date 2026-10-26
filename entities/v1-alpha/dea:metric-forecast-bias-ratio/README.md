@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Bias Ratio** (FBR-SC) in the 
 - **Canonical id:** `dea:metric-forecast-bias-ratio`
 - **Name:** Forecast Bias Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBR-SC
 
@@ -23,7 +23,7 @@ Cumulative Forecast Error / Cumulative Actual Demand
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

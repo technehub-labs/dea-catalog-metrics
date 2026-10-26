@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subrogation Recovery Rate** (SRR-C) in
 - **Canonical id:** `dea:metric-subrogation-recovery-rate`
 - **Name:** Subrogation Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRR-C
 
@@ -27,7 +27,7 @@ Recovered Amounts from Third Parties / Recoverable Amounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

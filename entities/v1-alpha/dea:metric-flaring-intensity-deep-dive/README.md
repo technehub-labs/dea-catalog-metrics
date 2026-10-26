@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaring Intensity (Deep Dive)** (FI-OG
 - **Canonical id:** `dea:metric-flaring-intensity-deep-dive`
 - **Name:** Flaring Intensity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FI-OG
 

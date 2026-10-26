@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defensible Disposal Rate** (DDR) in th
 - **Canonical id:** `dea:metric-defensible-disposal-rate`
 - **Name:** Defensible Disposal Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDR
 
@@ -23,7 +23,7 @@ Disposals with Documented Approval and Certificate / Disposals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

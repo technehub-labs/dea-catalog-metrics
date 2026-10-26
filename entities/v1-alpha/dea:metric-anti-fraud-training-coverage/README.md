@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Anti-Fraud Training Coverage** (AFTC) 
 - **Canonical id:** `dea:metric-anti-fraud-training-coverage`
 - **Name:** Anti-Fraud Training Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFTC
 
@@ -23,7 +23,7 @@ Staff Completing Fraud Awareness Training / Staff in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

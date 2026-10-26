@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Data Uptime for Trading Systems
 - **Canonical id:** `dea:metric-market-data-uptime-for-trading-systems`
 - **Name:** Market Data Uptime for Trading Systems
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDUT-T
 
@@ -27,7 +27,7 @@ Feed Available Time / Required Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

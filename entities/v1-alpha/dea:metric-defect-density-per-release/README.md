@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density per Release** (DDPR-QA)
 - **Canonical id:** `dea:metric-defect-density-per-release`
 - **Name:** Defect Density per Release
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDPR-QA
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Cost per Vehicle** (LCV) in 
 - **Canonical id:** `dea:metric-logistics-cost-per-vehicle`
 - **Name:** Logistics Cost per Vehicle
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCV
 

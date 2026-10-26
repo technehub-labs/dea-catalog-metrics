@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Venture Portfolio Return Multiple** (V
 - **Canonical id:** `dea:metric-venture-portfolio-return-multiple`
 - **Name:** Venture Portfolio Return Multiple
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPRM
 

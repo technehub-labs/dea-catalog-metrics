@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Screening Compliance (HEDIS
 - **Canonical id:** `dea:metric-preventive-screening-compliance-hedis-style`
 - **Name:** Preventive Screening Compliance (HEDIS-Style)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSCH
 
@@ -27,7 +27,7 @@ Members Receiving Age-Risk Appropriate Screenings / Eligible Members
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

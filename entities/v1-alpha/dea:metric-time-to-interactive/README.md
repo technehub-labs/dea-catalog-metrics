@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Interactive** (TTI) in the Ope
 - **Canonical id:** `dea:metric-time-to-interactive`
 - **Name:** Time to Interactive
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTI
 
@@ -27,8 +27,8 @@ Median Time until Page Fully Interactive
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

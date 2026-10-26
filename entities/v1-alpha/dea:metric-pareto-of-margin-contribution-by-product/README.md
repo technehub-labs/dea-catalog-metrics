@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pareto of Margin Contribution by Produ
 - **Canonical id:** `dea:metric-pareto-of-margin-contribution-by-product`
 - **Name:** Pareto of Margin Contribution by Product
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMCP
 
@@ -27,7 +27,7 @@ Margin from Top Products / Total Margin
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

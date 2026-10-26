@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Productivity Ratio** (LCPR)
 - **Canonical id:** `dea:metric-labor-cost-productivity-ratio`
 - **Name:** Labor Cost Productivity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCPR
 

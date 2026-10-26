@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Tooling Adoption Rate** (KTA
 - **Canonical id:** `dea:metric-knowledge-tooling-adoption-rate`
 - **Name:** Knowledge Tooling Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KTAR
 
@@ -23,7 +23,7 @@ Employees Using Central Knowledge Platform / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

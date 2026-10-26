@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feedback Conversation Frequency** (FCF
 - **Canonical id:** `dea:metric-feedback-conversation-frequency`
 - **Name:** Feedback Conversation Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCF
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Barrel of Oil Equivalent Netback** (BO
 - **Canonical id:** `dea:metric-barrel-of-oil-equivalent-netback`
 - **Name:** Barrel of Oil Equivalent Netback
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BOEN
 

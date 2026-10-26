@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share (Deep Dive)** (MSDD) in t
 - **Canonical id:** `dea:metric-market-share-deep-dive`
 - **Name:** Market Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSDD
 
@@ -27,7 +27,7 @@ Entity Sales / Total Addressable Market Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

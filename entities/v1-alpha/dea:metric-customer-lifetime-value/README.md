@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Lifetime Value** (CLV) in the
 - **Canonical id:** `dea:metric-customer-lifetime-value`
 - **Name:** Customer Lifetime Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLV
 

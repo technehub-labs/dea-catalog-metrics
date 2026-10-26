@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Utilization** (CU) in the Ope
 - **Canonical id:** `dea:metric-capacity-utilization`
 - **Name:** Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CU
 
@@ -27,7 +27,7 @@ Actual Output / Maximum Possible Output
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

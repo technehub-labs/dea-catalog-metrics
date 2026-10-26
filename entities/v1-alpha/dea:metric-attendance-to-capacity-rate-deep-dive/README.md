@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendance-to-Capacity Rate (Deep Dive
 - **Canonical id:** `dea:metric-attendance-to-capacity-rate-deep-dive`
 - **Name:** Attendance-to-Capacity Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATC-D
 
@@ -27,7 +27,7 @@ Tickets Sold / Stadium Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

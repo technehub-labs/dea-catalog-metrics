@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accounts Payable Turnover** (APT) in t
 - **Canonical id:** `dea:metric-accounts-payable-turnover`
 - **Name:** Accounts Payable Turnover
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APT
 

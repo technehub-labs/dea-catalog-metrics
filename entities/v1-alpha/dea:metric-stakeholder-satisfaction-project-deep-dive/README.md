@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Satisfaction - Project (De
 - **Canonical id:** `dea:metric-stakeholder-satisfaction-project-deep-dive`
 - **Name:** Stakeholder Satisfaction - Project (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSP-D
 

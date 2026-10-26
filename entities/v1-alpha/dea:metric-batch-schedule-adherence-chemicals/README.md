@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Schedule Adherence (Chemicals)**
 - **Canonical id:** `dea:metric-batch-schedule-adherence-chemicals`
 - **Name:** Batch Schedule Adherence (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSA-C
 
@@ -23,7 +23,7 @@ Batches Produced on Schedule / Batches Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

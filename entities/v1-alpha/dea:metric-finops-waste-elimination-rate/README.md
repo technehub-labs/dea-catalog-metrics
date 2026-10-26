@@ -7,7 +7,7 @@ Candidate Performance Metric record for **FinOps Waste Elimination Rate** (FWER)
 - **Canonical id:** `dea:metric-finops-waste-elimination-rate`
 - **Name:** FinOps Waste Elimination Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FWER
 
@@ -23,7 +23,7 @@ Idle or Unused Resource Spend Eliminated / Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

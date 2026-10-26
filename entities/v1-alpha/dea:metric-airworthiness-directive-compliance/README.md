@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Airworthiness Directive Compliance** (
 - **Canonical id:** `dea:metric-airworthiness-directive-compliance`
 - **Name:** Airworthiness Directive Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADC
 
@@ -27,7 +27,7 @@ Directives Implemented by Deadline / Directives Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

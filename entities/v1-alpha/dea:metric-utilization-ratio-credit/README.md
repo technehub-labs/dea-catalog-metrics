@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Utilization Ratio (Credit)** (URC-CC) 
 - **Canonical id:** `dea:metric-utilization-ratio-credit`
 - **Name:** Utilization Ratio (Credit)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** URC-CC
 
@@ -23,7 +23,7 @@ Drawn Balance / Approved Limit
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

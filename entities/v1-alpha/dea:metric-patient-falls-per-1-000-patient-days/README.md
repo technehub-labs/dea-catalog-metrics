@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Falls per 1,000 Patient Days**
 - **Canonical id:** `dea:metric-patient-falls-per-1-000-patient-days`
 - **Name:** Patient Falls per 1,000 Patient Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PF1K
 
@@ -23,8 +23,8 @@ Reported Falls / Patient Days x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

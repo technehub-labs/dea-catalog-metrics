@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Run Error Rate** (PER) in the 
 - **Canonical id:** `dea:metric-payment-run-error-rate`
 - **Name:** Payment Run Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PER
 
@@ -23,7 +23,7 @@ Failed or Rejected Payments / Payments Initiated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Scoring Window Compliance** (BSW
 - **Canonical id:** `dea:metric-batch-scoring-window-compliance`
 - **Name:** Batch Scoring Window Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSWC-M
 
@@ -23,7 +23,7 @@ Scoring Batches Completed in Window / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner-Initiated Pipeline Ratio** (PI
 - **Canonical id:** `dea:metric-partner-initiated-pipeline-ratio`
 - **Name:** Partner-Initiated Pipeline Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIPR
 
@@ -27,7 +27,7 @@ Qualified Pipeline Originated by Partners / Pipeline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

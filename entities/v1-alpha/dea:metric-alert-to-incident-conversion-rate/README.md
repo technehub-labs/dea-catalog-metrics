@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Incident Conversion Rate** (A
 - **Canonical id:** `dea:metric-alert-to-incident-conversion-rate`
 - **Name:** Alert-to-Incident Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AICR-SOC
 
@@ -23,7 +23,7 @@ Alerts Escalated to Incidents / Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remote Work Enablement Score** (RWES) 
 - **Canonical id:** `dea:metric-remote-work-enablement-score`
 - **Name:** Remote Work Enablement Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RWES
 

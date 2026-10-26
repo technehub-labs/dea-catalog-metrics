@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Decision Cycle Time** (CDCT-S
 - **Canonical id:** `dea:metric-capacity-decision-cycle-time`
 - **Name:** Capacity Decision Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDCT-S
 
@@ -27,8 +27,8 @@ Days to Resolve Identified Capacity Gap
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

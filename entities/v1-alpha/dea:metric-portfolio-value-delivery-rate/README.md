@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Value Delivery Rate** (PVDR)
 - **Canonical id:** `dea:metric-portfolio-value-delivery-rate`
 - **Name:** Portfolio Value Delivery Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PVDR
 
@@ -27,7 +27,7 @@ Value Realized / Portfolio Investment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

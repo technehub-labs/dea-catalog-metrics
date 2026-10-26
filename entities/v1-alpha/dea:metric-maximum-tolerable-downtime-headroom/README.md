@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Tolerable Downtime Headroom** 
 - **Canonical id:** `dea:metric-maximum-tolerable-downtime-headroom`
 - **Name:** Maximum Tolerable Downtime Headroom
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTDH
 

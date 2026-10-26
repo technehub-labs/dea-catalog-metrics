@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Module Testability Score** (MTS-CQ) in
 - **Canonical id:** `dea:metric-module-testability-score`
 - **Name:** Module Testability Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTS-CQ
 

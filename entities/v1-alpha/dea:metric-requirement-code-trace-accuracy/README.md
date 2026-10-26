@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirement-Code Trace Accuracy** (RCT
 - **Canonical id:** `dea:metric-requirement-code-trace-accuracy`
 - **Name:** Requirement-Code Trace Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCTA-SD
 
@@ -23,7 +23,7 @@ Coded Behavior Matching Requirements / Sampled Behavior
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

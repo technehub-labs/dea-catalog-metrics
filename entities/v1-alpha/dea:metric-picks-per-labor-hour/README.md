@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Picks per Labor Hour** (PPH) in the Op
 - **Canonical id:** `dea:metric-picks-per-labor-hour`
 - **Name:** Picks per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPH
 

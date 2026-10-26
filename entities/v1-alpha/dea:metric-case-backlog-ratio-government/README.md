@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Backlog Ratio (Government)** (CBR
 - **Canonical id:** `dea:metric-case-backlog-ratio-government`
 - **Name:** Case Backlog Ratio (Government)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBR-G
 
@@ -27,7 +27,7 @@ Open Cases beyond Standard / Open Cases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

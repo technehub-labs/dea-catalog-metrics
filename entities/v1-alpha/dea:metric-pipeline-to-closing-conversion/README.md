@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline-to-Closing Conversion** (P2CC
 - **Canonical id:** `dea:metric-pipeline-to-closing-conversion`
 - **Name:** Pipeline-to-Closing Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** P2CC
 
@@ -27,7 +27,7 @@ Closings / Active Pipeline Opportunities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

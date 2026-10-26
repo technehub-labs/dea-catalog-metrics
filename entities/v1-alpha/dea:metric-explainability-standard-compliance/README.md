@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Explainability Standard Compliance** (
 - **Canonical id:** `dea:metric-explainability-standard-compliance`
 - **Name:** Explainability Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EXSC
 
@@ -27,7 +27,7 @@ Models Meeting Explainability Requirement / In-Scope Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Student** (CPS) in the OpenDE
 - **Canonical id:** `dea:metric-cost-per-student`
 - **Name:** Cost per Student
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPS
 

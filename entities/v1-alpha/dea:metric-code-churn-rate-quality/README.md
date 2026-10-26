@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Churn Rate (Quality)** (CHURNQ) i
 - **Canonical id:** `dea:metric-code-churn-rate-quality`
 - **Name:** Code Churn Rate (Quality)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHURNQ
 
@@ -23,7 +23,7 @@ Lines Rewritten within Window after First Write / Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

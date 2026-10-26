@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess Return Consistency Rate** (ERCR
 - **Canonical id:** `dea:metric-excess-return-consistency-rate`
 - **Name:** Excess Return Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERCR
 
@@ -27,7 +27,7 @@ Periods Beating Benchmark / Periods in Window
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

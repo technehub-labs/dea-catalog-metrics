@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Efficiency** (WCE) in 
 - **Canonical id:** `dea:metric-working-capital-efficiency`
 - **Name:** Working Capital Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCE
 

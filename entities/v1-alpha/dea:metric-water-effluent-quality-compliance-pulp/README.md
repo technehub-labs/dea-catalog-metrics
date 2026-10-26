@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Effluent Quality Compliance (Pul
 - **Canonical id:** `dea:metric-water-effluent-quality-compliance-pulp`
 - **Name:** Water Effluent Quality Compliance (Pulp)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WEQC
 
@@ -27,7 +27,7 @@ Discharges within Permit / Discharges Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

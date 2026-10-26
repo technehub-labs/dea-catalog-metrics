@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privileged Account Ratio** (PAR-IAM) i
 - **Canonical id:** `dea:metric-privileged-account-ratio`
 - **Name:** Privileged Account Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAR-IAM
 
@@ -27,7 +27,7 @@ Privileged Accounts / Total Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

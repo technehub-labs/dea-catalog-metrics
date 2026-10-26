@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Index** (DQI) in the Open
 - **Canonical id:** `dea:metric-data-quality-index`
 - **Name:** Data Quality Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQI
 

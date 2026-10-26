@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stripping Ratio** (STR) in the OpenDEA
 - **Canonical id:** `dea:metric-stripping-ratio`
 - **Name:** Stripping Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STR
 

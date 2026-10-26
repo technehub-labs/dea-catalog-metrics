@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Cost Update Frequency** (SCUF
 - **Canonical id:** `dea:metric-standard-cost-update-frequency`
 - **Name:** Standard Cost Update Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCUF
 
@@ -23,8 +23,8 @@ Days since Last Standard Cost Roll
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

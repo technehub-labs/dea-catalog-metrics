@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield Rate** (YR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-yield-rate`
 - **Name:** Yield Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** YR
 
@@ -23,7 +23,7 @@ Good Units Produced / Units Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

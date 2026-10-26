@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tax Transparency Disclosure Rate** (TT
 - **Canonical id:** `dea:metric-tax-transparency-disclosure-rate`
 - **Name:** Tax Transparency Disclosure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTDR
 
@@ -27,7 +27,7 @@ Country-by-Country Items Disclosed / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

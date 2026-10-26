@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Usage Effectiveness** (WUE-DC) i
 - **Canonical id:** `dea:metric-water-usage-effectiveness`
 - **Name:** Water Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WUE-DC
 

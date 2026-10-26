@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Implementation Review Coverage** 
 - **Canonical id:** `dea:metric-post-implementation-review-coverage`
 - **Name:** Post-Implementation Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRC
 
@@ -27,7 +27,7 @@ Closed Initiatives with PIR / Closed Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Automation Coverage** (PAC-A) 
 - **Canonical id:** `dea:metric-process-automation-coverage`
 - **Name:** Process Automation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PAC-A
 
@@ -27,7 +27,7 @@ Automated Process Steps / Total Process Steps in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

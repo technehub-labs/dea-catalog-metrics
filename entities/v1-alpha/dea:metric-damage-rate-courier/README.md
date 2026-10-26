@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Damage Rate (Courier)** (DMG) in the O
 - **Canonical id:** `dea:metric-damage-rate-courier`
 - **Name:** Damage Rate (Courier)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DMG
 
@@ -23,7 +23,7 @@ Damaged Items / Items Handled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

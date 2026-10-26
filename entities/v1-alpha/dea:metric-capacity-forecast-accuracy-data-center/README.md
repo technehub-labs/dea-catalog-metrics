@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Forecast Accuracy (Data Cente
 - **Canonical id:** `dea:metric-capacity-forecast-accuracy-data-center`
 - **Name:** Capacity Forecast Accuracy (Data Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFA-D
 
@@ -27,7 +27,7 @@ Measures deviation between forecast and actual demand for power, space, and cool
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

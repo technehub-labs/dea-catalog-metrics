@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Creative Production Cycle Time (Ads)**
 - **Canonical id:** `dea:metric-creative-production-cycle-time-ads`
 - **Name:** Creative Production Cycle Time (Ads)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPCT-A
 
@@ -23,8 +23,8 @@ Days from Brief to Finished Creative
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

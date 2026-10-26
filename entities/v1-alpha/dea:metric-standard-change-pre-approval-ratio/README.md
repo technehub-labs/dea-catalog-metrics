@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Change Pre-Approval Ratio** (
 - **Canonical id:** `dea:metric-standard-change-pre-approval-ratio`
 - **Name:** Standard Change Pre-Approval Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPR
 
@@ -23,7 +23,7 @@ Change Types Pre-Approved as Standard / Change Types
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

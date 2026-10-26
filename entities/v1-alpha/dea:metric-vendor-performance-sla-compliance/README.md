@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Performance SLA Compliance** (V
 - **Canonical id:** `dea:metric-vendor-performance-sla-compliance`
 - **Name:** Vendor Performance SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPSC
 
@@ -23,7 +23,7 @@ SLAs Met by Vendors / SLAs Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

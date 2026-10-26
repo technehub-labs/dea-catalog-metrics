@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Throughput Achieved** (PTA) in th
 - **Canonical id:** `dea:metric-peak-throughput-achieved`
 - **Name:** Peak Throughput Achieved
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTA
 
@@ -27,7 +27,7 @@ Peak Daily Items Processed / Design Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

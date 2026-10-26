@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Backtesting Pass Rate (Actuarial
 - **Canonical id:** `dea:metric-model-backtesting-pass-rate-actuarial`
 - **Name:** Model Backtesting Pass Rate (Actuarial)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MBPR
 
@@ -27,7 +27,7 @@ Models Meeting Backtest Tolerances / Models Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

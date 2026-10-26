@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost Percentage (Restaurants)** 
 - **Canonical id:** `dea:metric-labor-cost-percentage-restaurants`
 - **Name:** Labor Cost Percentage (Restaurants)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCPR
 
@@ -27,7 +27,7 @@ Labor Cost / Food and Beverage Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

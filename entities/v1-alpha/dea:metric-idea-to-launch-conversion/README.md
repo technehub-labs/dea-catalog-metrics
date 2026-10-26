@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idea-to-Launch Conversion** (I2L) in t
 - **Canonical id:** `dea:metric-idea-to-launch-conversion`
 - **Name:** Idea-to-Launch Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** I2L
 
@@ -27,7 +27,7 @@ Ideas Reaching Launch / Ideas Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

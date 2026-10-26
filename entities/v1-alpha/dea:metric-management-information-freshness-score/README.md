@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Information Freshness Score
 - **Canonical id:** `dea:metric-management-information-freshness-score`
 - **Name:** Management Information Freshness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIFS-GOV
 
@@ -27,7 +27,7 @@ Reports Presented with Data under Refresh SLA / Reports
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

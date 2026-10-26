@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Strategic Business Unit** 
 - **Canonical id:** `dea:metric-revenue-per-strategic-business-unit`
 - **Name:** Revenue per Strategic Business Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPSBU
 

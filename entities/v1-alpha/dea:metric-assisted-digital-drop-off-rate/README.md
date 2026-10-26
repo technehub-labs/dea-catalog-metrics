@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assisted Digital Drop-off Rate** (ADDR
 - **Canonical id:** `dea:metric-assisted-digital-drop-off-rate`
 - **Name:** Assisted Digital Drop-off Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADDR
 
@@ -23,7 +23,7 @@ Users Abandoning Digital Journey to Assisted Channel / Digital Starts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

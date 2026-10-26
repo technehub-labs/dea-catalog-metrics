@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Data Quality Score - Revie
 - **Canonical id:** `dea:metric-performance-data-quality-score-reviews`
 - **Name:** Performance Data Quality Score - Reviews
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDQS-OKR
 
@@ -23,7 +23,7 @@ Reviews with Complete Evidence / Reviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

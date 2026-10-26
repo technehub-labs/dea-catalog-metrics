@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Plant Operating Rate** (POR-C) in the 
 - **Canonical id:** `dea:metric-plant-operating-rate`
 - **Name:** Plant Operating Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POR-C
 
@@ -27,7 +27,7 @@ Actual Production / Nameplate Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

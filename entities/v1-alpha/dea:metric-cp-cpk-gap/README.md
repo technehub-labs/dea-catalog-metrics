@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cp-Cpk Gap** (CCGAP) in the OpenDEAM M
 - **Canonical id:** `dea:metric-cp-cpk-gap`
 - **Name:** Cp-Cpk Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCGAP
 

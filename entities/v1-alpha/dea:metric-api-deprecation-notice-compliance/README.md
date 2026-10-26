@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Deprecation Notice Compliance** (A
 - **Canonical id:** `dea:metric-api-deprecation-notice-compliance`
 - **Name:** API Deprecation Notice Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIDNC
 
@@ -23,7 +23,7 @@ Deprecations Announced within Policy Lead Time / Deprecations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

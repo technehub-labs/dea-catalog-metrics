@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct Booking Ratio (Deep Dive)** (DB
 - **Canonical id:** `dea:metric-direct-booking-ratio-deep-dive`
 - **Name:** Direct Booking Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DBR-D
 
@@ -27,7 +27,7 @@ Direct Reservations / Total Reservations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

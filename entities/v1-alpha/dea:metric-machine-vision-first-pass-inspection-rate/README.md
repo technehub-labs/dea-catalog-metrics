@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Vision First-Pass Inspection R
 - **Canonical id:** `dea:metric-machine-vision-first-pass-inspection-rate`
 - **Name:** Machine Vision First-Pass Inspection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVFI
 
@@ -23,7 +23,7 @@ Inspections Correctly Classified First Time / Inspections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

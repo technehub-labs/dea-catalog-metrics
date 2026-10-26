@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Escalation Cycle Time** (CE
 - **Canonical id:** `dea:metric-compliance-escalation-cycle-time`
 - **Name:** Compliance Escalation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CECT
 
@@ -23,8 +23,8 @@ Days from Detection to Resolution of Compliance Escalation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

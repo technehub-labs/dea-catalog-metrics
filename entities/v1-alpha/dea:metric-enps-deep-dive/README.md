@@ -7,7 +7,7 @@ Candidate Performance Metric record for **eNPS (Deep Dive)** (ENPSDD) in the Ope
 - **Canonical id:** `dea:metric-enps-deep-dive`
 - **Name:** eNPS (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ENPSDD
 

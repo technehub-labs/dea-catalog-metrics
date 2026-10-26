@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workload Density per Rack** (WDR) in t
 - **Canonical id:** `dea:metric-workload-density-per-rack`
 - **Name:** Workload Density per Rack
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WDR
 

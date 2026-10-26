@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Plan Review Currency** (CPRC) in 
 - **Canonical id:** `dea:metric-care-plan-review-currency`
 - **Name:** Care Plan Review Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPRC
 
@@ -23,7 +23,7 @@ Care Plans Reviewed within Interval / Care Plans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

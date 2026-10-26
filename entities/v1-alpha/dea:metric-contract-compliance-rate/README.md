@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Compliance Rate** (CCR) in th
 - **Canonical id:** `dea:metric-contract-compliance-rate`
 - **Name:** Contract Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR
 
@@ -27,7 +27,7 @@ Purchases via Contract / Total Addressable Purchases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

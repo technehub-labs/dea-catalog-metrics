@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Recipient Satisfaction** (CRS) in
 - **Canonical id:** `dea:metric-care-recipient-satisfaction`
 - **Name:** Care Recipient Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRS
 
@@ -27,7 +27,7 @@ Satisfied Recipient or Family Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

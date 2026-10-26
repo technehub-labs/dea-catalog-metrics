@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Substrate Inventory Turns (Print)** (S
 - **Canonical id:** `dea:metric-substrate-inventory-turns-print`
 - **Name:** Substrate Inventory Turns (Print)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIT
 

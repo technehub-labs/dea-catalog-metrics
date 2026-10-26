@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Culture Alignment Index (Deep Dive)** 
 - **Canonical id:** `dea:metric-culture-alignment-index-deep-dive`
 - **Name:** Culture Alignment Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAI-EE
 

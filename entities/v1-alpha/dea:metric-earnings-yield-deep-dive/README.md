@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Yield (Deep Dive)** (EYDD) in
 - **Canonical id:** `dea:metric-earnings-yield-deep-dive`
 - **Name:** Earnings Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EYDD
 
@@ -27,7 +27,7 @@ Earnings per Share / Price per Share
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

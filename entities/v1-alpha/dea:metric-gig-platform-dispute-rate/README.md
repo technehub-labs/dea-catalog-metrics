@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Platform Dispute Rate** (GPDR) in 
 - **Canonical id:** `dea:metric-gig-platform-dispute-rate`
 - **Name:** Gig Platform Dispute Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPDR
 
@@ -23,7 +23,7 @@ Disputed Tasks / Tasks Completed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

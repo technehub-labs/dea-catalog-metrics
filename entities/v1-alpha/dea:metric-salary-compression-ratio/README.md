@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Salary Compression Ratio** (SCR-PAY) i
 - **Canonical id:** `dea:metric-salary-compression-ratio`
 - **Name:** Salary Compression Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-PAY
 

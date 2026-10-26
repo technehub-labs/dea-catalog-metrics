@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Cycle Coverage** (ACC) in the Op
 - **Canonical id:** `dea:metric-audit-cycle-coverage`
 - **Name:** Audit Cycle Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACC
 
@@ -27,7 +27,7 @@ Auditable Entities Audited within Cycle / Auditable Universe
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

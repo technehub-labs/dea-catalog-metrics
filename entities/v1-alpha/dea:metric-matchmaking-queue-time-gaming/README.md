@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Matchmaking Queue Time (Gaming)** (MQT
 - **Canonical id:** `dea:metric-matchmaking-queue-time-gaming`
 - **Name:** Matchmaking Queue Time (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MQT
 
@@ -23,8 +23,8 @@ Median Seconds to Match
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

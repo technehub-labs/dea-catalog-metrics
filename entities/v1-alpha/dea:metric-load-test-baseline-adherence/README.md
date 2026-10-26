@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Test Baseline Adherence** (LTBA-Q
 - **Canonical id:** `dea:metric-load-test-baseline-adherence`
 - **Name:** Load Test Baseline Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTBA-QA
 
@@ -23,7 +23,7 @@ Load Tests Meeting Response Baselines / Tests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

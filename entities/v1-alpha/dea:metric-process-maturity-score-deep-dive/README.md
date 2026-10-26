@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Maturity Score (Deep Dive)** (
 - **Canonical id:** `dea:metric-process-maturity-score-deep-dive`
 - **Name:** Process Maturity Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMSD
 

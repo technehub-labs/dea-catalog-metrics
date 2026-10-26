@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Privacy Assurance Coverage** (V
 - **Canonical id:** `dea:metric-vendor-privacy-assurance-coverage`
 - **Name:** Vendor Privacy Assurance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPAC
 
@@ -27,7 +27,7 @@ Vendors with DPAs and Assessments / Vendors Handling Personal Data
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

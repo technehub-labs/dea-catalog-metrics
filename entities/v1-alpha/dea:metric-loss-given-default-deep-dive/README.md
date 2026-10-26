@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Given Default (Deep Dive)** (LGDD
 - **Canonical id:** `dea:metric-loss-given-default-deep-dive`
 - **Name:** Loss Given Default (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LGDDD
 
@@ -27,7 +27,7 @@ Expected Loss after Recovery / Exposure at Default
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

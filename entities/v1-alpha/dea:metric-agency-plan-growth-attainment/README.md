@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Plan Growth Attainment** (APGA)
 - **Canonical id:** `dea:metric-agency-plan-growth-attainment`
 - **Name:** Agency Plan Growth Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APGA
 
@@ -27,7 +27,7 @@ Actual Agency Growth / Planned Growth
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation-Assisted Change Rate** (AAC
 - **Canonical id:** `dea:metric-automation-assisted-change-rate`
 - **Name:** Automation-Assisted Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AACR
 
@@ -27,7 +27,7 @@ Changes Executed via Automation / Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

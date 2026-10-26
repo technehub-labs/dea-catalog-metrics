@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vehicle Utilization** (VUT) in the Ope
 - **Canonical id:** `dea:metric-vehicle-utilization`
 - **Name:** Vehicle Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VUT
 
@@ -27,7 +27,7 @@ Vehicle Hours in Use / Vehicle Hours Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

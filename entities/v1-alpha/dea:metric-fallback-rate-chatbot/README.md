@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fallback Rate (Chatbot)** (FBR) in the
 - **Canonical id:** `dea:metric-fallback-rate-chatbot`
 - **Name:** Fallback Rate (Chatbot)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBR
 
@@ -23,7 +23,7 @@ Turns Handled by Fallback Response / Total Turns
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

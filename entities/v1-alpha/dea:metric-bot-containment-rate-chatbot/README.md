@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bot Containment Rate (Chatbot)** (BCR-
 - **Canonical id:** `dea:metric-bot-containment-rate-chatbot`
 - **Name:** Bot Containment Rate (Chatbot)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCR-CB
 
@@ -27,7 +27,7 @@ Conversations Resolved without Human Agent / Conversations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

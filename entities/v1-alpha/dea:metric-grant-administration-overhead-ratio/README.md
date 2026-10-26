@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grant Administration Overhead Ratio** 
 - **Canonical id:** `dea:metric-grant-administration-overhead-ratio`
 - **Name:** Grant Administration Overhead Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GAOR
 
@@ -27,7 +27,7 @@ Administration Cost / Grant Funds Disbursed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

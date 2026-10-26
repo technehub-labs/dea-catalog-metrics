@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Exposure Trend Index** (RETI-PM) 
 - **Canonical id:** `dea:metric-risk-exposure-trend-index`
 - **Name:** Risk Exposure Trend Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RETI-PM
 

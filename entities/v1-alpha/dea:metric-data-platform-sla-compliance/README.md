@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Platform SLA Compliance** (DPSLA)
 - **Canonical id:** `dea:metric-data-platform-sla-compliance`
 - **Name:** Data Platform SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPSLA
 
@@ -23,7 +23,7 @@ Platform SLA Targets Met / Targets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

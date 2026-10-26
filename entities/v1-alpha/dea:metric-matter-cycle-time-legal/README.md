@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Matter Cycle Time (Legal)** (MCT) in t
 - **Canonical id:** `dea:metric-matter-cycle-time-legal`
 - **Name:** Matter Cycle Time (Legal)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCT
 
@@ -23,8 +23,8 @@ Days from Matter Open to Close
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

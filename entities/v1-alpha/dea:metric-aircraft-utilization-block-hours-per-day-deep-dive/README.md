@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Utilization - Block Hours per
 - **Canonical id:** `dea:metric-aircraft-utilization-block-hours-per-day-deep-dive`
 - **Name:** Aircraft Utilization - Block Hours per Day (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUHD-D
 
@@ -27,8 +27,8 @@ Block Hours / Aircraft Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

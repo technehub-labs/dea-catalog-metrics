@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Page-Worthy Alert Ratio** (PWAR) in th
 - **Canonical id:** `dea:metric-page-worthy-alert-ratio`
 - **Name:** Page-Worthy Alert Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PWAR
 
@@ -23,7 +23,7 @@ Pages Meeting Paging Criteria / Pages Sent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

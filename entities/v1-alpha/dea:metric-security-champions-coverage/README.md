@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Champions Coverage** (SECCO) 
 - **Canonical id:** `dea:metric-security-champions-coverage`
 - **Name:** Security Champions Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SECCO
 
@@ -27,7 +27,7 @@ Teams with Designated Security Champion / Teams
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

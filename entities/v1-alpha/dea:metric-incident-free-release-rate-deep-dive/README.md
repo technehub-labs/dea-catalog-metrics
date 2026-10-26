@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident-Free Release Rate (Deep Dive)
 - **Canonical id:** `dea:metric-incident-free-release-rate-deep-dive`
 - **Name:** Incident-Free Release Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFRRD
 
@@ -23,7 +23,7 @@ Releases without Error Budget Impact / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

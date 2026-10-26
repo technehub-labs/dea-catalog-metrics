@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Currency Rate (Security)** (T
 - **Canonical id:** `dea:metric-training-currency-rate-security`
 - **Name:** Training Currency Rate (Security)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCR-S
 
@@ -23,7 +23,7 @@ Guards with Current Training / Guards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

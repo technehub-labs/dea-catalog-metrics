@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Dispute Resolution Time** (VDRT
 - **Canonical id:** `dea:metric-vendor-dispute-resolution-time`
 - **Name:** Vendor Dispute Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VDRT
 
@@ -27,8 +27,8 @@ Days from Dispute Raised to Resolution
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

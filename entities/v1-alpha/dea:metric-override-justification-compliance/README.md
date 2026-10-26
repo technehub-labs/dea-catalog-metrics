@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Override Justification Compliance** (O
 - **Canonical id:** `dea:metric-override-justification-compliance`
 - **Name:** Override Justification Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OJC-AI
 
@@ -23,7 +23,7 @@ Overrides with Documented Justification / Overrides
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Runoff Error Rate** (RRER) in 
 - **Canonical id:** `dea:metric-reserve-runoff-error-rate`
 - **Name:** Reserve Runoff Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRER
 
@@ -27,7 +27,7 @@ Absolute Reserve Error at Runtime / Original Reserve
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

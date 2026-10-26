@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Insurance Cost per Policy** (D
 - **Canonical id:** `dea:metric-digital-insurance-cost-per-policy`
 - **Name:** Digital Insurance Cost per Policy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DICPP
 

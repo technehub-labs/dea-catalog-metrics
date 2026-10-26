@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Category Growth Differential** (CGD) i
 - **Canonical id:** `dea:metric-category-growth-differential`
 - **Name:** Category Growth Differential
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CGD
 
@@ -27,7 +27,7 @@ Entity Category Growth minus Market Growth
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Incident Escalation Compliance** (A
 - **Canonical id:** `dea:metric-ai-incident-escalation-compliance`
 - **Name:** AI Incident Escalation Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AIIEC
 
@@ -27,7 +27,7 @@ AI Incidents Escalated per Policy / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

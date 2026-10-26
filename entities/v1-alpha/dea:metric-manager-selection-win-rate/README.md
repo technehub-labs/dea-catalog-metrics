@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager Selection Win Rate** (MSWR-IM)
 - **Canonical id:** `dea:metric-manager-selection-win-rate`
 - **Name:** Manager Selection Win Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSWR-IM
 
@@ -27,7 +27,7 @@ Selected Managers Outperforming over Period / Selected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

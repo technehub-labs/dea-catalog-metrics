@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Uninvested Commitment Ratio** (UCR-IM2
 - **Canonical id:** `dea:metric-uninvested-commitment-ratio`
 - **Name:** Uninvested Commitment Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UCR-IM2
 
@@ -27,7 +27,7 @@ Uncalled Capital / Total Commitments (Private)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

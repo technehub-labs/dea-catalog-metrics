@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return to Work Rate after Long Absence
 - **Canonical id:** `dea:metric-return-to-work-rate-after-long-absence`
 - **Name:** Return to Work Rate after Long Absence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTW
 
@@ -27,7 +27,7 @@ Employees Returned to Work / Long-Absence Cases Closed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

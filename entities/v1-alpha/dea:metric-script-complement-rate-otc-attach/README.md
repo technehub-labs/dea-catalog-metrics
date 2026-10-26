@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Script Complement Rate - OTC Attach** 
 - **Canonical id:** `dea:metric-script-complement-rate-otc-attach`
 - **Name:** Script Complement Rate - OTC Attach
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCR-O
 
@@ -23,7 +23,7 @@ OTC Recommendations Accepted / Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

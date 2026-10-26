@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Units per Hour** (UPH) in the OpenDEAM
 - **Canonical id:** `dea:metric-units-per-hour`
 - **Name:** Units per Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UPH
 

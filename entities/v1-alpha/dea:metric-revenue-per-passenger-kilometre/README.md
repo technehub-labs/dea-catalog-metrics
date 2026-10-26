@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Passenger Kilometre** (RPk
 - **Canonical id:** `dea:metric-revenue-per-passenger-kilometre`
 - **Name:** Revenue per Passenger Kilometre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPkM
 

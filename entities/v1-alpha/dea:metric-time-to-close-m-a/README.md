@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Close (M&A)** (TTC-M) in the O
 - **Canonical id:** `dea:metric-time-to-close-m-a`
 - **Name:** Time to Close (M&A)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTC-M
 
@@ -27,8 +27,8 @@ Days from Term Sheet to Deal Close
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Intensity** (RDI) in the OpenDEAM 
 - **Canonical id:** `dea:metric-r-d-intensity`
 - **Name:** R&D Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDI
 
@@ -27,7 +27,7 @@ R&D Expenditure / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

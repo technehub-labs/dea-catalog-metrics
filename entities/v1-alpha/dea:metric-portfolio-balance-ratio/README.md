@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Balance Ratio** (PBR) in the
 - **Canonical id:** `dea:metric-portfolio-balance-ratio`
 - **Name:** Portfolio Balance Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PBR
 

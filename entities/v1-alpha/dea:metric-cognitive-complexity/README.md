@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cognitive Complexity** (CGCQ) in the O
 - **Canonical id:** `dea:metric-cognitive-complexity`
 - **Name:** Cognitive Complexity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CGCQ
 

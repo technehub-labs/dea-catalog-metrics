@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Tracking Schema Compliance** (ET
 - **Canonical id:** `dea:metric-event-tracking-schema-compliance`
 - **Name:** Event Tracking Schema Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETSC
 
@@ -23,7 +23,7 @@ Tracked Events Matching Governance Schema / Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

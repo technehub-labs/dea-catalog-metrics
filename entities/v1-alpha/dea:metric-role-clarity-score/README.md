@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Role Clarity Score** (RCS-OM) in the O
 - **Canonical id:** `dea:metric-role-clarity-score`
 - **Name:** Role Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCS-OM
 

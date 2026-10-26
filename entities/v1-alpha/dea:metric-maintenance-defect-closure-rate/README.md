@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Defect Closure Rate** (MDC
 - **Canonical id:** `dea:metric-maintenance-defect-closure-rate`
 - **Name:** Maintenance Defect Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCR
 
@@ -23,7 +23,7 @@ Deferred Defects Closed within Limit / Defects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

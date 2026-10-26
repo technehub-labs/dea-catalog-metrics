@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Due Diligence Depth Compliance** (DDDC
 - **Canonical id:** `dea:metric-due-diligence-depth-compliance`
 - **Name:** Due Diligence Depth Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDDC
 
@@ -27,7 +27,7 @@ Vendors Receiving Tier-Appropriate Diligence / Vendors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

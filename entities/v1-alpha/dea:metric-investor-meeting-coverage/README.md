@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investor Meeting Coverage** (IMC) in t
 - **Canonical id:** `dea:metric-investor-meeting-coverage`
 - **Name:** Investor Meeting Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IMC
 
@@ -27,7 +27,7 @@ Top Shareholders Engaged in Period / Top Shareholders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

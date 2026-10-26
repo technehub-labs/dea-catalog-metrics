@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Data Minimization Compliance*
 - **Canonical id:** `dea:metric-personal-data-minimization-compliance`
 - **Name:** Personal Data Minimization Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDMS
 
@@ -23,7 +23,7 @@ Data Collections Justified as Necessary / Collections Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

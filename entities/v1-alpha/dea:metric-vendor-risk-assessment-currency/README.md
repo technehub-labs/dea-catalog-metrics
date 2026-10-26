@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Risk Assessment Currency** (VRA
 - **Canonical id:** `dea:metric-vendor-risk-assessment-currency`
 - **Name:** Vendor Risk Assessment Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VRAC
 
@@ -27,7 +27,7 @@ Vendors with Assessment within Review Cycle / Critical Vendors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

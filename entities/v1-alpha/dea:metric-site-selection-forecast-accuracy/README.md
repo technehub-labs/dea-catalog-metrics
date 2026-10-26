@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Selection Forecast Accuracy** (SS
 - **Canonical id:** `dea:metric-site-selection-forecast-accuracy`
 - **Name:** Site Selection Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSFA
 
@@ -27,7 +27,7 @@ Site Selection Forecast Accuracy measures how closely pre-opening revenue foreca
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

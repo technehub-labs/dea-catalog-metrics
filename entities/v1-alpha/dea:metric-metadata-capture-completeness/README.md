@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metadata Capture Completeness** (MDCC)
 - **Canonical id:** `dea:metric-metadata-capture-completeness`
 - **Name:** Metadata Capture Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCC
 
@@ -23,7 +23,7 @@ Required Record Metadata Captured at Filing / Required Fields
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

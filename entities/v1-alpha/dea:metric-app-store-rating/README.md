@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Store Rating** (ASR-MOB) in the Op
 - **Canonical id:** `dea:metric-app-store-rating`
 - **Name:** App Store Rating
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASR-MOB
 

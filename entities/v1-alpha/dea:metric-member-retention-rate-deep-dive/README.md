@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Retention Rate (Deep Dive)** (M
 - **Canonical id:** `dea:metric-member-retention-rate-deep-dive`
 - **Name:** Member Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRR-D
 
@@ -27,7 +27,7 @@ Members Retained over Period / Start Members
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

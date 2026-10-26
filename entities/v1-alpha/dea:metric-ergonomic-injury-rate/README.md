@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ergonomic Injury Rate** (EIR) in the O
 - **Canonical id:** `dea:metric-ergonomic-injury-rate`
 - **Name:** Ergonomic Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EIR
 
@@ -27,7 +27,7 @@ Ergonomic-Related Injuries / Total Injuries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

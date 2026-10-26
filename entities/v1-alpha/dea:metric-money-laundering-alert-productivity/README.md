@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Money Laundering Alert Productivity** 
 - **Canonical id:** `dea:metric-money-laundering-alert-productivity`
 - **Name:** Money Laundering Alert Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MLAP
 
@@ -27,7 +27,7 @@ Alerts Resulting in SAR / Alerts Generated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

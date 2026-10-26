@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maverick Spend Rate (Sourcing)** (MSR-
 - **Canonical id:** `dea:metric-maverick-spend-rate-sourcing`
 - **Name:** Maverick Spend Rate (Sourcing)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSR-SS
 
@@ -27,7 +27,7 @@ Spend outside Approved Channels / Total Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

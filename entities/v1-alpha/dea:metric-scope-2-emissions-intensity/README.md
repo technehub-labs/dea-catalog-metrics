@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope 2 Emissions Intensity** (S2EI) i
 - **Canonical id:** `dea:metric-scope-2-emissions-intensity`
 - **Name:** Scope 2 Emissions Intensity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** S2EI
 
@@ -27,8 +27,8 @@ Scope 2 tCO2e / Revenue Unit
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes CO2 equivalent (tCO2e)
 
 ## Classification

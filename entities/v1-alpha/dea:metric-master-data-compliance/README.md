@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Compliance** (MDC) in the 
 - **Canonical id:** `dea:metric-master-data-compliance`
 - **Name:** Master Data Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDC
 
@@ -27,7 +27,7 @@ Records Meeting Governance Standards / Total Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

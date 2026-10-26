@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expertise Location Coverage** (ELC) in
 - **Canonical id:** `dea:metric-expertise-location-coverage`
 - **Name:** Expertise Location Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ELC
 
@@ -27,7 +27,7 @@ Critical Topics with Identified Experts / Critical Topics
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

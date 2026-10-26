@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staffing Level Compliance (Care)** (SL
 - **Canonical id:** `dea:metric-staffing-level-compliance-care`
 - **Name:** Staffing Level Compliance (Care)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLCC
 
@@ -27,7 +27,7 @@ Shifts Meeting Minimum Staffing / Shifts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

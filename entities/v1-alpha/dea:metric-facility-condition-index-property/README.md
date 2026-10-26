@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility Condition Index (Property)** 
 - **Canonical id:** `dea:metric-facility-condition-index-property`
 - **Name:** Facility Condition Index (Property)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCI-P
 

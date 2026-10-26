@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Segregation of Duties Violation Count*
 - **Canonical id:** `dea:metric-segregation-of-duties-violation-count`
 - **Name:** Segregation of Duties Violation Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SODVC
 

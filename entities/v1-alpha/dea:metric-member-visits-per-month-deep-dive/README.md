@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Visits per Month (Deep Dive)** 
 - **Canonical id:** `dea:metric-member-visits-per-month-deep-dive`
 - **Name:** Member Visits per Month (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MVM-D
 

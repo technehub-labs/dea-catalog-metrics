@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Repository Availability** (DRA
 - **Canonical id:** `dea:metric-digital-repository-availability`
 - **Name:** Digital Repository Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRA-RM
 
@@ -23,7 +23,7 @@ Uptime of Records Repository
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

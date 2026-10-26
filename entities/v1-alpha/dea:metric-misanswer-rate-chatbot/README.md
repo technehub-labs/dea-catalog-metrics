@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Misanswer Rate (Chatbot)** (MAR-CB) in
 - **Canonical id:** `dea:metric-misanswer-rate-chatbot`
 - **Name:** Misanswer Rate (Chatbot)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAR-CB
 
@@ -23,7 +23,7 @@ Incorrect Answers on Sampled QA / Sampled Answers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

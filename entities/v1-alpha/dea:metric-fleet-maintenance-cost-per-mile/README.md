@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Maintenance Cost per Mile** (FMC
 - **Canonical id:** `dea:metric-fleet-maintenance-cost-per-mile`
 - **Name:** Fleet Maintenance Cost per Mile
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FMCM
 

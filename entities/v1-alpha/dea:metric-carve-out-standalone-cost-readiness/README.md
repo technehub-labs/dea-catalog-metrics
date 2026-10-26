@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carve-Out Standalone Cost Readiness** 
 - **Canonical id:** `dea:metric-carve-out-standalone-cost-readiness`
 - **Name:** Carve-Out Standalone Cost Readiness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCR
 
@@ -23,7 +23,7 @@ Readiness Checklist Items Complete / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

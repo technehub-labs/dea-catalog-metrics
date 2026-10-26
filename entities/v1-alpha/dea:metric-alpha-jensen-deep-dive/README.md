@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha (Jensen) (Deep Dive)** (AJDD) in
 - **Canonical id:** `dea:metric-alpha-jensen-deep-dive`
 - **Name:** Alpha (Jensen) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AJDD
 
@@ -27,7 +27,7 @@ Portfolio Return above CAPM-Predicted Return
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

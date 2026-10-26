@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Team Stability Index** (TSI-AG) in the
 - **Canonical id:** `dea:metric-team-stability-index`
 - **Name:** Team Stability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSI-AG
 
@@ -23,7 +23,7 @@ Team Composition Unchanged over Quarter / Team
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

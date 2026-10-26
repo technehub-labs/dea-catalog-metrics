@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Spend Visibility Coverage** (CSV
 - **Canonical id:** `dea:metric-cloud-spend-visibility-coverage`
 - **Name:** Cloud Spend Visibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSVC-ITFM
 
@@ -23,7 +23,7 @@ Tagged and Allocated Cloud Spend / Total Cloud Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

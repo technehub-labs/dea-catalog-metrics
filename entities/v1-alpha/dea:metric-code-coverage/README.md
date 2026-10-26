@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Coverage** (CC) in the OpenDEAM M
 - **Canonical id:** `dea:metric-code-coverage`
 - **Name:** Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CC
 
@@ -23,7 +23,7 @@ Covered Lines or Branches / Total Lines or Branches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

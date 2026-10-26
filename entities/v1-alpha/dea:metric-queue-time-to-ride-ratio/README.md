@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Queue Time to Ride Ratio** (QTRR) in t
 - **Canonical id:** `dea:metric-queue-time-to-ride-ratio`
 - **Name:** Queue Time to Ride Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QTRR
 

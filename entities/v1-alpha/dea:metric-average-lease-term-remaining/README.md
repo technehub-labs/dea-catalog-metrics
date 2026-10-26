@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Lease Term Remaining** (ALTR) 
 - **Canonical id:** `dea:metric-average-lease-term-remaining`
 - **Name:** Average Lease Term Remaining
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALTR
 

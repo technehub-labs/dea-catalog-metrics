@@ -7,7 +7,7 @@ Candidate Performance Metric record for **P1 Incident Resolution within SLA** (P
 - **Canonical id:** `dea:metric-p1-incident-resolution-within-sla`
 - **Name:** P1 Incident Resolution within SLA
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** P1IRSLA
 
@@ -27,7 +27,7 @@ P1 Incidents Resolved within SLA / P1 Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

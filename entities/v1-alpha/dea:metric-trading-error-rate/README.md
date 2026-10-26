@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trading Error Rate** (TER) in the Open
 - **Canonical id:** `dea:metric-trading-error-rate`
 - **Name:** Trading Error Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TER
 
@@ -23,7 +23,7 @@ Erroneous Trades / Total Trades
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

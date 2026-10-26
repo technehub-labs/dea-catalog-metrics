@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Territory Penetration Rate** (TPR) in 
 - **Canonical id:** `dea:metric-territory-penetration-rate`
 - **Name:** Territory Penetration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPR
 
@@ -27,7 +27,7 @@ Active Franchised Territories / Addressable Territories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Equipment Effectiveness** (OEE
 - **Canonical id:** `dea:metric-overall-equipment-effectiveness`
 - **Name:** Overall Equipment Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OEE
 
@@ -27,7 +27,7 @@ Availability x Performance x Quality
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

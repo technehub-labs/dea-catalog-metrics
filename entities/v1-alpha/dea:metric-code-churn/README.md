@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Churn** (CHN) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-code-churn`
 - **Name:** Code Churn
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHN
 
@@ -23,7 +23,7 @@ Lines Rewritten or Deleted shortly after Writing / Total Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

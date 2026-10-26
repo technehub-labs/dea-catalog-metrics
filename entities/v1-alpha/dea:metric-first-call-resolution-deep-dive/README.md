@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Call Resolution (Deep Dive)** (F
 - **Canonical id:** `dea:metric-first-call-resolution-deep-dive`
 - **Name:** First Call Resolution (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCR-D
 
@@ -27,7 +27,7 @@ Resolved on First Contact / Total Contacts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

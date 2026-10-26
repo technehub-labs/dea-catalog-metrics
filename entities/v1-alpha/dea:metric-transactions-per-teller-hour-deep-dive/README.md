@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transactions per Teller Hour (Deep Div
 - **Canonical id:** `dea:metric-transactions-per-teller-hour-deep-dive`
 - **Name:** Transactions per Teller Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPTH-D
 

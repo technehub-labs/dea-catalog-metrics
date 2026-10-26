@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Volume per Period** (IVPP-IT)
 - **Canonical id:** `dea:metric-incident-volume-per-period`
 - **Name:** Incident Volume per Period
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IVPP-IT
 

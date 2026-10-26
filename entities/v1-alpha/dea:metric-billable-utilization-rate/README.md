@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Billable Utilization Rate** (BUR) in t
 - **Canonical id:** `dea:metric-billable-utilization-rate`
 - **Name:** Billable Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BUR
 
@@ -27,7 +27,7 @@ Billable Hours / Available Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

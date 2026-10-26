@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Turnaround Time** (RTT-PR) in t
 - **Canonical id:** `dea:metric-review-turnaround-time`
 - **Name:** Review Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTT-PR
 
@@ -23,8 +23,8 @@ Hours from Review Request to First Response
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

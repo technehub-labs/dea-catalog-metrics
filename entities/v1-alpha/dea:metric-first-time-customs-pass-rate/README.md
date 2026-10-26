@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Customs Pass Rate** (FTCP) 
 - **Canonical id:** `dea:metric-first-time-customs-pass-rate`
 - **Name:** First-Time Customs Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTCP
 
@@ -23,7 +23,7 @@ Entries Cleared without Query / Entries Filed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

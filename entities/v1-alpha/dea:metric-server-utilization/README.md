@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Utilization** (SVU) in the Open
 - **Canonical id:** `dea:metric-server-utilization`
 - **Name:** Server Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVU
 
@@ -23,7 +23,7 @@ Average CPU or Memory Utilization of Servers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

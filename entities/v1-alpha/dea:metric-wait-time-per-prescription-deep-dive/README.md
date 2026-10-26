@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wait Time per Prescription (Deep Dive)
 - **Canonical id:** `dea:metric-wait-time-per-prescription-deep-dive`
 - **Name:** Wait Time per Prescription (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WTP-D
 
@@ -23,8 +23,8 @@ Minutes from Drop-Off to Ready
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

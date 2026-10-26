@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales Efficiency Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-sales-efficiency-ratio-deep-dive`
 - **Name:** Sales Efficiency Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SERD
 

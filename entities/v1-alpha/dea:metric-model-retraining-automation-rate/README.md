@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Retraining Automation Rate** (MR
 - **Canonical id:** `dea:metric-model-retraining-automation-rate`
 - **Name:** Model Retraining Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRAR
 
@@ -27,7 +27,7 @@ Automated Retraining Workflows / Retraining Workflows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

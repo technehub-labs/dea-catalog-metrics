@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Communication Reach Rate** (
 - **Canonical id:** `dea:metric-emergency-communication-reach-rate`
 - **Name:** Emergency Communication Reach Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECRR
 
@@ -23,7 +23,7 @@ Staff Reached within Target Time / Staff in Test
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

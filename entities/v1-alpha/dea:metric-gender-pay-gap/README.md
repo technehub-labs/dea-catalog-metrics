@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gender Pay Gap** (GPG) in the OpenDEAM
 - **Canonical id:** `dea:metric-gender-pay-gap`
 - **Name:** Gender Pay Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPG
 
@@ -27,7 +27,7 @@ The difference between average male and female pay, expressed as a percentage - 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

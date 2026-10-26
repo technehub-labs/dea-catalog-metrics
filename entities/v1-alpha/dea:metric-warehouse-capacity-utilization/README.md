@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warehouse Capacity Utilization** (WCU)
 - **Canonical id:** `dea:metric-warehouse-capacity-utilization`
 - **Name:** Warehouse Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCU
 
@@ -27,7 +27,7 @@ Occupied Storage Space / Total Storage Space
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Equity Gap** (AEG-DEI) in th
 - **Canonical id:** `dea:metric-attrition-equity-gap`
 - **Name:** Attrition Equity Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AEG-DEI
 
@@ -27,7 +27,7 @@ Attrition Rate Difference between Groups
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

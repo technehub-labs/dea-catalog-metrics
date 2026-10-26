@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolling Throughput Yield** (RTY) in th
 - **Canonical id:** `dea:metric-rolling-throughput-yield`
 - **Name:** Rolling Throughput Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTY
 
@@ -27,7 +27,7 @@ Product of First Pass Yield across All Process Steps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

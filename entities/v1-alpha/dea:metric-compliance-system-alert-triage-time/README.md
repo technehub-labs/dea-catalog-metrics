@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance System Alert Triage Time** 
 - **Canonical id:** `dea:metric-compliance-system-alert-triage-time`
 - **Name:** Compliance System Alert Triage Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAT
 
@@ -23,8 +23,8 @@ Hours to Triage Compliance Alert
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

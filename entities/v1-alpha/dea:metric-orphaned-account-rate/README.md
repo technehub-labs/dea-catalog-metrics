@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Orphaned Account Rate** (OAR-IAM) in t
 - **Canonical id:** `dea:metric-orphaned-account-rate`
 - **Name:** Orphaned Account Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OAR-IAM
 
@@ -27,7 +27,7 @@ Accounts without Active Owner / Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

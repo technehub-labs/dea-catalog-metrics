@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Train Passenger Rate** (RTPR) 
 - **Canonical id:** `dea:metric-release-train-passenger-rate`
 - **Name:** Release Train Passenger Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTPR
 
@@ -23,7 +23,7 @@ Changes Shipping in Train / Changes Committed to Train
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

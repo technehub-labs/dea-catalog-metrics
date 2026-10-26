@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Clause Compliance Rate** (CCC
 - **Canonical id:** `dea:metric-contract-clause-compliance-rate`
 - **Name:** Contract Clause Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCCR
 
@@ -27,7 +27,7 @@ Contracts Containing All Required Clauses / Contracts Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

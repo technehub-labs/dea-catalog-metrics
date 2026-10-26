@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Rule Coverage** (DQRULE) 
 - **Canonical id:** `dea:metric-data-quality-rule-coverage`
 - **Name:** Data Quality Rule Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQRULE
 
@@ -23,7 +23,7 @@ Data Assets with Active Quality Rules / Data Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

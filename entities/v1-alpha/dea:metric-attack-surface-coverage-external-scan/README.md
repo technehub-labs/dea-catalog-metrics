@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attack Surface Coverage - External Sca
 - **Canonical id:** `dea:metric-attack-surface-coverage-external-scan`
 - **Name:** Attack Surface Coverage - External Scan
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASCES
 
@@ -27,7 +27,7 @@ External Assets Covered by Continuous Scan / Discovered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Volatility (Engineering)*
 - **Canonical id:** `dea:metric-requirements-volatility-engineering`
 - **Name:** Requirements Volatility (Engineering)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RV-E
 
@@ -23,7 +23,7 @@ Changed Requirements after Baseline / Baseline Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Utilization by Slotting** (SUS) 
 - **Canonical id:** `dea:metric-space-utilization-by-slotting`
 - **Name:** Space Utilization by Slotting
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SUS
 
@@ -23,7 +23,7 @@ Slotted Pick Faces in Use / Total Pick Faces
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

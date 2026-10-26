@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Available Seat Kilometre** (C
 - **Canonical id:** `dea:metric-cost-per-available-seat-kilometre`
 - **Name:** Cost per Available Seat Kilometre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CASK
 

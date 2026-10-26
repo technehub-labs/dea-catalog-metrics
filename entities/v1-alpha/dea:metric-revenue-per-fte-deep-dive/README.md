@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per FTE (Deep Dive)** (RPFTE) 
 - **Canonical id:** `dea:metric-revenue-per-fte-deep-dive`
 - **Name:** Revenue per FTE (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPFTE
 

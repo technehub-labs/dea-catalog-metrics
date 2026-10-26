@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workload Balance Ratio** (WBR) in the 
 - **Canonical id:** `dea:metric-workload-balance-ratio`
 - **Name:** Workload Balance Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WBR
 
@@ -27,7 +27,7 @@ Employees above Sustainable Workload Threshold / Total Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calmar Ratio** (CALR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-calmar-ratio`
 - **Name:** Calmar Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CALR
 

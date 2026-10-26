@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Docketing Deadline Compliance** (ID
 - **Canonical id:** `dea:metric-ip-docketing-deadline-compliance`
 - **Name:** IP Docketing Deadline Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IDDC
 
@@ -23,7 +23,7 @@ Docketed Deadlines Met without Urgent Action / Deadlines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

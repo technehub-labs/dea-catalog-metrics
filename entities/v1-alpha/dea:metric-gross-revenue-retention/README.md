@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Revenue Retention** (GRR) in the
 - **Canonical id:** `dea:metric-gross-revenue-retention`
 - **Name:** Gross Revenue Retention
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GRR
 
@@ -27,7 +27,7 @@ The share of beginning-period recurring revenue retained at period end, excludin
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

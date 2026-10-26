@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery Rate (Courier)** (ODR
 - **Canonical id:** `dea:metric-on-time-delivery-rate-courier`
 - **Name:** On-Time Delivery Rate (Courier)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODR-C
 
@@ -27,7 +27,7 @@ Items Delivered within Service Standard / Items Dispatched
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

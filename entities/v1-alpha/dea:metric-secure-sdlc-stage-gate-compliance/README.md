@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secure SDLC Stage Gate Compliance** (S
 - **Canonical id:** `dea:metric-secure-sdlc-stage-gate-compliance`
 - **Name:** Secure SDLC Stage Gate Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSDLC
 
@@ -27,7 +27,7 @@ Projects Passing Security Gates at Each Stage / Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

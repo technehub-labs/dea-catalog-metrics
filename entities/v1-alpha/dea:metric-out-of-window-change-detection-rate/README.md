@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Window Change Detection Rate** 
 - **Canonical id:** `dea:metric-out-of-window-change-detection-rate`
 - **Name:** Out-of-Window Change Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OWCDR
 
@@ -23,7 +23,7 @@ Unauthorized Changes Detected / Total Changes Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

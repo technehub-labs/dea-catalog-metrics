@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Talent Retention Rate (Deep D
 - **Canonical id:** `dea:metric-critical-talent-retention-rate-deep-dive`
 - **Name:** Critical Talent Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTRR-D
 
@@ -27,7 +27,7 @@ Critical Role Holders Retained / Critical Role Holders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

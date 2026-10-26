@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catalyst Lifetime Efficiency** (CLE) i
 - **Canonical id:** `dea:metric-catalyst-lifetime-efficiency`
 - **Name:** Catalyst Lifetime Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLE
 

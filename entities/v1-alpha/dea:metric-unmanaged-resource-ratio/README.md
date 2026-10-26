@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unmanaged Resource Ratio** (URR-CS) in
 - **Canonical id:** `dea:metric-unmanaged-resource-ratio`
 - **Name:** Unmanaged Resource Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** URR-CS
 
@@ -23,7 +23,7 @@ Resources without Tagged Owner / Resources
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

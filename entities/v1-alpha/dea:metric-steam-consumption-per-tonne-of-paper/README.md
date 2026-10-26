@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Steam Consumption per Tonne of Paper**
 - **Canonical id:** `dea:metric-steam-consumption-per-tonne-of-paper`
 - **Name:** Steam Consumption per Tonne of Paper
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPT
 

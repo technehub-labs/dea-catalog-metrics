@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Content Currency Rate** (LCCR
 - **Canonical id:** `dea:metric-learning-content-currency-rate`
 - **Name:** Learning Content Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCCR
 
@@ -23,7 +23,7 @@ Content Refreshed within Standard / Content Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

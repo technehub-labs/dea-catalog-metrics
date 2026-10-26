@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OTA Commission Ratio (Deep Dive)** (OT
 - **Canonical id:** `dea:metric-ota-commission-ratio-deep-dive`
 - **Name:** OTA Commission Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTAC-D
 
@@ -27,7 +27,7 @@ OTA Commissions / Rooms Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sortino Ratio (Deep Dive)** (SORTDD) i
 - **Canonical id:** `dea:metric-sortino-ratio-deep-dive`
 - **Name:** Sortino Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SORTDD
 

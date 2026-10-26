@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workplace Fatality Count** (WFC) in th
 - **Canonical id:** `dea:metric-workplace-fatality-count`
 - **Name:** Workplace Fatality Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WFC
 

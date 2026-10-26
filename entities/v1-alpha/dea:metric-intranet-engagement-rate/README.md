@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Intranet Engagement Rate** (IER-C) in 
 - **Canonical id:** `dea:metric-intranet-engagement-rate`
 - **Name:** Intranet Engagement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IER-C
 
@@ -23,7 +23,7 @@ Employees Interacting with Content / Employees Reached
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

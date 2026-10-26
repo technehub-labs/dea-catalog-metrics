@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backup Restore Test Pass Rate** (BRT-P
 - **Canonical id:** `dea:metric-backup-restore-test-pass-rate`
 - **Name:** Backup Restore Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRT-PR
 
@@ -23,7 +23,7 @@ Restore Tests Passed / Restore Tests Executed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

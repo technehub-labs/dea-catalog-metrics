@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hand Hygiene Compliance** (HHC) in the
 - **Canonical id:** `dea:metric-hand-hygiene-compliance`
 - **Name:** Hand Hygiene Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HHC
 
@@ -23,7 +23,7 @@ Observed Hand Hygiene Opportunities Performed / Opportunities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

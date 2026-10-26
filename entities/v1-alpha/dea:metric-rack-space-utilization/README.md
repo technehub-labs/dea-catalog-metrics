@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rack Space Utilization** (RSU) in the 
 - **Canonical id:** `dea:metric-rack-space-utilization`
 - **Name:** Rack Space Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSU
 
@@ -27,7 +27,7 @@ Occupied Rack Units / Total Rack Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

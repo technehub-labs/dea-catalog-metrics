@@ -7,7 +7,7 @@ Candidate Performance Metric record for **License Compliance Gate Pass Rate** (L
 - **Canonical id:** `dea:metric-license-compliance-gate-pass-rate`
 - **Name:** License Compliance Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCGPR
 
@@ -23,7 +23,7 @@ Releases Passing Open Source License Policy / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adviser Productivity - AUM per Adviser
 - **Canonical id:** `dea:metric-adviser-productivity-aum-per-adviser`
 - **Name:** Adviser Productivity - AUM per Adviser
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APA-W
 

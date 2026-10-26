@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Instrumented System Test Compli
 - **Canonical id:** `dea:metric-safety-instrumented-system-test-compliance`
 - **Name:** Safety Instrumented System Test Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SISTC
 
@@ -27,7 +27,7 @@ SIS Function Tests on Schedule / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

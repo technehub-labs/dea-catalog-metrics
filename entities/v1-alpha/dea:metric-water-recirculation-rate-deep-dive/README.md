@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recirculation Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-water-recirculation-rate-deep-dive`
 - **Name:** Water Recirculation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRR-M
 
@@ -27,7 +27,7 @@ Recirculated Water / Total Water Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

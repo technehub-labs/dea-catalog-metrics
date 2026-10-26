@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Available Seat Kilometre**
 - **Canonical id:** `dea:metric-revenue-per-available-seat-kilometre`
 - **Name:** Revenue per Available Seat Kilometre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RASK
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Itinerary Change Rate** (ICR-S) in the
 - **Canonical id:** `dea:metric-itinerary-change-rate`
 - **Name:** Itinerary Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICR-S
 
@@ -23,7 +23,7 @@ Port Calls Skipped or Changed / Scheduled Port Calls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

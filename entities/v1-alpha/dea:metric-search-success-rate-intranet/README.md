@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search Success Rate (Intranet)** (SSR-
 - **Canonical id:** `dea:metric-search-success-rate-intranet`
 - **Name:** Search Success Rate (Intranet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSR-I
 
@@ -23,7 +23,7 @@ Searches Resulting in Click / Searches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

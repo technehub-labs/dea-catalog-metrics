@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan-to-Value Ratio (Deep Dive)** (LTV
 - **Canonical id:** `dea:metric-loan-to-value-ratio-deep-dive`
 - **Name:** Loan-to-Value Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTVDD
 
@@ -27,7 +27,7 @@ Loan Amount / Appraised Property Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

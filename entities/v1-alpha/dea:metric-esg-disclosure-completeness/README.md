@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Disclosure Completeness** (ESGDC) 
 - **Canonical id:** `dea:metric-esg-disclosure-completeness`
 - **Name:** ESG Disclosure Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ESGDC
 
@@ -27,7 +27,7 @@ Disclosed ESG Metrics per Framework / Required Metrics
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

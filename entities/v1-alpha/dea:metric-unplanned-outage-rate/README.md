@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unplanned Outage Rate** (UOR) in the O
 - **Canonical id:** `dea:metric-unplanned-outage-rate`
 - **Name:** Unplanned Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UOR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Customer Satisfaction (GBS)**
 - **Canonical id:** `dea:metric-internal-customer-satisfaction-gbs`
 - **Name:** Internal Customer Satisfaction (GBS)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICSAT
 
@@ -27,7 +27,7 @@ Satisfied Business Customer Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

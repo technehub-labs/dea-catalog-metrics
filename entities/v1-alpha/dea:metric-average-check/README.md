@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Check** (AC-H) in the OpenDEAM
 - **Canonical id:** `dea:metric-average-check`
 - **Name:** Average Check
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AC-H
 

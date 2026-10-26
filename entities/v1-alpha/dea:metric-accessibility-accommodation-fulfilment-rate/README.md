@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Accommodation Fulfilment
 - **Canonical id:** `dea:metric-accessibility-accommodation-fulfilment-rate`
 - **Name:** Accessibility Accommodation Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAFR
 
@@ -23,7 +23,7 @@ Workplace Accommodations Delivered within SLA / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

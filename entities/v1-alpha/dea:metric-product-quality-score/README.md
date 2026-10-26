@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product-Quality Score** (PQS) in the O
 - **Canonical id:** `dea:metric-product-quality-score`
 - **Name:** Product-Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PQS
 

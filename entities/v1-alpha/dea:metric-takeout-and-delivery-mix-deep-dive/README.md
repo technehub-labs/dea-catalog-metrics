@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takeout and Delivery Mix (Deep Dive)**
 - **Canonical id:** `dea:metric-takeout-and-delivery-mix-deep-dive`
 - **Name:** Takeout and Delivery Mix (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDM-D
 
@@ -27,7 +27,7 @@ Off-Premise Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

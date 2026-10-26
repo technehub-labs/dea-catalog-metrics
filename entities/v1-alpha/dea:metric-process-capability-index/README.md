@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Capability Index** (Cpk) in th
 - **Canonical id:** `dea:metric-process-capability-index`
 - **Name:** Process Capability Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** Cpk
 

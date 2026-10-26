@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Qualified Lead Volume** (MQL
 - **Canonical id:** `dea:metric-marketing-qualified-lead-volume`
 - **Name:** Marketing Qualified Lead Volume
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MQL
 

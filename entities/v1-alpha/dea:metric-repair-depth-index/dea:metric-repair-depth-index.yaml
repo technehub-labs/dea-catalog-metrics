@@ -8,7 +8,7 @@ description: Repair Depth Index (RDI-RM) measures the quality of outputs and out
   performance. Practitioners in nearly any industry can adopt it directly.
 abbreviation: RDI-RM
 unit: times
-version: 1.0.0
+version: 1.0.1
 lifecycle_status: candidate
 subject_classification:
 - capability
@@ -43,6 +43,9 @@ metadata:
   - cr: CR-MET-016
     date: '2026-10-26'
     change: Ingested from the candidate-metrics seed workbook
+  - cr: CR-MET-017
+    date: '2026-10-26'
+    change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics

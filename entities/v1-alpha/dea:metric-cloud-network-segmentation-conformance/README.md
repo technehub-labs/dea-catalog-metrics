@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Network Segmentation Conformance
 - **Canonical id:** `dea:metric-cloud-network-segmentation-conformance`
 - **Name:** Cloud Network Segmentation Conformance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CNSC
 
@@ -27,7 +27,7 @@ Environments Matching Segmentation Standard / Environments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

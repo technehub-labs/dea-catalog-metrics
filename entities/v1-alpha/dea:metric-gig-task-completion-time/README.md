@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Task Completion Time** (GTCT) in t
 - **Canonical id:** `dea:metric-gig-task-completion-time`
 - **Name:** Gig Task Completion Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GTCT
 
@@ -23,8 +23,8 @@ Time from Acceptance to Task Completion
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

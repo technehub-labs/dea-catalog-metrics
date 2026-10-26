@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Safety Score** (PSS-E) i
 - **Canonical id:** `dea:metric-psychological-safety-score`
 - **Name:** Psychological Safety Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSS-E
 

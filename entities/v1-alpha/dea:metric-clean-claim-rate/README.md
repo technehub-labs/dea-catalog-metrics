@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clean Claim Rate** (CCR-H) in the Open
 - **Canonical id:** `dea:metric-clean-claim-rate`
 - **Name:** Clean Claim Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-H
 
@@ -27,7 +27,7 @@ Claims Accepted on First Submission / Claims Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

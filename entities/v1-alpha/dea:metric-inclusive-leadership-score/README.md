@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusive Leadership Score** (ILS-DEI)
 - **Canonical id:** `dea:metric-inclusive-leadership-score`
 - **Name:** Inclusive Leadership Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ILS-DEI
 

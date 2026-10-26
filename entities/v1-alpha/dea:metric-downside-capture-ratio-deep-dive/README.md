@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downside Capture Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-downside-capture-ratio-deep-dive`
 - **Name:** Downside Capture Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCR-IM
 

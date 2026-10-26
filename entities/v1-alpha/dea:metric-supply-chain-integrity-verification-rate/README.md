@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Integrity Verification Ra
 - **Canonical id:** `dea:metric-supply-chain-integrity-verification-rate`
 - **Name:** Supply Chain Integrity Verification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCIVR
 
@@ -27,7 +27,7 @@ Artifacts Verified via Signature or Provenance / Artifacts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

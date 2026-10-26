@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Register Currency** (RRC-P) in th
 - **Canonical id:** `dea:metric-risk-register-currency`
 - **Name:** Risk Register Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRC-P
 
@@ -23,7 +23,7 @@ Risks Reviewed in Last Cycle / Open Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

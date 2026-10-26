@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Ticket Conversion Ratio** (AT
 - **Canonical id:** `dea:metric-alert-to-ticket-conversion-ratio`
 - **Name:** Alert-to-Ticket Conversion Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 
@@ -23,7 +23,7 @@ Alerts Generating Tickets / Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

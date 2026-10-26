@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Risk Exposure Index** (PREI) i
 - **Canonical id:** `dea:metric-program-risk-exposure-index`
 - **Name:** Program Risk Exposure Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PREI
 

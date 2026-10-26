@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Border Transfer Compliance Rate*
 - **Canonical id:** `dea:metric-cross-border-transfer-compliance-rate`
 - **Name:** Cross-Border Transfer Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBTCR
 
@@ -27,7 +27,7 @@ Transfers under Valid Mechanism / Transfers Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

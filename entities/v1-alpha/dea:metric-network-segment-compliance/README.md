@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Segment Compliance** (NSGC) in
 - **Canonical id:** `dea:metric-network-segment-compliance`
 - **Name:** Network Segment Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSGC
 
@@ -27,7 +27,7 @@ Segments Meeting Zoning Standard / Segments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disclosure Timeliness** (DTM) in the O
 - **Canonical id:** `dea:metric-disclosure-timeliness`
 - **Name:** Disclosure Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTM
 
@@ -27,7 +27,7 @@ Required Disclosures Made by Deadline / Disclosures Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

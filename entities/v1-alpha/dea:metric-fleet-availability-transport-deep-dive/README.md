@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Availability (Transport) (Deep D
 - **Canonical id:** `dea:metric-fleet-availability-transport-deep-dive`
 - **Name:** Fleet Availability (Transport) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FADD
 
@@ -27,7 +27,7 @@ Aircraft Serviceable Days / Fleet Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

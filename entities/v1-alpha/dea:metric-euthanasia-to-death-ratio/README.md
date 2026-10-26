@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Euthanasia to Death Ratio** (EDR) in t
 - **Canonical id:** `dea:metric-euthanasia-to-death-ratio`
 - **Name:** Euthanasia to Death Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDR
 
@@ -23,7 +23,7 @@ Planned Euthanasia / Total Deaths Recorded
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

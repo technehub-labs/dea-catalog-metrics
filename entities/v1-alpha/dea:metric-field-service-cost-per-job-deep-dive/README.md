@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Service Cost per Job (Deep Dive)
 - **Canonical id:** `dea:metric-field-service-cost-per-job-deep-dive`
 - **Name:** Field Service Cost per Job (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSCJ-D
 

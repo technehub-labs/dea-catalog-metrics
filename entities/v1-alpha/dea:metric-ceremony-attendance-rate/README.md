@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ceremony Attendance Rate** (CAR-AG) in
 - **Canonical id:** `dea:metric-ceremony-attendance-rate`
 - **Name:** Ceremony Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAR-AG
 
@@ -23,7 +23,7 @@ Team Member Attendance at Scheduled Ceremonies / Expected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

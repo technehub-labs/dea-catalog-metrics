@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secure Coding Training Currency** (SCT
 - **Canonical id:** `dea:metric-secure-coding-training-currency`
 - **Name:** Secure Coding Training Currency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCTC-DSO
 
@@ -23,7 +23,7 @@ Engineers with Current Security Training / Engineers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

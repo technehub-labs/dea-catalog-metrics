@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Intel Feed Actionability Rate**
 - **Canonical id:** `dea:metric-threat-intel-feed-actionability-rate`
 - **Name:** Threat Intel Feed Actionability Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TIFAR
 
@@ -23,7 +23,7 @@ Intel Items Triggering Defensive Action / Items Consumed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

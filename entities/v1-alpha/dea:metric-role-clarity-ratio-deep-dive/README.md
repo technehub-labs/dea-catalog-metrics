@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Role Clarity Ratio (Deep Dive)** (RCRD
 - **Canonical id:** `dea:metric-role-clarity-ratio-deep-dive`
 - **Name:** Role Clarity Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCRD
 
@@ -23,7 +23,7 @@ Roles with Documented Accountabilities / Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tariff Complexity Complaint Rate** (TC
 - **Canonical id:** `dea:metric-tariff-complexity-complaint-rate`
 - **Name:** Tariff Complexity Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCCR
 
@@ -27,8 +27,8 @@ Pricing Complaints / 1,000 Customers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

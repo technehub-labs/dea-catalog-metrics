@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lot Hold Aging** (LHA-S) in the OpenDE
 - **Canonical id:** `dea:metric-lot-hold-aging`
 - **Name:** Lot Hold Aging
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHA-S
 
@@ -23,7 +23,7 @@ Wafers on Hold over Threshold / Wafers on Hold
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

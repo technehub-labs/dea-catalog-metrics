@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weibull Shape Parameter Confidence** (
 - **Canonical id:** `dea:metric-weibull-shape-parameter-confidence`
 - **Name:** Weibull Shape Parameter Confidence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WSPC
 

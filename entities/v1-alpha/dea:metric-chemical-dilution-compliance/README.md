@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chemical Dilution Compliance** (CDC-C)
 - **Canonical id:** `dea:metric-chemical-dilution-compliance`
 - **Name:** Chemical Dilution Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDC-C
 
@@ -23,7 +23,7 @@ Dilution Checks within Spec / Checks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

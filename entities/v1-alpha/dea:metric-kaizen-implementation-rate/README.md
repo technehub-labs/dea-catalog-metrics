@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kaizen Implementation Rate** (KIR) in 
 - **Canonical id:** `dea:metric-kaizen-implementation-rate`
 - **Name:** Kaizen Implementation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KIR
 
@@ -27,7 +27,7 @@ Improvement Actions Implemented / Improvement Actions Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

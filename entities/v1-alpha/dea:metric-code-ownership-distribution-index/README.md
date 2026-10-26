@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Ownership Distribution Index** (C
 - **Canonical id:** `dea:metric-code-ownership-distribution-index`
 - **Name:** Code Ownership Distribution Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CODI
 
@@ -23,7 +23,7 @@ Files with Single Owner / Files
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

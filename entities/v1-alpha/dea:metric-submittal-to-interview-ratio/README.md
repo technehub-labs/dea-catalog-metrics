@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Submittal to Interview Ratio** (SIR-S)
 - **Canonical id:** `dea:metric-submittal-to-interview-ratio`
 - **Name:** Submittal to Interview Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIR-S
 
@@ -23,7 +23,7 @@ Candidate Interviews / Candidates Submitted to Client
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

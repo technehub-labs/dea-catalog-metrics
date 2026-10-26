@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unrealized Risk Ratio** (URR-P) in the
 - **Canonical id:** `dea:metric-unrealized-risk-ratio`
 - **Name:** Unrealized Risk Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** URR-P
 
@@ -23,7 +23,7 @@ Risks That Materialized but Were Not on Register / Materialized Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

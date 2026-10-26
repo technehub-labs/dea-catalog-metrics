@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delivery Success on First Attempt** (D
 - **Canonical id:** `dea:metric-delivery-success-on-first-attempt`
 - **Name:** Delivery Success on First Attempt
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSFA
 
@@ -23,7 +23,7 @@ Successful First Attempts / Total Delivery Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

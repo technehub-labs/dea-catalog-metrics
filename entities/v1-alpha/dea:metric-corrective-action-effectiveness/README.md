@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective Action Effectiveness** (CAE
 - **Canonical id:** `dea:metric-corrective-action-effectiveness`
 - **Name:** Corrective Action Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAE
 
@@ -27,7 +27,7 @@ Actions Verified Effective / Actions Implemented
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

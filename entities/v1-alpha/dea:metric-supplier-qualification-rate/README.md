@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Qualification Rate** (SQR) in
 - **Canonical id:** `dea:metric-supplier-qualification-rate`
 - **Name:** Supplier Qualification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SQR
 
@@ -27,7 +27,7 @@ Approved Suppliers / Suppliers Assessed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Completion Rate (Fitness)**
 - **Canonical id:** `dea:metric-onboarding-completion-rate-fitness`
 - **Name:** Onboarding Completion Rate (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCR-F
 
@@ -23,7 +23,7 @@ New Members Completing Induction / Joiners
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

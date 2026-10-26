@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Money-Weighted Return Gap** (MWRG) in 
 - **Canonical id:** `dea:metric-money-weighted-return-gap`
 - **Name:** Money-Weighted Return Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MWRG
 
@@ -23,7 +23,7 @@ Money-Weighted minus Time-Weighted Return
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

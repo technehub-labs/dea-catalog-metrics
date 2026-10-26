@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Utilization (Venues)** (CUV) 
 - **Canonical id:** `dea:metric-capacity-utilization-venues`
 - **Name:** Capacity Utilization (Venues)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CUV
 
@@ -27,7 +27,7 @@ Tickets Sold / Ticketable Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

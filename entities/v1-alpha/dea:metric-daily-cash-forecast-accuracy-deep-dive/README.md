@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Cash Forecast Accuracy (Deep Div
 - **Canonical id:** `dea:metric-daily-cash-forecast-accuracy-deep-dive`
 - **Name:** Daily Cash Forecast Accuracy (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCFA-D
 
@@ -27,7 +27,7 @@ Measures deviation between forecast and actual cash positions. Forecast accuracy
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

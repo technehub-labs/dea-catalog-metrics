@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimate Accuracy - Schedule** (EAS-PM
 - **Canonical id:** `dea:metric-estimate-accuracy-schedule`
 - **Name:** Estimate Accuracy - Schedule
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EAS-PM
 

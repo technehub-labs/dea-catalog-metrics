@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Case Conversion Rate** (ACR-F
 - **Canonical id:** `dea:metric-alert-to-case-conversion-rate`
 - **Name:** Alert-to-Case Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-FC
 
@@ -23,7 +23,7 @@ Cases Opened / Alerts Triaged
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Fraudster Detection Rate** (RFD
 - **Canonical id:** `dea:metric-repeat-fraudster-detection-rate`
 - **Name:** Repeat Fraudster Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RFDR
 
@@ -23,7 +23,7 @@ Repeat Offenders Identified on Re-Attempt / Repeat Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

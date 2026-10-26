@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Letter of Credit Compliance Rate** (LC
 - **Canonical id:** `dea:metric-letter-of-credit-compliance-rate`
 - **Name:** Letter of Credit Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCCR
 
@@ -23,7 +23,7 @@ Presentations without Discrepancies / Presentations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

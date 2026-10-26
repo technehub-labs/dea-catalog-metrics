@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Adherence (Assembly Deep Dive)** 
 - **Canonical id:** `dea:metric-takt-adherence-assembly-deep-dive`
 - **Name:** Takt Adherence (Assembly Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TA-D
 
@@ -23,7 +23,7 @@ Stations Completing within Takt / Stations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

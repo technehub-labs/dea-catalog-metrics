@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Multi-Account Governance Coverage** (M
 - **Canonical id:** `dea:metric-multi-account-governance-coverage`
 - **Name:** Multi-Account Governance Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAGC-CS
 
@@ -27,7 +27,7 @@ Accounts under Central Landing Zone Policy / Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

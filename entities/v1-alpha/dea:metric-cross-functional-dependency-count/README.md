@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Dependency Count** (C
 - **Canonical id:** `dea:metric-cross-functional-dependency-count`
 - **Name:** Cross-Functional Dependency Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFDC
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Drop Engagement Lift** (CDEL) 
 - **Canonical id:** `dea:metric-content-drop-engagement-lift`
 - **Name:** Content Drop Engagement Lift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDEL
 
@@ -23,7 +23,7 @@ Post-Release Engagement - Baseline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

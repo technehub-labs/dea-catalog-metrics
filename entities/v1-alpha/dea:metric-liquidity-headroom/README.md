@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Headroom** (LHR) in the Open
 - **Canonical id:** `dea:metric-liquidity-headroom`
 - **Name:** Liquidity Headroom
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LHR
 

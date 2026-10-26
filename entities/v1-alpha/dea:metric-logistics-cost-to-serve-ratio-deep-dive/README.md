@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Cost-to-Serve Ratio (Deep Di
 - **Canonical id:** `dea:metric-logistics-cost-to-serve-ratio-deep-dive`
 - **Name:** Logistics Cost-to-Serve Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCTSDD
 
@@ -27,7 +27,7 @@ Total Logistics Cost / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

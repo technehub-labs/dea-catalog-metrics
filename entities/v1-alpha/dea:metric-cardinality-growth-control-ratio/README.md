@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cardinality Growth Control Ratio** (CG
 - **Canonical id:** `dea:metric-cardinality-growth-control-ratio`
 - **Name:** Cardinality Growth Control Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CGCR
 
@@ -23,7 +23,7 @@ Metric Cardinality Growth / Headroom Budget
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

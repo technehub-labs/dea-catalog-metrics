@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Adoption Rate** (AAR-MOB) in the O
 - **Canonical id:** `dea:metric-app-adoption-rate`
 - **Name:** App Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAR-MOB
 
@@ -23,7 +23,7 @@ Active App Users / Eligible Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

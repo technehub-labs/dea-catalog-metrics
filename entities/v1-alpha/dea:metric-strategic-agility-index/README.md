@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Agility Index** (SAI) in the
 - **Canonical id:** `dea:metric-strategic-agility-index`
 - **Name:** Strategic Agility Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAI
 

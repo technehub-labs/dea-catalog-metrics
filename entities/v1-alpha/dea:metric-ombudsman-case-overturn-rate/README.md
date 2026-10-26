@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ombudsman Case Overturn Rate** (OCOR) 
 - **Canonical id:** `dea:metric-ombudsman-case-overturn-rate`
 - **Name:** Ombudsman Case Overturn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCOR
 
@@ -23,7 +23,7 @@ Decisions Overturned on Review / Decisions Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

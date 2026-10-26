@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Revocation Cycle Time - Termina
 - **Canonical id:** `dea:metric-access-revocation-cycle-time-terminations`
 - **Name:** Access Revocation Cycle Time - Terminations
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARCTT
 
@@ -27,8 +27,8 @@ Hours from Termination to Access Revoked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

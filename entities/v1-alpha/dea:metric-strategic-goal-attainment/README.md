@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Goal Attainment** (SGA) in t
 - **Canonical id:** `dea:metric-strategic-goal-attainment`
 - **Name:** Strategic Goal Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SGA
 
@@ -27,7 +27,7 @@ Goals Achieved / Strategic Goals Set
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

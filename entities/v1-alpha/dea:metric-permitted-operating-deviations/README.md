@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Permitted Operating Deviations** (POD)
 - **Canonical id:** `dea:metric-permitted-operating-deviations`
 - **Name:** Permitted Operating Deviations
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POD
 
@@ -23,7 +23,7 @@ Approved Deviations from Regulatory Standard / Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

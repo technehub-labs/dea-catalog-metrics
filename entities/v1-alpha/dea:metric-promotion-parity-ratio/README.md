@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Parity Ratio** (PPR) in the 
 - **Canonical id:** `dea:metric-promotion-parity-ratio`
 - **Name:** Promotion Parity Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Price Allocation Variance** (
 - **Canonical id:** `dea:metric-purchase-price-allocation-variance`
 - **Name:** Purchase Price Allocation Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPAV
 
@@ -23,7 +23,7 @@ Final PPA vs Preliminary Estimate Variance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

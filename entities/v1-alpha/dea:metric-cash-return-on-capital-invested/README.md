@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Return on Capital Invested** (CRO
 - **Canonical id:** `dea:metric-cash-return-on-capital-invested`
 - **Name:** Cash Return on Capital Invested
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CROCI
 
@@ -27,7 +27,7 @@ After-Tax Pre-Financing Cash Flow / Gross Invested Capital
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

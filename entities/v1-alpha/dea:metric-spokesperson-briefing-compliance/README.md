@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spokesperson Briefing Compliance** (SB
 - **Canonical id:** `dea:metric-spokesperson-briefing-compliance`
 - **Name:** Spokesperson Briefing Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SBC
 
@@ -27,7 +27,7 @@ Interviews per Approved Messaging / Interviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

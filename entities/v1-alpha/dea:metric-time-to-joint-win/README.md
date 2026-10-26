@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Joint Win** (TTJW) in the Open
 - **Canonical id:** `dea:metric-time-to-joint-win`
 - **Name:** Time to Joint Win
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTJW
 
@@ -23,8 +23,8 @@ Days from Qualified Joint Opportunity to Closed Deal
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

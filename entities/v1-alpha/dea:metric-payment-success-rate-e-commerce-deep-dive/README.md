@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Success Rate (E-commerce Deep 
 - **Canonical id:** `dea:metric-payment-success-rate-e-commerce-deep-dive`
 - **Name:** Payment Success Rate (E-commerce Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSR-D
 
@@ -27,7 +27,7 @@ Settled Payments / Initiated Payments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

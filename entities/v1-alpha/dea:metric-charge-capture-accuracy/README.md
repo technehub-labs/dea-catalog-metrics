@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Charge Capture Accuracy** (CCA-H) in t
 - **Canonical id:** `dea:metric-charge-capture-accuracy`
 - **Name:** Charge Capture Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCA-H
 
@@ -27,7 +27,7 @@ Charges Captured for Billable Services / Billable Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

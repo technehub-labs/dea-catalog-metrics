@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Runbook Coverage Rate** (NRCR-NOC)
 - **Canonical id:** `dea:metric-noc-runbook-coverage-rate`
 - **Name:** NOC Runbook Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NRCR-NOC
 
@@ -23,7 +23,7 @@ Alert Types with Runbooks / Alert Types
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

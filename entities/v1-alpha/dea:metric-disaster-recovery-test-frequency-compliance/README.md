@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disaster Recovery Test Frequency Compl
 - **Canonical id:** `dea:metric-disaster-recovery-test-frequency-compliance`
 - **Name:** Disaster Recovery Test Frequency Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRTF
 
@@ -27,7 +27,7 @@ DR Tests per Standard / DR Tests Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

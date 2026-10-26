@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Search (Deep Dive)** (SOSDD) 
 - **Canonical id:** `dea:metric-share-of-search-deep-dive`
 - **Name:** Share of Search (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOSDD
 
@@ -27,7 +27,7 @@ Brand Searches / Total Category Searches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

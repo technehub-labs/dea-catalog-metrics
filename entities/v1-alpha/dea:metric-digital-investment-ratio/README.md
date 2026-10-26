@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Investment Ratio** (DIR) in th
 - **Canonical id:** `dea:metric-digital-investment-ratio`
 - **Name:** Digital Investment Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIR
 
@@ -27,7 +27,7 @@ Digital Initiative Spend / Total Change Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

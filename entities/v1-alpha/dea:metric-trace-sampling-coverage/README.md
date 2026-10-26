@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trace Sampling Coverage** (TSC) in the
 - **Canonical id:** `dea:metric-trace-sampling-coverage`
 - **Name:** Trace Sampling Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSC
 
@@ -23,7 +23,7 @@ Transactions with Distributed Tracing / Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

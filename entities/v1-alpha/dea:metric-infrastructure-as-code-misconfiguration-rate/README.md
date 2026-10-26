@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure-as-Code Misconfiguratio
 - **Canonical id:** `dea:metric-infrastructure-as-code-misconfiguration-rate`
 - **Name:** Infrastructure-as-Code Misconfiguration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IaCMR
 
@@ -23,8 +23,8 @@ Misconfigurations Found per 1,000 IaC Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

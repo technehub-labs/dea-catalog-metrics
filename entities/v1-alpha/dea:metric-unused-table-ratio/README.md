@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unused Table Ratio** (UTR-DB) in the O
 - **Canonical id:** `dea:metric-unused-table-ratio`
 - **Name:** Unused Table Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UTR-DB
 
@@ -23,7 +23,7 @@ Tables with No Access in 90 Days / Tables
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claimant Communication Frequency** (CC
 - **Canonical id:** `dea:metric-claimant-communication-frequency`
 - **Name:** Claimant Communication Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCF
 

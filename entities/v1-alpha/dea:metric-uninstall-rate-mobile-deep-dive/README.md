@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Uninstall Rate (Mobile Deep Dive)** (U
 - **Canonical id:** `dea:metric-uninstall-rate-mobile-deep-dive`
 - **Name:** Uninstall Rate (Mobile Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UNR-D
 
@@ -23,7 +23,7 @@ Uninstalls / Installs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

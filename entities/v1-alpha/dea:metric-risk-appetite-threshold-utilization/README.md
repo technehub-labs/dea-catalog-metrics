@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Appetite Threshold Utilization** 
 - **Canonical id:** `dea:metric-risk-appetite-threshold-utilization`
 - **Name:** Risk Appetite Threshold Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RATU-GOV
 
@@ -27,7 +27,7 @@ Current Risk Position / Approved Appetite
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

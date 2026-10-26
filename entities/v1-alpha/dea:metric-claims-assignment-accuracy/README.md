@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Assignment Accuracy** (CLA) in 
 - **Canonical id:** `dea:metric-claims-assignment-accuracy`
 - **Name:** Claims Assignment Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLA
 
@@ -23,7 +23,7 @@ Claims Correctly Assigned on Intake / Claims Assigned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

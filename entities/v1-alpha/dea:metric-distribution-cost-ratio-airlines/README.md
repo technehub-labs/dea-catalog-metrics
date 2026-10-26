@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Distribution Cost Ratio (Airlines)** (
 - **Canonical id:** `dea:metric-distribution-cost-ratio-airlines`
 - **Name:** Distribution Cost Ratio (Airlines)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCR-A
 
@@ -27,7 +27,7 @@ Distribution Costs / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

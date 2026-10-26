@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Call Contact Rate** (CCCR) 
 - **Canonical id:** `dea:metric-collection-call-contact-rate`
 - **Name:** Collection Call Contact Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCCR
 
@@ -23,7 +23,7 @@ Debtors Contacted per Dunning Schedule / Debtors Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

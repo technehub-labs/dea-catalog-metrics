@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Asset Reuse Rate** (DARR-DS) in t
 - **Canonical id:** `dea:metric-data-asset-reuse-rate`
 - **Name:** Data Asset Reuse Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DARR-DS
 
@@ -27,7 +27,7 @@ Reusable Data Assets Reused / Published Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

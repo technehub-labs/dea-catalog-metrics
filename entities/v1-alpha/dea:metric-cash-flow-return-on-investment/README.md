@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Flow Return on Investment** (CFRO
 - **Canonical id:** `dea:metric-cash-flow-return-on-investment`
 - **Name:** Cash Flow Return on Investment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFROI
 
@@ -27,7 +27,7 @@ Cash Flow / Invested Capital
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

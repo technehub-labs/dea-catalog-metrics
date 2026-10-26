@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Table Turnover Rate (Deep Dive)** (TTR
 - **Canonical id:** `dea:metric-table-turnover-rate-deep-dive`
 - **Name:** Table Turnover Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTR-D
 

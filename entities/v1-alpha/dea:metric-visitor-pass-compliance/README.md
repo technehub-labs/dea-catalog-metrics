@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visitor Pass Compliance** (VPC) in the
 - **Canonical id:** `dea:metric-visitor-pass-compliance`
 - **Name:** Visitor Pass Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPC
 
@@ -23,7 +23,7 @@ Visitors Properly Registered / Visitor Entries Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

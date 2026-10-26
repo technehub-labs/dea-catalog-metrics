@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investment Performance vs Benchmark (D
 - **Canonical id:** `dea:metric-investment-performance-vs-benchmark-deep-dive`
 - **Name:** Investment Performance vs Benchmark (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPVB-D
 
@@ -27,7 +27,7 @@ Portfolio Return - Benchmark Return
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

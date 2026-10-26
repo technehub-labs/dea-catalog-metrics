@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Curriculum Currency Rate** (CURR) in t
 - **Canonical id:** `dea:metric-curriculum-currency-rate`
 - **Name:** Curriculum Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CURR
 
@@ -27,7 +27,7 @@ Courses Reviewed within Update Cycle / Courses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

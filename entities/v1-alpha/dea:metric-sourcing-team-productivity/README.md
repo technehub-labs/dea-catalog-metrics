@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sourcing Team Productivity** (STP-SS) 
 - **Canonical id:** `dea:metric-sourcing-team-productivity`
 - **Name:** Sourcing Team Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STP-SS
 
@@ -23,8 +23,8 @@ RFx Events Completed per Sourcing FTE per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Satisfaction Score (Fitness)** 
 - **Canonical id:** `dea:metric-member-satisfaction-score-fitness`
 - **Name:** Member Satisfaction Score (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSS-F
 
@@ -27,7 +27,7 @@ Satisfied Member Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

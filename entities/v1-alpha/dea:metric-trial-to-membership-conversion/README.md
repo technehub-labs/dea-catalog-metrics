@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trial to Membership Conversion** (T2M)
 - **Canonical id:** `dea:metric-trial-to-membership-conversion`
 - **Name:** Trial to Membership Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** T2M
 
@@ -27,7 +27,7 @@ Trials Converting to Membership / Trials
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

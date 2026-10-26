@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wait Time Ratio** (WTR) in the OpenDEA
 - **Canonical id:** `dea:metric-wait-time-ratio`
 - **Name:** Wait Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WTR
 
@@ -27,7 +27,7 @@ Waiting Time / Total Process Lead Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

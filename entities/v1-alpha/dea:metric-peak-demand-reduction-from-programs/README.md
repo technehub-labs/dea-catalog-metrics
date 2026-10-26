@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Demand Reduction from Programs** 
 - **Canonical id:** `dea:metric-peak-demand-reduction-from-programs`
 - **Name:** Peak Demand Reduction from Programs
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDRP
 
@@ -27,7 +27,7 @@ Load Reduction Achieved / Contracted Reduction
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

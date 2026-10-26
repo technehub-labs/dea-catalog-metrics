@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personalization Uplift** (PU-CX) in th
 - **Canonical id:** `dea:metric-personalization-uplift`
 - **Name:** Personalization Uplift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PU-CX
 
@@ -27,7 +27,7 @@ Measures performance improvement from personalized versus generic experiences. I
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

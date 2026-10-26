@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Development Program Yield** (
 - **Canonical id:** `dea:metric-supplier-development-program-yield`
 - **Name:** Supplier Development Program Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDPY
 
@@ -27,7 +27,7 @@ Suppliers Improving Tier after Program / Program Suppliers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Variance Percent (Deep Dive)** (C
 - **Canonical id:** `dea:metric-cost-variance-percent-deep-dive`
 - **Name:** Cost Variance Percent (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CVP-D
 
@@ -27,7 +27,7 @@ Measures deviation of actual spend from the approved budget baseline. Cost varia
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

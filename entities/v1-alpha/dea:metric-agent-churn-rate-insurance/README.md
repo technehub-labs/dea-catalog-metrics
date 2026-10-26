@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Churn Rate (Insurance)** (ACR-I)
 - **Canonical id:** `dea:metric-agent-churn-rate-insurance`
 - **Name:** Agent Churn Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-I
 
@@ -27,7 +27,7 @@ Agents Terminating / Appointed Agents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

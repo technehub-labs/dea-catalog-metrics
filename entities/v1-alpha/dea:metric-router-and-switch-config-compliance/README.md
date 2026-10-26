@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Router and Switch Config Compliance** 
 - **Canonical id:** `dea:metric-router-and-switch-config-compliance`
 - **Name:** Router and Switch Config Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSCC
 
@@ -23,7 +23,7 @@ Devices with Approved Config / Devices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

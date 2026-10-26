@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Break Frequency (Paper)** (MBF
 - **Canonical id:** `dea:metric-machine-break-frequency-paper`
 - **Name:** Machine Break Frequency (Paper)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MBF-P
 
@@ -23,8 +23,8 @@ Breaks per 1,000 Machine Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

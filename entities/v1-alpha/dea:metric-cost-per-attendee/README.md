@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Attendee** (CPA-E) in the Ope
 - **Canonical id:** `dea:metric-cost-per-attendee`
 - **Name:** Cost per Attendee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPA-E
 

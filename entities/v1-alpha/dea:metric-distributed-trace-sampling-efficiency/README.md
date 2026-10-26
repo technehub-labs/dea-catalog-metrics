@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Distributed Trace Sampling Efficiency*
 - **Canonical id:** `dea:metric-distributed-trace-sampling-efficiency`
 - **Name:** Distributed Trace Sampling Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DTSE
 
@@ -23,7 +23,7 @@ Trace Samples Retained within Budget while Meeting Diagnostic Need
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

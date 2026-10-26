@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Rate** (CoR) in the OpenDEAM
 - **Canonical id:** `dea:metric-complaint-rate`
 - **Name:** Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CoR
 

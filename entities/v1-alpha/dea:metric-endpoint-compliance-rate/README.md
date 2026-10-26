@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Endpoint Compliance Rate** (EPCR) in t
 - **Canonical id:** `dea:metric-endpoint-compliance-rate`
 - **Name:** Endpoint Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPCR
 
@@ -23,7 +23,7 @@ Devices Meeting Security Baseline / Devices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

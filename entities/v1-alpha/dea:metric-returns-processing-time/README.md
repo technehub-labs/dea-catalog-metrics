@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Returns Processing Time** (RPT) in the
 - **Canonical id:** `dea:metric-returns-processing-time`
 - **Name:** Returns Processing Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPT
 
@@ -23,8 +23,8 @@ Days from Return Receipt to Restock or Disposition
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

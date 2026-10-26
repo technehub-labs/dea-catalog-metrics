@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student Progression Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-student-progression-rate-deep-dive`
 - **Name:** Student Progression Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPR-D
 
@@ -27,7 +27,7 @@ Students Advancing to Next Level / Cohort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

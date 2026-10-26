@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Complaint Resolution Time** (P
 - **Canonical id:** `dea:metric-privacy-complaint-resolution-time`
 - **Name:** Privacy Complaint Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCRT-DP
 
@@ -23,8 +23,8 @@ Days to Resolve Privacy Complaints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

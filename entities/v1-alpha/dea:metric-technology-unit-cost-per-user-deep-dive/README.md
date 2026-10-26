@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technology Unit Cost per User (Deep Di
 - **Canonical id:** `dea:metric-technology-unit-cost-per-user-deep-dive`
 - **Name:** Technology Unit Cost per User (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TUCU-D
 

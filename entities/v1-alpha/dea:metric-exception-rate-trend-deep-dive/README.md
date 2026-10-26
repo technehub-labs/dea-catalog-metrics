@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exception Rate Trend (Deep Dive)** (ER
 - **Canonical id:** `dea:metric-exception-rate-trend-deep-dive`
 - **Name:** Exception Rate Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERT-D
 
@@ -23,7 +23,7 @@ Change in Process Exception Rate
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

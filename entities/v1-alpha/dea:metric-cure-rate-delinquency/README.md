@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cure Rate (Delinquency)** (CRD-CC) in 
 - **Canonical id:** `dea:metric-cure-rate-delinquency`
 - **Name:** Cure Rate (Delinquency)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRD-CC
 
@@ -23,7 +23,7 @@ Delinquent Accounts Returning to Current / Delinquent Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

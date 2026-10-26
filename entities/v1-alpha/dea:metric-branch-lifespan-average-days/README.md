@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Lifespan - Average Days** (BLD-
 - **Canonical id:** `dea:metric-branch-lifespan-average-days`
 - **Name:** Branch Lifespan - Average Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BLD-SD
 
@@ -23,8 +23,8 @@ Average Days from Branch Creation to Merge
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

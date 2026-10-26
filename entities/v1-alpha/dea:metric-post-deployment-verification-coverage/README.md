@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Deployment Verification Coverage*
 - **Canonical id:** `dea:metric-post-deployment-verification-coverage`
 - **Name:** Post-Deployment Verification Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDVC
 
@@ -23,7 +23,7 @@ Deployments with Automated Smoke Verification / Deployments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

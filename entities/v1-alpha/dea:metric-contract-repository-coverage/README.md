@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Repository Coverage** (CRC-CL
 - **Canonical id:** `dea:metric-contract-repository-coverage`
 - **Name:** Contract Repository Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-CL
 
@@ -27,7 +27,7 @@ Active Contracts in Central Repository / Active Contracts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

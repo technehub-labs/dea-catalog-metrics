@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Identity Resolution Rate** (IRR-M) in 
 - **Canonical id:** `dea:metric-identity-resolution-rate`
 - **Name:** Identity Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRR-M
 
@@ -23,7 +23,7 @@ Touchpoints Resolved to Person / Total Touchpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

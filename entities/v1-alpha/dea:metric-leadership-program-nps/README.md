@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Program NPS** (LPNPS) in th
 - **Canonical id:** `dea:metric-leadership-program-nps`
 - **Name:** Leadership Program NPS
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPNPS
 

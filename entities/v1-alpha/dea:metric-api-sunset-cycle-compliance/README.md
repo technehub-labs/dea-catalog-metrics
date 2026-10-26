@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Sunset Cycle Compliance** (APISCC)
 - **Canonical id:** `dea:metric-api-sunset-cycle-compliance`
 - **Name:** API Sunset Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APISCC
 
@@ -23,7 +23,7 @@ Versions Retired per Published Sunset Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-in-the-Loop Intervention Rate** 
 - **Canonical id:** `dea:metric-human-in-the-loop-intervention-rate`
 - **Name:** Human-in-the-Loop Intervention Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HITL
 
@@ -27,7 +27,7 @@ Cases Requiring Human Override / Automated Cases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

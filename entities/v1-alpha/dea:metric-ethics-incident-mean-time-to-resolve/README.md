@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ethics Incident Mean Time to Resolve**
 - **Canonical id:** `dea:metric-ethics-incident-mean-time-to-resolve`
 - **Name:** Ethics Incident Mean Time to Resolve
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EIMTTR
 
@@ -27,8 +27,8 @@ Days from Ethics Incident to Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

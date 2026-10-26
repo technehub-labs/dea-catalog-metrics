@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time Spent on Direct Care Ratio** (TSD
 - **Canonical id:** `dea:metric-time-spent-on-direct-care-ratio`
 - **Name:** Time Spent on Direct Care Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSDC
 
@@ -27,7 +27,7 @@ Direct Care Hours / Paid Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

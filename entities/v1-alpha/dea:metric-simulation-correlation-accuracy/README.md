@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Simulation Correlation Accuracy** (SCA
 - **Canonical id:** `dea:metric-simulation-correlation-accuracy`
 - **Name:** Simulation Correlation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCA
 
@@ -27,7 +27,7 @@ Model Prediction Error vs Test Data
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

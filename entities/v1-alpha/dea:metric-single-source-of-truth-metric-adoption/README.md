@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Source of Truth Metric Adoption
 - **Canonical id:** `dea:metric-single-source-of-truth-metric-adoption`
 - **Name:** Single Source of Truth Metric Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSTMA
 
@@ -27,7 +27,7 @@ Governed Metrics from Authoritative Source / Governed Metrics
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

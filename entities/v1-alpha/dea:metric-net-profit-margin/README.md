@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Profit Margin** (NPM) in the OpenD
 - **Canonical id:** `dea:metric-net-profit-margin`
 - **Name:** Net Profit Margin
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPM
 
@@ -27,7 +27,7 @@ Net Income / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

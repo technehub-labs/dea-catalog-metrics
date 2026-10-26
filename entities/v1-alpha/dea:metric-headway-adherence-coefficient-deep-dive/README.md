@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Headway Adherence Coefficient (Deep Di
 - **Canonical id:** `dea:metric-headway-adherence-coefficient-deep-dive`
 - **Name:** Headway Adherence Coefficient (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HAC-D
 

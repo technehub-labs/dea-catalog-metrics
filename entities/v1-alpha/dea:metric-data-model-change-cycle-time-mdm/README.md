@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Model Change Cycle Time (MDM)** (
 - **Canonical id:** `dea:metric-data-model-change-cycle-time-mdm`
 - **Name:** Data Model Change Cycle Time (MDM)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DMCCT
 
@@ -23,8 +23,8 @@ Days from Model Change Request to Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

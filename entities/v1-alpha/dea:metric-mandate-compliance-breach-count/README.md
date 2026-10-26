@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mandate Compliance Breach Count** (MCB
 - **Canonical id:** `dea:metric-mandate-compliance-breach-count`
 - **Name:** Mandate Compliance Breach Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCBC-IM
 

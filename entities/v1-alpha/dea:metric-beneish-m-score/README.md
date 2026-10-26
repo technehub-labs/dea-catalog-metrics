@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beneish M-Score** (BENM) in the OpenDE
 - **Canonical id:** `dea:metric-beneish-m-score`
 - **Name:** Beneish M-Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BENM
 

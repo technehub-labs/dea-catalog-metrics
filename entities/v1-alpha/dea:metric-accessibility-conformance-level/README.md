@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Conformance Level** (ACL
 - **Canonical id:** `dea:metric-accessibility-conformance-level`
 - **Name:** Accessibility Conformance Level
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACL-UX
 
@@ -27,7 +27,7 @@ Interfaces Meeting WCAG 2.2 AA / Interfaces in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

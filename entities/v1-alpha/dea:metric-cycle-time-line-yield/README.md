@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cycle Time Line Yield** (CTLY) in the 
 - **Canonical id:** `dea:metric-cycle-time-line-yield`
 - **Name:** Cycle Time Line Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTLY
 
@@ -27,7 +27,7 @@ Units Completing All Process Steps / Units Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

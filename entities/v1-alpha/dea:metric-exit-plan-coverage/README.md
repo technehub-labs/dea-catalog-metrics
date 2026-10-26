@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exit Plan Coverage** (EPC) in the Open
 - **Canonical id:** `dea:metric-exit-plan-coverage`
 - **Name:** Exit Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPC
 
@@ -27,7 +27,7 @@ Contracts with Tested Exit or Step-In Plan / Critical Contracts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

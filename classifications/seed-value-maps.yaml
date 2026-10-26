@@ -16,7 +16,7 @@
 # A seed value that appears nowhere in this file is a mapping gap, and the
 # ingestion script refuses to run rather than guess.
 
-version: 1.0.0
+version: 1.1.0
 authority: CR-MET-016
 
 subject_classification:
@@ -60,6 +60,36 @@ management_significance:
 directionality:
   carry: [higher-is-better, lower-is-better, target-band]
   map: {}
+
+# CR-MET-017 (Q19, ruled 2026-10-26): the ratio form is canonical and unit
+# names are singular. Unit ids are hyphen-significant (dea:unit-percent is
+# not dea:unit_percent), so this section resolves by exact match, not by the
+# hyphen-to-underscore normalisation the classification axes use.
+unit_ref:
+  carry:
+  - dea:unit-ratio-percent
+  - dea:unit-ratio
+  - dea:unit-minute
+  - dea:unit-currency
+  - dea:unit-score
+  - dea:unit-count
+  - dea:unit-index
+  - dea:unit-times
+  map:
+    dea:unit-percent: dea:unit-ratio-percent
+    dea:unit-minutes: dea:unit-minute
+    dea:unit-hours: dea:unit-hour
+    dea:unit-days: dea:unit-day
+    dea:unit-seconds: dea:unit-second
+    dea:unit-milliseconds: dea:unit-millisecond
+    dea:unit-months: dea:unit-month
+    dea:unit-weeks: dea:unit-week
+    dea:unit-years: dea:unit-year
+    dea:unit-events: dea:unit-event
+    dea:unit-tonnes: dea:unit-tonne
+    dea:unit-kilolitres: dea:unit-kilolitre
+    dea:unit-megawatthours: dea:unit-megawatthour
+  add: {}
 
 measurable_entity_kind:
   carry: []

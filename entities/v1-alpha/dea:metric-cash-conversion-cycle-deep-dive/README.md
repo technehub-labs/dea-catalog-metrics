@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Conversion Cycle (Deep Dive)** (C
 - **Canonical id:** `dea:metric-cash-conversion-cycle-deep-dive`
 - **Name:** Cash Conversion Cycle (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCC-D
 
@@ -27,8 +27,8 @@ DIO + DSO - DPO
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

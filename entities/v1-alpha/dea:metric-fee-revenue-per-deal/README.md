@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fee Revenue per Deal** (FRPD) in the O
 - **Canonical id:** `dea:metric-fee-revenue-per-deal`
 - **Name:** Fee Revenue per Deal
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRPD
 

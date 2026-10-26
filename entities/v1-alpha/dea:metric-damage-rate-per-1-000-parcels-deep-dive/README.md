@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Damage Rate per 1,000 Parcels (Deep Di
 - **Canonical id:** `dea:metric-damage-rate-per-1-000-parcels-deep-dive`
 - **Name:** Damage Rate per 1,000 Parcels (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DR1K-D
 
@@ -23,8 +23,8 @@ Damaged Parcels / 1,000 Parcels
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

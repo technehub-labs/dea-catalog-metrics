@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recirculation Rate (Mining)** (W
 - **Canonical id:** `dea:metric-water-recirculation-rate-mining`
 - **Name:** Water Recirculation Rate (Mining)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRR-M
 
@@ -27,7 +27,7 @@ Recirculated Water / Total Water Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

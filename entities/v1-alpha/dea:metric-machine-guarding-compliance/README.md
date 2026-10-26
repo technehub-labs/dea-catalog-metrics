@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Guarding Compliance** (MGC) in
 - **Canonical id:** `dea:metric-machine-guarding-compliance`
 - **Name:** Machine Guarding Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MGC
 
@@ -23,7 +23,7 @@ Guarded Hazards / Identified Machine Hazards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skills Matrix Coverage** (SMC-WF) in t
 - **Canonical id:** `dea:metric-skills-matrix-coverage`
 - **Name:** Skills Matrix Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SMC-WF
 
@@ -23,7 +23,7 @@ Roles with Current Skills Matrix / Roles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

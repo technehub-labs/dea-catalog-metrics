@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packet Loss Rate** (PLR) in the OpenDE
 - **Canonical id:** `dea:metric-packet-loss-rate`
 - **Name:** Packet Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLR
 
@@ -23,7 +23,7 @@ Lost Packets / Packets Transmitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

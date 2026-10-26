@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bad Debt Expense Ratio** (BDER) in the
 - **Canonical id:** `dea:metric-bad-debt-expense-ratio`
 - **Name:** Bad Debt Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BDER
 
@@ -27,7 +27,7 @@ Bad Debt Write-Offs / Credit Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

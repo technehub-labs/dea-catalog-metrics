@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metric Definition Conflict Rate** (MDC
 - **Canonical id:** `dea:metric-metric-definition-conflict-rate`
 - **Name:** Metric Definition Conflict Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCR-DS
 
@@ -23,7 +23,7 @@ Metrics with Conflicting Definitions Found / Metrics Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

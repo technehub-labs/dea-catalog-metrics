@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Funding Cost Variance (Deep Dive)** (F
 - **Canonical id:** `dea:metric-funding-cost-variance-deep-dive`
 - **Name:** Funding Cost Variance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCV-D
 
@@ -27,7 +27,7 @@ Actual Funding Cost - Plan / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

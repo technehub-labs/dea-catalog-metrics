@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donor Lifetime Value** (DLTV) in the O
 - **Canonical id:** `dea:metric-donor-lifetime-value`
 - **Name:** Donor Lifetime Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLTV
 

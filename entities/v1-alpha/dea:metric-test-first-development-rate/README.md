@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test-First Development Rate** (TFDR) i
 - **Canonical id:** `dea:metric-test-first-development-rate`
 - **Name:** Test-First Development Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TFDR
 
@@ -23,7 +23,7 @@ Changes with Tests Written Before Code / Sampled Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

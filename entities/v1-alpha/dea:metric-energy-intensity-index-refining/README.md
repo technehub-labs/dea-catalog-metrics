@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity Index - Refining** (E
 - **Canonical id:** `dea:metric-energy-intensity-index-refining`
 - **Name:** Energy Intensity Index - Refining
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EIIR
 

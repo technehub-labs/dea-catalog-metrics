@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Window Compliance Rate** (BWCR) 
 - **Canonical id:** `dea:metric-batch-window-compliance-rate`
 - **Name:** Batch Window Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BWCR
 
@@ -23,7 +23,7 @@ Batches Completed within Window / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tooling Changeover Time** (TCT-A) in t
 - **Canonical id:** `dea:metric-tooling-changeover-time`
 - **Name:** Tooling Changeover Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TCT-A
 
@@ -23,8 +23,8 @@ Time to Change Stamping or Assembly Tooling
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

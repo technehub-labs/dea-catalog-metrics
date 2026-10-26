@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visitor Management Compliance Rate** (
 - **Canonical id:** `dea:metric-visitor-management-compliance-rate`
 - **Name:** Visitor Management Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VMCR
 
@@ -23,7 +23,7 @@ Visitors Processed per Policy / Visitors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

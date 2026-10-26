@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rebalancing Execution Cycle Time** (RE
 - **Canonical id:** `dea:metric-rebalancing-execution-cycle-time`
 - **Name:** Rebalancing Execution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** REXCT
 
@@ -23,8 +23,8 @@ Days from Drift Trigger to Completed Rebalance
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

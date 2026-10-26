@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Safety Compliance Rate (Ads)** (
 - **Canonical id:** `dea:metric-brand-safety-compliance-rate-ads`
 - **Name:** Brand Safety Compliance Rate (Ads)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BSCR-A
 
@@ -23,7 +23,7 @@ Impressions on Approved Content / Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment on Time Rate** (POTR) in the O
 - **Canonical id:** `dea:metric-payment-on-time-rate`
 - **Name:** Payment on Time Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POTR
 
@@ -23,7 +23,7 @@ Payments within Agreed Terms / Payments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

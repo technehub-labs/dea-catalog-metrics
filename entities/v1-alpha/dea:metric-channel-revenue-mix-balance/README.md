@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Revenue Mix Balance** (CRMB) i
 - **Canonical id:** `dea:metric-channel-revenue-mix-balance`
 - **Name:** Channel Revenue Mix Balance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRMB
 

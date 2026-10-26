@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Triage Accuracy** (ITA-IT) in
 - **Canonical id:** `dea:metric-incident-triage-accuracy`
 - **Name:** Incident Triage Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITA-IT
 
@@ -23,7 +23,7 @@ Correct Routing on First Assignment / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **GMROII (Gross Margin Return on Invento
 - **Canonical id:** `dea:metric-gmroii-gross-margin-return-on-inventory-investment`
 - **Name:** GMROII (Gross Margin Return on Inventory Investment)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMROII
 

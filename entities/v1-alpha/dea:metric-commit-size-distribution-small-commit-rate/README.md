@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commit Size Distribution - Small Commi
 - **Canonical id:** `dea:metric-commit-size-distribution-small-commit-rate`
 - **Name:** Commit Size Distribution - Small Commit Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSD-SD
 
@@ -23,7 +23,7 @@ Commits within Size Guideline / Commits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

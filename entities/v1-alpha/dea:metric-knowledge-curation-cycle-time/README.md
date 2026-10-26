@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Curation Cycle Time** (KCCT)
 - **Canonical id:** `dea:metric-knowledge-curation-cycle-time`
 - **Name:** Knowledge Curation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KCCT
 
@@ -23,8 +23,8 @@ Days from Capture to Published Curated Article
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

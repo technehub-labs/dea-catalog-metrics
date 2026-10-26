@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Responder Coordination Score** (
 - **Canonical id:** `dea:metric-first-responder-coordination-score`
 - **Name:** First Responder Coordination Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRCS
 

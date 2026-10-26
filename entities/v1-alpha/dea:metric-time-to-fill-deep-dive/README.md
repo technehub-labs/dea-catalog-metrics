@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Fill (Deep Dive)** (TTFDD) in 
 - **Canonical id:** `dea:metric-time-to-fill-deep-dive`
 - **Name:** Time to Fill (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTFDD
 
@@ -23,8 +23,8 @@ Days from Requisition Open to Accepted Offer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

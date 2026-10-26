@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Detection Rate in Testing** (DD
 - **Canonical id:** `dea:metric-defect-detection-rate-in-testing`
 - **Name:** Defect Detection Rate in Testing
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDRT-QA
 
@@ -27,7 +27,7 @@ Defects Found before Release / Total Defects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recipe Yield Variance** (RYV) in the O
 - **Canonical id:** `dea:metric-recipe-yield-variance`
 - **Name:** Recipe Yield Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RYV
 
@@ -23,7 +23,7 @@ Actual Yield - Standard Yield / Standard Yield
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

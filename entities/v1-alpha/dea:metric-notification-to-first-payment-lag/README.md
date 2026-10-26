@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Notification to First Payment Lag** (N
 - **Canonical id:** `dea:metric-notification-to-first-payment-lag`
 - **Name:** Notification to First Payment Lag
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NFPL
 
@@ -23,8 +23,8 @@ Days from Claim Notification to First Payment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

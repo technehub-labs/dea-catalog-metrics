@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Experience Ratio** (C
 - **Canonical id:** `dea:metric-cross-functional-experience-ratio`
 - **Name:** Cross-Functional Experience Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFER-BSC
 
@@ -23,7 +23,7 @@ Employees with Cross-Functional Rotations / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

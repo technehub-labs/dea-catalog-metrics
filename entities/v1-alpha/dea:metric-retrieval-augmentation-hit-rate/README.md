@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retrieval Augmentation Hit Rate** (RAH
 - **Canonical id:** `dea:metric-retrieval-augmentation-hit-rate`
 - **Name:** Retrieval Augmentation Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RAHR-LLM
 
@@ -23,7 +23,7 @@ Queries Returning Relevant Chunks / Queries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

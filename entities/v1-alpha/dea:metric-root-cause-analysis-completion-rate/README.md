@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Root Cause Analysis Completion Rate** 
 - **Canonical id:** `dea:metric-root-cause-analysis-completion-rate`
 - **Name:** Root Cause Analysis Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCACR
 
@@ -27,7 +27,7 @@ RCAs Completed within Target for Major Incidents / Major Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

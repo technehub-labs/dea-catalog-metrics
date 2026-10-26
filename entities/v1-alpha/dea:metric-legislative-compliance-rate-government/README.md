@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legislative Compliance Rate (Governmen
 - **Canonical id:** `dea:metric-legislative-compliance-rate-government`
 - **Name:** Legislative Compliance Rate (Government)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCR-G
 
@@ -27,7 +27,7 @@ Obligations Met on Time / Obligations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

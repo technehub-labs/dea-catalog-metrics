@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Image Index** (PII-RT) in the Op
 - **Canonical id:** `dea:metric-price-image-index`
 - **Name:** Price Image Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PII-RT
 

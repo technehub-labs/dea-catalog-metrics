@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SCA Dependency Coverage** (SCADC) in t
 - **Canonical id:** `dea:metric-sca-dependency-coverage`
 - **Name:** SCA Dependency Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCADC
 
@@ -23,7 +23,7 @@ Projects with Dependency Scanning / Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Audit Score (Supply Chain)*
 - **Canonical id:** `dea:metric-compliance-audit-score-supply-chain`
 - **Name:** Compliance Audit Score (Supply Chain)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CASC
 

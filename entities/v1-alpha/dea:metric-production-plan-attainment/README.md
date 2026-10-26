@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Plan Attainment** (PPA) in 
 - **Canonical id:** `dea:metric-production-plan-attainment`
 - **Name:** Production Plan Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPA
 
@@ -27,7 +27,7 @@ Actual Production / Planned Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

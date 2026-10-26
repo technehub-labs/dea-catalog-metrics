@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Quality Score** (GQS) in the OpenD
 - **Canonical id:** `dea:metric-gig-quality-score`
 - **Name:** Gig Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GQS
 

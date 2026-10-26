@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Forecast Accuracy (Contact C
 - **Canonical id:** `dea:metric-workforce-forecast-accuracy-contact-center`
 - **Name:** Workforce Forecast Accuracy (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WFA-CC
 
@@ -23,7 +23,7 @@ Forecast vs Actual Contact Volume Variance / Actual
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gym Utilization at Peak (Deep Dive)** 
 - **Canonical id:** `dea:metric-gym-utilization-at-peak-deep-dive`
 - **Name:** Gym Utilization at Peak (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GUP-D
 
@@ -23,7 +23,7 @@ Peak Attendees / Usable Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

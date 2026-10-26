@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Installation First-Time Completion** (
 - **Canonical id:** `dea:metric-installation-first-time-completion`
 - **Name:** Installation First-Time Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFTC
 
@@ -23,7 +23,7 @@ Installations Completed on First Visit / Installation Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

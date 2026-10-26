@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Age (Deep Dive)** (FA-D) in the 
 - **Canonical id:** `dea:metric-fleet-age-deep-dive`
 - **Name:** Fleet Age (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FA-D
 
@@ -27,8 +27,8 @@ Average Years Since Manufacture
 
 ## Unit
 
-- **Unit reference:** `dea:unit-years`
-- **Unit:** years
+- **Unit reference:** `dea:unit-year`
+- **Unit:** year
 - **Unit label (as published):** years
 
 ## Classification

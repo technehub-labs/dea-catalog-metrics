@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Development Plan Completion**
 - **Canonical id:** `dea:metric-personal-development-plan-completion`
 - **Name:** Personal Development Plan Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDPC
 
@@ -23,7 +23,7 @@ Employees Completing PDP Milestones / Plans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

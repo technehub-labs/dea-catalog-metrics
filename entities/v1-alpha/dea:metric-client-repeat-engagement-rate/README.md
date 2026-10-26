@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Repeat Engagement Rate** (CRER)
 - **Canonical id:** `dea:metric-client-repeat-engagement-rate`
 - **Name:** Client Repeat Engagement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRER
 
@@ -27,7 +27,7 @@ Clients with Repeat Mandates / Clients Served
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

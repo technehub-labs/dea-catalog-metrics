@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Breach of QoS Policy Count** (BQPC) in
 - **Canonical id:** `dea:metric-breach-of-qos-policy-count`
 - **Name:** Breach of QoS Policy Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BQPC
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Settlement Window Compliance Rate** (S
 - **Canonical id:** `dea:metric-settlement-window-compliance-rate`
 - **Name:** Settlement Window Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SWCR
 
@@ -23,7 +23,7 @@ Settlement Batches within Window / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

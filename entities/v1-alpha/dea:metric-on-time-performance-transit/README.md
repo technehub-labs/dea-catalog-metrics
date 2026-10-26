@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance (Transit)** (OTP-T
 - **Canonical id:** `dea:metric-on-time-performance-transit`
 - **Name:** On-Time Performance (Transit)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTP-T
 
@@ -27,7 +27,7 @@ Trips Departing Key Stops within Threshold / Trips
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

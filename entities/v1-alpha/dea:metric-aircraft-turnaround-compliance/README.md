@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Compliance** (ATC-
 - **Canonical id:** `dea:metric-aircraft-turnaround-compliance`
 - **Name:** Aircraft Turnaround Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATC-A
 
@@ -23,7 +23,7 @@ Turnarounds within Allocated Time / Turnarounds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

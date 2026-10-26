@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donor Retention Rate (Deep Dive)** (DR
 - **Canonical id:** `dea:metric-donor-retention-rate-deep-dive`
 - **Name:** Donor Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-D
 
@@ -27,7 +27,7 @@ Donors Giving Again / Prior Donors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

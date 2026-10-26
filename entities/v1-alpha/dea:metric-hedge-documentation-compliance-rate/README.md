@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hedge Documentation Compliance Rate** 
 - **Canonical id:** `dea:metric-hedge-documentation-compliance-rate`
 - **Name:** Hedge Documentation Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HDCR-T
 
@@ -27,7 +27,7 @@ Hedges Meeting Documentation Requirements / Hedges
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

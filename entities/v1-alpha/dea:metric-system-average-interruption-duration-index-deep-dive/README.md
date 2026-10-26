@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Duration I
 - **Canonical id:** `dea:metric-system-average-interruption-duration-index-deep-dive`
 - **Name:** System Average Interruption Duration Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAIDI-D
 
@@ -27,8 +27,8 @@ Customer-Minutes Interrupted / Customers Served
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

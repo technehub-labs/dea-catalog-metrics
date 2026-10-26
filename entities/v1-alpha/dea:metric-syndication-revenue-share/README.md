@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Syndication Revenue Share** (SRS-B) in
 - **Canonical id:** `dea:metric-syndication-revenue-share`
 - **Name:** Syndication Revenue Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRS-B
 
@@ -27,7 +27,7 @@ Syndication Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

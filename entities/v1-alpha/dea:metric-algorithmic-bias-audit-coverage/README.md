@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Algorithmic Bias Audit Coverage** (ABA
 - **Canonical id:** `dea:metric-algorithmic-bias-audit-coverage`
 - **Name:** Algorithmic Bias Audit Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABAC
 
@@ -27,7 +27,7 @@ High-Risk Models Audited for Bias / High-Risk Models
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

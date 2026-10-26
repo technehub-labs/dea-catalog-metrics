@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsor Visibility Score** (SVS) in th
 - **Canonical id:** `dea:metric-sponsor-visibility-score`
 - **Name:** Sponsor Visibility Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVS
 

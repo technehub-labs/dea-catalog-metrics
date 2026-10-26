@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Importance Stability** (FIIMP)
 - **Canonical id:** `dea:metric-feature-importance-stability`
 - **Name:** Feature Importance Stability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FIIMP
 

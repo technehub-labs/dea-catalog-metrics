@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Mean Time to Resolve** (NOMTR) in 
 - **Canonical id:** `dea:metric-noc-mean-time-to-resolve`
 - **Name:** NOC Mean Time to Resolve
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NOMTR
 
@@ -27,8 +27,8 @@ Hours from Acknowledgment to Resolution
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Ratio (Deep Dive)** (W
 - **Canonical id:** `dea:metric-working-capital-ratio-deep-dive`
 - **Name:** Working Capital Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCR-D
 

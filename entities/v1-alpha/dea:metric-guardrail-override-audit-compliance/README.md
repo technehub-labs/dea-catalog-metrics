@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guardrail Override Audit Compliance** 
 - **Canonical id:** `dea:metric-guardrail-override-audit-compliance`
 - **Name:** Guardrail Override Audit Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GOAC
 
@@ -23,7 +23,7 @@ Guardrail Overrides with Audit Record / Overrides
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

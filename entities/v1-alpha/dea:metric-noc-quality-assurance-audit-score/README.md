@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Quality Assurance Audit Score** (N
 - **Canonical id:** `dea:metric-noc-quality-assurance-audit-score`
 - **Name:** NOC Quality Assurance Audit Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NQAS
 

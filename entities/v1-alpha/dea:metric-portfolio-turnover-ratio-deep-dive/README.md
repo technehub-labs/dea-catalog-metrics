@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Turnover Ratio (Deep Dive)**
 - **Canonical id:** `dea:metric-portfolio-turnover-ratio-deep-dive`
 - **Name:** Portfolio Turnover Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTR-D
 
@@ -23,7 +23,7 @@ Min(Purchases, Sales) / Average AUM
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

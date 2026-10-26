@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Win Rate (Mandated)** (DWR) in th
 - **Canonical id:** `dea:metric-deal-win-rate-mandated`
 - **Name:** Deal Win Rate (Mandated)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DWR
 
@@ -27,7 +27,7 @@ Mandates Won / Mandates Pitched
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

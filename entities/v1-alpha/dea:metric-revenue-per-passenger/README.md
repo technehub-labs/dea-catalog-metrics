@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Passenger** (RPP) in the O
 - **Canonical id:** `dea:metric-revenue-per-passenger`
 - **Name:** Revenue per Passenger
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPP
 

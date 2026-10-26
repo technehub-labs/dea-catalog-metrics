@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sale Price to List Price Ratio** (SPLP
 - **Canonical id:** `dea:metric-sale-price-to-list-price-ratio`
 - **Name:** Sale Price to List Price Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPLP
 
@@ -27,7 +27,7 @@ Sale Price / Original List Price
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

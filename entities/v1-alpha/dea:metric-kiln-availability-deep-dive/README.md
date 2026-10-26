@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kiln Availability (Deep Dive)** (KA-D)
 - **Canonical id:** `dea:metric-kiln-availability-deep-dive`
 - **Name:** Kiln Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KA-D
 
@@ -27,7 +27,7 @@ Kiln Operating Hours / Planned Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

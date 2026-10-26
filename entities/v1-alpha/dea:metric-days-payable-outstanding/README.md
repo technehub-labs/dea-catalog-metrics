@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Payable Outstanding** (DPO) in th
 - **Canonical id:** `dea:metric-days-payable-outstanding`
 - **Name:** Days Payable Outstanding
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPO
 
@@ -27,8 +27,8 @@ Measures the average number of days a firm takes to pay its suppliers. It matter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advance Ruling Coverage** (ARC-T) in t
 - **Canonical id:** `dea:metric-advance-ruling-coverage`
 - **Name:** Advance Ruling Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARC-T
 
@@ -23,7 +23,7 @@ Value Covered by Advance Rulings / Total Import Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

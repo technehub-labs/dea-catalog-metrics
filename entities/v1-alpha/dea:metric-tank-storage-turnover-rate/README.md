@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tank Storage Turnover Rate** (TSTR) in
 - **Canonical id:** `dea:metric-tank-storage-turnover-rate`
 - **Name:** Tank Storage Turnover Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSTR
 

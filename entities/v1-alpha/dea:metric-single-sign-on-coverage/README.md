@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Sign-On Coverage** (SSOC) in th
 - **Canonical id:** `dea:metric-single-sign-on-coverage`
 - **Name:** Single Sign-On Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSOC
 
@@ -27,7 +27,7 @@ Applications behind SSO / Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert Noise Ratio** (ALNR) in the Open
 - **Canonical id:** `dea:metric-alert-noise-ratio`
 - **Name:** Alert Noise Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALNR
 
@@ -23,7 +23,7 @@ Non-Actionable Alerts / Total Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

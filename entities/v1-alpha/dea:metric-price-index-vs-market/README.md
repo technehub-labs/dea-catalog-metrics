@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Index vs Market** (PIM) in the O
 - **Canonical id:** `dea:metric-price-index-vs-market`
 - **Name:** Price Index vs Market
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIM
 

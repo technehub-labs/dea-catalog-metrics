@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Priority Escalation Accuracy** (PEA-IT
 - **Canonical id:** `dea:metric-priority-escalation-accuracy`
 - **Name:** Priority Escalation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PEA-IT
 
@@ -23,7 +23,7 @@ Incidents Correctly Prioritized on Intake / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

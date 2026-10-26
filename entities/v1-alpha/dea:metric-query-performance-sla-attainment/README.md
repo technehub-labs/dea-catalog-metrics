@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Query Performance SLA Attainment** (QP
 - **Canonical id:** `dea:metric-query-performance-sla-attainment`
 - **Name:** Query Performance SLA Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QPSLAA
 
@@ -23,7 +23,7 @@ Dashboards Meeting Query Latency SLA / Dashboards
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery Yield - Clean Products** (RYC
 - **Canonical id:** `dea:metric-refinery-yield-clean-products`
 - **Name:** Refinery Yield - Clean Products
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RYCP
 
@@ -27,7 +27,7 @@ Clean Product Barrels / Crude Barrels
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

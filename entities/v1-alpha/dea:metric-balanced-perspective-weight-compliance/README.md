@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Balanced Perspective Weight Compliance
 - **Canonical id:** `dea:metric-balanced-perspective-weight-compliance`
 - **Name:** Balanced Perspective Weight Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BPWC
 
@@ -23,7 +23,7 @@ Units Applying Approved Perspective Weighting / Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

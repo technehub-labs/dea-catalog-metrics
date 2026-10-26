@@ -7,7 +7,7 @@ Candidate Performance Metric record for **MQL to SQL Conversion** (MQL2SQL) in t
 - **Canonical id:** `dea:metric-mql-to-sql-conversion`
 - **Name:** MQL to SQL Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MQL2SQL
 
@@ -27,7 +27,7 @@ Sales Qualified Leads / Marketing Qualified Leads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,8 +7,8 @@ description: Query P95 Latency (QPS95) captures the quality of outputs and outco
   deviations demand immediate correction. Lower values are better; each reduction is an improvement. Its
   use is concentrated in Software.
 abbreviation: QPS95
-unit: milliseconds
-version: 1.0.0
+unit: millisecond
+version: 1.0.1
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -21,7 +21,7 @@ management_significance:
 - operational
 measurable_entity_kind: dea:BusinessProcess
 reputability_tier: industry_standard
-unit_ref: dea:unit-milliseconds
+unit_ref: dea:unit-millisecond
 source_credit: Public domain - no attribution required
 calculation_definition: 95th Percentile Database Query Execution Time
 formula_definition:
@@ -33,7 +33,7 @@ formula_definition:
   parameters: []
   unit_semantics:
     input_units: []
-    output_unit: dea:unit-milliseconds
+    output_unit: dea:unit-millisecond
   validation_rules: []
   version: 1.0.0
 metadata:
@@ -43,6 +43,9 @@ metadata:
   - cr: CR-MET-016
     date: '2026-10-26'
     change: Ingested from the candidate-metrics seed workbook
+  - cr: CR-MET-017
+    date: '2026-10-26'
+    change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics

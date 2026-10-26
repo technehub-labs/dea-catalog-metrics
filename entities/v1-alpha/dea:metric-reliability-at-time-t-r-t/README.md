@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability at Time t (R(t))** (RTT) i
 - **Canonical id:** `dea:metric-reliability-at-time-t-r-t`
 - **Name:** Reliability at Time t (R(t))
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTT
 
@@ -27,7 +27,7 @@ exp(-Integral of Hazard Function to t)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

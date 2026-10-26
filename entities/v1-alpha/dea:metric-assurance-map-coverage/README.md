@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assurance Map Coverage** (AMC-GOV) in 
 - **Canonical id:** `dea:metric-assurance-map-coverage`
 - **Name:** Assurance Map Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMC-GOV
 
@@ -27,7 +27,7 @@ Risks with Mapped Assurance Activities / Key Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Approval Gate Compliance** (MAGC
 - **Canonical id:** `dea:metric-model-approval-gate-compliance`
 - **Name:** Model Approval Gate Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAGC
 
@@ -27,7 +27,7 @@ Models Passing All Governance Gates before Deployment / Deployed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

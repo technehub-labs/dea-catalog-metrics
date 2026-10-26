@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Client Relationship Value** (A
 - **Canonical id:** `dea:metric-average-client-relationship-value`
 - **Name:** Average Client Relationship Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACRV
 

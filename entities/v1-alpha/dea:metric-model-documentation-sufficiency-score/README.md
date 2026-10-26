@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Documentation Sufficiency Score*
 - **Canonical id:** `dea:metric-model-documentation-sufficiency-score`
 - **Name:** Model Documentation Sufficiency Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDSS
 
@@ -27,7 +27,7 @@ Documentation Items Complete / Required per Policy
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

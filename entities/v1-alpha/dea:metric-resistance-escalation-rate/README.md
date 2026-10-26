@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resistance Escalation Rate** (RER) in 
 - **Canonical id:** `dea:metric-resistance-escalation-rate`
 - **Name:** Resistance Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RER
 
@@ -27,7 +27,7 @@ Resistance Cases Escalated / Resistance Cases Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

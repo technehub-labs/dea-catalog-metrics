@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Worker Fulfilment Rate** (GWFR) in
 - **Canonical id:** `dea:metric-gig-worker-fulfilment-rate`
 - **Name:** Gig Worker Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GWFR
 
@@ -23,7 +23,7 @@ Tasks Accepted within SLA / Tasks Posted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

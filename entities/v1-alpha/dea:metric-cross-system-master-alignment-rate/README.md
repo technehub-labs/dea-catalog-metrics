@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-System Master Alignment Rate** (
 - **Canonical id:** `dea:metric-cross-system-master-alignment-rate`
 - **Name:** Cross-System Master Alignment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSMAR
 
@@ -23,7 +23,7 @@ Subscribing Systems Aligned with Master within Tolerance / Systems
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Dashboard Link Compliance** (
 - **Canonical id:** `dea:metric-alert-to-dashboard-link-compliance`
 - **Name:** Alert-to-Dashboard Link Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADLC
 
@@ -23,7 +23,7 @@ Alerts Linking to Runbook and Dashboard / Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

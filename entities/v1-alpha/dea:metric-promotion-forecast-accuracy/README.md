@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Forecast Accuracy** (PFA) in
 - **Canonical id:** `dea:metric-promotion-forecast-accuracy`
 - **Name:** Promotion Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PFA
 
@@ -27,7 +27,7 @@ Measures how accurately promotion demand uplift is forecast. It matters because 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

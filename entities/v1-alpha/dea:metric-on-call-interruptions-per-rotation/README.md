@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Call Interruptions per Rotation** (
 - **Canonical id:** `dea:metric-on-call-interruptions-per-rotation`
 - **Name:** On-Call Interruptions per Rotation
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCIPR
 

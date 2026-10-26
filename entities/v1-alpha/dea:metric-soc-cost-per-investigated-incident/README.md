@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SOC Cost per Investigated Incident** (
 - **Canonical id:** `dea:metric-soc-cost-per-investigated-incident`
 - **Name:** SOC Cost per Investigated Incident
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOCPII
 

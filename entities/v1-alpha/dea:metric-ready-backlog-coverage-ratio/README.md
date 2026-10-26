@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ready Backlog Coverage Ratio** (RBCR) 
 - **Canonical id:** `dea:metric-ready-backlog-coverage-ratio`
 - **Name:** Ready Backlog Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBCR
 

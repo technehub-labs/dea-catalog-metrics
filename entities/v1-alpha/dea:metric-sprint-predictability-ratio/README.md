@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sprint Predictability Ratio** (SPR-AG)
 - **Canonical id:** `dea:metric-sprint-predictability-ratio`
 - **Name:** Sprint Predictability Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPR-AG
 
@@ -23,7 +23,7 @@ Committed versus Completed Story Points / Committed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

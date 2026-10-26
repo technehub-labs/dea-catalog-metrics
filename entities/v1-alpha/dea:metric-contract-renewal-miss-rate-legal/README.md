@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Renewal Miss Rate (Legal)** (
 - **Canonical id:** `dea:metric-contract-renewal-miss-rate-legal`
 - **Name:** Contract Renewal Miss Rate (Legal)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRML
 
@@ -23,7 +23,7 @@ Renewals Lapsed without Action / Renewals Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

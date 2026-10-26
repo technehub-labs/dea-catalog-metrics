@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Co-Innovation Output Rate** (CIOR) in 
 - **Canonical id:** `dea:metric-co-innovation-output-rate`
 - **Name:** Co-Innovation Output Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIOR
 

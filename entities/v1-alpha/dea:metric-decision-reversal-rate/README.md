@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Reversal Rate** (DRR-GOV) in 
 - **Canonical id:** `dea:metric-decision-reversal-rate`
 - **Name:** Decision Reversal Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-GOV
 
@@ -27,7 +27,7 @@ Decisions Reversed within Twelve Months / Decisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

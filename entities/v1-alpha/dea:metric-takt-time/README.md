@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Time** (TAKT) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-takt-time`
 - **Name:** Takt Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TAKT
 
@@ -27,8 +27,8 @@ Available Production Time / Customer Demand Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

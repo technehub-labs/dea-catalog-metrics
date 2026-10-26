@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aged Receivables Ratio (Property)** (A
 - **Canonical id:** `dea:metric-aged-receivables-ratio-property`
 - **Name:** Aged Receivables Ratio (Property)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARR-P
 
@@ -23,7 +23,7 @@ Rent Over 60 Days / Total Rent Receivable
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Centralization versus Autonomy Balance
 - **Canonical id:** `dea:metric-centralization-versus-autonomy-balance-index`
 - **Name:** Centralization versus Autonomy Balance Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CVABI
 

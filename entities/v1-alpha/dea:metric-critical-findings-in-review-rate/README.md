@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Findings in Review Rate** (CF
 - **Canonical id:** `dea:metric-critical-findings-in-review-rate`
 - **Name:** Critical Findings in Review Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFRR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Test Coverage for Integration
 - **Canonical id:** `dea:metric-contract-test-coverage-for-integrations`
 - **Name:** Contract Test Coverage for Integrations
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTCI-QA
 
@@ -23,7 +23,7 @@ Integrations with Contract Tests / Integrations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

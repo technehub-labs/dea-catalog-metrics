@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density per KLOC** (DDKLOC) in 
 - **Canonical id:** `dea:metric-defect-density-per-kloc`
 - **Name:** Defect Density per KLOC
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDKLOC
 
@@ -23,8 +23,8 @@ Defects per 1,000 Lines of Code
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

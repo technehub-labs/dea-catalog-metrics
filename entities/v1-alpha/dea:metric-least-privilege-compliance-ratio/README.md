@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Least Privilege Compliance Ratio** (LP
 - **Canonical id:** `dea:metric-least-privilege-compliance-ratio`
 - **Name:** Least Privilege Compliance Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPCR-IAM
 
@@ -27,7 +27,7 @@ Accounts with Only Required Entitlements / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

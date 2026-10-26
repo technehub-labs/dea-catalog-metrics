@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy Interface Dependency Ratio** (L
 - **Canonical id:** `dea:metric-legacy-interface-dependency-ratio`
 - **Name:** Legacy Interface Dependency Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LIDR-SA
 
@@ -27,7 +27,7 @@ Calls to Legacy Systems / Total External Calls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

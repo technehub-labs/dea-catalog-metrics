@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Governance Review Compliance**
 - **Canonical id:** `dea:metric-project-governance-review-compliance`
 - **Name:** Project Governance Review Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PGRC
 
@@ -27,7 +27,7 @@ Gate Reviews Completed per Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

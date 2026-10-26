@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crop Protection Timing Adherence** (CP
 - **Canonical id:** `dea:metric-crop-protection-timing-adherence`
 - **Name:** Crop Protection Timing Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPTA
 
@@ -23,7 +23,7 @@ Applications within Agronomic Window / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

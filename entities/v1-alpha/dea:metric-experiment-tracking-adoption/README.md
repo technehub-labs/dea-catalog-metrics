@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Tracking Adoption** (ETA-M)
 - **Canonical id:** `dea:metric-experiment-tracking-adoption`
 - **Name:** Experiment Tracking Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ETA-M
 
@@ -23,7 +23,7 @@ Experiments Logged in Tracking System / Experiments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

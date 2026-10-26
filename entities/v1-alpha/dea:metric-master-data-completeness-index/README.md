@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Completeness Index** (MDCI
 - **Canonical id:** `dea:metric-master-data-completeness-index`
 - **Name:** Master Data Completeness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDCI
 

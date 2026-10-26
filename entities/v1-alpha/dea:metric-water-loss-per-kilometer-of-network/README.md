@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Loss per Kilometer of Network** 
 - **Canonical id:** `dea:metric-water-loss-per-kilometer-of-network`
 - **Name:** Water Loss per Kilometer of Network
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WLK
 

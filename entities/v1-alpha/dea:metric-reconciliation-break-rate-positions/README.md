@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reconciliation Break Rate (Positions)*
 - **Canonical id:** `dea:metric-reconciliation-break-rate-positions`
 - **Name:** Reconciliation Break Rate (Positions)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBRP
 
@@ -23,8 +23,8 @@ Unreconciled Position Breaks / Positions Reconciled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

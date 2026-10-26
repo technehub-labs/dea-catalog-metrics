@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Drift Detection Coverage** (DDDC)
 - **Canonical id:** `dea:metric-data-drift-detection-coverage`
 - **Name:** Data Drift Detection Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDDC
 
@@ -27,7 +27,7 @@ Monitored Features with Drift Checks / Features
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Qualified Lead to Sales Acce
 - **Canonical id:** `dea:metric-marketing-qualified-lead-to-sales-accepted-ratio`
 - **Name:** Marketing Qualified Lead to Sales Accepted Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MQSAR
 
@@ -23,7 +23,7 @@ SALs / MQLs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

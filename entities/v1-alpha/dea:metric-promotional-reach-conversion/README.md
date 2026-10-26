@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotional Reach Conversion** (PRC) i
 - **Canonical id:** `dea:metric-promotional-reach-conversion`
 - **Name:** Promotional Reach Conversion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRC
 
@@ -27,7 +27,7 @@ Trial Starts from Campaign / Campaign Reach
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

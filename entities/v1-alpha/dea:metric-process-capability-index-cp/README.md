@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Capability Index (Cp)** (CPSIX
 - **Canonical id:** `dea:metric-process-capability-index-cp`
 - **Name:** Process Capability Index (Cp)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPSIX
 

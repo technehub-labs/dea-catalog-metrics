@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attributive Compliance Breach Count** 
 - **Canonical id:** `dea:metric-attributive-compliance-breach-count`
 - **Name:** Attributive Compliance Breach Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACBC
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loyalty Program Enrollment Rate (Beaut
 - **Canonical id:** `dea:metric-loyalty-program-enrollment-rate-beauty`
 - **Name:** Loyalty Program Enrollment Rate (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPER-B
 
@@ -23,7 +23,7 @@ Clients Enrolled / Eligible Clients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

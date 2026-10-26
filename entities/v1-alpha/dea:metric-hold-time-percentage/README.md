@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hold Time Percentage** (HTP) in the Op
 - **Canonical id:** `dea:metric-hold-time-percentage`
 - **Name:** Hold Time Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HTP
 
@@ -23,7 +23,7 @@ Hold Time / Handle Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

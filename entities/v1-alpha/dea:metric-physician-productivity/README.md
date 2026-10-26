@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physician Productivity** (PP) in the O
 - **Canonical id:** `dea:metric-physician-productivity`
 - **Name:** Physician Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PP
 

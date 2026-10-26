@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investment Yield vs Benchmark (Treasur
 - **Canonical id:** `dea:metric-investment-yield-vs-benchmark-treasury`
 - **Name:** Investment Yield vs Benchmark (Treasury)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IYBT
 
@@ -23,7 +23,7 @@ Portfolio Yield - Benchmark Yield
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Approval Rate (Deep Dive)** (LAR-
 - **Canonical id:** `dea:metric-loan-approval-rate-deep-dive`
 - **Name:** Loan Approval Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LAR-D
 
@@ -23,7 +23,7 @@ Approved Applications / Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

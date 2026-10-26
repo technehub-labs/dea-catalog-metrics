@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Completeness Rate** (DCR-DQ) in t
 - **Canonical id:** `dea:metric-data-completeness-rate`
 - **Name:** Data Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCR-DQ
 
@@ -23,7 +23,7 @@ Mandatory Fields Populated / Mandatory Fields
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

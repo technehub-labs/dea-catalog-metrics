@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert Triage Cycle Time** (ATCT-EF) in
 - **Canonical id:** `dea:metric-alert-triage-cycle-time`
 - **Name:** Alert Triage Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATCT-EF
 
@@ -23,8 +23,8 @@ Hours from Alert to Triage Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

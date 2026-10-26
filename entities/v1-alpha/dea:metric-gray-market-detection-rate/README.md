@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gray Market Detection Rate** (GMDR) in
 - **Canonical id:** `dea:metric-gray-market-detection-rate`
 - **Name:** Gray Market Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMDR
 
@@ -27,7 +27,7 @@ Unauthorized Channel Incidents Confirmed / Investigated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

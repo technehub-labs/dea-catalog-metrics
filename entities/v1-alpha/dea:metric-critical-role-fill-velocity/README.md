@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Role Fill Velocity** (CRFV) i
 - **Canonical id:** `dea:metric-critical-role-fill-velocity`
 - **Name:** Critical Role Fill Velocity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRFV
 
@@ -27,8 +27,8 @@ Days to Fill Critical Role from Approval
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

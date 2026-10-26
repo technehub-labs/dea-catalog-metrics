@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Boarding Occupancy Rate (Vet Clinics)*
 - **Canonical id:** `dea:metric-boarding-occupancy-rate-vet-clinics`
 - **Name:** Boarding Occupancy Rate (Vet Clinics)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BOR-V
 
@@ -23,7 +23,7 @@ Boarding Days Sold / Capacity Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

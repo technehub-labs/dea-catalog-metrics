@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order-to-Install Appointment Lag** (OI
 - **Canonical id:** `dea:metric-order-to-install-appointment-lag`
 - **Name:** Order-to-Install Appointment Lag
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OIAL
 
@@ -27,8 +27,8 @@ Days between Order and First Available Appointment Slot
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

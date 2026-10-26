@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Foreign Object Detection Rate** (FODR)
 - **Canonical id:** `dea:metric-foreign-object-detection-rate`
 - **Name:** Foreign Object Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FODR
 
@@ -23,8 +23,8 @@ Contaminants Detected by Inspection / Batches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

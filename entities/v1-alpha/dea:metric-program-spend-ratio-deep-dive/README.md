@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Spend Ratio (Deep Dive)** (PSR
 - **Canonical id:** `dea:metric-program-spend-ratio-deep-dive`
 - **Name:** Program Spend Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSR-D
 
@@ -27,7 +27,7 @@ Program Expenses / Total Expenses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

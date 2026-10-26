@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Advertising Spend (Deep Dive
 - **Canonical id:** `dea:metric-return-on-advertising-spend-deep-dive`
 - **Name:** Return on Advertising Spend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROASDD
 

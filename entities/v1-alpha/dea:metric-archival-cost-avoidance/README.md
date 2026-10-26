@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Archival Cost Avoidance** (ACA-DB) in 
 - **Canonical id:** `dea:metric-archival-cost-avoidance`
 - **Name:** Archival Cost Avoidance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACA-DB
 

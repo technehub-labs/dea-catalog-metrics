@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Point of Failure Count (Deep Di
 - **Canonical id:** `dea:metric-single-point-of-failure-count-deep-dive`
 - **Name:** Single Point of Failure Count (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPOFC
 

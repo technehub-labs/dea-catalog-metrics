@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Code Rate (Deep Dive)** (DCR
 - **Canonical id:** `dea:metric-duplicate-code-rate-deep-dive`
 - **Name:** Duplicate Code Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCRD
 
@@ -23,7 +23,7 @@ Duplicated Lines / Total Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

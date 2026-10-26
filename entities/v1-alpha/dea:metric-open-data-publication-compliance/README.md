@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Data Publication Compliance** (OD
 - **Canonical id:** `dea:metric-open-data-publication-compliance`
 - **Name:** Open Data Publication Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODPC
 
@@ -27,7 +27,7 @@ Datasets Published per Mandate / Mandated Datasets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

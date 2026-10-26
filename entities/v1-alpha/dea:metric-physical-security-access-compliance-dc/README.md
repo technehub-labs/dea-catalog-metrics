@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physical Security Access Compliance (D
 - **Canonical id:** `dea:metric-physical-security-access-compliance-dc`
 - **Name:** Physical Security Access Compliance (DC)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSAC-D
 
@@ -23,7 +23,7 @@ Access Events per Policy / Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

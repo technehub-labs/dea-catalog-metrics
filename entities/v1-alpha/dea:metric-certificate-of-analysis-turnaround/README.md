@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certificate of Analysis Turnaround** (
 - **Canonical id:** `dea:metric-certificate-of-analysis-turnaround`
 - **Name:** Certificate of Analysis Turnaround
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COAT
 
@@ -23,8 +23,8 @@ Hours from Batch Completion to Issued CoA
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

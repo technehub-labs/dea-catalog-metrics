@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feed Conversion Ratio** (FCR) in the O
 - **Canonical id:** `dea:metric-feed-conversion-ratio`
 - **Name:** Feed Conversion Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCR
 

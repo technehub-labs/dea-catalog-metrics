@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paper Machine Efficiency** (PME) in th
 - **Canonical id:** `dea:metric-paper-machine-efficiency`
 - **Name:** Paper Machine Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PME
 
@@ -23,7 +23,7 @@ Good Production Time / Available Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

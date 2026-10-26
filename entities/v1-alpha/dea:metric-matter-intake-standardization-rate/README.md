@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Matter Intake Standardization Rate** (
 - **Canonical id:** `dea:metric-matter-intake-standardization-rate`
 - **Name:** Matter Intake Standardization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MISR
 
@@ -23,7 +23,7 @@ Matters via Standard Intake / Matters
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

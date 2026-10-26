@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OWASP Top 10 Regression Coverage** (OT
 - **Canonical id:** `dea:metric-owasp-top-10-regression-coverage`
 - **Name:** OWASP Top 10 Regression Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OT10RC
 
@@ -27,7 +27,7 @@ Top 10 Categories with Automated Regression Tests / Categories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

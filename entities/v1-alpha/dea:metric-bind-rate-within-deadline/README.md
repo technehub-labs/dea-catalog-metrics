@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bind Rate within Deadline** (BRD) in t
 - **Canonical id:** `dea:metric-bind-rate-within-deadline`
 - **Name:** Bind Rate within Deadline
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRD
 
@@ -23,7 +23,7 @@ Applications Bound before Underwriting Deadline / Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

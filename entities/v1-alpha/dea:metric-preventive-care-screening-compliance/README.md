@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Care Screening Compliance**
 - **Canonical id:** `dea:metric-preventive-care-screening-compliance`
 - **Name:** Preventive Care Screening Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCSC
 
@@ -27,7 +27,7 @@ Eligible Patients Screened per Guideline / Eligible
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

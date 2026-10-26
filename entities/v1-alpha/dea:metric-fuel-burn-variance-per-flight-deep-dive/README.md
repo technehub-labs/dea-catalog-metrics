@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Burn Variance per Flight (Deep Di
 - **Canonical id:** `dea:metric-fuel-burn-variance-per-flight-deep-dive`
 - **Name:** Fuel Burn Variance per Flight (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBVF-D
 
@@ -23,7 +23,7 @@ Actual Fuel Burn - Flight Plan Fuel / Plan
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

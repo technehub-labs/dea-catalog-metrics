@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Authorization Rate** (AUTH) in the Ope
 - **Canonical id:** `dea:metric-authorization-rate`
 - **Name:** Authorization Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AUTH
 
@@ -27,7 +27,7 @@ Approved Transactions / Authorization Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

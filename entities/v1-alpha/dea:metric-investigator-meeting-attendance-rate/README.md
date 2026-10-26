@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigator Meeting Attendance Rate**
 - **Canonical id:** `dea:metric-investigator-meeting-attendance-rate`
 - **Name:** Investigator Meeting Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IMAR
 
@@ -23,7 +23,7 @@ Sites Attending Investigator Meetings / Sites
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

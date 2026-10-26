@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Storage Cost per Terabyte (Records)** 
 - **Canonical id:** `dea:metric-storage-cost-per-terabyte-records`
 - **Name:** Storage Cost per Terabyte (Records)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCPT
 

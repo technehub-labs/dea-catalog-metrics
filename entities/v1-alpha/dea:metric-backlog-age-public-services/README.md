@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Age (Public Services)** (BAPS)
 - **Canonical id:** `dea:metric-backlog-age-public-services`
 - **Name:** Backlog Age (Public Services)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAPS
 
@@ -23,8 +23,8 @@ Average Age of Open Citizen Cases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

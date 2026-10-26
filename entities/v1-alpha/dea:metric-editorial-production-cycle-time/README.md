@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Editorial Production Cycle Time** (EPC
 - **Canonical id:** `dea:metric-editorial-production-cycle-time`
 - **Name:** Editorial Production Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPCT
 
@@ -23,8 +23,8 @@ Days from Commission to Publication
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

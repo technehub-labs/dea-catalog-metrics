@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Retention Policy Compliance** (DR
 - **Canonical id:** `dea:metric-data-retention-policy-compliance`
 - **Name:** Data Retention Policy Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRPC
 
@@ -23,7 +23,7 @@ Stores Compliant with Retention Schedule / Stores
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

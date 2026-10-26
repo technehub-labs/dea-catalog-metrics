@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Accuracy** (IA) in the OpenD
 - **Canonical id:** `dea:metric-inventory-accuracy`
 - **Name:** Inventory Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IA
 
@@ -23,7 +23,7 @@ Accurate Inventory Records / Inventory Records Counted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

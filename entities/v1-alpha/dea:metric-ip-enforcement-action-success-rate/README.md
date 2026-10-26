@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Enforcement Action Success Rate** (
 - **Canonical id:** `dea:metric-ip-enforcement-action-success-rate`
 - **Name:** IP Enforcement Action Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IEASR
 
@@ -27,7 +27,7 @@ Enforcement Actions with Favorable Outcome / Actions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

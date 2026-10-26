@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel On-Time Arrival Rate (Deep Dive
 - **Canonical id:** `dea:metric-vessel-on-time-arrival-rate-deep-dive`
 - **Name:** Vessel On-Time Arrival Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VOTA-D
 
@@ -27,7 +27,7 @@ Arrivals within Window / Port Calls
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

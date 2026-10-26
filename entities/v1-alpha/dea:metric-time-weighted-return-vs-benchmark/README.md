@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-Weighted Return vs Benchmark** (T
 - **Canonical id:** `dea:metric-time-weighted-return-vs-benchmark`
 - **Name:** Time-Weighted Return vs Benchmark
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TWRB
 
@@ -27,7 +27,7 @@ TWR minus Benchmark Return in Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

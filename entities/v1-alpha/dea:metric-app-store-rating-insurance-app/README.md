@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Store Rating (Insurance App)** (AS
 - **Canonical id:** `dea:metric-app-store-rating-insurance-app`
 - **Name:** App Store Rating (Insurance App)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASR-I
 

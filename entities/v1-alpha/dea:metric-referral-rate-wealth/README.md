@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Referral Rate (Wealth)** (REFW) in the
 - **Canonical id:** `dea:metric-referral-rate-wealth`
 - **Name:** Referral Rate (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** REFW
 
@@ -27,7 +27,7 @@ New Clients from Referrals / New Clients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

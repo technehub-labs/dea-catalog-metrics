@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Parity Compliance** (EPC-C
 - **Canonical id:** `dea:metric-environment-parity-compliance`
 - **Name:** Environment Parity Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPC-CD
 
@@ -23,7 +23,7 @@ Non-Production Environments Matching Production Configuration / Environments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

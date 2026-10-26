@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transfer Pricing Documentation Coverag
 - **Canonical id:** `dea:metric-transfer-pricing-documentation-coverage`
 - **Name:** Transfer Pricing Documentation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPDC
 
@@ -27,7 +27,7 @@ Intercompany Flows with Documentation / Total Intercompany Flows
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

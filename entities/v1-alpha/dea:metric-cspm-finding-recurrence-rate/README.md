@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Finding Recurrence Rate** (CFRR-C
 - **Canonical id:** `dea:metric-cspm-finding-recurrence-rate`
 - **Name:** CSPM Finding Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFRR-CS
 
@@ -23,7 +23,7 @@ Findings Reopened after Remediation / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

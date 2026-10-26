@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Use of Data Analytics in Audit** (UDAA
 - **Canonical id:** `dea:metric-use-of-data-analytics-in-audit`
 - **Name:** Use of Data Analytics in Audit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UDAA
 
@@ -27,7 +27,7 @@ Audits Using Continuous Auditing or Analytics / Total Audits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

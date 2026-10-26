@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Initiative Value Realization**
 - **Canonical id:** `dea:metric-digital-initiative-value-realization`
 - **Name:** Digital Initiative Value Realization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DIVR
 
@@ -27,7 +27,7 @@ Realized Benefits / Planned Benefits of Digital Portfolio
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

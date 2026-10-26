@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Green Building Certification Share** (
 - **Canonical id:** `dea:metric-green-building-certification-share`
 - **Name:** Green Building Certification Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GBCS
 
@@ -27,7 +27,7 @@ Certified Floor Area / Total Floor Area
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

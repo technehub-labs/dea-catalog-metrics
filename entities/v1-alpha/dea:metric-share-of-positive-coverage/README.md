@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Positive Coverage** (SOPC) in
 - **Canonical id:** `dea:metric-share-of-positive-coverage`
 - **Name:** Share of Positive Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOPC
 
@@ -27,7 +27,7 @@ Positive Stories / Total Stories Monitored
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

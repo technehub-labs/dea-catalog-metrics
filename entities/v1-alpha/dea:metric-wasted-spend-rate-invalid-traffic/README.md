@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wasted Spend Rate (Invalid Traffic)** 
 - **Canonical id:** `dea:metric-wasted-spend-rate-invalid-traffic`
 - **Name:** Wasted Spend Rate (Invalid Traffic)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WSRIVT
 
@@ -23,7 +23,7 @@ Spend on Invalid Traffic / Total Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

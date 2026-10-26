@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Co-Innovation Project Yield** (CIPY) i
 - **Canonical id:** `dea:metric-co-innovation-project-yield`
 - **Name:** Co-Innovation Project Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CIPY
 
@@ -27,7 +27,7 @@ Co-Innovation Projects Reaching Market / Projects Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

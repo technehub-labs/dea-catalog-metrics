@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Service Coverage Ratio (Deep Dive
 - **Canonical id:** `dea:metric-debt-service-coverage-ratio-deep-dive`
 - **Name:** Debt Service Coverage Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSCRDD
 

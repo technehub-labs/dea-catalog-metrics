@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Rate in Contact Center** (CT
 - **Canonical id:** `dea:metric-attrition-rate-in-contact-center`
 - **Name:** Attrition Rate in Contact Center
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTR-AR
 
@@ -27,7 +27,7 @@ Agent Departures / Average Agent Headcount
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

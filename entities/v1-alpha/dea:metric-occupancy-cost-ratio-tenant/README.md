@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Cost Ratio (Tenant)** (OCR-R
 - **Canonical id:** `dea:metric-occupancy-cost-ratio-tenant`
 - **Name:** Occupancy Cost Ratio (Tenant)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OCR-RE
 
@@ -23,7 +23,7 @@ Tenant Occupancy Cost / Tenant Sales
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bug Discovery-to-Fix Lead Time (Gaming
 - **Canonical id:** `dea:metric-bug-discovery-to-fix-lead-time-gaming`
 - **Name:** Bug Discovery-to-Fix Lead Time (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BDFL
 
@@ -23,8 +23,8 @@ Days from Bug Report to Resolved
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

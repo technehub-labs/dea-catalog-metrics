@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quick Ratio (Deep Dive)** (QRDD) in th
 - **Canonical id:** `dea:metric-quick-ratio-deep-dive`
 - **Name:** Quick Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QRDD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Drag Impact** (CDI-IP) in the Ope
 - **Canonical id:** `dea:metric-cash-drag-impact`
 - **Name:** Cash Drag Impact
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDI-IP
 
@@ -23,7 +23,7 @@ Return Lost to Cash Position vs Benchmark
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

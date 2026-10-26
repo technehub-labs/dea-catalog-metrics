@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Remaining** (EBREM) in th
 - **Canonical id:** `dea:metric-error-budget-remaining`
 - **Name:** Error Budget Remaining
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBREM
 
@@ -27,7 +27,7 @@ Allowed Errors minus Consumed Errors / Allowed Errors
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

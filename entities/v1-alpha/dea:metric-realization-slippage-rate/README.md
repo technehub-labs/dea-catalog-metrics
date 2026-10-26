@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Realization Slippage Rate** (RSR-P) in
 - **Canonical id:** `dea:metric-realization-slippage-rate`
 - **Name:** Realization Slippage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSR-P
 
@@ -27,7 +27,7 @@ Benefits Realized Later than Plan / Planned Benefits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

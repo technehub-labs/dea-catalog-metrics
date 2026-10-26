@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assumed Breach Success Rate** (ABSR) i
 - **Canonical id:** `dea:metric-assumed-breach-success-rate`
 - **Name:** Assumed Breach Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABSR
 
@@ -27,7 +27,7 @@ Objectives Achieved by Red Team / Objectives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

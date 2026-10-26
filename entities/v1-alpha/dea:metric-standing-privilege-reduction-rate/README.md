@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standing Privilege Reduction Rate** (S
 - **Canonical id:** `dea:metric-standing-privilege-reduction-rate`
 - **Name:** Standing Privilege Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPRR
 
@@ -27,7 +27,7 @@ Just-in-Time Access Grants / Privileged Access Grants
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

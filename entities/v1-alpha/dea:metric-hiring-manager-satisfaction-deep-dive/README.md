@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hiring Manager Satisfaction (Deep Dive
 - **Canonical id:** `dea:metric-hiring-manager-satisfaction-deep-dive`
 - **Name:** Hiring Manager Satisfaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HMSATD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project IRR Realization (Development)*
 - **Canonical id:** `dea:metric-project-irr-realization-development`
 - **Name:** Project IRR Realization (Development)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIRR
 
@@ -27,7 +27,7 @@ Realized IRR vs Underwritten IRR / Underwritten IRR
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

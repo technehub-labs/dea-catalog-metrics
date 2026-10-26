@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Risk Tiering Coverage** (MRTC) i
 - **Canonical id:** `dea:metric-model-risk-tiering-coverage`
 - **Name:** Model Risk Tiering Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRTC
 
@@ -27,7 +27,7 @@ Models Assigned Risk Tier / Models in Inventory
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

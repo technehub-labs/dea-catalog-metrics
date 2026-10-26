@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Complaints per 1,000 Covers** (G
 - **Canonical id:** `dea:metric-guest-complaints-per-1-000-covers`
 - **Name:** Guest Complaints per 1,000 Covers
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GCPC
 
@@ -23,8 +23,8 @@ Complaints / Covers Served x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Open Readiness Completion Rate** (
 - **Canonical id:** `dea:metric-pre-open-readiness-completion-rate`
 - **Name:** Pre-Open Readiness Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PORCR-T
 
@@ -23,7 +23,7 @@ Trading Systems Ready by Pre-Open Deadline / Systems
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

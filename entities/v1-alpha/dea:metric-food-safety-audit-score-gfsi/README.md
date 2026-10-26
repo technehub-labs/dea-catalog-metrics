@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Safety Audit Score (GFSI)** (FSAS
 - **Canonical id:** `dea:metric-food-safety-audit-score-gfsi`
 - **Name:** Food Safety Audit Score (GFSI)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSAS
 

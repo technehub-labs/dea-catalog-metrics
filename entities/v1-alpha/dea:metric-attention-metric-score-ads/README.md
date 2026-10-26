@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attention Metric Score (Ads)** (AMS) i
 - **Canonical id:** `dea:metric-attention-metric-score-ads`
 - **Name:** Attention Metric Score (Ads)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMS
 

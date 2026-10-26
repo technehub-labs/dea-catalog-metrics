@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Effectiveness Index** (CEI)
 - **Canonical id:** `dea:metric-collection-effectiveness-index`
 - **Name:** Collection Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEI
 
@@ -27,7 +27,7 @@ Collected Receivables / Receivables Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

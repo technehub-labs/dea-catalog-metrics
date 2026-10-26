@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Yield** (FPY) in the OpenDE
 - **Canonical id:** `dea:metric-first-pass-yield`
 - **Name:** First Pass Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPY
 
@@ -23,7 +23,7 @@ Units Passing All Processes Without Rework / Units Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

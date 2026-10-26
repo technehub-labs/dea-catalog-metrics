@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Finding Remediation Cycle T
 - **Canonical id:** `dea:metric-compliance-finding-remediation-cycle-time`
 - **Name:** Compliance Finding Remediation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFRC
 
@@ -23,8 +23,8 @@ Days from Finding to Verified Remediation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

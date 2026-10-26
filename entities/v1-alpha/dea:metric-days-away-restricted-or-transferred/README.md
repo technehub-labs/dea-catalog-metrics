@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Away, Restricted, or Transferred*
 - **Canonical id:** `dea:metric-days-away-restricted-or-transferred`
 - **Name:** Days Away, Restricted, or Transferred
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DART
 

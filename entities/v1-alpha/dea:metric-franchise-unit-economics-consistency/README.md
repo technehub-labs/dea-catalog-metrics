@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchise Unit Economics Consistency**
 - **Canonical id:** `dea:metric-franchise-unit-economics-consistency`
 - **Name:** Franchise Unit Economics Consistency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FUEC
 
@@ -27,7 +27,7 @@ Units within EBITDA Band / Total Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Retention Coverage (Leavers)
 - **Canonical id:** `dea:metric-knowledge-retention-coverage-leavers`
 - **Name:** Knowledge Retention Coverage (Leavers)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KRC
 
@@ -23,7 +23,7 @@ Leavers with Documented Handover of Critical Knowledge / Leavers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

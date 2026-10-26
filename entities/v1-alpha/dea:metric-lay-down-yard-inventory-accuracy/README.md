@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lay-down Yard Inventory Accuracy** (LY
 - **Canonical id:** `dea:metric-lay-down-yard-inventory-accuracy`
 - **Name:** Lay-down Yard Inventory Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LYIA
 
@@ -23,7 +23,7 @@ Materials Tracked Accurately / Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

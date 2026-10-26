@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Retention Rate** (FRR) in t
 - **Canonical id:** `dea:metric-franchisee-retention-rate`
 - **Name:** Franchisee Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FRR
 
@@ -27,7 +27,7 @@ Franchisees Renewing or Continuing / Franchisees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

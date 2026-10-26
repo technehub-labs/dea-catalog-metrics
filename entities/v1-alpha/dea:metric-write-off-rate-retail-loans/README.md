@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Write-Off Rate (Retail Loans)** (WORL)
 - **Canonical id:** `dea:metric-write-off-rate-retail-loans`
 - **Name:** Write-Off Rate (Retail Loans)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WORL
 
@@ -27,7 +27,7 @@ Written-Off Loans / Average Gross Loans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortgage Offer Fall-Through Rate** (MO
 - **Canonical id:** `dea:metric-mortgage-offer-fall-through-rate`
 - **Name:** Mortgage Offer Fall-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MOFTR
 
@@ -23,7 +23,7 @@ Offers Not Proceeding to Completion / Offers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

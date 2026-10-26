@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Recovery per Performance** (CRPP)
 - **Canonical id:** `dea:metric-cost-recovery-per-performance`
 - **Name:** Cost Recovery per Performance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRPP
 

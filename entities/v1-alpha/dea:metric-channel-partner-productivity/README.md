@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Partner Productivity** (CPP-CD
 - **Canonical id:** `dea:metric-channel-partner-productivity`
 - **Name:** Channel Partner Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPP-CD
 

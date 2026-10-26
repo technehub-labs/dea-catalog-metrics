@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flow Efficiency (Deep Dive)** (FE-D) i
 - **Canonical id:** `dea:metric-flow-efficiency-deep-dive`
 - **Name:** Flow Efficiency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FE-D
 
@@ -27,7 +27,7 @@ Active Work Time / Total Lead Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

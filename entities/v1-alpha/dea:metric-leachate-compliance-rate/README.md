@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leachate Compliance Rate** (LCR-W) in 
 - **Canonical id:** `dea:metric-leachate-compliance-rate`
 - **Name:** Leachate Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCR-W
 
@@ -27,7 +27,7 @@ Leachate Samples within Discharge Limits / Samples
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Occupancy Rate (Contact Center)*
 - **Canonical id:** `dea:metric-agent-occupancy-rate-contact-center`
 - **Name:** Agent Occupancy Rate (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AOR-CC
 
@@ -23,7 +23,7 @@ Handle Time / Scheduled Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

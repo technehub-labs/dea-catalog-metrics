@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SAST Pipeline Coverage** (SASTPC) in t
 - **Canonical id:** `dea:metric-sast-pipeline-coverage`
 - **Name:** SAST Pipeline Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SASTPC
 
@@ -23,7 +23,7 @@ Repositories with Static Analysis in Pipeline / Repositories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

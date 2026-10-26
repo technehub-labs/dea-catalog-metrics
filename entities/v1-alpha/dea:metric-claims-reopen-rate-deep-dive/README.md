@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Reopen Rate (Deep Dive)** (COR)
 - **Canonical id:** `dea:metric-claims-reopen-rate-deep-dive`
 - **Name:** Claims Reopen Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COR
 
@@ -23,7 +23,7 @@ Claims Reopened after Closure / Claims Closed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

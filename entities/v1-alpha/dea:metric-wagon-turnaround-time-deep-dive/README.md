@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wagon Turnaround Time (Deep Dive)** (W
 - **Canonical id:** `dea:metric-wagon-turnaround-time-deep-dive`
 - **Name:** Wagon Turnaround Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WTT-D
 
@@ -27,8 +27,8 @@ Days from Load to Reload
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

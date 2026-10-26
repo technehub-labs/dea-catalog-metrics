@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Issue Aging Index** (IAI-P) in the Ope
 - **Canonical id:** `dea:metric-issue-aging-index`
 - **Name:** Issue Aging Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IAI-P
 
@@ -23,8 +23,8 @@ Average Age of Open Project Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

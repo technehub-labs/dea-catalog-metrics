@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score** (NPS) in the Open
 - **Canonical id:** `dea:metric-net-promoter-score`
 - **Name:** Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPS
 

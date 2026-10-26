@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Survey Completion Rate** (RSCR) i
 - **Canonical id:** `dea:metric-risk-survey-completion-rate`
 - **Name:** Risk Survey Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RSCR
 
@@ -23,7 +23,7 @@ Surveys Completed before Binding / Risks Requiring Survey
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

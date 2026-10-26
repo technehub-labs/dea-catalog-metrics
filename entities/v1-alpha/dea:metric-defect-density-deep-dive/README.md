@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density (Deep Dive)** (DD-D) in
 - **Canonical id:** `dea:metric-defect-density-deep-dive`
 - **Name:** Defect Density (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DD-D
 
@@ -27,8 +27,8 @@ Killer Defects per Square Centimetre
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

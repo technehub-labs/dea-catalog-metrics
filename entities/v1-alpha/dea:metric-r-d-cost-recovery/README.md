@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Cost Recovery** (RDCC) in the Open
 - **Canonical id:** `dea:metric-r-d-cost-recovery`
 - **Name:** R&D Cost Recovery
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDCC
 

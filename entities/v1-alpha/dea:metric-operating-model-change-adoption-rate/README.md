@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Change Adoption Rate**
 - **Canonical id:** `dea:metric-operating-model-change-adoption-rate`
 - **Name:** Operating Model Change Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMCAR
 
@@ -27,7 +27,7 @@ Adopted Changes vs Rollout Plan / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

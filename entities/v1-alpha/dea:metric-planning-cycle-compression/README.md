@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planning Cycle Compression** (PCC-FP) 
 - **Canonical id:** `dea:metric-planning-cycle-compression`
 - **Name:** Planning Cycle Compression
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCC-FP
 
@@ -23,7 +23,7 @@ Reduction in Cycle Days vs Prior Year / Prior Year
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

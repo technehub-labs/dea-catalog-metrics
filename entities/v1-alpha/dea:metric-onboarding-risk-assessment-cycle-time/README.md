@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Risk Assessment Cycle Time*
 - **Canonical id:** `dea:metric-onboarding-risk-assessment-cycle-time`
 - **Name:** Onboarding Risk Assessment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORACT
 
@@ -23,8 +23,8 @@ Days from Vendor Request to Risk-Cleared Onboarding
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

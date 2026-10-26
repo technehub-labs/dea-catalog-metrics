@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visual Management Board Effectiveness*
 - **Canonical id:** `dea:metric-visual-management-board-effectiveness`
 - **Name:** Visual Management Board Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VMBE
 
@@ -23,7 +23,7 @@ Boards Reviewed at Required Cadence / Boards Deployed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chemical Spill Containment Rate** (CSC
 - **Canonical id:** `dea:metric-chemical-spill-containment-rate`
 - **Name:** Chemical Spill Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCR2
 
@@ -23,7 +23,7 @@ Spills Contained to Bunded Area / Spills
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

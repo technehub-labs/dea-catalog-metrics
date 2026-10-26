@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Class Size** (ACS) in the Open
 - **Canonical id:** `dea:metric-average-class-size`
 - **Name:** Average Class Size
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACS
 

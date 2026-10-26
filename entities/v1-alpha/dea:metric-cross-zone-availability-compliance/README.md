@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Zone Availability Compliance** (
 - **Canonical id:** `dea:metric-cross-zone-availability-compliance`
 - **Name:** Cross-Zone Availability Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CZAC
 
@@ -27,7 +27,7 @@ Services Meeting Zone Redundancy Standard / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

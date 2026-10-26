@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bot Change Deployment Frequency** (BCD
 - **Canonical id:** `dea:metric-bot-change-deployment-frequency`
 - **Name:** Bot Change Deployment Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCDF
 

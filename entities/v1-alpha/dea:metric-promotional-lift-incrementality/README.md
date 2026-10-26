@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotional Lift Incrementality** (PLI
 - **Canonical id:** `dea:metric-promotional-lift-incrementality`
 - **Name:** Promotional Lift Incrementality
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLI-MK
 

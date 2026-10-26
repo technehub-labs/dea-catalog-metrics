@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Layup Days** (LUD) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-layup-days`
 - **Name:** Layup Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LUD
 
@@ -27,7 +27,7 @@ Vessel Days Idle / Total Vessel Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

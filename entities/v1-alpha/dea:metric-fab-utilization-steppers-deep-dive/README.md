@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fab Utilization - Steppers (Deep Dive)
 - **Canonical id:** `dea:metric-fab-utilization-steppers-deep-dive`
 - **Name:** Fab Utilization - Steppers (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FUS-D
 
@@ -27,7 +27,7 @@ Exposure Tool Productive Time / Available Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

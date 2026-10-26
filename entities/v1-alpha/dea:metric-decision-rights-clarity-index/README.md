@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Rights Clarity Index** (DRCI)
 - **Canonical id:** `dea:metric-decision-rights-clarity-index`
 - **Name:** Decision Rights Clarity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCI
 

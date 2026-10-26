@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Live Sports Uptime (Streaming)** (LSUS
 - **Canonical id:** `dea:metric-live-sports-uptime-streaming`
 - **Name:** Live Sports Uptime (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LSUS
 
@@ -27,7 +27,7 @@ Live Stream Uptime during Events / Event Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

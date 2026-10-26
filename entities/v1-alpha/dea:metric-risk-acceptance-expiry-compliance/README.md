@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Acceptance Expiry Compliance** (R
 - **Canonical id:** `dea:metric-risk-acceptance-expiry-compliance`
 - **Name:** Risk Acceptance Expiry Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RAEC
 
@@ -23,7 +23,7 @@ Accepted Risks Reviewed before Expiry / Accepted Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

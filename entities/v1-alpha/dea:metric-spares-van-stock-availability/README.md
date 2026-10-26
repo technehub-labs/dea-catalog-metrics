@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Van Stock Availability** (SVSA)
 - **Canonical id:** `dea:metric-spares-van-stock-availability`
 - **Name:** Spares Van Stock Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVSA
 
@@ -23,7 +23,7 @@ Jobs Completed without Spares Stockout / Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

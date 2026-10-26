@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Quality Incoming Rate (Deep D
 - **Canonical id:** `dea:metric-supplier-quality-incoming-rate-deep-dive`
 - **Name:** Supplier Quality Incoming Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SQIR-D
 
@@ -23,7 +23,7 @@ Supplier Lots Accepted / Lots Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

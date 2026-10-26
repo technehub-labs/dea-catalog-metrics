@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bank Account Rationalization** (BAR) i
 - **Canonical id:** `dea:metric-bank-account-rationalization`
 - **Name:** Bank Account Rationalization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAR
 
@@ -27,7 +27,7 @@ Active Bank Accounts / Total Bank Accounts Held
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Efferent Coupling (Fan-Out)** (EFFC) i
 - **Canonical id:** `dea:metric-efferent-coupling-fan-out`
 - **Name:** Efferent Coupling (Fan-Out)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EFFC
 

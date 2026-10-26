@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Invested Capital** (ROIC) in
 - **Canonical id:** `dea:metric-return-on-invested-capital`
 - **Name:** Return on Invested Capital
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROIC
 
@@ -27,7 +27,7 @@ NOPAT / Invested Capital
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

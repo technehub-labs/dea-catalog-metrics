@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Discovery Coverage (PII)** (PDDC)
 - **Canonical id:** `dea:metric-data-discovery-coverage-pii`
 - **Name:** Data Discovery Coverage (PII)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDDC
 
@@ -23,7 +23,7 @@ Systems Scanned for Personal Data / Systems in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

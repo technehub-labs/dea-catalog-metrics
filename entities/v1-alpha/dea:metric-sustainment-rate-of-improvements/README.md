@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustainment Rate of Improvements** (SR
 - **Canonical id:** `dea:metric-sustainment-rate-of-improvements`
 - **Name:** Sustainment Rate of Improvements
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRI
 
@@ -27,7 +27,7 @@ Improvements Sustaining Gains after 6 Months / Improvements Closed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

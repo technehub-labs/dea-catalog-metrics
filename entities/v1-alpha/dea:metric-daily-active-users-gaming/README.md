@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users (Gaming)** (DAU-G) 
 - **Canonical id:** `dea:metric-daily-active-users-gaming`
 - **Name:** Daily Active Users (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DAU-G
 

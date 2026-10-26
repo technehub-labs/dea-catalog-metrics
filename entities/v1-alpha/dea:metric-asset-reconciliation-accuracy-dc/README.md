@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Reconciliation Accuracy (DC)** (
 - **Canonical id:** `dea:metric-asset-reconciliation-accuracy-dc`
 - **Name:** Asset Reconciliation Accuracy (DC)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARA-D
 
@@ -23,7 +23,7 @@ CMDB Records Verified / Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

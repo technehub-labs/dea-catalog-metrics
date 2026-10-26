@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blaine Fineness Consistency** (BFC) in
 - **Canonical id:** `dea:metric-blaine-fineness-consistency`
 - **Name:** Blaine Fineness Consistency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BFC
 
@@ -23,7 +23,7 @@ Samples within Blaine Range / Samples
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

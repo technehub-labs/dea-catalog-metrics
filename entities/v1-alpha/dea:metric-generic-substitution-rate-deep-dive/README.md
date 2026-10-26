@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Generic Substitution Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-generic-substitution-rate-deep-dive`
 - **Name:** Generic Substitution Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GSR-D
 
@@ -27,7 +27,7 @@ Generic Fills / Fillable Prescriptions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

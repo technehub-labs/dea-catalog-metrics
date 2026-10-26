@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Forecast Accuracy** (CFA) in the 
 - **Canonical id:** `dea:metric-cash-forecast-accuracy`
 - **Name:** Cash Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFA
 
@@ -27,7 +27,7 @@ Measures how close forecasted cash positions land to actuals. It matters because
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

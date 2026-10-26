@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mandate Transparency Score** (MTS) in 
 - **Canonical id:** `dea:metric-mandate-transparency-score`
 - **Name:** Mandate Transparency Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTS
 

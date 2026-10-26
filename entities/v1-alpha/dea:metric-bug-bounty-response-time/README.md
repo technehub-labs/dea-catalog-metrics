@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bug Bounty Response Time** (BBRT-DSO) 
 - **Canonical id:** `dea:metric-bug-bounty-response-time`
 - **Name:** Bug Bounty Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BBRT-DSO
 
@@ -23,8 +23,8 @@ Hours to First Response on Valid Bug Bounty Report
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Diversion Rate (Events)** (WDR-E
 - **Canonical id:** `dea:metric-waste-diversion-rate-events`
 - **Name:** Waste Diversion Rate (Events)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WDR-E
 
@@ -23,7 +23,7 @@ Waste Diverted from Landfill / Total Waste
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

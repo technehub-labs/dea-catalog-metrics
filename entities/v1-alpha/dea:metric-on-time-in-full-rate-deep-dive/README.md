@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time In-Full Rate (Deep Dive)** (OT
 - **Canonical id:** `dea:metric-on-time-in-full-rate-deep-dive`
 - **Name:** On-Time In-Full Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OTIFDD
 
@@ -27,7 +27,7 @@ Order Lines On Time and Complete / Order Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

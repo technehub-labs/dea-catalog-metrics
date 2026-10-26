@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cut Order Plan Efficiency** (COPE) in 
 - **Canonical id:** `dea:metric-cut-order-plan-efficiency`
 - **Name:** Cut Order Plan Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COPE
 
@@ -23,7 +23,7 @@ Fabric Utilized in Cut / Fabric Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

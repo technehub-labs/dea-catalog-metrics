@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Year Retention Rate (New Hires)*
 - **Canonical id:** `dea:metric-first-year-retention-rate-new-hires`
 - **Name:** First-Year Retention Rate (New Hires)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FYRR
 
@@ -27,7 +27,7 @@ Hires Retained at 12 Months / Hires
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

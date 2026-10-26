@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Cost per Audit Day** (ACPAD) in 
 - **Canonical id:** `dea:metric-audit-cost-per-audit-day`
 - **Name:** Audit Cost per Audit Day
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACPAD
 

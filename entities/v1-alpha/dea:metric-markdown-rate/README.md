@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Markdown Rate** (MDR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-markdown-rate`
 - **Name:** Markdown Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDR
 
@@ -27,7 +27,7 @@ Markdown Value / Gross Sales Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

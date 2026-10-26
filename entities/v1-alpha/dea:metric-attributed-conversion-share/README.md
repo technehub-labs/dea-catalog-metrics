@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attributed Conversion Share** (ACS) in
 - **Canonical id:** `dea:metric-attributed-conversion-share`
 - **Name:** Attributed Conversion Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACS
 
@@ -23,7 +23,7 @@ Conversions with Attribution Confidence / Total Conversions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score Movement (Deep Dive
 - **Canonical id:** `dea:metric-net-promoter-score-movement-deep-dive`
 - **Name:** Net Promoter Score Movement (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPSM-D
 

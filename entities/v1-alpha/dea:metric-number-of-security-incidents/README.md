@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Number of Security Incidents** (NSI) i
 - **Canonical id:** `dea:metric-number-of-security-incidents`
 - **Name:** Number of Security Incidents
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSI
 

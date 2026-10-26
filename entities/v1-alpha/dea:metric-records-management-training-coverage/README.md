@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Records Management Training Coverage**
 - **Canonical id:** `dea:metric-records-management-training-coverage`
 - **Name:** Records Management Training Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RMTC
 
@@ -23,7 +23,7 @@ Staff Completing RIM Training / Staff Creating Records
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

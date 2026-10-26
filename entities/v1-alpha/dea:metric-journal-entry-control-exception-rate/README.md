@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journal Entry Control Exception Rate**
 - **Canonical id:** `dea:metric-journal-entry-control-exception-rate`
 - **Name:** Journal Entry Control Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JECE
 
@@ -23,8 +23,8 @@ Manual Journal Entries Breaching Control / Manual Entries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

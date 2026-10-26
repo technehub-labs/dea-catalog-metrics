@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Capability Heat Map Coverage*
 - **Canonical id:** `dea:metric-business-capability-heat-map-coverage`
 - **Name:** Business Capability Heat Map Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCHMC
 
@@ -27,7 +27,7 @@ Capabilities with Performance and Health Ratings / Capabilities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

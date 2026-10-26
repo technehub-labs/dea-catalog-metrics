@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Serving Availability** (MSAV) in
 - **Canonical id:** `dea:metric-model-serving-availability`
 - **Name:** Model Serving Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSAV
 
@@ -23,7 +23,7 @@ Serving Endpoint Uptime / Required Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

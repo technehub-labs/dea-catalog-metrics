@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Landscape Coverage Score** (TLC
 - **Canonical id:** `dea:metric-threat-landscape-coverage-score`
 - **Name:** Threat Landscape Coverage Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLCS
 

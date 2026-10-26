@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scorecard Discrimination (Gini - Deep 
 - **Canonical id:** `dea:metric-scorecard-discrimination-gini-deep-dive`
 - **Name:** Scorecard Discrimination (Gini - Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GINI-D
 

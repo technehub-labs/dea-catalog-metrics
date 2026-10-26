@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Resolution of Citizen Reque
 - **Canonical id:** `dea:metric-first-time-resolution-of-citizen-requests`
 - **Name:** First-Time Resolution of Citizen Requests
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTCR
 
@@ -27,7 +27,7 @@ Requests Resolved without Follow-up / Requests Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

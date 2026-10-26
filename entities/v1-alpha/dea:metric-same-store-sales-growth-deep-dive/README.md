@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Same-Store Sales Growth (Deep Dive)** 
 - **Canonical id:** `dea:metric-same-store-sales-growth-deep-dive`
 - **Name:** Same-Store Sales Growth (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSSGDD
 
@@ -27,7 +27,7 @@ Comparable Store Revenue Change Year-over-Year
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

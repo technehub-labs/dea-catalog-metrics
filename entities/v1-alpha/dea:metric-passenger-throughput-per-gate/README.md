@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Throughput per Gate** (PTPG)
 - **Canonical id:** `dea:metric-passenger-throughput-per-gate`
 - **Name:** Passenger Throughput per Gate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTPG
 

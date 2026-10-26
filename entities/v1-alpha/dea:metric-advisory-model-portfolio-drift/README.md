@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advisory Model Portfolio Drift** (AMPD
 - **Canonical id:** `dea:metric-advisory-model-portfolio-drift`
 - **Name:** Advisory Model Portfolio Drift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AMPD
 
@@ -23,7 +23,7 @@ Client Allocations Deviating beyond Tolerance / Client Allocations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

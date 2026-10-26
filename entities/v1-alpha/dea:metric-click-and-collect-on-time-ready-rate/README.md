@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Click-and-Collect On-Time Ready Rate**
 - **Canonical id:** `dea:metric-click-and-collect-on-time-ready-rate`
 - **Name:** Click-and-Collect On-Time Ready Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCTR
 
@@ -23,7 +23,7 @@ Orders Ready by Promised Time / Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

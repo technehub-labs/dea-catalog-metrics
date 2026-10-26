@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Excursion Rate** (CCER) in 
 - **Canonical id:** `dea:metric-cold-chain-excursion-rate`
 - **Name:** Cold Chain Excursion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCER
 
@@ -23,7 +23,7 @@ Refrigerated Items with Temperature Excursion / Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

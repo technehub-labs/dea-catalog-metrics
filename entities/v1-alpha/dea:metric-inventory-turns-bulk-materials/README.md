@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turns (Bulk Materials)** (IT
 - **Canonical id:** `dea:metric-inventory-turns-bulk-materials`
 - **Name:** Inventory Turns (Bulk Materials)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITBM
 

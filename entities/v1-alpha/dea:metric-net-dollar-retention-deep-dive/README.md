@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Dollar Retention (Deep Dive)** (ND
 - **Canonical id:** `dea:metric-net-dollar-retention-deep-dive`
 - **Name:** Net Dollar Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NDRD
 
@@ -27,7 +27,7 @@ Cohort Revenue Now / Same Cohort Prior Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

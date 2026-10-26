@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned Maintenance Window Compliance*
 - **Canonical id:** `dea:metric-planned-maintenance-window-compliance`
 - **Name:** Planned Maintenance Window Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMWC
 
@@ -23,7 +23,7 @@ Maintenance Completed in Window / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

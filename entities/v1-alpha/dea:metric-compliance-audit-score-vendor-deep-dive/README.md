@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Audit Score - Vendor (Deep 
 - **Canonical id:** `dea:metric-compliance-audit-score-vendor-deep-dive`
 - **Name:** Compliance Audit Score - Vendor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CASV-D
 

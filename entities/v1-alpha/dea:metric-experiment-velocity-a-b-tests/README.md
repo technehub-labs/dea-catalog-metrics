@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Velocity (A/B Tests)** (EXV
 - **Canonical id:** `dea:metric-experiment-velocity-a-b-tests`
 - **Name:** Experiment Velocity (A/B Tests)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EXV
 

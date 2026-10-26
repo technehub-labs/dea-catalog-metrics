@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Valuation Policy Adherence Rate** (VPA
 - **Canonical id:** `dea:metric-valuation-policy-adherence-rate`
 - **Name:** Valuation Policy Adherence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPAR-IM
 
@@ -27,7 +27,7 @@ Valuations per Approved Methodology / Valuations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wafer Fab Cycle Time (Deep Dive)** (WF
 - **Canonical id:** `dea:metric-wafer-fab-cycle-time-deep-dive`
 - **Name:** Wafer Fab Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WFCT-D
 
@@ -27,8 +27,8 @@ Days from Wafer Start to Wafer Out
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

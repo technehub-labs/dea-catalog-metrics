@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Architect Review Coverage** (
 - **Canonical id:** `dea:metric-security-architect-review-coverage`
 - **Name:** Security Architect Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SARC
 
@@ -27,7 +27,7 @@ Material Changes with Security Review / Material Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

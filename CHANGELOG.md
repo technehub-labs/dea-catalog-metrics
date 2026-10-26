@@ -7,6 +7,15 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 ### Added
+- CR-MET-017: canonical unit references at ingestion (Q19 ruling). The
+  seed-value map gains a `unit_ref` section resolving the seed's 13 flat and
+  plural spellings to the canonical form (`dea:unit-percent` to
+  `dea:unit-ratio-percent`, `dea:unit-minutes` to `dea:unit-minute`, and the
+  same singularisation for 11 more). Unit ids resolve by exact match, not by
+  the hyphen normalisation the classification axes use. The 4423 candidate
+  records are refreshed and bump to version 1.0.1 with a change-history
+  entry; the 5 admitted records are unchanged. No record carries a flat or
+  plural unit reference after the refresh.
 - CR-MET-016: seed ingestion and the 4428-record corpus. The
   candidate-metrics seed workbook is committed at
   `seeds/open-deam-candidate-metrics-seed.xlsx` (sha-256

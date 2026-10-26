@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interface Error Rate (Deep Dive)** (IE
 - **Canonical id:** `dea:metric-interface-error-rate-deep-dive`
 - **Name:** Interface Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IER-D
 
@@ -23,7 +23,7 @@ Failed Interface Messages / Messages
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

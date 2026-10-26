@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assortment Depth Compliance** (ADC-RT)
 - **Canonical id:** `dea:metric-assortment-depth-compliance`
 - **Name:** Assortment Depth Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADC-RT
 
@@ -23,7 +23,7 @@ Stores Holding Core Assortment / Stores
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leading Indicator Share** (LIS-BSC) in
 - **Canonical id:** `dea:metric-leading-indicator-share`
 - **Name:** Leading Indicator Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LIS-BSC
 
@@ -27,7 +27,7 @@ Leading Measures / Total BSC Measures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

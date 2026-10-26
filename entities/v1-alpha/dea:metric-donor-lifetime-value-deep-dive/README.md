@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donor Lifetime Value (Deep Dive)** (DL
 - **Canonical id:** `dea:metric-donor-lifetime-value-deep-dive`
 - **Name:** Donor Lifetime Value (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLTV-D
 

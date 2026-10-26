@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Latency - First Token** (LLMFTL) i
 - **Canonical id:** `dea:metric-llm-latency-first-token`
 - **Name:** LLM Latency - First Token
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LLMFTL
 
@@ -23,8 +23,8 @@ Milliseconds to First Generated Token
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

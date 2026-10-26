@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App ANR Rate (App Not Responding)** (A
 - **Canonical id:** `dea:metric-app-anr-rate-app-not-responding`
 - **Name:** App ANR Rate (App Not Responding)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ANRR
 
@@ -23,8 +23,8 @@ ANR Events / Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

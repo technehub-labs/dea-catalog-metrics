@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blended ROAS by Acquisition Stage** (B
 - **Canonical id:** `dea:metric-blended-roas-by-acquisition-stage`
 - **Name:** Blended ROAS by Acquisition Stage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRAS
 

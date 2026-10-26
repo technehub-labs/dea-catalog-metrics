@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Operating Income per Asset** (NOIA
 - **Canonical id:** `dea:metric-net-operating-income-per-asset`
 - **Name:** Net Operating Income per Asset
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NOIA
 

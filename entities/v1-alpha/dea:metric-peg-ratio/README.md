@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PEG Ratio** (PEGR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-peg-ratio`
 - **Name:** PEG Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PEGR
 

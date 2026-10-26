@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Piotroski F-Score** (PIOF) in the Open
 - **Canonical id:** `dea:metric-piotroski-f-score`
 - **Name:** Piotroski F-Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIOF
 

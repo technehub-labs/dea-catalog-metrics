@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Guideline Adherence Rate** (C
 - **Canonical id:** `dea:metric-clinical-guideline-adherence-rate`
 - **Name:** Clinical Guideline Adherence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CGAR
 
@@ -27,7 +27,7 @@ Care Decisions per Guideline / Care Decisions Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

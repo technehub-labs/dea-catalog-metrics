@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective-to-Preventive Work Ratio (D
 - **Canonical id:** `dea:metric-corrective-to-preventive-work-ratio-deep-dive`
 - **Name:** Corrective-to-Preventive Work Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPPW-D
 

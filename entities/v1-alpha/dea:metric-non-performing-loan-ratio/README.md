@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Performing Loan Ratio** (NPL) in t
 - **Canonical id:** `dea:metric-non-performing-loan-ratio`
 - **Name:** Non-Performing Loan Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPL
 
@@ -27,7 +27,7 @@ Non-Performing Loans / Gross Loans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Invoice Touchless Processing Rate** (I
 - **Canonical id:** `dea:metric-invoice-touchless-processing-rate`
 - **Name:** Invoice Touchless Processing Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITPR
 
@@ -23,7 +23,7 @@ Invoices Processed without Manual Intervention / Invoices
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

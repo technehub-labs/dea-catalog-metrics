@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Year Retention Rate (Cohort)** (
 - **Canonical id:** `dea:metric-first-year-retention-rate-cohort`
 - **Name:** First-Year Retention Rate (Cohort)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FYRR-ED
 
@@ -27,7 +27,7 @@ Students Enrolled Year 2 / Entering Cohort
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

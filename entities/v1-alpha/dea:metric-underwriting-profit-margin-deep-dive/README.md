@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Profit Margin (Deep Dive)
 - **Canonical id:** `dea:metric-underwriting-profit-margin-deep-dive`
 - **Name:** Underwriting Profit Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UWPM
 
@@ -27,7 +27,7 @@ Measures underwriting profit - earned premium minus losses, expenses, and reinsu
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Day Performance** (TDP) in 
 - **Canonical id:** `dea:metric-turnaround-day-performance`
 - **Name:** Turnaround Day Performance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDP
 
@@ -23,8 +23,8 @@ Minutes from Last Debarkation to First Embarkation Readiness
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

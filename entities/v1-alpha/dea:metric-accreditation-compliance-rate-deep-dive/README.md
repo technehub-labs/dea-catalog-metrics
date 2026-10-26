@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accreditation Compliance Rate (Deep Di
 - **Canonical id:** `dea:metric-accreditation-compliance-rate-deep-dive`
 - **Name:** Accreditation Compliance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-D
 
@@ -27,7 +27,7 @@ Standards Met at Audit / Standards Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

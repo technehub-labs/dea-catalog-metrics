@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Static Analysis Defect Density** (SADD
 - **Canonical id:** `dea:metric-static-analysis-defect-density`
 - **Name:** Static Analysis Defect Density
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SADD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Civil Servant Productivity Index** (CS
 - **Canonical id:** `dea:metric-civil-servant-productivity-index`
 - **Name:** Civil Servant Productivity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSPI
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Roaming Revenue per User** (RRPU) in t
 - **Canonical id:** `dea:metric-roaming-revenue-per-user`
 - **Name:** Roaming Revenue per User
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRPU
 

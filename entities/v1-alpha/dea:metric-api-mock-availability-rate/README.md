@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Mock Availability Rate** (APIMK) i
 - **Canonical id:** `dea:metric-api-mock-availability-rate`
 - **Name:** API Mock Availability Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIMK
 
@@ -23,7 +23,7 @@ Endpoints with Runnable Mocks / Endpoints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

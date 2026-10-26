@@ -8,7 +8,7 @@ description: App Store Rating (ASR-MOB) measures the economic value created or p
   in the Software sector.
 abbreviation: ASR-MOB
 unit: score
-version: 1.0.0
+version: 1.0.1
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -43,6 +43,9 @@ metadata:
   - cr: CR-MET-016
     date: '2026-10-26'
     change: Ingested from the candidate-metrics seed workbook
+  - cr: CR-MET-017
+    date: '2026-10-26'
+    change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Quality Audit Score** (DQAS-G
 - **Canonical id:** `dea:metric-decision-quality-audit-score`
 - **Name:** Decision Quality Audit Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DQAS-GOV
 

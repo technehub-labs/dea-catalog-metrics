@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchandise Revenue per Attendee** (MR
 - **Canonical id:** `dea:metric-merchandise-revenue-per-attendee`
 - **Name:** Merchandise Revenue per Attendee
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRPA
 

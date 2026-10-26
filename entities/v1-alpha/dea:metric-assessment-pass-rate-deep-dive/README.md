@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assessment Pass Rate (Deep Dive)** (AP
 - **Canonical id:** `dea:metric-assessment-pass-rate-deep-dive`
 - **Name:** Assessment Pass Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APR-D
 
@@ -27,7 +27,7 @@ Learners Passing Assessment / Assessed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

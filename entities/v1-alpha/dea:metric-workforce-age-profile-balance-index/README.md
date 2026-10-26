@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Age Profile Balance Index** 
 - **Canonical id:** `dea:metric-workforce-age-profile-balance-index`
 - **Name:** Workforce Age Profile Balance Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WAPBI
 

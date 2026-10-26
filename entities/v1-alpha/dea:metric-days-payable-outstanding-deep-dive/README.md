@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Payable Outstanding (Deep Dive)**
 - **Canonical id:** `dea:metric-days-payable-outstanding-deep-dive`
 - **Name:** Days Payable Outstanding (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPODD
 
@@ -27,8 +27,8 @@ Average Days from Invoice to Payment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

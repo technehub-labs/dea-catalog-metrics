@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Frequency (Average Exposures)** (AF
 - **Canonical id:** `dea:metric-ad-frequency-average-exposures`
 - **Name:** Ad Frequency (Average Exposures)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFREQ
 

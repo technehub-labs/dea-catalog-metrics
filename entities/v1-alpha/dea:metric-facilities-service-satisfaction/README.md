@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facilities Service Satisfaction** (FSS
 - **Canonical id:** `dea:metric-facilities-service-satisfaction`
 - **Name:** Facilities Service Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSS
 
@@ -27,7 +27,7 @@ Satisfied Facilities Survey Responses / Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

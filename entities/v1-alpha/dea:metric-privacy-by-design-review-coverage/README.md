@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy-by-Design Review Coverage** (P
 - **Canonical id:** `dea:metric-privacy-by-design-review-coverage`
 - **Name:** Privacy-by-Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PBDRC
 
@@ -23,7 +23,7 @@ Features Passing Privacy Design Review / In-Scope Features
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

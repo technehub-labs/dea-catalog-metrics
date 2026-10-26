@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Cost Percentage** (FCP) in the Op
 - **Canonical id:** `dea:metric-food-cost-percentage`
 - **Name:** Food Cost Percentage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCP
 
@@ -27,7 +27,7 @@ Food Cost / Food Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

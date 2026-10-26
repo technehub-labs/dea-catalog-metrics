@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Footfall to Digital Migration R
 - **Canonical id:** `dea:metric-branch-footfall-to-digital-migration-rate`
 - **Name:** Branch Footfall to Digital Migration Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BFDM
 
@@ -27,7 +27,7 @@ Migrated Transactions / Addressable Branch Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

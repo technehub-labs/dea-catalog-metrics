@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchant Churn Rate** (MCR) in the Ope
 - **Canonical id:** `dea:metric-merchant-churn-rate`
 - **Name:** Merchant Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCR
 
@@ -27,7 +27,7 @@ Merchants Lost / Merchants at Start of Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

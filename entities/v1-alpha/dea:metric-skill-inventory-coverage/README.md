@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skill Inventory Coverage** (SIC-W) in 
 - **Canonical id:** `dea:metric-skill-inventory-coverage`
 - **Name:** Skill Inventory Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIC-W
 
@@ -27,7 +27,7 @@ Employees with Current Skills Profile / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

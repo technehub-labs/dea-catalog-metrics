@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human Handoff Containment after Handof
 - **Canonical id:** `dea:metric-human-handoff-containment-after-handoff`
 - **Name:** Human Handoff Containment after Handoff
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HCHH
 
@@ -23,7 +23,7 @@ Handoffs Resolved by Agent without Repeat Contact / Handoffs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

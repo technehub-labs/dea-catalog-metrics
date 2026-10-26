@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Trust Score** (ITS) in the Op
 - **Canonical id:** `dea:metric-internal-trust-score`
 - **Name:** Internal Trust Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITS
 

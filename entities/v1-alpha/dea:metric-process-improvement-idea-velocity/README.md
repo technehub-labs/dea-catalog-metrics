@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Improvement Idea Velocity** (P
 - **Canonical id:** `dea:metric-process-improvement-idea-velocity`
 - **Name:** Process Improvement Idea Velocity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIIV
 
@@ -23,8 +23,8 @@ Improvement Ideas Implemented per 100 FTE per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

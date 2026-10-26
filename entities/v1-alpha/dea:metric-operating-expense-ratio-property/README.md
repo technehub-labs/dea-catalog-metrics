@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Expense Ratio (Property)** (
 - **Canonical id:** `dea:metric-operating-expense-ratio-property`
 - **Name:** Operating Expense Ratio (Property)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OER-P
 
@@ -27,7 +27,7 @@ Operating Expenses / Effective Gross Income
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

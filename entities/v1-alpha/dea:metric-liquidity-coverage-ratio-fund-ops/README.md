@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Coverage Ratio (Fund Ops)** 
 - **Canonical id:** `dea:metric-liquidity-coverage-ratio-fund-ops`
 - **Name:** Liquidity Coverage Ratio (Fund Ops)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCRFO
 

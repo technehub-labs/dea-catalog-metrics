@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fourth-Party Visibility Rate** (FPVR) 
 - **Canonical id:** `dea:metric-fourth-party-visibility-rate`
 - **Name:** Fourth-Party Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPVR
 
@@ -27,7 +27,7 @@ Critical Subprocessors Disclosed and Assessed / Subprocessors Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

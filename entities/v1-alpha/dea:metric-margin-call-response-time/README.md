@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Margin Call Response Time** (MCRT) in 
 - **Canonical id:** `dea:metric-margin-call-response-time`
 - **Name:** Margin Call Response Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MCRT
 
@@ -23,8 +23,8 @@ Time from Call to Funded Response
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

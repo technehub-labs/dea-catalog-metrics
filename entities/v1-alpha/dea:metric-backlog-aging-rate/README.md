@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Aging Rate** (BAG-AG) in the O
 - **Canonical id:** `dea:metric-backlog-aging-rate`
 - **Name:** Backlog Aging Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BAG-AG
 
@@ -23,7 +23,7 @@ Backlog Items Older than Two Quarters / Backlog
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

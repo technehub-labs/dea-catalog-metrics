@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Role Clarity Score** (CRCS) in 
 - **Canonical id:** `dea:metric-crisis-role-clarity-score`
 - **Name:** Crisis Role Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRCS
 

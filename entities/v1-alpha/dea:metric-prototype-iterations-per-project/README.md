@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Iterations per Project** (PI
 - **Canonical id:** `dea:metric-prototype-iterations-per-project`
 - **Name:** Prototype Iterations per Project
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIP
 

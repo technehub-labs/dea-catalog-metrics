@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Execution Time Trend** (TETT-CI) 
 - **Canonical id:** `dea:metric-test-execution-time-trend`
 - **Name:** Test Execution Time Trend
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TETT-CI
 
@@ -23,7 +23,7 @@ Change in Median Test Suite Duration per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Browser or Cross-Device Test Cov
 - **Canonical id:** `dea:metric-cross-browser-or-cross-device-test-coverage`
 - **Name:** Cross-Browser or Cross-Device Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBTC-QA
 
@@ -23,7 +23,7 @@ Supported Configurations Tested / Configurations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure Unit Cost Trend** (IUCT
 - **Canonical id:** `dea:metric-infrastructure-unit-cost-trend`
 - **Name:** Infrastructure Unit Cost Trend
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IUCT-ITFM
 
@@ -27,7 +27,7 @@ Change in per-Unit Infrastructure Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

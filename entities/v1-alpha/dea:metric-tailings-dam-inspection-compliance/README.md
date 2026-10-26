@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tailings Dam Inspection Compliance** (
 - **Canonical id:** `dea:metric-tailings-dam-inspection-compliance`
 - **Name:** Tailings Dam Inspection Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDIC
 
@@ -27,7 +27,7 @@ Inspections per SMP Schedule / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

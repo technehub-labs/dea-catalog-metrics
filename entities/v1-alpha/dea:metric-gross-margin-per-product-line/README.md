@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin per Product Line** (GMPL)
 - **Canonical id:** `dea:metric-gross-margin-per-product-line`
 - **Name:** Gross Margin per Product Line
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GMPL
 
@@ -27,7 +27,7 @@ Aggregates revenue less cost of goods sold at the product-line level, revealing 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

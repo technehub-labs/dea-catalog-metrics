@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Addressable Spend Coverage** (ASC-SS) 
 - **Canonical id:** `dea:metric-addressable-spend-coverage`
 - **Name:** Addressable Spend Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ASC-SS
 
@@ -27,7 +27,7 @@ Spend under Sourcing Management / Total Third-Party Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

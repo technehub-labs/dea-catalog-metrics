@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Sell Attachment Rate (Insurance)
 - **Canonical id:** `dea:metric-cross-sell-attachment-rate-insurance`
 - **Name:** Cross-Sell Attachment Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAR-I
 
@@ -23,7 +23,7 @@ Policies with Additional Coverages / Policies
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

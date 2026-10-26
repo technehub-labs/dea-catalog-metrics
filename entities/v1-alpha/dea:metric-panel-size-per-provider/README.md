@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Panel Size per Provider** (PSP) in the
 - **Canonical id:** `dea:metric-panel-size-per-provider`
 - **Name:** Panel Size per Provider
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSP
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interest Coverage Ratio (Deep Dive)** 
 - **Canonical id:** `dea:metric-interest-coverage-ratio-deep-dive`
 - **Name:** Interest Coverage Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICR-D
 

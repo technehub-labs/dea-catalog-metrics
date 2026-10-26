@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Booking Conversion Rate (Travel)** (BC
 - **Canonical id:** `dea:metric-booking-conversion-rate-travel`
 - **Name:** Booking Conversion Rate (Travel)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCR-T
 
@@ -27,7 +27,7 @@ Completed Bookings / Search Sessions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

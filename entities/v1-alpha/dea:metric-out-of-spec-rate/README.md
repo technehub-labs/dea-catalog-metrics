@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Spec Rate** (OSPR) in the OpenD
 - **Canonical id:** `dea:metric-out-of-spec-rate`
 - **Name:** Out-of-Spec Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OSPR
 
@@ -23,7 +23,7 @@ Units Outside Specification / Units Produced
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

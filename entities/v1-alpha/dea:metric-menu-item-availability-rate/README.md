@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Menu Item Availability Rate** (MIAR) i
 - **Canonical id:** `dea:metric-menu-item-availability-rate`
 - **Name:** Menu Item Availability Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MIAR
 
@@ -23,7 +23,7 @@ In-Stock Menu Items / Menu Items
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

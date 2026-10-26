@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract On-Time Delivery (Defense)** 
 - **Canonical id:** `dea:metric-contract-on-time-delivery-defense`
 - **Name:** Contract On-Time Delivery (Defense)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COTD
 
@@ -27,7 +27,7 @@ Deliveries on Contract Schedule / Deliveries Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

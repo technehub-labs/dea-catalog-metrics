@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Stream Cost-to-Serve** (VSCTS) i
 - **Canonical id:** `dea:metric-value-stream-cost-to-serve`
 - **Name:** Value Stream Cost-to-Serve
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VSCTS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ERP Batch Job Success Rate** (EBJS) in
 - **Canonical id:** `dea:metric-erp-batch-job-success-rate`
 - **Name:** ERP Batch Job Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBJS
 
@@ -23,7 +23,7 @@ Successful Batch Runs / Scheduled Runs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

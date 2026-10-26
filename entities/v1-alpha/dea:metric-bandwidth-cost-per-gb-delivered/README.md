@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bandwidth Cost per GB Delivered** (BCG
 - **Canonical id:** `dea:metric-bandwidth-cost-per-gb-delivered`
 - **Name:** Bandwidth Cost per GB Delivered
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BCGB
 

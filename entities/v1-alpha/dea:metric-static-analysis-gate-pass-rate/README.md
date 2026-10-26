@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Static Analysis Gate Pass Rate** (SAGP
 - **Canonical id:** `dea:metric-static-analysis-gate-pass-rate`
 - **Name:** Static Analysis Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAGPR
 
@@ -23,7 +23,7 @@ Builds Passing Static Analysis Gate / Builds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

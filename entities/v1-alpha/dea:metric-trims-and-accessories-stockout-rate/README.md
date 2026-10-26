@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trims and Accessories Stockout Rate** 
 - **Canonical id:** `dea:metric-trims-and-accessories-stockout-rate`
 - **Name:** Trims and Accessories Stockout Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TAS
 
@@ -23,7 +23,7 @@ Trims Stockouts / Trims Required Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

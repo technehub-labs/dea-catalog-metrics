@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mission Readiness Rate** (MRR) in the 
 - **Canonical id:** `dea:metric-mission-readiness-rate`
 - **Name:** Mission Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MRR
 
@@ -27,7 +27,7 @@ Assets Ready for Mission / Assigned Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

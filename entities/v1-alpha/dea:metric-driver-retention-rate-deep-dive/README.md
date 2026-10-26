@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Driver Retention Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-driver-retention-rate-deep-dive`
 - **Name:** Driver Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-D
 
@@ -27,7 +27,7 @@ Drivers Retained / Drivers Employed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

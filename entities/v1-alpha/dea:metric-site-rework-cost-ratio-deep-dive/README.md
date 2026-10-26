@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Rework Cost Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-site-rework-cost-ratio-deep-dive`
 - **Name:** Site Rework Cost Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRCR-D
 
@@ -27,7 +27,7 @@ Rework Cost / Total Construction Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

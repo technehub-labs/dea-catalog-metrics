@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fairness Metric - Demographic Parity G
 - **Canonical id:** `dea:metric-fairness-metric-demographic-parity-gap`
 - **Name:** Fairness Metric - Demographic Parity Gap
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FMDPG
 
@@ -27,7 +27,7 @@ Max Difference in Positive Outcome Rate across Groups
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

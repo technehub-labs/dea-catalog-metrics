@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Analytics Adoption** (SSA
 - **Canonical id:** `dea:metric-self-service-analytics-adoption`
 - **Name:** Self-Service Analytics Adoption
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSAA
 
@@ -23,7 +23,7 @@ Business Users with Direct Planning Access / Users in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

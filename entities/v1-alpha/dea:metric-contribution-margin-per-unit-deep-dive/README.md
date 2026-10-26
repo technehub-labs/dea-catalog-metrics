@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contribution Margin per Unit (Deep Div
 - **Canonical id:** `dea:metric-contribution-margin-per-unit-deep-dive`
 - **Name:** Contribution Margin per Unit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMPUD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Safety Temperature Compliance (De
 - **Canonical id:** `dea:metric-food-safety-temperature-compliance-deep-dive`
 - **Name:** Food Safety Temperature Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSTC-D
 
@@ -23,7 +23,7 @@ Temperature Logs within Range / Logs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

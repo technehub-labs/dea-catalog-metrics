@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Window Adherence** (CWA-NW) in 
 - **Canonical id:** `dea:metric-change-window-adherence`
 - **Name:** Change Window Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CWA-NW
 
@@ -23,7 +23,7 @@ Changes Completed within Approved Window / Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

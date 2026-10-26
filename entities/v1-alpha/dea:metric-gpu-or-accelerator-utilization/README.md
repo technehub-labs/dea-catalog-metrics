@@ -7,7 +7,7 @@ Candidate Performance Metric record for **GPU or Accelerator Utilization** (GAU-
 - **Canonical id:** `dea:metric-gpu-or-accelerator-utilization`
 - **Name:** GPU or Accelerator Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GAU-M
 
@@ -23,7 +23,7 @@ Used Accelerator Hours / Provisioned Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

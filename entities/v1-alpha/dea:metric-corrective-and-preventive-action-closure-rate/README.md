@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective and Preventive Action Closu
 - **Canonical id:** `dea:metric-corrective-and-preventive-action-closure-rate`
 - **Name:** Corrective and Preventive Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAPA
 
@@ -27,7 +27,7 @@ CAPAs Closed on Time / CAPAs Opened
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

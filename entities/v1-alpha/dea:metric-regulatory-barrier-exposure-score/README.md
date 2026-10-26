@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Barrier Exposure Score** (R
 - **Canonical id:** `dea:metric-regulatory-barrier-exposure-score`
 - **Name:** Regulatory Barrier Exposure Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RBES
 

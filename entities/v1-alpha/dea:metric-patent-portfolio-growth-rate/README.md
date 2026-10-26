@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Portfolio Growth Rate** (PPGR) 
 - **Canonical id:** `dea:metric-patent-portfolio-growth-rate`
 - **Name:** Patent Portfolio Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPGR
 
@@ -27,7 +27,7 @@ Net New Patents Filed per Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

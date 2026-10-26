@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy MAPE (Deep Dive)** (
 - **Canonical id:** `dea:metric-forecast-accuracy-mape-deep-dive`
 - **Name:** Forecast Accuracy MAPE (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAPEDD
 
@@ -23,7 +23,7 @@ Mean Absolute Percent Error of Demand Forecast
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

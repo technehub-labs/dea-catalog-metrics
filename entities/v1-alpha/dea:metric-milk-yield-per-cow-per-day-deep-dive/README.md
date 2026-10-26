@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milk Yield per Cow per Day (Deep Dive)
 - **Canonical id:** `dea:metric-milk-yield-per-cow-per-day-deep-dive`
 - **Name:** Milk Yield per Cow per Day (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MYCD
 
@@ -23,8 +23,8 @@ Litres / Cow / Day
 
 ## Unit
 
-- **Unit reference:** `dea:unit-kilolitres`
-- **Unit:** kilolitres
+- **Unit reference:** `dea:unit-kilolitre`
+- **Unit:** kilolitre
 - **Unit label (as published):** kilolitres (kl)
 
 ## Classification

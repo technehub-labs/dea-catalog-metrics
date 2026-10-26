@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Analytics Maturity Score** (L
 - **Canonical id:** `dea:metric-learning-analytics-maturity-score`
 - **Name:** Learning Analytics Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LAMS
 

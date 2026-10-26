@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Problem Recurrence Rate** (PRR) in the
 - **Canonical id:** `dea:metric-problem-recurrence-rate`
 - **Name:** Problem Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRR
 
@@ -27,7 +27,7 @@ Recurring Incidents / Total Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

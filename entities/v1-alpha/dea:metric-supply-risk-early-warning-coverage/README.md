@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Risk Early Warning Coverage** (
 - **Canonical id:** `dea:metric-supply-risk-early-warning-coverage`
 - **Name:** Supply Risk Early Warning Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SREWC
 
@@ -27,7 +27,7 @@ Critical Suppliers Monitored for Risk Signals / Critical Suppliers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

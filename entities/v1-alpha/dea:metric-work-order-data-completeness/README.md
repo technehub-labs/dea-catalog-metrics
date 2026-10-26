@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Work Order Data Completeness** (WODC) 
 - **Canonical id:** `dea:metric-work-order-data-completeness`
 - **Name:** Work Order Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WODC
 
@@ -23,7 +23,7 @@ Work Orders with Complete Asset, Cause, Action Data / Work Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Training Completion** (STC) in 
 - **Canonical id:** `dea:metric-safety-training-completion`
 - **Name:** Safety Training Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** STC
 
@@ -23,7 +23,7 @@ Employees Completing Safety Training / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

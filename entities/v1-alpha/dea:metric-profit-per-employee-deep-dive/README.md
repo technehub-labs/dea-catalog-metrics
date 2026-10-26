@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Profit per Employee (Deep Dive)** (PPE
 - **Canonical id:** `dea:metric-profit-per-employee-deep-dive`
 - **Name:** Profit per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPE-WF
 

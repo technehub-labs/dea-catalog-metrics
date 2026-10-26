@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Booking Utilization** (EBU
 - **Canonical id:** `dea:metric-environment-booking-utilization`
 - **Name:** Environment Booking Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBU-RM
 
@@ -23,7 +23,7 @@ Booked Environment Hours / Available Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

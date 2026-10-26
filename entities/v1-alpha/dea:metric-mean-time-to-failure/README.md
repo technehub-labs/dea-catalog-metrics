@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Failure** (MTTF) in the O
 - **Canonical id:** `dea:metric-mean-time-to-failure`
 - **Name:** Mean Time to Failure
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTF
 
@@ -23,8 +23,8 @@ Total Operating Time / Number of Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

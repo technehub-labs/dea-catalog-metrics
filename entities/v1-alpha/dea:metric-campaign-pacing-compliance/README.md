@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Pacing Compliance** (CPC-MK) 
 - **Canonical id:** `dea:metric-campaign-pacing-compliance`
 - **Name:** Campaign Pacing Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPC-MK
 
@@ -23,7 +23,7 @@ Delivery within Pacing Tolerance of Plan / Campaigns
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

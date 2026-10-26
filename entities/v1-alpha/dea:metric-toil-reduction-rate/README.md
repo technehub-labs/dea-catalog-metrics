@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Toil Reduction Rate** (TRR-SRE) in the
 - **Canonical id:** `dea:metric-toil-reduction-rate`
 - **Name:** Toil Reduction Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TRR-SRE
 
@@ -27,7 +27,7 @@ Reduction in Manual Operational Work Hours per Quarter
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

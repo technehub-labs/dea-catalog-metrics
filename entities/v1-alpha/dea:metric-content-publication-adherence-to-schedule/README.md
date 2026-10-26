@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Publication Adherence to Sched
 - **Canonical id:** `dea:metric-content-publication-adherence-to-schedule`
 - **Name:** Content Publication Adherence to Schedule
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPAS
 
@@ -23,7 +23,7 @@ Items Published on Schedule / Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

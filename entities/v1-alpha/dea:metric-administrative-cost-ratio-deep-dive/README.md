@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Administrative Cost Ratio (Deep Dive)*
 - **Canonical id:** `dea:metric-administrative-cost-ratio-deep-dive`
 - **Name:** Administrative Cost Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACR-D
 
@@ -27,7 +27,7 @@ Administrative Expenses / Total Expenses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

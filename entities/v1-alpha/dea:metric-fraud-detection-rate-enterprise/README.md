@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Detection Rate (Enterprise)** (F
 - **Canonical id:** `dea:metric-fraud-detection-rate-enterprise`
 - **Name:** Fraud Detection Rate (Enterprise)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FDER
 
@@ -27,7 +27,7 @@ Fraud Detected before Loss Fully Incurred / Confirmed Fraud
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

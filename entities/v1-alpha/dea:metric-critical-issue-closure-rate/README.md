@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Issue Closure Rate** (CICR) i
 - **Canonical id:** `dea:metric-critical-issue-closure-rate`
 - **Name:** Critical Issue Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CICR
 
@@ -23,7 +23,7 @@ Critical Issues Closed within SLA / Critical Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

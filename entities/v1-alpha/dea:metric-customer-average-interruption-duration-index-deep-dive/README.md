@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Average Interruption Duration
 - **Canonical id:** `dea:metric-customer-average-interruption-duration-index-deep-dive`
 - **Name:** Customer Average Interruption Duration Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAIDI
 
@@ -27,8 +27,8 @@ SAIDI / SAIFI
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

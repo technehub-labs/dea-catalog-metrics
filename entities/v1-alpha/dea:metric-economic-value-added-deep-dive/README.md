@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added (Deep Dive)** (EV
 - **Canonical id:** `dea:metric-economic-value-added-deep-dive`
 - **Name:** Economic Value Added (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVA-D
 

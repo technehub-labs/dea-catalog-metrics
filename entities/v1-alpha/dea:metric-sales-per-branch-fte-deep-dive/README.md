@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Branch FTE (Deep Dive)** (SP
 - **Canonical id:** `dea:metric-sales-per-branch-fte-deep-dive`
 - **Name:** Sales per Branch FTE (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPBF-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha Generation Consistency** (AGC-W)
 - **Canonical id:** `dea:metric-alpha-generation-consistency`
 - **Name:** Alpha Generation Consistency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AGC-W
 
@@ -27,7 +27,7 @@ Periods with Positive Alpha / Periods
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

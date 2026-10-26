@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Licensing Revenue Ratio** (LRR-CV) in 
 - **Canonical id:** `dea:metric-licensing-revenue-ratio`
 - **Name:** Licensing Revenue Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRR-CV
 
@@ -27,7 +27,7 @@ Licensing and Royalty Revenue / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

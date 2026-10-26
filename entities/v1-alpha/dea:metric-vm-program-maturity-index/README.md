@@ -7,7 +7,7 @@ Candidate Performance Metric record for **VM Program Maturity Index** (VMPMI) in
 - **Canonical id:** `dea:metric-vm-program-maturity-index`
 - **Name:** VM Program Maturity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VMPMI
 

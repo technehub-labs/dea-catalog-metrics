@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Latency** (NL) in the OpenDEAM
 - **Canonical id:** `dea:metric-network-latency`
 - **Name:** Network Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NL
 
@@ -23,8 +23,8 @@ Median Round-Trip Delay of Packets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blended Gross Margin (Deep Dive)** (BG
 - **Canonical id:** `dea:metric-blended-gross-margin-deep-dive`
 - **Name:** Blended Gross Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BGMD
 
@@ -27,7 +27,7 @@ Gross Profit including Services / Total Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

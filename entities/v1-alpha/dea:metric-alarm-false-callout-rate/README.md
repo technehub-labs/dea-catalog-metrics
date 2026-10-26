@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alarm False Callout Rate** (AFCR) in t
 - **Canonical id:** `dea:metric-alarm-false-callout-rate`
 - **Name:** Alarm False Callout Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFCR
 
@@ -23,7 +23,7 @@ False Alarm Responses / Alarm Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

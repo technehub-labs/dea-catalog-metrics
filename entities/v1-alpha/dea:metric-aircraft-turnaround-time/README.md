@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Time** (ATT) in th
 - **Canonical id:** `dea:metric-aircraft-turnaround-time`
 - **Name:** Aircraft Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ATT
 
@@ -23,8 +23,8 @@ Minutes from Arrival to Next Departure at Gate
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

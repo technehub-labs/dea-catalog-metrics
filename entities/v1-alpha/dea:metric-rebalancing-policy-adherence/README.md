@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rebalancing Policy Adherence** (RPA-W)
 - **Canonical id:** `dea:metric-rebalancing-policy-adherence`
 - **Name:** Rebalancing Policy Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPA-W
 
@@ -23,7 +23,7 @@ Rebalances per Policy / Rebalancing Triggers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

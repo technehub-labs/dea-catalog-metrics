@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journey Drop-off Rate by Stage** (JDR)
 - **Canonical id:** `dea:metric-journey-drop-off-rate-by-stage`
 - **Name:** Journey Drop-off Rate by Stage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JDR
 
@@ -27,7 +27,7 @@ Customers Exiting at Stage / Customers Reaching Stage
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

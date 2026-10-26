@@ -7,7 +7,7 @@ Candidate Performance Metric record for **O&M Cost per Megawatt** (OMCMW) in the
 - **Canonical id:** `dea:metric-o-m-cost-per-megawatt`
 - **Name:** O&M Cost per Megawatt
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMCMW
 

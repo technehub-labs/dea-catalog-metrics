@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Review Coverage** (CRC-SD) in the
 - **Canonical id:** `dea:metric-code-review-coverage`
 - **Name:** Code Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-SD
 
@@ -23,7 +23,7 @@ Changes Reviewed before Merge / Changes Merged
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

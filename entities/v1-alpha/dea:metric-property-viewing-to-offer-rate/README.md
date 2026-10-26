@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Property Viewing to Offer Rate** (V2O)
 - **Canonical id:** `dea:metric-property-viewing-to-offer-rate`
 - **Name:** Property Viewing to Offer Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** V2O
 
@@ -23,7 +23,7 @@ Offers Made / Viewings Conducted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

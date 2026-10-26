@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Functional Requirement Coverage** 
 - **Canonical id:** `dea:metric-non-functional-requirement-coverage`
 - **Name:** Non-Functional Requirement Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NFRC
 
@@ -27,7 +27,7 @@ NFR Categories Addressed per Release / Applicable NFRs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrink Rate (Retail)** (ShR-R) in the 
 - **Canonical id:** `dea:metric-shrink-rate-retail`
 - **Name:** Shrink Rate (Retail)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ShR-R
 
@@ -27,7 +27,7 @@ Measures inventory loss from theft, damage, and error as a share of sales. It ma
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

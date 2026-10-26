@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turnover - Pharmacy (Deep Di
 - **Canonical id:** `dea:metric-inventory-turnover-pharmacy-deep-dive`
 - **Name:** Inventory Turnover - Pharmacy (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITP-D
 

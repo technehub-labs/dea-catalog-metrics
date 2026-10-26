@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Pipeline Freshness SLA Attainment
 - **Canonical id:** `dea:metric-data-pipeline-freshness-sla-attainment`
 - **Name:** Data Pipeline Freshness SLA Attainment
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPFSLA
 
@@ -23,7 +23,7 @@ Pipelines Meeting Freshness SLA / Pipelines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

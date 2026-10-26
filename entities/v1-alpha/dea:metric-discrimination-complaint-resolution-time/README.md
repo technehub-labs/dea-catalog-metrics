@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discrimination Complaint Resolution Ti
 - **Canonical id:** `dea:metric-discrimination-complaint-resolution-time`
 - **Name:** Discrimination Complaint Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCRT
 
@@ -27,8 +27,8 @@ Days from Complaint Filed to Case Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

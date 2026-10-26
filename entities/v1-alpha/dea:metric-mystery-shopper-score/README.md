@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mystery Shopper Score** (MSS) in the O
 - **Canonical id:** `dea:metric-mystery-shopper-score`
 - **Name:** Mystery Shopper Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSS
 

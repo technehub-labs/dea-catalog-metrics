@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Click-Through Rate (Deep Dive)** (CTRD
 - **Canonical id:** `dea:metric-click-through-rate-deep-dive`
 - **Name:** Click-Through Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTRDD
 
@@ -23,7 +23,7 @@ Clicks / Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

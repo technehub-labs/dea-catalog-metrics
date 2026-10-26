@@ -7,7 +7,7 @@ Candidate Performance Metric record for **External Intelligence Source Coverage*
 - **Canonical id:** `dea:metric-external-intelligence-source-coverage`
 - **Name:** External Intelligence Source Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EISC
 
@@ -23,7 +23,7 @@ Monitored Sources per Risk Taxonomy / Planned Sources
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

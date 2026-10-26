@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Security Cost per Workload** (CS
 - **Canonical id:** `dea:metric-cloud-security-cost-per-workload`
 - **Name:** Cloud Security Cost per Workload
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCW
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Network Change Ratio** (ENCR
 - **Canonical id:** `dea:metric-emergency-network-change-ratio`
 - **Name:** Emergency Network Change Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ENCR
 
@@ -23,7 +23,7 @@ Emergency Changes / Total Network Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

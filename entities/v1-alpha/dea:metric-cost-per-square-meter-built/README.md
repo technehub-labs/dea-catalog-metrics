@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Square Meter Built** (CSMB) i
 - **Canonical id:** `dea:metric-cost-per-square-meter-built`
 - **Name:** Cost per Square Meter Built
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSMB
 

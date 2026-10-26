@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Attestation Coverage** (S
 - **Canonical id:** `dea:metric-supply-chain-attestation-coverage`
 - **Name:** Supply Chain Attestation Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SCATC
 
@@ -27,7 +27,7 @@ Builds with Signed Provenance / Production Builds
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

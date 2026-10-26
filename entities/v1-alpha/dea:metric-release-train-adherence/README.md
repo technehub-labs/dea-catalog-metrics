@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Train Adherence** (RTA-CD) in 
 - **Canonical id:** `dea:metric-release-train-adherence`
 - **Name:** Release Train Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTA-CD
 
@@ -23,7 +23,7 @@ Changes Shipping in Scheduled Release Train / Changes Ready
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

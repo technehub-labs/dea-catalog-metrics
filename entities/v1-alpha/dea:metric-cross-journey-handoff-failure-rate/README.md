@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Journey Handoff Failure Rate** (
 - **Canonical id:** `dea:metric-cross-journey-handoff-failure-rate`
 - **Name:** Cross-Journey Handoff Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** JHFR
 
@@ -23,7 +23,7 @@ Handoffs Requiring Customer Re-Explanation / Handoffs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

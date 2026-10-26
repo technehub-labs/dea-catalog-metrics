@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Salesperson** (RPS) in the
 - **Canonical id:** `dea:metric-revenue-per-salesperson`
 - **Name:** Revenue per Salesperson
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Refresh Cycle Compliance**
 - **Canonical id:** `dea:metric-environment-refresh-cycle-compliance`
 - **Name:** Environment Refresh Cycle Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERCC
 
@@ -23,7 +23,7 @@ Refreshes Completed per Policy Schedule / Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

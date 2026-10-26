@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Estimate Accuracy** (CEA) in the
 - **Canonical id:** `dea:metric-claim-estimate-accuracy`
 - **Name:** Claim Estimate Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEA
 
@@ -27,7 +27,7 @@ Measures how closely initial claim estimates match ultimate settlement cost. It 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

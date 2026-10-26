@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAST Coverage** (DASTC) in the OpenDEA
 - **Canonical id:** `dea:metric-dast-coverage`
 - **Name:** DAST Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DASTC
 
@@ -23,7 +23,7 @@ Applications Under Dynamic Testing / Internet-Facing Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

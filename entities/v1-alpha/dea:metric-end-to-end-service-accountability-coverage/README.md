@@ -7,7 +7,7 @@ Candidate Performance Metric record for **End-to-End Service Accountability Cove
 - **Canonical id:** `dea:metric-end-to-end-service-accountability-coverage`
 - **Name:** End-to-End Service Accountability Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EESAC
 
@@ -27,7 +27,7 @@ Services with Single Accountable Executive / Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

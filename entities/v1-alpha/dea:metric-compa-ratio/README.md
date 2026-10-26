@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compa-Ratio** (COMPA) in the OpenDEAM 
 - **Canonical id:** `dea:metric-compa-ratio`
 - **Name:** Compa-Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** COMPA
 

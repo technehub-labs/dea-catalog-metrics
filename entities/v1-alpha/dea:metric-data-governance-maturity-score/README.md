@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Governance Maturity Score** (DGMS
 - **Canonical id:** `dea:metric-data-governance-maturity-score`
 - **Name:** Data Governance Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DGMS-DG
 

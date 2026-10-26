@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Site Overhead Ratio** (
 - **Canonical id:** `dea:metric-clinical-trial-site-overhead-ratio`
 - **Name:** Clinical Trial Site Overhead Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTSO
 
@@ -23,7 +23,7 @@ Site Overhead Costs / Direct Trial Costs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

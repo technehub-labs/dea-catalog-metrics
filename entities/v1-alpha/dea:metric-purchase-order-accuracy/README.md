@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Order Accuracy** (POA) in the
 - **Canonical id:** `dea:metric-purchase-order-accuracy`
 - **Name:** Purchase Order Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** POA
 
@@ -23,7 +23,7 @@ Error-Free Purchase Orders / Purchase Orders Issued
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

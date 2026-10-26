@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Retention Cost Ratio (Deep Di
 - **Canonical id:** `dea:metric-customer-retention-cost-ratio-deep-dive`
 - **Name:** Customer Retention Cost Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRCR-D
 
@@ -27,7 +27,7 @@ Retention Spend / Retained Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

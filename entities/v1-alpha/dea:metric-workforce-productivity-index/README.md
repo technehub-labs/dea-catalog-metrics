@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Productivity Index** (WPI) i
 - **Canonical id:** `dea:metric-workforce-productivity-index`
 - **Name:** Workforce Productivity Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WPI
 

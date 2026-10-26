@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Reserve Accuracy (Initial)** (CR
 - **Canonical id:** `dea:metric-claim-reserve-accuracy-initial`
 - **Name:** Claim Reserve Accuracy (Initial)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRAI
 

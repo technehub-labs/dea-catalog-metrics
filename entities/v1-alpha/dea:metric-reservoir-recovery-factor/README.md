@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reservoir Recovery Factor** (RRF) in t
 - **Canonical id:** `dea:metric-reservoir-recovery-factor`
 - **Name:** Reservoir Recovery Factor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRF
 
@@ -27,7 +27,7 @@ Hydrocarbons Recovered / Hydrocarbons in Place
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Life Extension Achievement** (AL
 - **Canonical id:** `dea:metric-asset-life-extension-achievement`
 - **Name:** Asset Life Extension Achievement
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ALEA
 
@@ -27,7 +27,7 @@ Turbines Operating beyond Design Life / Turbines at Design Life
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

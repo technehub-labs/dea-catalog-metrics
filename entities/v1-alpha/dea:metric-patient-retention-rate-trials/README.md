@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Retention Rate (Trials)** (PRR
 - **Canonical id:** `dea:metric-patient-retention-rate-trials`
 - **Name:** Patient Retention Rate (Trials)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRR-T
 
@@ -23,7 +23,7 @@ Subjects Completing Study / Subjects Enrolled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

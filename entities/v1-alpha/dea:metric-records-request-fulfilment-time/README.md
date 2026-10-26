@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Records Request Fulfilment Time** (RRF
 - **Canonical id:** `dea:metric-records-request-fulfilment-time`
 - **Name:** Records Request Fulfilment Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRFT-RM
 
@@ -23,8 +23,8 @@ Days to Fulfil Internal Records Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

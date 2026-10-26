@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proof of Delivery Capture Rate** (PODR
 - **Canonical id:** `dea:metric-proof-of-delivery-capture-rate`
 - **Name:** Proof of Delivery Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PODR
 
@@ -23,7 +23,7 @@ Deliveries with Electronic POD / Deliveries
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

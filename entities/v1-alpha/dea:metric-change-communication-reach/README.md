@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Communication Reach** (CCR-C) i
 - **Canonical id:** `dea:metric-change-communication-reach`
 - **Name:** Change Communication Reach
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCR-C
 
@@ -23,7 +23,7 @@ Audience Members Reached per Key Message / Audience
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Concentration (Fee Revenue)** (
 - **Canonical id:** `dea:metric-client-concentration-fee-revenue`
 - **Name:** Client Concentration (Fee Revenue)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCFR
 
@@ -27,7 +27,7 @@ Largest Client Fees / Total Fees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

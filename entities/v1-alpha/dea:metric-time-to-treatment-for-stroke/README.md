@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Treatment for Stroke** (TTTS) 
 - **Canonical id:** `dea:metric-time-to-treatment-for-stroke`
 - **Name:** Time to Treatment for Stroke
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTTS
 
@@ -27,8 +27,8 @@ Minutes from Arrival to Thrombolysis
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

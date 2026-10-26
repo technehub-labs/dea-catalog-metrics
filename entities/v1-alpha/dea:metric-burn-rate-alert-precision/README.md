@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burn Rate Alert Precision** (BRA-PREC)
 - **Canonical id:** `dea:metric-burn-rate-alert-precision`
 - **Name:** Burn Rate Alert Precision
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BRA-PREC
 
@@ -23,7 +23,7 @@ Fast-Burn Alerts Corresponding to Real SLO Risk / Alerts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

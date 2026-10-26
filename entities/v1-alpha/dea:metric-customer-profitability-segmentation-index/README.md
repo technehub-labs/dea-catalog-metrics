@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Profitability Segmentation In
 - **Canonical id:** `dea:metric-customer-profitability-segmentation-index`
 - **Name:** Customer Profitability Segmentation Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPSI-BSC
 
@@ -27,7 +27,7 @@ Share of Profitable Customers in Portfolio
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partial Settlement Rate** (PSR-C) in t
 - **Canonical id:** `dea:metric-partial-settlement-rate`
 - **Name:** Partial Settlement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSR-C
 
@@ -23,7 +23,7 @@ Claims Partially Settled then Closed / Claims
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

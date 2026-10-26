@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Change Lead Time** (NCLT) in t
 - **Canonical id:** `dea:metric-network-change-lead-time`
 - **Name:** Network Change Lead Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCLT
 
@@ -23,8 +23,8 @@ Days from Change Request to Implementation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

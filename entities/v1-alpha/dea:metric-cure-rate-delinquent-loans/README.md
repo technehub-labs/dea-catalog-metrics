@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cure Rate (Delinquent Loans)** (CRDL) 
 - **Canonical id:** `dea:metric-cure-rate-delinquent-loans`
 - **Name:** Cure Rate (Delinquent Loans)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRDL
 
@@ -27,7 +27,7 @@ Accounts Returning to Current / Delinquent Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

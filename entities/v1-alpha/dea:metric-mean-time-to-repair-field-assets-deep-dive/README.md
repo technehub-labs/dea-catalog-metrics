@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Repair - Field Assets (De
 - **Canonical id:** `dea:metric-mean-time-to-repair-field-assets-deep-dive`
 - **Name:** Mean Time to Repair - Field Assets (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTRF-D
 
@@ -27,8 +27,8 @@ Hours from Fault Report to Functional Restore
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

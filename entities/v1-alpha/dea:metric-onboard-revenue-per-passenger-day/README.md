@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboard Revenue per Passenger Day** (O
 - **Canonical id:** `dea:metric-onboard-revenue-per-passenger-day`
 - **Name:** Onboard Revenue per Passenger Day
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORPD
 

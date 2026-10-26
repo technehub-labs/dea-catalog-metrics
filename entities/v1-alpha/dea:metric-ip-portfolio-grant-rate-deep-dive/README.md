@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Portfolio Grant Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-ip-portfolio-grant-rate-deep-dive`
 - **Name:** IP Portfolio Grant Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPGR
 
@@ -27,7 +27,7 @@ Granted Applications / Filed Applications
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Active Share (Deep Dive)** (ACTSH) in 
 - **Canonical id:** `dea:metric-active-share-deep-dive`
 - **Name:** Active Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACTSH
 
@@ -27,7 +27,7 @@ Portfolio Holdings Differing from Benchmark / Holdings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

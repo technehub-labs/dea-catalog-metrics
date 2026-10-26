@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Stock Optimization Coverage** (
 - **Canonical id:** `dea:metric-safety-stock-optimization-coverage`
 - **Name:** Safety Stock Optimization Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSOC
 
@@ -23,7 +23,7 @@ SKUs with Statistically Sized Safety Stock / SKUs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

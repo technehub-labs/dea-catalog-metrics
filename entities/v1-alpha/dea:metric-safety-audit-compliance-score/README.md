@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Audit Compliance Score** (SACS)
 - **Canonical id:** `dea:metric-safety-audit-compliance-score`
 - **Name:** Safety Audit Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SACS
 

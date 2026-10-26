@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spill Volume per Production** (SVP) in
 - **Canonical id:** `dea:metric-spill-volume-per-production`
 - **Name:** Spill Volume per Production
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SVP
 

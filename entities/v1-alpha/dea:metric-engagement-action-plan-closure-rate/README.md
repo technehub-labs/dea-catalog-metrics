@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engagement Action Plan Closure Rate** 
 - **Canonical id:** `dea:metric-engagement-action-plan-closure-rate`
 - **Name:** Engagement Action Plan Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EAPCR
 
@@ -23,7 +23,7 @@ Post-Survey Actions Closed by Due Date / Actions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

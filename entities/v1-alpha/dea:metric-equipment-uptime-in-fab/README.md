@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Uptime in Fab** (EUPT) in th
 - **Canonical id:** `dea:metric-equipment-uptime-in-fab`
 - **Name:** Equipment Uptime in Fab
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EUPT
 
@@ -23,7 +23,7 @@ Tool Productive Time / Total Tool Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

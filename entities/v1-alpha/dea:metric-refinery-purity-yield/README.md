@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery Purity Yield** (RPY) in the O
 - **Canonical id:** `dea:metric-refinery-purity-yield`
 - **Name:** Refinery Purity Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPY
 
@@ -23,7 +23,7 @@ Refined Metal at Purity Spec / Input Metal
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

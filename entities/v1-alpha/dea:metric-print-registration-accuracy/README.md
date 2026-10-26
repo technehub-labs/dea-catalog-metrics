@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Print Registration Accuracy** (PRA-P) 
 - **Canonical id:** `dea:metric-print-registration-accuracy`
 - **Name:** Print Registration Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRA-P
 
@@ -23,7 +23,7 @@ Prints within Registration Tolerance / Prints
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

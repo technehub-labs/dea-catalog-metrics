@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lead Conversion Rate** (LCR) in the Op
 - **Canonical id:** `dea:metric-lead-conversion-rate`
 - **Name:** Lead Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LCR
 
@@ -27,7 +27,7 @@ Converted Leads / Total Leads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

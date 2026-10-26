@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contractual Right-to-Audit Usage Rate*
 - **Canonical id:** `dea:metric-contractual-right-to-audit-usage-rate`
 - **Name:** Contractual Right-to-Audit Usage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RAUR
 
@@ -23,7 +23,7 @@ Audits Exercised on Critical Vendors / Planned Audits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

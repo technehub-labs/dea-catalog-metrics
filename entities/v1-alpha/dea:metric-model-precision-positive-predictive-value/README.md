@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Precision (Positive Predictive V
 - **Canonical id:** `dea:metric-model-precision-positive-predictive-value`
 - **Name:** Model Precision (Positive Predictive Value)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MPPPV
 
@@ -23,7 +23,7 @@ True Positives / (True Positives + False Positives)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

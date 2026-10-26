@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beneficiary Reach** (BFR) in the OpenD
 - **Canonical id:** `dea:metric-beneficiary-reach`
 - **Name:** Beneficiary Reach
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BFR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contribution Margin per Unit** (CMU) i
 - **Canonical id:** `dea:metric-contribution-margin-per-unit`
 - **Name:** Contribution Margin per Unit
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMU
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Safety Audit Score** (FSAS) in th
 - **Canonical id:** `dea:metric-food-safety-audit-score`
 - **Name:** Food Safety Audit Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSAS
 

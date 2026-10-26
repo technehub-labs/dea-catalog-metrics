@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collections Cost per Dollar Collected*
 - **Canonical id:** `dea:metric-collections-cost-per-dollar-collected`
 - **Name:** Collections Cost per Dollar Collected
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCPDC
 

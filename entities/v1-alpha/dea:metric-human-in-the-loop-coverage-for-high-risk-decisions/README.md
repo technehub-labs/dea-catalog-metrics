@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-in-the-Loop Coverage for High-Ri
 - **Canonical id:** `dea:metric-human-in-the-loop-coverage-for-high-risk-decisions`
 - **Name:** Human-in-the-Loop Coverage for High-Risk Decisions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HITC
 
@@ -27,7 +27,7 @@ High-Risk Decision Points with Human Review / High-Risk Points
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

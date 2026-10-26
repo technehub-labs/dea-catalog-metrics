@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Voice** (SOV) in the OpenDEAM
 - **Canonical id:** `dea:metric-share-of-voice`
 - **Name:** Share of Voice
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOV
 
@@ -27,7 +27,7 @@ Brand Mentions / Total Category Mentions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Data Quality Score** (MDQS) 
 - **Canonical id:** `dea:metric-marketing-data-quality-score`
 - **Name:** Marketing Data Quality Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDQS
 

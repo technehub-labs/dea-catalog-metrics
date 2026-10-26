@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Resolution Rate (Knowledg
 - **Canonical id:** `dea:metric-self-service-resolution-rate-knowledge`
 - **Name:** Self-Service Resolution Rate (Knowledge)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSRR-KM
 
@@ -23,7 +23,7 @@ Issues Resolved via Self-Service / Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

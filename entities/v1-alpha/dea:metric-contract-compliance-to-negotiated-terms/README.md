@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Compliance to Negotiated Term
 - **Canonical id:** `dea:metric-contract-compliance-to-negotiated-terms`
 - **Name:** Contract Compliance to Negotiated Terms
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCNT
 
@@ -23,7 +23,7 @@ Invoices Matching Contract Price / Invoices Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

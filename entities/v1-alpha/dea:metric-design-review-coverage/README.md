@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Review Coverage** (DRC) in the 
 - **Canonical id:** `dea:metric-design-review-coverage`
 - **Name:** Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRC
 
@@ -23,7 +23,7 @@ Artifacts Passing through Formal Review / Artifacts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

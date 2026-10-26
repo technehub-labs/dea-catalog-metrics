@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level - Calls Answered in Thre
 - **Canonical id:** `dea:metric-service-level-calls-answered-in-threshold-seconds`
 - **Name:** Service Level - Calls Answered in Threshold Seconds
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SLDD
 
@@ -23,7 +23,7 @@ Calls Answered within Threshold / Calls Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

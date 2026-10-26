@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Risk Trigger Rate** (VRTR) in t
 - **Canonical id:** `dea:metric-vendor-risk-trigger-rate`
 - **Name:** Vendor Risk Trigger Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VRTR
 
@@ -23,7 +23,7 @@ Third-Party Risks Materializing / Third-Party Risks Tracked
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

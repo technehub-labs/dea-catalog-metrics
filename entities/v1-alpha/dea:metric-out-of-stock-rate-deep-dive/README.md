@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Out-of-Stock Rate (Deep Dive)** (OOSDD
 - **Canonical id:** `dea:metric-out-of-stock-rate-deep-dive`
 - **Name:** Out-of-Stock Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OOSDD
 
@@ -23,7 +23,7 @@ SKU-Location Days Out of Stock / SKU-Location Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

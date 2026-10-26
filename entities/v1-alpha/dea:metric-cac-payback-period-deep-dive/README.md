@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CAC Payback Period (Deep Dive)** (CACP
 - **Canonical id:** `dea:metric-cac-payback-period-deep-dive`
 - **Name:** CAC Payback Period (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CACPB-D
 
@@ -27,8 +27,8 @@ CAC / Monthly Gross Margin per Customer
 
 ## Unit
 
-- **Unit reference:** `dea:unit-months`
-- **Unit:** months
+- **Unit reference:** `dea:unit-month`
+- **Unit:** month
 - **Unit label (as published):** months
 
 ## Classification

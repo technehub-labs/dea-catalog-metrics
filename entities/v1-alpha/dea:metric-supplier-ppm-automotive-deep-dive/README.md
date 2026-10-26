@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier PPM - Automotive (Deep Dive)*
 - **Canonical id:** `dea:metric-supplier-ppm-automotive-deep-dive`
 - **Name:** Supplier PPM - Automotive (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPPM-D
 
@@ -27,8 +27,8 @@ Defective Parts per Million Received
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

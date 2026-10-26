@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SAST Findings per 1,000 Lines of Code*
 - **Canonical id:** `dea:metric-sast-findings-per-1-000-lines-of-code`
 - **Name:** SAST Findings per 1,000 Lines of Code
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAST1K
 
@@ -23,8 +23,8 @@ Static Application Security Findings per KLOC
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

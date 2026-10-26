@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Stage Failure Attribution Rat
 - **Canonical id:** `dea:metric-pipeline-stage-failure-attribution-rate`
 - **Name:** Pipeline Stage Failure Attribution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSFAR
 
@@ -23,7 +23,7 @@ Failures with Root Cause Attributed / Failures
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

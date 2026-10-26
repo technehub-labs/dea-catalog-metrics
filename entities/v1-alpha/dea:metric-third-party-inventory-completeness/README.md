@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party Inventory Completeness** (
 - **Canonical id:** `dea:metric-third-party-inventory-completeness`
 - **Name:** Third-Party Inventory Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TPIC
 
@@ -27,7 +27,7 @@ Vendors Registered in TPRM System / Vendors Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

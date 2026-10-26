@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Communication Compliance** (RC
 - **Canonical id:** `dea:metric-release-communication-compliance`
 - **Name:** Release Communication Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCC-RM
 
@@ -23,7 +23,7 @@ Stakeholder Notices Sent per Policy / Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

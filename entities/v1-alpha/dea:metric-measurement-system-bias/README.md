@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measurement System Bias** (MSB-SS) in 
 - **Canonical id:** `dea:metric-measurement-system-bias`
 - **Name:** Measurement System Bias
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MSB-SS
 
@@ -23,7 +23,7 @@ Average Measurement Deviation from Reference Standard
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

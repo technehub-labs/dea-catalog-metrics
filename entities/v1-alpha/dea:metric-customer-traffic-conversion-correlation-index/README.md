@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Traffic Conversion Correlatio
 - **Canonical id:** `dea:metric-customer-traffic-conversion-correlation-index`
 - **Name:** Customer Traffic Conversion Correlation Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTCCI
 

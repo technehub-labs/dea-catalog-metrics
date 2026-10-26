@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deviations per Batch** (DPB) in the Op
 - **Canonical id:** `dea:metric-deviations-per-batch`
 - **Name:** Deviations per Batch
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPB
 

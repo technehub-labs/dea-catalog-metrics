@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Resolution Cycle Time** (DRCT-
 - **Canonical id:** `dea:metric-dispute-resolution-cycle-time`
 - **Name:** Dispute Resolution Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCT-AR
 
@@ -23,8 +23,8 @@ Days from Dispute Raised to Resolved
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

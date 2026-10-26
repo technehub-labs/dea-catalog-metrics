@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seasonal Occupancy Variance** (SOV) in
 - **Canonical id:** `dea:metric-seasonal-occupancy-variance`
 - **Name:** Seasonal Occupancy Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOV
 
@@ -27,7 +27,7 @@ Seasonal occupancy variance measures demand swings across the year, and it is th
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

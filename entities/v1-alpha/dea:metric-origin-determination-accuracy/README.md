@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Origin Determination Accuracy** (ODA) 
 - **Canonical id:** `dea:metric-origin-determination-accuracy`
 - **Name:** Origin Determination Accuracy
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODA
 
@@ -23,7 +23,7 @@ Origin Declarations Correct / Declarations Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

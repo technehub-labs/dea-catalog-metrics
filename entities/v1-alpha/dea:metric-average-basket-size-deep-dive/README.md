@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Basket Size (Deep Dive)** (ABS
 - **Canonical id:** `dea:metric-average-basket-size-deep-dive`
 - **Name:** Average Basket Size (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABSDD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chargeback Ratio (Deep Dive)** (CBR-D)
 - **Canonical id:** `dea:metric-chargeback-ratio-deep-dive`
 - **Name:** Chargeback Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CBR-D
 
@@ -27,7 +27,7 @@ Chargebacks / Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

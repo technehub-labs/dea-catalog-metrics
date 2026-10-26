@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segment NPS Delta** (CSND) in
 - **Canonical id:** `dea:metric-customer-segment-nps-delta`
 - **Name:** Customer Segment NPS Delta
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSND
 

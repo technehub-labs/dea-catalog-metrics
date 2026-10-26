@@ -6,8 +6,8 @@ description: 'A Airport Operations indicator, Security Screening Wait Time (SSWT
   Its use is concentrated in Airports. It is a headline indicator: movement in it prompts leadership questions
   about strategy and resourcing. Reduction is the goal, and sustained decreases indicate successful intervention.'
 abbreviation: SSWT
-unit: minutes
-version: 1.0.0
+unit: minute
+version: 1.0.1
 lifecycle_status: candidate
 subject_classification:
 - business_architecture
@@ -20,7 +20,7 @@ management_significance:
 - strategic
 measurable_entity_kind: dea:ApplicationComponent
 reputability_tier: industry_standard
-unit_ref: dea:unit-minutes
+unit_ref: dea:unit-minute
 source_credit: Public domain - no attribution required
 calculation_definition: Median Passenger Wait at Checkpoint
 formula_definition:
@@ -32,7 +32,7 @@ formula_definition:
   parameters: []
   unit_semantics:
     input_units: []
-    output_unit: dea:unit-minutes
+    output_unit: dea:unit-minute
   validation_rules: []
   version: 1.0.0
 metadata:
@@ -42,6 +42,9 @@ metadata:
   - cr: CR-MET-016
     date: '2026-10-26'
     change: Ingested from the candidate-metrics seed workbook
+  - cr: CR-MET-017
+    date: '2026-10-26'
+    change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident-Free Maintenance Rate (DC)** 
 - **Canonical id:** `dea:metric-incident-free-maintenance-rate-dc`
 - **Name:** Incident-Free Maintenance Rate (DC)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFMR
 
@@ -23,7 +23,7 @@ Maintenance without Service Impact / Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

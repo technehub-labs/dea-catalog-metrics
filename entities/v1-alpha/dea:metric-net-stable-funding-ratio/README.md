@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Stable Funding Ratio** (NSFR) in t
 - **Canonical id:** `dea:metric-net-stable-funding-ratio`
 - **Name:** Net Stable Funding Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NSFR
 

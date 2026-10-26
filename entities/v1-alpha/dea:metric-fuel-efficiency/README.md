@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Efficiency** (FUE) in the OpenDEA
 - **Canonical id:** `dea:metric-fuel-efficiency`
 - **Name:** Fuel Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FUE
 

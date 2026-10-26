@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escaped Defect Rate per Sprint** (EDR-
 - **Canonical id:** `dea:metric-escaped-defect-rate-per-sprint`
 - **Name:** Escaped Defect Rate per Sprint
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDR-AG
 
@@ -27,8 +27,8 @@ Production Defects Attributed to Sprint / Sprint Deliverables
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

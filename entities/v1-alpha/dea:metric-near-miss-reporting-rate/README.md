@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Near Miss Reporting Rate** (NMRR) in t
 - **Canonical id:** `dea:metric-near-miss-reporting-rate`
 - **Name:** Near Miss Reporting Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NMRR
 

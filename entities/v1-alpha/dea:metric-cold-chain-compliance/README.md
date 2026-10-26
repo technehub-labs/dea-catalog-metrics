@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Compliance** (CCC-F) in the
 - **Canonical id:** `dea:metric-cold-chain-compliance`
 - **Name:** Cold Chain Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCC-F
 
@@ -27,7 +27,7 @@ Shipments within Temperature Range / Shipments Monitored
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

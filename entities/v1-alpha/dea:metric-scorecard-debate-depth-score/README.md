@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scorecard Debate Depth Score** (SDDS) 
 - **Canonical id:** `dea:metric-scorecard-debate-depth-score`
 - **Name:** Scorecard Debate Depth Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDDS
 

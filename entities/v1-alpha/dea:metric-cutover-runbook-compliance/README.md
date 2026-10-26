@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cutover Runbook Compliance** (CRC-RM) 
 - **Canonical id:** `dea:metric-cutover-runbook-compliance`
 - **Name:** Cutover Runbook Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-RM
 
@@ -23,7 +23,7 @@ Cutover Steps Executed per Runbook / Steps
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

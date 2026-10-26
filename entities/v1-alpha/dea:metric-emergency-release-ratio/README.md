@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Release Ratio** (ERR-RM) in 
 - **Canonical id:** `dea:metric-emergency-release-ratio`
 - **Name:** Emergency Release Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERR-RM
 
@@ -27,7 +27,7 @@ Emergency Releases / Total Releases
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Cash on Hand** (DCOH) in the Open
 - **Canonical id:** `dea:metric-days-cash-on-hand`
 - **Name:** Days Cash on Hand
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCOH
 
@@ -27,8 +27,8 @@ Cash and Equivalents / Average Daily Operating Expenses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

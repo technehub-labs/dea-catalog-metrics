@@ -7,7 +7,7 @@ Candidate Performance Metric record for **KYC Remediation Backlog Ratio** (KRB) 
 - **Canonical id:** `dea:metric-kyc-remediation-backlog-ratio`
 - **Name:** KYC Remediation Backlog Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KRB
 
@@ -27,7 +27,7 @@ Files Requiring Update / Total Customer Files
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

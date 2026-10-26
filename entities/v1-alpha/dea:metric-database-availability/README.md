@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Database Availability** (DBAVL) in the
 - **Canonical id:** `dea:metric-database-availability`
 - **Name:** Database Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DBAVL
 
@@ -23,7 +23,7 @@ Database Service Uptime in Period
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

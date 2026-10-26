@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sulfur Recovery Efficiency** (SRE) in 
 - **Canonical id:** `dea:metric-sulfur-recovery-efficiency`
 - **Name:** Sulfur Recovery Efficiency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRE
 
@@ -27,7 +27,7 @@ Sulfur Recovered / Sulfur in Feed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

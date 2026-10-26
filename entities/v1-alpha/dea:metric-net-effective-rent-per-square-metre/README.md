@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Effective Rent per Square Metre** 
 - **Canonical id:** `dea:metric-net-effective-rent-per-square-metre`
 - **Name:** Net Effective Rent per Square Metre
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NER
 

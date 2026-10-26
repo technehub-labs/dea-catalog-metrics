@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Provision Resource** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-provision-resource`
 - **Name:** Mean Time to Provision Resource
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTP
 
@@ -23,8 +23,8 @@ Hours from Request to Provisioned Resource
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

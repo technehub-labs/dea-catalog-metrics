@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Attribution Turnaround** (CAT
 - **Canonical id:** `dea:metric-campaign-attribution-turnaround`
 - **Name:** Campaign Attribution Turnaround
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAT
 
@@ -23,8 +23,8 @@ Days to Characterize Active Campaign
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

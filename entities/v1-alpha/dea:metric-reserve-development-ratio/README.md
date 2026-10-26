@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Development Ratio** (RDR) in t
 - **Canonical id:** `dea:metric-reserve-development-ratio`
 - **Name:** Reserve Development Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RDR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Migration Readiness** (CMR) in t
 - **Canonical id:** `dea:metric-cloud-migration-readiness`
 - **Name:** Cloud Migration Readiness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMR
 
@@ -27,7 +27,7 @@ Applications Assessed Migration-Ready / Applications in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

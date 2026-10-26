@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Citizen Satisfaction Index (Government
 - **Canonical id:** `dea:metric-citizen-satisfaction-index-government`
 - **Name:** Citizen Satisfaction Index (Government)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSI-G
 

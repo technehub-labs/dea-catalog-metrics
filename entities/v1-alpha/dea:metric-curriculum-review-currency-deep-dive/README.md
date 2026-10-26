@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Curriculum Review Currency (Deep Dive)
 - **Canonical id:** `dea:metric-curriculum-review-currency-deep-dive`
 - **Name:** Curriculum Review Currency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRC-D
 
@@ -27,7 +27,7 @@ Courses Reviewed within Cycle / Courses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

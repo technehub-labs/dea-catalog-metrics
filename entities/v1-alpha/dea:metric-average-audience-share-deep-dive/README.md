@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Audience Share (Deep Dive)** (
 - **Canonical id:** `dea:metric-average-audience-share-deep-dive`
 - **Name:** Average Audience Share (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAS-D
 
@@ -27,7 +27,7 @@ Viewers of Channel / Total Viewers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Replenishment Lead Time Adherence** (R
 - **Canonical id:** `dea:metric-replenishment-lead-time-adherence`
 - **Name:** Replenishment Lead Time Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RLTA
 
@@ -23,7 +23,7 @@ Replenishments within Planned Lead Time / Replenishments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API P95 Latency** (APIP95) in the Open
 - **Canonical id:** `dea:metric-api-p95-latency`
 - **Name:** API P95 Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APIP95
 
@@ -23,8 +23,8 @@ A API Lifecycle Management indicator, API P95 Latency (APIP95) quantifies the qu
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

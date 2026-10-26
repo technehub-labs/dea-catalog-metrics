@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Margin (Deep Dive)** (OPMDD)
 - **Canonical id:** `dea:metric-operating-margin-deep-dive`
 - **Name:** Operating Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OPMDD
 
@@ -27,7 +27,7 @@ Operating Income / Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

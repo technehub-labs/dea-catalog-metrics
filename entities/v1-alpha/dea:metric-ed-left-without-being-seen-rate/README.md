@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ED Left Without Being Seen Rate** (LWB
 - **Canonical id:** `dea:metric-ed-left-without-being-seen-rate`
 - **Name:** ED Left Without Being Seen Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LWBS
 
@@ -23,7 +23,7 @@ Patients Leaving before Care / ED Arrivals
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

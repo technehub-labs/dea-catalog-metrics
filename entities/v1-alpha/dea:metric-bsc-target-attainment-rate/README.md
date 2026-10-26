@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Target Attainment Rate** (BTAR) in
 - **Canonical id:** `dea:metric-bsc-target-attainment-rate`
 - **Name:** BSC Target Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BTAR
 
@@ -27,7 +27,7 @@ Measures Meeting Target / Measures with Targets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

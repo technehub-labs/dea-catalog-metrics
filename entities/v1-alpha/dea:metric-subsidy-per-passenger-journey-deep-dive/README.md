@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subsidy per Passenger Journey (Deep Di
 - **Canonical id:** `dea:metric-subsidy-per-passenger-journey-deep-dive`
 - **Name:** Subsidy per Passenger Journey (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPR-D
 

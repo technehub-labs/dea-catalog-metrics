@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Faculty Publication Rate** (FPR) in th
 - **Canonical id:** `dea:metric-faculty-publication-rate`
 - **Name:** Faculty Publication Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPR
 

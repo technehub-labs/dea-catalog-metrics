@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Social Engagement Rate** (SER) in the 
 - **Canonical id:** `dea:metric-social-engagement-rate`
 - **Name:** Social Engagement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SER
 
@@ -23,7 +23,7 @@ Interactions / Followers or Impressions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

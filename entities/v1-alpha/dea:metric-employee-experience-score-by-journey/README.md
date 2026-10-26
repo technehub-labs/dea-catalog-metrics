@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Experience Score by Journey**
 - **Canonical id:** `dea:metric-employee-experience-score-by-journey`
 - **Name:** Employee Experience Score by Journey
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EXJB
 

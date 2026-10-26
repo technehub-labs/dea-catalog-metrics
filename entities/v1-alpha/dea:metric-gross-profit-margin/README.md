@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Profit Margin** (GPM) in the Ope
 - **Canonical id:** `dea:metric-gross-profit-margin`
 - **Name:** Gross Profit Margin
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GPM
 
@@ -27,7 +27,7 @@ The most basic test of whether a business has a viable product economics: revenu
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

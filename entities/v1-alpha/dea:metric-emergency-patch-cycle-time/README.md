@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Patch Cycle Time** (EPCT-VM)
 - **Canonical id:** `dea:metric-emergency-patch-cycle-time`
 - **Name:** Emergency Patch Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPCT-VM
 
@@ -23,8 +23,8 @@ Hours from Emergency Patch Release to Deployment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

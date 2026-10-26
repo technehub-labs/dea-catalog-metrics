@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prediction Log Retention Compliance** 
 - **Canonical id:** `dea:metric-prediction-log-retention-compliance`
 - **Name:** Prediction Log Retention Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLRC-M
 
@@ -23,7 +23,7 @@ Serving Logs Retained per Policy / Logs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

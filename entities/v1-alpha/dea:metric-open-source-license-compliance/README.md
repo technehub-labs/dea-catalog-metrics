@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Source License Compliance** (OSLC
 - **Canonical id:** `dea:metric-open-source-license-compliance`
 - **Name:** Open Source License Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OSLC
 
@@ -23,7 +23,7 @@ Open Source Components with Compliant Use / Components
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

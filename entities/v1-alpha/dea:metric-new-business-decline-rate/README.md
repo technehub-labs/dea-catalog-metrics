@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Business Decline Rate** (NBDR) in 
 - **Canonical id:** `dea:metric-new-business-decline-rate`
 - **Name:** New Business Decline Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NBDR
 
@@ -23,7 +23,7 @@ Risks Declined / Risks Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

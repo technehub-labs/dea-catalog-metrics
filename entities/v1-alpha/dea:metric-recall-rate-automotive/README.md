@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recall Rate (Automotive)** (RRA) in th
 - **Canonical id:** `dea:metric-recall-rate-automotive`
 - **Name:** Recall Rate (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRA
 
@@ -27,7 +27,7 @@ Recalled Vehicles / Vehicles Sold
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

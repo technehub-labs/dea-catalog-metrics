@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost Ratio to Output** (ECRO) i
 - **Canonical id:** `dea:metric-energy-cost-ratio-to-output`
 - **Name:** Energy Cost Ratio to Output
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ECRO
 

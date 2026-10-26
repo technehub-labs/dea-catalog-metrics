@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Radio Access Network Utilization** (RA
 - **Canonical id:** `dea:metric-radio-access-network-utilization`
 - **Name:** Radio Access Network Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RANU
 
@@ -27,7 +27,7 @@ Used Radio Capacity / Provisioned Radio Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

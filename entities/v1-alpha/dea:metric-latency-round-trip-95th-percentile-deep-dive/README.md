@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Latency - Round Trip 95th Percentile (
 - **Canonical id:** `dea:metric-latency-round-trip-95th-percentile-deep-dive`
 - **Name:** Latency - Round Trip 95th Percentile (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RTT95
 
@@ -23,8 +23,8 @@ Within Telecom Network Operations (Deep Dive), Latency - Round Trip 95th Percent
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

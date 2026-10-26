@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cell Site Outage Rate** (CSOR) in the 
 - **Canonical id:** `dea:metric-cell-site-outage-rate`
 - **Name:** Cell Site Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSOR
 
@@ -23,7 +23,7 @@ Site Outages / Sites
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

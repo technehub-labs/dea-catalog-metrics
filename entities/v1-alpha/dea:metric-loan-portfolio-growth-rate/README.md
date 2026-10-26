@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Portfolio Growth Rate** (LPGR) in
 - **Canonical id:** `dea:metric-loan-portfolio-growth-rate`
 - **Name:** Loan Portfolio Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LPGR
 
@@ -27,7 +27,7 @@ Loan portfolio growth rate measures the expansion of outstanding credit, and it 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

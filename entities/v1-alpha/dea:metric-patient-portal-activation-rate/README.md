@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Portal Activation Rate** (PPAR
 - **Canonical id:** `dea:metric-patient-portal-activation-rate`
 - **Name:** Patient Portal Activation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PPAR
 
@@ -23,7 +23,7 @@ Patients Activated in Portal / Eligible Patients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

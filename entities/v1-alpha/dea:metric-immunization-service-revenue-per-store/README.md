@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Immunization Service Revenue per Store
 - **Canonical id:** `dea:metric-immunization-service-revenue-per-store`
 - **Name:** Immunization Service Revenue per Store
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ISRS
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Online Reputation Score (Hotels)** (OR
 - **Canonical id:** `dea:metric-online-reputation-score-hotels`
 - **Name:** Online Reputation Score (Hotels)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ORS-H
 

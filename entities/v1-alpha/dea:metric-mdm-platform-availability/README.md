@@ -7,7 +7,7 @@ Candidate Performance Metric record for **MDM Platform Availability** (MDMPA) in
 - **Canonical id:** `dea:metric-mdm-platform-availability`
 - **Name:** MDM Platform Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MDMPA
 
@@ -23,7 +23,7 @@ Uptime of MDM Hub Services
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

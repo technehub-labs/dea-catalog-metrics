@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Delinquency Treatment Uptake** (PD
 - **Canonical id:** `dea:metric-pre-delinquency-treatment-uptake`
 - **Name:** Pre-Delinquency Treatment Uptake
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDTU
 
@@ -23,7 +23,7 @@ At-Risk Customers Accepting Treatment / Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Implementation On-Time Rate** (
 - **Canonical id:** `dea:metric-policy-implementation-on-time-rate`
 - **Name:** Policy Implementation On-Time Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PIT
 
@@ -27,7 +27,7 @@ Policy Milestones Met on Schedule / Milestones Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

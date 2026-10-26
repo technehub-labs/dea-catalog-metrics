@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Key Control Operating Effectiveness Ra
 - **Canonical id:** `dea:metric-key-control-operating-effectiveness-rate`
 - **Name:** Key Control Operating Effectiveness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KCOER
 
@@ -27,7 +27,7 @@ Key Controls Operating Effectively / Key Controls Tested
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

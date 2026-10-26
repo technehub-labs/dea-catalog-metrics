@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tester-to-Developer Ratio Effectivenes
 - **Canonical id:** `dea:metric-tester-to-developer-ratio-effectiveness-index`
 - **Name:** Tester-to-Developer Ratio Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TDREI
 

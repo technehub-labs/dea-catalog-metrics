@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drilling Non-Productive Time** (NPT) i
 - **Canonical id:** `dea:metric-drilling-non-productive-time`
 - **Name:** Drilling Non-Productive Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NPT
 
@@ -27,7 +27,7 @@ Non-Productive Drilling Hours / Total Drilling Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

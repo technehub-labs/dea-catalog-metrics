@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Parity Time to Competitor** (F
 - **Canonical id:** `dea:metric-feature-parity-time-to-competitor`
 - **Name:** Feature Parity Time to Competitor
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPTC
 
@@ -27,8 +27,8 @@ Days between Competitor Launch and Parity Feature Launch
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

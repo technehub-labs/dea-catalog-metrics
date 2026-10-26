@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Value-Added Cost Ratio** (NVAC) in
 - **Canonical id:** `dea:metric-non-value-added-cost-ratio`
 - **Name:** Non-Value-Added Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NVAC
 
@@ -27,7 +27,7 @@ Non-Value-Added Cost / Total Process Cost
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

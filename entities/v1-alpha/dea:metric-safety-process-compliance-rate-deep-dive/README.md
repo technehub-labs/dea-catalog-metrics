@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Process Compliance Rate (Deep D
 - **Canonical id:** `dea:metric-safety-process-compliance-rate-deep-dive`
 - **Name:** Safety Process Compliance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPCR-D
 
@@ -27,7 +27,7 @@ Safety Process Audits Passed / Audits
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

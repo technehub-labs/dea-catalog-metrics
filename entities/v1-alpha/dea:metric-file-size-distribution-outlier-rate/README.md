@@ -7,7 +7,7 @@ Candidate Performance Metric record for **File Size Distribution Outlier Rate** 
 - **Canonical id:** `dea:metric-file-size-distribution-outlier-rate`
 - **Name:** File Size Distribution Outlier Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FSDOR
 
@@ -23,7 +23,7 @@ Files Exceeding Size Guideline / Files
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

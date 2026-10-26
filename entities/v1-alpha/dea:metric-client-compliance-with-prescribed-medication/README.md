@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Compliance with Prescribed Medi
 - **Canonical id:** `dea:metric-client-compliance-with-prescribed-medication`
 - **Name:** Client Compliance with Prescribed Medication
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCPM
 
@@ -23,7 +23,7 @@ Refills Collected on Schedule / Prescribed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

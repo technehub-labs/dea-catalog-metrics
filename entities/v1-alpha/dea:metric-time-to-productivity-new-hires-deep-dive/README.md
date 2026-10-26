@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Productivity - New Hires (Deep
 - **Canonical id:** `dea:metric-time-to-productivity-new-hires-deep-dive`
 - **Name:** Time to Productivity - New Hires (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTP-D2
 
@@ -23,8 +23,8 @@ Days to Reach Full Productivity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

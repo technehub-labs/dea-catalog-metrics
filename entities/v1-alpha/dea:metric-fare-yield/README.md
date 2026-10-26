@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fare Yield** (FY) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-fare-yield`
 - **Name:** Fare Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FY
 

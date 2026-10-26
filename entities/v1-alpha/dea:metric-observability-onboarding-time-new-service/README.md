@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Observability Onboarding Time (New Ser
 - **Canonical id:** `dea:metric-observability-onboarding-time-new-service`
 - **Name:** Observability Onboarding Time (New Service)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OONT
 
@@ -23,8 +23,8 @@ Days from Service Launch to Full Instrumentation
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

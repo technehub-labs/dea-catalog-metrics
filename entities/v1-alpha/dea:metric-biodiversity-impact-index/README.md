@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Biodiversity Impact Index** (BII) in t
 - **Canonical id:** `dea:metric-biodiversity-impact-index`
 - **Name:** Biodiversity Impact Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BII
 

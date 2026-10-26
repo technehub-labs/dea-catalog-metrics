@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Monitoring Score** (QMS) in th
 - **Canonical id:** `dea:metric-quality-monitoring-score`
 - **Name:** Quality Monitoring Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QMS
 

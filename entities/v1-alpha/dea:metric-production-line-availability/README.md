@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Production Line Availability** (PLA) i
 - **Canonical id:** `dea:metric-production-line-availability`
 - **Name:** Production Line Availability
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLA
 
@@ -23,7 +23,7 @@ Line Uptime / Scheduled Line Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

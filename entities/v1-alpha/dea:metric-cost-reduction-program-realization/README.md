@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Reduction Program Realization** (
 - **Canonical id:** `dea:metric-cost-reduction-program-realization`
 - **Name:** Cost Reduction Program Realization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRPR
 
@@ -27,7 +27,7 @@ Realized Cost Reductions / Committed Reductions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

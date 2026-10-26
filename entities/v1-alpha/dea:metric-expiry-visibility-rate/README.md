@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expiry Visibility Rate** (EVR-CL) in t
 - **Canonical id:** `dea:metric-expiry-visibility-rate`
 - **Name:** Expiry Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EVR-CL
 
@@ -23,7 +23,7 @@ Contracts with Expiry Alerts Configured / Expiring Contracts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

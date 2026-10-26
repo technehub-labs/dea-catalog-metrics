@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milestone Achievement Confidence** (MA
 - **Canonical id:** `dea:metric-milestone-achievement-confidence`
 - **Name:** Milestone Achievement Confidence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MAC
 
@@ -27,7 +27,7 @@ Program Milestones at Green Confidence / Milestones
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Error Volatility** (TEV) in t
 - **Canonical id:** `dea:metric-tracking-error-volatility`
 - **Name:** Tracking Error Volatility
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TEV
 
@@ -27,7 +27,7 @@ Standard Deviation of Portfolio vs Benchmark Returns
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

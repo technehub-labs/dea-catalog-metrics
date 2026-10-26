@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pricing Win Rate** (PWR-P) in the Open
 - **Canonical id:** `dea:metric-pricing-win-rate`
 - **Name:** Pricing Win Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PWR-P
 
@@ -27,7 +27,7 @@ Deals Won at Target Price / Deals Won
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

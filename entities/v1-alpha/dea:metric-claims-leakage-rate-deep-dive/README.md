@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Leakage Rate (Deep Dive)** (CLR
 - **Canonical id:** `dea:metric-claims-leakage-rate-deep-dive`
 - **Name:** Claims Leakage Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CLR-D
 
@@ -27,7 +27,7 @@ Avoidable Claim Costs / Total Claim Costs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Cash Flow Yield** (FCFY) in the O
 - **Canonical id:** `dea:metric-free-cash-flow-yield`
 - **Name:** Free Cash Flow Yield
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCFY
 
@@ -27,7 +27,7 @@ Free Cash Flow / Enterprise Value
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

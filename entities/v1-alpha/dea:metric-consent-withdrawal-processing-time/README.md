@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Consent Withdrawal Processing Time** (
 - **Canonical id:** `dea:metric-consent-withdrawal-processing-time`
 - **Name:** Consent Withdrawal Processing Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CWPT
 
@@ -23,8 +23,8 @@ Days to Effect Withdrawal across Systems
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

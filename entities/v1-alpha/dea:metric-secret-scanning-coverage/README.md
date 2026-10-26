@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secret Scanning Coverage** (SSC-AS) in
 - **Canonical id:** `dea:metric-secret-scanning-coverage`
 - **Name:** Secret Scanning Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSC-AS
 
@@ -23,7 +23,7 @@ Repositories with Secret Scanning / Repositories
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

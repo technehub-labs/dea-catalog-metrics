@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-Robot Collaboration Task Share**
 - **Canonical id:** `dea:metric-human-robot-collaboration-task-share`
 - **Name:** Human-Robot Collaboration Task Share
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HRTS
 
@@ -27,7 +27,7 @@ Tasks Performed Collaboratively / Automatable Tasks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Eligibility Determination Cycle Time**
 - **Canonical id:** `dea:metric-eligibility-determination-cycle-time`
 - **Name:** Eligibility Determination Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EDCT
 
@@ -23,8 +23,8 @@ Days from Application to Eligibility Decision
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

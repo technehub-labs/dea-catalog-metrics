@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Screening Wait Time** (SSWT) 
 - **Canonical id:** `dea:metric-security-screening-wait-time`
 - **Name:** Security Screening Wait Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSWT
 
@@ -27,8 +27,8 @@ Median Passenger Wait at Checkpoint
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

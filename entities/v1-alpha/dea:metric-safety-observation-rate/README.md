@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Observation Rate** (SOR) in the
 - **Canonical id:** `dea:metric-safety-observation-rate`
 - **Name:** Safety Observation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SOR
 

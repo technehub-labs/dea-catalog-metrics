@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Cycle Time (Deep Dive)** (CCT-D
 - **Canonical id:** `dea:metric-claims-cycle-time-deep-dive`
 - **Name:** Claims Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCT-D
 
@@ -27,8 +27,8 @@ Days from First Notification to Claim Closure
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

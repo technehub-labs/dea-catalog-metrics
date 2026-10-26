@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Penetration Test Finding Recurrence Ra
 - **Canonical id:** `dea:metric-penetration-test-finding-recurrence-rate`
 - **Name:** Penetration Test Finding Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTFRR
 
@@ -27,7 +27,7 @@ Findings Recurring from Prior Test / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

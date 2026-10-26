@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recovery Rate (Street Cleaning)*
 - **Canonical id:** `dea:metric-water-recovery-rate-street-cleaning`
 - **Name:** Water Recovery Rate (Street Cleaning)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WRR-S2
 
@@ -23,7 +23,7 @@ Recovered Wastewater / Water Used
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

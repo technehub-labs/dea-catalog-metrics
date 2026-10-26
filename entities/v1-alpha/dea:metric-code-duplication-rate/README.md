@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Duplication Rate** (CDR-SA) in th
 - **Canonical id:** `dea:metric-code-duplication-rate`
 - **Name:** Code Duplication Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDR-SA
 
@@ -23,7 +23,7 @@ Duplicated Lines / Total Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

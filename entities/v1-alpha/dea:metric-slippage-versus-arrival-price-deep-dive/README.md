@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slippage versus Arrival Price (Deep Di
 - **Canonical id:** `dea:metric-slippage-versus-arrival-price-deep-dive`
 - **Name:** Slippage versus Arrival Price (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SAP-D
 
@@ -23,7 +23,7 @@ Execution Price vs Arrival Price Difference
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

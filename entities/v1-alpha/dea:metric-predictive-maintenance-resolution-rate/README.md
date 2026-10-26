@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Predictive Maintenance Resolution Rate
 - **Canonical id:** `dea:metric-predictive-maintenance-resolution-rate`
 - **Name:** Predictive Maintenance Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMRR
 
@@ -27,7 +27,7 @@ Issues Resolved before Failure via Prediction / Predicted Issues
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

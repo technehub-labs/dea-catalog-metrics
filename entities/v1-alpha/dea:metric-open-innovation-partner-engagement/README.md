@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Innovation Partner Engagement** (
 - **Canonical id:** `dea:metric-open-innovation-partner-engagement`
 - **Name:** Open Innovation Partner Engagement
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OIP
 
@@ -27,7 +27,7 @@ Active External Collaboration Projects / Total Innovation Projects
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

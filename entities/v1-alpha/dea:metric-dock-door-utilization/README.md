@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dock Door Utilization** (DDU) in the O
 - **Canonical id:** `dea:metric-dock-door-utilization`
 - **Name:** Dock Door Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDU
 
@@ -23,7 +23,7 @@ Dock Hours Used / Dock Hours Available
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

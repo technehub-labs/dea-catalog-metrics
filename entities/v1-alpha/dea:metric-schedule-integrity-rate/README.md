@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Integrity Rate** (SIR-AT) in 
 - **Canonical id:** `dea:metric-schedule-integrity-rate`
 - **Name:** Schedule Integrity Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIR-AT
 
@@ -23,7 +23,7 @@ Flights Departing as Scheduled without Swap or Cancel / Flights
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

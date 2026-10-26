@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Culture Alignment Index** (CAI) in the
 - **Canonical id:** `dea:metric-culture-alignment-index`
 - **Name:** Culture Alignment Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CAI
 

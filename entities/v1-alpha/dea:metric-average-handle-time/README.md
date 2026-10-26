@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Handle Time** (AHT) in the Ope
 - **Canonical id:** `dea:metric-average-handle-time`
 - **Name:** Average Handle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AHT
 
@@ -23,8 +23,8 @@ Talk Time + Hold Time + After-Call Work Time / Calls Handled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-minutes`
-- **Unit:** minutes
+- **Unit reference:** `dea:unit-minute`
+- **Unit:** minute
 - **Unit label (as published):** minutes
 
 ## Classification

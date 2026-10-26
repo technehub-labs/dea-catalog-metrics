@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drift Detection Rate** (DDR-CS) in the
 - **Canonical id:** `dea:metric-drift-detection-rate`
 - **Name:** Drift Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDR-CS
 
@@ -23,7 +23,7 @@ Config Drift Events Detected before Change Window / Drift Events
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

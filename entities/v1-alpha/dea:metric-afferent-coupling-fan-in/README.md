@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Afferent Coupling (Fan-In)** (AFFC) in
 - **Canonical id:** `dea:metric-afferent-coupling-fan-in`
 - **Name:** Afferent Coupling (Fan-In)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFFC
 

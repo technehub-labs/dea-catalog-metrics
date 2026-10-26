@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preferred Supplier Share (Travel)** (P
 - **Canonical id:** `dea:metric-preferred-supplier-share-travel`
 - **Name:** Preferred Supplier Share (Travel)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PSS
 
@@ -27,7 +27,7 @@ Bookings with Preferred Suppliers / Total Bookings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

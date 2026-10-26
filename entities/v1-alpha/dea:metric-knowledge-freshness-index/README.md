@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Freshness Index** (KFI) in t
 - **Canonical id:** `dea:metric-knowledge-freshness-index`
 - **Name:** Knowledge Freshness Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** KFI
 
@@ -23,7 +23,7 @@ Articles Reviewed within Currency Standard / Articles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

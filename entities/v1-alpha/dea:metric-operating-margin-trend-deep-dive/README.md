@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Margin Trend (Deep Dive)** (
 - **Canonical id:** `dea:metric-operating-margin-trend-deep-dive`
 - **Name:** Operating Margin Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OMT-D
 
@@ -27,7 +27,7 @@ Change in Operating Margin over Periods
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

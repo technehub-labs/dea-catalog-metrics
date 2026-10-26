@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Zero-Downtime Deployment Rate** (ZDDR)
 - **Canonical id:** `dea:metric-zero-downtime-deployment-rate`
 - **Name:** Zero-Downtime Deployment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ZDDR
 
@@ -27,7 +27,7 @@ Deployments without Service Interruption / Deployments
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

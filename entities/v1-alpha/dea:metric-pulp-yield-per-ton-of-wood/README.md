@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pulp Yield per Ton of Wood** (PYT) in 
 - **Canonical id:** `dea:metric-pulp-yield-per-ton-of-wood`
 - **Name:** Pulp Yield per Ton of Wood
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PYT
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Collect** (CTC) in the OpenDEA
 - **Canonical id:** `dea:metric-cost-to-collect`
 - **Name:** Cost to Collect
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CTC
 
@@ -27,7 +27,7 @@ Total Revenue Cycle Cost / Collected Revenue
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

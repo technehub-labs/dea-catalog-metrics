@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flexibility Program Utilization** (FPU
 - **Canonical id:** `dea:metric-flexibility-program-utilization`
 - **Name:** Flexibility Program Utilization
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPU-DEI
 
@@ -23,7 +23,7 @@ Employees Using Flexible Arrangements / Employees
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

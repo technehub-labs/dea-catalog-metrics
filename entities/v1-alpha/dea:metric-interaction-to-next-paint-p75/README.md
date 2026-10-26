@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interaction to Next Paint (P75)** (INP
 - **Canonical id:** `dea:metric-interaction-to-next-paint-p75`
 - **Name:** Interaction to Next Paint (P75)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** INP75
 
@@ -23,8 +23,8 @@ Interaction to Next Paint (P75) (INP75) addresses the quality of outputs and out
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

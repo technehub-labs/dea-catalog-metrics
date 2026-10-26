@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Reporting Timeliness (Marke
 - **Canonical id:** `dea:metric-regulatory-reporting-timeliness-markets`
 - **Name:** Regulatory Reporting Timeliness (Markets)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RRT-M
 
@@ -27,7 +27,7 @@ Reports Filed by Deadline / Reports Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

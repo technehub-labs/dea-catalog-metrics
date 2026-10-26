@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Early Payment Discount Capture Rate** 
 - **Canonical id:** `dea:metric-early-payment-discount-capture-rate`
 - **Name:** Early Payment Discount Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EPDCR
 
@@ -23,7 +23,7 @@ Discounts Captured / Discounts Offered
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

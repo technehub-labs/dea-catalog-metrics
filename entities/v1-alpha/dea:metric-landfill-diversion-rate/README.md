@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Landfill Diversion Rate** (LDR) in the
 - **Canonical id:** `dea:metric-landfill-diversion-rate`
 - **Name:** Landfill Diversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LDR
 
@@ -27,7 +27,7 @@ Diverted Waste / Total Waste Collected
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

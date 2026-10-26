@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Returns Rate** (CRR) in the O
 - **Canonical id:** `dea:metric-customer-returns-rate`
 - **Name:** Customer Returns Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CRR
 
@@ -27,7 +27,7 @@ Returned Units / Units Sold
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

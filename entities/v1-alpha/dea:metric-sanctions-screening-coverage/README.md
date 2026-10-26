@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanctions Screening Coverage** (SSC-FC
 - **Canonical id:** `dea:metric-sanctions-screening-coverage`
 - **Name:** Sanctions Screening Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSC-FC
 
@@ -27,7 +27,7 @@ Transactions Screened / In-Scope Transactions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

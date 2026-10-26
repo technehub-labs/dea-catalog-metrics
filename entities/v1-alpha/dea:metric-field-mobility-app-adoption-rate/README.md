@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Mobility App Adoption Rate** (FM
 - **Canonical id:** `dea:metric-field-mobility-app-adoption-rate`
 - **Name:** Field Mobility App Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FMAAR
 
@@ -23,7 +23,7 @@ Technicians Using Digital Work Order App / Technicians
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

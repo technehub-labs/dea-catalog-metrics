@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Producer Productivity** (PRP-I) in the
 - **Canonical id:** `dea:metric-producer-productivity`
 - **Name:** Producer Productivity
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRP-I
 

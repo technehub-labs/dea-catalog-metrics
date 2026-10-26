@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Assets Ratio (Deep Dive)** (DA
 - **Canonical id:** `dea:metric-debt-to-assets-ratio-deep-dive`
 - **Name:** Debt-to-Assets Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DARDD
 
@@ -27,7 +27,7 @@ Total Debt / Total Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

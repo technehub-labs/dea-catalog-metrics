@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Project Success Rate** (RPSR2) in 
 - **Canonical id:** `dea:metric-r-d-project-success-rate`
 - **Name:** R&D Project Success Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RPSR2
 
@@ -27,7 +27,7 @@ Projects Meeting Objectives / Projects Started
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

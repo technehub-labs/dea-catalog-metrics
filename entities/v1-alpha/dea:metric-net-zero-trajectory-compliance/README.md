@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Zero Trajectory Compliance** (NZTC
 - **Canonical id:** `dea:metric-net-zero-trajectory-compliance`
 - **Name:** Net Zero Trajectory Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NZTC
 

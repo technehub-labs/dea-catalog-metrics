@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Coaching Program Effectiveness Score**
 - **Canonical id:** `dea:metric-coaching-program-effectiveness-score`
 - **Name:** Coaching Program Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CPES
 

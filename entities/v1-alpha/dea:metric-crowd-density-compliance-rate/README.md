@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crowd Density Compliance Rate** (CDCR-
 - **Canonical id:** `dea:metric-crowd-density-compliance-rate`
 - **Name:** Crowd Density Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CDCR-E
 
@@ -23,7 +23,7 @@ Times within Density Limits / Monitoring Periods
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

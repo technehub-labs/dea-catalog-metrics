@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Plan Coverage** (FPC) in the
 - **Canonical id:** `dea:metric-financial-plan-coverage`
 - **Name:** Financial Plan Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPC
 
@@ -27,7 +27,7 @@ Clients with Current Written Financial Plan / Clients
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Control Compliance** (ACC-P) in
 - **Canonical id:** `dea:metric-access-control-compliance`
 - **Name:** Access Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ACC-P
 
@@ -23,7 +23,7 @@ Access Events per Policy / Access Events Audited
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

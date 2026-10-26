@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Cost per Vehicle** (WCPV) in 
 - **Canonical id:** `dea:metric-warranty-cost-per-vehicle`
 - **Name:** Warranty Cost per Vehicle
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WCPV
 

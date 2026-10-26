@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Load Factor (Deep Dive)** (P
 - **Canonical id:** `dea:metric-passenger-load-factor-deep-dive`
 - **Name:** Passenger Load Factor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLFDD
 
@@ -27,7 +27,7 @@ Revenue Passenger Kilometers / Available Seat Kilometers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

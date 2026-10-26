@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimation Bias Calibration Index** (E
 - **Canonical id:** `dea:metric-estimation-bias-calibration-index`
 - **Name:** Estimation Bias Calibration Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EBCI-PM
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Look-to-Book Ratio** (L2B) in the Open
 - **Canonical id:** `dea:metric-look-to-book-ratio`
 - **Name:** Look-to-Book Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** L2B
 

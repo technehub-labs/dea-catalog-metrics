@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Line Breakeven Coverage** (PLB
 - **Canonical id:** `dea:metric-product-line-breakeven-coverage`
 - **Name:** Product Line Breakeven Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PLBC
 
@@ -27,7 +27,7 @@ Products above Breakeven Volume / Products Sold
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

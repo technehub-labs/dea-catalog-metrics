@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Model Coverage** (FMC-EF) in the
 - **Canonical id:** `dea:metric-fraud-model-coverage`
 - **Name:** Fraud Model Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FMC-EF
 
@@ -27,7 +27,7 @@ Transaction Channels Monitored by Fraud Models / Channels
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

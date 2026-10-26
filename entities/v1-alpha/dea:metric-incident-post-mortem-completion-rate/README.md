@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Post-Mortem Completion Rate**
 - **Canonical id:** `dea:metric-incident-post-mortem-completion-rate`
 - **Name:** Incident Post-Mortem Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IPMCR
 
@@ -27,7 +27,7 @@ Incidents with Completed Post-Mortem / Major Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

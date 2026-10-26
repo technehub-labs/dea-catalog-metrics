@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Vacancy Rate (Government)** 
 - **Canonical id:** `dea:metric-workforce-vacancy-rate-government`
 - **Name:** Workforce Vacancy Rate (Government)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WVR-G
 
@@ -27,7 +27,7 @@ Unfilled Positions / Funded Positions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

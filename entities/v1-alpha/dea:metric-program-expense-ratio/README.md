@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Expense Ratio** (PER-N) in the
 - **Canonical id:** `dea:metric-program-expense-ratio`
 - **Name:** Program Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PER-N
 
@@ -27,7 +27,7 @@ Program Service Expenses / Total Expenses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

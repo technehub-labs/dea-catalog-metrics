@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract SLA Attainment (Cleaning)** (
 - **Canonical id:** `dea:metric-contract-sla-attainment-cleaning`
 - **Name:** Contract SLA Attainment (Cleaning)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSLA-C
 
@@ -23,7 +23,7 @@ SLAs Met / SLAs Measured
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

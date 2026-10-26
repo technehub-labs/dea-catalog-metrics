@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dependency Visibility Covera
 - **Canonical id:** `dea:metric-portfolio-dependency-visibility-coverage`
 - **Name:** Portfolio Dependency Visibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PDVC
 
@@ -27,7 +27,7 @@ Initiatives with Mapped Dependencies / Initiatives
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

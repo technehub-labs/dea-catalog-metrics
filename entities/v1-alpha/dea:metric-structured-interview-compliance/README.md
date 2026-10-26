@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Structured Interview Compliance** (SIC
 - **Canonical id:** `dea:metric-structured-interview-compliance`
 - **Name:** Structured Interview Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIC-TA
 
@@ -23,7 +23,7 @@ Interviews Using Structured Guides / Interviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

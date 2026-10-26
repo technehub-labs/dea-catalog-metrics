@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Franchise Ramp Time (Deep Dive)** 
 - **Canonical id:** `dea:metric-new-franchise-ramp-time-deep-dive`
 - **Name:** New Franchise Ramp Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NFRM-D
 
@@ -27,8 +27,8 @@ Months from Opening to Breakeven
 
 ## Unit
 
-- **Unit reference:** `dea:unit-months`
-- **Unit:** months
+- **Unit reference:** `dea:unit-month`
+- **Unit:** month
 - **Unit label (as published):** months
 
 ## Classification

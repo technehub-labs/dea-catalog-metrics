@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Lift (Ad Recall)** (BLAR) in the
 - **Canonical id:** `dea:metric-brand-lift-ad-recall`
 - **Name:** Brand Lift (Ad Recall)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BLAR
 
@@ -27,7 +27,7 @@ Exposed Recall minus Control Recall
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

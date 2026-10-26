@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Code Compliance Score** (GC
 - **Canonical id:** `dea:metric-governance-code-compliance-score`
 - **Name:** Governance Code Compliance Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GCCS
 
@@ -27,7 +27,7 @@ Complied Code Provisions / Applicable Provisions
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

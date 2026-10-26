@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager Effectiveness Index (Deep Dive
 - **Canonical id:** `dea:metric-manager-effectiveness-index-deep-dive`
 - **Name:** Manager Effectiveness Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MEIDD
 

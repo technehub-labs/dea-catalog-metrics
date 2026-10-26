@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Fidelity Validation Rate** (
 - **Canonical id:** `dea:metric-prototype-fidelity-validation-rate`
 - **Name:** Prototype Fidelity Validation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PFVR
 
@@ -23,7 +23,7 @@ Prototypes Validated with Users before Build / Prototypes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

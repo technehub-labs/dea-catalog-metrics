@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Recertification Completion** (A
 - **Canonical id:** `dea:metric-access-recertification-completion`
 - **Name:** Access Recertification Completion
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARC-IC
 
@@ -23,7 +23,7 @@ Access Reviews Completed by Due Date / Reviews
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

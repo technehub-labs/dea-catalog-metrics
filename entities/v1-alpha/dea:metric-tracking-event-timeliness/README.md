@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Event Timeliness** (TET) in t
 - **Canonical id:** `dea:metric-tracking-event-timeliness`
 - **Name:** Tracking Event Timeliness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TET
 
@@ -23,7 +23,7 @@ Scan Events Posted within Threshold / Events Generated
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation-to-Engineering Rate - Field
 - **Canonical id:** `dea:metric-escalation-to-engineering-rate-field`
 - **Name:** Escalation-to-Engineering Rate - Field
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EEF
 
@@ -23,7 +23,7 @@ Jobs Escalated to Engineering / Jobs
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

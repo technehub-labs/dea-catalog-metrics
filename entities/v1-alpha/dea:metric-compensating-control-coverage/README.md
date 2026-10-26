@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensating Control Coverage** (CCC-V
 - **Canonical id:** `dea:metric-compensating-control-coverage`
 - **Name:** Compensating Control Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCC-VM
 
@@ -23,7 +23,7 @@ Unpatched Systems with Compensating Controls / Unpatched Systems
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

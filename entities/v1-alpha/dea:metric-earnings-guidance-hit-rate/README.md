@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Guidance Hit Rate** (EGHR) in
 - **Canonical id:** `dea:metric-earnings-guidance-hit-rate`
 - **Name:** Earnings Guidance Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EGHR
 
@@ -27,7 +27,7 @@ Periods within Guidance Range / Periods Guided
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

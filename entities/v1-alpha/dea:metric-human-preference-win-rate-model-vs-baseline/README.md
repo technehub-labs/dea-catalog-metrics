@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human Preference Win Rate - Model vs B
 - **Canonical id:** `dea:metric-human-preference-win-rate-model-vs-baseline`
 - **Name:** Human Preference Win Rate - Model vs Baseline
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HPWR
 
@@ -27,7 +27,7 @@ Blind Preferences for New Model / Total Evaluations
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

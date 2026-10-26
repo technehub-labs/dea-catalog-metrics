@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Loss Provision Ratio** (LLPR) in 
 - **Canonical id:** `dea:metric-loan-loss-provision-ratio`
 - **Name:** Loan Loss Provision Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LLPR
 
@@ -27,7 +27,7 @@ Loan Loss Provisions / Gross Loans
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

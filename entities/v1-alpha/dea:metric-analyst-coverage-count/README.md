@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Coverage Count** (ANCC) in the
 - **Canonical id:** `dea:metric-analyst-coverage-count`
 - **Name:** Analyst Coverage Count
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ANCC
 

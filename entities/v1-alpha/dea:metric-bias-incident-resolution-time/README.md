@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bias Incident Resolution Time** (BIRT)
 - **Canonical id:** `dea:metric-bias-incident-resolution-time`
 - **Name:** Bias Incident Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BIRT
 
@@ -23,8 +23,8 @@ Days from Report to Formal Resolution
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

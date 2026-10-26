@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Renewal Decision Compliance** (IRDC
 - **Canonical id:** `dea:metric-ip-renewal-decision-compliance`
 - **Name:** IP Renewal Decision Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRDC
 
@@ -23,7 +23,7 @@ Renewals Decided by Review Date / Renewals Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

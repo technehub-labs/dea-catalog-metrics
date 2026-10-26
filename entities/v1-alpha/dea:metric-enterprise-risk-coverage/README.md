@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Enterprise Risk Coverage** (ERC) in th
 - **Canonical id:** `dea:metric-enterprise-risk-coverage`
 - **Name:** Enterprise Risk Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERC
 
@@ -27,7 +27,7 @@ Risks with Assigned Owner and Appetite / Total Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

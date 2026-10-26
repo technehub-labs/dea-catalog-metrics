@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Authorization Approval Rate (Deep Dive
 - **Canonical id:** `dea:metric-authorization-approval-rate-deep-dive`
 - **Name:** Authorization Approval Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AAR-D
 
@@ -27,7 +27,7 @@ Approved Authorizations / Authorization Attempts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

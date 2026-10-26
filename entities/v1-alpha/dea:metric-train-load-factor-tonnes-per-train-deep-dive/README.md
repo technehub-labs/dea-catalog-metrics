@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Train Load Factor - Tonnes per Train (
 - **Canonical id:** `dea:metric-train-load-factor-tonnes-per-train-deep-dive`
 - **Name:** Train Load Factor - Tonnes per Train (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TLF-D
 
@@ -27,8 +27,8 @@ Net Tonnes / Trains
 
 ## Unit
 
-- **Unit reference:** `dea:unit-tonnes`
-- **Unit:** tonnes
+- **Unit reference:** `dea:unit-tonne`
+- **Unit:** tonne
 - **Unit label (as published):** tonnes
 
 ## Classification

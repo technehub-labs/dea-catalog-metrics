@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Contain - Security** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-contain-security`
 - **Name:** Mean Time to Contain - Security
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MTTC-S
 
@@ -27,8 +27,8 @@ Hours from Response to Containment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

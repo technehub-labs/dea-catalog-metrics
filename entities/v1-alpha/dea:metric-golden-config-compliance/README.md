@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Config Compliance** (GCC-NW) in
 - **Canonical id:** `dea:metric-golden-config-compliance`
 - **Name:** Golden Config Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** GCC-NW
 
@@ -23,7 +23,7 @@ Devices Matching Golden Configuration / Devices in Scope
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

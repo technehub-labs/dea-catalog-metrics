@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unit Test Coverage - Line** (UTCL-QA) 
 - **Canonical id:** `dea:metric-unit-test-coverage-line`
 - **Name:** Unit Test Coverage - Line
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UTCL-QA
 
@@ -23,7 +23,7 @@ Lines Covered by Tests / Total Lines
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

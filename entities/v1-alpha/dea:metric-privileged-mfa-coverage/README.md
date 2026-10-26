@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privileged MFA Coverage** (PMFAC) in t
 - **Canonical id:** `dea:metric-privileged-mfa-coverage`
 - **Name:** Privileged MFA Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMFAC
 
@@ -27,7 +27,7 @@ Privileged Accounts Enrolled in MFA / Privileged Accounts
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

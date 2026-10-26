@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Decision Consistency** (U
 - **Canonical id:** `dea:metric-underwriting-decision-consistency`
 - **Name:** Underwriting Decision Consistency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** UDC
 
@@ -23,7 +23,7 @@ Identical Risk Decisions Matching / Identical Risks Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

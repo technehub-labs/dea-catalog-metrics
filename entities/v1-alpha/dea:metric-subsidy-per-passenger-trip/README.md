@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subsidy per Passenger Trip** (SPT) in 
 - **Canonical id:** `dea:metric-subsidy-per-passenger-trip`
 - **Name:** Subsidy per Passenger Trip
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SPT
 

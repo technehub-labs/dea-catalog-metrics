@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Override Detection Rate** (COD
 - **Canonical id:** `dea:metric-control-override-detection-rate`
 - **Name:** Control Override Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CODR
 
@@ -27,7 +27,7 @@ Overrides Detected by Monitoring / Overrides Occurring (Sampled)
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

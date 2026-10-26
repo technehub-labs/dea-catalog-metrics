@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interest Coverage Ratio** (ICR) in the
 - **Canonical id:** `dea:metric-interest-coverage-ratio`
 - **Name:** Interest Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICR
 

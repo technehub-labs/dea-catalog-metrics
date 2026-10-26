@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time on Task** (TOT-UX) in the OpenDEA
 - **Canonical id:** `dea:metric-time-on-task`
 - **Name:** Time on Task
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TOT-UX
 
@@ -23,8 +23,8 @@ Median Time for Users to Complete Standard Task
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

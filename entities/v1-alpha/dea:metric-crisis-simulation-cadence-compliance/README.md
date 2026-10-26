@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Simulation Cadence Compliance**
 - **Canonical id:** `dea:metric-crisis-simulation-cadence-compliance`
 - **Name:** Crisis Simulation Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSCC
 
@@ -27,7 +27,7 @@ Required Simulations Held per Year / Required
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

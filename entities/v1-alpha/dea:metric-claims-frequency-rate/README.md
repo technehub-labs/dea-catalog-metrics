@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Frequency Rate** (CFR-C) in the
 - **Canonical id:** `dea:metric-claims-frequency-rate`
 - **Name:** Claims Frequency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFR-C
 

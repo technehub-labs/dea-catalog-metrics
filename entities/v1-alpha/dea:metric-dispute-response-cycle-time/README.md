@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Response Cycle Time** (DRCT) i
 - **Canonical id:** `dea:metric-dispute-response-cycle-time`
 - **Name:** Dispute Response Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRCT
 
@@ -23,8 +23,8 @@ Days to Respond to Card Dispute
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

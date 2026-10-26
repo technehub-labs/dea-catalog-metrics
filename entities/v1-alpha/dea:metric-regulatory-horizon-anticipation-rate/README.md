@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Horizon Anticipation Rate**
 - **Canonical id:** `dea:metric-regulatory-horizon-anticipation-rate`
 - **Name:** Regulatory Horizon Anticipation Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RHAR
 
@@ -27,7 +27,7 @@ Regulatory Changes Anticipated before Formal Proposal / Material Changes
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

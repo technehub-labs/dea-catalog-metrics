@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Incident Frequency (Constructio
 - **Canonical id:** `dea:metric-safety-incident-frequency-construction`
 - **Name:** Safety Incident Frequency (Construction)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SIFC
 

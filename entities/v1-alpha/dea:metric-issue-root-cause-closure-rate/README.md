@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Issue Root Cause Closure Rate** (IRCCR
 - **Canonical id:** `dea:metric-issue-root-cause-closure-rate`
 - **Name:** Issue Root Cause Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IRCCR
 
@@ -23,7 +23,7 @@ Issues Closed with RCA / Recurring-Issue Class
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

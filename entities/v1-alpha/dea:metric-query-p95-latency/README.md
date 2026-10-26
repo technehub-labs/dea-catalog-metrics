@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Query P95 Latency** (QPS95) in the Ope
 - **Canonical id:** `dea:metric-query-p95-latency`
 - **Name:** Query P95 Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** QPS95
 
@@ -23,8 +23,8 @@ Query P95 Latency (QPS95) captures the quality of outputs and outcomes for organ
 
 ## Unit
 
-- **Unit reference:** `dea:unit-milliseconds`
-- **Unit:** milliseconds
+- **Unit reference:** `dea:unit-millisecond`
+- **Unit:** millisecond
 - **Unit label (as published):** milliseconds (ms)
 
 ## Classification

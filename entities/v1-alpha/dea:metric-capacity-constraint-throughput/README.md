@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Constraint Throughput** (CCT)
 - **Canonical id:** `dea:metric-capacity-constraint-throughput`
 - **Name:** Capacity Constraint Throughput
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CCT
 

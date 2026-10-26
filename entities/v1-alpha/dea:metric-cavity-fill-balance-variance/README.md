@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cavity Fill Balance Variance** (CFBV) 
 - **Canonical id:** `dea:metric-cavity-fill-balance-variance`
 - **Name:** Cavity Fill Balance Variance
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CFBV
 
@@ -23,7 +23,7 @@ Part Weight Variation across Cavities
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Score Distribution Drift** (SDDM) in t
 - **Canonical id:** `dea:metric-score-distribution-drift`
 - **Name:** Score Distribution Drift
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SDDM
 
@@ -23,7 +23,7 @@ Period Change in Score Population Moments vs Baseline
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

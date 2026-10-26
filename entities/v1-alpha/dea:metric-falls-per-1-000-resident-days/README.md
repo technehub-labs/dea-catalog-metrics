@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Falls per 1,000 Resident Days** (FPRD)
 - **Canonical id:** `dea:metric-falls-per-1-000-resident-days`
 - **Name:** Falls per 1,000 Resident Days
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FPRD
 
@@ -27,8 +27,8 @@ Falls / Resident Days x 1,000
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

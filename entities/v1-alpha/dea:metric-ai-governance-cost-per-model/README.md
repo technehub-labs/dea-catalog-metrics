@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Governance Cost per Model** (AIGCM)
 - **Canonical id:** `dea:metric-ai-governance-cost-per-model`
 - **Name:** AI Governance Cost per Model
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AIGCM
 

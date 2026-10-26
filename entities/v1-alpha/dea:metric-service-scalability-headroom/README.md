@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Scalability Headroom** (SSH-SA
 - **Canonical id:** `dea:metric-service-scalability-headroom`
 - **Name:** Service Scalability Headroom
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSH-SA
 
@@ -27,7 +27,7 @@ Peak Load / Designed Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

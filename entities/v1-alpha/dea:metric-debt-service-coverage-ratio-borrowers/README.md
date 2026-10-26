@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Service Coverage Ratio (Borrowers
 - **Canonical id:** `dea:metric-debt-service-coverage-ratio-borrowers`
 - **Name:** Debt Service Coverage Ratio (Borrowers)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DSCR
 

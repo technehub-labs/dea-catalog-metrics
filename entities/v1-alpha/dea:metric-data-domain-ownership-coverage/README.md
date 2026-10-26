@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Domain Ownership Coverage** (DDOC
 - **Canonical id:** `dea:metric-data-domain-ownership-coverage`
 - **Name:** Data Domain Ownership Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DDOC
 
@@ -27,7 +27,7 @@ Data Domains with Named Accountable Owner / Domains
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Article Defect Rate** (ADR-KM) in the 
 - **Canonical id:** `dea:metric-article-defect-rate`
 - **Name:** Article Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADR-KM
 
@@ -23,8 +23,8 @@ Articles Flagged Incorrect / Articles
 
 ## Unit
 
-- **Unit reference:** `dea:unit-events`
-- **Unit:** events
+- **Unit reference:** `dea:unit-event`
+- **Unit:** event
 - **Unit label (as published):** events per thousand or million (scaled)
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tenant Retention Rate (Real Estate)** 
 - **Canonical id:** `dea:metric-tenant-retention-rate-real-estate`
 - **Name:** Tenant Retention Rate (Real Estate)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TRR-RE
 
@@ -27,7 +27,7 @@ Leases Renewed / Leases Expiring
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

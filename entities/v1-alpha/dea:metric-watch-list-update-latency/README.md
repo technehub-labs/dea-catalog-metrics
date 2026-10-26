@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Watch List Update Latency** (WLUL) in 
 - **Canonical id:** `dea:metric-watch-list-update-latency`
 - **Name:** Watch List Update Latency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WLUL
 
@@ -23,8 +23,8 @@ Hours to Deploy New Sanctions List
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

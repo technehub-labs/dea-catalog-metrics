@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Diversity Representation Ind
 - **Canonical id:** `dea:metric-workforce-diversity-representation-index`
 - **Name:** Workforce Diversity Representation Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** WDRI
 

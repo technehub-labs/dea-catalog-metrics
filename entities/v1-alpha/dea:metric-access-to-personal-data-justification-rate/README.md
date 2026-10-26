@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access to Personal Data Justification 
 - **Canonical id:** `dea:metric-access-to-personal-data-justification-rate`
 - **Name:** Access to Personal Data Justification Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** APDJR
 
@@ -23,7 +23,7 @@ Access Grants with Valid Justification / Grants Sampled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

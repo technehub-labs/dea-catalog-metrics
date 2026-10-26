@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction Score** (CSAT) i
 - **Canonical id:** `dea:metric-customer-satisfaction-score`
 - **Name:** Customer Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSAT
 
@@ -27,7 +27,7 @@ Satisfied Responses / Total Survey Responses
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

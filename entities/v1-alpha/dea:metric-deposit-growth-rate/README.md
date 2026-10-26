@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deposit Growth Rate** (DGR) in the Ope
 - **Canonical id:** `dea:metric-deposit-growth-rate`
 - **Name:** Deposit Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DGR
 
@@ -27,7 +27,7 @@ Period-over-period growth in customer deposits - the funding-side growth metric 
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

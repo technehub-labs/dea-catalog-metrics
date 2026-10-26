@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ROIC-WACC Spread** (ROICWACCS) in the 
 - **Canonical id:** `dea:metric-roic-wacc-spread`
 - **Name:** ROIC-WACC Spread
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ROICWACCS
 
@@ -27,7 +27,7 @@ Return on Invested Capital minus WACC
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

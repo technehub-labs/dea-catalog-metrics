@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Rebalancing Frequency** (PRF
 - **Canonical id:** `dea:metric-portfolio-rebalancing-frequency`
 - **Name:** Portfolio Rebalancing Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRF-PPM
 

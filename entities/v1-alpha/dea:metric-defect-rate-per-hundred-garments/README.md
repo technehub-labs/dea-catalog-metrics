@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Rate per Hundred Garments** (DR
 - **Canonical id:** `dea:metric-defect-rate-per-hundred-garments`
 - **Name:** Defect Rate per Hundred Garments
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRHG
 

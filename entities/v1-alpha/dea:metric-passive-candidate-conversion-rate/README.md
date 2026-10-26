@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passive Candidate Conversion Rate** (P
 - **Canonical id:** `dea:metric-passive-candidate-conversion-rate`
 - **Name:** Passive Candidate Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PCCR
 
@@ -23,7 +23,7 @@ Sourced Passive Candidates Entering Process / Contacted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

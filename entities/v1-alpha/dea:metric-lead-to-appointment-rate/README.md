@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lead to Appointment Rate** (L2A) in th
 - **Canonical id:** `dea:metric-lead-to-appointment-rate`
 - **Name:** Lead to Appointment Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** L2A
 
@@ -23,7 +23,7 @@ Appointments Set / Leads
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

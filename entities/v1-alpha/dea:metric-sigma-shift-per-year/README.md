@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Shift per Year** (SSPY) in the O
 - **Canonical id:** `dea:metric-sigma-shift-per-year`
 - **Name:** Sigma Shift per Year
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSPY
 

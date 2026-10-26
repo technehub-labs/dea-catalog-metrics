@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Iterations to Release** (PIT
 - **Canonical id:** `dea:metric-prototype-iterations-to-release`
 - **Name:** Prototype Iterations to Release
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PITR
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Headroom Ratio** (CHR-NW) in 
 - **Canonical id:** `dea:metric-capacity-headroom-ratio`
 - **Name:** Capacity Headroom Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CHR-NW
 

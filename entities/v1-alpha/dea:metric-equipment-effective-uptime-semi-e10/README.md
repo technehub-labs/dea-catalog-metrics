@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Effective Uptime - SEMI E10*
 - **Canonical id:** `dea:metric-equipment-effective-uptime-semi-e10`
 - **Name:** Equipment Effective Uptime - SEMI E10
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** EEU
 
@@ -23,7 +23,7 @@ Productive Time / Total Time
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

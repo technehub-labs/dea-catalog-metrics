@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Certification Currency Rate** (NCC
 - **Canonical id:** `dea:metric-noc-certification-currency-rate`
 - **Name:** NOC Certification Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NCCR
 
@@ -23,7 +23,7 @@ Engineers with Current Certifications / Engineers
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

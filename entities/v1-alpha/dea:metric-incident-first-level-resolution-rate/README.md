@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident First-Level Resolution Rate**
 - **Canonical id:** `dea:metric-incident-first-level-resolution-rate`
 - **Name:** Incident First-Level Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IFLRR
 
@@ -23,7 +23,7 @@ Incidents Resolved at First Line / Incidents
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

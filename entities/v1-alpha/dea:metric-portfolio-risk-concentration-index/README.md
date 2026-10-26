@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Risk Concentration Index** (
 - **Canonical id:** `dea:metric-portfolio-risk-concentration-index`
 - **Name:** Portfolio Risk Concentration Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRCI-PPM
 

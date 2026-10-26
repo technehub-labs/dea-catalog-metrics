@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overtime Hours Ratio** (OHR-WF) in the
 - **Canonical id:** `dea:metric-overtime-hours-ratio`
 - **Name:** Overtime Hours Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OHR-WF
 
@@ -23,7 +23,7 @@ Overtime Hours / Standard Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

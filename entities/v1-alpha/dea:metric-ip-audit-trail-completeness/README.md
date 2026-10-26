@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Audit Trail Completeness** (IATC) i
 - **Canonical id:** `dea:metric-ip-audit-trail-completeness`
 - **Name:** IP Audit Trail Completeness
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IATC
 
@@ -27,7 +27,7 @@ IP Assets with Chain-of-Title Documentation / Assets
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

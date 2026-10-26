@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Release Lag** (ERL) in the Op
 - **Canonical id:** `dea:metric-earnings-release-lag`
 - **Name:** Earnings Release Lag
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ERL
 
@@ -27,8 +27,8 @@ Days from Period End to Earnings Release
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Additions** (NADD) in the OpenDEAM
 - **Canonical id:** `dea:metric-net-additions`
 - **Name:** Net Additions
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** NADD
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility Work Order First-Time Fix Rat
 - **Canonical id:** `dea:metric-facility-work-order-first-time-fix-rate-deep-dive`
 - **Name:** Facility Work Order First-Time Fix Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FWOF-D
 
@@ -23,7 +23,7 @@ Work Orders Resolved on First Visit / Work Orders
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

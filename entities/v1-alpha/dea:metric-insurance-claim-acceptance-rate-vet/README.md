@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insurance Claim Acceptance Rate (Vet)*
 - **Canonical id:** `dea:metric-insurance-claim-acceptance-rate-vet`
 - **Name:** Insurance Claim Acceptance Rate (Vet)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ICAR
 
@@ -23,7 +23,7 @@ Claims Accepted by Pet Insurers / Claims Submitted
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

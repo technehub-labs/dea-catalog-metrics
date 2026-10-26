@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Completion Rate*
 - **Canonical id:** `dea:metric-regulatory-inspection-completion-rate`
 - **Name:** Regulatory Inspection Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RICR
 
@@ -23,7 +23,7 @@ Inspections Completed per Plan / Planned Inspections
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

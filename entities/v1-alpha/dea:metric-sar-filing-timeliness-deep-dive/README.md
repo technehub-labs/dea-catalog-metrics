@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SAR Filing Timeliness (Deep Dive)** (S
 - **Canonical id:** `dea:metric-sar-filing-timeliness-deep-dive`
 - **Name:** SAR Filing Timeliness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SFT-D
 
@@ -27,7 +27,7 @@ SARs Filed within Regulatory Deadline / SARs Due
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

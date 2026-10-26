@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interview-to-Offer Ratio** (ITOR) in t
 - **Canonical id:** `dea:metric-interview-to-offer-ratio`
 - **Name:** Interview-to-Offer Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ITOR
 

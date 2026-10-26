@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Container Moves per Crane Hour** (CMCH
 - **Canonical id:** `dea:metric-container-moves-per-crane-hour`
 - **Name:** Container Moves per Crane Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CMCH
 

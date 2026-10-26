@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liveweight Gain Rate** (LWG) in the Op
 - **Canonical id:** `dea:metric-liveweight-gain-rate`
 - **Name:** Liveweight Gain Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LWG
 

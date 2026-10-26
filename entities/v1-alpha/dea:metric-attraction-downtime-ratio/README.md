@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attraction Downtime Ratio** (ADR-V) in
 - **Canonical id:** `dea:metric-attraction-downtime-ratio`
 - **Name:** Attraction Downtime Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ADR-V
 
@@ -23,7 +23,7 @@ Ride or Exhibit Downtime / Operating Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

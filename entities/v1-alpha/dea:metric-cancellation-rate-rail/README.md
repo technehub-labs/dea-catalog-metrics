@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cancellation Rate (Rail)** (CNR) in th
 - **Canonical id:** `dea:metric-cancellation-rate-rail`
 - **Name:** Cancellation Rate (Rail)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CNR
 
@@ -27,7 +27,7 @@ Cancelled Trains / Scheduled Trains
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

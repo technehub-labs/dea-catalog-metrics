@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training-to-Serving Skew Incidents** (
 - **Canonical id:** `dea:metric-training-to-serving-skew-incidents`
 - **Name:** Training-to-Serving Skew Incidents
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TSSI
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Exercise Defect Closure Rat
 - **Canonical id:** `dea:metric-continuity-exercise-defect-closure-rate`
 - **Name:** Continuity Exercise Defect Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CEDCR
 
@@ -23,7 +23,7 @@ Exercise Findings Remediated by Next Exercise / Findings
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

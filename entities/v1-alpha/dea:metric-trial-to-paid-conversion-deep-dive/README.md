@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trial-to-Paid Conversion (Deep Dive)**
 - **Canonical id:** `dea:metric-trial-to-paid-conversion-deep-dive`
 - **Name:** Trial-to-Paid Conversion (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** TTPC-D
 
@@ -27,7 +27,7 @@ Paid Conversions / Trials
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

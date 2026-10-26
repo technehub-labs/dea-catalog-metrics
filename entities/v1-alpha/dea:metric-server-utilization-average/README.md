@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Utilization Average** (SUA) in 
 - **Canonical id:** `dea:metric-server-utilization-average`
 - **Name:** Server Utilization Average
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SUA
 
@@ -23,7 +23,7 @@ Average CPU or Memory Utilization / Capacity
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

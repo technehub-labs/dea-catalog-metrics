@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Fee-to-Media Ratio** (AFMR) in 
 - **Canonical id:** `dea:metric-agency-fee-to-media-ratio`
 - **Name:** Agency Fee-to-Media Ratio
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AFMR
 
@@ -23,7 +23,7 @@ Agency Fees / Gross Media Spend
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

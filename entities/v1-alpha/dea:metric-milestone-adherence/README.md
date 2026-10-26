@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milestone Adherence** (MA) in the Open
 - **Canonical id:** `dea:metric-milestone-adherence`
 - **Name:** Milestone Adherence
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MA
 
@@ -27,7 +27,7 @@ Milestones Met on Time / Milestones Planned
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

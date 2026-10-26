@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freedom-to-Operate Assessment Coverage
 - **Canonical id:** `dea:metric-freedom-to-operate-assessment-coverage`
 - **Name:** Freedom-to-Operate Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FTOC
 
@@ -27,7 +27,7 @@ Product Launches with FTO Clearance / Launches
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

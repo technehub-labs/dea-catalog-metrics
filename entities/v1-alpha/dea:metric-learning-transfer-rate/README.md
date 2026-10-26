@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Transfer Rate** (LTR) in the 
 - **Canonical id:** `dea:metric-learning-transfer-rate`
 - **Name:** Learning Transfer Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LTR
 
@@ -27,7 +27,7 @@ Learners Applying Skills on Job after Training / Learners Trained
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

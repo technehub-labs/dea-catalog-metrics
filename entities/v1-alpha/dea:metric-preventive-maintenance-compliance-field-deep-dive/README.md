@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive Maintenance Compliance - Fi
 - **Canonical id:** `dea:metric-preventive-maintenance-compliance-field-deep-dive`
 - **Name:** Preventive Maintenance Compliance - Field (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PMCF-D
 
@@ -27,7 +27,7 @@ Field PM Tasks Completed on Schedule / Scheduled
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

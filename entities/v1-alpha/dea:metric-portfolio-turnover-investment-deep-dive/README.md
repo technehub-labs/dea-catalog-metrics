@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Turnover (Investment Deep Di
 - **Canonical id:** `dea:metric-portfolio-turnover-investment-deep-dive`
 - **Name:** Portfolio Turnover (Investment Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PTID
 
@@ -23,7 +23,7 @@ Lesser of Purchases or Sales / Average NAV
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

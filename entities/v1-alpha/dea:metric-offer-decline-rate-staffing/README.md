@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Decline Rate (Staffing)** (ODR-S
 - **Canonical id:** `dea:metric-offer-decline-rate-staffing`
 - **Name:** Offer Decline Rate (Staffing)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ODR-S
 
@@ -27,7 +27,7 @@ Declined Offers / Offers Extended
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

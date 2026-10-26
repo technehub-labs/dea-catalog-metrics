@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reach Completion Rate** (RCR-MK) in th
 - **Canonical id:** `dea:metric-reach-completion-rate`
 - **Name:** Reach Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCR-MK
 
@@ -23,7 +23,7 @@ Target Audience Reached / Planned Audience
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

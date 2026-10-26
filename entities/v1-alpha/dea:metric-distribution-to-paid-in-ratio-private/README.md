@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Distribution-to-Paid-In Ratio (Private
 - **Canonical id:** `dea:metric-distribution-to-paid-in-ratio-private`
 - **Name:** Distribution-to-Paid-In Ratio (Private)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DPI-IM
 

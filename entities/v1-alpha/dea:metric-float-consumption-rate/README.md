@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Float Consumption Rate** (FCR-PM) in t
 - **Canonical id:** `dea:metric-float-consumption-rate`
 - **Name:** Float Consumption Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCR-PM
 
@@ -23,7 +23,7 @@ Float Consumed / Total Float
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

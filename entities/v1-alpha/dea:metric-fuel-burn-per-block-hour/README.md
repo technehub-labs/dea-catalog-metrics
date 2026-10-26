@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Burn per Block Hour** (FBH) in th
 - **Canonical id:** `dea:metric-fuel-burn-per-block-hour`
 - **Name:** Fuel Burn per Block Hour
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FBH
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Resolution Rate** (SSRR) 
 - **Canonical id:** `dea:metric-self-service-resolution-rate`
 - **Name:** Self-Service Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSRR
 
@@ -27,7 +27,7 @@ Self-Service Resolutions / Total Service Requests
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

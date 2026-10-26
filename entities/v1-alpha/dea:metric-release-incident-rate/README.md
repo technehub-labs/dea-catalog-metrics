@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Incident Rate** (RIR-RM) in th
 - **Canonical id:** `dea:metric-release-incident-rate`
 - **Name:** Release Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RIR-RM
 

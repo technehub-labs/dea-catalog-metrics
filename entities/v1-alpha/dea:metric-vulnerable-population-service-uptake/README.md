@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vulnerable Population Service Uptake**
 - **Canonical id:** `dea:metric-vulnerable-population-service-uptake`
 - **Name:** Vulnerable Population Service Uptake
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** VPSU
 
@@ -27,7 +27,7 @@ Eligible Vulnerable Citizens Receiving Entitlements / Eligible
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

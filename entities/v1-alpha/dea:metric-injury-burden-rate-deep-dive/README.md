@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Injury Burden Rate (Deep Dive)** (IBR-
 - **Canonical id:** `dea:metric-injury-burden-rate-deep-dive`
 - **Name:** Injury Burden Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** IBR-D
 
@@ -27,7 +27,7 @@ Days Lost to Injury / Squad Player Days
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

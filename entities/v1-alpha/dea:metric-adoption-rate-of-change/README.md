@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adoption Rate of Change** (ARC) in the
 - **Canonical id:** `dea:metric-adoption-rate-of-change`
 - **Name:** Adoption Rate of Change
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARC
 
@@ -27,7 +27,7 @@ Target Users Adopting Changed Process or System / Target Users
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Change Rate** (RCR) in th
 - **Canonical id:** `dea:metric-requirements-change-rate`
 - **Name:** Requirements Change Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** RCR
 
@@ -27,7 +27,7 @@ Changed Requirements / Baseline Requirements
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

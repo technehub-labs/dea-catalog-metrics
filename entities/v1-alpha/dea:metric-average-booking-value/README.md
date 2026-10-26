@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Booking Value** (ABV-T) in the
 - **Canonical id:** `dea:metric-average-booking-value`
 - **Name:** Average Booking Value
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ABV-T
 

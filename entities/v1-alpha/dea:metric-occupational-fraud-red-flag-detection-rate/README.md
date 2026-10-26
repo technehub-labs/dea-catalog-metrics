@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupational Fraud Red Flag Detection 
 - **Canonical id:** `dea:metric-occupational-fraud-red-flag-detection-rate`
 - **Name:** Occupational Fraud Red Flag Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** OFRFDR
 
@@ -23,7 +23,7 @@ Red Flags Escalated per Detection Policy / Red Flags Identified
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

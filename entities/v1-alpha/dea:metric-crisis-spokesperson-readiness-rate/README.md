@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Spokesperson Readiness Rate** (
 - **Canonical id:** `dea:metric-crisis-spokesperson-readiness-rate`
 - **Name:** Crisis Spokesperson Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** CSRR
 
@@ -23,7 +23,7 @@ Trained and Current Spokespersons / Designated Spokespersons
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

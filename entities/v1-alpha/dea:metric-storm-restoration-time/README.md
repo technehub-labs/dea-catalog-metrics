@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Storm Restoration Time** (SRT) in the 
 - **Canonical id:** `dea:metric-storm-restoration-time`
 - **Name:** Storm Restoration Time
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SRT
 
@@ -27,8 +27,8 @@ Hours from Storm End to Full Restoration
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

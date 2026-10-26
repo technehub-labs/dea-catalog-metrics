@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Response Time - 90th Perce
 - **Canonical id:** `dea:metric-application-response-time-90th-percentile`
 - **Name:** Application Response Time - 90th Percentile
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ART90
 
@@ -23,8 +23,8 @@ Within ERP & Enterprise Application Operations, Application Response Time - 90th
 
 ## Unit
 
-- **Unit reference:** `dea:unit-seconds`
-- **Unit:** seconds
+- **Unit reference:** `dea:unit-second`
+- **Unit:** second
 - **Unit label (as published):** seconds
 
 ## Classification

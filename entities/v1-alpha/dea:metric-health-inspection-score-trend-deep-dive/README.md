@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Health Inspection Score Trend (Deep Di
 - **Canonical id:** `dea:metric-health-inspection-score-trend-deep-dive`
 - **Name:** Health Inspection Score Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** HIST-D
 

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Review Board Pass Rate** 
 - **Canonical id:** `dea:metric-architecture-review-board-pass-rate`
 - **Name:** Architecture Review Board Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARBPR
 
@@ -23,7 +23,7 @@ Proposals Approved First Time / Proposals Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

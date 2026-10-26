@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lease Renewal Rate** (LRR) in the Open
 - **Canonical id:** `dea:metric-lease-renewal-rate`
 - **Name:** Lease Renewal Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** LRR
 
@@ -27,7 +27,7 @@ Leases Renewed / Leases Expiring
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

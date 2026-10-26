@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Change Frequency** (DCF) in the
 - **Canonical id:** `dea:metric-design-change-frequency`
 - **Name:** Design Change Frequency
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DCF
 

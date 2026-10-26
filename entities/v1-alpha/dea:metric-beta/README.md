@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beta** (BETA) in the OpenDEAM Metric c
 - **Canonical id:** `dea:metric-beta`
 - **Name:** Beta
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** BETA
 

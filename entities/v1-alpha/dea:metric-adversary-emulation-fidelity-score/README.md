@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adversary Emulation Fidelity Score** (
 - **Canonical id:** `dea:metric-adversary-emulation-fidelity-score`
 - **Name:** Adversary Emulation Fidelity Score
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** AEFS
 

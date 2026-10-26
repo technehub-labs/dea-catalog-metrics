@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Lead Time - Commit to Produ
 - **Canonical id:** `dea:metric-deployment-lead-time-commit-to-production`
 - **Name:** Deployment Lead Time - Commit to Production
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DLTCP
 
@@ -27,8 +27,8 @@ Median Days from Commit to Running in Production
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

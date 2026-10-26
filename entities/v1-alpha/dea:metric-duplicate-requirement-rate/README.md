@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Requirement Rate** (DRR-RE) 
 - **Canonical id:** `dea:metric-duplicate-requirement-rate`
 - **Name:** Duplicate Requirement Rate
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRR-RE
 
@@ -23,7 +23,7 @@ Duplicate Requirements Identified / Requirements Reviewed
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

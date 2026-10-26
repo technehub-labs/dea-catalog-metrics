@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punctuality Recovery Index** (PRI-AT) 
 - **Canonical id:** `dea:metric-punctuality-recovery-index`
 - **Name:** Punctuality Recovery Index
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** PRI-AT
 
@@ -23,7 +23,7 @@ Post-Disruption On-Time Share within 24 Hours
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

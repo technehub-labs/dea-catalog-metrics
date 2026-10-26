@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Stress Coverage (Emerging)** 
 - **Canonical id:** `dea:metric-scenario-stress-coverage-emerging`
 - **Name:** Scenario Stress Coverage (Emerging)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** SSCE
 
@@ -27,7 +27,7 @@ Emerging Risks with Quantified Scenarios / Material Emerging Risks
 
 ## Unit
 
-- **Unit reference:** `dea:unit-percent`
+- **Unit reference:** `dea:unit-ratio-percent`
 - **Unit:** percent
 - **Unit label (as published):** percent (%)
 

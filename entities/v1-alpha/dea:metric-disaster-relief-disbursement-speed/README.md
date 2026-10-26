@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disaster Relief Disbursement Speed** (
 - **Canonical id:** `dea:metric-disaster-relief-disbursement-speed`
 - **Name:** Disaster Relief Disbursement Speed
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DRDS
 
@@ -23,8 +23,8 @@ Days from Declaration to First Relief Payment
 
 ## Unit
 
-- **Unit reference:** `dea:unit-days`
-- **Unit:** days
+- **Unit reference:** `dea:unit-day`
+- **Unit:** day
 - **Unit label (as published):** days
 
 ## Classification

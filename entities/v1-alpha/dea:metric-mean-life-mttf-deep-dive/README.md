@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Life (MTTF Deep Dive)** (MLDD) in
 - **Canonical id:** `dea:metric-mean-life-mttf-deep-dive`
 - **Name:** Mean Life (MTTF Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** MLDD
 
@@ -27,8 +27,8 @@ Total Operating Time to Failure / Failed Units
 
 ## Unit
 
-- **Unit reference:** `dea:unit-hours`
-- **Unit:** hours
+- **Unit reference:** `dea:unit-hour`
+- **Unit:** hour
 - **Unit label (as published):** hours
 
 ## Classification

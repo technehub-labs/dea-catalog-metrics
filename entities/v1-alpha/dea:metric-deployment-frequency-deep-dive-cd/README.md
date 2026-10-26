@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Frequency (Deep Dive - CD)*
 - **Canonical id:** `dea:metric-deployment-frequency-deep-dive-cd`
 - **Name:** Deployment Frequency (Deep Dive - CD)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** DFCD-D
 

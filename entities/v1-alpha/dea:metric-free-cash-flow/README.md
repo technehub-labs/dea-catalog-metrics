@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Cash Flow** (FCF) in the OpenDEAM
 - **Canonical id:** `dea:metric-free-cash-flow`
 - **Name:** Free Cash Flow
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** FCF
 

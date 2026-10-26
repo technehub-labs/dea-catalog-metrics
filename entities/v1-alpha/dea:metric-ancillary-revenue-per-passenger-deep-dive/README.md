@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ancillary Revenue per Passenger (Deep 
 - **Canonical id:** `dea:metric-ancillary-revenue-per-passenger-deep-dive`
 - **Name:** Ancillary Revenue per Passenger (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Lifecycle:** candidate
 - **Short form:** ARPP-D
 
