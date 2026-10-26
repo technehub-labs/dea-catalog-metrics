@@ -7,6 +7,18 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 ### Added
+- CR-MET-019: the admission readiness assessment. `scripts/admission_readiness.py`
+  scores every candidate against exactly what the gates enforce for an
+  admitted record, importing the dual anchor's constant sets rather than
+  copying them, and writes the per-signature working set to
+  `classifications/admission-readiness.yaml`; CI regenerates and diffs it.
+  No candidate is admission-ready: all 4423 need the four admission-time
+  fields, measurement evidence, and a bound formula, which is authoring work
+  rather than derivation. The structural constraint is MECE: the corpus holds
+  500 distinct signatures, 5 already admitted, so 495 have room for one more
+  record, of which 120 are singletons and 375 are contested (largest cluster
+  100 candidates). Enriching records does not change that number; only the
+  axis model can. No record changes in this slice.
 - CR-MET-017: canonical unit references at ingestion (Q19 ruling). The
   seed-value map gains a `unit_ref` section resolving the seed's 13 flat and
   plural spellings to the canonical form (`dea:unit-percent` to
