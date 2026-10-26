@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cohort Retention Curve Stability** (CR
 - **Canonical id:** `dea:metric-cohort-retention-curve-stability`
 - **Name:** Cohort Retention Curve Stability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCS
 
@@ -22,7 +22,7 @@ Measures how consistently retention curves flatten at a predictable plateau. Sta
 ## Formula
 
 ```
-Variance of Retention Curves across Cohorts
+CRCS = Variance of Retention Curves across Cohorts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Completion Rate** (CCR-M) in t
 - **Canonical id:** `dea:metric-content-completion-rate`
 - **Name:** Content Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-M
 
@@ -22,7 +22,7 @@ Measures the share of started media content finished by viewers. It matters beca
 ## Formula
 
 ```
-Titles Completed by Viewers / Titles Started
+CCR-M = Titles Completed by Viewers / Titles Started
 ```
 
 ## Unit

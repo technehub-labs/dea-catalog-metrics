@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Yield** (BAY) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-batch-yield`
 - **Name:** Batch Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BAY
 
@@ -18,7 +18,7 @@ Within Pharmaceuticals & Life Sciences, Batch Yield (BAY) is used to gauge the q
 ## Formula
 
 ```
-Conforming Product Mass / Input Mass
+BAY = Conforming Product Mass / Input Mass
 ```
 
 ## Unit

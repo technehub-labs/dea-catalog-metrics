@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Data Readiness Rate** (TDRR-QA) i
 - **Canonical id:** `dea:metric-test-data-readiness-rate`
 - **Name:** Test Data Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDRR-QA
 
@@ -18,7 +18,7 @@ A Software Testing & Quality Engineering indicator, Test Data Readiness Rate (TD
 ## Formula
 
 ```
-Test Cycles with Ready Data / Cycles
+TDRR-QA = Test Cycles with Ready Data / Cycles
 ```
 
 ## Unit

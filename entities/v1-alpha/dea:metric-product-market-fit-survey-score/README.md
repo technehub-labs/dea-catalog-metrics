@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product-Market Fit Survey Score** (PMF
 - **Canonical id:** `dea:metric-product-market-fit-survey-score`
 - **Name:** Product-Market Fit Survey Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMFS
 
@@ -22,7 +22,7 @@ Measures the share of users who would be very disappointed if the product disapp
 ## Formula
 
 ```
-Percent of Users Very Disappointed if Product Removed
+PMFS = Percent of Users Very Disappointed if Product Removed
 ```
 
 ## Unit

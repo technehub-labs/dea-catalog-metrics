@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Test Win Rate** (CTWR) in the
 - **Canonical id:** `dea:metric-campaign-test-win-rate`
 - **Name:** Campaign Test Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTWR
 
@@ -22,7 +22,7 @@ Measures the share of marketing tests producing significant winners. It matters 
 ## Formula
 
 ```
-Tests Where Variant Beats Control / Tests Concluded
+CTWR = Tests Where Variant Beats Control / Tests Concluded
 ```
 
 ## Unit

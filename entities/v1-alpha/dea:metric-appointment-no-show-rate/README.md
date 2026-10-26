@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment No-Show Rate** (NSR) in th
 - **Canonical id:** `dea:metric-appointment-no-show-rate`
 - **Name:** Appointment No-Show Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSR
 
@@ -22,7 +22,7 @@ Measures the share of scheduled patient appointments missed without notice. It m
 ## Formula
 
 ```
-Missed Appointments / Scheduled Appointments
+NSR = Missed Appointments / Scheduled Appointments
 ```
 
 ## Unit

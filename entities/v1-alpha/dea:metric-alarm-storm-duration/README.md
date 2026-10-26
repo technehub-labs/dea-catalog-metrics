@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alarm Storm Duration** (ASD-NOC) in th
 - **Canonical id:** `dea:metric-alarm-storm-duration`
 - **Name:** Alarm Storm Duration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASD-NOC
 
@@ -18,7 +18,7 @@ A Network Operations Center (Deep Dive) indicator, Alarm Storm Duration (ASD-NOC
 ## Formula
 
 ```
-Minutes of Correlated Alert Flooding per Storm Event
+ASD-NOC = Minutes of Correlated Alert Flooding per Storm Event
 ```
 
 ## Unit

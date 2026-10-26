@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Score Distribution Drift** (SDDM) in t
 - **Canonical id:** `dea:metric-score-distribution-drift`
 - **Name:** Score Distribution Drift
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDDM
 
@@ -18,7 +18,7 @@ Score Distribution Drift (SDDM) captures exposure to adverse outcomes for organi
 ## Formula
 
 ```
-Period Change in Score Population Moments vs Baseline
+SDDM = Period Change in Score Population Moments vs Baseline
 ```
 
 ## Unit

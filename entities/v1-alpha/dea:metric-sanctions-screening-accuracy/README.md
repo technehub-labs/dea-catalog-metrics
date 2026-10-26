@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanctions Screening Accuracy** (SSA-CM
 - **Canonical id:** `dea:metric-sanctions-screening-accuracy`
 - **Name:** Sanctions Screening Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSA-CM
 
@@ -18,7 +18,7 @@ Sanctions Screening Accuracy (SSA-CM) addresses exposure to adverse outcomes and
 ## Formula
 
 ```
-True Matches Correctly Screened / Screening Population
+SSA-CM = True Matches Correctly Screened / Screening Population
 ```
 
 ## Unit

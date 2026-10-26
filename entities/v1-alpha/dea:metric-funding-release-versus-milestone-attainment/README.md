@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Funding Release versus Milestone Attai
 - **Canonical id:** `dea:metric-funding-release-versus-milestone-attainment`
 - **Name:** Funding Release versus Milestone Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRVMA
 
@@ -22,7 +22,7 @@ Measures how tightly funding tranches track demonstrated milestone progress. Rel
 ## Formula
 
 ```
-Funding Tranches Released on Milestone Achievement / Tranches
+FRVMA = Funding Tranches Released on Milestone Achievement / Tranches
 ```
 
 ## Unit

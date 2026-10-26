@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Infringement Detection Lead Time** 
 - **Canonical id:** `dea:metric-ip-infringement-detection-lead-time`
 - **Name:** IP Infringement Detection Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IIDLT
 
@@ -18,7 +18,7 @@ IP Infringement Detection Lead Time (IIDLT) addresses exposure to adverse outcom
 ## Formula
 
 ```
-Days from Third-Party Infringement to Detection
+IIDLT = Days from Third-Party Infringement to Detection
 ```
 
 ## Unit

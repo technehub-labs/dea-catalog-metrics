@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slow Query Ratio** (SQR-DB) in the Ope
 - **Canonical id:** `dea:metric-slow-query-ratio`
 - **Name:** Slow Query Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQR-DB
 
@@ -18,7 +18,7 @@ Within Database & Data Platform Operations, Slow Query Ratio (SQR-DB) is used to
 ## Formula
 
 ```
-Queries Exceeding Latency Budget / Total Queries
+SQR-DB = Queries Exceeding Latency Budget / Total Queries
 ```
 
 ## Unit

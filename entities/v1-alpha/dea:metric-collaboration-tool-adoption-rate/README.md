@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collaboration Tool Adoption Rate** (CT
 - **Canonical id:** `dea:metric-collaboration-tool-adoption-rate`
 - **Name:** Collaboration Tool Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTAR
 
@@ -22,7 +22,7 @@ Measures active use of collaboration platforms relative to the entitled or targe
 ## Formula
 
 ```
-Active Users of Collaboration Platform / Licensed Users
+CTAR = Active Users of Collaboration Platform / Licensed Users
 ```
 
 ## Unit

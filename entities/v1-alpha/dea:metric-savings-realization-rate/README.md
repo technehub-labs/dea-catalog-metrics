@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Savings Realization Rate** (SRR) in th
 - **Canonical id:** `dea:metric-savings-realization-rate`
 - **Name:** Savings Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR
 
@@ -22,7 +22,7 @@ The share of negotiated savings that actually reaches the P&L - the honesty metr
 ## Formula
 
 ```
-Realized Savings / Identified Savings
+SRR = Realized Savings / Identified Savings
 ```
 
 ## Unit

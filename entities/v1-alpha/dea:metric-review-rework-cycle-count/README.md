@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Rework Cycle Count** (RRC) in t
 - **Canonical id:** `dea:metric-review-rework-cycle-count`
 - **Name:** Review Rework Cycle Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRC
 
@@ -18,7 +18,7 @@ Review Rework Cycle Count (RRC) captures how efficiently resources are converted
 ## Formula
 
 ```
-Average Revision Cycles before Approval
+RRC = Average Revision Cycles before Approval
 ```
 
 ## Unit

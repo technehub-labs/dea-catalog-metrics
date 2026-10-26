@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Renewal Lead Time** (CRLT) in
 - **Canonical id:** `dea:metric-contract-renewal-lead-time`
 - **Name:** Contract Renewal Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRLT
 
@@ -22,7 +22,7 @@ Measures how far ahead of expiry vendor contracts are renewed. It matters becaus
 ## Formula
 
 ```
-Days before Expiry that Renewal is Completed
+CRLT = Days before Expiry that Renewal is Completed
 ```
 
 ## Unit

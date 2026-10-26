@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Goal Achievability Balance Ratio** (GA
 - **Canonical id:** `dea:metric-goal-achievability-balance-ratio`
 - **Name:** Goal Achievability Balance Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GABR-OKR
 
@@ -18,7 +18,7 @@ Goal Achievability Balance Ratio (GABR-OKR) addresses the quality of outputs and
 ## Formula
 
 ```
-Key Results Set at Appropriate Ambition Level / Key Results
+GABR-OKR = Key Results Set at Appropriate Ambition Level / Key Results
 ```
 
 ## Unit

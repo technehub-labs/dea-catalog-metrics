@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mis-sort Rate** (MSR-P) in the OpenDEA
 - **Canonical id:** `dea:metric-mis-sort-rate`
 - **Name:** Mis-sort Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR-P
 
@@ -18,7 +18,7 @@ Within Postal & Courier, Mis-sort Rate (MSR-P) is used to gauge the quality of o
 ## Formula
 
 ```
-Incorrectly Sorted Items / Items Sorted
+MSR-P = Incorrectly Sorted Items / Items Sorted
 ```
 
 ## Unit

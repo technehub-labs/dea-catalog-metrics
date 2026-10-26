@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quote-to-Bind Conversion Rate** (QBR) 
 - **Canonical id:** `dea:metric-quote-to-bind-conversion-rate`
 - **Name:** Quote-to-Bind Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QBR
 
@@ -18,7 +18,7 @@ Quote-to-Bind Conversion Rate (QBR) addresses growth over time and is a fixture 
 ## Formula
 
 ```
-Policies Bound / Quotes Issued
+QBR = Policies Bound / Quotes Issued
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Call Interruptions per Rotation** (
 - **Canonical id:** `dea:metric-on-call-interruptions-per-rotation`
 - **Name:** On-Call Interruptions per Rotation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCIPR
 
@@ -18,7 +18,7 @@ A Observability & Site Reliability Engineering indicator, On-Call Interruptions 
 ## Formula
 
 ```
-Pages per On-Call Rotation Week
+OCIPR = Pages per On-Call Rotation Week
 ```
 
 ## Unit

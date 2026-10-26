@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Avoidance Realization Rate** (CAR
 - **Canonical id:** `dea:metric-cost-avoidance-realization-rate`
 - **Name:** Cost Avoidance Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CARR-ITFM
 
@@ -22,7 +22,7 @@ Measures whether claimed cost-avoidance benefits actually materialized in run-ra
 ## Formula
 
 ```
-Validated Cost Avoidance / Identified
+CARR-ITFM = Validated Cost Avoidance / Identified
 ```
 
 ## Unit

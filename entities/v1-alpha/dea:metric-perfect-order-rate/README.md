@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Perfect Order Rate** (POR) in the Open
 - **Canonical id:** `dea:metric-perfect-order-rate`
 - **Name:** Perfect Order Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POR
 
@@ -22,7 +22,7 @@ The share of orders delivered complete, on time, damage-free, and with accurate 
 ## Formula
 
 ```
-Orders Delivered Complete, On Time, Damage-Free, Correctly Documented / Total Orders
+POR = Orders Delivered Complete, On Time, Damage-Free, Correctly Documented / Total Orders
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Downtime Percentage** (FDP) in t
 - **Canonical id:** `dea:metric-fleet-downtime-percentage`
 - **Name:** Fleet Downtime Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDP
 
@@ -22,7 +22,7 @@ Measures the share of vehicle time unavailable for service due to breakdowns or 
 ## Formula
 
 ```
-Vehicle Downtime Days / Fleet Available Days
+FDP = Vehicle Downtime Days / Fleet Available Days
 ```
 
 ## Unit

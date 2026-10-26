@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Payback Period** (APP-A) in
 - **Canonical id:** `dea:metric-automation-payback-period`
 - **Name:** Automation Payback Period
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APP-A
 
@@ -22,7 +22,7 @@ Measures how long an automation investment takes to return its cost through real
 ## Formula
 
 ```
-Implementation Cost / Monthly Cost Avoidance
+APP-A = Implementation Cost / Monthly Cost Avoidance
 ```
 
 ## Unit

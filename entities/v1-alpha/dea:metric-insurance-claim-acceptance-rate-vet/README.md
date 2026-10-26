@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insurance Claim Acceptance Rate (Vet)*
 - **Canonical id:** `dea:metric-insurance-claim-acceptance-rate-vet`
 - **Name:** Insurance Claim Acceptance Rate (Vet)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICAR
 
@@ -18,7 +18,7 @@ Insurance Claim Acceptance Rate (Vet) (ICAR) measures the quality of outputs and
 ## Formula
 
 ```
-Claims Accepted by Pet Insurers / Claims Submitted
+ICAR = Claims Accepted by Pet Insurers / Claims Submitted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Cycle Time** (DCT) in the Ope
 - **Canonical id:** `dea:metric-decision-cycle-time`
 - **Name:** Decision Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCT
 
@@ -22,7 +22,7 @@ Measures the elapsed time from when a decision is needed to when it is made at t
 ## Formula
 
 ```
-Days from Decision Request to Approved Decision
+DCT = Days from Decision Request to Approved Decision
 ```
 
 ## Unit

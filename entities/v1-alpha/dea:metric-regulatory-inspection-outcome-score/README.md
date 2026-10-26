@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Outcome Score** 
 - **Canonical id:** `dea:metric-regulatory-inspection-outcome-score`
 - **Name:** Regulatory Inspection Outcome Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIOS
 
@@ -22,7 +22,7 @@ Regulatory inspection outcome scores measure the findings from government care i
 ## Formula
 
 ```
-Weighted Score from Care Regulator Inspection
+RIOS = Weighted Score from Care Regulator Inspection
 ```
 
 ## Unit

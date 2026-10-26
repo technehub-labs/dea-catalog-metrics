@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention Parity Ratio** (RTP) in the 
 - **Canonical id:** `dea:metric-retention-parity-ratio`
 - **Name:** Retention Parity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTP
 
@@ -22,7 +22,7 @@ Compares retention rates across demographic groups. Unequal retention is both a 
 ## Formula
 
 ```
-Retention Rate of Underrepresented Group / Retention Rate Overall
+RTP = Retention Rate of Underrepresented Group / Retention Rate Overall
 ```
 
 ## Unit

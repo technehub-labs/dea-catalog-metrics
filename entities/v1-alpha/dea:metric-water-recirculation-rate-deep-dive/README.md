@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recirculation Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-water-recirculation-rate-deep-dive`
 - **Name:** Water Recirculation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRR-M
 
@@ -22,7 +22,7 @@ Measures the share of process water reused rather than withdrawn fresh. In water
 ## Formula
 
 ```
-Recirculated Water / Total Water Used
+WRR-M = Recirculated Water / Total Water Used
 ```
 
 ## Unit

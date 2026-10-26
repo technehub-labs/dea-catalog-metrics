@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Freeze Exception Rate** (DF
 - **Canonical id:** `dea:metric-deployment-freeze-exception-rate`
 - **Name:** Deployment Freeze Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DFER
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Deployment Freeze Exception Rate (DFER)
 ## Formula
 
 ```
-Freeze-Window Deployments Approved / Freeze Requests
+DFER = Freeze-Window Deployments Approved / Freeze Requests
 ```
 
 ## Unit

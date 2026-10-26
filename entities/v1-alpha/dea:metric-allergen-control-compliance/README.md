@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Allergen Control Compliance** (ACC) in
 - **Canonical id:** `dea:metric-allergen-control-compliance`
 - **Name:** Allergen Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACC
 
@@ -22,7 +22,7 @@ Measures adherence to allergen management controls - segregation, changeover cle
 ## Formula
 
 ```
-Allergen Control Checks Passed / Checks
+ACC = Allergen Control Checks Passed / Checks
 ```
 
 ## Unit

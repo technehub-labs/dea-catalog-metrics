@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Die Sort Yield** (FPDY) in 
 - **Canonical id:** `dea:metric-first-pass-die-sort-yield`
 - **Name:** First Pass Die Sort Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPDY
 
@@ -18,7 +18,7 @@ A Semiconductor & Electronics indicator, First Pass Die Sort Yield (FPDY) quanti
 ## Formula
 
 ```
-Die Passing Sort on First Test / Die Tested
+FPDY = Die Passing Sort on First Test / Die Tested
 ```
 
 ## Unit

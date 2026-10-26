@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight Latency** (INS-L) in the OpenD
 - **Canonical id:** `dea:metric-insight-latency`
 - **Name:** Insight Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** INS-L
 
@@ -18,7 +18,7 @@ Insight Latency (INS-L) captures how efficiently resources are converted into ou
 ## Formula
 
 ```
-Days from Data Availability to Insight Publication
+INS-L = Days from Data Availability to Insight Publication
 ```
 
 ## Unit

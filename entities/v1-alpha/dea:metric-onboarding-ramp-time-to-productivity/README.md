@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Ramp Time to Productivity**
 - **Canonical id:** `dea:metric-onboarding-ramp-time-to-productivity`
 - **Name:** Onboarding Ramp Time to Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORTP
 
@@ -18,7 +18,7 @@ Onboarding Ramp Time to Productivity (ORTP) captures how efficiently resources a
 ## Formula
 
 ```
-Days for New Hire to Reach Expected Productivity
+ORTP = Days for New Hire to Reach Expected Productivity
 ```
 
 ## Unit

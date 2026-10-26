@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CLM System Adoption Rate** (CLMSAR) in
 - **Canonical id:** `dea:metric-clm-system-adoption-rate`
 - **Name:** CLM System Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLMSAR
 
@@ -18,7 +18,7 @@ CLM System Adoption Rate (CLMSAR) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Users Creating Contracts in CLM Platform / Contract Creators
+CLMSAR = Users Creating Contracts in CLM Platform / Contract Creators
 ```
 
 ## Unit

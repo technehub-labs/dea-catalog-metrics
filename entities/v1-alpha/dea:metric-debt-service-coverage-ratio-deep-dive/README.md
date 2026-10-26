@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Service Coverage Ratio (Deep Dive
 - **Canonical id:** `dea:metric-debt-service-coverage-ratio-deep-dive`
 - **Name:** Debt Service Coverage Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCRDD
 
@@ -22,7 +22,7 @@ Measures cash available to service principal plus interest. DSCR is the covenant
 ## Formula
 
 ```
-Operating Income / Total Debt Service
+DSCRDD = Operating Income / Total Debt Service
 ```
 
 ## Unit

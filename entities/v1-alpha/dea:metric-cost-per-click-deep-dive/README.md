@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Click (Deep Dive)** (CPCDD) i
 - **Canonical id:** `dea:metric-cost-per-click-deep-dive`
 - **Name:** Cost per Click (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCDD
 
@@ -18,7 +18,7 @@ A Marketing & Advertising Standard Measures (Deep Dive) indicator, Cost per Clic
 ## Formula
 
 ```
-Spend / Clicks
+CPCDD = Spend / Clicks
 ```
 
 ## Unit

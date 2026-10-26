@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Labor Efficiency (MRO)** (
 - **Canonical id:** `dea:metric-maintenance-labor-efficiency-mro`
 - **Name:** Maintenance Labor Efficiency (MRO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MLE
 
@@ -22,7 +22,7 @@ Measures labor hours consumed per maintenance task or work package. It matters b
 ## Formula
 
 ```
-Standard Labor Hours / Actual Labor Hours
+MLE = Standard Labor Hours / Actual Labor Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Lifecycle Cost Variance** (ALCV)
 - **Canonical id:** `dea:metric-asset-lifecycle-cost-variance`
 - **Name:** Asset Lifecycle Cost Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALCV
 
@@ -22,7 +22,7 @@ Measures deviation of actual total cost of ownership from the planned lifecycle 
 ## Formula
 
 ```
-Actual Lifecycle Cost vs Plan / Plan
+ALCV = Actual Lifecycle Cost vs Plan / Plan
 ```
 
 ## Unit

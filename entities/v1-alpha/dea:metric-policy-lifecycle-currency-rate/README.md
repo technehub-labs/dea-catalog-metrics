@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Lifecycle Currency Rate** (PLCR
 - **Canonical id:** `dea:metric-policy-lifecycle-currency-rate`
 - **Name:** Policy Lifecycle Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLCR-GOV
 
@@ -22,7 +22,7 @@ Measures whether policies are within their review cycles and reflect current reg
 ## Formula
 
 ```
-Policies Reviewed within Cycle / Policies
+PLCR-GOV = Policies Reviewed within Cycle / Policies
 ```
 
 ## Unit

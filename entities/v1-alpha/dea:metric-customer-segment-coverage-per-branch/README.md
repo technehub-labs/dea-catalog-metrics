@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segment Coverage per Branch**
 - **Canonical id:** `dea:metric-customer-segment-coverage-per-branch`
 - **Name:** Customer Segment Coverage per Branch
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSCB
 
@@ -18,7 +18,7 @@ Customer Segment Coverage per Branch (CSCB) addresses capability maturity or dev
 ## Formula
 
 ```
-Segments Served with Dedicated Offers / Segments
+CSCB = Segments Served with Dedicated Offers / Segments
 ```
 
 ## Unit

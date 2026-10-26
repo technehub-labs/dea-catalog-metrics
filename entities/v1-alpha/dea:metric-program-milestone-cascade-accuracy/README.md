@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Milestone Cascade Accuracy** (
 - **Canonical id:** `dea:metric-program-milestone-cascade-accuracy`
 - **Name:** Program Milestone Cascade Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMCA-PPM
 
@@ -18,7 +18,7 @@ Program Milestone Cascade Accuracy (PMCA-PPM) addresses the quality of outputs a
 ## Formula
 
 ```
-Program Milestones Aligned to Project Deliverables / Milestones
+PMCA-PPM = Program Milestones Aligned to Project Deliverables / Milestones
 ```
 
 ## Unit

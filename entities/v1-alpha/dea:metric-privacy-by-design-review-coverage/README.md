@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy-by-Design Review Coverage** (P
 - **Canonical id:** `dea:metric-privacy-by-design-review-coverage`
 - **Name:** Privacy-by-Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PBDRC
 
@@ -18,7 +18,7 @@ Within Data Privacy & Protection, Privacy-by-Design Review Coverage (PBDRC) is u
 ## Formula
 
 ```
-Features Passing Privacy Design Review / In-Scope Features
+PBDRC = Features Passing Privacy Design Review / In-Scope Features
 ```
 
 ## Unit

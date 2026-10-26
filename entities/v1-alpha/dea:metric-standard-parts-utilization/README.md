@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Parts Utilization** (SPU) in 
 - **Canonical id:** `dea:metric-standard-parts-utilization`
 - **Name:** Standard Parts Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPU
 
@@ -22,7 +22,7 @@ Measures the share of bills of material composed of standard, preferred, or cata
 ## Formula
 
 ```
-Standard or Catalog Parts / Total Parts
+SPU = Standard or Catalog Parts / Total Parts
 ```
 
 ## Unit

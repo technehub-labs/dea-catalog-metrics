@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Breaking Change Density** (APBCD) 
 - **Canonical id:** `dea:metric-api-breaking-change-density`
 - **Name:** API Breaking Change Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APBCD
 
@@ -18,7 +18,7 @@ Within Code Quality & Static Analysis, API Breaking Change Density (APBCD) is us
 ## Formula
 
 ```
-Breaking Changes per Major Release
+APBCD = Breaking Changes per Major Release
 ```
 
 ## Unit

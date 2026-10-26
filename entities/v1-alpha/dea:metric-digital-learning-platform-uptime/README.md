@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Learning Platform Uptime** (DL
 - **Canonical id:** `dea:metric-digital-learning-platform-uptime`
 - **Name:** Digital Learning Platform Uptime
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLPU
 
@@ -18,7 +18,7 @@ Digital Learning Platform Uptime (DLPU) measures the utilization or availability
 ## Formula
 
 ```
-Platform Available Hours / Required Hours
+DLPU = Platform Available Hours / Required Hours
 ```
 
 ## Unit

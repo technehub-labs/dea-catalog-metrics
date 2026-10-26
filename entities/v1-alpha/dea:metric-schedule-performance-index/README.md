@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Performance Index** (SPI) in 
 - **Canonical id:** `dea:metric-schedule-performance-index`
 - **Name:** Schedule Performance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPI
 
@@ -22,7 +22,7 @@ SPI, from Earned Value Management (a DoD/NASA tradition), is earned value divide
 ## Formula
 
 ```
-Earned Value / Planned Value
+SPI = Earned Value / Planned Value
 ```
 
 ## Unit

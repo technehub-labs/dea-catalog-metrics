@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audience Share** (ASH) in the OpenDEAM
 - **Canonical id:** `dea:metric-audience-share`
 - **Name:** Audience Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASH
 
@@ -22,7 +22,7 @@ The audience of a channel, program, or platform as a share of total audience in 
 ## Formula
 
 ```
-Audience for Property / Total Category Audience
+ASH = Audience for Property / Total Category Audience
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Spend per Matter** (LSPM) in the
 - **Canonical id:** `dea:metric-legal-spend-per-matter`
 - **Name:** Legal Spend per Matter
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSPM
 
@@ -22,7 +22,7 @@ Measures average legal cost per matter or case. It matters because it benchmarks
 ## Formula
 
 ```
-Total Legal Cost / Matters Handled
+LSPM = Total Legal Cost / Matters Handled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Response Program Delivery** (DR
 - **Canonical id:** `dea:metric-demand-response-program-delivery`
 - **Name:** Demand Response Program Delivery
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRPD
 
@@ -22,7 +22,7 @@ Measures achieved load reduction against contracted demand response commitments.
 ## Formula
 
 ```
-Curtailed Load vs Committed / Committed
+DRPD = Curtailed Load vs Committed / Committed
 ```
 
 ## Unit

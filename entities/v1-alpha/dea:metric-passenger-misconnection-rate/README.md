@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Misconnection Rate** (PMR-AT
 - **Canonical id:** `dea:metric-passenger-misconnection-rate`
 - **Name:** Passenger Misconnection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMR-AT
 
@@ -18,7 +18,7 @@ Within Airline & Transportation Standard Measures (Deep Dive), Passenger Misconn
 ## Formula
 
 ```
-Passengers Missing Connections due to Own Airline Delay / Connecting Passengers
+PMR-AT = Passengers Missing Connections due to Own Airline Delay / Connecting Passengers
 ```
 
 ## Unit

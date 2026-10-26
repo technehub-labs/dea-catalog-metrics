@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Square Foot (Deep Dive)** (S
 - **Canonical id:** `dea:metric-sales-per-square-foot-deep-dive`
 - **Name:** Sales per Square Foot (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPSFDD
 
@@ -22,7 +22,7 @@ Measures revenue productivity of selling space. It is the classic retail space e
 ## Formula
 
 ```
-Net Sales / Selling Area
+SPSFDD = Net Sales / Selling Area
 ```
 
 ## Unit

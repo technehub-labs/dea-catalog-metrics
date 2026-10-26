@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SaaS Quick Ratio (Deep Dive)** (SAQRD)
 - **Canonical id:** `dea:metric-saas-quick-ratio-deep-dive`
 - **Name:** SaaS Quick Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAQRD
 
@@ -22,7 +22,7 @@ Measures new plus expansion revenue divided by churned revenue. Above 1 means gr
 ## Formula
 
 ```
-(New + Expansion MRR) / (Churned + Contraction MRR)
+SAQRD = (New + Expansion MRR) / (Churned + Contraction MRR)
 ```
 
 ## Unit

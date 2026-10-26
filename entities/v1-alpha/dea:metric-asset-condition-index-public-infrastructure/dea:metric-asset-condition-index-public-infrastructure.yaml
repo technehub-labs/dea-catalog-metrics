@@ -9,7 +9,7 @@ description: Asset Condition Index (Public Infrastructure) (ACI-P) captures the 
   and quality trade-offs.
 abbreviation: ACI-P
 unit: index
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - governance
@@ -27,7 +27,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Weighted Infrastructure Condition Score
 formula_definition:
   formula_id: dea:formula-asset-condition-index-public-infrastructure
-  expression: Weighted Infrastructure Condition Score
+  expression: ACI-P = Weighted Infrastructure Condition Score
   inputs:
   - name: Weighted Infrastructure Condition Score
   operators: []
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-index
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: government_public_administration
 sector: public_sector
+subject_concept: dea:subject-asset_condition_index_public_infrastructure
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1586
+  - Public domain - no attribution required
+  known_limitations: []

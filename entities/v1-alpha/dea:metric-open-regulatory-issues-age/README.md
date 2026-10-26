@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Open Regulatory Issues Age** (ORIA) in
 - **Canonical id:** `dea:metric-open-regulatory-issues-age`
 - **Name:** Open Regulatory Issues Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORIA
 
@@ -22,7 +22,7 @@ Measures the average age of unresolved regulatory issues or findings. It matters
 ## Formula
 
 ```
-Median Age of Open Regulatory Issues
+ORIA = Median Age of Open Regulatory Issues
 ```
 
 ## Unit

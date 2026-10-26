@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Man-Hours per Flight Hour*
 - **Canonical id:** `dea:metric-maintenance-man-hours-per-flight-hour`
 - **Name:** Maintenance Man-Hours per Flight Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MMHF
 
@@ -22,7 +22,7 @@ Measures maintenance labor consumed per aircraft flight hour. It matters because
 ## Formula
 
 ```
-Maintenance Hours / Flight Hours
+MMHF = Maintenance Hours / Flight Hours
 ```
 
 ## Unit

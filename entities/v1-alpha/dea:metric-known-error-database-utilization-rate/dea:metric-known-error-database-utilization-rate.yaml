@@ -9,7 +9,7 @@ description: Within IT Incident & Major Problem Management, Known Error Database
   performance frameworks.
 abbreviation: KEDBR
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -27,7 +27,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Incidents Resolved via Known Error Entries / Applicable Incidents
 formula_definition:
   formula_id: dea:formula-known-error-database-utilization-rate
-  expression: Incidents Resolved via Known Error Entries / Applicable Incidents
+  expression: KEDBR = Incidents Resolved via Known Error Entries / Applicable Incidents
   inputs:
   - name: Incidents Resolved via Known Error Entries
   - name: Applicable Incidents
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,9 +48,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 2893
     batch: '7'
 domain: it_incident_major_problem_management
+subject_concept: dea:subject-known_error_database_utilization
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2893
+  - Public domain - no attribution required
+  known_limitations: []

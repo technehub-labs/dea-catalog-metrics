@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Advance Booking Days** (AABD) 
 - **Canonical id:** `dea:metric-average-advance-booking-days`
 - **Name:** Average Advance Booking Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AABD
 
@@ -18,7 +18,7 @@ Within Corporate Travel Management, Average Advance Booking Days (AABD) is used 
 ## Formula
 
 ```
-Days between Booking and Travel, Averaged
+AABD = Days between Booking and Travel, Averaged
 ```
 
 ## Unit

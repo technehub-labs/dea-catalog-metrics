@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Mobility Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-internal-mobility-rate-deep-dive`
 - **Name:** Internal Mobility Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMR-D
 
@@ -22,7 +22,7 @@ Measures the share of vacancies filled internally. Mobility retains institutiona
 ## Formula
 
 ```
-Roles Filled Internally / Total Roles Filled
+IMR-D = Roles Filled Internally / Total Roles Filled
 ```
 
 ## Unit

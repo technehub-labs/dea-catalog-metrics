@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Margin Return on Inventory** (GM
 - **Canonical id:** `dea:metric-gross-margin-return-on-inventory`
 - **Name:** Gross Margin Return on Inventory
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMROI
 
@@ -22,7 +22,7 @@ Gross margin dollars returned per dollar of average inventory investment - the r
 ## Formula
 
 ```
-Gross Margin / Average Inventory Cost
+GMROI = Gross Margin / Average Inventory Cost
 ```
 
 ## Unit

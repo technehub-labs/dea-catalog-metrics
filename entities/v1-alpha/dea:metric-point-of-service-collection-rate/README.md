@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Point-of-Service Collection Rate** (PO
 - **Canonical id:** `dea:metric-point-of-service-collection-rate`
 - **Name:** Point-of-Service Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POSC
 
@@ -22,7 +22,7 @@ Measures the share of patient financial responsibility collected at or before se
 ## Formula
 
 ```
-Patient Payments Collected at Service / Patient Payments Due
+POSC = Patient Payments Collected at Service / Patient Payments Due
 ```
 
 ## Unit

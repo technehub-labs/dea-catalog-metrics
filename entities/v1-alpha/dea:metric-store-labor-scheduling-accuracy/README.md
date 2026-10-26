@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Store Labor Scheduling Accuracy** (SLS
 - **Canonical id:** `dea:metric-store-labor-scheduling-accuracy`
 - **Name:** Store Labor Scheduling Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLSA
 
@@ -18,7 +18,7 @@ Within Retail Standard Measures, Store Labor Scheduling Accuracy (SLSA) is used 
 ## Formula
 
 ```
-Scheduled Hours Matching Traffic Model / Scheduled
+SLSA = Scheduled Hours Matching Traffic Model / Scheduled
 ```
 
 ## Unit

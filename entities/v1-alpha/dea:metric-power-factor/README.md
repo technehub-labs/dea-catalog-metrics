@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Power Factor** (PFE) in the OpenDEAM M
 - **Canonical id:** `dea:metric-power-factor`
 - **Name:** Power Factor
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFE
 
@@ -18,7 +18,7 @@ Within Operations Energy Management, Power Factor (PFE) is used to gauge how eff
 ## Formula
 
 ```
-Real Power / Apparent Power
+PFE = Real Power / Apparent Power
 ```
 
 ## Unit

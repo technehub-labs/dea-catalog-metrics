@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Error Rate** (APIER) in the OpenDE
 - **Canonical id:** `dea:metric-api-error-rate`
 - **Name:** API Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIER
 
@@ -18,7 +18,7 @@ Within Software Engineering, API Error Rate (APIER) is used to gauge the quality
 ## Formula
 
 ```
-Failed API Requests / Total API Requests
+APIER = Failed API Requests / Total API Requests
 ```
 
 ## Unit

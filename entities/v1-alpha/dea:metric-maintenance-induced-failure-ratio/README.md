@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Induced Failure Ratio** (M
 - **Canonical id:** `dea:metric-maintenance-induced-failure-ratio`
 - **Name:** Maintenance-Induced Failure Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIFR
 
@@ -18,7 +18,7 @@ Maintenance-Induced Failure Ratio (MIFR) measures the quality of outputs and out
 ## Formula
 
 ```
-Failures Attributable to Maintenance Error / Failures
+MIFR = Failures Attributable to Maintenance Error / Failures
 ```
 
 ## Unit

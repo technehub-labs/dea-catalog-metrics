@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Adherence Rate (Contact Cente
 - **Canonical id:** `dea:metric-schedule-adherence-rate-contact-center`
 - **Name:** Schedule Adherence Rate (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAR-CC
 
@@ -18,7 +18,7 @@ Schedule Adherence Rate (Contact Center) (SAR-CC) addresses conformance to stand
 ## Formula
 
 ```
-Time on Scheduled Activities / Scheduled Time
+SAR-CC = Time on Scheduled Activities / Scheduled Time
 ```
 
 ## Unit

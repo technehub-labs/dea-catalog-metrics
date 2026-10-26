@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage-Gate Pass Rate** (SGPR) in the O
 - **Canonical id:** `dea:metric-stage-gate-pass-rate`
 - **Name:** Stage-Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGPR
 
@@ -22,7 +22,7 @@ Measures the share of R&D projects passing each development gate on first presen
 ## Formula
 
 ```
-Concepts Passing Gate / Concepts Reviewed
+SGPR = Concepts Passing Gate / Concepts Reviewed
 ```
 
 ## Unit

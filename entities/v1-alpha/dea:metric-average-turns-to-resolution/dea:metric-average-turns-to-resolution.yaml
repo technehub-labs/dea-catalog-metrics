@@ -8,7 +8,7 @@ description: 'Average Turns to Resolution (ATTR) addresses how efficiently resou
   response. Reduction is the goal, and sustained decreases indicate successful intervention.'
 abbreviation: ATTR
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Conversation Turns before Resolution / Resolved Conversations
 formula_definition:
   formula_id: dea:formula-average-turns-to-resolution
-  expression: Conversation Turns before Resolution / Resolved Conversations
+  expression: ATTR = Conversation Turns before Resolution / Resolved Conversations
   inputs:
   - name: Conversation Turns before Resolution
   - name: Resolved Conversations
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 1484
     batch: '5'
 domain: conversational_ai_chatbots
+subject_concept: dea:subject-average_turns_to_resolution
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1484
+  - Public domain - no attribution required
+  known_limitations: []

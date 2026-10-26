@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Visits per Month (Deep Dive)** 
 - **Canonical id:** `dea:metric-member-visits-per-month-deep-dive`
 - **Name:** Member Visits per Month (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVM-D
 
@@ -22,7 +22,7 @@ Measures average attendance per member. Visit frequency is the strongest behavio
 ## Formula
 
 ```
-Total Check-ins / Active Members
+MVM-D = Total Check-ins / Active Members
 ```
 
 ## Unit

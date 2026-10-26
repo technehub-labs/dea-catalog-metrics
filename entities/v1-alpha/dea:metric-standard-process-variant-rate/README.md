@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Process Variant Rate** (SPVR)
 - **Canonical id:** `dea:metric-standard-process-variant-rate`
 - **Name:** Standard Process Variant Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPVR
 
@@ -18,7 +18,7 @@ Standard Process Variant Rate (SPVR) measures governance in the Operating Model 
 ## Formula
 
 ```
-Approved Process Variants / Base Processes
+SPVR = Approved Process Variants / Base Processes
 ```
 
 ## Unit

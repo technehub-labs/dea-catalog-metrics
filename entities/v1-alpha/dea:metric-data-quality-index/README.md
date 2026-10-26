@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Index** (DQI) in the Open
 - **Canonical id:** `dea:metric-data-quality-index`
 - **Name:** Data Quality Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQI
 
@@ -22,7 +22,7 @@ A composite score of fitness-for-purpose across data quality dimensions - conven
 ## Formula
 
 ```
-Weighted Index of Completeness, Accuracy, Timeliness, Consistency
+DQI = Weighted Index of Completeness, Accuracy, Timeliness, Consistency
 ```
 
 ## Unit

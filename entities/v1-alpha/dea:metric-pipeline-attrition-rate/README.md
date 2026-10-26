@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Attrition Rate** (PAR-P) in t
 - **Canonical id:** `dea:metric-pipeline-attrition-rate`
 - **Name:** Pipeline Attrition Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAR-P
 
@@ -22,7 +22,7 @@ Measures the share of pipeline candidates terminated per period, by phase and re
 ## Formula
 
 ```
-Candidates Discontinued / Candidates in Development
+PAR-P = Candidates Discontinued / Candidates in Development
 ```
 
 ## Unit

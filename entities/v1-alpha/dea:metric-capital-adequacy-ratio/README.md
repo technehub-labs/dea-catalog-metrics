@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Adequacy Ratio** (CAR) in the 
 - **Canonical id:** `dea:metric-capital-adequacy-ratio`
 - **Name:** Capital Adequacy Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR
 
@@ -22,7 +22,7 @@ Regulatory capital as a percentage of risk-weighted assets - the solvency backbo
 ## Formula
 
 ```
-Regulatory Capital / Risk-Weighted Assets
+CAR = Regulatory Capital / Risk-Weighted Assets
 ```
 
 ## Unit

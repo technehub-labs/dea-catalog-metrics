@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash-to-Cash Cycle Time (Supply Chain)
 - **Canonical id:** `dea:metric-cash-to-cash-cycle-time-supply-chain`
 - **Name:** Cash-to-Cash Cycle Time (Supply Chain)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** C2C
 
@@ -22,7 +22,7 @@ Measures days from paying suppliers to collecting from customers across the chai
 ## Formula
 
 ```
-DIO + DSO - DPO across Chain
+C2C = DIO + DSO - DPO across Chain
 ```
 
 ## Unit

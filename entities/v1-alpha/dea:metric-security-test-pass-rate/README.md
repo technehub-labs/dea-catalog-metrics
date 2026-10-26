@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Test Pass Rate** (STPR) in th
 - **Canonical id:** `dea:metric-security-test-pass-rate`
 - **Name:** Security Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STPR
 
@@ -18,7 +18,7 @@ Security Test Pass Rate (STPR) addresses conformance to standards, plans, or obl
 ## Formula
 
 ```
-Pipeline Runs Passing Security Gates / Runs
+STPR = Pipeline Runs Passing Security Gates / Runs
 ```
 
 ## Unit

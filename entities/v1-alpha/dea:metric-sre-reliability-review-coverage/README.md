@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SRE Reliability Review Coverage** (SRR
 - **Canonical id:** `dea:metric-sre-reliability-review-coverage`
 - **Name:** SRE Reliability Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRRC
 
@@ -22,7 +22,7 @@ Measures the share of critical services receiving structured design-for-reliabil
 ## Formula
 
 ```
-Critical Services Reviewed per Quarter / Critical Services
+SRRC = Critical Services Reviewed per Quarter / Critical Services
 ```
 
 ## Unit

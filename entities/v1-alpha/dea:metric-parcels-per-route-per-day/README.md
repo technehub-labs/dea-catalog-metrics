@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Parcels per Route per Day** (PPRD) in 
 - **Canonical id:** `dea:metric-parcels-per-route-per-day`
 - **Name:** Parcels per Route per Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPRD
 
@@ -18,7 +18,7 @@ Parcels per Route per Day (PPRD) addresses the utilization or availability of ca
 ## Formula
 
 ```
-Parcels Delivered / Route Days
+PPRD = Parcels Delivered / Route Days
 ```
 
 ## Unit

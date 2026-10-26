@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Utilization - Block Hours per
 - **Canonical id:** `dea:metric-aircraft-utilization-block-hours-per-day-deep-dive`
 - **Name:** Aircraft Utilization - Block Hours per Day (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUHD-D
 
@@ -22,7 +22,7 @@ Measures daily flying hours per aircraft. Utilization is the capital-efficiency 
 ## Formula
 
 ```
-Block Hours / Aircraft Days
+AUHD-D = Block Hours / Aircraft Days
 ```
 
 ## Unit

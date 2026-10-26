@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Recipient Satisfaction** (CRS) in
 - **Canonical id:** `dea:metric-care-recipient-satisfaction`
 - **Name:** Care Recipient Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRS
 
@@ -22,7 +22,7 @@ Care recipient satisfaction measures the experienced quality of care from the re
 ## Formula
 
 ```
-Satisfied Recipient or Family Survey Responses / Responses
+CRS = Satisfied Recipient or Family Survey Responses / Responses
 ```
 
 ## Unit

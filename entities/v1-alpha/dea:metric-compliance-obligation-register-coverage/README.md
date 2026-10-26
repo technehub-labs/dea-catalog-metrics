@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Obligation Register Coverag
 - **Canonical id:** `dea:metric-compliance-obligation-register-coverage`
 - **Name:** Compliance Obligation Register Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CORC
 
@@ -22,7 +22,7 @@ Measures how completely applicable regulatory obligations are captured in a gove
 ## Formula
 
 ```
-Legal Obligations Mapped to Controls / Identified Obligations
+CORC = Legal Obligations Mapped to Controls / Identified Obligations
 ```
 
 ## Unit

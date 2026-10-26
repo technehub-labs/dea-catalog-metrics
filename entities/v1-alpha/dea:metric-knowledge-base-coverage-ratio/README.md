@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Base Coverage Ratio** (KBCR-
 - **Canonical id:** `dea:metric-knowledge-base-coverage-ratio`
 - **Name:** Knowledge Base Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KBCR-KM
 
@@ -18,7 +18,7 @@ Knowledge Base Coverage Ratio (KBCR-KM) measures capability maturity or developm
 ## Formula
 
 ```
-Documented Answers for Recurring Questions / Recurring Questions
+KBCR-KM = Documented Answers for Recurring Questions / Recurring Questions
 ```
 
 ## Unit

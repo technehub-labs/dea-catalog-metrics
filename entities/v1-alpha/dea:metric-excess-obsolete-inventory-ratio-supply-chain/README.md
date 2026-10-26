@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess & Obsolete Inventory Ratio (Sup
 - **Canonical id:** `dea:metric-excess-obsolete-inventory-ratio-supply-chain`
 - **Name:** Excess & Obsolete Inventory Ratio (Supply Chain)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOIR
 
@@ -22,7 +22,7 @@ Measures the share of inventory that is excess or obsolete. E&O is written-down 
 ## Formula
 
 ```
-E&O Inventory Value / Total Inventory Value
+EOIR = E&O Inventory Value / Total Inventory Value
 ```
 
 ## Unit

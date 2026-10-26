@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Repository Availability** (DRA
 - **Canonical id:** `dea:metric-digital-repository-availability`
 - **Name:** Digital Repository Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRA-RM
 
@@ -18,7 +18,7 @@ A Records & Information Management indicator, Digital Repository Availability (D
 ## Formula
 
 ```
-Uptime of Records Repository
+DRA-RM = Uptime of Records Repository
 ```
 
 ## Unit

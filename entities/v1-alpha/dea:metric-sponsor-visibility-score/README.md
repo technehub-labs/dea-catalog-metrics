@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sponsor Visibility Score** (SVS) in th
 - **Canonical id:** `dea:metric-sponsor-visibility-score`
 - **Name:** Sponsor Visibility Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVS
 
@@ -22,7 +22,7 @@ Measures how consistently and credibly change sponsors communicate, remove obsta
 ## Formula
 
 ```
-Stakeholder-Perceived Executive Sponsorship Rating
+SVS = Stakeholder-Perceived Executive Sponsorship Rating
 ```
 
 ## Unit

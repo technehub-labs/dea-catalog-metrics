@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotional Reach Conversion** (PRC) i
 - **Canonical id:** `dea:metric-promotional-reach-conversion`
 - **Name:** Promotional Reach Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRC
 
@@ -22,7 +22,7 @@ Measures how effectively promotional reach converts into engagement or trial. It
 ## Formula
 
 ```
-Trial Starts from Campaign / Campaign Reach
+PRC = Trial Starts from Campaign / Campaign Reach
 ```
 
 ## Unit

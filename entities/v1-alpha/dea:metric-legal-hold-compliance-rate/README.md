@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Hold Compliance Rate** (LHCR) in
 - **Canonical id:** `dea:metric-legal-hold-compliance-rate`
 - **Name:** Legal Hold Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LHCR
 
@@ -22,7 +22,7 @@ Measures whether custodians under legal hold suspend destruction and confirm ack
 ## Formula
 
 ```
-Holds Implemented and Acknowledged on Time / Holds Issued
+LHCR = Holds Implemented and Acknowledged on Time / Holds Issued
 ```
 
 ## Unit

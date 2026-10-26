@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Serviceable Spares Availability** (SSP
 - **Canonical id:** `dea:metric-serviceable-spares-availability`
 - **Name:** Serviceable Spares Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSPA
 
@@ -22,7 +22,7 @@ Measures the share of demanded spare parts available serviceable at need. It mat
 ## Formula
 
 ```
-Serviceable Parts Available at Need / Parts Demands
+SSPA = Serviceable Parts Available at Need / Parts Demands
 ```
 
 ## Unit

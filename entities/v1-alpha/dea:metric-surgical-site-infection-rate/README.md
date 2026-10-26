@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Surgical Site Infection Rate** (SSIR-H
 - **Canonical id:** `dea:metric-surgical-site-infection-rate`
 - **Name:** Surgical Site Infection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSIR-HC
 
@@ -22,7 +22,7 @@ Measures infections following surgical procedures, risk-adjusted. SSI reflects s
 ## Formula
 
 ```
-SSI Events / Surgical Procedures
+SSIR-HC = SSI Events / Surgical Procedures
 ```
 
 ## Unit

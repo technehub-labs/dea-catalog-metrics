@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Service Response Time (Deep Dive
 - **Canonical id:** `dea:metric-field-service-response-time-deep-dive`
 - **Name:** Field Service Response Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSRT-D
 
@@ -18,7 +18,7 @@ Field Service Response Time (Deep Dive) (FSRT-D) measures how efficiently resour
 ## Formula
 
 ```
-Hours from Dispatch to On-Site
+FSRT-D = Hours from Dispatch to On-Site
 ```
 
 ## Unit

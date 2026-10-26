@@ -8,7 +8,7 @@ description: Within Financial Planning & Analysis, Self-Service Analytics Adopti
   maximized within the limits of cost and quality trade-offs.
 abbreviation: SSAA
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - financial
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Business Users with Direct Planning Access / Users in Scope
 formula_definition:
   formula_id: dea:formula-self-service-analytics-adoption
-  expression: Business Users with Direct Planning Access / Users in Scope
+  expression: SSAA = Business Users with Direct Planning Access / Users in Scope
   inputs:
   - name: Business Users with Direct Planning Access
   - name: Users in Scope
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3782
     batch: '8'
 domain: financial_planning_analysis
+subject_concept: dea:subject-self_service_analytics_adoption
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3782
+  - Public domain - no attribution required
+  known_limitations: []

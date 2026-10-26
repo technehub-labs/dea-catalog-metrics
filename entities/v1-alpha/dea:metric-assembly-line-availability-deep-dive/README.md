@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assembly Line Availability (Deep Dive)
 - **Canonical id:** `dea:metric-assembly-line-availability-deep-dive`
 - **Name:** Assembly Line Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALA-D
 
@@ -18,7 +18,7 @@ Assembly Line Availability (Deep Dive) (ALA-D) measures the utilization or avail
 ## Formula
 
 ```
-Uptime / Scheduled Production Time
+ALA-D = Uptime / Scheduled Production Time
 ```
 
 ## Unit

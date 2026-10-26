@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beta (Portfolio) (Deep Dive)** (BTPDD)
 - **Canonical id:** `dea:metric-beta-portfolio-deep-dive`
 - **Name:** Beta (Portfolio) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTPDD
 
@@ -22,7 +22,7 @@ Portfolio beta, from the CAPM tradition (Sharpe, Treynor, Lintner), is the covar
 ## Formula
 
 ```
-Covariance with Market / Market Variance
+BTPDD = Covariance with Market / Market Variance
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Local Resident Discount Uptake** (LRDU
 - **Canonical id:** `dea:metric-local-resident-discount-uptake`
 - **Name:** Local Resident Discount Uptake
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRDU
 
@@ -18,7 +18,7 @@ Within Entertainment Venues & Attractions, Local Resident Discount Uptake (LRDU)
 ## Formula
 
 ```
-Discount Tickets Sold to Locals / Local Capacity
+LRDU = Discount Tickets Sold to Locals / Local Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Omnichannel Consistency Score** (OCS) 
 - **Canonical id:** `dea:metric-omnichannel-consistency-score`
 - **Name:** Omnichannel Consistency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCS
 
@@ -22,7 +22,7 @@ Captures how uniformly pricing, product information, policy answers, and service
 ## Formula
 
 ```
-Weighted Score of Experience Consistency across Channels
+OCS = Weighted Score of Experience Consistency across Channels
 ```
 
 ## Unit

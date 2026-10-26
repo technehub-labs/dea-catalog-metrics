@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Satisfaction Index** (FSI) 
 - **Canonical id:** `dea:metric-franchisee-satisfaction-index`
 - **Name:** Franchisee Satisfaction Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSI
 
@@ -22,7 +22,7 @@ Measures franchisee satisfaction with the franchisor relationship and support. I
 ## Formula
 
 ```
-Weighted Franchisee Survey Score
+FSI = Weighted Franchisee Survey Score
 ```
 
 ## Unit

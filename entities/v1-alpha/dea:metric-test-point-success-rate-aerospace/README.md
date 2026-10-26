@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Point Success Rate (Aerospace)** 
 - **Canonical id:** `dea:metric-test-point-success-rate-aerospace`
 - **Name:** Test Point Success Rate (Aerospace)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPSA
 
@@ -18,7 +18,7 @@ Within Aerospace & Defense Program Management, Test Point Success Rate (Aerospac
 ## Formula
 
 ```
-Test Points Passed / Test Points Executed
+TPSA = Test Points Passed / Test Points Executed
 ```
 
 ## Unit

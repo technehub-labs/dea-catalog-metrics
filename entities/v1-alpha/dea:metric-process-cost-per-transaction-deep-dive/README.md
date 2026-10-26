@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cost per Transaction (Deep Div
 - **Canonical id:** `dea:metric-process-cost-per-transaction-deep-dive`
 - **Name:** Process Cost per Transaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCPT-D
 
@@ -22,7 +22,7 @@ Measures the unit economics of standard transactions. Unit cost trends reveal wh
 ## Formula
 
 ```
-Operating Cost / Process Transactions
+PCPT-D = Operating Cost / Process Transactions
 ```
 
 ## Unit

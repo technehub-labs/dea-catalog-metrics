@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engineering Change Order Cost** (ECOC)
 - **Canonical id:** `dea:metric-engineering-change-order-cost`
 - **Name:** Engineering Change Order Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECOC
 
@@ -18,7 +18,7 @@ Engineering Change Order Cost (ECOC) captures the economic value created or pres
 ## Formula
 
 ```
-Total Cost of Implemented Changes / Changes
+ECOC = Total Cost of Implemented Changes / Changes
 ```
 
 ## Unit

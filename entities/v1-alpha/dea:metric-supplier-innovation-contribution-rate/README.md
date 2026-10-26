@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Innovation Contribution Rate*
 - **Canonical id:** `dea:metric-supplier-innovation-contribution-rate`
 - **Name:** Supplier Innovation Contribution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SICR
 
@@ -22,7 +22,7 @@ Measures how much measurable innovation (product, process, cost) suppliers contr
 ## Formula
 
 ```
-Accepted Supplier-Initiated Innovations / Sourcing Cycle
+SICR = Accepted Supplier-Initiated Innovations / Sourcing Cycle
 ```
 
 ## Unit

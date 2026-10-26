@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Border Control Processing Time** (BCPT
 - **Canonical id:** `dea:metric-border-control-processing-time`
 - **Name:** Border Control Processing Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCPT
 
@@ -18,7 +18,7 @@ A Airport Operations (Deep Dive) indicator, Border Control Processing Time (BCPT
 ## Formula
 
 ```
-Minutes to Process Passenger
+BCPT = Minutes to Process Passenger
 ```
 
 ## Unit

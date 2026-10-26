@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quick Ratio (Deep Dive)** (QRDD) in th
 - **Canonical id:** `dea:metric-quick-ratio-deep-dive`
 - **Name:** Quick Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QRDD
 
@@ -22,7 +22,7 @@ Measures liquid current assets (excluding inventory) against current liabilities
 ## Formula
 
 ```
-(Current Assets - Inventory) / Current Liabilities
+QRDD = (Current Assets - Inventory) / Current Liabilities
 ```
 
 ## Unit

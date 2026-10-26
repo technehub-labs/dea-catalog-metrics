@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Power Usage Effectiveness** (PUE) in t
 - **Canonical id:** `dea:metric-power-usage-effectiveness`
 - **Name:** Power Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PUE
 
@@ -22,7 +22,7 @@ PUE, defined by The Green Grid (2007), is total facility energy divided by IT eq
 ## Formula
 
 ```
-Total Facility Power / IT Equipment Power
+PUE = Total Facility Power / IT Equipment Power
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Communities of Practice Activity Index
 - **Canonical id:** `dea:metric-communities-of-practice-activity-index`
 - **Name:** Communities of Practice Activity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COPI
 
@@ -18,7 +18,7 @@ Within Knowledge Management (Deep Dive), Communities of Practice Activity Index 
 ## Formula
 
 ```
-Composite of Participation and Contribution per Community
+COPI = Composite of Participation and Contribution per Community
 ```
 
 ## Unit

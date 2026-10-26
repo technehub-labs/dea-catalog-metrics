@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Activity-Based Costing Coverage** (ABC
 - **Canonical id:** `dea:metric-activity-based-costing-coverage`
 - **Name:** Activity-Based Costing Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABCC
 
@@ -22,7 +22,7 @@ Measures the share of cost base allocated through activity-based models. It matt
 ## Formula
 
 ```
-Products Costed via ABC Model / Products Costed
+ABCC = Products Costed via ABC Model / Products Costed
 ```
 
 ## Unit

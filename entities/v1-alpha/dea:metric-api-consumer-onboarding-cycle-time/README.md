@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Consumer Onboarding Cycle Time** (
 - **Canonical id:** `dea:metric-api-consumer-onboarding-cycle-time`
 - **Name:** API Consumer Onboarding Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIONB
 
@@ -18,7 +18,7 @@ Within API Lifecycle Management, API Consumer Onboarding Cycle Time (APIONB) is 
 ## Formula
 
 ```
-Days from Key Request to Production Consumption
+APIONB = Days from Key Request to Production Consumption
 ```
 
 ## Unit

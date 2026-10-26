@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Talent Coverage** (DTC) in the
 - **Canonical id:** `dea:metric-digital-talent-coverage`
 - **Name:** Digital Talent Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTC
 
@@ -22,7 +22,7 @@ Measures the share of critical digital roles - product management, data science,
 ## Formula
 
 ```
-Roles Filled with Digital Skills / Roles Requiring Digital Skills
+DTC = Roles Filled with Digital Skills / Roles Requiring Digital Skills
 ```
 
 ## Unit

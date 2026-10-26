@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Channel Adoption (Government)*
 - **Canonical id:** `dea:metric-digital-channel-adoption-government`
 - **Name:** Digital Channel Adoption (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCAD
 
@@ -22,7 +22,7 @@ Measures the share of eligible citizen transactions completed digitally. It matt
 ## Formula
 
 ```
-Digital Service Transactions / Total Transactions
+DCAD = Digital Service Transactions / Total Transactions
 ```
 
 ## Unit

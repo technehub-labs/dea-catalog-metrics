@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expertise Location Coverage** (ELC) in
 - **Canonical id:** `dea:metric-expertise-location-coverage`
 - **Name:** Expertise Location Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELC
 
@@ -22,7 +22,7 @@ Measures the share of critical expertise domains with findable, current expert d
 ## Formula
 
 ```
-Critical Topics with Identified Experts / Critical Topics
+ELC = Critical Topics with Identified Experts / Critical Topics
 ```
 
 ## Unit

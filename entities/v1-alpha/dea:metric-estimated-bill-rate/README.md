@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimated Bill Rate** (EBR-U) in the O
 - **Canonical id:** `dea:metric-estimated-bill-rate`
 - **Name:** Estimated Bill Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBR-U
 
@@ -22,7 +22,7 @@ Measures the share of utility customers billed on estimated rather than actual m
 ## Formula
 
 ```
-Estimated Bills / Total Bills Issued
+EBR-U = Estimated Bills / Total Bills Issued
 ```
 
 ## Unit

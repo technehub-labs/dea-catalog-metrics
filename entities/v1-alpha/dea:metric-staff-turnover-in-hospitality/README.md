@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff Turnover in Hospitality** (STOH)
 - **Canonical id:** `dea:metric-staff-turnover-in-hospitality`
 - **Name:** Staff Turnover in Hospitality
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STOH
 
@@ -22,7 +22,7 @@ Measures employee turnover in hospitality operations. It matters because turnove
 ## Formula
 
 ```
-Departures / Average Headcount
+STOH = Departures / Average Headcount
 ```
 
 ## Unit

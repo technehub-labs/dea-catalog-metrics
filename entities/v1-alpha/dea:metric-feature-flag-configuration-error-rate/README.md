@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Flag Configuration Error Rate*
 - **Canonical id:** `dea:metric-feature-flag-configuration-error-rate`
 - **Name:** Feature Flag Configuration Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FFCER
 
@@ -18,7 +18,7 @@ Within Continuous Delivery & Deployment, Feature Flag Configuration Error Rate (
 ## Formula
 
 ```
-Incidents Caused by Flag Misconfiguration / Incidents
+FFCER = Incidents Caused by Flag Misconfiguration / Incidents
 ```
 
 ## Unit

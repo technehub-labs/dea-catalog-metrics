@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fill Rate** (FR) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-fill-rate`
 - **Name:** Fill Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FR
 
@@ -22,7 +22,7 @@ Measures the share of customer demand satisfied immediately from stock. It matte
 ## Formula
 
 ```
-Items Shipped from Stock / Items Ordered
+FR = Items Shipped from Stock / Items Ordered
 ```
 
 ## Unit

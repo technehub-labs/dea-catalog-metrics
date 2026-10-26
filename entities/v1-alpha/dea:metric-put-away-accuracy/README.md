@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Put-Away Accuracy** (PAA) in the OpenD
 - **Canonical id:** `dea:metric-put-away-accuracy`
 - **Name:** Put-Away Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAA
 
@@ -18,7 +18,7 @@ Put-Away Accuracy (PAA) measures the quality of outputs and outcomes in the Ware
 ## Formula
 
 ```
-Correctly Placed Units / Units Put Away
+PAA = Correctly Placed Units / Units Put Away
 ```
 
 ## Unit

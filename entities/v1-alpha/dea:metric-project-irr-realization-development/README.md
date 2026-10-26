@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project IRR Realization (Development)*
 - **Canonical id:** `dea:metric-project-irr-realization-development`
 - **Name:** Project IRR Realization (Development)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIRR
 
@@ -22,7 +22,7 @@ Measures whether completed developments achieved their underwritten IRR. Realiza
 ## Formula
 
 ```
-Realized IRR vs Underwritten IRR / Underwritten IRR
+PIRR = Realized IRR vs Underwritten IRR / Underwritten IRR
 ```
 
 ## Unit

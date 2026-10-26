@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Handoff Count per Pro
 - **Canonical id:** `dea:metric-cross-functional-handoff-count-per-process`
 - **Name:** Cross-Functional Handoff Count per Process
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFHCP
 
@@ -18,7 +18,7 @@ Cross-Functional Handoff Count per Process (CFHCP) addresses how efficiently res
 ## Formula
 
 ```
-Handoffs between Functions per Process
+CFHCP = Handoffs between Functions per Process
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile App Crash-Free Session Rate** (
 - **Canonical id:** `dea:metric-mobile-app-crash-free-session-rate`
 - **Name:** Mobile App Crash-Free Session Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MACFS
 
@@ -18,7 +18,7 @@ Mobile App Crash-Free Session Rate (MACFS) addresses the quality of outputs and 
 ## Formula
 
 ```
-Sessions without Crash / Total Sessions
+MACFS = Sessions without Crash / Total Sessions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Cost per Vehicle** (WCPV) in 
 - **Canonical id:** `dea:metric-warranty-cost-per-vehicle`
 - **Name:** Warranty Cost per Vehicle
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCPV
 
@@ -22,7 +22,7 @@ Warranty cost per vehicle is the manufacturer's accrual for repairs per unit sol
 ## Formula
 
 ```
-Total Warranty Cost / Vehicles Sold
+WCPV = Total Warranty Cost / Vehicles Sold
 ```
 
 ## Unit

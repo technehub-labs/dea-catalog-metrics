@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Documentation Sufficiency Score*
 - **Canonical id:** `dea:metric-model-documentation-sufficiency-score`
 - **Name:** Model Documentation Sufficiency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDSS
 
@@ -22,7 +22,7 @@ Measures whether model documentation meets the standard (purpose, methodology, a
 ## Formula
 
 ```
-Documentation Items Complete / Required per Policy
+MDSS = Documentation Items Complete / Required per Policy
 ```
 
 ## Unit

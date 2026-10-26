@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Toil-to-Work Ratio** (T2WR) in the Ope
 - **Canonical id:** `dea:metric-toil-to-work-ratio`
 - **Name:** Toil-to-Work Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** T2WR
 
@@ -22,7 +22,7 @@ Measures operational toil as a share of total engineering effort. Above roughly 
 ## Formula
 
 ```
-Toil Hours / Total Engineering Hours
+T2WR = Toil Hours / Total Engineering Hours
 ```
 
 ## Unit

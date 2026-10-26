@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Requirement Rate** (DRR-RE) 
 - **Canonical id:** `dea:metric-duplicate-requirement-rate`
 - **Name:** Duplicate Requirement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRR-RE
 
@@ -18,7 +18,7 @@ Duplicate Requirement Rate (DRR-RE) measures the quality of outputs and outcomes
 ## Formula
 
 ```
-Duplicate Requirements Identified / Requirements Reviewed
+DRR-RE = Duplicate Requirements Identified / Requirements Reviewed
 ```
 
 ## Unit

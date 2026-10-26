@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ramp Rate of New Teams** (RRNT) in the
 - **Canonical id:** `dea:metric-ramp-rate-of-new-teams`
 - **Name:** Ramp Rate of New Teams
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRNT
 
@@ -18,7 +18,7 @@ Ramp Rate of New Teams (RRNT) measures capability maturity or development in the
 ## Formula
 
 ```
-Weeks for New Team to Reach Target Velocity
+RRNT = Weeks for New Team to Reach Target Velocity
 ```
 
 ## Unit

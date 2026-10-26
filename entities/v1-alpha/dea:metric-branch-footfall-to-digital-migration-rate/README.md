@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Branch Footfall to Digital Migration R
 - **Canonical id:** `dea:metric-branch-footfall-to-digital-migration-rate`
 - **Name:** Branch Footfall to Digital Migration Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFDM
 
@@ -22,7 +22,7 @@ Measures the shift of branch transactions to digital channels. It is the demand-
 ## Formula
 
 ```
-Migrated Transactions / Addressable Branch Transactions
+BFDM = Migrated Transactions / Addressable Branch Transactions
 ```
 
 ## Unit

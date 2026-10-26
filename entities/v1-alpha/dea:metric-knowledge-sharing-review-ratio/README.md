@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Sharing Review Ratio** (KSR)
 - **Canonical id:** `dea:metric-knowledge-sharing-review-ratio`
 - **Name:** Knowledge Sharing Review Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KSR
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Knowledge Sharing Review Ratio (KSR) is used 
 ## Formula
 
 ```
-Cross-Team Reviews / Total Reviews
+KSR = Cross-Team Reviews / Total Reviews
 ```
 
 ## Unit

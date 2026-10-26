@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Launch New Telecom Product** (
 - **Canonical id:** `dea:metric-time-to-launch-new-telecom-product`
 - **Name:** Time to Launch New Telecom Product
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTLN
 
@@ -22,7 +22,7 @@ Measures elapsed time from product approval to commercial launch - catalogue, pr
 ## Formula
 
 ```
-Days from Concept Approval to Commercial Launch
+TTLN = Days from Concept Approval to Commercial Launch
 ```
 
 ## Unit

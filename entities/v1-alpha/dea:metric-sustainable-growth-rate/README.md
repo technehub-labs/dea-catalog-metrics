@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustainable Growth Rate** (SGR-VCF) in
 - **Canonical id:** `dea:metric-sustainable-growth-rate`
 - **Name:** Sustainable Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGR-VCF
 
@@ -22,7 +22,7 @@ Measures the growth rate fundable from retained earnings without new leverage or
 ## Formula
 
 ```
-ROE x Retention Ratio
+SGR-VCF = ROE x Retention Ratio
 ```
 
 ## Unit

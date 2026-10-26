@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gage Repeatability & Reproducibility R
 - **Canonical id:** `dea:metric-gage-repeatability-reproducibility-ratio`
 - **Name:** Gage Repeatability & Reproducibility Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GRNR
 
@@ -18,7 +18,7 @@ Gage Repeatability & Reproducibility Ratio (GRNR) captures the quality of output
 ## Formula
 
 ```
-Measurement System Variation / Total Variation
+GRNR = Measurement System Variation / Total Variation
 ```
 
 ## Unit

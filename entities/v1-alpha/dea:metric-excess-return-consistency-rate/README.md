@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess Return Consistency Rate** (ERCR
 - **Canonical id:** `dea:metric-excess-return-consistency-rate`
 - **Name:** Excess Return Consistency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERCR
 
@@ -22,7 +22,7 @@ Measures how frequently the portfolio beats its benchmark across periods. Consis
 ## Formula
 
 ```
-Periods Beating Benchmark / Periods in Window
+ERCR = Periods Beating Benchmark / Periods in Window
 ```
 
 ## Unit

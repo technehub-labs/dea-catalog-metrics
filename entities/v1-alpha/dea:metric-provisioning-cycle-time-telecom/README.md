@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Provisioning Cycle Time (Telecom)** (P
 - **Canonical id:** `dea:metric-provisioning-cycle-time-telecom`
 - **Name:** Provisioning Cycle Time (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCT-T
 
@@ -22,7 +22,7 @@ Measures elapsed time from order capture to service activation, the interval whe
 ## Formula
 
 ```
-Days from Order to Active Service
+PCT-T = Days from Order to Active Service
 ```
 
 ## Unit

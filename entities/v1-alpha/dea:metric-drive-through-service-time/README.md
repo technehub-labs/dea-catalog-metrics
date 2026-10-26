@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Drive-Through Service Time** (DSTS) in
 - **Canonical id:** `dea:metric-drive-through-service-time`
 - **Name:** Drive-Through Service Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSTS
 
@@ -18,7 +18,7 @@ Drive-Through Service Time (DSTS) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Minutes from Order Point to Handoff
+DSTS = Minutes from Order Point to Handoff
 ```
 
 ## Unit

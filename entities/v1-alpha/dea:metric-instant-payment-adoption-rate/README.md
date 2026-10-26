@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instant Payment Adoption Rate** (IPAR)
 - **Canonical id:** `dea:metric-instant-payment-adoption-rate`
 - **Name:** Instant Payment Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPAR
 
@@ -22,7 +22,7 @@ Measures the share of transaction volume on instant payment rails. Instant rails
 ## Formula
 
 ```
-Instant Payment Volume / Total Payment Volume
+IPAR = Instant Payment Volume / Total Payment Volume
 ```
 
 ## Unit

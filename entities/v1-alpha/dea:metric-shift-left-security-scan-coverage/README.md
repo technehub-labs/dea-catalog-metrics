@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shift-Left Security Scan Coverage** (S
 - **Canonical id:** `dea:metric-shift-left-security-scan-coverage`
 - **Name:** Shift-Left Security Scan Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLSSC
 
@@ -22,7 +22,7 @@ Measures the share of code changes scanned for security issues at commit or buil
 ## Formula
 
 ```
-Pipelines with Security Scanning at Build Time / Pipelines
+SLSSC = Pipelines with Security Scanning at Build Time / Pipelines
 ```
 
 ## Unit

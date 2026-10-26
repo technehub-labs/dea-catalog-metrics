@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merit Budget Utilization** (MBU-PAY) i
 - **Canonical id:** `dea:metric-merit-budget-utilization`
 - **Name:** Merit Budget Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MBU-PAY
 
@@ -18,7 +18,7 @@ Merit Budget Utilization (MBU-PAY) captures conformance to standards, plans, or 
 ## Formula
 
 ```
-Merit Increases Awarded / Merit Budget
+MBU-PAY = Merit Increases Awarded / Merit Budget
 ```
 
 ## Unit

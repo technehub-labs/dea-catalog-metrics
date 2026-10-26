@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Green Belt Project Throughput** (GBPT)
 - **Canonical id:** `dea:metric-green-belt-project-throughput`
 - **Name:** Green Belt Project Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GBPT
 
@@ -22,7 +22,7 @@ Measures completed improvement projects per trained belt. It matters because it 
 ## Formula
 
 ```
-Certified Projects Completed per Practitioner per Year
+GBPT = Certified Projects Completed per Practitioner per Year
 ```
 
 ## Unit

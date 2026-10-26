@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Problem Record Creation Rate from Inci
 - **Canonical id:** `dea:metric-problem-record-creation-rate-from-incidents`
 - **Name:** Problem Record Creation Rate from Incidents
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRCRI
 
@@ -22,7 +22,7 @@ Measures how often recurring or major incidents spawn problem investigations. Th
 ## Formula
 
 ```
-Problems Opened from Incident Trends / Major or Repeat Incidents
+PRCRI = Problems Opened from Incident Trends / Major or Repeat Incidents
 ```
 
 ## Unit

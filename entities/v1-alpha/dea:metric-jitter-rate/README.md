@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Jitter Rate** (JTR) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-jitter-rate`
 - **Name:** Jitter Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JTR
 
@@ -18,7 +18,7 @@ Jitter Rate (JTR) measures the quality of outputs and outcomes in the Network Pe
 ## Formula
 
 ```
-Packet Delay Variation Exceeding Threshold / Samples
+JTR = Packet Delay Variation Exceeding Threshold / Samples
 ```
 
 ## Unit

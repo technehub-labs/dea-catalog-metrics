@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Picking Accuracy** (OPA) in the 
 - **Canonical id:** `dea:metric-order-picking-accuracy`
 - **Name:** Order Picking Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPA
 
@@ -18,7 +18,7 @@ Within Warehousing, Order Picking Accuracy (OPA) is used to gauge the quality of
 ## Formula
 
 ```
-Correctly Picked Lines / Lines Picked
+OPA = Correctly Picked Lines / Lines Picked
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Pipeline Value** (RDPV) in the Ope
 - **Canonical id:** `dea:metric-r-d-pipeline-value`
 - **Name:** R&D Pipeline Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDPV
 
@@ -22,7 +22,7 @@ Measures risk-adjusted value of the development pipeline - typically probability
 ## Formula
 
 ```
-Risk-Adjusted NPV of Pipeline Candidates
+RDPV = Risk-Adjusted NPV of Pipeline Candidates
 ```
 
 ## Unit

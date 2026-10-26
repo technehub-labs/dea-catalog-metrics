@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Cloud Finding Resolution Time
 - **Canonical id:** `dea:metric-critical-cloud-finding-resolution-time`
 - **Name:** Critical Cloud Finding Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCFRT
 
@@ -18,7 +18,7 @@ A Cloud Security Posture Management indicator, Critical Cloud Finding Resolution
 ## Formula
 
 ```
-Hours to Remediate Critical CSPM Findings
+CCFRT = Hours to Remediate Critical CSPM Findings
 ```
 
 ## Unit

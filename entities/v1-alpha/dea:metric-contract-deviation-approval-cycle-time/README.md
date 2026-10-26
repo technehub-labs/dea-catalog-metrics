@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Deviation Approval Cycle Time
 - **Canonical id:** `dea:metric-contract-deviation-approval-cycle-time`
 - **Name:** Contract Deviation Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDAT
 
@@ -18,7 +18,7 @@ Contract Deviation Approval Cycle Time (CDAT) measures how efficiently resources
 ## Formula
 
 ```
-Days to Approve Non-Standard Clauses
+CDAT = Days to Approve Non-Standard Clauses
 ```
 
 ## Unit

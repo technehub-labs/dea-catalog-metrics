@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regretted Attrition Ratio** (RAR-EE) i
 - **Canonical id:** `dea:metric-regretted-attrition-ratio`
 - **Name:** Regretted Attrition Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAR-EE
 
@@ -22,7 +22,7 @@ Measures the share of departures the organization genuinely regrets losing. Regr
 ## Formula
 
 ```
-Regretted Leavers / Total Leavers
+RAR-EE = Regretted Leavers / Total Leavers
 ```
 
 ## Unit

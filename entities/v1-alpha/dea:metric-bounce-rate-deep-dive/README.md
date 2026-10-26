@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bounce Rate (Deep Dive)** (BRDD) in th
 - **Canonical id:** `dea:metric-bounce-rate-deep-dive`
 - **Name:** Bounce Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRDD
 
@@ -18,7 +18,7 @@ Bounce Rate (Deep Dive) (BRDD) addresses the engagement or satisfaction of the p
 ## Formula
 
 ```
-Single-Page Sessions / Total Sessions
+BRDD = Single-Page Sessions / Total Sessions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Serve per Customer (Deep Dive)
 - **Canonical id:** `dea:metric-cost-to-serve-per-customer-deep-dive`
 - **Name:** Cost to Serve per Customer (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTSCD
 
@@ -22,7 +22,7 @@ Measures the full ongoing cost of supporting each customer. Cost-to-serve determ
 ## Formula
 
 ```
-Service and Support Cost / Customers
+CTSCD = Service and Support Cost / Customers
 ```
 
 ## Unit

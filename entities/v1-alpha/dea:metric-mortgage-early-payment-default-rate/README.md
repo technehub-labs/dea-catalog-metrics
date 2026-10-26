@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortgage Early Payment Default Rate** 
 - **Canonical id:** `dea:metric-mortgage-early-payment-default-rate`
 - **Name:** Mortgage Early Payment Default Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPD
 
@@ -22,7 +22,7 @@ Mortgage early payment default rate measures borrowers going delinquent within t
 ## Formula
 
 ```
-Defaults within First Year / Loans Disbursed
+EPD = Defaults within First Year / Loans Disbursed
 ```
 
 ## Unit

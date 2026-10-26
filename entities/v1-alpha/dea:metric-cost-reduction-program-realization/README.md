@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Reduction Program Realization** (
 - **Canonical id:** `dea:metric-cost-reduction-program-realization`
 - **Name:** Cost Reduction Program Realization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRPR
 
@@ -22,7 +22,7 @@ Tracks the share of targeted savings from a cost program that actually lands in 
 ## Formula
 
 ```
-Realized Cost Reductions / Committed Reductions
+CRPR = Realized Cost Reductions / Committed Reductions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Z-Score (Short Term)** (PZST) 
 - **Canonical id:** `dea:metric-process-z-score-short-term`
 - **Name:** Process Z-Score (Short Term)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PZST
 
@@ -18,7 +18,7 @@ Process Z-Score (Short Term) (PZST) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Sigma Distance of Mean to Nearest Spec Limit
+PZST = Sigma Distance of Mean to Nearest Spec Limit
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Firmware Currency Rate** (FCR-NW) in t
 - **Canonical id:** `dea:metric-firmware-currency-rate`
 - **Name:** Firmware Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-NW
 
@@ -18,7 +18,7 @@ Firmware Currency Rate (FCR-NW) captures exposure to adverse outcomes for organi
 ## Formula
 
 ```
-Devices within Supported Firmware Baseline / Devices
+FCR-NW = Devices within Supported Firmware Baseline / Devices
 ```
 
 ## Unit

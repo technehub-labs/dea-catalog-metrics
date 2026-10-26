@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Cost Ratio** (OCR) in the Op
 - **Canonical id:** `dea:metric-occupancy-cost-ratio`
 - **Name:** Occupancy Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR
 
@@ -22,7 +22,7 @@ Total occupancy cost as a share of revenue - the gauge that expresses real estat
 ## Formula
 
 ```
-Total Occupancy Cost / Revenue
+OCR = Total Occupancy Cost / Revenue
 ```
 
 ## Unit

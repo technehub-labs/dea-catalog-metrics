@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Terms Advantage Ratio** (PTAR-
 - **Canonical id:** `dea:metric-payment-terms-advantage-ratio`
 - **Name:** Payment Terms Advantage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTAR-SS
 
@@ -18,7 +18,7 @@ Payment Terms Advantage Ratio (PTAR-SS) addresses the economic value created or 
 ## Formula
 
 ```
-Awards with Favourable Payment Terms / Awards
+PTAR-SS = Awards with Favourable Payment Terms / Awards
 ```
 
 ## Unit

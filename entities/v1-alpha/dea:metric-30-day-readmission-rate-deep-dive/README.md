@@ -7,7 +7,7 @@ Candidate Performance Metric record for **30-Day Readmission Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-30-day-readmission-rate-deep-dive`
 - **Name:** 30-Day Readmission Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** R30DD
 
@@ -22,7 +22,7 @@ Measures the share of discharged patients readmitted within 30 days. Readmission
 ## Formula
 
 ```
-Readmissions within 30 Days / Discharges
+R30DD = Readmissions within 30 Days / Discharges
 ```
 
 ## Unit

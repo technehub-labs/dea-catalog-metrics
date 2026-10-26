@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintainability M(t)** (MTAIN) in the 
 - **Canonical id:** `dea:metric-maintainability-m-t`
 - **Name:** Maintainability M(t)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTAIN
 
@@ -18,7 +18,7 @@ Within Reliability & Maintainability Engineering (Deep Dive), Maintainability M(
 ## Formula
 
 ```
-Probability Repair Completed within Time t
+MTAIN = Probability Repair Completed within Time t
 ```
 
 ## Unit

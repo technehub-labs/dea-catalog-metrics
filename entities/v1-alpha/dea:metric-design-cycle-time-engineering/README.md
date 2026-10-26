@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Cycle Time (Engineering)** (DCT
 - **Canonical id:** `dea:metric-design-cycle-time-engineering`
 - **Name:** Design Cycle Time (Engineering)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCT-E
 
@@ -18,7 +18,7 @@ Design Cycle Time (Engineering) (DCT-E) addresses how efficiently resources are 
 ## Formula
 
 ```
-Days from Requirements to Design Release
+DCT-E = Days from Requirements to Design Release
 ```
 
 ## Unit

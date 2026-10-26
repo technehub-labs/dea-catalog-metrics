@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attribution Residual** (ATTR) in the O
 - **Canonical id:** `dea:metric-attribution-residual`
 - **Name:** Attribution Residual
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 
@@ -18,7 +18,7 @@ Attribution Residual (ATTR) addresses the quality of outputs and outcomes and is
 ## Formula
 
 ```
-Unexplained Return after Factor Attribution
+ATTR = Unexplained Return after Factor Attribution
 ```
 
 ## Unit

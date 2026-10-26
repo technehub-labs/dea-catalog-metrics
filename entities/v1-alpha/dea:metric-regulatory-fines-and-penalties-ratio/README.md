@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Fines and Penalties Ratio**
 - **Canonical id:** `dea:metric-regulatory-fines-and-penalties-ratio`
 - **Name:** Regulatory Fines and Penalties Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFPR
 
@@ -22,7 +22,7 @@ Measures enforcement costs - fines, penalties, disgorgement, mandated remediatio
 ## Formula
 
 ```
-Total Penalties / Revenue
+RFPR = Total Penalties / Revenue
 ```
 
 ## Unit

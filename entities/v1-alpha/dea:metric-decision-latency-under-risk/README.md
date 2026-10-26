@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Latency under Risk** (DLUR) i
 - **Canonical id:** `dea:metric-decision-latency-under-risk`
 - **Name:** Decision Latency under Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLUR
 
@@ -18,7 +18,7 @@ Decision Latency under Risk (DLUR) measures how efficiently resources are conver
 ## Formula
 
 ```
-Days Risk-Aged Decisions Pending
+DLUR = Days Risk-Aged Decisions Pending
 ```
 
 ## Unit

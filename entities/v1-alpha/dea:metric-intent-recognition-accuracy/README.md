@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Intent Recognition Accuracy** (IRA) in
 - **Canonical id:** `dea:metric-intent-recognition-accuracy`
 - **Name:** Intent Recognition Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRA
 
@@ -18,7 +18,7 @@ Intent Recognition Accuracy (IRA) measures the quality of outputs and outcomes i
 ## Formula
 
 ```
-Correctly Classified Utterances / Utterances
+IRA = Correctly Classified Utterances / Utterances
 ```
 
 ## Unit

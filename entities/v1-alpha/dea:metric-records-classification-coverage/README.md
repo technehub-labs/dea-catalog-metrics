@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Records Classification Coverage** (RCC
 - **Canonical id:** `dea:metric-records-classification-coverage`
 - **Name:** Records Classification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCC
 
@@ -18,7 +18,7 @@ Records Classification Coverage (RCC) measures conformance to standards, plans, 
 ## Formula
 
 ```
-Records Filed under Retention Class / Records Created
+RCC = Records Filed under Retention Class / Records Created
 ```
 
 ## Unit

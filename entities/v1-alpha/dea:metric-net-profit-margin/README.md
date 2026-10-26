@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Profit Margin** (NPM) in the OpenD
 - **Canonical id:** `dea:metric-net-profit-margin`
 - **Name:** Net Profit Margin
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPM
 
@@ -22,7 +22,7 @@ The bottom line as a share of the top line - net income divided by revenue. It i
 ## Formula
 
 ```
-Net Income / Revenue
+NPM = Net Income / Revenue
 ```
 
 ## Unit

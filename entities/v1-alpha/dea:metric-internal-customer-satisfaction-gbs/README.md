@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Customer Satisfaction (GBS)**
 - **Canonical id:** `dea:metric-internal-customer-satisfaction-gbs`
 - **Name:** Internal Customer Satisfaction (GBS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICSAT
 
@@ -22,7 +22,7 @@ Measures business satisfaction with shared services delivery. It matters because
 ## Formula
 
 ```
-Satisfied Business Customer Responses / Responses
+ICSAT = Satisfied Business Customer Responses / Responses
 ```
 
 ## Unit

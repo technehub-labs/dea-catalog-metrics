@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Data Platform Coverage** (CDP
 - **Canonical id:** `dea:metric-customer-data-platform-coverage`
 - **Name:** Customer Data Platform Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDPC
 
@@ -22,7 +22,7 @@ Measures the share of customers, interactions, or data sources unified with iden
 ## Formula
 
 ```
-Profiles Unified in CDP / Known Customer Profiles
+CDPC = Profiles Unified in CDP / Known Customer Profiles
 ```
 
 ## Unit

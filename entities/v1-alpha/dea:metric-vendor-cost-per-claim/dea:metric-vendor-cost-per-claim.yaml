@@ -8,7 +8,7 @@ description: Vendor Cost per Claim (VCC) captures how efficiently resources are 
   Its use is concentrated in Insurance.
 abbreviation: VCC
 unit: currency
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - financial
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Third-Party Vendor Costs / Claims
 formula_definition:
   formula_id: dea:formula-vendor-cost-per-claim
-  expression: Third-Party Vendor Costs / Claims
+  expression: VCC = Third-Party Vendor Costs / Claims
   inputs:
   - name: Third
   - name: Party Vendor Costs
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-currency
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,6 +48,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -55,3 +59,11 @@ metadata:
     batch: '6'
 domain: insurance_claims_deep_dive
 sector: insurance
+subject_concept: dea:subject-vendor_cost_per_claim
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1552
+  - Public domain - no attribution required
+  known_limitations: []

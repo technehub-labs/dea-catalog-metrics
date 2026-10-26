@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Appetite Threshold Utilization** 
 - **Canonical id:** `dea:metric-risk-appetite-threshold-utilization`
 - **Name:** Risk Appetite Threshold Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RATU-GOV
 
@@ -22,7 +22,7 @@ Measures how close actual risk positions run to approved appetite limits. Chroni
 ## Formula
 
 ```
-Current Risk Position / Approved Appetite
+RATU-GOV = Current Risk Position / Approved Appetite
 ```
 
 ## Unit

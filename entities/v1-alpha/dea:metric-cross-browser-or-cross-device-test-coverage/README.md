@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Browser or Cross-Device Test Cov
 - **Canonical id:** `dea:metric-cross-browser-or-cross-device-test-coverage`
 - **Name:** Cross-Browser or Cross-Device Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBTC-QA
 
@@ -18,7 +18,7 @@ Cross-Browser or Cross-Device Test Coverage (CBTC-QA) measures the quality of ou
 ## Formula
 
 ```
-Supported Configurations Tested / Configurations
+CBTC-QA = Supported Configurations Tested / Configurations
 ```
 
 ## Unit

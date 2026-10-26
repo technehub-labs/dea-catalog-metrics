@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Active Users (Gaming)** (DAU-G) 
 - **Canonical id:** `dea:metric-daily-active-users-gaming`
 - **Name:** Daily Active Users (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAU-G
 
@@ -22,7 +22,7 @@ Unique players active per day - the engagement heartbeat of a live game, and the
 ## Formula
 
 ```
-Unique Players Active per Day
+DAU-G = Unique Players Active per Day
 ```
 
 ## Unit

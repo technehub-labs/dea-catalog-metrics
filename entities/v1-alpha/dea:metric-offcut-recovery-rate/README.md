@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offcut Recovery Rate** (ORR) in the Op
 - **Canonical id:** `dea:metric-offcut-recovery-rate`
 - **Name:** Offcut Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORR
 
@@ -18,7 +18,7 @@ Offcut Recovery Rate (ORR) addresses environmental and social sustainability per
 ## Formula
 
 ```
-Offcuts Reused / Offcuts Generated
+ORR = Offcuts Reused / Offcuts Generated
 ```
 
 ## Unit

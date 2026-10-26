@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Advocacy Rate** (CAR) in the 
 - **Canonical id:** `dea:metric-customer-advocacy-rate`
 - **Name:** Customer Advocacy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR
 
@@ -22,7 +22,7 @@ Measures the share of customers actively recommending or defending the brand. It
 ## Formula
 
 ```
-Customers Providing Referrals or Public Advocacy / Total Customers
+CAR = Customers Providing Referrals or Public Advocacy / Total Customers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Issue Resolution Cycle Time (Deep Dive
 - **Canonical id:** `dea:metric-issue-resolution-cycle-time-deep-dive`
 - **Name:** Issue Resolution Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRCT-D
 
@@ -18,7 +18,7 @@ Issue Resolution Cycle Time (Deep Dive) (IRCT-D) measures how efficiently resour
 ## Formula
 
 ```
-Days from Issue Logging to Closure
+IRCT-D = Days from Issue Logging to Closure
 ```
 
 ## Unit

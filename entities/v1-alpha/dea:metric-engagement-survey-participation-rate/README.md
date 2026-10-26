@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engagement Survey Participation Rate**
 - **Canonical id:** `dea:metric-engagement-survey-participation-rate`
 - **Name:** Engagement Survey Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESPR
 
@@ -18,7 +18,7 @@ A Employee Engagement & Culture (Deep Dive) indicator, Engagement Survey Partici
 ## Formula
 
 ```
-Responses Received / Surveyed Employees
+ESPR = Responses Received / Surveyed Employees
 ```
 
 ## Unit

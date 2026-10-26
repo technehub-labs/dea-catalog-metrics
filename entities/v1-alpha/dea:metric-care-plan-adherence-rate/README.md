@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Plan Adherence Rate** (CPAR-HC) i
 - **Canonical id:** `dea:metric-care-plan-adherence-rate`
 - **Name:** Care Plan Adherence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPAR-HC
 
@@ -18,7 +18,7 @@ Within Healthcare Quality & Patient Safety Standard Measures, Care Plan Adherenc
 ## Formula
 
 ```
-Documented Care Interventions per Care Plan / Planned Interventions
+CPAR-HC = Documented Care Interventions per Care Plan / Planned Interventions
 ```
 
 ## Unit

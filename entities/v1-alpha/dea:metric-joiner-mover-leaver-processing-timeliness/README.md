@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Joiner-Mover-Leaver Processing Timelin
 - **Canonical id:** `dea:metric-joiner-mover-leaver-processing-timeliness`
 - **Name:** Joiner-Mover-Leaver Processing Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JMLPT
 
@@ -22,7 +22,7 @@ Measures how quickly identity systems reflect personnel changes, especially move
 ## Formula
 
 ```
-Access Changes Processed within SLA / Changes
+JMLPT = Access Changes Processed within SLA / Changes
 ```
 
 ## Unit

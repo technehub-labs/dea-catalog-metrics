@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Newsroom Error Correction Rate** (NECR
 - **Canonical id:** `dea:metric-newsroom-error-correction-rate`
 - **Name:** Newsroom Error Correction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NECR
 
@@ -18,7 +18,7 @@ A Publishing & News Media indicator, Newsroom Error Correction Rate (NECR) quant
 ## Formula
 
 ```
-Corrections Issued / Articles Published
+NECR = Corrections Issued / Articles Published
 ```
 
 ## Unit

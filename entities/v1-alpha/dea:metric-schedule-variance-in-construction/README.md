@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Variance in Construction** (S
 - **Canonical id:** `dea:metric-schedule-variance-in-construction`
 - **Name:** Schedule Variance in Construction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SV-C
 
@@ -22,7 +22,7 @@ Measures deviation of actual progress from the baseline schedule. It matters bec
 ## Formula
 
 ```
-(Earned Work - Planned Work) / Planned Work
+SV-C = (Earned Work - Planned Work) / Planned Work
 ```
 
 ## Unit

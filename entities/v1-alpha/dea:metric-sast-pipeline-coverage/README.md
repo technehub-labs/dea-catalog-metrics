@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SAST Pipeline Coverage** (SASTPC) in t
 - **Canonical id:** `dea:metric-sast-pipeline-coverage`
 - **Name:** SAST Pipeline Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SASTPC
 
@@ -18,7 +18,7 @@ SAST Pipeline Coverage (SASTPC) measures conformance to standards, plans, or obl
 ## Formula
 
 ```
-Repositories with Static Analysis in Pipeline / Repositories
+SASTPC = Repositories with Static Analysis in Pipeline / Repositories
 ```
 
 ## Unit

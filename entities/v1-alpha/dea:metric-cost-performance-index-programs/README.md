@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Performance Index (Programs)** (C
 - **Canonical id:** `dea:metric-cost-performance-index-programs`
 - **Name:** Cost Performance Index (Programs)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPI-P
 
@@ -22,7 +22,7 @@ Measures earned value against actual cost - the efficiency of spend against the 
 ## Formula
 
 ```
-EV / AC
+CPI-P = EV / AC
 ```
 
 ## Unit

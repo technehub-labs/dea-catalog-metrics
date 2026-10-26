@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Efficiency (Apparel)** (LEA) in t
 - **Canonical id:** `dea:metric-line-efficiency-apparel`
 - **Name:** Line Efficiency (Apparel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LEA
 
@@ -18,7 +18,7 @@ Within Textile & Apparel, Line Efficiency (Apparel) (LEA) is used to gauge how e
 ## Formula
 
 ```
-Actual Output / Standard Output at Given Hours
+LEA = Actual Output / Standard Output at Given Hours
 ```
 
 ## Unit

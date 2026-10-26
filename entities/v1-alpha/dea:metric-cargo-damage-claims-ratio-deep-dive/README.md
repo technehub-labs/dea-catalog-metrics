@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cargo Damage Claims Ratio (Deep Dive)*
 - **Canonical id:** `dea:metric-cargo-damage-claims-ratio-deep-dive`
 - **Name:** Cargo Damage Claims Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDCR-D
 
@@ -18,7 +18,7 @@ Cargo Damage Claims Ratio (Deep Dive) (CDCR-D) addresses exposure to adverse out
 ## Formula
 
 ```
-Claim Value / Cargo Value Carried
+CDCR-D = Claim Value / Cargo Value Carried
 ```
 
 ## Unit

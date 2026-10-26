@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Operating Income per Asset** (NOIA
 - **Canonical id:** `dea:metric-net-operating-income-per-asset`
 - **Name:** Net Operating Income per Asset
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOIA
 
@@ -22,7 +22,7 @@ Property revenue minus property operating expenses - the per-asset form of the i
 ## Formula
 
 ```
-Property Revenue - Property Operating Expenses
+NOIA = Property Revenue - Property Operating Expenses
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Uninstall Rate** (AUR-MOB) in the 
 - **Canonical id:** `dea:metric-app-uninstall-rate`
 - **Name:** App Uninstall Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUR-MOB
 
@@ -22,7 +22,7 @@ Measures the share of installs removed within a defined window. Uninstalls are a
 ## Formula
 
 ```
-Uninstalls / Installs in Period
+AUR-MOB = Uninstalls / Installs in Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Transfer Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-learning-transfer-rate-deep-dive`
 - **Name:** Learning Transfer Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTR-BSC
 
@@ -22,7 +22,7 @@ Measures how much training investment demonstrably changes job performance. Tran
 ## Formula
 
 ```
-Learned Skills Applied on Job within 90 Days / Skills Taught
+LTR-BSC = Learned Skills Applied on Job within 90 Days / Skills Taught
 ```
 
 ## Unit

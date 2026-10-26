@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingent Conversion Rate** (CVC) in 
 - **Canonical id:** `dea:metric-contingent-conversion-rate`
 - **Name:** Contingent Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVC
 
@@ -22,7 +22,7 @@ Measures the share of contingent workers converted to permanent roles. It matter
 ## Formula
 
 ```
-Contingent Workers Converted to Permanent / Eligible Contingent
+CVC = Contingent Workers Converted to Permanent / Eligible Contingent
 ```
 
 ## Unit

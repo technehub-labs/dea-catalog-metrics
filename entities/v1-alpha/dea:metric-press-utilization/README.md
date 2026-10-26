@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Press Utilization** (PRU) in the OpenD
 - **Canonical id:** `dea:metric-press-utilization`
 - **Name:** Press Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRU
 
@@ -18,7 +18,7 @@ A Printing & Publishing indicator, Press Utilization (PRU) quantifies the utiliz
 ## Formula
 
 ```
-Press Running Hours / Available Press Hours
+PRU = Press Running Hours / Available Press Hours
 ```
 
 ## Unit

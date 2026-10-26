@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bill Accuracy Rate** (BAR-U) in the Op
 - **Canonical id:** `dea:metric-bill-accuracy-rate`
 - **Name:** Bill Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BAR-U
 
@@ -22,7 +22,7 @@ Bill accuracy rate measures the share of utility bills issued without errors, an
 ## Formula
 
 ```
-Bills Issued without Correction / Bills Issued
+BAR-U = Bills Issued without Correction / Bills Issued
 ```
 
 ## Unit

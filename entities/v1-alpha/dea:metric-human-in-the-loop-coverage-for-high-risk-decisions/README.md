@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-in-the-Loop Coverage for High-Ri
 - **Canonical id:** `dea:metric-human-in-the-loop-coverage-for-high-risk-decisions`
 - **Name:** Human-in-the-Loop Coverage for High-Risk Decisions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HITC
 
@@ -22,7 +22,7 @@ Measures the share of high-risk AI decisions retaining meaningful human review b
 ## Formula
 
 ```
-High-Risk Decision Points with Human Review / High-Risk Points
+HITC = High-Risk Decision Points with Human Review / High-Risk Points
 ```
 
 ## Unit

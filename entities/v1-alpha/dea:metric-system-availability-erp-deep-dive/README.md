@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Availability - ERP (Deep Dive)*
 - **Canonical id:** `dea:metric-system-availability-erp-deep-dive`
 - **Name:** System Availability - ERP (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAE-D
 
@@ -22,7 +22,7 @@ Measures ERP platform availability during business hours and batch windows. ERP 
 ## Formula
 
 ```
-Available Hours / Required Hours
+SAE-D = Available Hours / Required Hours
 ```
 
 ## Unit

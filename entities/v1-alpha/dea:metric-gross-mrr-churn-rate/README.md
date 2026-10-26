@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross MRR Churn Rate** (GMChurn) in th
 - **Canonical id:** `dea:metric-gross-mrr-churn-rate`
 - **Name:** Gross MRR Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMChurn
 
@@ -22,7 +22,7 @@ Recurring revenue lost from the existing base in a month, excluding expansion - 
 ## Formula
 
 ```
-Churned MRR / MRR at Start of Period
+GMChurn = Churned MRR / MRR at Start of Period
 ```
 
 ## Unit

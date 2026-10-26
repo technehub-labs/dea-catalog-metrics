@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vintage Default Emergence Curve** (VDE
 - **Canonical id:** `dea:metric-vintage-default-emergence-curve`
 - **Name:** Vintage Default Emergence Curve
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VDEC
 
@@ -22,7 +22,7 @@ Measures how defaults emerge over the life of loans by origination cohort. Vinta
 ## Formula
 
 ```
-Cumulative Default Rate by Loan Age Cohort
+VDEC = Cumulative Default Rate by Loan Age Cohort
 ```
 
 ## Unit

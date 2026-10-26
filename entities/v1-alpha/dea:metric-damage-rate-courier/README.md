@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Damage Rate (Courier)** (DMG) in the O
 - **Canonical id:** `dea:metric-damage-rate-courier`
 - **Name:** Damage Rate (Courier)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DMG
 
@@ -18,7 +18,7 @@ Within Postal & Courier, Damage Rate (Courier) (DMG) is used to gauge the qualit
 ## Formula
 
 ```
-Damaged Items / Items Handled
+DMG = Damaged Items / Items Handled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Class Utilization** (CLU) in the OpenD
 - **Canonical id:** `dea:metric-class-utilization`
 - **Name:** Class Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLU
 
@@ -18,7 +18,7 @@ Class Utilization (CLU) captures the utilization or availability of capacity for
 ## Formula
 
 ```
-Attendees / Class Capacity
+CLU = Attendees / Class Capacity
 ```
 
 ## Unit

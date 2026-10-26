@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pay Equity Ratio** (PEQ) in the OpenDE
 - **Canonical id:** `dea:metric-pay-equity-ratio`
 - **Name:** Pay Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEQ
 
@@ -22,7 +22,7 @@ Compares compensation across demographic groups in like-for-like roles, typicall
 ## Formula
 
 ```
-Median Pay of Comparison Group / Median Pay of Reference Group
+PEQ = Median Pay of Comparison Group / Median Pay of Reference Group
 ```
 
 ## Unit

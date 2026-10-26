@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Data Minimization Compliance*
 - **Canonical id:** `dea:metric-personal-data-minimization-compliance`
 - **Name:** Personal Data Minimization Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDMS
 
@@ -18,7 +18,7 @@ Within Data Privacy & Protection, Personal Data Minimization Compliance (PDMS) i
 ## Formula
 
 ```
-Data Collections Justified as Necessary / Collections Sampled
+PDMS = Data Collections Justified as Necessary / Collections Sampled
 ```
 
 ## Unit

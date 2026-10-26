@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Search Success Rate (Knowledge)** (SSR
 - **Canonical id:** `dea:metric-search-success-rate-knowledge`
 - **Name:** Search Success Rate (Knowledge)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRK
 
@@ -18,7 +18,7 @@ Search Success Rate (Knowledge) (SSRK) measures how efficiently resources are co
 ## Formula
 
 ```
-Sessions Resolved without Human Help / Search Sessions
+SSRK = Sessions Resolved without Human Help / Search Sessions
 ```
 
 ## Unit

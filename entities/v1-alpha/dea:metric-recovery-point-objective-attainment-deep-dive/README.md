@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Point Objective Attainment (D
 - **Canonical id:** `dea:metric-recovery-point-objective-attainment-deep-dive`
 - **Name:** Recovery Point Objective Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPOA-SA
 
@@ -22,7 +22,7 @@ Measures whether data loss stayed within tolerance in actual incidents. It is th
 ## Formula
 
 ```
-Data Loss within RPO / Loss Events
+RPOA-SA = Data Loss within RPO / Loss Events
 ```
 
 ## Unit

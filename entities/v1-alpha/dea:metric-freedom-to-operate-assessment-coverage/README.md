@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freedom-to-Operate Assessment Coverage
 - **Canonical id:** `dea:metric-freedom-to-operate-assessment-coverage`
 - **Name:** Freedom-to-Operate Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTOC
 
@@ -22,7 +22,7 @@ Measures how thoroughly new products are assessed for third-party IP conflicts b
 ## Formula
 
 ```
-Product Launches with FTO Clearance / Launches
+FTOC = Product Launches with FTO Clearance / Launches
 ```
 
 ## Unit

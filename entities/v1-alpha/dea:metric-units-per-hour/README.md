@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Units per Hour** (UPH) in the OpenDEAM
 - **Canonical id:** `dea:metric-units-per-hour`
 - **Name:** Units per Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UPH
 
@@ -18,7 +18,7 @@ Within Manufacturing, Units per Hour (UPH) is used to gauge the utilization or a
 ## Formula
 
 ```
-Units Produced / Production Hours
+UPH = Units Produced / Production Hours
 ```
 
 ## Unit

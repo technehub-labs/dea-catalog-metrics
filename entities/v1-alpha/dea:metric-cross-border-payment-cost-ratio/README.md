@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Border Payment Cost Ratio** (CBP
 - **Canonical id:** `dea:metric-cross-border-payment-cost-ratio`
 - **Name:** Cross-Border Payment Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBPCR
 
@@ -22,7 +22,7 @@ Measures the total cost of international payments - FX spread, correspondent fee
 ## Formula
 
 ```
-Total Cost of Cross-Border Payment / Value
+CBPCR = Total Cost of Cross-Border Payment / Value
 ```
 
 ## Unit

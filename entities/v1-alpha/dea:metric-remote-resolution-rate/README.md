@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remote Resolution Rate** (RRR-F) in th
 - **Canonical id:** `dea:metric-remote-resolution-rate`
 - **Name:** Remote Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRR-F
 
@@ -18,7 +18,7 @@ Within Field Service & Asset Performance, Remote Resolution Rate (RRR-F) is used
 ## Formula
 
 ```
-Issues Resolved Remotely / Service Requests
+RRR-F = Issues Resolved Remotely / Service Requests
 ```
 
 ## Unit

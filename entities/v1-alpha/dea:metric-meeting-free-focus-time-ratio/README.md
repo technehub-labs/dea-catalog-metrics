@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting-Free Focus Time Ratio** (MFFTR
 - **Canonical id:** `dea:metric-meeting-free-focus-time-ratio`
 - **Name:** Meeting-Free Focus Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFFTR
 
@@ -18,7 +18,7 @@ Meeting-Free Focus Time Ratio (MFFTR) addresses how efficiently resources are co
 ## Formula
 
 ```
-Deep Work Hours / Paid Hours
+MFFTR = Deep Work Hours / Paid Hours
 ```
 
 ## Unit

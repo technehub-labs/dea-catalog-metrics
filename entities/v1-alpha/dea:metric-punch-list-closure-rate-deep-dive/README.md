@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punch List Closure Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-punch-list-closure-rate-deep-dive`
 - **Name:** Punch List Closure Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLCR-D
 
@@ -18,7 +18,7 @@ Punch List Closure Rate (Deep Dive) (PLCR-D) captures how efficiently resources 
 ## Formula
 
 ```
-Punch Items Closed by Date / Punch Items
+PLCR-D = Punch Items Closed by Date / Punch Items
 ```
 
 ## Unit

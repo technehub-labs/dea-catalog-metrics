@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Note Completeness** (RNC-RM) i
 - **Canonical id:** `dea:metric-release-note-completeness`
 - **Name:** Release Note Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RNC-RM
 
@@ -18,7 +18,7 @@ Release Note Completeness (RNC-RM) measures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Changes Documented in Release Notes / Changes Shipped
+RNC-RM = Changes Documented in Release Notes / Changes Shipped
 ```
 
 ## Unit

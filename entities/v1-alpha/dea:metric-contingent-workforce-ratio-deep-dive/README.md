@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingent Workforce Ratio (Deep Dive)
 - **Canonical id:** `dea:metric-contingent-workforce-ratio-deep-dive`
 - **Name:** Contingent Workforce Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CWR-WF
 
@@ -22,7 +22,7 @@ Measures the share of the workforce that is non-permanent. Contingent labor conv
 ## Formula
 
 ```
-Contingent Workers / Total Workforce
+CWR-WF = Contingent Workers / Total Workforce
 ```
 
 ## Unit

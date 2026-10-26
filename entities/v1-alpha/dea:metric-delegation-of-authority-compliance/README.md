@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegation of Authority Compliance** (
 - **Canonical id:** `dea:metric-delegation-of-authority-compliance`
 - **Name:** Delegation of Authority Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOAC-GOV
 
@@ -22,7 +22,7 @@ Measures adherence to the approved authority matrix in commitments and spend. Do
 ## Formula
 
 ```
-Decisions within Approved Authority / Sampled Decisions
+DOAC-GOV = Decisions within Approved Authority / Sampled Decisions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Utilization** (ACU) in the Op
 - **Canonical id:** `dea:metric-aircraft-utilization`
 - **Name:** Aircraft Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACU
 
@@ -22,7 +22,7 @@ Hours flown (or block hours operated) per aircraft per day - the asset-productiv
 ## Formula
 
 ```
-Block Hours Flown / Aircraft Days Available
+ACU = Block Hours Flown / Aircraft Days Available
 ```
 
 ## Unit

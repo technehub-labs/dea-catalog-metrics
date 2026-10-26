@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Collection Rate** (NCR-H) in the O
 - **Canonical id:** `dea:metric-net-collection-rate`
 - **Name:** Net Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCR-H
 
@@ -22,7 +22,7 @@ Net collection rate measures the share of billable value actually collected afte
 ## Formula
 
 ```
-Payments Received / Charges Billable at Contracted Rates
+NCR-H = Payments Received / Charges Billable at Contracted Rates
 ```
 
 ## Unit

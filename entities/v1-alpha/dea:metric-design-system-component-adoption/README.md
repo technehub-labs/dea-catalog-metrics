@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design System Component Adoption** (DS
 - **Canonical id:** `dea:metric-design-system-component-adoption`
 - **Name:** Design System Component Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCA
 
@@ -18,7 +18,7 @@ Design System Component Adoption (DSCA) addresses how efficiently resources are 
 ## Formula
 
 ```
-Components Using Design System / Total UI Components
+DSCA = Components Using Design System / Total UI Components
 ```
 
 ## Unit

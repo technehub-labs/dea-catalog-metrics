@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Simulation Participation Rate**
 - **Canonical id:** `dea:metric-crisis-simulation-participation-rate`
 - **Name:** Crisis Simulation Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPR-BC
 
@@ -18,7 +18,7 @@ Crisis Simulation Participation Rate (CSPR-BC) addresses capability maturity or 
 ## Formula
 
 ```
-Teams Participating in Annual Simulation / Teams in Scope
+CSPR-BC = Teams Participating in Annual Simulation / Teams in Scope
 ```
 
 ## Unit

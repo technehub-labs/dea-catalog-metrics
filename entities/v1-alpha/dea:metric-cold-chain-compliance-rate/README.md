@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cold Chain Compliance Rate** (CCCR) in
 - **Canonical id:** `dea:metric-cold-chain-compliance-rate`
 - **Name:** Cold Chain Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCCR
 
@@ -18,7 +18,7 @@ Within Food & Beverage Manufacturing, Cold Chain Compliance Rate (CCCR) is used 
 ## Formula
 
 ```
-Temperature-Compliant Shipments / Shipments
+CCCR = Temperature-Compliant Shipments / Shipments
 ```
 
 ## Unit

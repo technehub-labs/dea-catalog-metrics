@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate (Deep Dive)** (OCC-D) i
 - **Canonical id:** `dea:metric-occupancy-rate-deep-dive`
 - **Name:** Occupancy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCC-D
 
@@ -18,7 +18,7 @@ Occupancy Rate (Deep Dive) (OCC-D) measures the utilization or availability of c
 ## Formula
 
 ```
-Handle Time / Scheduled Time
+OCC-D = Handle Time / Scheduled Time
 ```
 
 ## Unit

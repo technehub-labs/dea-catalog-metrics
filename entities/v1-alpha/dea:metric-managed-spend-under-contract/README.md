@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Managed Spend under Contract** (MSUC) 
 - **Canonical id:** `dea:metric-managed-spend-under-contract`
 - **Name:** Managed Spend under Contract
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSUC
 
@@ -22,7 +22,7 @@ Measures the share of addressable spend flowing through negotiated contracts. Co
 ## Formula
 
 ```
-Contracted Spend / Addressable Spend
+MSUC = Contracted Spend / Addressable Spend
 ```
 
 ## Unit

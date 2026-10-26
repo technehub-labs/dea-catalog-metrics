@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Impact Recovery Rate** (BIRR)
 - **Canonical id:** `dea:metric-business-impact-recovery-rate`
 - **Name:** Business Impact Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BIRR
 
@@ -18,7 +18,7 @@ Business Impact Recovery Rate (BIRR) measures how effectively a process or entit
 ## Formula
 
 ```
-Transactions Recovered after Rerouting or Failover / Affected
+BIRR = Transactions Recovered after Rerouting or Failover / Affected
 ```
 
 ## Unit

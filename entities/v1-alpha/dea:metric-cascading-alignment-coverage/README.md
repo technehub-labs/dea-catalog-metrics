@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cascading Alignment Coverage** (CAC-BS
 - **Canonical id:** `dea:metric-cascading-alignment-coverage`
 - **Name:** Cascading Alignment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAC-BSC
 
@@ -22,7 +22,7 @@ Measures how far the scorecard cascades into business unit and functional scorec
 ## Formula
 
 ```
-Sub-Units with Cascaded Scorecards / Sub-Units
+CAC-BSC = Sub-Units with Cascaded Scorecards / Sub-Units
 ```
 
 ## Unit

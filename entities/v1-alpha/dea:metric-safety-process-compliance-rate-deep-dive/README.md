@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Process Compliance Rate (Deep D
 - **Canonical id:** `dea:metric-safety-process-compliance-rate-deep-dive`
 - **Name:** Safety Process Compliance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPCR-D
 
@@ -22,7 +22,7 @@ Measures adherence to defined safety processes and controls. Safety process laps
 ## Formula
 
 ```
-Safety Process Audits Passed / Audits
+SPCR-D = Safety Process Audits Passed / Audits
 ```
 
 ## Unit

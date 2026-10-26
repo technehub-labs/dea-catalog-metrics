@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Occupancy Rate** (EOR-E) in t
 - **Canonical id:** `dea:metric-economic-occupancy-rate`
 - **Name:** Economic Occupancy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOR-E
 
@@ -22,7 +22,7 @@ Measures occupied space's contribution at achieved rents, blending physical occu
 ## Formula
 
 ```
-Collected Rent / Gross Potential Rent
+EOR-E = Collected Rent / Gross Potential Rent
 ```
 
 ## Unit

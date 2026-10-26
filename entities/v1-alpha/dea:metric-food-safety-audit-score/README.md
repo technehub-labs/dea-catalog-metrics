@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Food Safety Audit Score** (FSAS) in th
 - **Canonical id:** `dea:metric-food-safety-audit-score`
 - **Name:** Food Safety Audit Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSAS
 
@@ -22,7 +22,7 @@ A food safety audit score summarizes compliance against standards such as BRCGS,
 ## Formula
 
 ```
-Weighted Score of Food Safety Compliance Audits
+FSAS = Weighted Score of Food Safety Compliance Audits
 ```
 
 ## Unit

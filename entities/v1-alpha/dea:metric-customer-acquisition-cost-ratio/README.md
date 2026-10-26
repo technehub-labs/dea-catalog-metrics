@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Acquisition Cost Ratio** (CAC
 - **Canonical id:** `dea:metric-customer-acquisition-cost-ratio`
 - **Name:** Customer Acquisition Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CACR
 
@@ -22,7 +22,7 @@ Customer acquisition cost expressed relative to the value it acquires - conventi
 ## Formula
 
 ```
-CAC / Average Customer Lifetime Value
+CACR = CAC / Average Customer Lifetime Value
 ```
 
 ## Unit

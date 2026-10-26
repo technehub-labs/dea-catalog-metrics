@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Pass Design Approval Rate** (FPD
 - **Canonical id:** `dea:metric-first-pass-design-approval-rate`
 - **Name:** First-Pass Design Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPDAR
 
@@ -18,7 +18,7 @@ A Engineering & Design indicator, First-Pass Design Approval Rate (FPDAR) quanti
 ## Formula
 
 ```
-Designs Approved without Rework / Reviews
+FPDAR = Designs Approved without Rework / Reviews
 ```
 
 ## Unit

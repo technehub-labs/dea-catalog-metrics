@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SOC Analyst Utilization Rate** (SAUR-S
 - **Canonical id:** `dea:metric-soc-analyst-utilization-rate`
 - **Name:** SOC Analyst Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAUR-SOC
 
@@ -18,7 +18,7 @@ SOC Analyst Utilization Rate (SAUR-SOC) captures the utilization or availability
 ## Formula
 
 ```
-Triage Hours / Shift Hours
+SAUR-SOC = Triage Hours / Shift Hours
 ```
 
 ## Unit

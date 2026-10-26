@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Path Effectiveness Score** 
 - **Canonical id:** `dea:metric-escalation-path-effectiveness-score`
 - **Name:** Escalation Path Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPES
 
@@ -18,7 +18,7 @@ A Enterprise Decision Effectiveness & Governance Monitoring indicator, Escalatio
 ## Formula
 
 ```
-Survey and Case-Based Escalation Effectiveness
+EPES = Survey and Case-Based Escalation Effectiveness
 ```
 
 ## Unit

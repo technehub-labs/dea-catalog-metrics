@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advance Ruling Coverage** (ARC-T) in t
 - **Canonical id:** `dea:metric-advance-ruling-coverage`
 - **Name:** Advance Ruling Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARC-T
 
@@ -18,7 +18,7 @@ A International Trade & Customs indicator, Advance Ruling Coverage (ARC-T) quant
 ## Formula
 
 ```
-Value Covered by Advance Rulings / Total Import Value
+ARC-T = Value Covered by Advance Rulings / Total Import Value
 ```
 
 ## Unit

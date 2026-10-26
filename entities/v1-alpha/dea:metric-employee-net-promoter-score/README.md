@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Net Promoter Score** (eNPS) i
 - **Canonical id:** `dea:metric-employee-net-promoter-score`
 - **Name:** Employee Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** eNPS
 
@@ -22,7 +22,7 @@ eNPS applies the Reichheld NPS mechanism to employees: would you recommend this 
 ## Formula
 
 ```
-% Employee Promoters - % Employee Detractors
+eNPS = % Employee Promoters - % Employee Detractors
 ```
 
 ## Unit

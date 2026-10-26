@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Success Rate** (ChSR) in the Op
 - **Canonical id:** `dea:metric-change-success-rate`
 - **Name:** Change Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ChSR
 
@@ -22,7 +22,7 @@ Measures the share of changes implemented without incident, rollback, or breach.
 ## Formula
 
 ```
-Successful Changes / Total Changes
+ChSR = Successful Changes / Total Changes
 ```
 
 ## Unit

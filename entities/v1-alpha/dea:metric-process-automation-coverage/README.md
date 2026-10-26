@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Automation Coverage** (PAC-A) 
 - **Canonical id:** `dea:metric-process-automation-coverage`
 - **Name:** Process Automation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAC-A
 
@@ -22,7 +22,7 @@ Measures the share of process steps or volume eligible for automation that is ac
 ## Formula
 
 ```
-Automated Process Steps / Total Process Steps in Scope
+PAC-A = Automated Process Steps / Total Process Steps in Scope
 ```
 
 ## Unit

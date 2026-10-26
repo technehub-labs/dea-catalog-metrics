@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Citizen Served** (CPCS) in th
 - **Canonical id:** `dea:metric-cost-per-citizen-served`
 - **Name:** Cost per Citizen Served
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCS
 
@@ -22,7 +22,7 @@ Total program or service cost divided by citizens served - the unit-cost metric 
 ## Formula
 
 ```
-Total Service Delivery Cost / Citizens Served
+CPCS = Total Service Delivery Cost / Citizens Served
 ```
 
 ## Unit

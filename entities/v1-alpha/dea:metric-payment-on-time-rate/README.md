@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment on Time Rate** (POTR) in the O
 - **Canonical id:** `dea:metric-payment-on-time-rate`
 - **Name:** Payment on Time Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POTR
 
@@ -18,7 +18,7 @@ Within Accounts Payable & Receivable Operations (Deep Dive), Payment on Time Rat
 ## Formula
 
 ```
-Payments within Agreed Terms / Payments
+POTR = Payments within Agreed Terms / Payments
 ```
 
 ## Unit

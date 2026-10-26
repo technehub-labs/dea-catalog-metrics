@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cargo Yield per Tonne-Kilometre** (CYT
 - **Canonical id:** `dea:metric-cargo-yield-per-tonne-kilometre`
 - **Name:** Cargo Yield per Tonne-Kilometre
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CYTK
 
@@ -18,7 +18,7 @@ Cargo Yield per Tonne-Kilometre (CYTK) addresses the economic value created or p
 ## Formula
 
 ```
-Cargo Revenue / Cargo Tonne-Kilometres
+CYTK = Cargo Revenue / Cargo Tonne-Kilometres
 ```
 
 ## Unit

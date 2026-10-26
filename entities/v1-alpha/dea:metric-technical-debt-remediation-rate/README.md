@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technical Debt Remediation Rate** (TDR
 - **Canonical id:** `dea:metric-technical-debt-remediation-rate`
 - **Name:** Technical Debt Remediation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDR-EA
 
@@ -22,7 +22,7 @@ Measures the share of identified technical debt retired per period, or remediati
 ## Formula
 
 ```
-Debt Items Remediated / Debt Items Identified per Period
+TDR-EA = Debt Items Remediated / Debt Items Identified per Period
 ```
 
 ## Unit

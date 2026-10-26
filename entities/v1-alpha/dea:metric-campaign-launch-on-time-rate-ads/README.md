@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Campaign Launch On-Time Rate (Ads)** (
 - **Canonical id:** `dea:metric-campaign-launch-on-time-rate-ads`
 - **Name:** Campaign Launch On-Time Rate (Ads)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLOT
 
@@ -18,7 +18,7 @@ Campaign Launch On-Time Rate (Ads) (CLOT) addresses conformance to standards, pl
 ## Formula
 
 ```
-Campaigns Live on Scheduled Date / Campaigns
+CLOT = Campaigns Live on Scheduled Date / Campaigns
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Routing Quality Score** (ORQS-T)
 - **Canonical id:** `dea:metric-order-routing-quality-score`
 - **Name:** Order Routing Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORQS-T
 
@@ -18,7 +18,7 @@ Order Routing Quality Score (ORQS-T) addresses the quality of outputs and outcom
 ## Formula
 
 ```
-Composite Routing Cost and Fill Score
+ORQS-T = Composite Routing Cost and Fill Score
 ```
 
 ## Unit

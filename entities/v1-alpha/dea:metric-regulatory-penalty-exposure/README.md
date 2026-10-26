@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Penalty Exposure** (RPE) in
 - **Canonical id:** `dea:metric-regulatory-penalty-exposure`
 - **Name:** Regulatory Penalty Exposure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPE
 
@@ -22,7 +22,7 @@ The quantified potential penalty burden from current regulatory matters and iden
 ## Formula
 
 ```
-Sum of Potential Penalties from Open Matters
+RPE = Sum of Potential Penalties from Open Matters
 ```
 
 ## Unit

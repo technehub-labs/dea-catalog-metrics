@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feed Conversion Ratio** (FCR) in the O
 - **Canonical id:** `dea:metric-feed-conversion-ratio`
 - **Name:** Feed Conversion Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR
 
@@ -18,7 +18,7 @@ Feed Conversion Ratio (FCR) addresses how efficiently resources are converted in
 ## Formula
 
 ```
-Feed Consumed / Animal Weight Gain
+FCR = Feed Consumed / Animal Weight Gain
 ```
 
 ## Unit

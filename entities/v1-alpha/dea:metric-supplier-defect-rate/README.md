@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Defect Rate** (SDR) in the Op
 - **Canonical id:** `dea:metric-supplier-defect-rate`
 - **Name:** Supplier Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDR
 
@@ -22,7 +22,7 @@ Measures defective parts per million (or percentage) received from a supplier. I
 ## Formula
 
 ```
-Defective Units from Supplier / Units Received
+SDR = Defective Units from Supplier / Units Received
 ```
 
 ## Unit

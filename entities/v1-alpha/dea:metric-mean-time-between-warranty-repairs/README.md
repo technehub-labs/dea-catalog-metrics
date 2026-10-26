@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time between Warranty Repairs** (
 - **Canonical id:** `dea:metric-mean-time-between-warranty-repairs`
 - **Name:** Mean Time between Warranty Repairs
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTBWR
 
@@ -22,7 +22,7 @@ Mean time between warranty repairs is the average operating interval a customer 
 ## Formula
 
 ```
-Vehicle Operating Time / Warranty Repair Events
+MTBWR = Vehicle Operating Time / Warranty Repair Events
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Knowledge Retention Risk** (C
 - **Canonical id:** `dea:metric-critical-knowledge-retention-risk`
 - **Name:** Critical Knowledge Retention Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CKRR
 
@@ -22,7 +22,7 @@ Measures exposure to loss of knowledge held by few people - expert concentration
 ## Formula
 
 ```
-Critical Knowledge Held by Departing or Single Holders / Critical Knowledge Areas
+CKRR = Critical Knowledge Held by Departing or Single Holders / Critical Knowledge Areas
 ```
 
 ## Unit

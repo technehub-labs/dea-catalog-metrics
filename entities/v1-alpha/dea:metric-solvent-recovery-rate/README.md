@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Solvent Recovery Rate** (SVR) in the O
 - **Canonical id:** `dea:metric-solvent-recovery-rate`
 - **Name:** Solvent Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVR
 
@@ -22,7 +22,7 @@ Measures the share of solvents recovered and reused in chemical processes. It ma
 ## Formula
 
 ```
-Solvent Recovered and Reused / Solvent Consumed
+SVR = Solvent Recovered and Reused / Solvent Consumed
 ```
 
 ## Unit

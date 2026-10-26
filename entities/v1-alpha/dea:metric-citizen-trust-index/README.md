@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Citizen Trust Index** (CTI-PS) in the 
 - **Canonical id:** `dea:metric-citizen-trust-index`
 - **Name:** Citizen Trust Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTI-PS
 
@@ -22,7 +22,7 @@ Measures public trust in the institution's services and fairness. Trust is the a
 ## Formula
 
 ```
-Survey-Based Composite of Institutional Trust
+CTI-PS = Survey-Based Composite of Institutional Trust
 ```
 
 ## Unit

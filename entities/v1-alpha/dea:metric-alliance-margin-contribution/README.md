@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alliance Margin Contribution** (AMC-AP
 - **Canonical id:** `dea:metric-alliance-margin-contribution`
 - **Name:** Alliance Margin Contribution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMC-AP
 
@@ -22,7 +22,7 @@ Measures the profit, not just revenue, attributable to alliance-sourced business
 ## Formula
 
 ```
-Alliance Gross Margin / Total Gross Margin
+AMC-AP = Alliance Gross Margin / Total Gross Margin
 ```
 
 ## Unit

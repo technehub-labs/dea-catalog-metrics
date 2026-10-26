@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Campaign Report Turnaround** (PCR
 - **Canonical id:** `dea:metric-post-campaign-report-turnaround`
 - **Name:** Post-Campaign Report Turnaround
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCRT
 
@@ -18,7 +18,7 @@ Post-Campaign Report Turnaround (PCRT) measures how efficiently resources are co
 ## Formula
 
 ```
-Days from Campaign End to Final Report
+PCRT = Days from Campaign End to Final Report
 ```
 
 ## Unit

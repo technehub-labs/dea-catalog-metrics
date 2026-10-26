@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Lifetime Value (Deep Dive)** 
 - **Canonical id:** `dea:metric-customer-lifetime-value-deep-dive`
 - **Name:** Customer Lifetime Value (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTVDD
 
@@ -22,7 +22,7 @@ Measures the total predicted value of a customer relationship. LTV is the numera
 ## Formula
 
 ```
-Average Gross Margin per Customer x Lifespan
+LTVDD = Average Gross Margin per Customer x Lifespan
 ```
 
 ## Unit

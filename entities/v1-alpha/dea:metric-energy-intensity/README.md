@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity** (EI) in the OpenDEA
 - **Canonical id:** `dea:metric-energy-intensity`
 - **Name:** Energy Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EI
 
@@ -22,7 +22,7 @@ Measures energy consumed per unit of output or revenue. It matters because it de
 ## Formula
 
 ```
-Energy Consumed / Unit of Output or Revenue
+EI = Energy Consumed / Unit of Output or Revenue
 ```
 
 ## Unit

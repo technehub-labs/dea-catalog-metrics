@@ -7,7 +7,7 @@ Candidate Performance Metric record for **P1 Incident Resolution within SLA** (P
 - **Canonical id:** `dea:metric-p1-incident-resolution-within-sla`
 - **Name:** P1 Incident Resolution within SLA
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** P1IRSLA
 
@@ -22,7 +22,7 @@ Measures the share of highest-severity incidents resolved within committed windo
 ## Formula
 
 ```
-P1 Incidents Resolved within SLA / P1 Incidents
+P1IRSLA = P1 Incidents Resolved within SLA / P1 Incidents
 ```
 
 ## Unit

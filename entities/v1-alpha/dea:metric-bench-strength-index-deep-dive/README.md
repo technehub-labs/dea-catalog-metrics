@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bench Strength Index (Deep Dive)** (BS
 - **Canonical id:** `dea:metric-bench-strength-index-deep-dive`
 - **Name:** Bench Strength Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSIDD
 
@@ -22,7 +22,7 @@ Measures the depth of ready successors behind critical roles. Bench strength is 
 ## Formula
 
 ```
-Successors Ready Now for Critical Roles / Critical Roles
+BSIDD = Successors Ready Now for Critical Roles / Critical Roles
 ```
 
 ## Unit

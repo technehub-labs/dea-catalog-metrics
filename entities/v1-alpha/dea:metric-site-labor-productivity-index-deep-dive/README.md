@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Site Labor Productivity Index (Deep Di
 - **Canonical id:** `dea:metric-site-labor-productivity-index-deep-dive`
 - **Name:** Site Labor Productivity Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLPI-D
 
@@ -18,7 +18,7 @@ A Construction Contracting (Deep Dive) indicator, Site Labor Productivity Index 
 ## Formula
 
 ```
-Earned Standard Hours / Actual Hours
+SLPI-D = Earned Standard Hours / Actual Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Error (Deep Dive)** (TE-D) in
 - **Canonical id:** `dea:metric-tracking-error-deep-dive`
 - **Name:** Tracking Error (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TE-D
 
@@ -22,7 +22,7 @@ Measures the standard deviation of portfolio returns relative to the benchmark. 
 ## Formula
 
 ```
-Standard Deviation of Active Returns
+TE-D = Standard Deviation of Active Returns
 ```
 
 ## Unit

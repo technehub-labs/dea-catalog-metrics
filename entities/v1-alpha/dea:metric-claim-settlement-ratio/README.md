@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Settlement Ratio** (CSR) in the 
 - **Canonical id:** `dea:metric-claim-settlement-ratio`
 - **Name:** Claim Settlement Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSR
 
@@ -22,7 +22,7 @@ Claims settled against claims received - the insurance industry's headline servi
 ## Formula
 
 ```
-Claims Settled / Claims Received
+CSR = Claims Settled / Claims Received
 ```
 
 ## Unit

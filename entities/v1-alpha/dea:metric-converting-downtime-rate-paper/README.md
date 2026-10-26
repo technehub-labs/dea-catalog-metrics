@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Converting Downtime Rate (Paper)** (CD
 - **Canonical id:** `dea:metric-converting-downtime-rate-paper`
 - **Name:** Converting Downtime Rate (Paper)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-P
 
@@ -18,7 +18,7 @@ Converting Downtime Rate (Paper) (CDR-P) measures the utilization or availabilit
 ## Formula
 
 ```
-Converting Downtime / Scheduled Converting Time
+CDR-P = Converting Downtime / Scheduled Converting Time
 ```
 
 ## Unit

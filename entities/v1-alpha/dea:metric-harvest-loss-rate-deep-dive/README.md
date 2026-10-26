@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Harvest Loss Rate (Deep Dive)** (HLR-D
 - **Canonical id:** `dea:metric-harvest-loss-rate-deep-dive`
 - **Name:** Harvest Loss Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HLR-D
 
@@ -18,7 +18,7 @@ Harvest Loss Rate (Deep Dive) (HLR-D) addresses how efficiently resources are co
 ## Formula
 
 ```
-Field Losses / Potential Yield
+HLR-D = Field Losses / Potential Yield
 ```
 
 ## Unit

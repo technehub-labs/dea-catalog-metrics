@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Analysis Coverage** (SAC-FP) 
 - **Canonical id:** `dea:metric-scenario-analysis-coverage`
 - **Name:** Scenario Analysis Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAC-FP
 
@@ -22,7 +22,7 @@ Measures how completely the plan addresses defined downside and upside scenarios
 ## Formula
 
 ```
-Material Uncertainties with Modeled Scenarios / Identified Uncertainties
+SAC-FP = Material Uncertainties with Modeled Scenarios / Identified Uncertainties
 ```
 
 ## Unit

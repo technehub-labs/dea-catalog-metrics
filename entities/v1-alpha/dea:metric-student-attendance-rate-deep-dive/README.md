@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student Attendance Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-student-attendance-rate-deep-dive`
 - **Name:** Student Attendance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SARDD
 
@@ -18,7 +18,7 @@ A Education & Training Outcome Standard Measures indicator, Student Attendance R
 ## Formula
 
 ```
-Attended Sessions / Scheduled Sessions
+SARDD = Attended Sessions / Scheduled Sessions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Online Order Fulfilment Cost Ratio** (
 - **Canonical id:** `dea:metric-online-order-fulfilment-cost-ratio`
 - **Name:** Online Order Fulfilment Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OOFCR
 
@@ -22,7 +22,7 @@ Measures fulfilment cost relative to online revenue. Digital channel economics s
 ## Formula
 
 ```
-Pick-Pack-Deliver Cost / Online Revenue
+OOFCR = Pick-Pack-Deliver Cost / Online Revenue
 ```
 
 ## Unit

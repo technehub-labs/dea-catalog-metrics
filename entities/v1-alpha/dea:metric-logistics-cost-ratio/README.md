@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Cost Ratio** (LCR-S) in the 
 - **Canonical id:** `dea:metric-logistics-cost-ratio`
 - **Name:** Logistics Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCR-S
 
@@ -22,7 +22,7 @@ Total logistics spend - transport, warehousing, inventory carrying, and administ
 ## Formula
 
 ```
-Total Logistics Cost / Revenue
+LCR-S = Total Logistics Cost / Revenue
 ```
 
 ## Unit

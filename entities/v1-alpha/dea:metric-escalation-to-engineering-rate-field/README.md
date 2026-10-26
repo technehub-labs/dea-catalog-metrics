@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation-to-Engineering Rate - Field
 - **Canonical id:** `dea:metric-escalation-to-engineering-rate-field`
 - **Name:** Escalation-to-Engineering Rate - Field
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EEF
 
@@ -18,7 +18,7 @@ Escalation-to-Engineering Rate - Field (EEF) measures the quality of outputs and
 ## Formula
 
 ```
-Jobs Escalated to Engineering / Jobs
+EEF = Jobs Escalated to Engineering / Jobs
 ```
 
 ## Unit

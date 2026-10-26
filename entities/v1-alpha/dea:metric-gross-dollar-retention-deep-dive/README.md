@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Dollar Retention (Deep Dive)** (
 - **Canonical id:** `dea:metric-gross-dollar-retention-deep-dive`
 - **Name:** Gross Dollar Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GDRD
 
@@ -22,7 +22,7 @@ Measures recurring revenue retained excluding expansion. GDR isolates the leak: 
 ## Formula
 
 ```
-Retained Revenue excluding Expansion / Prior Period
+GDRD = Retained Revenue excluding Expansion / Prior Period
 ```
 
 ## Unit

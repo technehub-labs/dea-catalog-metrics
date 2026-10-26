@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Structural Duplication Index** (SDI-OM
 - **Canonical id:** `dea:metric-structural-duplication-index`
 - **Name:** Structural Duplication Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDI-OM
 
@@ -22,7 +22,7 @@ Measures the extent of duplicated capabilities, roles, and structures across the
 ## Formula
 
 ```
-Duplicated Functions across Units / Functions
+SDI-OM = Duplicated Functions across Units / Functions
 ```
 
 ## Unit

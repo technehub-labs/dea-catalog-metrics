@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-Time Fix Rate (Field)** (FTFR-F)
 - **Canonical id:** `dea:metric-first-time-fix-rate-field`
 - **Name:** First-Time Fix Rate (Field)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTFR-F
 
@@ -18,7 +18,7 @@ First-Time Fix Rate (Field) (FTFR-F) captures the quality of outputs and outcome
 ## Formula
 
 ```
-Jobs Resolved on First Visit / Jobs
+FTFR-F = Jobs Resolved on First Visit / Jobs
 ```
 
 ## Unit

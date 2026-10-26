@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seafarer Retention Rate** (SFR-M) in t
 - **Canonical id:** `dea:metric-seafarer-retention-rate`
 - **Name:** Seafarer Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SFR-M
 
@@ -22,7 +22,7 @@ Measures crew continuity across contracts in shipping. It matters because experi
 ## Formula
 
 ```
-Seafarers Completing Contracts and Returning / Seafarers Eligible
+SFR-M = Seafarers Completing Contracts and Returning / Seafarers Eligible
 ```
 
 ## Unit

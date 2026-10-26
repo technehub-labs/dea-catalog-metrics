@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Portfolio Retention (Brokerage)
 - **Canonical id:** `dea:metric-client-portfolio-retention-brokerage`
 - **Name:** Client Portfolio Retention (Brokerage)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPBR
 
@@ -22,7 +22,7 @@ Client portfolio retention measures the share of client assets staying put in a 
 ## Formula
 
 ```
-Accounts Retained at Renewal / Accounts at Start
+CPBR = Accounts Retained at Renewal / Accounts at Start
 ```
 
 ## Unit

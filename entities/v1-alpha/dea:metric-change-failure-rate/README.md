@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Failure Rate** (CFR) in the Ope
 - **Canonical id:** `dea:metric-change-failure-rate`
 - **Name:** Change Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFR
 
@@ -22,7 +22,7 @@ Change failure rate, a DORA metric, is the share of production changes that caus
 ## Formula
 
 ```
-Deployments Causing Failure / Total Deployments
+CFR = Deployments Causing Failure / Total Deployments
 ```
 
 ## Unit

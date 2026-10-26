@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tier-1 Escalation Accuracy** (T1EA) in
 - **Canonical id:** `dea:metric-tier-1-escalation-accuracy`
 - **Name:** Tier-1 Escalation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** T1EA
 
@@ -18,7 +18,7 @@ Tier-1 Escalation Accuracy (T1EA) addresses the quality of outputs and outcomes 
 ## Formula
 
 ```
-Escalations Justified / Escalations
+T1EA = Escalations Justified / Escalations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Curtailment Rate** (CR-E) in the OpenD
 - **Canonical id:** `dea:metric-curtailment-rate`
 - **Name:** Curtailment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CR-E
 
@@ -22,7 +22,7 @@ Measures the share of available renewable generation not dispatched or grid-rest
 ## Formula
 
 ```
-Generation Curtailed / Generation Available
+CR-E = Generation Curtailed / Generation Available
 ```
 
 ## Unit

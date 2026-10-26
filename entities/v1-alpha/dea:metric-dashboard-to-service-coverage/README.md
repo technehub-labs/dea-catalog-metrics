@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dashboard-to-Service Coverage** (DTSC)
 - **Canonical id:** `dea:metric-dashboard-to-service-coverage`
 - **Name:** Dashboard-to-Service Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTSC
 
@@ -18,7 +18,7 @@ A Observability & Site Reliability Engineering indicator, Dashboard-to-Service C
 ## Formula
 
 ```
-Services with Operational Dashboards / Services
+DTSC = Services with Operational Dashboards / Services
 ```
 
 ## Unit

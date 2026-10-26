@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student-to-Faculty Ratio** (SFR) in th
 - **Canonical id:** `dea:metric-student-to-faculty-ratio`
 - **Name:** Student-to-Faculty Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SFR
 
@@ -22,7 +22,7 @@ Enrolled students per instructional faculty member - the structural metric of th
 ## Formula
 
 ```
-Enrolled Students / Faculty Members
+SFR = Enrolled Students / Faculty Members
 ```
 
 ## Unit

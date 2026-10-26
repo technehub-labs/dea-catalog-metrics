@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RevPAR Index to Competitive Set** (RPI
 - **Canonical id:** `dea:metric-revpar-index-to-competitive-set`
 - **Name:** RevPAR Index to Competitive Set
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPI
 
@@ -22,7 +22,7 @@ Measures revenue per available room performance relative to a defined competitiv
 ## Formula
 
 ```
-Hotel RevPAR / Compset RevPAR
+RPI = Hotel RevPAR / Compset RevPAR
 ```
 
 ## Unit

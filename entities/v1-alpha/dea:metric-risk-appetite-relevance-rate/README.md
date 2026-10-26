@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Appetite Relevance Rate** (RAR-ER
 - **Canonical id:** `dea:metric-risk-appetite-relevance-rate`
 - **Name:** Risk Appetite Relevance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAR-ER
 
@@ -22,7 +22,7 @@ Measures whether the stated appetite statement covers the risks the organization
 ## Formula
 
 ```
-Appetite Statements Confirmed Current at Review / Statements
+RAR-ER = Appetite Statements Confirmed Current at Review / Statements
 ```
 
 ## Unit

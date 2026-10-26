@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Breach Count** (CBC) in the
 - **Canonical id:** `dea:metric-compliance-breach-count`
 - **Name:** Compliance Breach Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBC
 
@@ -22,7 +22,7 @@ The number of incidents where the organization failed to meet a regulatory or le
 ## Formula
 
 ```
-Confirmed Regulatory Breaches per Period
+CBC = Confirmed Regulatory Breaches per Period
 ```
 
 ## Unit

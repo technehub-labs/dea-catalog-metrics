@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Reconciliation Break Rate** (P
 - **Canonical id:** `dea:metric-payment-reconciliation-break-rate`
 - **Name:** Payment Reconciliation Break Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRBR
 
@@ -18,7 +18,7 @@ Payment Reconciliation Break Rate (PRBR) measures the quality of outputs and out
 ## Formula
 
 ```
-Unreconciled Items / Transactions Processed
+PRBR = Unreconciled Items / Transactions Processed
 ```
 
 ## Unit

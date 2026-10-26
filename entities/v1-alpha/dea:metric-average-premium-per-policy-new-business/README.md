@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Premium per Policy (New Busine
 - **Canonical id:** `dea:metric-average-premium-per-policy-new-business`
 - **Name:** Average Premium per Policy (New Business)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APPNB
 
@@ -18,7 +18,7 @@ Average Premium per Policy (New Business) (APPNB) captures the economic value cr
 ## Formula
 
 ```
-New Business Premium / New Policies
+APPNB = New Business Premium / New Policies
 ```
 
 ## Unit

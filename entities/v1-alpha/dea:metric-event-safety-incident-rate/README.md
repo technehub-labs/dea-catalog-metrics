@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Safety Incident Rate** (ESIR) in
 - **Canonical id:** `dea:metric-event-safety-incident-rate`
 - **Name:** Event Safety Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESIR
 
@@ -22,7 +22,7 @@ Event safety incident rate measures injuries, security events, and medical respo
 ## Formula
 
 ```
-Safety Incidents / Attendees x 1,000
+ESIR = Safety Incidents / Attendees x 1,000
 ```
 
 ## Unit

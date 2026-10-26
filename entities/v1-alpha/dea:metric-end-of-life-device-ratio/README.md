@@ -7,7 +7,7 @@ Candidate Performance Metric record for **End-of-Life Device Ratio** (EOLDR) in 
 - **Canonical id:** `dea:metric-end-of-life-device-ratio`
 - **Name:** End-of-Life Device Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOLDR
 
@@ -22,7 +22,7 @@ Measures the share of network devices past their support or end-of-life dates. E
 ## Formula
 
 ```
-Devices Past Vendor EOL / Devices
+EOLDR = Devices Past Vendor EOL / Devices
 ```
 
 ## Unit

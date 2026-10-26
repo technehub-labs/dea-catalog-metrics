@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Continuity Plan Coverage (Dee
 - **Canonical id:** `dea:metric-business-continuity-plan-coverage-deep-dive`
 - **Name:** Business Continuity Plan Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCPC
 
@@ -22,7 +22,7 @@ Measures the share of critical business functions with current, tested continuit
 ## Formula
 
 ```
-Critical Processes with Current BCP / Critical Processes
+BCPC = Critical Processes with Current BCP / Critical Processes
 ```
 
 ## Unit

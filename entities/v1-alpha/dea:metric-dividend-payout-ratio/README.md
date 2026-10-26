@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dividend Payout Ratio** (DPR) in the O
 - **Canonical id:** `dea:metric-dividend-payout-ratio`
 - **Name:** Dividend Payout Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPR
 
@@ -22,7 +22,7 @@ Dividends as a share of earnings - the distribution metric that encodes an entir
 ## Formula
 
 ```
-Dividends Paid / Net Income
+DPR = Dividends Paid / Net Income
 ```
 
 ## Unit

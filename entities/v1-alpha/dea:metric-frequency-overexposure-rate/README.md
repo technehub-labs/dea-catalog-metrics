@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Frequency Overexposure Rate** (FOR-A) 
 - **Canonical id:** `dea:metric-frequency-overexposure-rate`
 - **Name:** Frequency Overexposure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FOR-A
 
@@ -18,7 +18,7 @@ Frequency Overexposure Rate (FOR-A) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Users Exceeding Frequency Cap / Reached Users
+FOR-A = Users Exceeding Frequency Cap / Reached Users
 ```
 
 ## Unit

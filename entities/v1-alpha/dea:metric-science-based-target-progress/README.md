@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Science-Based Target Progress** (SBTP)
 - **Canonical id:** `dea:metric-science-based-target-progress`
 - **Name:** Science-Based Target Progress
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBTP
 
@@ -22,7 +22,7 @@ Measures cumulative emission reductions against validated science-based target t
 ## Formula
 
 ```
-Emissions Reduction Achieved / Committed Pathway
+SBTP = Emissions Reduction Achieved / Committed Pathway
 ```
 
 ## Unit

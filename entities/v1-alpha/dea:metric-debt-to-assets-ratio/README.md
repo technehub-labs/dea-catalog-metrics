@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Assets Ratio** (D/A) in the Op
 - **Canonical id:** `dea:metric-debt-to-assets-ratio`
 - **Name:** Debt-to-Assets Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D/A
 
@@ -22,7 +22,7 @@ Total debt as a proportion of total assets - a solvency gauge that answers a blu
 ## Formula
 
 ```
-Total Debt / Total Assets
+D/A = Total Debt / Total Assets
 ```
 
 ## Unit

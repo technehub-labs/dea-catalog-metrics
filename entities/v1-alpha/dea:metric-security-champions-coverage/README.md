@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Champions Coverage** (SECCO) 
 - **Canonical id:** `dea:metric-security-champions-coverage`
 - **Name:** Security Champions Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SECCO
 
@@ -22,7 +22,7 @@ Measures the proportion of delivery teams with an embedded security advocate. Ch
 ## Formula
 
 ```
-Teams with Designated Security Champion / Teams
+SECCO = Teams with Designated Security Champion / Teams
 ```
 
 ## Unit

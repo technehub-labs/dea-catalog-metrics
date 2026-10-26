@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Communication Cadence Complia
 - **Canonical id:** `dea:metric-incident-communication-cadence-compliance`
 - **Name:** Incident Communication Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICCC-IT
 
@@ -18,7 +18,7 @@ Incident Communication Cadence Compliance (ICCC-IT) measures conformance to stan
 ## Formula
 
 ```
-Major Incidents with Timely Stakeholder Updates / Major Incidents
+ICCC-IT = Major Incidents with Timely Stakeholder Updates / Major Incidents
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **In-App Feedback Response Rate** (IFRR-
 - **Canonical id:** `dea:metric-in-app-feedback-response-rate`
 - **Name:** In-App Feedback Response Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFRR-S
 
@@ -18,7 +18,7 @@ In-App Feedback Response Rate (IFRR-S) captures the engagement or satisfaction o
 ## Formula
 
 ```
-Feedback Prompts Answered / Prompts Shown
+IFRR-S = Feedback Prompts Answered / Prompts Shown
 ```
 
 ## Unit

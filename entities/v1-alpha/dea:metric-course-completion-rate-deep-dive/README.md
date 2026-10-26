@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Course Completion Rate (Deep Dive)** (
 - **Canonical id:** `dea:metric-course-completion-rate-deep-dive`
 - **Name:** Course Completion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCRT-D
 
@@ -22,7 +22,7 @@ Measures the share of enrolled learners completing courses. It is the persistenc
 ## Formula
 
 ```
-Completers / Enrolments
+CCRT-D = Completers / Enrolments
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Settlement Window Compliance Rate** (S
 - **Canonical id:** `dea:metric-settlement-window-compliance-rate`
 - **Name:** Settlement Window Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SWCR
 
@@ -18,7 +18,7 @@ Settlement Window Compliance Rate (SWCR) addresses conformance to standards, pla
 ## Formula
 
 ```
-Settlement Batches within Window / Batches
+SWCR = Settlement Batches within Window / Batches
 ```
 
 ## Unit

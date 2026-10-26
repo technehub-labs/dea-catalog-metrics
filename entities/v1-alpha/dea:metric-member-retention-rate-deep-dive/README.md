@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Retention Rate (Deep Dive)** (M
 - **Canonical id:** `dea:metric-member-retention-rate-deep-dive`
 - **Name:** Member Retention Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRR-D
 
@@ -22,7 +22,7 @@ Measures the share of gym or studio members remaining over a period. Retention i
 ## Formula
 
 ```
-Members Retained over Period / Start Members
+MRR-D = Members Retained over Period / Start Members
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Volatility (Engineering)*
 - **Canonical id:** `dea:metric-requirements-volatility-engineering`
 - **Name:** Requirements Volatility (Engineering)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RV-E
 
@@ -18,7 +18,7 @@ Requirements Volatility (Engineering) (RV-E) captures exposure to adverse outcom
 ## Formula
 
 ```
-Changed Requirements after Baseline / Baseline Requirements
+RV-E = Changed Requirements after Baseline / Baseline Requirements
 ```
 
 ## Unit

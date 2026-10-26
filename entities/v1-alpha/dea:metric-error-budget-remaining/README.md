@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Remaining** (EBREM) in th
 - **Canonical id:** `dea:metric-error-budget-remaining`
 - **Name:** Error Budget Remaining
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBREM
 
@@ -22,7 +22,7 @@ Measures the unused reliability allowance for the current window. Remaining budg
 ## Formula
 
 ```
-Allowed Errors minus Consumed Errors / Allowed Errors
+EBREM = Allowed Errors minus Consumed Errors / Allowed Errors
 ```
 
 ## Unit

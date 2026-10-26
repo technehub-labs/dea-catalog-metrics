@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess Recovery Ratio** (ERR) in the O
 - **Canonical id:** `dea:metric-excess-recovery-ratio`
 - **Name:** Excess Recovery Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERR
 
@@ -18,7 +18,7 @@ A Insurance Claims Deep Dive indicator, Excess Recovery Ratio (ERR) quantifies t
 ## Formula
 
 ```
-Recoveries from Excess / Reinsurers' Share / Share
+ERR = Recoveries from Excess / Reinsurers' Share / Share
 ```
 
 ## Unit

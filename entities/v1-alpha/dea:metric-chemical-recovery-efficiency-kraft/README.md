@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chemical Recovery Efficiency (Kraft)**
 - **Canonical id:** `dea:metric-chemical-recovery-efficiency-kraft`
 - **Name:** Chemical Recovery Efficiency (Kraft)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CREK
 
@@ -18,7 +18,7 @@ Chemical Recovery Efficiency (Kraft) (CREK) captures how efficiently resources a
 ## Formula
 
 ```
-Chemicals Recovered / Chemicals Used
+CREK = Chemicals Recovered / Chemicals Used
 ```
 
 ## Unit

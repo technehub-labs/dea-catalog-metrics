@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Origination Cycle Time** (LOCT) i
 - **Canonical id:** `dea:metric-loan-origination-cycle-time`
 - **Name:** Loan Origination Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOCT
 
@@ -22,7 +22,7 @@ Loan origination cycle time measures elapsed time from application to funding de
 ## Formula
 
 ```
-Days from Complete Application to Disbursement
+LOCT = Days from Complete Application to Disbursement
 ```
 
 ## Unit

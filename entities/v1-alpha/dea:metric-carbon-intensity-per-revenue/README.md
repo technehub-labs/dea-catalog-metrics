@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Carbon Intensity per Revenue** (CIR-S)
 - **Canonical id:** `dea:metric-carbon-intensity-per-revenue`
 - **Name:** Carbon Intensity per Revenue
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIR-S
 
@@ -22,7 +22,7 @@ Emissions normalized by output - conventionally tonnes of CO2-equivalent per uni
 ## Formula
 
 ```
-Total CO2e Emissions / Revenue
+CIR-S = Total CO2e Emissions / Revenue
 ```
 
 ## Unit

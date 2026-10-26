@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Procurement Award Cycle Time** 
 - **Canonical id:** `dea:metric-public-procurement-award-cycle-time`
 - **Name:** Public Procurement Award Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPIACT
 
@@ -18,7 +18,7 @@ Public Procurement Award Cycle Time (PPIACT) captures how efficiently resources 
 ## Formula
 
 ```
-Days from Solicitation to Contract Award
+PPIACT = Days from Solicitation to Contract Award
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope 3 Coverage Ratio** (S3CR) in the
 - **Canonical id:** `dea:metric-scope-3-coverage-ratio`
 - **Name:** Scope 3 Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** S3CR
 
@@ -22,7 +22,7 @@ Measures the share of value-chain emissions covered by measured or estimated dat
 ## Formula
 
 ```
-Categories Reported / Applicable Categories
+S3CR = Categories Reported / Applicable Categories
 ```
 
 ## Unit

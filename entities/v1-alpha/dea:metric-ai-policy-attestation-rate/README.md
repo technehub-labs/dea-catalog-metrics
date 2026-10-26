@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Policy Attestation Rate** (AIPAR) i
 - **Canonical id:** `dea:metric-ai-policy-attestation-rate`
 - **Name:** AI Policy Attestation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIPAR
 
@@ -18,7 +18,7 @@ A AI Governance & Model Risk Management indicator, AI Policy Attestation Rate (A
 ## Formula
 
 ```
-Staff Attesting to AI Usage Policy / Staff in Scope
+AIPAR = Staff Attesting to AI Usage Policy / Staff in Scope
 ```
 
 ## Unit

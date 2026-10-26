@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reused Solution Rate** (RSR-K) in the 
 - **Canonical id:** `dea:metric-reused-solution-rate`
 - **Name:** Reused Solution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSR-K
 
@@ -22,7 +22,7 @@ Measures the share of problems solved by reusing existing knowledge rather than 
 ## Formula
 
 ```
-Solutions Reused from Repository / Solutions Delivered
+RSR-K = Solutions Reused from Repository / Solutions Delivered
 ```
 
 ## Unit

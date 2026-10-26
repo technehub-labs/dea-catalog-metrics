@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Drawdown (Deep Dive)** (MDD-D)
 - **Canonical id:** `dea:metric-maximum-drawdown-deep-dive`
 - **Name:** Maximum Drawdown (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDD-D
 
@@ -22,7 +22,7 @@ Measures the largest peak-to-trough decline in portfolio value over the period. 
 ## Formula
 
 ```
-Largest Peak-to-Trough Decline
+MDD-D = Largest Peak-to-Trough Decline
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hand Hygiene Compliance** (HHC) in the
 - **Canonical id:** `dea:metric-hand-hygiene-compliance`
 - **Name:** Hand Hygiene Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HHC
 
@@ -18,7 +18,7 @@ A Healthcare Quality & Patient Safety Standard Measures indicator, Hand Hygiene 
 ## Formula
 
 ```
-Observed Hand Hygiene Opportunities Performed / Opportunities
+HHC = Observed Hand Hygiene Opportunities Performed / Opportunities
 ```
 
 ## Unit

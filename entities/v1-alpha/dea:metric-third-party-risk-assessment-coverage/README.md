@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party Risk Assessment Coverage**
 - **Canonical id:** `dea:metric-third-party-risk-assessment-coverage`
 - **Name:** Third-Party Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPRC
 
@@ -22,7 +22,7 @@ The share of vendors and partners in scope that have completed risk assessment -
 ## Formula
 
 ```
-Critical Vendors Assessed / Critical Vendors
+TPRC = Critical Vendors Assessed / Critical Vendors
 ```
 
 ## Unit

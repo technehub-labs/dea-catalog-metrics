@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile Feature Flag Hygiene Rate** (MF
 - **Canonical id:** `dea:metric-mobile-feature-flag-hygiene-rate`
 - **Name:** Mobile Feature Flag Hygiene Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFFH
 
@@ -18,7 +18,7 @@ Mobile Feature Flag Hygiene Rate (MFFH) measures the quality of outputs and outc
 ## Formula
 
 ```
-Stale Flags Removed / Stale Flags Identified
+MFFH = Stale Flags Removed / Stale Flags Identified
 ```
 
 ## Unit

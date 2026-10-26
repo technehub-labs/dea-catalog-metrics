@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tool Maintenance Compliance (Molds)** 
 - **Canonical id:** `dea:metric-tool-maintenance-compliance-molds`
 - **Name:** Tool Maintenance Compliance (Molds)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMC
 
@@ -18,7 +18,7 @@ Within Packaging & Plastics, Tool Maintenance Compliance (Molds) (TMC) is used t
 ## Formula
 
 ```
-Preventive Tool Maintenance Done on Time / Due
+TMC = Preventive Tool Maintenance Done on Time / Due
 ```
 
 ## Unit

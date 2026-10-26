@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Airworthiness Directive Compliance** (
 - **Canonical id:** `dea:metric-airworthiness-directive-compliance`
 - **Name:** Airworthiness Directive Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADC
 
@@ -22,7 +22,7 @@ Airworthiness directive compliance measures completion of mandated corrective ac
 ## Formula
 
 ```
-Directives Implemented by Deadline / Directives Due
+ADC = Directives Implemented by Deadline / Directives Due
 ```
 
 ## Unit

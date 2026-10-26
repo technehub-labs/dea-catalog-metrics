@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Donation Conversion Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-donation-conversion-rate-deep-dive`
 - **Name:** Donation Conversion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-D
 
@@ -18,7 +18,7 @@ Donation Conversion Rate (Deep Dive) (DCR-D) measures growth over time in the No
 ## Formula
 
 ```
-Completed Donations / Donation Page Visits
+DCR-D = Completed Donations / Donation Page Visits
 ```
 
 ## Unit

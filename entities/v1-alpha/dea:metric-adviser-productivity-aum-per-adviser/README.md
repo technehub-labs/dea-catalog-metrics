@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Adviser Productivity - AUM per Adviser
 - **Canonical id:** `dea:metric-adviser-productivity-aum-per-adviser`
 - **Name:** Adviser Productivity - AUM per Adviser
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APA-W
 
@@ -22,7 +22,7 @@ Measures assets managed or advised per adviser. It is the leverage metric of wea
 ## Formula
 
 ```
-AUM / Advisers
+APA-W = AUM / Advisers
 ```
 
 ## Unit

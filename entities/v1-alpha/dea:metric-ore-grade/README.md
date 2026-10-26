@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ore Grade** (OG) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-ore-grade`
 - **Name:** Ore Grade
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OG
 
@@ -22,7 +22,7 @@ Ore grade is the metal content of mined rock, expressed as grams per tonne or pe
 ## Formula
 
 ```
-Metal Content / Ore Extracted
+OG = Metal Content / Ore Extracted
 ```
 
 ## Unit

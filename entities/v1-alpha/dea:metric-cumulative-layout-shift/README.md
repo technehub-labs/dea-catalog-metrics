@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cumulative Layout Shift** (CLS) in the
 - **Canonical id:** `dea:metric-cumulative-layout-shift`
 - **Name:** Cumulative Layout Shift
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLS
 
@@ -22,7 +22,7 @@ CLS is a Google Web Vitals metric quantifying unexpected visual instability: how
 ## Formula
 
 ```
-Sum of Layout Instability Scores during Page Load
+CLS = Sum of Layout Instability Scores during Page Load
 ```
 
 ## Unit

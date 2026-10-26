@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price-to-Book Ratio (Deep Dive)** (PTB
 - **Canonical id:** `dea:metric-price-to-book-ratio-deep-dive`
 - **Name:** Price-to-Book Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTBDD
 
@@ -22,7 +22,7 @@ Measures market value relative to accounting book equity. It signals how much va
 ## Formula
 
 ```
-Market Price / Book Value per Share
+PTBDD = Market Price / Book Value per Share
 ```
 
 ## Unit

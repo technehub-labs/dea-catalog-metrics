@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Fund Spend Compliance** (MFS
 - **Canonical id:** `dea:metric-marketing-fund-spend-compliance`
 - **Name:** Marketing Fund Spend Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFSC
 
@@ -18,7 +18,7 @@ A Franchise Operations (Deep Dive) indicator, Marketing Fund Spend Compliance (M
 ## Formula
 
 ```
-Spend per Approved Plan / Approved Fund
+MFSC = Spend per Approved Plan / Approved Fund
 ```
 
 ## Unit

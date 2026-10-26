@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gearing Ratio** (GR) in the OpenDEAM M
 - **Canonical id:** `dea:metric-gearing-ratio`
 - **Name:** Gearing Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GR
 
@@ -22,7 +22,7 @@ The British-Convention cousin of debt-to-equity, expressing debt relative to equ
 ## Formula
 
 ```
-Net Debt / (Net Debt + Shareholders' Equity)
+GR = Net Debt / (Net Debt + Shareholders' Equity)
 ```
 
 ## Unit

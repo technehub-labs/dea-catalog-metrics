@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Account Governance Compliance*
 - **Canonical id:** `dea:metric-service-account-governance-compliance`
 - **Name:** Service Account Governance Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAGC-IAM
 
@@ -22,7 +22,7 @@ Measures the share of non-human accounts meeting ownership, rotation, and least-
 ## Formula
 
 ```
-Service Accounts with Owner and Review / Service Accounts
+SAGC-IAM = Service Accounts with Owner and Review / Service Accounts
 ```
 
 ## Unit

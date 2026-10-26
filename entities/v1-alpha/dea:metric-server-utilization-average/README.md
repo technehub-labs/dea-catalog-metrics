@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Utilization Average** (SUA) in 
 - **Canonical id:** `dea:metric-server-utilization-average`
 - **Name:** Server Utilization Average
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUA
 
@@ -18,7 +18,7 @@ Within Data Centers & Cloud Infrastructure, Server Utilization Average (SUA) is 
 ## Formula
 
 ```
-Average CPU or Memory Utilization / Capacity
+SUA = Average CPU or Memory Utilization / Capacity
 ```
 
 ## Unit

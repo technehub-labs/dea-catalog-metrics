@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assessment Integrity Rate** (ASIR) in 
 - **Canonical id:** `dea:metric-assessment-integrity-rate`
 - **Name:** Assessment Integrity Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASIR
 
@@ -18,7 +18,7 @@ Assessment Integrity Rate (ASIR) measures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Assessments Completed within Integrity Rules / Assessments
+ASIR = Assessments Completed within Integrity Rules / Assessments
 ```
 
 ## Unit

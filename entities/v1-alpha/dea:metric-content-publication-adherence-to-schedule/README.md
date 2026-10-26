@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Content Publication Adherence to Sched
 - **Canonical id:** `dea:metric-content-publication-adherence-to-schedule`
 - **Name:** Content Publication Adherence to Schedule
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPAS
 
@@ -18,7 +18,7 @@ Content Publication Adherence to Schedule (CPAS) captures conformance to standar
 ## Formula
 
 ```
-Items Published on Schedule / Planned
+CPAS = Items Published on Schedule / Planned
 ```
 
 ## Unit

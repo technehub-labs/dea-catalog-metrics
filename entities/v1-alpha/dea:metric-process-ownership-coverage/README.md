@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Ownership Coverage** (POC-OM) 
 - **Canonical id:** `dea:metric-process-ownership-coverage`
 - **Name:** Process Ownership Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POC-OM
 
@@ -22,7 +22,7 @@ Measures the share of end-to-end processes with a named, accountable owner. With
 ## Formula
 
 ```
-Processes with Named Accountable Owner / Processes
+POC-OM = Processes with Named Accountable Owner / Processes
 ```
 
 ## Unit

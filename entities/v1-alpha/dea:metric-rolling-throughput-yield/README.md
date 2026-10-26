@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rolling Throughput Yield** (RTY) in th
 - **Canonical id:** `dea:metric-rolling-throughput-yield`
 - **Name:** Rolling Throughput Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTY
 
@@ -22,7 +22,7 @@ Measures the probability that a unit passes every process step first time withou
 ## Formula
 
 ```
-Product of First Pass Yield across All Process Steps
+RTY = Product of First Pass Yield across All Process Steps
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Response Relevance Score** (LLMRRS
 - **Canonical id:** `dea:metric-llm-response-relevance-score`
 - **Name:** LLM Response Relevance Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLMRRS
 
@@ -22,7 +22,7 @@ Measures how well model responses address the user's actual question or task. Re
 ## Formula
 
 ```
-Human-Rated Relevance Score per Response
+LLMRRS = Human-Rated Relevance Score per Response
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Reuse Ratio** (APIRU) in the OpenD
 - **Canonical id:** `dea:metric-api-reuse-ratio`
 - **Name:** API Reuse Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIRU
 
@@ -22,7 +22,7 @@ Measures the share of new integrations built on existing, governed APIs versus n
 ## Formula
 
 ```
-Services Reusing Existing APIs / New Integrations
+APIRU = Services Reusing Existing APIs / New Integrations
 ```
 
 ## Unit

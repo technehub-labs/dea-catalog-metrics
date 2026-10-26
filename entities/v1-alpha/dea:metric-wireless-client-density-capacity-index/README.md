@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wireless Client Density Capacity Index
 - **Canonical id:** `dea:metric-wireless-client-density-capacity-index`
 - **Name:** Wireless Client Density Capacity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCDI
 
@@ -18,7 +18,7 @@ Wireless Client Density Capacity Index (WCDI) measures the utilization or availa
 ## Formula
 
 ```
-Concurrent Clients per AP vs Design Threshold
+WCDI = Concurrent Clients per AP vs Design Threshold
 ```
 
 ## Unit

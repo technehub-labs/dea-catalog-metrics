@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retail Revenue per Passenger (Deep Div
 - **Canonical id:** `dea:metric-retail-revenue-per-passenger-deep-dive`
 - **Name:** Retail Revenue per Passenger (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRPP-D
 
@@ -22,7 +22,7 @@ Measures non-aeronautical commercial revenue per passenger. Concessions are the 
 ## Formula
 
 ```
-Concession Revenue / Passengers
+RRPP-D = Concession Revenue / Passengers
 ```
 
 ## Unit

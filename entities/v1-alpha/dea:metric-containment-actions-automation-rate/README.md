@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Containment Actions Automation Rate** 
 - **Canonical id:** `dea:metric-containment-actions-automation-rate`
 - **Name:** Containment Actions Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAAR-SOC
 
@@ -22,7 +22,7 @@ Measures the share of standard containment actions (isolation, blocking, credent
 ## Formula
 
 ```
-Automated Containment Actions / Containment Actions
+CAAR-SOC = Automated Containment Actions / Containment Actions
 ```
 
 ## Unit

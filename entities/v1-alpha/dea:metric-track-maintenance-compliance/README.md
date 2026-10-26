@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Track Maintenance Compliance** (TMC) i
 - **Canonical id:** `dea:metric-track-maintenance-compliance`
 - **Name:** Track Maintenance Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMC
 
@@ -22,7 +22,7 @@ Measures completion of scheduled track maintenance against plan. It matters beca
 ## Formula
 
 ```
-Maintenance Tasks Completed on Schedule / Tasks Planned
+TMC = Maintenance Tasks Completed on Schedule / Tasks Planned
 ```
 
 ## Unit

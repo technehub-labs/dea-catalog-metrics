@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Velocity (Deep Dive)** (NVD) i
 - **Canonical id:** `dea:metric-network-velocity-deep-dive`
 - **Name:** Network Velocity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NVD
 
@@ -22,7 +22,7 @@ Measures average train speed across the network, including dwell. Velocity is th
 ## Formula
 
 ```
-Kilometres per Wagon Day
+NVD = Kilometres per Wagon Day
 ```
 
 ## Unit

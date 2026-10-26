@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Dollar Retention (Deep Dive)** (ND
 - **Canonical id:** `dea:metric-net-dollar-retention-deep-dive`
 - **Name:** Net Dollar Retention (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NDRD
 
@@ -22,7 +22,7 @@ Measures recurring revenue from a customer cohort including expansion, net of ch
 ## Formula
 
 ```
-Cohort Revenue Now / Same Cohort Prior Period
+NDRD = Cohort Revenue Now / Same Cohort Prior Period
 ```
 
 ## Unit

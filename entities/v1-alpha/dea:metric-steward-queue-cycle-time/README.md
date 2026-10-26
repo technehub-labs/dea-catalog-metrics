@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Steward Queue Cycle Time** (SQCT) in t
 - **Canonical id:** `dea:metric-steward-queue-cycle-time`
 - **Name:** Steward Queue Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQCT
 
@@ -18,7 +18,7 @@ Steward Queue Cycle Time (SQCT) measures how efficiently resources are converted
 ## Formula
 
 ```
-Days for Steward to Resolve Data Curation Queue Items
+SQCT = Days for Steward to Resolve Data Curation Queue Items
 ```
 
 ## Unit

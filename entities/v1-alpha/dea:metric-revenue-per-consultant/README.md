@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Consultant** (RPC) in the 
 - **Canonical id:** `dea:metric-revenue-per-consultant`
 - **Name:** Revenue per Consultant
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPC
 
@@ -22,7 +22,7 @@ Total revenue divided by consulting headcount - the productivity metric of the p
 ## Formula
 
 ```
-Fee Revenue / Consultant FTEs
+RPC = Fee Revenue / Consultant FTEs
 ```
 
 ## Unit

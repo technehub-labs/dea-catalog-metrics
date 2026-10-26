@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Citizen Transaction** (CPCT) 
 - **Canonical id:** `dea:metric-cost-per-citizen-transaction`
 - **Name:** Cost per Citizen Transaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCT
 
@@ -22,7 +22,7 @@ Measures the fully loaded cost of processing a standard service transaction. It 
 ## Formula
 
 ```
-Total Service Cost / Transactions
+CPCT = Total Service Cost / Transactions
 ```
 
 ## Unit

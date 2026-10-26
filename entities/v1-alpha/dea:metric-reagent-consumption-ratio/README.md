@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reagent Consumption Ratio** (RCR-M) in
 - **Canonical id:** `dea:metric-reagent-consumption-ratio`
 - **Name:** Reagent Consumption Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-M
 
@@ -18,7 +18,7 @@ Reagent Consumption Ratio (RCR-M) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Actual Reagent Use vs Plan / Plan
+RCR-M = Actual Reagent Use vs Plan / Plan
 ```
 
 ## Unit

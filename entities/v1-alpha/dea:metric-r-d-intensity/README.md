@@ -7,7 +7,7 @@ Candidate Performance Metric record for **R&D Intensity** (RDI) in the OpenDEAM 
 - **Canonical id:** `dea:metric-r-d-intensity`
 - **Name:** R&D Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDI
 
@@ -22,7 +22,7 @@ Research and development expenditure as a share of revenue - the canonical innov
 ## Formula
 
 ```
-R&D Expenditure / Revenue
+RDI = R&D Expenditure / Revenue
 ```
 
 ## Unit

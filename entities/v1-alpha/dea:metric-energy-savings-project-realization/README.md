@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Savings Project Realization** (
 - **Canonical id:** `dea:metric-energy-savings-project-realization`
 - **Name:** Energy Savings Project Realization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESPR
 
@@ -22,7 +22,7 @@ Measures the share of projected energy savings from efficiency projects actually
 ## Formula
 
 ```
-Realized Savings / Committed Savings from Projects
+ESPR = Realized Savings / Committed Savings from Projects
 ```
 
 ## Unit

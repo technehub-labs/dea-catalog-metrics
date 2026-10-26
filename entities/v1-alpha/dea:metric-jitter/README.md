@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Jitter** (JTR) in the OpenDEAM Metric 
 - **Canonical id:** `dea:metric-jitter`
 - **Name:** Jitter
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JTR
 
@@ -18,7 +18,7 @@ Within Telecom Network Operations, Jitter (JTR) is used to gauge the quality of 
 ## Formula
 
 ```
-Mean Variation in Packet Arrival Delay
+JTR = Mean Variation in Packet Arrival Delay
 ```
 
 ## Unit

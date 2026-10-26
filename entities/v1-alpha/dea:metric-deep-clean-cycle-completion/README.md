@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deep Clean Cycle Completion** (DCCC) i
 - **Canonical id:** `dea:metric-deep-clean-cycle-completion`
 - **Name:** Deep Clean Cycle Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCCC
 
@@ -18,7 +18,7 @@ Deep Clean Cycle Completion (DCCC) captures conformance to standards, plans, or 
 ## Formula
 
 ```
-Deep Clean Tasks on Schedule / Scheduled
+DCCC = Deep Clean Tasks on Schedule / Scheduled
 ```
 
 ## Unit

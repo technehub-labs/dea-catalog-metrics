@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Quality Score** (GQS) in the OpenD
 - **Canonical id:** `dea:metric-gig-quality-score`
 - **Name:** Gig Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GQS
 
@@ -18,7 +18,7 @@ Within Gig & Contingent Workforce, Gig Quality Score (GQS) is used to gauge the 
 ## Formula
 
 ```
-Average Quality Rating of Completed Tasks
+GQS = Average Quality Rating of Completed Tasks
 ```
 
 ## Unit

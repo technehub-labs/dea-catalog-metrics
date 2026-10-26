@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environment Parity Compliance** (EPC-C
 - **Canonical id:** `dea:metric-environment-parity-compliance`
 - **Name:** Environment Parity Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPC-CD
 
@@ -18,7 +18,7 @@ A Continuous Delivery & Deployment indicator, Environment Parity Compliance (EPC
 ## Formula
 
 ```
-Non-Production Environments Matching Production Configuration / Environments
+EPC-CD = Non-Production Environments Matching Production Configuration / Environments
 ```
 
 ## Unit

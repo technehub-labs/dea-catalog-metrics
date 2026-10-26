@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Performance Index (Pp)** (PPS)
 - **Canonical id:** `dea:metric-process-performance-index-pp`
 - **Name:** Process Performance Index (Pp)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPS
 
@@ -18,7 +18,7 @@ Process Performance Index (Pp) (PPS) addresses the quality of outputs and outcom
 ## Formula
 
 ```
-(Upper Spec - Lower Spec) / (6 x Total Std Dev)
+PPS = (Upper Spec - Lower Spec) / (6 x Total Std Dev)
 ```
 
 ## Unit

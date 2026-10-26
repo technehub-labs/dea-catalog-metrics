@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Condition Index (Public Infrastr
 - **Canonical id:** `dea:metric-asset-condition-index-public-infrastructure`
 - **Name:** Asset Condition Index (Public Infrastructure)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACI-P
 
@@ -22,7 +22,7 @@ Measures the physical condition of public assets - roads, bridges, buildings, wa
 ## Formula
 
 ```
-Weighted Infrastructure Condition Score
+ACI-P = Weighted Infrastructure Condition Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Right First Time Rate** (DRFT
 - **Canonical id:** `dea:metric-decision-right-first-time-rate`
 - **Name:** Decision Right First Time Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRFT
 
@@ -22,7 +22,7 @@ Measures how often decisions are made at the correct level on the first pass rat
 ## Formula
 
 ```
-Decisions Not Revisited or Reversed within Year / Decisions
+DRFT = Decisions Not Revisited or Reversed within Year / Decisions
 ```
 
 ## Unit

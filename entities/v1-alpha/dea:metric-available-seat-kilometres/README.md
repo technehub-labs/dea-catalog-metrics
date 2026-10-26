@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Available Seat Kilometres** (ASK) in t
 - **Canonical id:** `dea:metric-available-seat-kilometres`
 - **Name:** Available Seat Kilometres
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASK
 
@@ -22,7 +22,7 @@ Seats flown multiplied by distance - the capacity metric of aviation, and the de
 ## Formula
 
 ```
-Seats Flown x Distance Flown
+ASK = Seats Flown x Distance Flown
 ```
 
 ## Unit

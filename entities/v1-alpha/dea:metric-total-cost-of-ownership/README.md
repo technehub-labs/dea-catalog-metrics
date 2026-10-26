@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Cost of Ownership** (TCO) in the
 - **Canonical id:** `dea:metric-total-cost-of-ownership`
 - **Name:** Total Cost of Ownership
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCO
 
@@ -22,7 +22,7 @@ Measures the full lifecycle cost of an asset including purchase, operation, main
 ## Formula
 
 ```
-Purchase Price + Operating Costs + Maintenance Costs - Residual Value
+TCO = Purchase Price + Operating Costs + Maintenance Costs - Residual Value
 ```
 
 ## Unit

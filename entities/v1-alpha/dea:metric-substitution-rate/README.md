@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Substitution Rate** (SUBR) in the Open
 - **Canonical id:** `dea:metric-substitution-rate`
 - **Name:** Substitution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUBR
 
@@ -22,7 +22,7 @@ Measures how fast customers replace the product with alternatives (including non
 ## Formula
 
 ```
-Customers Switching to Alternatives / Customer Base
+SUBR = Customers Switching to Alternatives / Customer Base
 ```
 
 ## Unit

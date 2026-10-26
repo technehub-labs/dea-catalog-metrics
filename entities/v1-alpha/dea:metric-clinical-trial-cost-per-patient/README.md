@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Cost per Patient** (CTC
 - **Canonical id:** `dea:metric-clinical-trial-cost-per-patient`
 - **Name:** Clinical Trial Cost per Patient
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCP
 
@@ -18,7 +18,7 @@ Within Pharma R&D & Clinical Trials, Clinical Trial Cost per Patient (CTCP) is u
 ## Formula
 
 ```
-Trial Costs / Patients Enrolled
+CTCP = Trial Costs / Patients Enrolled
 ```
 
 ## Unit

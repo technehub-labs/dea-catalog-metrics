@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SoD Violation Remediation Time** (SODV
 - **Canonical id:** `dea:metric-sod-violation-remediation-time`
 - **Name:** SoD Violation Remediation Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SODVRT
 
@@ -18,7 +18,7 @@ A Identity & Access Management Operations indicator, SoD Violation Remediation T
 ## Formula
 
 ```
-Days to Resolve SoD Conflicts
+SODVRT = Days to Resolve SoD Conflicts
 ```
 
 ## Unit

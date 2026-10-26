@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pseudonymization Coverage (Analytics)*
 - **Canonical id:** `dea:metric-pseudonymization-coverage-analytics`
 - **Name:** Pseudonymization Coverage (Analytics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPC
 
@@ -18,7 +18,7 @@ A Data Privacy & Protection indicator, Pseudonymization Coverage (Analytics) (PP
 ## Formula
 
 ```
-Analytical Datasets Pseudonymized / Datasets with Personal Data
+PPC = Analytical Datasets Pseudonymized / Datasets with Personal Data
 ```
 
 ## Unit

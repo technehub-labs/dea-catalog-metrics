@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Reporting Timeliness** (MRT
 - **Canonical id:** `dea:metric-management-reporting-timeliness`
 - **Name:** Management Reporting Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRT-FP
 
@@ -18,7 +18,7 @@ Within Financial Planning & Analysis, Management Reporting Timeliness (MRT-FP) i
 ## Formula
 
 ```
-Reports Delivered by Commit Date / Reports
+MRT-FP = Reports Delivered by Commit Date / Reports
 ```
 
 ## Unit

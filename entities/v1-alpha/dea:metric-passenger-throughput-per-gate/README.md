@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Throughput per Gate** (PTPG)
 - **Canonical id:** `dea:metric-passenger-throughput-per-gate`
 - **Name:** Passenger Throughput per Gate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTPG
 
@@ -22,7 +22,7 @@ Measures passengers processed per gate per period. It matters because gate produ
 ## Formula
 
 ```
-Passengers Processed / Gates per Period
+PTPG = Passengers Processed / Gates per Period
 ```
 
 ## Unit

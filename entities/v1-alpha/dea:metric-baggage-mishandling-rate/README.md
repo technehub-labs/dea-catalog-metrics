@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baggage Mishandling Rate** (BMR) in th
 - **Canonical id:** `dea:metric-baggage-mishandling-rate`
 - **Name:** Baggage Mishandling Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BMR
 
@@ -22,7 +22,7 @@ Measures mishandled bags per 1,000 passengers. It matters because baggage failur
 ## Formula
 
 ```
-Mishandled Bags / Total Bags Handled
+BMR = Mishandled Bags / Total Bags Handled
 ```
 
 ## Unit

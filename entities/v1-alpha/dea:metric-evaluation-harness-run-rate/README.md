@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Evaluation Harness Run Rate** (EHRR-LL
 - **Canonical id:** `dea:metric-evaluation-harness-run-rate`
 - **Name:** Evaluation Harness Run Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EHRR-LLM
 
@@ -22,7 +22,7 @@ Measures the cadence and coverage of automated evaluation runs against the model
 ## Formula
 
 ```
-Model Releases Evaluated before Deployment / Releases
+EHRR-LLM = Model Releases Evaluated before Deployment / Releases
 ```
 
 ## Unit

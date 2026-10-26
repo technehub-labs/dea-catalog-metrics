@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pay-How-You-Drive Telematics Uptake** 
 - **Canonical id:** `dea:metric-pay-how-you-drive-telematics-uptake`
 - **Name:** Pay-How-You-Drive Telematics Uptake
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PHYD
 
@@ -18,7 +18,7 @@ Within Insurance Distribution - Direct & Digital, Pay-How-You-Drive Telematics U
 ## Formula
 
 ```
-Telematics Policies / Motor Policies
+PHYD = Telematics Policies / Motor Policies
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Finish Quality First Pass Rate** (FQFP
 - **Canonical id:** `dea:metric-finish-quality-first-pass-rate`
 - **Name:** Finish Quality First Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FQFP
 
@@ -18,7 +18,7 @@ Within Furniture & Wood Products, Finish Quality First Pass Rate (FQFP) is used 
 ## Formula
 
 ```
-Items Passing Finish Inspection / Items
+FQFP = Items Passing Finish Inspection / Items
 ```
 
 ## Unit

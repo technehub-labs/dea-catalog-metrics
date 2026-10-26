@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Downtime Cost per Incident** (AD
 - **Canonical id:** `dea:metric-asset-downtime-cost-per-incident`
 - **Name:** Asset Downtime Cost per Incident
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADCI
 
@@ -22,7 +22,7 @@ Measures the average financial impact of asset downtime events. It converts reli
 ## Formula
 
 ```
-Total Downtime Cost / Downtime Incidents
+ADCI = Total Downtime Cost / Downtime Incidents
 ```
 
 ## Unit

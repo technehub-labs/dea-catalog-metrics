@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cavity Fill Balance Variance** (CFBV) 
 - **Canonical id:** `dea:metric-cavity-fill-balance-variance`
 - **Name:** Cavity Fill Balance Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFBV
 
@@ -18,7 +18,7 @@ Within Packaging & Plastics, Cavity Fill Balance Variance (CFBV) is used to gaug
 ## Formula
 
 ```
-Part Weight Variation across Cavities
+CFBV = Part Weight Variation across Cavities
 ```
 
 ## Unit

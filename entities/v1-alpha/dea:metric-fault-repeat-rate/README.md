@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fault Repeat Rate** (FRR-N) in the Ope
 - **Canonical id:** `dea:metric-fault-repeat-rate`
 - **Name:** Fault Repeat Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRR-N
 
@@ -18,7 +18,7 @@ Fault Repeat Rate (FRR-N) measures the quality of outputs and outcomes in the Te
 ## Formula
 
 ```
-Faults Reoccurring within 30 Days / Faults Repaired
+FRR-N = Faults Reoccurring within 30 Days / Faults Repaired
 ```
 
 ## Unit

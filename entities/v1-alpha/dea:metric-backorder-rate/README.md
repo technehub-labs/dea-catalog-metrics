@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backorder Rate** (BOR) in the OpenDEAM
 - **Canonical id:** `dea:metric-backorder-rate`
 - **Name:** Backorder Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOR
 
@@ -22,7 +22,7 @@ Measures the share of order lines that cannot be fulfilled from stock at order t
 ## Formula
 
 ```
-Backordered Lines / Total Order Lines
+BOR = Backordered Lines / Total Order Lines
 ```
 
 ## Unit

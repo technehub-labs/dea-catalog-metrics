@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Biodiversity Index - Farm** (BIF) in t
 - **Canonical id:** `dea:metric-biodiversity-index-farm`
 - **Name:** Biodiversity Index - Farm
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BIF
 
@@ -22,7 +22,7 @@ Measures on-farm species and habitat diversity against baseline or regional refe
 ## Formula
 
 ```
-Composite Habitat and Species Score
+BIF = Composite Habitat and Species Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scope 2 Emissions Intensity** (S2EI) i
 - **Canonical id:** `dea:metric-scope-2-emissions-intensity`
 - **Name:** Scope 2 Emissions Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** S2EI
 
@@ -22,7 +22,7 @@ Measures purchased-energy emissions, market- or location-based, per output. Scop
 ## Formula
 
 ```
-Scope 2 tCO2e / Revenue Unit
+S2EI = Scope 2 tCO2e / Revenue Unit
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Original Content ROI (Streaming)** (OC
 - **Canonical id:** `dea:metric-original-content-roi-streaming`
 - **Name:** Original Content ROI (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR-S
 
@@ -22,7 +22,7 @@ Measures returns on original content investment - retention, acquisition, and en
 ## Formula
 
 ```
-Attributed Subscriber Value / Content Cost
+OCR-S = Attributed Subscriber Value / Content Cost
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Funding Reallocation Velocity** (FRV) 
 - **Canonical id:** `dea:metric-funding-reallocation-velocity`
 - **Name:** Funding Reallocation Velocity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRV
 
@@ -22,7 +22,7 @@ Measures how quickly capital and people shift from underperforming initiatives t
 ## Formula
 
 ```
-Days from Decision to Reallocate Portfolio Funds
+FRV = Days from Decision to Reallocate Portfolio Funds
 ```
 
 ## Unit

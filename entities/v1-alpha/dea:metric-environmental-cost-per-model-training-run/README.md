@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Environmental Cost per Model Training 
 - **Canonical id:** `dea:metric-environmental-cost-per-model-training-run`
 - **Name:** Environmental Cost per Model Training Run
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECMTR
 
@@ -18,7 +18,7 @@ Environmental Cost per Model Training Run (ECMTR) captures environmental and soc
 ## Formula
 
 ```
-Energy Consumed per Training Run
+ECMTR = Energy Consumed per Training Run
 ```
 
 ## Unit

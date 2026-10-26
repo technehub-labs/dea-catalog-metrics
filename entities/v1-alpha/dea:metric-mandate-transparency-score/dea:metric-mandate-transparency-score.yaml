@@ -8,7 +8,7 @@ description: 'Within PMO & Portfolio Governance, Mandate Transparency Score (MTS
   losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance frameworks.'
 abbreviation: MTS
 unit: score
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - governance
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Stakeholder Clarity Rating of Portfolio Priorities
 formula_definition:
   formula_id: dea:formula-mandate-transparency-score
-  expression: Stakeholder Clarity Rating of Portfolio Priorities
+  expression: MTS = Stakeholder Clarity Rating of Portfolio Priorities
   inputs:
   - name: Stakeholder Clarity Rating of Portfolio Priorities
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-score
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,9 +46,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3415
     batch: '7'
 domain: pmo_portfolio_governance
+subject_concept: dea:subject-mandate_transparency
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3415
+  - Public domain - no attribution required
+  known_limitations: []

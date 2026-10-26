@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Growth Capture Ratio** (MGCR) i
 - **Canonical id:** `dea:metric-market-growth-capture-ratio`
 - **Name:** Market Growth Capture Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MGCR
 
@@ -22,7 +22,7 @@ Measures how much of the market's growth the company captured. Capture below 100
 ## Formula
 
 ```
-Entity Growth Rate / Market Growth Rate
+MGCR = Entity Growth Rate / Market Growth Rate
 ```
 
 ## Unit

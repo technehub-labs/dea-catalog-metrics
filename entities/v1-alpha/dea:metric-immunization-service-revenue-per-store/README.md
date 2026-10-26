@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Immunization Service Revenue per Store
 - **Canonical id:** `dea:metric-immunization-service-revenue-per-store`
 - **Name:** Immunization Service Revenue per Store
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISRS
 
@@ -18,7 +18,7 @@ Within Pharmacy Retail, Immunization Service Revenue per Store (ISRS) is used to
 ## Formula
 
 ```
-Vaccination Revenue / Stores
+ISRS = Vaccination Revenue / Stores
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offboarding Completeness Rate** (OCR-T
 - **Canonical id:** `dea:metric-offboarding-completeness-rate`
 - **Name:** Offboarding Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR-TP
 
@@ -18,7 +18,7 @@ Offboarding Completeness Rate (OCR-TP) captures exposure to adverse outcomes for
 ## Formula
 
 ```
-Offboardings with Access, Data, Asset Recovery Completed / Offboardings
+OCR-TP = Offboardings with Access, Data, Asset Recovery Completed / Offboardings
 ```
 
 ## Unit

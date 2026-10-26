@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Validity Rate** (DVR-DQ) in the O
 - **Canonical id:** `dea:metric-data-validity-rate`
 - **Name:** Data Validity Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVR-DQ
 
@@ -18,7 +18,7 @@ Data Validity Rate (DVR-DQ) captures the quality of outputs and outcomes for org
 ## Formula
 
 ```
-Values Passing Format and Range Rules / Values
+DVR-DQ = Values Passing Format and Range Rules / Values
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Look-to-Book Ratio** (L2B) in the Open
 - **Canonical id:** `dea:metric-look-to-book-ratio`
 - **Name:** Look-to-Book Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** L2B
 
@@ -22,7 +22,7 @@ Measures bookings relative to searches or lookups. It matters because it diagnos
 ## Formula
 
 ```
-Bookings / Search or Quote Requests
+L2B = Bookings / Search or Quote Requests
 ```
 
 ## Unit

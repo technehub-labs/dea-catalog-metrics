@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Stay** (ALOS) in the
 - **Canonical id:** `dea:metric-average-length-of-stay`
 - **Name:** Average Length of Stay
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALOS
 
@@ -22,7 +22,7 @@ The mean days a patient occupies a bed per admission - the canonical throughput 
 ## Formula
 
 ```
-Total Inpatient Days / Total Discharges
+ALOS = Total Inpatient Days / Total Discharges
 ```
 
 ## Unit

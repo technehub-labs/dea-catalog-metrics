@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Configuration Backup Compliance** (CBC
 - **Canonical id:** `dea:metric-configuration-backup-compliance`
 - **Name:** Configuration Backup Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBC-NW
 
@@ -18,7 +18,7 @@ Configuration Backup Compliance (CBC-NW) captures exposure to adverse outcomes f
 ## Formula
 
 ```
-Devices with Daily Config Backup / Devices
+CBC-NW = Devices with Daily Config Backup / Devices
 ```
 
 ## Unit

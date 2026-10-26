@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Rate - Agents (Deep Dive)** 
 - **Canonical id:** `dea:metric-attrition-rate-agents-deep-dive`
 - **Name:** Attrition Rate - Agents (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARR-D
 
@@ -22,7 +22,7 @@ Measures contact center agent turnover. Agent churn is the dominant capability d
 ## Formula
 
 ```
-Agents Leaving / Agents Employed
+ARR-D = Agents Leaving / Agents Employed
 ```
 
 ## Unit

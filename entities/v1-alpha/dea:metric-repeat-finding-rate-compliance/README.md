@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Finding Rate (Compliance)** (RF
 - **Canonical id:** `dea:metric-repeat-finding-rate-compliance`
 - **Name:** Repeat Finding Rate (Compliance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFRC
 
@@ -18,7 +18,7 @@ Repeat Finding Rate (Compliance) (RFRC) measures the quality of outputs and outc
 ## Formula
 
 ```
-Findings Recurring from Prior Cycle / Findings
+RFRC = Findings Recurring from Prior Cycle / Findings
 ```
 
 ## Unit

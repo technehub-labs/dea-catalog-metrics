@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Containment Rate** (CCR-T2) in th
 - **Canonical id:** `dea:metric-care-containment-rate`
 - **Name:** Care Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-T2
 
@@ -18,7 +18,7 @@ Within Telecom Customer Experience & Billing, Care Containment Rate (CCR-T2) is 
 ## Formula
 
 ```
-Issues Resolved in Care without Dispatch or Escalation / Issues
+CCR-T2 = Issues Resolved in Care without Dispatch or Escalation / Issues
 ```
 
 ## Unit

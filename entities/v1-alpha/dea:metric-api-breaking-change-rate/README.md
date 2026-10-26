@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Breaking Change Rate** (APBCR) in 
 - **Canonical id:** `dea:metric-api-breaking-change-rate`
 - **Name:** API Breaking Change Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APBCR
 
@@ -18,7 +18,7 @@ API Breaking Change Rate (APBCR) captures exposure to adverse outcomes for organ
 ## Formula
 
 ```
-Breaking Changes per API Version
+APBCR = Breaking Changes per API Version
 ```
 
 ## Unit

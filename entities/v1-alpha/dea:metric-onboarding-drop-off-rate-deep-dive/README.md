@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Drop-off Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-onboarding-drop-off-rate-deep-dive`
 - **Name:** Onboarding Drop-off Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODOR-D
 
@@ -18,7 +18,7 @@ Onboarding Drop-off Rate (Deep Dive) (ODOR-D) measures exposure to adverse outco
 ## Formula
 
 ```
-Customers Abandoning Onboarding / Starts
+ODOR-D = Customers Abandoning Onboarding / Starts
 ```
 
 ## Unit

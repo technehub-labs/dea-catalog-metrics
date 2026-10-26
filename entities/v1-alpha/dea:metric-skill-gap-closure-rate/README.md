@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skill Gap Closure Rate** (SGCR) in the
 - **Canonical id:** `dea:metric-skill-gap-closure-rate`
 - **Name:** Skill Gap Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGCR
 
@@ -22,7 +22,7 @@ Skill gap closure rate tracks progress against a defined skills taxonomy - the s
 ## Formula
 
 ```
-Closed Skill Gaps / Identified Skill Gaps
+SGCR = Closed Skill Gaps / Identified Skill Gaps
 ```
 
 ## Unit

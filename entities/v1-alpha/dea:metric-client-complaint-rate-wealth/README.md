@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Complaint Rate (Wealth)** (CCR-
 - **Canonical id:** `dea:metric-client-complaint-rate-wealth`
 - **Name:** Client Complaint Rate (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-W
 
@@ -22,7 +22,7 @@ Client complaint rate measures formal grievances per client or per account, and 
 ## Formula
 
 ```
-Complaints / 1,000 Client Relationships
+CCR-W = Complaints / 1,000 Client Relationships
 ```
 
 ## Unit

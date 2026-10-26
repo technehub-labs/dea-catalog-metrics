@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Safety Compliance Rate** (FSCR) 
 - **Canonical id:** `dea:metric-field-safety-compliance-rate`
 - **Name:** Field Safety Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSCR
 
@@ -18,7 +18,7 @@ Within Telecom Field & Installation, Field Safety Compliance Rate (FSCR) is used
 ## Formula
 
 ```
-Audited Jobs Meeting Safety Standards / Jobs Audited
+FSCR = Audited Jobs Meeting Safety Standards / Jobs Audited
 ```
 
 ## Unit

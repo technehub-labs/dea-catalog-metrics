@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Payable Outstanding (Deep Dive)**
 - **Canonical id:** `dea:metric-days-payable-outstanding-deep-dive`
 - **Name:** Days Payable Outstanding (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPODD
 
@@ -22,7 +22,7 @@ Measures the average time taken to pay suppliers. DPO is working capital, but al
 ## Formula
 
 ```
-Average Days from Invoice to Payment
+DPODD = Average Days from Invoice to Payment
 ```
 
 ## Unit

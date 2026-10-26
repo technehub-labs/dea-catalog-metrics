@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Security Cost per Workload** (CS
 - **Canonical id:** `dea:metric-cloud-security-cost-per-workload`
 - **Name:** Cloud Security Cost per Workload
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSCW
 
@@ -18,7 +18,7 @@ Cloud Security Cost per Workload (CSCW) addresses how efficiently resources are 
 ## Formula
 
 ```
-Annual Cloud Security Spend / Managed Workloads
+CSCW = Annual Cloud Security Spend / Managed Workloads
 ```
 
 ## Unit

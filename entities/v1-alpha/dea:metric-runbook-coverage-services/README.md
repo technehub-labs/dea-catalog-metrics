@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runbook Coverage (Services)** (RBCS) i
 - **Canonical id:** `dea:metric-runbook-coverage-services`
 - **Name:** Runbook Coverage (Services)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBCS
 
@@ -18,7 +18,7 @@ Runbook Coverage (Services) (RBCS) addresses capability maturity or development 
 ## Formula
 
 ```
-Critical Alerts with Runbook / Critical Alert Types
+RBCS = Critical Alerts with Runbook / Critical Alert Types
 ```
 
 ## Unit

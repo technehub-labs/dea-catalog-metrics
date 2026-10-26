@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cycle Time per Shot (Injection Molding
 - **Canonical id:** `dea:metric-cycle-time-per-shot-injection-molding`
 - **Name:** Cycle Time per Shot (Injection Molding)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTPS
 
@@ -18,7 +18,7 @@ Cycle Time per Shot (Injection Molding) (CTPS) measures how efficiently resource
 ## Formula
 
 ```
-Seconds per Molding Cycle
+CTPS = Seconds per Molding Cycle
 ```
 
 ## Unit

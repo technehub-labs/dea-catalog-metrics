@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Transparency Reporting Compliance** (T
 - **Canonical id:** `dea:metric-transparency-reporting-compliance`
 - **Name:** Transparency Reporting Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRC
 
@@ -18,7 +18,7 @@ Within Government & Public Administration, Transparency Reporting Compliance (TR
 ## Formula
 
 ```
-Disclosures Published on Schedule / Disclosures Required
+TRC = Disclosures Published on Schedule / Disclosures Required
 ```
 
 ## Unit

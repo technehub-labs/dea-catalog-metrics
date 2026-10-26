@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Communication Compliance** (RC
 - **Canonical id:** `dea:metric-release-communication-compliance`
 - **Name:** Release Communication Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCC-RM
 
@@ -18,7 +18,7 @@ Release Communication Compliance (RCC-RM) addresses conformance to standards, pl
 ## Formula
 
 ```
-Stakeholder Notices Sent per Policy / Releases
+RCC-RM = Stakeholder Notices Sent per Policy / Releases
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Story WIP per Team Member** (SWTM-AG) 
 - **Canonical id:** `dea:metric-story-wip-per-team-member`
 - **Name:** Story WIP per Team Member
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SWTM-AG
 
@@ -18,7 +18,7 @@ Story WIP per Team Member (SWTM-AG) captures how efficiently resources are conve
 ## Formula
 
 ```
-In-Progress Stories / Team Members
+SWTM-AG = In-Progress Stories / Team Members
 ```
 
 ## Unit

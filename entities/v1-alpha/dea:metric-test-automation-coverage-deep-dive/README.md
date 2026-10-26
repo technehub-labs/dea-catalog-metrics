@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Automation Coverage (Deep Dive)**
 - **Canonical id:** `dea:metric-test-automation-coverage-deep-dive`
 - **Name:** Test Automation Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAC-QA
 
@@ -22,7 +22,7 @@ Measures the share of defined test cases executed by automated suites rather tha
 ## Formula
 
 ```
-Automated Test Cases / Total Test Cases
+TAC-QA = Automated Test Cases / Total Test Cases
 ```
 
 ## Unit

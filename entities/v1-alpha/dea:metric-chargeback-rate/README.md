@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chargeback Rate** (CBKR) in the OpenDE
 - **Canonical id:** `dea:metric-chargeback-rate`
 - **Name:** Chargeback Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBKR
 
@@ -22,7 +22,7 @@ Chargeback rate is disputed transactions as a share of total count, and it is th
 ## Formula
 
 ```
-Chargebacks / Total Transactions
+CBKR = Chargebacks / Total Transactions
 ```
 
 ## Unit

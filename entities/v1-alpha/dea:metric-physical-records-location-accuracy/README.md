@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physical Records Location Accuracy** (
 - **Canonical id:** `dea:metric-physical-records-location-accuracy`
 - **Name:** Physical Records Location Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRLA
 
@@ -18,7 +18,7 @@ Physical Records Location Accuracy (PRLA) measures the quality of outputs and ou
 ## Formula
 
 ```
-Physical Files at Recorded Location / Files Sampled
+PRLA = Physical Files at Recorded Location / Files Sampled
 ```
 
 ## Unit

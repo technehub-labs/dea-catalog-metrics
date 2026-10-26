@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experiment Win Rate - Business Experim
 - **Canonical id:** `dea:metric-experiment-win-rate-business-experiments`
 - **Name:** Experiment Win Rate - Business Experiments
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EWR-B
 
@@ -22,7 +22,7 @@ Measures the share of tested hypotheses that produce confirmed improvements. It 
 ## Formula
 
 ```
-Experiments with Statistically Significant Uplift / Experiments
+EWR-B = Experiments with Statistically Significant Uplift / Experiments
 ```
 
 ## Unit

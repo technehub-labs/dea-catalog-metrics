@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-Discovery Readiness Score** (EDRS) i
 - **Canonical id:** `dea:metric-e-discovery-readiness-score`
 - **Name:** E-Discovery Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDRS
 
@@ -18,7 +18,7 @@ E-Discovery Readiness Score (EDRS) measures capability maturity or development i
 ## Formula
 
 ```
-Rubric of Indexing, Collection and Processing Readiness
+EDRS = Rubric of Indexing, Collection and Processing Readiness
 ```
 
 ## Unit

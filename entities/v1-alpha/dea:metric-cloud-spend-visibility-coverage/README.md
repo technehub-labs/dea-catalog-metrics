@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Spend Visibility Coverage** (CSV
 - **Canonical id:** `dea:metric-cloud-spend-visibility-coverage`
 - **Name:** Cloud Spend Visibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSVC-ITFM
 
@@ -18,7 +18,7 @@ Cloud Spend Visibility Coverage (CSVC-ITFM) captures the quality of outputs and 
 ## Formula
 
 ```
-Tagged and Allocated Cloud Spend / Total Cloud Spend
+CSVC-ITFM = Tagged and Allocated Cloud Spend / Total Cloud Spend
 ```
 
 ## Unit

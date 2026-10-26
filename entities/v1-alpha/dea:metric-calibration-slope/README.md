@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calibration Slope** (CALS) in the Open
 - **Canonical id:** `dea:metric-calibration-slope`
 - **Name:** Calibration Slope
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CALS
 
@@ -18,7 +18,7 @@ Calibration Slope (CALS) captures the quality of outputs and outcomes for organi
 ## Formula
 
 ```
-Slope of Observed vs Predicted Probability Fit
+CALS = Slope of Observed vs Predicted Probability Fit
 ```
 
 ## Unit

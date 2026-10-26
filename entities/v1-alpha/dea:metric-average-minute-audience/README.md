@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Minute Audience** (AMA) in the
 - **Canonical id:** `dea:metric-average-minute-audience`
 - **Name:** Average Minute Audience
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMA
 
@@ -22,7 +22,7 @@ The average number of viewers or listeners per minute across a broadcast period 
 ## Formula
 
 ```
-Average Viewers or Listeners Watching per Minute
+AMA = Average Viewers or Listeners Watching per Minute
 ```
 
 ## Unit

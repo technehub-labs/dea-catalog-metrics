@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App ANR Rate (App Not Responding)** (A
 - **Canonical id:** `dea:metric-app-anr-rate-app-not-responding`
 - **Name:** App ANR Rate (App Not Responding)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ANRR
 
@@ -18,7 +18,7 @@ App ANR Rate (App Not Responding) (ANRR) captures the quality of outputs and out
 ## Formula
 
 ```
-ANR Events / Sessions
+ANRR = ANR Events / Sessions
 ```
 
 ## Unit

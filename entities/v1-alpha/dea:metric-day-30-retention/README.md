@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Day 30 Retention** (D30R) in the OpenD
 - **Canonical id:** `dea:metric-day-30-retention`
 - **Name:** Day 30 Retention
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D30R
 
@@ -22,7 +22,7 @@ The share of a cohort still active after a month - the mature-checkpoint retenti
 ## Formula
 
 ```
-Players Returning on Day 30 / New Player Cohort
+D30R = Players Returning on Day 30 / New Player Cohort
 ```
 
 ## Unit

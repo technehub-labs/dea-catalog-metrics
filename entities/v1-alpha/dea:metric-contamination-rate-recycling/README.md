@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contamination Rate (Recycling)** (CNTR
 - **Canonical id:** `dea:metric-contamination-rate-recycling`
 - **Name:** Contamination Rate (Recycling)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CNTR
 
@@ -22,7 +22,7 @@ Measures the share of non-target or unusable material in recycled streams. It ma
 ## Formula
 
 ```
-Non-Recyclable Items in Recycling Stream / Recycling Stream
+CNTR = Non-Recyclable Items in Recycling Stream / Recycling Stream
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Viewing Hours per Subscriber**
 - **Canonical id:** `dea:metric-monthly-viewing-hours-per-subscriber`
 - **Name:** Monthly Viewing Hours per Subscriber
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVHS
 
@@ -22,7 +22,7 @@ Measures engagement depth per account. It is the leading indicator of churn and 
 ## Formula
 
 ```
-Hours Streamed / Subscribers
+MVHS = Hours Streamed / Subscribers
 ```
 
 ## Unit

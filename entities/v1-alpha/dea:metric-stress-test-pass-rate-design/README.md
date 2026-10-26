@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stress Test Pass Rate (Design)** (STPR
 - **Canonical id:** `dea:metric-stress-test-pass-rate-design`
 - **Name:** Stress Test Pass Rate (Design)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STPR
 
@@ -18,7 +18,7 @@ A Engineering & Design indicator, Stress Test Pass Rate (Design) (STPR) quantifi
 ## Formula
 
 ```
-Components Passing Stress Analysis / Components Assessed
+STPR = Components Passing Stress Analysis / Components Assessed
 ```
 
 ## Unit

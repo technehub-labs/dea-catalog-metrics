@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pasture Utilization Rate** (PUR) in th
 - **Canonical id:** `dea:metric-pasture-utilization-rate`
 - **Name:** Pasture Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PUR
 
@@ -18,7 +18,7 @@ Within Agriculture & Agronomy (Deep Dive), Pasture Utilization Rate (PUR) is use
 ## Formula
 
 ```
-Grazed Pasture / Grown Pasture
+PUR = Grazed Pasture / Grown Pasture
 ```
 
 ## Unit

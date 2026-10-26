@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Center Availability** (DCA) in th
 - **Canonical id:** `dea:metric-data-center-availability`
 - **Name:** Data Center Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCA
 
@@ -22,7 +22,7 @@ Data center availability measures facility uptime against design tiers - the Upt
 ## Formula
 
 ```
-Uptime across Redundancy Tier / Total Time
+DCA = Uptime across Redundancy Tier / Total Time
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Point of Failure Count** (SPOF)
 - **Canonical id:** `dea:metric-single-point-of-failure-count`
 - **Name:** Single Point of Failure Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPOF
 
@@ -22,7 +22,7 @@ Measures the number of components - systems, suppliers, sites, people, network p
 ## Formula
 
 ```
-Identified Unremediated Single Points of Failure
+SPOF = Identified Unremediated Single Points of Failure
 ```
 
 ## Unit

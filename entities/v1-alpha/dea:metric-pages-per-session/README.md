@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pages per Session** (PPS-WDA) in the O
 - **Canonical id:** `dea:metric-pages-per-session`
 - **Name:** Pages per Session
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPS-WDA
 
@@ -18,7 +18,7 @@ Pages per Session (PPS-WDA) addresses the engagement or satisfaction of the peop
 ## Formula
 
 ```
-Pageviews / Sessions
+PPS-WDA = Pageviews / Sessions
 ```
 
 ## Unit

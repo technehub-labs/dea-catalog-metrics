@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Respond - Security** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-respond-security`
 - **Name:** Mean Time to Respond - Security
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTR-S
 
@@ -22,7 +22,7 @@ Measures the average time from alert to an analyst actively working the incident
 ## Formula
 
 ```
-Minutes from Confirmed Alert to Response Initiated
+MTTR-S = Minutes from Confirmed Alert to Response Initiated
 ```
 
 ## Unit

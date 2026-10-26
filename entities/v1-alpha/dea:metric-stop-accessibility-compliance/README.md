@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stop Accessibility Compliance** (SAC-T
 - **Canonical id:** `dea:metric-stop-accessibility-compliance`
 - **Name:** Stop Accessibility Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAC-T
 
@@ -22,7 +22,7 @@ Measures the share of stops and stations meeting accessibility standards (ramps,
 ## Formula
 
 ```
-Stops Meeting Accessibility Standard / Stops
+SAC-T = Stops Meeting Accessibility Standard / Stops
 ```
 
 ## Unit

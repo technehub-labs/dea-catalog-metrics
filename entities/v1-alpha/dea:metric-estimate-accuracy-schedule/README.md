@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Estimate Accuracy - Schedule** (EAS-PM
 - **Canonical id:** `dea:metric-estimate-accuracy-schedule`
 - **Name:** Estimate Accuracy - Schedule
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EAS-PM
 
@@ -22,7 +22,7 @@ Measures the historical reliability of project duration estimates. Chronic under
 ## Formula
 
 ```
-Actual Duration / Estimated Duration at Milestone
+EAS-PM = Actual Duration / Estimated Duration at Milestone
 ```
 
 ## Unit

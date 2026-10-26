@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return Book Rate (Publishing)** (RBR-P
 - **Canonical id:** `dea:metric-return-book-rate-publishing`
 - **Name:** Return Book Rate (Publishing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBR-P
 
@@ -18,7 +18,7 @@ Within Publishing & News Media, Return Book Rate (Publishing) (RBR-P) is used to
 ## Formula
 
 ```
-Books Returned / Books Shipped to Retail
+RBR-P = Books Returned / Books Shipped to Retail
 ```
 
 ## Unit

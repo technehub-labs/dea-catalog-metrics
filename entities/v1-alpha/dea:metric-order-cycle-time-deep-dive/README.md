@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Cycle Time (Deep Dive)** (OCTDD)
 - **Canonical id:** `dea:metric-order-cycle-time-deep-dive`
 - **Name:** Order Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCTDD
 
@@ -18,7 +18,7 @@ Order Cycle Time (Deep Dive) (OCTDD) measures how efficiently resources are conv
 ## Formula
 
 ```
-Days from Customer Order to Delivery
+OCTDD = Days from Customer Order to Delivery
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Repair (Deep Dive)** (MTT
 - **Canonical id:** `dea:metric-mean-time-to-repair-deep-dive`
 - **Name:** Mean Time to Repair (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTR-D
 
@@ -18,7 +18,7 @@ A Telecom Network Operations (Deep Dive) indicator, Mean Time to Repair (Deep Di
 ## Formula
 
 ```
-Hours from Fault to Restoration
+MTTR-D = Hours from Fault to Restoration
 ```
 
 ## Unit

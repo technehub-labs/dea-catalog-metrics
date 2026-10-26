@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turns (Bulk Materials)** (IT
 - **Canonical id:** `dea:metric-inventory-turns-bulk-materials`
 - **Name:** Inventory Turns (Bulk Materials)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITBM
 
@@ -18,7 +18,7 @@ Within Cement & Building Materials, Inventory Turns (Bulk Materials) (ITBM) is u
 ## Formula
 
 ```
-Annual Volume / Average Silo Stock
+ITBM = Annual Volume / Average Silo Stock
 ```
 
 ## Unit

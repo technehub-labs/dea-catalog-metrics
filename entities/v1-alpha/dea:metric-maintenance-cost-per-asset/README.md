@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Cost per Asset** (MCA) in 
 - **Canonical id:** `dea:metric-maintenance-cost-per-asset`
 - **Name:** Maintenance Cost per Asset
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCA
 
@@ -22,7 +22,7 @@ Measures average maintenance spend per asset or per unit of replacement value. I
 ## Formula
 
 ```
-Total Maintenance Cost / Assets in Service
+MCA = Total Maintenance Cost / Assets in Service
 ```
 
 ## Unit

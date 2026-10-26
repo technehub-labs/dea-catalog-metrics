@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Scope Adherence** (RSA-RM) in 
 - **Canonical id:** `dea:metric-release-scope-adherence`
 - **Name:** Release Scope Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSA-RM
 
@@ -18,7 +18,7 @@ Release Scope Adherence (RSA-RM) addresses conformance to standards, plans, or o
 ## Formula
 
 ```
-Delivered Scope vs Committed Scope / Committed
+RSA-RM = Delivered Scope vs Committed Scope / Committed
 ```
 
 ## Unit

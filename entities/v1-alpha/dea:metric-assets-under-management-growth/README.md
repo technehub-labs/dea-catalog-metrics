@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assets Under Management Growth** (AUMG
 - **Canonical id:** `dea:metric-assets-under-management-growth`
 - **Name:** Assets Under Management Growth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUMG
 
@@ -22,7 +22,7 @@ Period growth in total client assets managed - the top-line expansion metric for
 ## Formula
 
 ```
-(AUM_current - AUM_prior) / AUM_prior
+AUMG = (AUM_current - AUM_prior) / AUM_prior
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Traveler Rate** (RTR-T) in the 
 - **Canonical id:** `dea:metric-repeat-traveler-rate`
 - **Name:** Repeat Traveler Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTR-T
 
@@ -22,7 +22,7 @@ Measures the share of customers who book again within a period. It matters becau
 ## Formula
 
 ```
-Travelers Booking Again within Period / Travelers
+RTR-T = Travelers Booking Again within Period / Travelers
 ```
 
 ## Unit

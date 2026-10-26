@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Release Ratio** (ERR-RM) in 
 - **Canonical id:** `dea:metric-emergency-release-ratio`
 - **Name:** Emergency Release Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERR-RM
 
@@ -22,7 +22,7 @@ Measures the share of production changes pushed through emergency, bypass-govern
 ## Formula
 
 ```
-Emergency Releases / Total Releases
+ERR-RM = Emergency Releases / Total Releases
 ```
 
 ## Unit

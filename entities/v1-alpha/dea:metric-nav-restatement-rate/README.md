@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Restatement Rate** (NAVRR) in the 
 - **Canonical id:** `dea:metric-nav-restatement-rate`
 - **Name:** NAV Restatement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAVRR
 
@@ -18,7 +18,7 @@ A Investment Risk & Middle Office Operations indicator, NAV Restatement Rate (NA
 ## Formula
 
 ```
-NAVs Restated / NAVs Published
+NAVRR = NAVs Restated / NAVs Published
 ```
 
 ## Unit

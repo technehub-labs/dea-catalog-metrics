@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claim Denial Rate (Healthcare)** (CDR-
 - **Canonical id:** `dea:metric-claim-denial-rate-healthcare`
 - **Name:** Claim Denial Rate (Healthcare)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-H
 
@@ -22,7 +22,7 @@ Measures the share of claims denied by payers on first submission. It matters be
 ## Formula
 
 ```
-Denied Claims / Claims Submitted
+CDR-H = Denied Claims / Claims Submitted
 ```
 
 ## Unit

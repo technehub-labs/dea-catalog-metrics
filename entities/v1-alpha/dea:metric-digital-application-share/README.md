@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Application Share** (DAS) in t
 - **Canonical id:** `dea:metric-digital-application-share`
 - **Name:** Digital Application Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAS
 
@@ -22,7 +22,7 @@ Digital application share measures the proportion of insurance applications init
 ## Formula
 
 ```
-Applications Submitted Digitally / Total Applications
+DAS = Applications Submitted Digitally / Total Applications
 ```
 
 ## Unit

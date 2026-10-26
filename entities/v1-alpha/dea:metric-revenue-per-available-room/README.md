@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Available Room** (RevPAR) 
 - **Canonical id:** `dea:metric-revenue-per-available-room`
 - **Name:** Revenue per Available Room
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RevPAR
 
@@ -22,7 +22,7 @@ Room revenue divided by available rooms - the product of occupancy and average d
 ## Formula
 
 ```
-Room Revenue / Rooms Available
+RevPAR = Room Revenue / Rooms Available
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cp-Cpk Gap** (CCGAP) in the OpenDEAM M
 - **Canonical id:** `dea:metric-cp-cpk-gap`
 - **Name:** Cp-Cpk Gap
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCGAP
 
@@ -18,7 +18,7 @@ Cp-Cpk Gap (CCGAP) measures the quality of outputs and outcomes in the Process C
 ## Formula
 
 ```
-Cp minus Cpk (Centering Penalty)
+CCGAP = Cp minus Cpk (Centering Penalty)
 ```
 
 ## Unit

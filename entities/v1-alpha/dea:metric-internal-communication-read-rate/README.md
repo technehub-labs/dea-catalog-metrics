@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Communication Read Rate** (IC
 - **Canonical id:** `dea:metric-internal-communication-read-rate`
 - **Name:** Internal Communication Read Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICRR-C
 
@@ -18,7 +18,7 @@ A Corporate Communications & PR (Deep Dive) indicator, Internal Communication Re
 ## Formula
 
 ```
-Employees Reading Announcements / Recipients
+ICRR-C = Employees Reading Announcements / Recipients
 ```
 
 ## Unit

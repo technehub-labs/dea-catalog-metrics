@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Total Recordable Incident Rate** (TRIR
 - **Canonical id:** `dea:metric-total-recordable-incident-rate`
 - **Name:** Total Recordable Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRIR
 
@@ -22,7 +22,7 @@ TRIR, defined by OSHA, is the number of recordable injuries and illnesses per 20
 ## Formula
 
 ```
-(Recordable Injuries x 200,000) / Total Hours Worked
+TRIR = (Recordable Injuries x 200,000) / Total Hours Worked
 ```
 
 ## Unit

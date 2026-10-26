@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Adherence Program Enrollmen
 - **Canonical id:** `dea:metric-medication-adherence-program-enrollment`
 - **Name:** Medication Adherence Program Enrollment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAPE
 
@@ -18,7 +18,7 @@ Within Pharmacy Retail, Medication Adherence Program Enrollment (MAPE) is used t
 ## Formula
 
 ```
-Enrolled Patients / Eligible Patients
+MAPE = Enrolled Patients / Eligible Patients
 ```
 
 ## Unit

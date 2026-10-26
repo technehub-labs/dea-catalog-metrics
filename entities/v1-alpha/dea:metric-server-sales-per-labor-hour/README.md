@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Sales per Labor Hour** (SSPLH) 
 - **Canonical id:** `dea:metric-server-sales-per-labor-hour`
 - **Name:** Server Sales per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSPLH
 
@@ -18,7 +18,7 @@ A Restaurant Operations (Deep Dive) indicator, Server Sales per Labor Hour (SSPL
 ## Formula
 
 ```
-Sales / Labor Hour
+SSPLH = Sales / Labor Hour
 ```
 
 ## Unit

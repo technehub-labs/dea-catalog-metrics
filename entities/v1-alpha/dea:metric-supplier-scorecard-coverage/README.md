@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Scorecard Coverage** (SSC-SS)
 - **Canonical id:** `dea:metric-supplier-scorecard-coverage`
 - **Name:** Supplier Scorecard Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSC-SS
 
@@ -18,7 +18,7 @@ Supplier Scorecard Coverage (SSC-SS) captures the quality of outputs and outcome
 ## Formula
 
 ```
-Strategic Suppliers under Scorecard / Strategic Suppliers
+SSC-SS = Strategic Suppliers under Scorecard / Strategic Suppliers
 ```
 
 ## Unit

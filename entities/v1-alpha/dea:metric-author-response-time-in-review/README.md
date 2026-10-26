@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Author Response Time in Review** (ART-
 - **Canonical id:** `dea:metric-author-response-time-in-review`
 - **Name:** Author Response Time in Review
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ART-PR
 
@@ -18,7 +18,7 @@ Author Response Time in Review (ART-PR) measures how efficiently resources are c
 ## Formula
 
 ```
-Median Hours for Author to Address Comments
+ART-PR = Median Hours for Author to Address Comments
 ```
 
 ## Unit

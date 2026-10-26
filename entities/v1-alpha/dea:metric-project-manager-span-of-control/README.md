@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Manager Span of Control** (PMS
 - **Canonical id:** `dea:metric-project-manager-span-of-control`
 - **Name:** Project Manager Span of Control
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMSOC
 
@@ -18,7 +18,7 @@ Project Manager Span of Control (PMSOC) measures the utilization or availability
 ## Formula
 
 ```
-Concurrent Projects per Manager
+PMSOC = Concurrent Projects per Manager
 ```
 
 ## Unit

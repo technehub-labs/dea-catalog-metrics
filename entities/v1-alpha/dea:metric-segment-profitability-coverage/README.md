@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Segment Profitability Coverage** (SPC-
 - **Canonical id:** `dea:metric-segment-profitability-coverage`
 - **Name:** Segment Profitability Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPC-A
 
@@ -22,7 +22,7 @@ Measures the share of customer segments with verified profitability data. It mat
 ## Formula
 
 ```
-Segments with Current Profitability Model / Active Segments
+SPC-A = Segments with Current Profitability Model / Active Segments
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Defect Cost Recovery Rate** (
 - **Canonical id:** `dea:metric-supplier-defect-cost-recovery-rate`
 - **Name:** Supplier Defect Cost Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDCRR
 
@@ -18,7 +18,7 @@ Supplier Defect Cost Recovery Rate (SDCRR) addresses the economic value created 
 ## Formula
 
 ```
-Quality Costs Recovered from Suppliers / Recoverable Costs
+SDCRR = Quality Costs Recovered from Suppliers / Recoverable Costs
 ```
 
 ## Unit

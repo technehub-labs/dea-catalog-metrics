@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Availability (Cleaning Fleet
 - **Canonical id:** `dea:metric-equipment-availability-cleaning-fleet`
 - **Name:** Equipment Availability (Cleaning Fleet)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EAF-C
 
@@ -18,7 +18,7 @@ Equipment Availability (Cleaning Fleet) (EAF-C) addresses the utilization or ava
 ## Formula
 
 ```
-Available Equipment Hours / Scheduled Hours
+EAF-C = Available Equipment Hours / Scheduled Hours
 ```
 
 ## Unit

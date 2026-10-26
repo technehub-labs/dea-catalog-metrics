@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Action Item Closure Rate** (AICR) in t
 - **Canonical id:** `dea:metric-action-item-closure-rate`
 - **Name:** Action Item Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AICR
 
@@ -18,7 +18,7 @@ Action Item Closure Rate (AICR) measures conformance to standards, plans, or obl
 ## Formula
 
 ```
-Action Items Closed by Due Date / Action Items
+AICR = Action Items Closed by Due Date / Action Items
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Onboard Gig Worker** (TOGW) in
 - **Canonical id:** `dea:metric-time-to-onboard-gig-worker`
 - **Name:** Time to Onboard Gig Worker
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TOGW
 
@@ -18,7 +18,7 @@ Time to Onboard Gig Worker (TOGW) measures how efficiently resources are convert
 ## Formula
 
 ```
-Days from Application to First Task Eligibility
+TOGW = Days from Application to First Task Eligibility
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recyclable Content Share (Packaging)**
 - **Canonical id:** `dea:metric-recyclable-content-share-packaging`
 - **Name:** Recyclable Content Share (Packaging)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCS-P
 
@@ -22,7 +22,7 @@ Measures the share of recycled or recyclable material in packaging by weight or 
 ## Formula
 
 ```
-Recycled Content Mass / Total Packaging Mass
+RCS-P = Recycled Content Mass / Total Packaging Mass
 ```
 
 ## Unit

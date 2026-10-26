@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skills Certification Coverage - Field 
 - **Canonical id:** `dea:metric-skills-certification-coverage-field-deep-dive`
 - **Name:** Skills Certification Coverage - Field (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCCF-D
 
@@ -22,7 +22,7 @@ Measures the share of field technicians holding current certifications required 
 ## Formula
 
 ```
-Technicians Certified for Assigned Work / Technicians
+SCCF-D = Technicians Certified for Assigned Work / Technicians
 ```
 
 ## Unit

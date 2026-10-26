@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Engagement Score Trend (Deep 
 - **Canonical id:** `dea:metric-employee-engagement-score-trend-deep-dive`
 - **Name:** Employee Engagement Score Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EEST-D
 
@@ -22,7 +22,7 @@ Measures the direction of engagement over time. Trend matters: declining engagem
 ## Formula
 
 ```
-Change in Engagement Score between Periods
+EEST-D = Change in Engagement Score between Periods
 ```
 
 ## Unit

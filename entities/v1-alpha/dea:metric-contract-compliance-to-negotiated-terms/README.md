@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Compliance to Negotiated Term
 - **Canonical id:** `dea:metric-contract-compliance-to-negotiated-terms`
 - **Name:** Contract Compliance to Negotiated Terms
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCNT
 
@@ -18,7 +18,7 @@ Contract Compliance to Negotiated Terms (CCNT) addresses conformance to standard
 ## Formula
 
 ```
-Invoices Matching Contract Price / Invoices Sampled
+CCNT = Invoices Matching Contract Price / Invoices Sampled
 ```
 
 ## Unit

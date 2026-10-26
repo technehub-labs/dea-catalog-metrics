@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Plan Accuracy** (WPA-WF) in 
 - **Canonical id:** `dea:metric-workforce-plan-accuracy`
 - **Name:** Workforce Plan Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPA-WF
 
@@ -22,7 +22,7 @@ Measures how closely workforce demand forecasts matched actual needs. Accuracy d
 ## Formula
 
 ```
-Planned vs Actual Headcount Variance / Plan
+WPA-WF = Planned vs Actual Headcount Variance / Plan
 ```
 
 ## Unit

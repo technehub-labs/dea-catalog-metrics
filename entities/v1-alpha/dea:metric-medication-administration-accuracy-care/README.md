@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Administration Accuracy (Ca
 - **Canonical id:** `dea:metric-medication-administration-accuracy-care`
 - **Name:** Medication Administration Accuracy (Care)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAAC
 
@@ -22,7 +22,7 @@ Medication administration accuracy measures error-free administration against to
 ## Formula
 
 ```
-Correct Administrations Observed / Administrations Observed
+MAAC = Correct Administrations Observed / Administrations Observed
 ```
 
 ## Unit

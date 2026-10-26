@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Metering Coverage** (EMC-E) in 
 - **Canonical id:** `dea:metric-energy-metering-coverage`
 - **Name:** Energy Metering Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EMC-E
 
@@ -22,7 +22,7 @@ Measures the share of consumption covered by metered measurement. It matters bec
 ## Formula
 
 ```
-Major Loads Metered / Major Loads
+EMC-E = Major Loads Metered / Major Loads
 ```
 
 ## Unit

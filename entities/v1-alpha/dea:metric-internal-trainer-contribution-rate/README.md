@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Trainer Contribution Rate** (
 - **Canonical id:** `dea:metric-internal-trainer-contribution-rate`
 - **Name:** Internal Trainer Contribution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITCR
 
@@ -18,7 +18,7 @@ Internal Trainer Contribution Rate (ITCR) addresses how efficiently resources ar
 ## Formula
 
 ```
-Sessions Delivered by Internal Experts / Sessions
+ITCR = Sessions Delivered by Internal Experts / Sessions
 ```
 
 ## Unit

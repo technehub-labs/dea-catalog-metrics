@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test First Pass Yield (Deep Dive)** (T
 - **Canonical id:** `dea:metric-test-first-pass-yield-deep-dive`
 - **Name:** Test First Pass Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TFPY-D
 
@@ -22,7 +22,7 @@ Measures devices passing final test on the first attempt. It is the final qualit
 ## Formula
 
 ```
-Units Passing Final Test First Time / Units Tested
+TFPY-D = Units Passing Final Test First Time / Units Tested
 ```
 
 ## Unit

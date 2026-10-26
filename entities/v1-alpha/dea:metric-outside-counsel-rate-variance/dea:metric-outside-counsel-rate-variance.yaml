@@ -8,7 +8,7 @@ description: 'Within Legal Operations, Outside Counsel Rate Variance (OCRV) is u
   Practitioners in nearly any industry can adopt it directly.'
 abbreviation: OCRV
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - governance
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Average Blended Rate vs Standard Rate Benchmark
 formula_definition:
   formula_id: dea:formula-outside-counsel-rate-variance
-  expression: Average Blended Rate vs Standard Rate Benchmark
+  expression: OCRV = Average Blended Rate vs Standard Rate Benchmark
   inputs:
   - name: Average Blended Rate vs Standard Rate Benchmark
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,9 +46,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 1672
     batch: '6'
 domain: legal_operations
+subject_concept: dea:subject-outside_counsel
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1672
+  - Public domain - no attribution required
+  known_limitations: []

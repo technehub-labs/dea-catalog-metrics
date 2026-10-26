@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel On-Time Arrival Rate (Deep Dive
 - **Canonical id:** `dea:metric-vessel-on-time-arrival-rate-deep-dive`
 - **Name:** Vessel On-Time Arrival Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VOTA-D
 
@@ -22,7 +22,7 @@ Measures schedule reliability of vessel arrivals within tolerance windows. Ocean
 ## Formula
 
 ```
-Arrivals within Window / Port Calls
+VOTA-D = Arrivals within Window / Port Calls
 ```
 
 ## Unit

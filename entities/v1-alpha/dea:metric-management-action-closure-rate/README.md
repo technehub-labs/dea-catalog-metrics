@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Management Action Closure Rate** (MACR
 - **Canonical id:** `dea:metric-management-action-closure-rate`
 - **Name:** Management Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MACR
 
@@ -22,7 +22,7 @@ Measures the share of agreed audit management actions closed on time. It matters
 ## Formula
 
 ```
-Actions Closed by Due Date / Actions Due
+MACR = Actions Closed by Due Date / Actions Due
 ```
 
 ## Unit

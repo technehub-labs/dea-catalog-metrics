@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Detection Coverage (MITRE ATT&C
 - **Canonical id:** `dea:metric-threat-detection-coverage-mitre-att-ck`
 - **Name:** Threat Detection Coverage (MITRE ATT&CK)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDCA
 
@@ -22,7 +22,7 @@ Detection coverage against MITRE ATT&CK measures the share of prioritized advers
 ## Formula
 
 ```
-Techniques with Detectable Coverage / Prioritized Techniques
+TDCA = Techniques with Detectable Coverage / Prioritized Techniques
 ```
 
 ## Unit

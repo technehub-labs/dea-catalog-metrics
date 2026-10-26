@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Fill Rate (Deep Dive)** (LFRDD) i
 - **Canonical id:** `dea:metric-line-fill-rate-deep-dive`
 - **Name:** Line Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LFRDD
 
@@ -18,7 +18,7 @@ Line Fill Rate (Deep Dive) (LFRDD) measures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Order Lines Filled Completely / Lines Ordered
+LFRDD = Order Lines Filled Completely / Lines Ordered
 ```
 
 ## Unit

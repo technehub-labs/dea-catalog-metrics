@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Outside Counsel Rate Variance** (OCRV)
 - **Canonical id:** `dea:metric-outside-counsel-rate-variance`
 - **Name:** Outside Counsel Rate Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCRV
 
@@ -18,7 +18,7 @@ Within Legal Operations, Outside Counsel Rate Variance (OCRV) is used to gauge h
 ## Formula
 
 ```
-Average Blended Rate vs Standard Rate Benchmark
+OCRV = Average Blended Rate vs Standard Rate Benchmark
 ```
 
 ## Unit

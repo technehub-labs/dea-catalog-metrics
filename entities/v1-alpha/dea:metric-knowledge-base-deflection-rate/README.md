@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Base Deflection Rate** (KBDR
 - **Canonical id:** `dea:metric-knowledge-base-deflection-rate`
 - **Name:** Knowledge Base Deflection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KBDR
 
@@ -22,7 +22,7 @@ Measures the share of support demand resolved by knowledge base content without 
 ## Formula
 
 ```
-Issues Self-Resolved via Knowledge Base / Issues Seeking Help
+KBDR = Issues Self-Resolved via Knowledge Base / Issues Seeking Help
 ```
 
 ## Unit

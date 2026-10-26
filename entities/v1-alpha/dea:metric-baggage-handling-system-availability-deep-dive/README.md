@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baggage Handling System Availability (
 - **Canonical id:** `dea:metric-baggage-handling-system-availability-deep-dive`
 - **Name:** Baggage Handling System Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BHSA
 
@@ -18,7 +18,7 @@ Baggage Handling System Availability (Deep Dive) (BHSA) addresses the utilizatio
 ## Formula
 
 ```
-BHS Available Time / Required Time
+BHSA = BHS Available Time / Required Time
 ```
 
 ## Unit

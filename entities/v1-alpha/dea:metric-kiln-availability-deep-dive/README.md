@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kiln Availability (Deep Dive)** (KA-D)
 - **Canonical id:** `dea:metric-kiln-availability-deep-dive`
 - **Name:** Kiln Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KA-D
 
@@ -22,7 +22,7 @@ Measures the share of time the kiln operates versus total time. Kilns are the ca
 ## Formula
 
 ```
-Kiln Operating Hours / Planned Hours
+KA-D = Kiln Operating Hours / Planned Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Review Coverage (Deep Dive)** (CR
 - **Canonical id:** `dea:metric-code-review-coverage-deep-dive`
 - **Name:** Code Review Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-PR
 
@@ -18,7 +18,7 @@ Code Review Coverage (Deep Dive) (CRC-PR) measures the quality of outputs and ou
 ## Formula
 
 ```
-Changes Reviewed before Merge / Total Changes
+CRC-PR = Changes Reviewed before Merge / Total Changes
 ```
 
 ## Unit

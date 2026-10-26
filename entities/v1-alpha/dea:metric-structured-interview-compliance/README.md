@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Structured Interview Compliance** (SIC
 - **Canonical id:** `dea:metric-structured-interview-compliance`
 - **Name:** Structured Interview Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIC-TA
 
@@ -18,7 +18,7 @@ A Talent Acquisition Deep Dive indicator, Structured Interview Compliance (SIC-T
 ## Formula
 
 ```
-Interviews Using Structured Guides / Interviews
+SIC-TA = Interviews Using Structured Guides / Interviews
 ```
 
 ## Unit

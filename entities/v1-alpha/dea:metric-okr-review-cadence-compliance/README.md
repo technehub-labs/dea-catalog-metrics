@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Review Cadence Compliance** (OKRRC
 - **Canonical id:** `dea:metric-okr-review-cadence-compliance`
 - **Name:** OKR Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OKRRCC
 
@@ -18,7 +18,7 @@ Within Enterprise OKR & Performance Management, OKR Review Cadence Compliance (O
 ## Formula
 
 ```
-Check-ins Completed per Cadence / Scheduled
+OKRRCC = Check-ins Completed per Cadence / Scheduled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Retention Rate at Exits (Dee
 - **Canonical id:** `dea:metric-knowledge-retention-rate-at-exits-deep-dive`
 - **Name:** Knowledge Retention Rate at Exits (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KRE-D
 
@@ -18,7 +18,7 @@ Within Balanced Scorecard - Learning & Growth Perspective, Knowledge Retention R
 ## Formula
 
 ```
-Critical Knowledge Transferred on Exit / Exits with Critical Knowledge
+KRE-D = Critical Knowledge Transferred on Exit / Exits with Critical Knowledge
 ```
 
 ## Unit

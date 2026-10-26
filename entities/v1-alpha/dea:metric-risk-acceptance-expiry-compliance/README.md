@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Acceptance Expiry Compliance** (R
 - **Canonical id:** `dea:metric-risk-acceptance-expiry-compliance`
 - **Name:** Risk Acceptance Expiry Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAEC
 
@@ -18,7 +18,7 @@ Risk Acceptance Expiry Compliance (RAEC) captures conformance to standards, plan
 ## Formula
 
 ```
-Accepted Risks Reviewed before Expiry / Accepted Risks
+RAEC = Accepted Risks Reviewed before Expiry / Accepted Risks
 ```
 
 ## Unit

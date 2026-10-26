@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shop Visit Prediction Accuracy** (SVPA
 - **Canonical id:** `dea:metric-shop-visit-prediction-accuracy`
 - **Name:** Shop Visit Prediction Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVPA
 
@@ -22,7 +22,7 @@ Measures how closely predicted engine or component shop visits match actual remo
 ## Formula
 
 ```
-Actual Shop Visits Matched by Forecast / Actual Shop Visits
+SVPA = Actual Shop Visits Matched by Forecast / Actual Shop Visits
 ```
 
 ## Unit

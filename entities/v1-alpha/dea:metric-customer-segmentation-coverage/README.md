@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segmentation Coverage** (CSC-
 - **Canonical id:** `dea:metric-customer-segmentation-coverage`
 - **Name:** Customer Segmentation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSC-A
 
@@ -22,7 +22,7 @@ Measures the share of the customer base covered by maintained segments. It matte
 ## Formula
 
 ```
-Customers with Active Segment Assignment / Customers
+CSC-A = Customers with Active Segment Assignment / Customers
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Merge Revert Rate** (PMRR) in the
 - **Canonical id:** `dea:metric-post-merge-revert-rate`
 - **Name:** Post-Merge Revert Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMRR
 
@@ -18,7 +18,7 @@ A Code Review & Peer Quality indicator, Post-Merge Revert Rate (PMRR) quantifies
 ## Formula
 
 ```
-Reverted Merges / Merged Changes
+PMRR = Reverted Merges / Merged Changes
 ```
 
 ## Unit

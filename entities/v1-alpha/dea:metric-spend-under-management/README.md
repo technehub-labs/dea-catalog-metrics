@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spend under Management** (SuM) in the 
 - **Canonical id:** `dea:metric-spend-under-management`
 - **Name:** Spend under Management
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SuM
 
@@ -22,7 +22,7 @@ The share of total third-party spend that flows through the procurement function
 ## Formula
 
 ```
-Managed Spend / Total Addressable Spend
+SuM = Managed Spend / Total Addressable Spend
 ```
 
 ## Unit

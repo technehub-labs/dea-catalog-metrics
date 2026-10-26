@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Biodiversity Impact Index** (BII) in t
 - **Canonical id:** `dea:metric-biodiversity-impact-index`
 - **Name:** Biodiversity Impact Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BII
 
@@ -22,7 +22,7 @@ A composite quantification of the organization's effect on ecosystems and specie
 ## Formula
 
 ```
-Measured Land or Habitat Impact per Operations
+BII = Measured Land or Habitat Impact per Operations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Point of Failure Count (Deep Di
 - **Canonical id:** `dea:metric-single-point-of-failure-count-deep-dive`
 - **Name:** Single Point of Failure Count (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPOFC
 
@@ -22,7 +22,7 @@ Measures components whose failure alone halts critical services - systems, depen
 ## Formula
 
 ```
-Architectural Single Points of Failure in Production
+SPOFC = Architectural Single Points of Failure in Production
 ```
 
 ## Unit

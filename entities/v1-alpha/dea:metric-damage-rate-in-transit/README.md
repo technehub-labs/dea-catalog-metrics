@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Damage Rate in Transit** (DRIT) in the
 - **Canonical id:** `dea:metric-damage-rate-in-transit`
 - **Name:** Damage Rate in Transit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRIT
 
@@ -18,7 +18,7 @@ A Supply Chain indicator, Damage Rate in Transit (DRIT) quantifies the quality o
 ## Formula
 
 ```
-Damaged Units on Arrival / Units Shipped
+DRIT = Damaged Units on Arrival / Units Shipped
 ```
 
 ## Unit

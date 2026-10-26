@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commit Size Distribution - Small Commi
 - **Canonical id:** `dea:metric-commit-size-distribution-small-commit-rate`
 - **Name:** Commit Size Distribution - Small Commit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSD-SD
 
@@ -18,7 +18,7 @@ Commit Size Distribution - Small Commit Rate (CSD-SD) measures the quality of ou
 ## Formula
 
 ```
-Commits within Size Guideline / Commits
+CSD-SD = Commits within Size Guideline / Commits
 ```
 
 ## Unit

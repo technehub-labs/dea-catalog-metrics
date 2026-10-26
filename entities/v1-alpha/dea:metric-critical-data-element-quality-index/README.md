@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Data Element Quality Index** 
 - **Canonical id:** `dea:metric-critical-data-element-quality-index`
 - **Name:** Critical Data Element Quality Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDEQI
 
@@ -22,7 +22,7 @@ Measures composite quality (accuracy, completeness, timeliness) of the decision-
 ## Formula
 
 ```
-Weighted Quality Score across CDE Dimensions
+CDEQI = Weighted Quality Score across CDE Dimensions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Horizon Anticipation Rate**
 - **Canonical id:** `dea:metric-regulatory-horizon-anticipation-rate`
 - **Name:** Regulatory Horizon Anticipation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RHAR
 
@@ -22,7 +22,7 @@ Measures how often regulatory changes were identified before they were formally 
 ## Formula
 
 ```
-Regulatory Changes Anticipated before Formal Proposal / Material Changes
+RHAR = Regulatory Changes Anticipated before Formal Proposal / Material Changes
 ```
 
 ## Unit

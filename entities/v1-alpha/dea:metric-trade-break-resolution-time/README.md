@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Break Resolution Time** (TBRT) i
 - **Canonical id:** `dea:metric-trade-break-resolution-time`
 - **Name:** Trade Break Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TBRT
 
@@ -18,7 +18,7 @@ Trade Break Resolution Time (TBRT) addresses the quality of outputs and outcomes
 ## Formula
 
 ```
-Hours to Resolve Trade Breaks
+TBRT = Hours to Resolve Trade Breaks
 ```
 
 ## Unit

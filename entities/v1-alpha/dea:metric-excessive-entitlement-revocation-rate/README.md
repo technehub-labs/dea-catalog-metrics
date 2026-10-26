@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excessive Entitlement Revocation Rate*
 - **Canonical id:** `dea:metric-excessive-entitlement-revocation-rate`
 - **Name:** Excessive Entitlement Revocation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EERR-IAM
 
@@ -18,7 +18,7 @@ A Identity & Access Management Operations indicator, Excessive Entitlement Revoc
 ## Formula
 
 ```
-Entitlements Revoked after Recertification Flag / Flagged
+EERR-IAM = Entitlements Revoked after Recertification Flag / Flagged
 ```
 
 ## Unit

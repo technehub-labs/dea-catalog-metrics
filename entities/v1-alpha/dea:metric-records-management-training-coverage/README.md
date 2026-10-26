@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Records Management Training Coverage**
 - **Canonical id:** `dea:metric-records-management-training-coverage`
 - **Name:** Records Management Training Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMTC
 
@@ -18,7 +18,7 @@ Records Management Training Coverage (RMTC) measures capability maturity or deve
 ## Formula
 
 ```
-Staff Completing RIM Training / Staff Creating Records
+RMTC = Staff Completing RIM Training / Staff Creating Records
 ```
 
 ## Unit

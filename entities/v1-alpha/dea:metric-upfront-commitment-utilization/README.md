@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upfront Commitment Utilization** (UCU-
 - **Canonical id:** `dea:metric-upfront-commitment-utilization`
 - **Name:** Upfront Commitment Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UCU-A
 
@@ -18,7 +18,7 @@ Upfront Commitment Utilization (UCU-A) addresses conformance to standards, plans
 ## Formula
 
 ```
-Upfront Inventory Delivered / Committed
+UCU-A = Upfront Inventory Delivered / Committed
 ```
 
 ## Unit

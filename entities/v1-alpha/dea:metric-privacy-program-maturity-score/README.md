@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Program Maturity Score** (PPMS
 - **Canonical id:** `dea:metric-privacy-program-maturity-score`
 - **Name:** Privacy Program Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPMS
 
@@ -22,7 +22,7 @@ Measures the overall maturity of the privacy program across governance, process,
 ## Formula
 
 ```
-Assessed Maturity against Privacy Framework
+PPMS = Assessed Maturity against Privacy Framework
 ```
 
 ## Unit

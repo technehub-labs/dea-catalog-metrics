@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Diversity Spend Share** (SDS)
 - **Canonical id:** `dea:metric-supplier-diversity-spend-share`
 - **Name:** Supplier Diversity Spend Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDS
 
@@ -22,7 +22,7 @@ Measures the share of procurement spend with certified diverse suppliers. It ext
 ## Formula
 
 ```
-Spend with Diverse Suppliers / Total Procurement Spend
+SDS = Spend with Diverse Suppliers / Total Procurement Spend
 ```
 
 ## Unit

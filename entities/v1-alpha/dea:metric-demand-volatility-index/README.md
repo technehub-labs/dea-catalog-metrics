@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Volatility Index** (DVI-MKT) in
 - **Canonical id:** `dea:metric-demand-volatility-index`
 - **Name:** Demand Volatility Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVI-MKT
 
@@ -22,7 +22,7 @@ Measures the variability of demand over time. Volatility drives everything downs
 ## Formula
 
 ```
-Coefficient of Variation of Market Demand
+DVI-MKT = Coefficient of Variation of Market Demand
 ```
 
 ## Unit

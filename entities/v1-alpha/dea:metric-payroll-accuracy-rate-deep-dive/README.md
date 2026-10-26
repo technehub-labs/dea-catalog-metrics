@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payroll Accuracy Rate (Deep Dive)** (P
 - **Canonical id:** `dea:metric-payroll-accuracy-rate-deep-dive`
 - **Name:** Payroll Accuracy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PARD
 
@@ -18,7 +18,7 @@ Payroll Accuracy Rate (Deep Dive) (PARD) captures the quality of outputs and out
 ## Formula
 
 ```
-Payroll Records Paid Correctly / Records Processed
+PARD = Payroll Records Paid Correctly / Records Processed
 ```
 
 ## Unit

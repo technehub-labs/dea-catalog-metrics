@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alternate Site Readiness** (ASR-B) in 
 - **Canonical id:** `dea:metric-alternate-site-readiness`
 - **Name:** Alternate Site Readiness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASR-B
 
@@ -22,7 +22,7 @@ Measures the share of critical operations with tested, ready alternate sites for
 ## Formula
 
 ```
-Alternate Sites Ready and Tested / Required Alternate Sites
+ASR-B = Alternate Sites Ready and Tested / Required Alternate Sites
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Opportunity Slippage Rate** (OSR) in t
 - **Canonical id:** `dea:metric-opportunity-slippage-rate`
 - **Name:** Opportunity Slippage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSR
 
@@ -22,7 +22,7 @@ Measures the share of deals forecast to close in a period that slip into later o
 ## Formula
 
 ```
-Deals Slipping from Forecast Period / Forecast Deals
+OSR = Deals Slipping from Forecast Period / Forecast Deals
 ```
 
 ## Unit

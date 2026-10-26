@@ -7,7 +7,7 @@ Candidate Performance Metric record for **O&M Cost per Megawatt** (OMCMW) in the
 - **Canonical id:** `dea:metric-o-m-cost-per-megawatt`
 - **Name:** O&M Cost per Megawatt
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMCMW
 
@@ -22,7 +22,7 @@ O&M cost per megawatt measures the annual operating and maintenance expense norm
 ## Formula
 
 ```
-Operations and Maintenance Cost / Installed Capacity
+OMCMW = Operations and Maintenance Cost / Installed Capacity
 ```
 
 ## Unit

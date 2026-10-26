@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Check per Guest (Deep Dive)** 
 - **Canonical id:** `dea:metric-average-check-per-guest-deep-dive`
 - **Name:** Average Check per Guest (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACPG-D
 
@@ -18,7 +18,7 @@ A Restaurant Operations (Deep Dive) indicator, Average Check per Guest (Deep Div
 ## Formula
 
 ```
-Revenue / Guests Served
+ACPG-D = Revenue / Guests Served
 ```
 
 ## Unit

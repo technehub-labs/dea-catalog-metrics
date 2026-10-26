@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subscription Retention Rate (Publishin
 - **Canonical id:** `dea:metric-subscription-retention-rate-publishing`
 - **Name:** Subscription Retention Rate (Publishing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR-P
 
@@ -22,7 +22,7 @@ Measures the share of subscribers renewing over a period, the core engine of pub
 ## Formula
 
 ```
-Subscriptions Renewed / Subscriptions Expiring
+SRR-P = Subscriptions Renewed / Subscriptions Expiring
 ```
 
 ## Unit

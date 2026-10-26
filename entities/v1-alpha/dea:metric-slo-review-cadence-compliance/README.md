@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SLO Review Cadence Compliance** (SLOCC
 - **Canonical id:** `dea:metric-slo-review-cadence-compliance`
 - **Name:** SLO Review Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLOCC
 
@@ -18,7 +18,7 @@ A SRE & Observability Standard Measures indicator, SLO Review Cadence Compliance
 ## Formula
 
 ```
-SLOs Reviewed per Cadence / SLOs
+SLOCC = SLOs Reviewed per Cadence / SLOs
 ```
 
 ## Unit

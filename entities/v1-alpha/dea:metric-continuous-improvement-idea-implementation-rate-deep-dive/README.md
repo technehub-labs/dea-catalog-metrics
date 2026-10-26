@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuous Improvement Idea Implementa
 - **Canonical id:** `dea:metric-continuous-improvement-idea-implementation-rate-deep-dive`
 - **Name:** Continuous Improvement Idea Implementation Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIIR-D
 
@@ -22,7 +22,7 @@ Measures the share of employee improvement suggestions actually implemented. Imp
 ## Formula
 
 ```
-Implemented Improvement Ideas / Submitted
+CIIR-D = Implemented Improvement Ideas / Submitted
 ```
 
 ## Unit

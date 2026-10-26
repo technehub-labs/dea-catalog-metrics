@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Filing Success Rate (Pharma)** 
 - **Canonical id:** `dea:metric-patent-filing-success-rate-pharma`
 - **Name:** Patent Filing Success Rate (Pharma)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFSR
 
@@ -22,7 +22,7 @@ Measures grant rates on patent filings protecting molecules, formulations, and i
 ## Formula
 
 ```
-Granted Patents / Filed Patents
+PFSR = Granted Patents / Filed Patents
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Headroom** (LHR) in the Open
 - **Canonical id:** `dea:metric-liquidity-headroom`
 - **Name:** Liquidity Headroom
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LHR
 
@@ -22,7 +22,7 @@ The surplus of available liquidity - cash plus undrawn committed facilities - ov
 ## Formula
 
 ```
-(Available Liquidity - Projected Outflows) / Projected Outflows
+LHR = (Available Liquidity - Projected Outflows) / Projected Outflows
 ```
 
 ## Unit

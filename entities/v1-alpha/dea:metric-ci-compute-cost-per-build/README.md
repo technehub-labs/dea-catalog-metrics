@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Compute Cost per Build** (CICPB) in
 - **Canonical id:** `dea:metric-ci-compute-cost-per-build`
 - **Name:** CI Compute Cost per Build
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CICPB
 
@@ -18,7 +18,7 @@ Within Continuous Integration, CI Compute Cost per Build (CICPB) is used to gaug
 ## Formula
 
 ```
-CI Infrastructure Cost / Builds
+CICPB = CI Infrastructure Cost / Builds
 ```
 
 ## Unit

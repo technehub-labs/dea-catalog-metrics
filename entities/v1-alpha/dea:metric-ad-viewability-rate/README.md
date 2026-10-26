@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Viewability Rate** (AVR-MK) in the 
 - **Canonical id:** `dea:metric-ad-viewability-rate`
 - **Name:** Ad Viewability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVR-MK
 
@@ -18,7 +18,7 @@ Ad Viewability Rate (AVR-MK) captures the quality of outputs and outcomes for or
 ## Formula
 
 ```
-Viewable Impressions / Measurable Impressions
+AVR-MK = Viewable Impressions / Measurable Impressions
 ```
 
 ## Unit

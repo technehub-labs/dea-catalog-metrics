@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idle Equipment Energy Draw** (IED) in 
 - **Canonical id:** `dea:metric-idle-equipment-energy-draw`
 - **Name:** Idle Equipment Energy Draw
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IED
 
@@ -18,7 +18,7 @@ Idle Equipment Energy Draw (IED) captures how efficiently resources are converte
 ## Formula
 
 ```
-Energy Consumed by Idle Equipment / Total Energy
+IED = Energy Consumed by Idle Equipment / Total Energy
 ```
 
 ## Unit

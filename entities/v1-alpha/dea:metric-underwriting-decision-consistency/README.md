@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Underwriting Decision Consistency** (U
 - **Canonical id:** `dea:metric-underwriting-decision-consistency`
 - **Name:** Underwriting Decision Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UDC
 
@@ -18,7 +18,7 @@ A Insurance Underwriting indicator, Underwriting Decision Consistency (UDC) quan
 ## Formula
 
 ```
-Identical Risk Decisions Matching / Identical Risks Sampled
+UDC = Identical Risk Decisions Matching / Identical Risks Sampled
 ```
 
 ## Unit

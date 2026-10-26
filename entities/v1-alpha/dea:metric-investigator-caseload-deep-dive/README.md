@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigator Caseload (Deep Dive)** (I
 - **Canonical id:** `dea:metric-investigator-caseload-deep-dive`
 - **Name:** Investigator Caseload (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICL-D
 
@@ -18,7 +18,7 @@ Investigator Caseload (Deep Dive) (ICL-D) captures the utilization or availabili
 ## Formula
 
 ```
-Open Cases per Investigator
+ICL-D = Open Cases per Investigator
 ```
 
 ## Unit

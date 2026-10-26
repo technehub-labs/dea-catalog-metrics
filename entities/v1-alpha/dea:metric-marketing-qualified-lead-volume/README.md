@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Qualified Lead Volume** (MQL
 - **Canonical id:** `dea:metric-marketing-qualified-lead-volume`
 - **Name:** Marketing Qualified Lead Volume
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MQL
 
@@ -22,7 +22,7 @@ Measures the count of leads meeting the agreed qualification threshold in a peri
 ## Formula
 
 ```
-Count of Leads Meeting Scoring Threshold
+MQL = Count of Leads Meeting Scoring Threshold
 ```
 
 ## Unit

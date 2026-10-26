@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Concentration by Counterparty (Deep Di
 - **Canonical id:** `dea:metric-concentration-by-counterparty-deep-dive`
 - **Name:** Concentration by Counterparty (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBCDD
 
@@ -22,7 +22,7 @@ Measures exposure concentration across obligors. Concentrated books convert sing
 ## Formula
 
 ```
-Largest Exposure / Total Credit Exposure
+CBCDD = Largest Exposure / Total Credit Exposure
 ```
 
 ## Unit

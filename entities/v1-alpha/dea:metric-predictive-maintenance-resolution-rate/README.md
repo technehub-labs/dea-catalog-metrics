@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Predictive Maintenance Resolution Rate
 - **Canonical id:** `dea:metric-predictive-maintenance-resolution-rate`
 - **Name:** Predictive Maintenance Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMRR
 
@@ -22,7 +22,7 @@ Measures how effectively predicted network faults are resolved before failure. I
 ## Formula
 
 ```
-Issues Resolved before Failure via Prediction / Predicted Issues
+PMRR = Issues Resolved before Failure via Prediction / Predicted Issues
 ```
 
 ## Unit

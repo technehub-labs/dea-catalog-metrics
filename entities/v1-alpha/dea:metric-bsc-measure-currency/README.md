@@ -7,7 +7,7 @@ Candidate Performance Metric record for **BSC Measure Currency** (BSMC) in the O
 - **Canonical id:** `dea:metric-bsc-measure-currency`
 - **Name:** BSC Measure Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSMC
 
@@ -18,7 +18,7 @@ BSC Measure Currency (BSMC) addresses the quality of outputs and outcomes and is
 ## Formula
 
 ```
-Measures Refreshed in Period / Measures in Use
+BSMC = Measures Refreshed in Period / Measures in Use
 ```
 
 ## Unit

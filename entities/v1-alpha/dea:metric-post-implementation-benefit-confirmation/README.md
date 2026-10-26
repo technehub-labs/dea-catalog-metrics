@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Implementation Benefit Confirmati
 - **Canonical id:** `dea:metric-post-implementation-benefit-confirmation`
 - **Name:** Post-Implementation Benefit Confirmation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIBC
 
@@ -22,7 +22,7 @@ Measures whether benefits promised in a change business case were independently 
 ## Formula
 
 ```
-Initiatives with Confirmed Benefits at Review / Initiatives Closed
+PIBC = Initiatives with Confirmed Benefits at Review / Initiatives Closed
 ```
 
 ## Unit

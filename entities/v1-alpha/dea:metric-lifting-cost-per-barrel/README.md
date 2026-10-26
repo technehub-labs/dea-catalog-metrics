@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lifting Cost per Barrel** (LCB) in the
 - **Canonical id:** `dea:metric-lifting-cost-per-barrel`
 - **Name:** Lifting Cost per Barrel
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCB
 
@@ -22,7 +22,7 @@ Lifting cost per barrel is the operating expense of producing oil from wells alr
 ## Formula
 
 ```
-Production Lifting Cost / Barrels Produced
+LCB = Production Lifting Cost / Barrels Produced
 ```
 
 ## Unit

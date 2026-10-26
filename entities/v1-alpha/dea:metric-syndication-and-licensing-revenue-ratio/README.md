@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Syndication and Licensing Revenue Rati
 - **Canonical id:** `dea:metric-syndication-and-licensing-revenue-ratio`
 - **Name:** Syndication and Licensing Revenue Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLRR
 
@@ -18,7 +18,7 @@ Syndication and Licensing Revenue Ratio (SLRR) addresses the economic value crea
 ## Formula
 
 ```
-Licensing Revenue / Total Revenue
+SLRR = Licensing Revenue / Total Revenue
 ```
 
 ## Unit

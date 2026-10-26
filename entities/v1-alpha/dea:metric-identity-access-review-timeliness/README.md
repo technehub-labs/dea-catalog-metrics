@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Identity Access Review Timeliness** (I
 - **Canonical id:** `dea:metric-identity-access-review-timeliness`
 - **Name:** Identity Access Review Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IART
 
@@ -18,7 +18,7 @@ Identity Access Review Timeliness (IART) addresses conformance to standards, pla
 ## Formula
 
 ```
-Access Reviews Completed On Time / Reviews Due
+IART = Access Reviews Completed On Time / Reviews Due
 ```
 
 ## Unit

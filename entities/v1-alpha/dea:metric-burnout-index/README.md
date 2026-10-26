@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burnout Index** (BOI) in the OpenDEAM 
 - **Canonical id:** `dea:metric-burnout-index`
 - **Name:** Burnout Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOI
 
@@ -22,7 +22,7 @@ The burnout index measures exhaustion, cynicism, and reduced professional effica
 ## Formula
 
 ```
-Weighted Index of Exhaustion, Cynicism, and Efficacy Survey Items
+BOI = Weighted Index of Exhaustion, Cynicism, and Efficacy Survey Items
 ```
 
 ## Unit

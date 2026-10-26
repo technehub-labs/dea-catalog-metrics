@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Self-Care Adoption (Telecom)**
 - **Canonical id:** `dea:metric-digital-self-care-adoption-telecom`
 - **Name:** Digital Self-Care Adoption (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCA
 
@@ -22,7 +22,7 @@ Measures the share of customer service transactions completed in app or web self
 ## Formula
 
 ```
-Digital Channel Resolutions / Total Resolutions
+DSCA = Digital Channel Resolutions / Total Resolutions
 ```
 
 ## Unit

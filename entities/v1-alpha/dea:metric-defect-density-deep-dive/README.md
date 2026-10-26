@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density (Deep Dive)** (DD-D) in
 - **Canonical id:** `dea:metric-defect-density-deep-dive`
 - **Name:** Defect Density (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DD-D
 
@@ -22,7 +22,7 @@ Measures random and systematic defects per unit area on wafers. It is the diagno
 ## Formula
 
 ```
-Killer Defects per Square Centimetre
+DD-D = Killer Defects per Square Centimetre
 ```
 
 ## Unit

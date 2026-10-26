@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Member Growth** (NMG) in the OpenD
 - **Canonical id:** `dea:metric-net-member-growth`
 - **Name:** Net Member Growth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NMG
 
@@ -22,7 +22,7 @@ Net member growth measures the change in membership base - new members minus can
 ## Formula
 
 ```
-New Members - Cancelled Members per Period
+NMG = New Members - Cancelled Members per Period
 ```
 
 ## Unit

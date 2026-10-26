@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analytics Request Cycle Time** (ARCT-D
 - **Canonical id:** `dea:metric-analytics-request-cycle-time`
 - **Name:** Analytics Request Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARCT-D
 
@@ -18,7 +18,7 @@ Within Data Science & Analytics Operations, Analytics Request Cycle Time (ARCT-D
 ## Formula
 
 ```
-Days from Analytics Request to Delivered Insight
+ARCT-D = Days from Analytics Request to Delivered Insight
 ```
 
 ## Unit

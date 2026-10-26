@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Break Frequency (Paper)** (MBF
 - **Canonical id:** `dea:metric-machine-break-frequency-paper`
 - **Name:** Machine Break Frequency (Paper)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MBF-P
 
@@ -18,7 +18,7 @@ Within Pulp, Paper & Forest Products, Machine Break Frequency (Paper) (MBF-P) is
 ## Formula
 
 ```
-Breaks per 1,000 Machine Hours
+MBF-P = Breaks per 1,000 Machine Hours
 ```
 
 ## Unit

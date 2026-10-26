@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield per Feedstock Ton** (YPFT) in th
 - **Canonical id:** `dea:metric-yield-per-feedstock-ton`
 - **Name:** Yield per Feedstock Ton
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YPFT
 
@@ -22,7 +22,7 @@ Measures product output per ton of feedstock input. It matters because yield is 
 ## Formula
 
 ```
-Product Output Tonnes / Feedstock Tonnes
+YPFT = Product Output Tonnes / Feedstock Tonnes
 ```
 
 ## Unit

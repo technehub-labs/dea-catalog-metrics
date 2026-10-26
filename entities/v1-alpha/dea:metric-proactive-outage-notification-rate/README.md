@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Proactive Outage Notification Rate** (
 - **Canonical id:** `dea:metric-proactive-outage-notification-rate`
 - **Name:** Proactive Outage Notification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PONR
 
@@ -22,7 +22,7 @@ Measures the share of outages communicated to customers before they discover the
 ## Formula
 
 ```
-Outages with Customer Notification before Contact / Outages
+PONR = Outages with Customer Notification before Contact / Outages
 ```
 
 ## Unit

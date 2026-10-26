@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packaging Drop Test Pass Rate** (PDTP)
 - **Canonical id:** `dea:metric-packaging-drop-test-pass-rate`
 - **Name:** Packaging Drop Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDTP
 
@@ -18,7 +18,7 @@ A Packaging & Plastics indicator, Packaging Drop Test Pass Rate (PDTP) quantifie
 ## Formula
 
 ```
-Packages Passing Drop Test / Packages Tested
+PDTP = Packages Passing Drop Test / Packages Tested
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Equipment Effectiveness** (OEE
 - **Canonical id:** `dea:metric-overall-equipment-effectiveness`
 - **Name:** Overall Equipment Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OEE
 
@@ -22,7 +22,7 @@ OEE multiplies three loss factors - Availability (did the machine run?), Perform
 ## Formula
 
 ```
-Availability x Performance x Quality
+OEE = Availability x Performance x Quality
 ```
 
 ## Unit

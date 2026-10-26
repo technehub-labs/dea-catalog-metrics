@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Voice (Deep Dive)** (SOV-D) i
 - **Canonical id:** `dea:metric-share-of-voice-deep-dive`
 - **Name:** Share of Voice (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOV-D
 
@@ -22,7 +22,7 @@ Measures a brand's proportion of the category's total advertising or media expos
 ## Formula
 
 ```
-Brand Impressions / Total Category Impressions
+SOV-D = Brand Impressions / Total Category Impressions
 ```
 
 ## Unit

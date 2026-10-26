@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Table Turnover Rate** (TTR-H) in the O
 - **Canonical id:** `dea:metric-table-turnover-rate`
 - **Name:** Table Turnover Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTR-H
 
@@ -18,7 +18,7 @@ Table Turnover Rate (TTR-H) measures the utilization or availability of capacity
 ## Formula
 
 ```
-Table Service Cycles / Table per Service Period
+TTR-H = Table Service Cycles / Table per Service Period
 ```
 
 ## Unit

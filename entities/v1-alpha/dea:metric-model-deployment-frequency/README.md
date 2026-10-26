@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Deployment Frequency** (MDF-M) i
 - **Canonical id:** `dea:metric-model-deployment-frequency`
 - **Name:** Model Deployment Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDF-M
 
@@ -22,7 +22,7 @@ Measures how often model changes reach production. In modern ML operations, depl
 ## Formula
 
 ```
-Production Model Deployments per Period
+MDF-M = Production Model Deployments per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cognitive Complexity Compliance** (CCC
 - **Canonical id:** `dea:metric-cognitive-complexity-compliance`
 - **Name:** Cognitive Complexity Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC-SD
 
@@ -18,7 +18,7 @@ Cognitive Complexity Compliance (CCC-SD) captures the quality of outputs and out
 ## Formula
 
 ```
-Functions within Cognitive Complexity Limit / Functions
+CCC-SD = Functions within Cognitive Complexity Limit / Functions
 ```
 
 ## Unit

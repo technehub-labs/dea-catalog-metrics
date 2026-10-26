@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interchange Cost per Transaction (Deep
 - **Canonical id:** `dea:metric-interchange-cost-per-transaction-deep-dive`
 - **Name:** Interchange Cost per Transaction (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICPT-D
 
@@ -18,7 +18,7 @@ A Payments & Cards (Deep Dive) indicator, Interchange Cost per Transaction (Deep
 ## Formula
 
 ```
-Interchange Fees / Transactions
+ICPT-D = Interchange Fees / Transactions
 ```
 
 ## Unit

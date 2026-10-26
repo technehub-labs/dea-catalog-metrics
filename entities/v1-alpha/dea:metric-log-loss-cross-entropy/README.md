@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Log Loss (Cross-Entropy)** (LOGL) in t
 - **Canonical id:** `dea:metric-log-loss-cross-entropy`
 - **Name:** Log Loss (Cross-Entropy)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOGL
 
@@ -18,7 +18,7 @@ Log Loss (Cross-Entropy) (LOGL) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Negative Log-Likelihood of Predicted Probabilities
+LOGL = Negative Log-Likelihood of Predicted Probabilities
 ```
 
 ## Unit

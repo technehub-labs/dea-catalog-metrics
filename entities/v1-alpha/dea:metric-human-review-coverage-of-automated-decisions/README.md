@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human Review Coverage of Automated Dec
 - **Canonical id:** `dea:metric-human-review-coverage-of-automated-decisions`
 - **Name:** Human Review Coverage of Automated Decisions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRCAD
 
@@ -22,7 +22,7 @@ Measures the share of consequential automated decisions subject to human review 
 ## Formula
 
 ```
-Automated Decisions Subject to Human Review / Eligible Decisions
+HRCAD = Automated Decisions Subject to Human Review / Eligible Decisions
 ```
 
 ## Unit

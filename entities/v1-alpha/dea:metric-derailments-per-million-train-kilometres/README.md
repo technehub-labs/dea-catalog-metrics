@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Derailments per Million Train Kilometr
 - **Canonical id:** `dea:metric-derailments-per-million-train-kilometres`
 - **Name:** Derailments per Million Train Kilometres
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPMT
 
@@ -22,7 +22,7 @@ Derailments per million train kilometres measures the catastrophic-risk metric o
 ## Formula
 
 ```
-Derailments / Train Kilometres x 1,000,000
+DPMT = Derailments / Train Kilometres x 1,000,000
 ```
 
 ## Unit

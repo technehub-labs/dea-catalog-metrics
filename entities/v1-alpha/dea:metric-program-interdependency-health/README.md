@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Interdependency Health** (PIH-
 - **Canonical id:** `dea:metric-program-interdependency-health`
 - **Name:** Program Interdependency Health
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIH-PPM
 
@@ -22,7 +22,7 @@ Measures the status quality of commitments between programs and initiatives. Int
 ## Formula
 
 ```
-Cross-Program Milestones on Track / Cross-Program Milestones
+PIH-PPM = Cross-Program Milestones on Track / Cross-Program Milestones
 ```
 
 ## Unit

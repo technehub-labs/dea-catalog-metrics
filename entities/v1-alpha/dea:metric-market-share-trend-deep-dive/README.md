@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Share Trend (Deep Dive)** (MST-
 - **Canonical id:** `dea:metric-market-share-trend-deep-dive`
 - **Name:** Market Share Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MST-D
 
@@ -22,7 +22,7 @@ Measures the direction of the company's share of the addressable market. Trend m
 ## Formula
 
 ```
-Change in Market Share between Periods
+MST-D = Change in Market Share between Periods
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Early Warning Indicator Coverage** (EW
 - **Canonical id:** `dea:metric-early-warning-indicator-coverage`
 - **Name:** Early Warning Indicator Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EWIC
 
@@ -22,7 +22,7 @@ Measures how completely emerging risks have defined, monitored indicators with t
 ## Formula
 
 ```
-Emerging Risks with Defined Indicators / Emerging Risks
+EWIC = Emerging Risks with Defined Indicators / Emerging Risks
 ```
 
 ## Unit

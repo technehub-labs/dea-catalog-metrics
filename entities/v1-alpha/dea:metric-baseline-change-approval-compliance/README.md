@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Baseline Change Approval Compliance** 
 - **Canonical id:** `dea:metric-baseline-change-approval-compliance`
 - **Name:** Baseline Change Approval Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCAC-PM
 
@@ -22,7 +22,7 @@ Measures the share of baseline changes (scope, schedule, budget) processed throu
 ## Formula
 
 ```
-Baseline Changes with Approved Change Request / Changes
+BCAC-PM = Baseline Changes with Approved Change Request / Changes
 ```
 
 ## Unit

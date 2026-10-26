@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Fraud Block Rate** (PFBR) in t
 - **Canonical id:** `dea:metric-payment-fraud-block-rate`
 - **Name:** Payment Fraud Block Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFBR
 
@@ -18,7 +18,7 @@ Payment Fraud Block Rate (PFBR) addresses exposure to adverse outcomes and is a 
 ## Formula
 
 ```
-Fraudulent Payment Attempts Blocked / Attempts Detected
+PFBR = Fraudulent Payment Attempts Blocked / Attempts Detected
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Centralization versus Autonomy Balance
 - **Canonical id:** `dea:metric-centralization-versus-autonomy-balance-index`
 - **Name:** Centralization versus Autonomy Balance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVABI
 
@@ -22,7 +22,7 @@ Measures how design authority and execution autonomy are balanced against the in
 ## Formula
 
 ```
-Balance Score of Central and Local Mandates
+CVABI = Balance Score of Central and Local Mandates
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Hire** (TTH) in the OpenDEAM M
 - **Canonical id:** `dea:metric-time-to-hire`
 - **Name:** Time to Hire
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTH
 
@@ -22,7 +22,7 @@ Measures days from candidate application (or first interview) to offer acceptanc
 ## Formula
 
 ```
-Days from Candidate Application to Offer Acceptance
+TTH = Days from Candidate Application to Offer Acceptance
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bandwidth Utilization** (BU-T) in the 
 - **Canonical id:** `dea:metric-bandwidth-utilization`
 - **Name:** Bandwidth Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BU-T
 
@@ -18,7 +18,7 @@ Bandwidth Utilization (BU-T) captures the utilization or availability of capacit
 ## Formula
 
 ```
-Used Capacity / Provisioned Capacity
+BU-T = Used Capacity / Provisioned Capacity
 ```
 
 ## Unit

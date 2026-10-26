@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missing Signature Rate** (MSR-CL) in t
 - **Canonical id:** `dea:metric-missing-signature-rate`
 - **Name:** Missing Signature Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR-CL
 
@@ -18,7 +18,7 @@ Missing Signature Rate (MSR-CL) addresses exposure to adverse outcomes and is a 
 ## Formula
 
 ```
-Counterparty-Unsigned Contracts in Force / Contracts Sampled
+MSR-CL = Counterparty-Unsigned Contracts in Force / Contracts Sampled
 ```
 
 ## Unit

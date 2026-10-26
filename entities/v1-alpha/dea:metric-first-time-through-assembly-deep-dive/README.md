@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Time Through - Assembly (Deep Di
 - **Canonical id:** `dea:metric-first-time-through-assembly-deep-dive`
 - **Name:** First Time Through - Assembly (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTA-D
 
@@ -22,7 +22,7 @@ Measures the share of vehicles moving through assembly without rework or repair.
 ## Formula
 
 ```
-Vehicles Passing without Rework / Vehicles
+FTA-D = Vehicles Passing without Rework / Vehicles
 ```
 
 ## Unit

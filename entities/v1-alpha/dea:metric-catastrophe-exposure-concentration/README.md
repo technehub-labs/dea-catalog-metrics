@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Catastrophe Exposure Concentration** (
 - **Canonical id:** `dea:metric-catastrophe-exposure-concentration`
 - **Name:** Catastrophe Exposure Concentration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEC
 
@@ -22,7 +22,7 @@ Measures accumulation of insured value in catastrophe-prone zones - perils, regi
 ## Formula
 
 ```
-Catastrophe-Exposed Sum Insured / Total Sum Insured
+CEC = Catastrophe-Exposed Sum Insured / Total Sum Insured
 ```
 
 ## Unit

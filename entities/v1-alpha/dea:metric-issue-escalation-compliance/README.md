@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Issue Escalation Compliance** (IEC-P) 
 - **Canonical id:** `dea:metric-issue-escalation-compliance`
 - **Name:** Issue Escalation Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IEC-P
 
@@ -18,7 +18,7 @@ Issue Escalation Compliance (IEC-P) measures conformance to standards, plans, or
 ## Formula
 
 ```
-Issues Escalated per Matrix / Issues Meeting Criteria
+IEC-P = Issues Escalated per Matrix / Issues Meeting Criteria
 ```
 
 ## Unit

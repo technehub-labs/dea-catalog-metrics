@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Training Coverage** (CTC-CD) i
 - **Canonical id:** `dea:metric-channel-training-coverage`
 - **Name:** Channel Training Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTC-CD
 
@@ -18,7 +18,7 @@ Within Channel & Distribution Management, Channel Training Coverage (CTC-CD) is 
 ## Formula
 
 ```
-Partner Staff Completing Required Training / Partner Staff
+CTC-CD = Partner Staff Completing Required Training / Partner Staff
 ```
 
 ## Unit

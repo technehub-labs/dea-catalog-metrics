@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Control Compliance** (ACC-P) in
 - **Canonical id:** `dea:metric-access-control-compliance`
 - **Name:** Access Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACC-P
 
@@ -18,7 +18,7 @@ Access Control Compliance (ACC-P) captures conformance to standards, plans, or o
 ## Formula
 
 ```
-Access Events per Policy / Access Events Audited
+ACC-P = Access Events per Policy / Access Events Audited
 ```
 
 ## Unit

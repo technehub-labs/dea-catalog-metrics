@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Stream Cycle Time (Deep Dive)** 
 - **Canonical id:** `dea:metric-value-stream-cycle-time-deep-dive`
 - **Name:** Value Stream Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSCT-D
 
@@ -22,7 +22,7 @@ Measures end-to-end elapsed time across a value stream from demand to delivery. 
 ## Formula
 
 ```
-End-to-End Time across Value Stream
+VSCT-D = End-to-End Time across Value Stream
 ```
 
 ## Unit

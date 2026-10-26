@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Duration Variance (Refining
 - **Canonical id:** `dea:metric-turnaround-duration-variance-refining`
 - **Name:** Turnaround Duration Variance (Refining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDVR
 
@@ -22,7 +22,7 @@ Measures actual versus planned duration of scheduled major maintenance events. T
 ## Formula
 
 ```
-Actual Turnaround Days - Planned / Planned
+TDVR = Actual Turnaround Days - Planned / Planned
 ```
 
 ## Unit

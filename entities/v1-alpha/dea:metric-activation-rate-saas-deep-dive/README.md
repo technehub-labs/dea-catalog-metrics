@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Activation Rate (SaaS Deep Dive)** (AC
 - **Canonical id:** `dea:metric-activation-rate-saas-deep-dive`
 - **Name:** Activation Rate (SaaS Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACT-D
 
@@ -22,7 +22,7 @@ Measures the share of new accounts reaching defined activation milestones (invit
 ## Formula
 
 ```
-Accounts Reaching Activation / Signups
+ACT-D = Accounts Reaching Activation / Signups
 ```
 
 ## Unit

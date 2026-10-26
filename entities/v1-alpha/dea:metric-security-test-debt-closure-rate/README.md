@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Test Debt Closure Rate** (STD
 - **Canonical id:** `dea:metric-security-test-debt-closure-rate`
 - **Name:** Security Test Debt Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STDCR
 
@@ -22,7 +22,7 @@ Measures the pace at which known, accepted security test exceptions are remediat
 ## Formula
 
 ```
-Security Findings Remediated per SLA / Findings
+STDCR = Security Findings Remediated per SLA / Findings
 ```
 
 ## Unit

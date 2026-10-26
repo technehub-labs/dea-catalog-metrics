@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Attestation Rate** (PAR) in the
 - **Canonical id:** `dea:metric-policy-attestation-rate`
 - **Name:** Policy Attestation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAR
 
@@ -18,7 +18,7 @@ A Risk & Compliance indicator, Policy Attestation Rate (PAR) quantifies conforma
 ## Formula
 
 ```
-Employees Attesting to Policies / Employees Required
+PAR = Employees Attesting to Policies / Employees Required
 ```
 
 ## Unit

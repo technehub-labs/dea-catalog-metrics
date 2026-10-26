@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning ROI Ratio** (LROIR) in the Op
 - **Canonical id:** `dea:metric-learning-roi-ratio`
 - **Name:** Learning ROI Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LROIR
 
@@ -22,7 +22,7 @@ Measures business value returned per unit of learning investment. ROI forces L&D
 ## Formula
 
 ```
-Monetized Performance Gain / L&D Cost
+LROIR = Monetized Performance Gain / L&D Cost
 ```
 
 ## Unit

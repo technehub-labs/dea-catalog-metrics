@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attribution Model Coverage (Deep Dive)
 - **Canonical id:** `dea:metric-attribution-model-coverage-deep-dive`
 - **Name:** Attribution Model Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMCDD
 
@@ -22,7 +22,7 @@ Measures how completely conversions are attributed across channels and journeys.
 ## Formula
 
 ```
-Conversions Scored by Multi-Touch Model / Conversions
+AMCDD = Conversions Scored by Multi-Touch Model / Conversions
 ```
 
 ## Unit

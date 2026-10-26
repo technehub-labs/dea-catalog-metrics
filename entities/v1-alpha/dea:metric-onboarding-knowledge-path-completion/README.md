@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Knowledge Path Completion**
 - **Canonical id:** `dea:metric-onboarding-knowledge-path-completion`
 - **Name:** Onboarding Knowledge Path Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OKPC
 
@@ -18,7 +18,7 @@ Within Knowledge Management (Deep Dive), Onboarding Knowledge Path Completion (O
 ## Formula
 
 ```
-New Hires Completing Curated Learning Paths / New Hires
+OKPC = New Hires Completing Curated Learning Paths / New Hires
 ```
 
 ## Unit

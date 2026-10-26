@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Attendee** (CPA-E) in the Ope
 - **Canonical id:** `dea:metric-cost-per-attendee`
 - **Name:** Cost per Attendee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPA-E
 
@@ -18,7 +18,7 @@ Cost per Attendee (CPA-E) measures how efficiently resources are converted into 
 ## Formula
 
 ```
-Total Event Cost / Attendees
+CPA-E = Total Event Cost / Attendees
 ```
 
 ## Unit

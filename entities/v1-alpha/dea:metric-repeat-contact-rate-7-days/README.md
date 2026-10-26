@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Contact Rate (7 Days)** (RCR7) 
 - **Canonical id:** `dea:metric-repeat-contact-rate-7-days`
 - **Name:** Repeat Contact Rate (7 Days)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR7
 
@@ -18,7 +18,7 @@ Within Contact Center Standard Measures (Deep Dive), Repeat Contact Rate (7 Days
 ## Formula
 
 ```
-Customers Contacting Again within 7 Days / Contacts
+RCR7 = Customers Contacting Again within 7 Days / Contacts
 ```
 
 ## Unit

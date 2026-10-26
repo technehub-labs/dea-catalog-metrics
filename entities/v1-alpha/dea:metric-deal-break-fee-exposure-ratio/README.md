@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deal Break Fee Exposure Ratio** (DBFE)
 - **Canonical id:** `dea:metric-deal-break-fee-exposure-ratio`
 - **Name:** Deal Break Fee Exposure Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBFE
 
@@ -18,7 +18,7 @@ Deal Break Fee Exposure Ratio (DBFE) addresses exposure to adverse outcomes and 
 ## Formula
 
 ```
-Break Fees Payable on Failed Deals / Deal Value
+DBFE = Break Fees Payable on Failed Deals / Deal Value
 ```
 
 ## Unit

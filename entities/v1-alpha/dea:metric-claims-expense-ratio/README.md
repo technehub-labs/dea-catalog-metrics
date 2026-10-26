@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Expense Ratio** (CER) in the Op
 - **Canonical id:** `dea:metric-claims-expense-ratio`
 - **Name:** Claims Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CER
 
@@ -22,7 +22,7 @@ Measures loss adjustment expense against earned premium or claims volume. Claims
 ## Formula
 
 ```
-Claims Handling Expenses / Earned Premium
+CER = Claims Handling Expenses / Earned Premium
 ```
 
 ## Unit

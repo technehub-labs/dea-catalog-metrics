@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Approval Gate Compliance** (MAGC
 - **Canonical id:** `dea:metric-model-approval-gate-compliance`
 - **Name:** Model Approval Gate Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAGC
 
@@ -22,7 +22,7 @@ Measures whether models passed required approval gates (design, validation sign-
 ## Formula
 
 ```
-Models Passing All Governance Gates before Deployment / Deployed
+MAGC = Models Passing All Governance Gates before Deployment / Deployed
 ```
 
 ## Unit

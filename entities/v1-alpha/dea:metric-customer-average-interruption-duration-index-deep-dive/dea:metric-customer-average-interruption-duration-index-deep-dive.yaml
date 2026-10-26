@@ -8,7 +8,7 @@ description: Customer Average Interruption Duration Index (Deep Dive) (CAIDI) ca
   originates from and is most used in Utilities practice.
 abbreviation: CAIDI
 unit: minute
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -26,7 +26,7 @@ source_credit: IEEE Std 1366 reliability indices
 calculation_definition: SAIDI / SAIFI
 formula_definition:
   formula_id: dea:formula-customer-average-interruption-duration-index-deep-dive
-  expression: SAIDI / SAIFI
+  expression: CAIDI = SAIDI / SAIFI
   inputs:
   - name: SAIDI
   - name: SAIFI
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-minute
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: utilities_field_operations_grid
 sector: utilities
+subject_concept: dea:subject-customer_average_interruption_duration_index
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1884
+  - IEEE Std 1366 reliability indices
+  known_limitations: []

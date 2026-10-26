@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commit-to-Build Latency** (CTBL) in th
 - **Canonical id:** `dea:metric-commit-to-build-latency`
 - **Name:** Commit-to-Build Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTBL
 
@@ -18,7 +18,7 @@ Commit-to-Build Latency (CTBL) measures how efficiently resources are converted 
 ## Formula
 
 ```
-Minutes from Commit to Build Start
+CTBL = Minutes from Commit to Build Start
 ```
 
 ## Unit

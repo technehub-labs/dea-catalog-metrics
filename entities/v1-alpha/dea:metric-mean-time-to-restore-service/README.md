@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Restore Service** (MTTRS)
 - **Canonical id:** `dea:metric-mean-time-to-restore-service`
 - **Name:** Mean Time to Restore Service
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTRS
 
@@ -22,7 +22,7 @@ MTTRS, the fourth DORA metric, measures elapsed time from incident start (or det
 ## Formula
 
 ```
-Median Time from Incident Start to Service Restoration
+MTTRS = Median Time from Incident Start to Service Restoration
 ```
 
 ## Unit

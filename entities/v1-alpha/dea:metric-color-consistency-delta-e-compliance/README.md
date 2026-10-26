@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Color Consistency Delta-E Compliance**
 - **Canonical id:** `dea:metric-color-consistency-delta-e-compliance`
 - **Name:** Color Consistency Delta-E Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCDC
 
@@ -18,7 +18,7 @@ Color Consistency Delta-E Compliance (CCDC) measures the quality of outputs and 
 ## Formula
 
 ```
-Measurements within Delta-E Tolerance / Measurements
+CCDC = Measurements within Delta-E Tolerance / Measurements
 ```
 
 ## Unit

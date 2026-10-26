@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigation Cycle Time (Deep Dive)**
 - **Canonical id:** `dea:metric-investigation-cycle-time-deep-dive`
 - **Name:** Investigation Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICT-D
 
@@ -18,7 +18,7 @@ A Insurance Fraud & Financial Crime indicator, Investigation Cycle Time (Deep Di
 ## Formula
 
 ```
-Days from Case Open to Disposition
+ICT-D = Days from Case Open to Disposition
 ```
 
 ## Unit

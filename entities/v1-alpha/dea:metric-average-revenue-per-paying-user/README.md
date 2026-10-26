@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per Paying User** (ARP
 - **Canonical id:** `dea:metric-average-revenue-per-paying-user`
 - **Name:** Average Revenue per Paying User
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPPU
 
@@ -22,7 +22,7 @@ Revenue divided by paying users in the period - the spending-depth metric of gam
 ## Formula
 
 ```
-Revenue / Paying Users
+ARPPU = Revenue / Paying Users
 ```
 
 ## Unit

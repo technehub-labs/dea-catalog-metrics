@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Engagement Success Rate** (
 - **Canonical id:** `dea:metric-regulatory-engagement-success-rate`
 - **Name:** Regulatory Engagement Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RESR
 
@@ -22,7 +22,7 @@ Measures outcomes of formal engagement with regulators - applications, approvals
 ## Formula
 
 ```
-Favorable or Neutral Outcomes / Engagements with Regulator
+RESR = Favorable or Neutral Outcomes / Engagements with Regulator
 ```
 
 ## Unit

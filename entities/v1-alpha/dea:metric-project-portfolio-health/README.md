@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Portfolio Health** (PPH) in th
 - **Canonical id:** `dea:metric-project-portfolio-health`
 - **Name:** Project Portfolio Health
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPH
 
@@ -22,7 +22,7 @@ A composite assessment of the project portfolio across delivery confidence, budg
 ## Formula
 
 ```
-Projects on Green Status / Total Projects
+PPH = Projects on Green Status / Total Projects
 ```
 
 ## Unit

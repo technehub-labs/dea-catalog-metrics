@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Rate per 1,000 Guests** (CRP
 - **Canonical id:** `dea:metric-complaint-rate-per-1-000-guests`
 - **Name:** Complaint Rate per 1,000 Guests
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRPG
 
@@ -22,7 +22,7 @@ Measures complaint frequency normalized by guest volume in travel and hospitalit
 ## Formula
 
 ```
-Complaints / Guests x 1,000
+CRPG = Complaints / Guests x 1,000
 ```
 
 ## Unit

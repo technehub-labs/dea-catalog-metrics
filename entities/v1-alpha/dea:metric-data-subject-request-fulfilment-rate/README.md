@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Subject Request Fulfilment Rate**
 - **Canonical id:** `dea:metric-data-subject-request-fulfilment-rate`
 - **Name:** Data Subject Request Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSRFR
 
@@ -22,7 +22,7 @@ Measures how completely and timely access, deletion, and portability requests ar
 ## Formula
 
 ```
-DSARs Fulfilled within Statutory Time / DSARs
+DSRFR = DSARs Fulfilled within Statutory Time / DSARs
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sanctions Screening False Clear Rate**
 - **Canonical id:** `dea:metric-sanctions-screening-false-clear-rate`
 - **Name:** Sanctions Screening False Clear Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSFCR
 
@@ -18,7 +18,7 @@ Sanctions Screening False Clear Rate (SSFCR) addresses the quality of outputs an
 ## Formula
 
 ```
-Cleared Alerts Reversed on Review / Alerts Cleared
+SSFCR = Cleared Alerts Reversed on Review / Alerts Cleared
 ```
 
 ## Unit

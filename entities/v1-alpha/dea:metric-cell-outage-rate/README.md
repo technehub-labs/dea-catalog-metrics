@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cell Outage Rate** (COR-N) in the Open
 - **Canonical id:** `dea:metric-cell-outage-rate`
 - **Name:** Cell Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COR-N
 
@@ -18,7 +18,7 @@ A Telecom Network Operations indicator, Cell Outage Rate (COR-N) quantifies expo
 ## Formula
 
 ```
-Cell Sites Out of Service / Total Cell Sites
+COR-N = Cell Sites Out of Service / Total Cell Sites
 ```
 
 ## Unit

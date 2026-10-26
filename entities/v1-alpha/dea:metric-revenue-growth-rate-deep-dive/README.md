@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Growth Rate (Deep Dive)** (RGR
 - **Canonical id:** `dea:metric-revenue-growth-rate-deep-dive`
 - **Name:** Revenue Growth Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RGR-D
 
@@ -22,7 +22,7 @@ Measures period-over-period expansion of top-line revenue. Growth is the valuati
 ## Formula
 
 ```
-(Revenue - Prior Revenue) / Prior Revenue
+RGR-D = (Revenue - Prior Revenue) / Prior Revenue
 ```
 
 ## Unit

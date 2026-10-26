@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Frequency** (DF) in the Ope
 - **Canonical id:** `dea:metric-deployment-frequency`
 - **Name:** Deployment Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DF
 
@@ -22,7 +22,7 @@ Deployment frequency, a DORA metric, counts how often changes reach production. 
 ## Formula
 
 ```
-Production Deployments per Period
+DF = Production Deployments per Period
 ```
 
 ## Unit

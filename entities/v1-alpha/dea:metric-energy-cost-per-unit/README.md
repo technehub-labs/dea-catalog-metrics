@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Cost per Unit** (ECU) in the Op
 - **Canonical id:** `dea:metric-energy-cost-per-unit`
 - **Name:** Energy Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECU
 
@@ -22,7 +22,7 @@ Measures energy cost per unit produced. It matters because energy is a major con
 ## Formula
 
 ```
-Total Energy Cost / Units Produced
+ECU = Total Energy Cost / Units Produced
 ```
 
 ## Unit

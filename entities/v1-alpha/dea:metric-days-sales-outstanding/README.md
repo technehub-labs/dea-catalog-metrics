@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Sales Outstanding** (DSO) in the 
 - **Canonical id:** `dea:metric-days-sales-outstanding`
 - **Name:** Days Sales Outstanding
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSO
 
@@ -22,7 +22,7 @@ Measures the average number of days it takes to collect revenue after a sale. It
 ## Formula
 
 ```
-(Accounts Receivable / Revenue) x 365
+DSO = (Accounts Receivable / Revenue) x 365
 ```
 
 ## Unit

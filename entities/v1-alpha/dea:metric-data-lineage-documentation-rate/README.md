@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Lineage Documentation Rate** (DLD
 - **Canonical id:** `dea:metric-data-lineage-documentation-rate`
 - **Name:** Data Lineage Documentation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLDR
 
@@ -22,7 +22,7 @@ Measures how much of the data pipeline has documented lineage from source to con
 ## Formula
 
 ```
-Critical Elements with End-to-End Lineage / Critical Elements
+DLDR = Critical Elements with End-to-End Lineage / Critical Elements
 ```
 
 ## Unit

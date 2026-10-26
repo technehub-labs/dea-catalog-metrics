@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supply Chain Attestation Coverage** (S
 - **Canonical id:** `dea:metric-supply-chain-attestation-coverage`
 - **Name:** Supply Chain Attestation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCATC
 
@@ -22,7 +22,7 @@ Measures the share of build artifacts and dependencies carrying verified provena
 ## Formula
 
 ```
-Builds with Signed Provenance / Production Builds
+SCATC = Builds with Signed Provenance / Production Builds
 ```
 
 ## Unit

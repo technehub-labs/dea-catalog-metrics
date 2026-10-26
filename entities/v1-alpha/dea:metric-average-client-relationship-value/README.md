@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Client Relationship Value** (A
 - **Canonical id:** `dea:metric-average-client-relationship-value`
 - **Name:** Average Client Relationship Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACRV
 
@@ -22,7 +22,7 @@ Average client relationship value measures total revenue (or assets) per client 
 ## Formula
 
 ```
-Assets under Management / Client Relationships
+ACRV = Assets under Management / Client Relationships
 ```
 
 ## Unit

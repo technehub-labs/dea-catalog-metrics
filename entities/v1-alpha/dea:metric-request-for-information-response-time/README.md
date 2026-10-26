@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Request for Information Response Time*
 - **Canonical id:** `dea:metric-request-for-information-response-time`
 - **Name:** Request for Information Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFIT
 
@@ -18,7 +18,7 @@ Request for Information Response Time (RFIT) addresses how efficiently resources
 ## Formula
 
 ```
-Days from RFI Receipt to Response
+RFIT = Days from RFI Receipt to Response
 ```
 
 ## Unit

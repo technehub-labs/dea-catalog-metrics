@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skills Matrix Coverage** (SMC-WF) in t
 - **Canonical id:** `dea:metric-skills-matrix-coverage`
 - **Name:** Skills Matrix Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMC-WF
 
@@ -18,7 +18,7 @@ A Workforce Planning & Productivity indicator, Skills Matrix Coverage (SMC-WF) q
 ## Formula
 
 ```
-Roles with Current Skills Matrix / Roles
+SMC-WF = Roles with Current Skills Matrix / Roles
 ```
 
 ## Unit

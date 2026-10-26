@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Center Allocation Accuracy** (CCA
 - **Canonical id:** `dea:metric-cost-center-allocation-accuracy`
 - **Name:** Cost Center Allocation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCAA
 
@@ -18,7 +18,7 @@ Cost Center Allocation Accuracy (CCAA) addresses conformance to standards, plans
 ## Formula
 
 ```
-Allocations per Documented Policy / Allocation Lines
+CCAA = Allocations per Documented Policy / Allocation Lines
 ```
 
 ## Unit

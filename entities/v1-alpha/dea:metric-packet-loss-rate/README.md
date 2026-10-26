@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Packet Loss Rate** (PLR) in the OpenDE
 - **Canonical id:** `dea:metric-packet-loss-rate`
 - **Name:** Packet Loss Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLR
 
@@ -18,7 +18,7 @@ A Telecom Network Operations indicator, Packet Loss Rate (PLR) quantifies the qu
 ## Formula
 
 ```
-Lost Packets / Packets Transmitted
+PLR = Lost Packets / Packets Transmitted
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **In-House Counsel Leverage Ratio** (IHC
 - **Canonical id:** `dea:metric-in-house-counsel-leverage-ratio`
 - **Name:** In-House Counsel Leverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IHCL
 
@@ -22,7 +22,7 @@ Measures the proportion of legal work handled in-house versus sent to external f
 ## Formula
 
 ```
-In-House Legal Hours / Outside Counsel Hours
+IHCL = In-House Legal Hours / Outside Counsel Hours
 ```
 
 ## Unit

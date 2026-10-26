@@ -7,7 +7,7 @@ Candidate Performance Metric record for **MDM Platform Availability** (MDMPA) in
 - **Canonical id:** `dea:metric-mdm-platform-availability`
 - **Name:** MDM Platform Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDMPA
 
@@ -18,7 +18,7 @@ A Master Data Management indicator, MDM Platform Availability (MDMPA) quantifies
 ## Formula
 
 ```
-Uptime of MDM Hub Services
+MDMPA = Uptime of MDM Hub Services
 ```
 
 ## Unit

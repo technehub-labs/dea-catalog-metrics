@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stripping Ratio** (STR) in the OpenDEA
 - **Canonical id:** `dea:metric-stripping-ratio`
 - **Name:** Stripping Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STR
 
@@ -22,7 +22,7 @@ The stripping ratio is the tonnes of waste removed per tonne of ore mined, the d
 ## Formula
 
 ```
-Waste Rock Removed / Ore Extracted
+STR = Waste Rock Removed / Ore Extracted
 ```
 
 ## Unit

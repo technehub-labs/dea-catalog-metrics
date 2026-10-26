@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trunk-Based Development Compliance** (
 - **Canonical id:** `dea:metric-trunk-based-development-compliance`
 - **Name:** Trunk-Based Development Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TBDC
 
@@ -18,7 +18,7 @@ Trunk-Based Development Compliance (TBDC) captures conformance to standards, pla
 ## Formula
 
 ```
-Changes Merged to Trunk within 24 Hours / Changes
+TBDC = Changes Merged to Trunk within 24 Hours / Changes
 ```
 
 ## Unit

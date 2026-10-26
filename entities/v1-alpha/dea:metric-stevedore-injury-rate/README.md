@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stevedore Injury Rate** (SIR) in the O
 - **Canonical id:** `dea:metric-stevedore-injury-rate`
 - **Name:** Stevedore Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIR
 
@@ -22,7 +22,7 @@ Stevedore injury rate measures injuries per hours worked on the dock, and it is 
 ## Formula
 
 ```
-Recordable Injuries / Hours Worked x 200,000
+SIR = Recordable Injuries / Hours Worked x 200,000
 ```
 
 ## Unit

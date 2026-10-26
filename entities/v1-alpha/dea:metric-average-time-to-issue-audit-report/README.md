@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Time to Issue Audit Report** (
 - **Canonical id:** `dea:metric-average-time-to-issue-audit-report`
 - **Name:** Average Time to Issue Audit Report
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TIR
 
@@ -18,7 +18,7 @@ A Internal Audit indicator, Average Time to Issue Audit Report (TIR) quantifies 
 ## Formula
 
 ```
-Days from Fieldwork End to Report Issued
+TIR = Days from Fieldwork End to Report Issued
 ```
 
 ## Unit

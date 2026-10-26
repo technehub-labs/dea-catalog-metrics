@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dashboard Usage Rate** (DUR-DS) in the
 - **Canonical id:** `dea:metric-dashboard-usage-rate`
 - **Name:** Dashboard Usage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DUR-DS
 
@@ -18,7 +18,7 @@ A Data Science & Analytics Operations indicator, Dashboard Usage Rate (DUR-DS) q
 ## Formula
 
 ```
-Dashboards Accessed Monthly / Dashboards Published
+DUR-DS = Dashboards Accessed Monthly / Dashboards Published
 ```
 
 ## Unit

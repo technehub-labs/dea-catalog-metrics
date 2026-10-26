@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Execution Time Trend** (TETT-CI) 
 - **Canonical id:** `dea:metric-test-execution-time-trend`
 - **Name:** Test Execution Time Trend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TETT-CI
 
@@ -18,7 +18,7 @@ Test Execution Time Trend (TETT-CI) measures how efficiently resources are conve
 ## Formula
 
 ```
-Change in Median Test Suite Duration per Quarter
+TETT-CI = Change in Median Test Suite Duration per Quarter
 ```
 
 ## Unit

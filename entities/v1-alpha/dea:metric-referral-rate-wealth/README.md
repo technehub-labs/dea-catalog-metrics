@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Referral Rate (Wealth)** (REFW) in the
 - **Canonical id:** `dea:metric-referral-rate-wealth`
 - **Name:** Referral Rate (Wealth)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REFW
 
@@ -22,7 +22,7 @@ Measures the share of clients providing referrals to advisors. It matters becaus
 ## Formula
 
 ```
-New Clients from Referrals / New Clients
+REFW = New Clients from Referrals / New Clients
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certificate of Analysis Turnaround** (
 - **Canonical id:** `dea:metric-certificate-of-analysis-turnaround`
 - **Name:** Certificate of Analysis Turnaround
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COAT
 
@@ -18,7 +18,7 @@ A Chemicals & Specialty Materials indicator, Certificate of Analysis Turnaround 
 ## Formula
 
 ```
-Hours from Batch Completion to Issued CoA
+COAT = Hours from Batch Completion to Issued CoA
 ```
 
 ## Unit

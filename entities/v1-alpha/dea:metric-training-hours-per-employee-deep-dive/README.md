@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Hours per Employee (Deep Dive
 - **Canonical id:** `dea:metric-training-hours-per-employee-deep-dive`
 - **Name:** Training Hours per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THPE-D
 
@@ -18,7 +18,7 @@ Training Hours per Employee (Deep Dive) (THPE-D) measures capability maturity or
 ## Formula
 
 ```
-Total Training Hours / Employees
+THPE-D = Total Training Hours / Employees
 ```
 
 ## Unit

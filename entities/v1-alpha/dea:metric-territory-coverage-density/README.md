@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Territory Coverage Density** (TCD) in 
 - **Canonical id:** `dea:metric-territory-coverage-density`
 - **Name:** Territory Coverage Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCD
 
@@ -22,7 +22,7 @@ Measures distribution presence - agencies or producers per market or per capita 
 ## Formula
 
 ```
-Active Appointed Producers / Designated Territory
+TCD = Active Appointed Producers / Designated Territory
 ```
 
 ## Unit

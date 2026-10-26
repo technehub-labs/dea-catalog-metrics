@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collateral Dispute Rate** (CDR-IR) in 
 - **Canonical id:** `dea:metric-collateral-dispute-rate`
 - **Name:** Collateral Dispute Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-IR
 
@@ -18,7 +18,7 @@ Collateral Dispute Rate (CDR-IR) measures the quality of outputs and outcomes in
 ## Formula
 
 ```
-Collateral Disputes / Collateral Calls
+CDR-IR = Collateral Disputes / Collateral Calls
 ```
 
 ## Unit

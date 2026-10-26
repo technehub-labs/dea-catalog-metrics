@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Availability** (OPAVL) in 
 - **Canonical id:** `dea:metric-operational-availability`
 - **Name:** Operational Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPAVL
 
@@ -22,7 +22,7 @@ Measures actual availability including all waiting: parts, logistics, admin dela
 ## Formula
 
 ```
-Uptime / (Uptime + Downtime all Causes)
+OPAVL = Uptime / (Uptime + Downtime all Causes)
 ```
 
 ## Unit

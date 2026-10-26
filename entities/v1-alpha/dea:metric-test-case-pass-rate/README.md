@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Case Pass Rate** (TCPR-QA) in the
 - **Canonical id:** `dea:metric-test-case-pass-rate`
 - **Name:** Test Case Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCPR-QA
 
@@ -18,7 +18,7 @@ Test Case Pass Rate (TCPR-QA) measures the quality of outputs and outcomes in th
 ## Formula
 
 ```
-Passed Tests / Executed Tests
+TCPR-QA = Passed Tests / Executed Tests
 ```
 
 ## Unit

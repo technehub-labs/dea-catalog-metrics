@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboard Revenue per Passenger Day** (O
 - **Canonical id:** `dea:metric-onboard-revenue-per-passenger-day`
 - **Name:** Onboard Revenue per Passenger Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORPD
 
@@ -22,7 +22,7 @@ Measures spending on drinks, casino, spa, excursions, and specialty dining per g
 ## Formula
 
 ```
-Onboard Spend / Passenger Days
+ORPD = Onboard Spend / Passenger Days
 ```
 
 ## Unit

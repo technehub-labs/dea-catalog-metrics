@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Renewable Electricity Share** (RES-E) 
 - **Canonical id:** `dea:metric-renewable-electricity-share`
 - **Name:** Renewable Electricity Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RES-E
 
@@ -22,7 +22,7 @@ Measures the share of electricity consumption from renewable sources, contracted
 ## Formula
 
 ```
-Renewable Electricity / Total Electricity
+RES-E = Renewable Electricity / Total Electricity
 ```
 
 ## Unit

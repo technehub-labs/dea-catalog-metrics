@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Layer Depth** (ELD) in the 
 - **Canonical id:** `dea:metric-escalation-layer-depth`
 - **Name:** Escalation Layer Depth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELD
 
@@ -18,7 +18,7 @@ A Operating Model & Process Health Deep Dive indicator, Escalation Layer Depth (
 ## Formula
 
 ```
-Layers Required to Resolve Standard Escalation
+ELD = Layers Required to Resolve Standard Escalation
 ```
 
 ## Unit

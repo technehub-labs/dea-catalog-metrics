@@ -8,7 +8,7 @@ description: A Public Transit (Deep Dive) indicator, Passengers per Vehicle Hour
   levels. It is a standard measure in the Public Transit sector.
 abbreviation: PPVH-D
 unit: count
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - business_architecture
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Passengers / Vehicle Revenue Hour
 formula_definition:
   formula_id: dea:formula-passengers-per-vehicle-hour-deep-dive
-  expression: Passengers / Vehicle Revenue Hour
+  expression: PPVH-D = Passengers / Vehicle Revenue Hour
   inputs:
   - name: Passengers
   - name: Vehicle Revenue Hour
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-count
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: public_transit_deep_dive
 sector: public_transit
+subject_concept: dea:subject-passengers_per_vehicle_hour
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2412
+  - Public domain - no attribution required
+  known_limitations: []

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facultative Rejection Rate** (FRR) in 
 - **Canonical id:** `dea:metric-facultative-rejection-rate`
 - **Name:** Facultative Rejection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRR
 
@@ -18,7 +18,7 @@ A Insurance Underwriting indicator, Facultative Rejection Rate (FRR) quantifies 
 ## Formula
 
 ```
-Facultative Offers Rejected / Offers Made
+FRR = Facultative Offers Rejected / Offers Made
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Replacement Ratio** (RRR) in t
 - **Canonical id:** `dea:metric-reserve-replacement-ratio`
 - **Name:** Reserve Replacement Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRR
 
@@ -22,7 +22,7 @@ Reserve replacement ratio measures newly added reserves divided by production - 
 ## Formula
 
 ```
-Reserves Added / Production
+RRR = Reserves Added / Production
 ```
 
 ## Unit

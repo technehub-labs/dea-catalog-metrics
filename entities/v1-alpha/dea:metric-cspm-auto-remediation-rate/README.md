@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CSPM Auto-Remediation Rate** (CSPMAR) 
 - **Canonical id:** `dea:metric-cspm-auto-remediation-rate`
 - **Name:** CSPM Auto-Remediation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSPMAR
 
@@ -18,7 +18,7 @@ A Cloud Security Posture Management indicator, CSPM Auto-Remediation Rate (CSPMA
 ## Formula
 
 ```
-Findings Auto-Remediated / Auto-Remediable Findings
+CSPMAR = Findings Auto-Remediated / Auto-Remediable Findings
 ```
 
 ## Unit

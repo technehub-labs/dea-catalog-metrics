@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inherent Availability** (IAVL) in the 
 - **Canonical id:** `dea:metric-inherent-availability`
 - **Name:** Inherent Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IAVL
 
@@ -22,7 +22,7 @@ Measures achievable availability under ideal maintenance support (repair and log
 ## Formula
 
 ```
-MTBF / (MTBF + MTTR)
+IAVL = MTBF / (MTBF + MTTR)
 ```
 
 ## Unit

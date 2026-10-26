@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recycling Contamination Rate** (RCR-E2
 - **Canonical id:** `dea:metric-recycling-contamination-rate`
 - **Name:** Recycling Contamination Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCR-E2
 
@@ -18,7 +18,7 @@ Recycling Contamination Rate (RCR-E2) captures environmental and social sustaina
 ## Formula
 
 ```
-Contaminated Recycling Loads / Loads
+RCR-E2 = Contaminated Recycling Loads / Loads
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unit Test Coverage - Branch** (UTCB-QA
 - **Canonical id:** `dea:metric-unit-test-coverage-branch`
 - **Name:** Unit Test Coverage - Branch
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UTCB-QA
 
@@ -18,7 +18,7 @@ Unit Test Coverage - Branch (UTCB-QA) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Branches Covered / Total Branches
+UTCB-QA = Branches Covered / Total Branches
 ```
 
 ## Unit

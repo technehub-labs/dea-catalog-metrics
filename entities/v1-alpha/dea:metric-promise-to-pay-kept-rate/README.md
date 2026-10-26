@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promise-to-Pay Kept Rate** (PPKR) in t
 - **Canonical id:** `dea:metric-promise-to-pay-kept-rate`
 - **Name:** Promise-to-Pay Kept Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPKR
 
@@ -18,7 +18,7 @@ Promise-to-Pay Kept Rate (PPKR) measures the quality of outputs and outcomes in 
 ## Formula
 
 ```
-Promises Honored / Promises Made
+PPKR = Promises Honored / Promises Made
 ```
 
 ## Unit

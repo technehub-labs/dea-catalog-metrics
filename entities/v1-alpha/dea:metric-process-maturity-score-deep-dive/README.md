@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Maturity Score (Deep Dive)** (
 - **Canonical id:** `dea:metric-process-maturity-score-deep-dive`
 - **Name:** Process Maturity Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMSD
 
@@ -22,7 +22,7 @@ Measures aggregate process capability against a maturity model (e.g., CMMI-style
 ## Formula
 
 ```
-CMMI-Style Maturity Rating across Core Processes
+PMSD = CMMI-Style Maturity Rating across Core Processes
 ```
 
 ## Unit

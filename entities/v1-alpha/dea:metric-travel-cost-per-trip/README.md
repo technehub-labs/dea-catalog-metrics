@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Travel Cost per Trip** (TCPT) in the O
 - **Canonical id:** `dea:metric-travel-cost-per-trip`
 - **Name:** Travel Cost per Trip
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCPT
 
@@ -22,7 +22,7 @@ Measures average fully loaded cost per business trip. It matters because unit co
 ## Formula
 
 ```
-Total Travel Spend / Trips
+TCPT = Total Travel Spend / Trips
 ```
 
 ## Unit

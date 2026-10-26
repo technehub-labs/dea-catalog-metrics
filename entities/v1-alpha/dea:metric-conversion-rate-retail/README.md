@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conversion Rate (Retail)** (CVR-R) in 
 - **Canonical id:** `dea:metric-conversion-rate-retail`
 - **Name:** Conversion Rate (Retail)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVR-R
 
@@ -22,7 +22,7 @@ Measures the share of store or site visitors who complete a purchase. It matters
 ## Formula
 
 ```
-Purchasing Customers / Store Visitors
+CVR-R = Purchasing Customers / Store Visitors
 ```
 
 ## Unit

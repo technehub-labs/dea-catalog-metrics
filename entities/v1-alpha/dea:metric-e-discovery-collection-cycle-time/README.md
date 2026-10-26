@@ -7,7 +7,7 @@ Candidate Performance Metric record for **E-Discovery Collection Cycle Time** (E
 - **Canonical id:** `dea:metric-e-discovery-collection-cycle-time`
 - **Name:** E-Discovery Collection Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDCCT
 
@@ -18,7 +18,7 @@ E-Discovery Collection Cycle Time (EDCCT) measures how efficiently resources are
 ## Formula
 
 ```
-Days from Legal Request to Data Collected
+EDCCT = Days from Legal Request to Data Collected
 ```
 
 ## Unit

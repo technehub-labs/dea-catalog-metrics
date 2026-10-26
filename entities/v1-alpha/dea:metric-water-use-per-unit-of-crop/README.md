@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Use per Unit of Crop** (WUC) in 
 - **Canonical id:** `dea:metric-water-use-per-unit-of-crop`
 - **Name:** Water Use per Unit of Crop
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WUC
 
@@ -22,7 +22,7 @@ Measures irrigation water consumed per unit of crop output. It matters because a
 ## Formula
 
 ```
-Irrigation Water / Crop Mass Produced
+WUC = Irrigation Water / Crop Mass Produced
 ```
 
 ## Unit

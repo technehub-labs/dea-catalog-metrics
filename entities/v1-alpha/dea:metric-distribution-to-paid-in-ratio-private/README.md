@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Distribution-to-Paid-In Ratio (Private
 - **Canonical id:** `dea:metric-distribution-to-paid-in-ratio-private`
 - **Name:** Distribution-to-Paid-In Ratio (Private)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPI-IM
 
@@ -22,7 +22,7 @@ Measures cumulative cash actually returned to limited partners as a share of cap
 ## Formula
 
 ```
-Distributions Paid to Investors / Capital Contributed
+DPI-IM = Distributions Paid to Investors / Capital Contributed
 ```
 
 ## Unit

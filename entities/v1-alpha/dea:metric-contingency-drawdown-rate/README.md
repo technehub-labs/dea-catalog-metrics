@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contingency Drawdown Rate** (CDR-P) in
 - **Canonical id:** `dea:metric-contingency-drawdown-rate`
 - **Name:** Contingency Drawdown Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-P
 
@@ -22,7 +22,7 @@ Measures how quickly project contingency reserves are consumed relative to progr
 ## Formula
 
 ```
-Contingency Consumed / Contingency Budget
+CDR-P = Contingency Consumed / Contingency Budget
 ```
 
 ## Unit

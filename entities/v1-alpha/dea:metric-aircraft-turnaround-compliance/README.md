@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Compliance** (ATC-
 - **Canonical id:** `dea:metric-aircraft-turnaround-compliance`
 - **Name:** Aircraft Turnaround Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATC-A
 
@@ -18,7 +18,7 @@ Within Airport Operations, Aircraft Turnaround Compliance (ATC-A) is used to gau
 ## Formula
 
 ```
-Turnarounds within Allocated Time / Turnarounds
+ATC-A = Turnarounds within Allocated Time / Turnarounds
 ```
 
 ## Unit

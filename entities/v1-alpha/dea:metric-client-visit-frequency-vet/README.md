@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Visit Frequency (Vet)** (CVF) i
 - **Canonical id:** `dea:metric-client-visit-frequency-vet`
 - **Name:** Client Visit Frequency (Vet)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVF
 
@@ -18,7 +18,7 @@ Client Visit Frequency (Vet) (CVF) addresses the engagement or satisfaction of t
 ## Formula
 
 ```
-Visits per Patient per Year
+CVF = Visits per Patient per Year
 ```
 
 ## Unit

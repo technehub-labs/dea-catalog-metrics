@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Delivery Lead Time** (ADLT) in
 - **Canonical id:** `dea:metric-average-delivery-lead-time`
 - **Name:** Average Delivery Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADLT
 
@@ -22,7 +22,7 @@ Measures mean elapsed time from order dispatch to customer delivery. It matters 
 ## Formula
 
 ```
-Days from Dispatch to Delivery
+ADLT = Days from Dispatch to Delivery
 ```
 
 ## Unit

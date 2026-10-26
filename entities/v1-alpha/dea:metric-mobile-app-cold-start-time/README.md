@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mobile App Cold Start Time** (MACST) i
 - **Canonical id:** `dea:metric-mobile-app-cold-start-time`
 - **Name:** Mobile App Cold Start Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MACST
 
@@ -18,7 +18,7 @@ Mobile App Cold Start Time (MACST) captures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Median Time to First Usable Screen on Launch
+MACST = Median Time to First Usable Screen on Launch
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Requirements Stability Index** (RSI-RE
 - **Canonical id:** `dea:metric-requirements-stability-index`
 - **Name:** Requirements Stability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSI-RE
 
@@ -18,7 +18,7 @@ A Requirements Engineering & Product Discovery indicator, Requirements Stability
 ## Formula
 
 ```
-Unchanged Requirements after Baseline / Baseline
+RSI-RE = Unchanged Requirements after Baseline / Baseline
 ```
 
 ## Unit

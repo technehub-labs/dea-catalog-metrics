@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Gig Task vs Employee Baseline
 - **Canonical id:** `dea:metric-cost-per-gig-task-vs-employee-baseline`
 - **Name:** Cost per Gig Task vs Employee Baseline
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PGC
 
@@ -22,7 +22,7 @@ Compares fully loaded cost of gig-completed work against the employee cost basel
 ## Formula
 
 ```
-Gig Task Cost / Equivalent Internal Task Cost
+PGC = Gig Task Cost / Equivalent Internal Task Cost
 ```
 
 ## Unit

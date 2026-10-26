@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subscriber Growth Rate** (SBGR) in the
 - **Canonical id:** `dea:metric-subscriber-growth-rate`
 - **Name:** Subscriber Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBGR
 
@@ -22,7 +22,7 @@ Period growth in paying subscribers - the headline metric of the streaming era, 
 ## Formula
 
 ```
-(Subscribers_current - Subscribers_prior) / Subscribers_prior
+SBGR = (Subscribers_current - Subscribers_prior) / Subscribers_prior
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Target Operating Model Realization Rat
 - **Canonical id:** `dea:metric-target-operating-model-realization-rate`
 - **Name:** Target Operating Model Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TOMRR
 
@@ -22,7 +22,7 @@ Measures progress against the designed target operating model. TOM programs are 
 ## Formula
 
 ```
-Implemented TOM Components / Designed Components
+TOMRR = Implemented TOM Components / Designed Components
 ```
 
 ## Unit

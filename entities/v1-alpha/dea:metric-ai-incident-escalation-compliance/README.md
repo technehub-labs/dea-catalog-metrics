@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Incident Escalation Compliance** (A
 - **Canonical id:** `dea:metric-ai-incident-escalation-compliance`
 - **Name:** AI Incident Escalation Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIIEC
 
@@ -22,7 +22,7 @@ Measures whether AI incidents (errors, harms, malfunctions) are escalated per po
 ## Formula
 
 ```
-AI Incidents Escalated per Policy / Incidents
+AIIEC = AI Incidents Escalated per Policy / Incidents
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ancillary Revenue per Passenger (Deep 
 - **Canonical id:** `dea:metric-ancillary-revenue-per-passenger-deep-dive`
 - **Name:** Ancillary Revenue per Passenger (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPP-D
 
@@ -22,7 +22,7 @@ Measures non-ticket revenue (bags, seats, onboard sales, loyalty) per passenger.
 ## Formula
 
 ```
-Ancillary Revenue / Passengers
+ARPP-D = Ancillary Revenue / Passengers
 ```
 
 ## Unit

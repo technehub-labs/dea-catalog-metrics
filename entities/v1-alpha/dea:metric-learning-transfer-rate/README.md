@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Transfer Rate** (LTR) in the 
 - **Canonical id:** `dea:metric-learning-transfer-rate`
 - **Name:** Learning Transfer Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTR
 
@@ -22,7 +22,7 @@ Learning transfer rate measures the share of trained knowledge and skills that a
 ## Formula
 
 ```
-Learners Applying Skills on Job after Training / Learners Trained
+LTR = Learners Applying Skills on Job after Training / Learners Trained
 ```
 
 ## Unit

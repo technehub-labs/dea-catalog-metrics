@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispensing Error Rate (Deep Dive)** (D
 - **Canonical id:** `dea:metric-dispensing-error-rate-deep-dive`
 - **Name:** Dispensing Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DER-D
 
@@ -22,7 +22,7 @@ Measures errors in prescription dispensing - wrong drug, strength, label, or pat
 ## Formula
 
 ```
-Dispensing Errors / Prescriptions Dispensed
+DER-D = Dispensing Errors / Prescriptions Dispensed
 ```
 
 ## Unit

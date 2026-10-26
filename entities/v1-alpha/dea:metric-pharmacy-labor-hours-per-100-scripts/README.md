@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pharmacy Labor Hours per 100 Scripts**
 - **Canonical id:** `dea:metric-pharmacy-labor-hours-per-100-scripts`
 - **Name:** Pharmacy Labor Hours per 100 Scripts
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLH100
 
@@ -18,7 +18,7 @@ Pharmacy Labor Hours per 100 Scripts (PLH100) addresses how efficiently resource
 ## Formula
 
 ```
-Labor Hours / 100 Prescriptions
+PLH100 = Labor Hours / 100 Prescriptions
 ```
 
 ## Unit

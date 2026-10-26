@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facility Utilization (Venue Hours)** (
 - **Canonical id:** `dea:metric-facility-utilization-venue-hours`
 - **Name:** Facility Utilization (Venue Hours)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUH
 
@@ -22,7 +22,7 @@ Measures the share of available venue hours used for performances and events. It
 ## Formula
 
 ```
-Used Venue Hours / Available Venue Hours
+FUH = Used Venue Hours / Available Venue Hours
 ```
 
 ## Unit

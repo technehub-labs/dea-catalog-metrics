@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Data Retention Compliance** (
 - **Canonical id:** `dea:metric-personal-data-retention-compliance`
 - **Name:** Personal Data Retention Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDRC
 
@@ -18,7 +18,7 @@ A Data Privacy & Protection indicator, Personal Data Retention Compliance (PDRC)
 ## Formula
 
 ```
-Personal Data Purged per Schedule / Data Due for Purge
+PDRC = Personal Data Purged per Schedule / Data Due for Purge
 ```
 
 ## Unit

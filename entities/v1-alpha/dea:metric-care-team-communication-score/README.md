@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Team Communication Score** (CTCS)
 - **Canonical id:** `dea:metric-care-team-communication-score`
 - **Name:** Care Team Communication Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTCS
 
@@ -18,7 +18,7 @@ A Medical Practice & Clinical Operations indicator, Care Team Communication Scor
 ## Formula
 
 ```
-Staff Survey on Clinical Communication Effectiveness
+CTCS = Staff Survey on Clinical Communication Effectiveness
 ```
 
 ## Unit

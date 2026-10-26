@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Documentation Currency** 
 - **Canonical id:** `dea:metric-architecture-documentation-currency`
 - **Name:** Architecture Documentation Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADOC-SA
 
@@ -18,7 +18,7 @@ Architecture Documentation Currency (ADOC-SA) measures the quality of outputs an
 ## Formula
 
 ```
-Docs Updated within Two Releases / Docs
+ADOC-SA = Docs Updated within Two Releases / Docs
 ```
 
 ## Unit

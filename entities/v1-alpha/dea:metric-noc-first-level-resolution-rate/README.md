@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC First-Level Resolution Rate** (NOC
 - **Canonical id:** `dea:metric-noc-first-level-resolution-rate`
 - **Name:** NOC First-Level Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOCFLR
 
@@ -18,7 +18,7 @@ A Network Operations Center (Deep Dive) indicator, NOC First-Level Resolution Ra
 ## Formula
 
 ```
-Tickets Resolved at NOC Tier 1 / Tickets
+NOCFLR = Tickets Resolved at NOC Tier 1 / Tickets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusive Leadership Score** (ILS-DEI)
 - **Canonical id:** `dea:metric-inclusive-leadership-score`
 - **Name:** Inclusive Leadership Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ILS-DEI
 
@@ -22,7 +22,7 @@ Measures whether leaders demonstrably create inclusive team conditions. Inclusiv
 ## Formula
 
 ```
-360-Degree Rating of Inclusive Behaviors
+ILS-DEI = 360-Degree Rating of Inclusive Behaviors
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Awareness Training Completion
 - **Canonical id:** `dea:metric-security-awareness-training-completion`
 - **Name:** Security Awareness Training Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SATC
 
@@ -18,7 +18,7 @@ Security Awareness Training Completion (SATC) measures conformance to standards,
 ## Formula
 
 ```
-Users Completing Training / Users Assigned
+SATC = Users Completing Training / Users Assigned
 ```
 
 ## Unit

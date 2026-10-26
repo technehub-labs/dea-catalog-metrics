@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Data Access Justification Rate*
 - **Canonical id:** `dea:metric-vendor-data-access-justification-rate`
 - **Name:** Vendor Data Access Justification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VDAJR
 
@@ -18,7 +18,7 @@ A Third-Party Risk Management indicator, Vendor Data Access Justification Rate (
 ## Formula
 
 ```
-Vendor Access Grants with Valid Need / Grants Sampled
+VDAJR = Vendor Access Grants with Valid Need / Grants Sampled
 ```
 
 ## Unit

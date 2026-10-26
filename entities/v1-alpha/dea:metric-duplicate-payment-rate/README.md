@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Payment Rate** (DUPR) in the
 - **Canonical id:** `dea:metric-duplicate-payment-rate`
 - **Name:** Duplicate Payment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DUPR
 
@@ -18,7 +18,7 @@ Within Accounts Payable & Receivable Operations (Deep Dive), Duplicate Payment R
 ## Formula
 
 ```
-Duplicate Payments Detected / Payments Sampled
+DUPR = Duplicate Payments Detected / Payments Sampled
 ```
 
 ## Unit

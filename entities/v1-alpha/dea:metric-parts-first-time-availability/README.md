@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Parts First-Time Availability** (PFTA)
 - **Canonical id:** `dea:metric-parts-first-time-availability`
 - **Name:** Parts First-Time Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFTA
 
@@ -18,7 +18,7 @@ A Field Service & Asset Performance indicator, Parts First-Time Availability (PF
 ## Formula
 
 ```
-Jobs with All Parts on Vehicle / Parts-Dependent Jobs
+PFTA = Jobs with All Parts on Vehicle / Parts-Dependent Jobs
 ```
 
 ## Unit

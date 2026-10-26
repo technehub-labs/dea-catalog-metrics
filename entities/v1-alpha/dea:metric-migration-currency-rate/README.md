@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Migration Currency Rate** (MCRR) in th
 - **Canonical id:** `dea:metric-migration-currency-rate`
 - **Name:** Migration Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCRR
 
@@ -22,7 +22,7 @@ Measures whether records are migrated to current storage formats and systems per
 ## Formula
 
 ```
-Record Formats Migrated from Obsolete Formats / Obsolete Formats Identified
+MCRR = Record Formats Migrated from Obsolete Formats / Obsolete Formats Identified
 ```
 
 ## Unit

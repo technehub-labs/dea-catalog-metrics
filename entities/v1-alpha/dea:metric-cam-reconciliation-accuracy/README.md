@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CAM Reconciliation Accuracy** (CAMRA) 
 - **Canonical id:** `dea:metric-cam-reconciliation-accuracy`
 - **Name:** CAM Reconciliation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAMRA
 
@@ -18,7 +18,7 @@ CAM Reconciliation Accuracy (CAMRA) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Reconciliations without Adjustment / Reconciliations
+CAMRA = Reconciliations without Adjustment / Reconciliations
 ```
 
 ## Unit

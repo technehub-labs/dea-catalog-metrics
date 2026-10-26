@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Coverage Ratio** (LCR) in th
 - **Canonical id:** `dea:metric-liquidity-coverage-ratio`
 - **Name:** Liquidity Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCR
 
@@ -22,7 +22,7 @@ The stock of high-quality liquid assets divided by net cash outflows over a 30-d
 ## Formula
 
 ```
-High-Quality Liquid Assets / Net Cash Outflows over 30 Days
+LCR = High-Quality Liquid Assets / Net Cash Outflows over 30 Days
 ```
 
 ## Unit

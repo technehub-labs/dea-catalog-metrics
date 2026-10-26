@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Innovation Process Cycle Time** (IPCT-
 - **Canonical id:** `dea:metric-innovation-process-cycle-time`
 - **Name:** Innovation Process Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPCT-BSC
 
@@ -22,7 +22,7 @@ Measures elapsed time from idea capture through the innovation funnel to launch 
 ## Formula
 
 ```
-Days from Idea to Market Launch
+IPCT-BSC = Days from Idea to Market Launch
 ```
 
 ## Unit

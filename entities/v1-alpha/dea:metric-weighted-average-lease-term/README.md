@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weighted Average Lease Term** (WALT) i
 - **Canonical id:** `dea:metric-weighted-average-lease-term`
 - **Name:** Weighted Average Lease Term
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WALT
 
@@ -22,7 +22,7 @@ Measures the average remaining lease duration across tenants, weighted by income
 ## Formula
 
 ```
-Lease Years Remaining weighted by Rental Income
+WALT = Lease Years Remaining weighted by Rental Income
 ```
 
 ## Unit

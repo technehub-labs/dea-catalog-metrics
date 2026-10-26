@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Containment Rate** (LLMCR) in the 
 - **Canonical id:** `dea:metric-llm-containment-rate`
 - **Name:** LLM Containment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLMCR
 
@@ -22,7 +22,7 @@ Measures the share of conversations completed by the AI assistant without human 
 ## Formula
 
 ```
-Conversations Completed without Escalation / Conversations
+LLMCR = Conversations Completed without Escalation / Conversations
 ```
 
 ## Unit

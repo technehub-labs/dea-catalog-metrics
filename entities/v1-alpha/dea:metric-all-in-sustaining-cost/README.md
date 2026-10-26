@@ -7,7 +7,7 @@ Candidate Performance Metric record for **All-In Sustaining Cost** (AISC) in the
 - **Canonical id:** `dea:metric-all-in-sustaining-cost`
 - **Name:** All-In Sustaining Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AISC
 
@@ -22,7 +22,7 @@ All-In Sustaining Cost (AISC), standardized by the World Gold Council in 2013, a
 ## Formula
 
 ```
-Total Sustaining Production Cost / Unit of Metal Produced
+AISC = Total Sustaining Production Cost / Unit of Metal Produced
 ```
 
 ## Unit

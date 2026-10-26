@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assets Under Management Net Flow Rate*
 - **Canonical id:** `dea:metric-assets-under-management-net-flow-rate`
 - **Name:** Assets Under Management Net Flow Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUMNF
 
@@ -22,7 +22,7 @@ Measures net new AUM (inflows minus outflows) as a share of beginning AUM. Net f
 ## Formula
 
 ```
-Net New Flows / Opening AUM
+AUMNF = Net New Flows / Opening AUM
 ```
 
 ## Unit

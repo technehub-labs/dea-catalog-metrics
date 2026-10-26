@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Reporting Accuracy Rate** (CRAR
 - **Canonical id:** `dea:metric-client-reporting-accuracy-rate`
 - **Name:** Client Reporting Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRAR-IM
 
@@ -22,7 +22,7 @@ Measures the share of client statements and reports issued without error. Report
 ## Formula
 
 ```
-Reports without Restatement / Reports
+CRAR-IM = Reports without Restatement / Reports
 ```
 
 ## Unit

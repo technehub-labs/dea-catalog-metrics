@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Training Attach Rate** (PTAR)
 - **Canonical id:** `dea:metric-personal-training-attach-rate`
 - **Name:** Personal Training Attach Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTAR
 
@@ -22,7 +22,7 @@ Measures the share of members using paid personal training. It matters because t
 ## Formula
 
 ```
-Members with Active PT Contracts / Members
+PTAR = Members with Active PT Contracts / Members
 ```
 
 ## Unit

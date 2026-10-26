@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Claim Rate** (WCR) in the Ope
 - **Canonical id:** `dea:metric-warranty-claim-rate`
 - **Name:** Warranty Claim Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCR
 
@@ -22,7 +22,7 @@ Claims made under warranty as a share of units sold or in their service period -
 ## Formula
 
 ```
-Warranty Claims / Units Sold
+WCR = Warranty Claims / Units Sold
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: DEI Goal Attainment Rate (DEIGAR) addresses conformance to standard
   best-in-class levels. Practitioners in nearly any industry can adopt it directly.
 abbreviation: DEIGAR
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Published DEI Goals Achieved / Goals
 formula_definition:
   formula_id: dea:formula-dei-goal-attainment-rate
-  expression: Published DEI Goals Achieved / Goals
+  expression: DEIGAR = Published DEI Goals Achieved / Goals
   inputs:
   - name: Published DEI Goals Achieved
   - name: Goals
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3825
     batch: '8'
 domain: diversity_equity_inclusion_deep_dive
+subject_concept: dea:subject-dei_goal
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3825
+  - Public domain - no attribution required
+  known_limitations: []

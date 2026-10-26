@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Report Refresh Latency** (RRL) in the 
 - **Canonical id:** `dea:metric-report-refresh-latency`
 - **Name:** Report Refresh Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRL
 
@@ -18,7 +18,7 @@ A Data Management & Analytics indicator, Report Refresh Latency (RRL) quantifies
 ## Formula
 
 ```
-Time from Source Update to Dashboard Availability
+RRL = Time from Source Update to Dashboard Availability
 ```
 
 ## Unit

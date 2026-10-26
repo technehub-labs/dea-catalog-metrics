@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Contribution Rate (Deep Dive
 - **Canonical id:** `dea:metric-knowledge-contribution-rate-deep-dive`
 - **Name:** Knowledge Contribution Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KCR-KM
 
@@ -18,7 +18,7 @@ Knowledge Contribution Rate (Deep Dive) (KCR-KM) captures the engagement or sati
 ## Formula
 
 ```
-Active Contributors / Employees
+KCR-KM = Active Contributors / Employees
 ```
 
 ## Unit

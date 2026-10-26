@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advisor Productivity** (ADPR) in the O
 - **Canonical id:** `dea:metric-advisor-productivity`
 - **Name:** Advisor Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADPR
 
@@ -22,7 +22,7 @@ Advisor productivity measures revenue (and often households served) per advisor,
 ## Formula
 
 ```
-Revenue per Financial Advisor per Period
+ADPR = Revenue per Financial Advisor per Period
 ```
 
 ## Unit

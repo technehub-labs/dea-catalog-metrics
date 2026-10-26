@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trial to Membership Conversion** (T2M)
 - **Canonical id:** `dea:metric-trial-to-membership-conversion`
 - **Name:** Trial to Membership Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** T2M
 
@@ -22,7 +22,7 @@ Trial to membership conversion measures the share of prospects who try the club 
 ## Formula
 
 ```
-Trials Converting to Membership / Trials
+T2M = Trials Converting to Membership / Trials
 ```
 
 ## Unit

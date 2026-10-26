@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor SLA Compliance Rate** (VSCR) in
 - **Canonical id:** `dea:metric-vendor-sla-compliance-rate`
 - **Name:** Vendor SLA Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSCR
 
@@ -22,7 +22,7 @@ Measures the share of vendor obligations meeting contracted service levels. It m
 ## Formula
 
 ```
-Vendor Deliveries Meeting SLA / Vendor Deliveries Measured
+VSCR = Vendor Deliveries Meeting SLA / Vendor Deliveries Measured
 ```
 
 ## Unit

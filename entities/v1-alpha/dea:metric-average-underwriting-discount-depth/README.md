@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Underwriting Discount Depth** 
 - **Canonical id:** `dea:metric-average-underwriting-discount-depth`
 - **Name:** Average Underwriting Discount Depth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUDD
 
@@ -18,7 +18,7 @@ Within Insurance Underwriting, Average Underwriting Discount Depth (AUDD) is use
 ## Formula
 
 ```
-Average Discount from Technical Price / Technical Price
+AUDD = Average Discount from Technical Price / Technical Price
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defect Density per KLOC** (DDKLOC) in 
 - **Canonical id:** `dea:metric-defect-density-per-kloc`
 - **Name:** Defect Density per KLOC
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDKLOC
 
@@ -18,7 +18,7 @@ Defect Density per KLOC (DDKLOC) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Defects per 1,000 Lines of Code
+DDKLOC = Defects per 1,000 Lines of Code
 ```
 
 ## Unit

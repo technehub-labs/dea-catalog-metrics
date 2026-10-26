@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retention Ratio (Earnings)** (RRE) in 
 - **Canonical id:** `dea:metric-retention-ratio-earnings`
 - **Name:** Retention Ratio (Earnings)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRE
 
@@ -22,7 +22,7 @@ Measures the share of earnings retained for reinvestment. Retention funds growth
 ## Formula
 
 ```
-Retained Earnings / Net Income
+RRE = Retained Earnings / Net Income
 ```
 
 ## Unit

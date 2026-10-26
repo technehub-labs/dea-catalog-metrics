@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instructor Class Coverage Rate** (ICCR
 - **Canonical id:** `dea:metric-instructor-class-coverage-rate`
 - **Name:** Instructor Class Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICCR
 
@@ -18,7 +18,7 @@ Instructor Class Coverage Rate (ICCR) captures conformance to standards, plans, 
 ## Formula
 
 ```
-Classes Covered by Scheduled Instructor / Classes
+ICCR = Classes Covered by Scheduled Instructor / Classes
 ```
 
 ## Unit

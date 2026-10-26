@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Performance Fee at Risk Ratio** (PFARR
 - **Canonical id:** `dea:metric-performance-fee-at-risk-ratio`
 - **Name:** Performance Fee at Risk Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFARR
 
@@ -22,7 +22,7 @@ Measures how close the fund is to the high-water mark or hurdle that governs per
 ## Formula
 
 ```
-Performance Fee at Target / Fees at Prior Period
+PFARR = Performance Fee at Target / Fees at Prior Period
 ```
 
 ## Unit

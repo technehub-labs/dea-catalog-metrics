@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deliveries per Route** (DPR) in the Op
 - **Canonical id:** `dea:metric-deliveries-per-route`
 - **Name:** Deliveries per Route
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPR
 
@@ -18,7 +18,7 @@ Within Logistics & Transportation, Deliveries per Route (DPR) is used to gauge h
 ## Formula
 
 ```
-Total Deliveries / Total Routes
+DPR = Total Deliveries / Total Routes
 ```
 
 ## Unit

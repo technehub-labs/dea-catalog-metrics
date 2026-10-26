@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Information Accuracy** (PIA-
 - **Canonical id:** `dea:metric-passenger-information-accuracy`
 - **Name:** Passenger Information Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIA-T
 
@@ -18,7 +18,7 @@ Passenger Information Accuracy (PIA-T) measures the quality of outputs and outco
 ## Formula
 
 ```
-Real-Time Predictions within Tolerance / Predictions
+PIA-T = Real-Time Predictions within Tolerance / Predictions
 ```
 
 ## Unit

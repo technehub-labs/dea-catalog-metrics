@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Die Yield (Deep Dive)** (DYL-D) in the
 - **Canonical id:** `dea:metric-die-yield-deep-dive`
 - **Name:** Die Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DYL-D
 
@@ -22,7 +22,7 @@ Measures functional dies against total dies per wafer. It is the economics core 
 ## Formula
 
 ```
-Good Die / Gross Die per Wafer
+DYL-D = Good Die / Gross Die per Wafer
 ```
 
 ## Unit

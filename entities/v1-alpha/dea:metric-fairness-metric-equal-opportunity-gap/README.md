@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fairness Metric - Equal Opportunity Ga
 - **Canonical id:** `dea:metric-fairness-metric-equal-opportunity-gap`
 - **Name:** Fairness Metric - Equal Opportunity Gap
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FMEOG
 
@@ -22,7 +22,7 @@ Measures the difference in true-positive rates across groups - whether qualified
 ## Formula
 
 ```
-Difference in True Positive Rates across Groups
+FMEOG = Difference in True Positive Rates across Groups
 ```
 
 ## Unit

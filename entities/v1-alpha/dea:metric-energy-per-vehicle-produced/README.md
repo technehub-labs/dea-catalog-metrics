@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy per Vehicle Produced** (EPV) in
 - **Canonical id:** `dea:metric-energy-per-vehicle-produced`
 - **Name:** Energy per Vehicle Produced
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPV
 
@@ -22,7 +22,7 @@ Measures energy consumed per vehicle built. It matters because it is the plant-l
 ## Formula
 
 ```
-Energy Consumed / Vehicles Produced
+EPV = Energy Consumed / Vehicles Produced
 ```
 
 ## Unit

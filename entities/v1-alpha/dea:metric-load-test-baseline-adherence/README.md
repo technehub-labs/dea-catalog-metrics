@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Load Test Baseline Adherence** (LTBA-Q
 - **Canonical id:** `dea:metric-load-test-baseline-adherence`
 - **Name:** Load Test Baseline Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTBA-QA
 
@@ -18,7 +18,7 @@ Load Test Baseline Adherence (LTBA-QA) measures the quality of outputs and outco
 ## Formula
 
 ```
-Load Tests Meeting Response Baselines / Tests
+LTBA-QA = Load Tests Meeting Response Baselines / Tests
 ```
 
 ## Unit

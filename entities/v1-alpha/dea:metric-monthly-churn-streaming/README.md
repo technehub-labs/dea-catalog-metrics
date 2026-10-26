@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Churn (Streaming)** (MCH) in t
 - **Canonical id:** `dea:metric-monthly-churn-streaming`
 - **Name:** Monthly Churn (Streaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCH
 
@@ -22,7 +22,7 @@ Subscribers lost per month - the retention metric of subscription media, whose s
 ## Formula
 
 ```
-Cancelled Subscriptions / Subscribers at Start of Month
+MCH = Cancelled Subscriptions / Subscribers at Start of Month
 ```
 
 ## Unit

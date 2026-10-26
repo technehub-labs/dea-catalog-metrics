@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Obligation Fulfilment Rate** (OFR-CL) 
 - **Canonical id:** `dea:metric-obligation-fulfilment-rate`
 - **Name:** Obligation Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OFR-CL
 
@@ -18,7 +18,7 @@ Obligation Fulfilment Rate (OFR-CL) addresses conformance to standards, plans, o
 ## Formula
 
 ```
-Contractual Obligations Met on Time / Obligations
+OFR-CL = Contractual Obligations Met on Time / Obligations
 ```
 
 ## Unit

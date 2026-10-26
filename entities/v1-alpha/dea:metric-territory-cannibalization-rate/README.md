@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Territory Cannibalization Rate** (TCR-
 - **Canonical id:** `dea:metric-territory-cannibalization-rate`
 - **Name:** Territory Cannibalization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCR-F
 
@@ -22,7 +22,7 @@ Measures sales lost by existing units to new same-brand locations. Franchise sys
 ## Formula
 
 ```
-Same-Brand Sales Decline after New Opening / Baseline
+TCR-F = Same-Brand Sales Decline after New Opening / Baseline
 ```
 
 ## Unit

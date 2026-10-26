@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Forecast Accuracy (Workforce)**
 - **Canonical id:** `dea:metric-demand-forecast-accuracy-workforce`
 - **Name:** Demand Forecast Accuracy (Workforce)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DFAW
 
@@ -22,7 +22,7 @@ Measures how accurately workforce demand is forecast for staffing plans. It matt
 ## Formula
 
 ```
-1 - ABS(Forecast Staffing - Required Staffing) / Required Staffing
+DFAW = 1 - ABS(Forecast Staffing - Required Staffing) / Required Staffing
 ```
 
 ## Unit

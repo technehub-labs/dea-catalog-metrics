@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defects per Million Opportunities (Dee
 - **Canonical id:** `dea:metric-defects-per-million-opportunities-deep-dive`
 - **Name:** Defects per Million Opportunities (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPMOD
 
@@ -18,7 +18,7 @@ A Process Capability & Six Sigma (Deep Dive) indicator, Defects per Million Oppo
 ## Formula
 
 ```
-Defects / (Units x Opportunities) x 1,000,000
+DPMOD = Defects / (Units x Opportunities) x 1,000,000
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance-Induced Delay Rate (Airlin
 - **Canonical id:** `dea:metric-maintenance-induced-delay-rate-airline`
 - **Name:** Maintenance-Induced Delay Rate (Airline)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIDRA
 
@@ -18,7 +18,7 @@ Maintenance-Induced Delay Rate (Airline) (MIDRA) addresses exposure to adverse o
 ## Formula
 
 ```
-Delays Attributed to Maintenance / Departure Delays
+MIDRA = Delays Attributed to Maintenance / Departure Delays
 ```
 
 ## Unit

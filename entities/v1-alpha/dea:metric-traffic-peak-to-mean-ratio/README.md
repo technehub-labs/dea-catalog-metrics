@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Traffic Peak-to-Mean Ratio** (TPMR) in
 - **Canonical id:** `dea:metric-traffic-peak-to-mean-ratio`
 - **Name:** Traffic Peak-to-Mean Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPMR
 
@@ -18,7 +18,7 @@ Traffic Peak-to-Mean Ratio (TPMR) addresses the utilization or availability of c
 ## Formula
 
 ```
-Peak Traffic / Average Traffic
+TPMR = Peak Traffic / Average Traffic
 ```
 
 ## Unit

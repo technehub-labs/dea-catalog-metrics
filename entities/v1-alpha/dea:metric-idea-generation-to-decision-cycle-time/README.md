@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idea Generation to Decision Cycle Time
 - **Canonical id:** `dea:metric-idea-generation-to-decision-cycle-time`
 - **Name:** Idea Generation to Decision Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IGDCT
 
@@ -18,7 +18,7 @@ Idea Generation to Decision Cycle Time (IGDCT) measures how efficiently resource
 ## Formula
 
 ```
-Days from Research Publication to Decision
+IGDCT = Days from Research Publication to Decision
 ```
 
 ## Unit

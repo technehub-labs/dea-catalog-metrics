@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milling Throughput** (MTH) in the Open
 - **Canonical id:** `dea:metric-milling-throughput`
 - **Name:** Milling Throughput
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTH
 
@@ -18,7 +18,7 @@ Milling Throughput (MTH) measures the utilization or availability of capacity in
 ## Formula
 
 ```
-Ore Milled per Period
+MTH = Ore Milled per Period
 ```
 
 ## Unit

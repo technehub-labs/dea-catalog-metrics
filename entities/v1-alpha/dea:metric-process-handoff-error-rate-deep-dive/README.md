@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Handoff Error Rate (Deep Dive)
 - **Canonical id:** `dea:metric-process-handoff-error-rate-deep-dive`
 - **Name:** Process Handoff Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PHER-D
 
@@ -18,7 +18,7 @@ Within Balanced Scorecard - Internal Process Perspective, Process Handoff Error 
 ## Formula
 
 ```
-Errors at Process Handoffs / Handoffs
+PHER-D = Errors at Process Handoffs / Handoffs
 ```
 
 ## Unit

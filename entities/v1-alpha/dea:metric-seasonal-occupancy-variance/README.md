@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Seasonal Occupancy Variance** (SOV) in
 - **Canonical id:** `dea:metric-seasonal-occupancy-variance`
 - **Name:** Seasonal Occupancy Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOV
 
@@ -22,7 +22,7 @@ Seasonal occupancy variance measures demand swings across the year, and it is th
 ## Formula
 
 ```
-(Peak Occupancy - Off-Peak Occupancy) / Peak Occupancy
+SOV = (Peak Occupancy - Off-Peak Occupancy) / Peak Occupancy
 ```
 
 ## Unit

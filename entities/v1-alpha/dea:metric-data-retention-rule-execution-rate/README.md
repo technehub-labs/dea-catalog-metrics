@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Retention Rule Execution Rate** (
 - **Canonical id:** `dea:metric-data-retention-rule-execution-rate`
 - **Name:** Data Retention Rule Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRRER
 
@@ -18,7 +18,7 @@ Data Retention Rule Execution Rate (DRRER) captures conformance to standards, pl
 ## Formula
 
 ```
-Retention Rules Applied Automatically / Applicable Rules
+DRRER = Retention Rules Applied Automatically / Applicable Rules
 ```
 
 ## Unit

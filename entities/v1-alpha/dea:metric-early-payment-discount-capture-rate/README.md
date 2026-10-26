@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Early Payment Discount Capture Rate** 
 - **Canonical id:** `dea:metric-early-payment-discount-capture-rate`
 - **Name:** Early Payment Discount Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPDCR
 
@@ -18,7 +18,7 @@ Within Accounts Payable & Receivable Operations (Deep Dive), Early Payment Disco
 ## Formula
 
 ```
-Discounts Captured / Discounts Offered
+EPDCR = Discounts Captured / Discounts Offered
 ```
 
 ## Unit

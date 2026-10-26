@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Availability (Deep Dive)** (NA
 - **Canonical id:** `dea:metric-network-availability-deep-dive`
 - **Name:** Network Availability (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NA-D
 
@@ -22,7 +22,7 @@ Measures the accessibility of telecom services - cell sites, RAN availability, c
 ## Formula
 
 ```
-Available Time / Total Time
+NA-D = Available Time / Total Time
 ```
 
 ## Unit

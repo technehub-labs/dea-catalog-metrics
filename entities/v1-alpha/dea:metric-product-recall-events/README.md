@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Recall Events** (PRE) in the O
 - **Canonical id:** `dea:metric-product-recall-events`
 - **Name:** Product Recall Events
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRE
 
@@ -22,7 +22,7 @@ Product recall events count the number of times product must be retrieved from t
 ## Formula
 
 ```
-Food Product Recalls per Period
+PRE = Food Product Recalls per Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Treatment Room Turnover Time** (TRTT) 
 - **Canonical id:** `dea:metric-treatment-room-turnover-time`
 - **Name:** Treatment Room Turnover Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRTT
 
@@ -18,7 +18,7 @@ Treatment Room Turnover Time (TRTT) captures how efficiently resources are conve
 ## Formula
 
 ```
-Minutes between Appointments in Room
+TRTT = Minutes between Appointments in Room
 ```
 
 ## Unit

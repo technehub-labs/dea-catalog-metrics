@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Headcount Plan Attainment** (HPA-FP) i
 - **Canonical id:** `dea:metric-headcount-plan-attainment`
 - **Name:** Headcount Plan Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HPA-FP
 
@@ -18,7 +18,7 @@ Headcount Plan Attainment (HPA-FP) captures the utilization or availability of c
 ## Formula
 
 ```
-Actual Hires vs Plan Hires / Plan
+HPA-FP = Actual Hires vs Plan Hires / Plan
 ```
 
 ## Unit

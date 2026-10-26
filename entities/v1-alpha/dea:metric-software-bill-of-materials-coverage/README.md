@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Software Bill of Materials Coverage** 
 - **Canonical id:** `dea:metric-software-bill-of-materials-coverage`
 - **Name:** Software Bill of Materials Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBOMC
 
@@ -22,7 +22,7 @@ Measures the share of applications with a complete, current machine-readable inv
 ## Formula
 
 ```
-Artifacts with Generated SBOM / Artifacts
+SBOMC = Artifacts with Generated SBOM / Artifacts
 ```
 
 ## Unit

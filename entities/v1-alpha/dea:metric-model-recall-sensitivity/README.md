@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Recall (Sensitivity)** (MREC) in
 - **Canonical id:** `dea:metric-model-recall-sensitivity`
 - **Name:** Model Recall (Sensitivity)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MREC
 
@@ -18,7 +18,7 @@ Within Statistical Model Performance Diagnostics, Model Recall (Sensitivity) (MR
 ## Formula
 
 ```
-True Positives / (True Positives + False Negatives)
+MREC = True Positives / (True Positives + False Negatives)
 ```
 
 ## Unit

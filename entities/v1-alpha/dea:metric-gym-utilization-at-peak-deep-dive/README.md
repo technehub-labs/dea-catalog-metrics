@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gym Utilization at Peak (Deep Dive)** 
 - **Canonical id:** `dea:metric-gym-utilization-at-peak-deep-dive`
 - **Name:** Gym Utilization at Peak (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GUP-D
 
@@ -18,7 +18,7 @@ Within Fitness & Wellness (Deep Dive), Gym Utilization at Peak (Deep Dive) (GUP-
 ## Formula
 
 ```
-Peak Attendees / Usable Capacity
+GUP-D = Peak Attendees / Usable Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog Maintenance Hours** (BMH) in t
 - **Canonical id:** `dea:metric-backlog-maintenance-hours`
 - **Name:** Backlog Maintenance Hours
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BMH
 
@@ -18,7 +18,7 @@ Backlog Maintenance Hours (BMH) addresses the utilization or availability of cap
 ## Formula
 
 ```
-Outstanding Maintenance Work Hours
+BMH = Outstanding Maintenance Work Hours
 ```
 
 ## Unit

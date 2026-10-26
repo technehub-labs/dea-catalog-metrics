@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Class Fill Rate (Deep Dive)** (CFR-D) 
 - **Canonical id:** `dea:metric-class-fill-rate-deep-dive`
 - **Name:** Class Fill Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFR-D
 
@@ -18,7 +18,7 @@ A Fitness & Wellness (Deep Dive) indicator, Class Fill Rate (Deep Dive) (CFR-D) 
 ## Formula
 
 ```
-Booked Spots / Available Class Spots
+CFR-D = Booked Spots / Available Class Spots
 ```
 
 ## Unit

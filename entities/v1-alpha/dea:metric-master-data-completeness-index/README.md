@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Completeness Index** (MDCI
 - **Canonical id:** `dea:metric-master-data-completeness-index`
 - **Name:** Master Data Completeness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDCI
 
@@ -22,7 +22,7 @@ Measures how completely required attributes are populated across master records.
 ## Formula
 
 ```
-Composite Completeness of Golden Records
+MDCI = Composite Completeness of Golden Records
 ```
 
 ## Unit

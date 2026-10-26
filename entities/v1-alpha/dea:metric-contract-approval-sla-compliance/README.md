@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Approval SLA Compliance** (CA
 - **Canonical id:** `dea:metric-contract-approval-sla-compliance`
 - **Name:** Contract Approval SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CASLAC
 
@@ -18,7 +18,7 @@ Within Contract Lifecycle Management, Contract Approval SLA Compliance (CASLAC) 
 ## Formula
 
 ```
-Approvals Completed within SLA / Approvals
+CASLAC = Approvals Completed within SLA / Approvals
 ```
 
 ## Unit

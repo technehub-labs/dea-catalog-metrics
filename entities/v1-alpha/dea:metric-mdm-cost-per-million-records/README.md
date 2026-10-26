@@ -7,7 +7,7 @@ Candidate Performance Metric record for **MDM Cost per Million Records** (MDMCPR
 - **Canonical id:** `dea:metric-mdm-cost-per-million-records`
 - **Name:** MDM Cost per Million Records
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDMCPR
 
@@ -18,7 +18,7 @@ MDM Cost per Million Records (MDMCPR) measures how efficiently resources are con
 ## Formula
 
 ```
-Annual MDM Spend / Records in Millions
+MDMCPR = Annual MDM Spend / Records in Millions
 ```
 
 ## Unit

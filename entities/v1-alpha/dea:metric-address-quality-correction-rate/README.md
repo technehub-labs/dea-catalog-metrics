@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Address Quality Correction Rate** (AQC
 - **Canonical id:** `dea:metric-address-quality-correction-rate`
 - **Name:** Address Quality Correction Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AQC
 
@@ -18,7 +18,7 @@ Address Quality Correction Rate (AQC) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Items Requiring Address Correction / Items Received
+AQC = Items Requiring Address Correction / Items Received
 ```
 
 ## Unit

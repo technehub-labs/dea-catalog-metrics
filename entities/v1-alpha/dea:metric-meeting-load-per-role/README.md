@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Load per Role** (MLPR) in the 
 - **Canonical id:** `dea:metric-meeting-load-per-role`
 - **Name:** Meeting Load per Role
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MLPR
 
@@ -18,7 +18,7 @@ Meeting Load per Role (MLPR) measures how efficiently resources are converted in
 ## Formula
 
 ```
-Meeting Hours per Role per Week
+MLPR = Meeting Hours per Role per Week
 ```
 
 ## Unit

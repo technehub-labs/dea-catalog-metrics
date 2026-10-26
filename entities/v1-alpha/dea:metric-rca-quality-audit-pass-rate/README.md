@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RCA Quality Audit Pass Rate** (RQAPR) 
 - **Canonical id:** `dea:metric-rca-quality-audit-pass-rate`
 - **Name:** RCA Quality Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RQAPR
 
@@ -18,7 +18,7 @@ RCA Quality Audit Pass Rate (RQAPR) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-RCAs Meeting Quality Bar / Audited
+RQAPR = RCAs Meeting Quality Bar / Audited
 ```
 
 ## Unit

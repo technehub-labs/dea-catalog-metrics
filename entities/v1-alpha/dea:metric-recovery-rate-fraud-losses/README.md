@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate (Fraud Losses)** (RRFL) 
 - **Canonical id:** `dea:metric-recovery-rate-fraud-losses`
 - **Name:** Recovery Rate (Fraud Losses)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRFL
 
@@ -22,7 +22,7 @@ Measures how much of fraud losses are actually recovered. Recovery converts dete
 ## Formula
 
 ```
-Fraud Losses Recovered / Total Fraud Losses
+RRFL = Fraud Losses Recovered / Total Fraud Losses
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Change Frequency** (DCF) in the
 - **Canonical id:** `dea:metric-design-change-frequency`
 - **Name:** Design Change Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCF
 
@@ -22,7 +22,7 @@ Measures how often designs change after approval. It matters because late design
 ## Formula
 
 ```
-Design Changes Issued / Drawing Packages Released
+DCF = Design Changes Issued / Drawing Packages Released
 ```
 
 ## Unit

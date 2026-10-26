@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capability Maturity Assessment Currenc
 - **Canonical id:** `dea:metric-capability-maturity-assessment-currency`
 - **Name:** Capability Maturity Assessment Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMAC-OM
 
@@ -22,7 +22,7 @@ Measures whether capability maturity assessments are recent enough to reflect cu
 ## Formula
 
 ```
-Capabilities Assessed within Two Years / Capabilities
+CMAC-OM = Capabilities Assessed within Two Years / Capabilities
 ```
 
 ## Unit

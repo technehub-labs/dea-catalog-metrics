@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Niche Role Search Success Rate** (NRSS
 - **Canonical id:** `dea:metric-niche-role-search-success-rate`
 - **Name:** Niche Role Search Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NRSSR
 
@@ -22,7 +22,7 @@ Measures how often hard-to-fill specialist roles are filled within target window
 ## Formula
 
 ```
-Hard-to-Fill Roles Closed within Target / Hard-to-Fill Roles
+NRSSR = Hard-to-Fill Roles Closed within Target / Hard-to-Fill Roles
 ```
 
 ## Unit

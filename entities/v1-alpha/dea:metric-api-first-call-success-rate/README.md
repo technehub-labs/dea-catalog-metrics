@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API First-Call Success Rate** (FCSR) i
 - **Canonical id:** `dea:metric-api-first-call-success-rate`
 - **Name:** API First-Call Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCSR
 
@@ -18,7 +18,7 @@ A API Lifecycle Management indicator, API First-Call Success Rate (FCSR) quantif
 ## Formula
 
 ```
-Consumer Integrations Succeeding on First Attempt / Integrations
+FCSR = Consumer Integrations Succeeding on First Attempt / Integrations
 ```
 
 ## Unit

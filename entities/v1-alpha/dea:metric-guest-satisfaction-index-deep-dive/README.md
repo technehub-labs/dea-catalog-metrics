@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Satisfaction Index (Deep Dive)**
 - **Canonical id:** `dea:metric-guest-satisfaction-index-deep-dive`
 - **Name:** Guest Satisfaction Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSI-D
 
@@ -22,7 +22,7 @@ Measures aggregated guest satisfaction across the stay journey. In hotels, satis
 ## Formula
 
 ```
-Composite Guest Survey Score
+GSI-D = Composite Guest Survey Score
 ```
 
 ## Unit

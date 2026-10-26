@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Decision Record Coverage*
 - **Canonical id:** `dea:metric-architecture-decision-record-coverage`
 - **Name:** Architecture Decision Record Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADRC
 
@@ -22,7 +22,7 @@ Measures the share of significant architecture decisions captured as records (co
 ## Formula
 
 ```
-Material Decisions with ADRs / Material Decisions
+ADRC = Material Decisions with ADRs / Material Decisions
 ```
 
 ## Unit

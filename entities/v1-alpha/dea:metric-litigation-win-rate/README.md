@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Litigation Win Rate** (LWR) in the Ope
 - **Canonical id:** `dea:metric-litigation-win-rate`
 - **Name:** Litigation Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LWR
 
@@ -22,7 +22,7 @@ The share of resolved matters ending favorably - the outcome metric of the legal
 ## Formula
 
 ```
-Favorable Outcomes / Cases Concluded
+LWR = Favorable Outcomes / Cases Concluded
 ```
 
 ## Unit

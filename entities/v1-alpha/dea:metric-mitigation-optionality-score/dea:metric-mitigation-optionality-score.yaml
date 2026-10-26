@@ -8,7 +8,7 @@ description: Mitigation Optionality Score (MOS-ER) measures exposure to adverse 
   the limits of cost and quality trade-offs.
 abbreviation: MOS-ER
 unit: score
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - risk
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Rubric of Prepared Mitigation Options per Emerging Risk
 formula_definition:
   formula_id: dea:formula-mitigation-optionality-score
-  expression: Rubric of Prepared Mitigation Options per Emerging Risk
+  expression: MOS-ER = Rubric of Prepared Mitigation Options per Emerging Risk
   inputs:
   - name: Rubric of Prepared Mitigation Options per Emerging Risk
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-score
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,9 +46,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 4009
     batch: '8'
 domain: emerging_risk_horizon_scanning
+subject_concept: dea:subject-mitigation_optionality
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4009
+  - Public domain - no attribution required
+  known_limitations: []

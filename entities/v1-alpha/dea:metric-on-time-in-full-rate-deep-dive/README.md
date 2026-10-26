@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time In-Full Rate (Deep Dive)** (OT
 - **Canonical id:** `dea:metric-on-time-in-full-rate-deep-dive`
 - **Name:** On-Time In-Full Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTIFDD
 
@@ -22,7 +22,7 @@ Measures the share of orders delivered complete and on schedule, combined. OTIF 
 ## Formula
 
 ```
-Order Lines On Time and Complete / Order Lines
+OTIFDD = Order Lines On Time and Complete / Order Lines
 ```
 
 ## Unit

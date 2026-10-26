@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Work Safety Incident Rate** (FWS
 - **Canonical id:** `dea:metric-field-work-safety-incident-rate`
 - **Name:** Field Work Safety Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FWSIR
 
@@ -22,7 +22,7 @@ Measures recordable safety incidents per field work hours. Field work (driving, 
 ## Formula
 
 ```
-Field Safety Incidents per 200,000 Hours
+FWSIR = Field Safety Incidents per 200,000 Hours
 ```
 
 ## Unit

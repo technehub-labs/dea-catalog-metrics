@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Readmission Rate within 30 Days** (RR3
 - **Canonical id:** `dea:metric-readmission-rate-within-30-days`
 - **Name:** Readmission Rate within 30 Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RR30
 
@@ -22,7 +22,7 @@ The share of discharges followed by unplanned readmission within thirty days - t
 ## Formula
 
 ```
-Readmissions within 30 Days / Discharges
+RR30 = Readmissions within 30 Days / Discharges
 ```
 
 ## Unit

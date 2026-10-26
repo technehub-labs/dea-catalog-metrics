@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Rate (Contact Center) (Deep
 - **Canonical id:** `dea:metric-escalation-rate-contact-center-deep-dive`
 - **Name:** Escalation Rate (Contact Center) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESCDD
 
@@ -18,7 +18,7 @@ Escalation Rate (Contact Center) (Deep Dive) (ESCDD) captures the quality of out
 ## Formula
 
 ```
-Contacts Escalated to Tier 2+ / Contacts
+ESCDD = Contacts Escalated to Tier 2+ / Contacts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Invoice Touchless Processing Rate** (I
 - **Canonical id:** `dea:metric-invoice-touchless-processing-rate`
 - **Name:** Invoice Touchless Processing Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITPR
 
@@ -18,7 +18,7 @@ Invoice Touchless Processing Rate (ITPR) captures how efficiently resources are 
 ## Formula
 
 ```
-Invoices Processed without Manual Intervention / Invoices
+ITPR = Invoices Processed without Manual Intervention / Invoices
 ```
 
 ## Unit

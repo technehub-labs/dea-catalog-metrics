@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Score Delta vs Benchmark** (ESGSDB
 - **Canonical id:** `dea:metric-esg-score-delta-vs-benchmark`
 - **Name:** ESG Score Delta vs Benchmark
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESGSDB
 
@@ -22,7 +22,7 @@ Measures the portfolio's aggregate ESG score relative to its benchmark. The delt
 ## Formula
 
 ```
-Portfolio ESG Score minus Benchmark ESG Score
+ESGSDB = Portfolio ESG Score minus Benchmark ESG Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Detection Rule Health - False Negative
 - **Canonical id:** `dea:metric-detection-rule-health-false-negative-rate`
 - **Name:** Detection Rule Health - False Negative Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRHFN
 
@@ -22,7 +22,7 @@ Measures how often validated attacks evade existing detection rules during testi
 ## Formula
 
 ```
-Valid Threats Missed by Rules / Valid Threats in Test
+DRHFN = Valid Threats Missed by Rules / Valid Threats in Test
 ```
 
 ## Unit

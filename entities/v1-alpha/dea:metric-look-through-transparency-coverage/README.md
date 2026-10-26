@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Look-through Transparency Coverage** (
 - **Canonical id:** `dea:metric-look-through-transparency-coverage`
 - **Name:** Look-through Transparency Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTTC-IM
 
@@ -18,7 +18,7 @@ Look-through Transparency Coverage (LTTC-IM) measures conformance to standards, 
 ## Formula
 
 ```
-Holdings with Full Transparency / Holdings
+LTTC-IM = Holdings with Full Transparency / Holdings
 ```
 
 ## Unit

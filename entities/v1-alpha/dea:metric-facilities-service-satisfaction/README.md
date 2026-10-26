@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Facilities Service Satisfaction** (FSS
 - **Canonical id:** `dea:metric-facilities-service-satisfaction`
 - **Name:** Facilities Service Satisfaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSS
 
@@ -22,7 +22,7 @@ Measures occupant satisfaction with facilities services such as maintenance, cle
 ## Formula
 
 ```
-Satisfied Facilities Survey Responses / Responses
+FSS = Satisfied Facilities Survey Responses / Responses
 ```
 
 ## Unit

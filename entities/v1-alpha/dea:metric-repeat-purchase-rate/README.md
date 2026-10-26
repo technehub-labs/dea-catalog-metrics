@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Purchase Rate** (RPR) in the Op
 - **Canonical id:** `dea:metric-repeat-purchase-rate`
 - **Name:** Repeat Purchase Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPR
 
@@ -22,7 +22,7 @@ Measures the share of customers who make more than one purchase in a period. It 
 ## Formula
 
 ```
-Customers with >1 Purchase / Total Customers
+RPR = Customers with >1 Purchase / Total Customers
 ```
 
 ## Unit

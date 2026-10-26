@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Vendor Assessment Coverage** 
 - **Canonical id:** `dea:metric-critical-vendor-assessment-coverage`
 - **Name:** Critical Vendor Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVAC-TP
 
@@ -22,7 +22,7 @@ Measures whether vendors designated critical receive the depth of assessment the
 ## Formula
 
 ```
-Critical Vendors with Current Risk Assessment / Critical Vendors
+CVAC-TP = Critical Vendors with Current Risk Assessment / Critical Vendors
 ```
 
 ## Unit

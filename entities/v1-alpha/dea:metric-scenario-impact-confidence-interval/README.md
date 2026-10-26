@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Scenario Impact Confidence Interval** 
 - **Canonical id:** `dea:metric-scenario-impact-confidence-interval`
 - **Name:** Scenario Impact Confidence Interval
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SICI
 
@@ -22,7 +22,7 @@ Measures how much certainty the scenario analysis can honestly claim. Intervals 
 ## Formula
 
 ```
-Width of Modeled Outcome Range at Target Confidence
+SICI = Width of Modeled Outcome Range at Target Confidence
 ```
 
 ## Unit

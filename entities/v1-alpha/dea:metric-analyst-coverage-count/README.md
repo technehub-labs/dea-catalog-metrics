@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Coverage Count** (ANCC) in the
 - **Canonical id:** `dea:metric-analyst-coverage-count`
 - **Name:** Analyst Coverage Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ANCC
 
@@ -22,7 +22,7 @@ The number of sell-side analysts publishing estimates on the stock - the market-
 ## Formula
 
 ```
-Sell-Side Analysts Publishing Estimates
+ANCC = Sell-Side Analysts Publishing Estimates
 ```
 
 ## Unit

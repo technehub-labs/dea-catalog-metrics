@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Adoption Rate - Analytics Ins
 - **Canonical id:** `dea:metric-decision-adoption-rate-analytics-insights`
 - **Name:** Decision Adoption Rate - Analytics Insights
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DARAI
 
@@ -22,7 +22,7 @@ Measures the share of analytics recommendations adopted into business decisions.
 ## Formula
 
 ```
-Recommendations Adopted by Decision Makers / Recommendations
+DARAI = Recommendations Adopted by Decision Makers / Recommendations
 ```
 
 ## Unit

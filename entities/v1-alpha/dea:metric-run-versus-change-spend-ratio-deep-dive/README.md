@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Run versus Change Spend Ratio (Deep Di
 - **Canonical id:** `dea:metric-run-versus-change-spend-ratio-deep-dive`
 - **Name:** Run versus Change Spend Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RVCS-D
 
@@ -22,7 +22,7 @@ Measures the balance of spend keeping the lights on versus building new capabili
 ## Formula
 
 ```
-Run-the-Business Spend / Total IT Spend
+RVCS-D = Run-the-Business Spend / Total IT Spend
 ```
 
 ## Unit

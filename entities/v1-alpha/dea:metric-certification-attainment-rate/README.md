@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certification Attainment Rate** (CAR-L
 - **Canonical id:** `dea:metric-certification-attainment-rate`
 - **Name:** Certification Attainment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAR-L
 
@@ -22,7 +22,7 @@ Measures the share of learners achieving certification within enrolled programs.
 ## Formula
 
 ```
-Employees Earning Certifications / Employees Enrolled
+CAR-L = Employees Earning Certifications / Employees Enrolled
 ```
 
 ## Unit

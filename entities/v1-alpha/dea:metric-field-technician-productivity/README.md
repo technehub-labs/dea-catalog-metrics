@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Technician Productivity** (FTP-T
 - **Canonical id:** `dea:metric-field-technician-productivity`
 - **Name:** Field Technician Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTP-T
 
@@ -18,7 +18,7 @@ Field Technician Productivity (FTP-T) captures how efficiently resources are con
 ## Formula
 
 ```
-Completed Jobs / Technician Day
+FTP-T = Completed Jobs / Technician Day
 ```
 
 ## Unit

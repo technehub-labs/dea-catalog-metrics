@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Call Drop Rate** (CDR-T) in the OpenDE
 - **Canonical id:** `dea:metric-call-drop-rate`
 - **Name:** Call Drop Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-T
 
@@ -18,7 +18,7 @@ Call Drop Rate (CDR-T) measures the quality of outputs and outcomes in the Telec
 ## Formula
 
 ```
-Dropped Calls / Total Calls
+CDR-T = Dropped Calls / Total Calls
 ```
 
 ## Unit

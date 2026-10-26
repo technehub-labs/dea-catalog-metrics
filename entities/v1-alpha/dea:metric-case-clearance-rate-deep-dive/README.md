@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Clearance Rate (Deep Dive)** (CCR
 - **Canonical id:** `dea:metric-case-clearance-rate-deep-dive`
 - **Name:** Case Clearance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCRD
 
@@ -18,7 +18,7 @@ A Public Sector & Citizen Service Standard Measures (Deep Dive) indicator, Case 
 ## Formula
 
 ```
-Cases Closed / Cases Received
+CCRD = Cases Closed / Cases Received
 ```
 
 ## Unit

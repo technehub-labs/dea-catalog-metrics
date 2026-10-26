@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Error Rate (Deep Dive)** (TER-D)
 - **Canonical id:** `dea:metric-trade-error-rate-deep-dive`
 - **Name:** Trade Error Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TER-D
 
@@ -18,7 +18,7 @@ Within Investment Management - Portfolio Operations, Trade Error Rate (Deep Dive
 ## Formula
 
 ```
-Trade Errors / Trades
+TER-D = Trade Errors / Trades
 ```
 
 ## Unit

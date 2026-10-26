@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Productivity (Transactions)** (A
 - **Canonical id:** `dea:metric-agent-productivity-transactions`
 - **Name:** Agent Productivity (Transactions)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APT
 
@@ -22,7 +22,7 @@ Measures closed transactions per agent in real estate brokerage. It matters beca
 ## Formula
 
 ```
-Closed Transactions / Agent per Period
+APT = Closed Transactions / Agent per Period
 ```
 
 ## Unit

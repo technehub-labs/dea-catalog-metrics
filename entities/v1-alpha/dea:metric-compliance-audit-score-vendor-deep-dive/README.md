@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Audit Score - Vendor (Deep 
 - **Canonical id:** `dea:metric-compliance-audit-score-vendor-deep-dive`
 - **Name:** Compliance Audit Score - Vendor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CASV-D
 
@@ -22,7 +22,7 @@ Measures supplier facility audit results against social, environmental, and safe
 ## Formula
 
 ```
-Social and Quality Audit Composite Score
+CASV-D = Social and Quality Audit Composite Score
 ```
 
 ## Unit

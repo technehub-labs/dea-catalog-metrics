@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per 1,000 Inference Tokens** (CP1
 - **Canonical id:** `dea:metric-cost-per-1-000-inference-tokens`
 - **Name:** Cost per 1,000 Inference Tokens
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CP1KT
 
@@ -18,7 +18,7 @@ Cost per 1,000 Inference Tokens (CP1KT) measures how efficiently resources are c
 ## Formula
 
 ```
-Inference Spend / 1,000 Tokens Processed
+CP1KT = Inference Spend / 1,000 Tokens Processed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model KPI Coverage Ratio** (
 - **Canonical id:** `dea:metric-operating-model-kpi-coverage-ratio`
 - **Name:** Operating Model KPI Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMKPCR
 
@@ -22,7 +22,7 @@ Measures how completely the operating model's elements have defined, owned KPIs.
 ## Formula
 
 ```
-Value Streams with Defined KPIs / Value Streams
+OMKPCR = Value Streams with Defined KPIs / Value Streams
 ```
 
 ## Unit

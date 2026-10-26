@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stress-Related Absence Rate** (SAR-E) 
 - **Canonical id:** `dea:metric-stress-related-absence-rate`
 - **Name:** Stress-Related Absence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAR-E
 
@@ -22,7 +22,7 @@ Stress-related absence measures leave attributed to psychological strain, and in
 ## Formula
 
 ```
-Stress-Related Absence Days / Total Absence Days
+SAR-E = Stress-Related Absence Days / Total Absence Days
 ```
 
 ## Unit

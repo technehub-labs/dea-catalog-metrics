@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate on Charged-Off (Deep Div
 - **Canonical id:** `dea:metric-recovery-rate-on-charged-off-deep-dive`
 - **Name:** Recovery Rate on Charged-Off (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRCOD
 
@@ -22,7 +22,7 @@ Measures how much of charged-off balances are eventually recovered. Recovery con
 ## Formula
 
 ```
-Recovered Amount / Charged-Off Amount
+RRCOD = Recovered Amount / Charged-Off Amount
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student Satisfaction Score** (SSS) in 
 - **Canonical id:** `dea:metric-student-satisfaction-score`
 - **Name:** Student Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSS
 
@@ -22,7 +22,7 @@ Measures student ratings of courses, teaching, and experience. It matters becaus
 ## Formula
 
 ```
-Satisfied Student Survey Responses / Responses
+SSS = Satisfied Student Survey Responses / Responses
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attributed Conversion Share** (ACS) in
 - **Canonical id:** `dea:metric-attributed-conversion-share`
 - **Name:** Attributed Conversion Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACS
 
@@ -18,7 +18,7 @@ Attributed Conversion Share (ACS) measures the quality of outputs and outcomes i
 ## Formula
 
 ```
-Conversions with Attribution Confidence / Total Conversions
+ACS = Conversions with Attribution Confidence / Total Conversions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert Triage Accuracy** (ATA-SOC) in t
 - **Canonical id:** `dea:metric-alert-triage-accuracy`
 - **Name:** Alert Triage Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATA-SOC
 
@@ -18,7 +18,7 @@ Alert Triage Accuracy (ATA-SOC) measures the quality of outputs and outcomes in 
 ## Formula
 
 ```
-Alerts Correctly Categorized on Triage / Sampled
+ATA-SOC = Alerts Correctly Categorized on Triage / Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Agreement Compliance** (
 - **Canonical id:** `dea:metric-service-level-agreement-compliance`
 - **Name:** Service Level Agreement Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLA%
 
@@ -18,7 +18,7 @@ Service Level Agreement Compliance (SLA%) measures conformance to standards, pla
 ## Formula
 
 ```
-Interactions Meeting SLA / Total Interactions
+SLA% = Interactions Meeting SLA / Total Interactions
 ```
 
 ## Unit

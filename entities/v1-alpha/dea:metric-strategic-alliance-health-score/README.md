@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Alliance Health Score** (SAH
 - **Canonical id:** `dea:metric-strategic-alliance-health-score`
 - **Name:** Strategic Alliance Health Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAHS
 
@@ -22,7 +22,7 @@ A composite of relationship quality measures for a strategic alliance - governan
 ## Formula
 
 ```
-Weighted Index of Joint Plan Attainment and Satisfaction
+SAHS = Weighted Index of Joint Plan Attainment and Satisfaction
 ```
 
 ## Unit

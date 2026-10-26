@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Marketing Fund Utilization** (
 - **Canonical id:** `dea:metric-channel-marketing-fund-utilization`
 - **Name:** Channel Marketing Fund Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMFU
 
@@ -18,7 +18,7 @@ Channel Marketing Fund Utilization (CMFU) addresses how efficiently resources ar
 ## Formula
 
 ```
-MDF Spent on Approved Programs / MDF Allocated
+CMFU = MDF Spent on Approved Programs / MDF Allocated
 ```
 
 ## Unit

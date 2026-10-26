@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staffing Gap Ratio** (SGR-W) in the Op
 - **Canonical id:** `dea:metric-staffing-gap-ratio`
 - **Name:** Staffing Gap Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGR-W
 
@@ -22,7 +22,7 @@ Measures unfilled positions or capability gaps against workforce demand at curre
 ## Formula
 
 ```
-(Required Staff - Actual Staff) / Required Staff
+SGR-W = (Required Staff - Actual Staff) / Required Staff
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Center Infrastructure Efficiency*
 - **Canonical id:** `dea:metric-data-center-infrastructure-efficiency`
 - **Name:** Data Center Infrastructure Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCIE
 
@@ -22,7 +22,7 @@ Data center infrastructure efficiency (PUE, power usage effectiveness) measures 
 ## Formula
 
 ```
-IT Equipment Power / Total Facility Power
+DCIE = IT Equipment Power / Total Facility Power
 ```
 
 ## Unit

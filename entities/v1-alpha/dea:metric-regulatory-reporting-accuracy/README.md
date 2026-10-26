@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Reporting Accuracy** (RRA-R
 - **Canonical id:** `dea:metric-regulatory-reporting-accuracy`
 - **Name:** Regulatory Reporting Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRA-R
 
@@ -22,7 +22,7 @@ Measures error rates in regulatory filings - data quality, restatements, correct
 ## Formula
 
 ```
-Reports Accepted without Amendment / Reports Filed
+RRA-R = Reports Accepted without Amendment / Reports Filed
 ```
 
 ## Unit

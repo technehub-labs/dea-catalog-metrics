@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value at Risk Backtesting Exception Ra
 - **Canonical id:** `dea:metric-value-at-risk-backtesting-exception-rate`
 - **Name:** Value at Risk Backtesting Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VARBER
 
@@ -22,7 +22,7 @@ Measures how often actual losses exceed the model's VaR predictions. Backtesting
 ## Formula
 
 ```
-Exceptions beyond VaR Model Tolerance / Backtest Days
+VARBER = Exceptions beyond VaR Model Tolerance / Backtest Days
 ```
 
 ## Unit

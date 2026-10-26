@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Adjustment Cycle Time** (PACT) i
 - **Canonical id:** `dea:metric-price-adjustment-cycle-time`
 - **Name:** Price Adjustment Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PACT
 
@@ -18,7 +18,7 @@ A Pricing & Revenue Management indicator, Price Adjustment Cycle Time (PACT) qua
 ## Formula
 
 ```
-Days from Price Decision to Effective in Market
+PACT = Days from Price Decision to Effective in Market
 ```
 
 ## Unit

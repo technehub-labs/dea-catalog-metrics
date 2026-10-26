@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Win Rate** (WR) in the OpenDEAM Metric
 - **Canonical id:** `dea:metric-win-rate`
 - **Name:** Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WR
 
@@ -22,7 +22,7 @@ Measures the share of qualified opportunities that close as wins. It matters as 
 ## Formula
 
 ```
-Closed-Won Deals / Total Closed Deals
+WR = Closed-Won Deals / Total Closed Deals
 ```
 
 ## Unit

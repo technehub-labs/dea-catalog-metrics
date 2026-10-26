@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student-to-Faculty Ratio (Standard)** 
 - **Canonical id:** `dea:metric-student-to-faculty-ratio-standard`
 - **Name:** Student-to-Faculty Ratio (Standard)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STFR
 
@@ -22,7 +22,7 @@ Measures students per faculty member. It is the crudest resource-intensity proxy
 ## Formula
 
 ```
-Enrolled Students / Full-Time Faculty
+STFR = Enrolled Students / Full-Time Faculty
 ```
 
 ## Unit

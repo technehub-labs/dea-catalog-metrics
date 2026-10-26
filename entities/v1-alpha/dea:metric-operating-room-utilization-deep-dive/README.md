@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Room Utilization (Deep Dive)
 - **Canonical id:** `dea:metric-operating-room-utilization-deep-dive`
 - **Name:** Operating Room Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORU-D
 
@@ -18,7 +18,7 @@ Operating Room Utilization (Deep Dive) (ORU-D) addresses the utilization or avai
 ## Formula
 
 ```
-In-Use OR Minutes / Available OR Minutes
+ORU-D = In-Use OR Minutes / Available OR Minutes
 ```
 
 ## Unit

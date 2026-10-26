@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Insight-to-Action Conversion** (I2AC) 
 - **Canonical id:** `dea:metric-insight-to-action-conversion`
 - **Name:** Insight-to-Action Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** I2AC
 
@@ -22,7 +22,7 @@ Measures the share of analytics insights that translate into implemented decisio
 ## Formula
 
 ```
-Insights Resulting in Deployed Action / Insights Delivered
+I2AC = Insights Resulting in Deployed Action / Insights Delivered
 ```
 
 ## Unit

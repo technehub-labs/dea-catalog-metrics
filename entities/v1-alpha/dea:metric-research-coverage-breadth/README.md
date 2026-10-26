@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Coverage Breadth** (RCB) in t
 - **Canonical id:** `dea:metric-research-coverage-breadth`
 - **Name:** Research Coverage Breadth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCB
 
@@ -22,7 +22,7 @@ Research coverage breadth measures the number of companies and sectors under cov
 ## Formula
 
 ```
-Companies under Research Coverage
+RCB = Companies under Research Coverage
 ```
 
 ## Unit

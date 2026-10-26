@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Port Dwell Time** (PDT) in the OpenDEA
 - **Canonical id:** `dea:metric-port-dwell-time`
 - **Name:** Port Dwell Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDT
 
@@ -18,7 +18,7 @@ Port Dwell Time (PDT) measures how efficiently resources are converted into outp
 ## Formula
 
 ```
-Days from Vessel Arrival to Departure
+PDT = Days from Vessel Arrival to Departure
 ```
 
 ## Unit

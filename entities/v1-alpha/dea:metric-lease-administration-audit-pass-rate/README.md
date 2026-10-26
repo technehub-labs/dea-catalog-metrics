@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lease Administration Audit Pass Rate**
 - **Canonical id:** `dea:metric-lease-administration-audit-pass-rate`
 - **Name:** Lease Administration Audit Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LAAP
 
@@ -18,7 +18,7 @@ Lease Administration Audit Pass Rate (LAAP) captures the quality of outputs and 
 ## Formula
 
 ```
-Lease Abstracts Verified Correct / Audited
+LAAP = Lease Abstracts Verified Correct / Audited
 ```
 
 ## Unit

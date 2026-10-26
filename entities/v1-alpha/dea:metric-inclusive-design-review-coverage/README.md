@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inclusive Design Review Coverage** (ID
 - **Canonical id:** `dea:metric-inclusive-design-review-coverage`
 - **Name:** Inclusive Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDRC
 
@@ -18,7 +18,7 @@ Inclusive Design Review Coverage (IDRC) addresses conformance to standards, plan
 ## Formula
 
 ```
-Features Passing Inclusive Design Review / Features
+IDRC = Features Passing Inclusive Design Review / Features
 ```
 
 ## Unit

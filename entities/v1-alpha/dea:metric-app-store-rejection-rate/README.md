@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Store Rejection Rate** (ASRR) in t
 - **Canonical id:** `dea:metric-app-store-rejection-rate`
 - **Name:** App Store Rejection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASRR
 
@@ -18,7 +18,7 @@ App Store Rejection Rate (ASRR) addresses the quality of outputs and outcomes an
 ## Formula
 
 ```
-Submissions Rejected / Submissions
+ASRR = Submissions Rejected / Submissions
 ```
 
 ## Unit

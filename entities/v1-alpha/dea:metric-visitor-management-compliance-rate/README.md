@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visitor Management Compliance Rate** (
 - **Canonical id:** `dea:metric-visitor-management-compliance-rate`
 - **Name:** Visitor Management Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VMCR
 
@@ -18,7 +18,7 @@ Visitor Management Compliance Rate (VMCR) addresses conformance to standards, pl
 ## Formula
 
 ```
-Visitors Processed per Policy / Visitors
+VMCR = Visitors Processed per Policy / Visitors
 ```
 
 ## Unit

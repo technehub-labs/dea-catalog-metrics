@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interoperability Standard Compliance**
 - **Canonical id:** `dea:metric-interoperability-standard-compliance`
 - **Name:** Interoperability Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISC-SA
 
@@ -18,7 +18,7 @@ Interoperability Standard Compliance (ISC-SA) captures conformance to standards,
 ## Formula
 
 ```
-Integrations Using Approved Standards / Integrations
+ISC-SA = Integrations Using Approved Standards / Integrations
 ```
 
 ## Unit

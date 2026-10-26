@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Visits per Month** (MVM) in the
 - **Canonical id:** `dea:metric-member-visits-per-month`
 - **Name:** Member Visits per Month
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVM
 
@@ -22,7 +22,7 @@ Measures average visits per gym member. It matters because visit frequency is th
 ## Formula
 
 ```
-Total Visits / Average Members
+MVM = Total Visits / Average Members
 ```
 
 ## Unit

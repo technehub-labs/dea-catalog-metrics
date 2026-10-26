@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Service Cost per Work Order** (F
 - **Canonical id:** `dea:metric-field-service-cost-per-work-order`
 - **Name:** Field Service Cost per Work Order
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSCWO
 
@@ -18,7 +18,7 @@ Field Service Cost per Work Order (FSCWO) measures how efficiently resources are
 ## Formula
 
 ```
-Field Cost / Completed Work Orders
+FSCWO = Field Cost / Completed Work Orders
 ```
 
 ## Unit

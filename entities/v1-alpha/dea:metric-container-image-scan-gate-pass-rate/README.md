@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Container Image Scan Gate Pass Rate** 
 - **Canonical id:** `dea:metric-container-image-scan-gate-pass-rate`
 - **Name:** Container Image Scan Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CISGPR
 
@@ -18,7 +18,7 @@ Container Image Scan Gate Pass Rate (CISGPR) addresses conformance to standards,
 ## Formula
 
 ```
-Images Passing Scan Policy before Deployment / Images
+CISGPR = Images Passing Scan Policy before Deployment / Images
 ```
 
 ## Unit

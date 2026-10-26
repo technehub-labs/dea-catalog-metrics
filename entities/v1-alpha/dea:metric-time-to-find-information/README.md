@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Find Information** (TTFI) in t
 - **Canonical id:** `dea:metric-time-to-find-information`
 - **Name:** Time to Find Information
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTFI
 
@@ -18,7 +18,7 @@ Within Knowledge Management, Time to Find Information (TTFI) is used to gauge ho
 ## Formula
 
 ```
-Average Minutes to Locate Needed Information
+TTFI = Average Minutes to Locate Needed Information
 ```
 
 ## Unit

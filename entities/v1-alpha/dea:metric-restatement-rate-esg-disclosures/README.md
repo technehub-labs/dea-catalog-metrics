@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Restatement Rate (ESG Disclosures)** (
 - **Canonical id:** `dea:metric-restatement-rate-esg-disclosures`
 - **Name:** Restatement Rate (ESG Disclosures)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRESD
 
@@ -22,7 +22,7 @@ Measures the frequency of corrections to previously published ESG figures. Resta
 ## Formula
 
 ```
-Restated Disclosures / Disclosures
+RRESD = Restated Disclosures / Disclosures
 ```
 
 ## Unit

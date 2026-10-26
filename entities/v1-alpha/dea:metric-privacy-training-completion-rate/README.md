@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Training Completion Rate** (PT
 - **Canonical id:** `dea:metric-privacy-training-completion-rate`
 - **Name:** Privacy Training Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTCR
 
@@ -18,7 +18,7 @@ Privacy Training Completion Rate (PTCR) captures conformance to standards, plans
 ## Formula
 
 ```
-Staff Completing Privacy Training by Due Date / Staff
+PTCR = Staff Completing Privacy Training by Due Date / Staff
 ```
 
 ## Unit

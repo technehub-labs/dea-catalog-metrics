@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sourcing Cycle Time (RFx to Award)** (
 - **Canonical id:** `dea:metric-sourcing-cycle-time-rfx-to-award`
 - **Name:** Sourcing Cycle Time (RFx to Award)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCTRF
 
@@ -18,7 +18,7 @@ A Strategic Sourcing & Supplier Performance (Deep Dive) indicator, Sourcing Cycl
 ## Formula
 
 ```
-Days from RFx Launch to Contract Award
+SCTRF = Days from RFx Launch to Contract Award
 ```
 
 ## Unit

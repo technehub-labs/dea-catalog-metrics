@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Success Rate** (PSR) in the Op
 - **Canonical id:** `dea:metric-payment-success-rate`
 - **Name:** Payment Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSR
 
@@ -18,7 +18,7 @@ Payment Success Rate (PSR) addresses the quality of outputs and outcomes and is 
 ## Formula
 
 ```
-Successful Transactions / Total Transaction Attempts
+PSR = Successful Transactions / Total Transaction Attempts
 ```
 
 ## Unit

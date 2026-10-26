@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel Idle Time at Anchorage (Deep Di
 - **Canonical id:** `dea:metric-vessel-idle-time-at-anchorage-deep-dive`
 - **Name:** Vessel Idle Time at Anchorage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VIT-D
 
@@ -22,7 +22,7 @@ Measures time ships spend waiting for berth. Anchorage time is the visible sympt
 ## Formula
 
 ```
-Waiting Days / Total Vessel Days
+VIT-D = Waiting Days / Total Vessel Days
 ```
 
 ## Unit

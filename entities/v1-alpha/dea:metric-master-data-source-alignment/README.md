@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Source Alignment** (MDSA) 
 - **Canonical id:** `dea:metric-master-data-source-alignment`
 - **Name:** Master Data Source Alignment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDSA
 
@@ -22,7 +22,7 @@ Measures the share of critical master data entities (customer, product, supplier
 ## Formula
 
 ```
-Domains with Single Authoritative Source / Data Domains
+MDSA = Domains with Single Authoritative Source / Data Domains
 ```
 
 ## Unit

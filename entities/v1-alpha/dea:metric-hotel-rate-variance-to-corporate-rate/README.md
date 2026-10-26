@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hotel Rate Variance to Corporate Rate*
 - **Canonical id:** `dea:metric-hotel-rate-variance-to-corporate-rate`
 - **Name:** Hotel Rate Variance to Corporate Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRVC
 
@@ -18,7 +18,7 @@ Hotel Rate Variance to Corporate Rate (HRVC) measures the economic value created
 ## Formula
 
 ```
-Average Paid Rate - Negotiated Rate, Averaged
+HRVC = Average Paid Rate - Negotiated Rate, Averaged
 ```
 
 ## Unit

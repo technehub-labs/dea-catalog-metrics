@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workload Placement Efficiency** (WPE) 
 - **Canonical id:** `dea:metric-workload-placement-efficiency`
 - **Name:** Workload Placement Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPE
 
@@ -22,7 +22,7 @@ Measures how well workloads are placed across the fleet - matching workload requ
 ## Formula
 
 ```
-Workloads on Optimal Tier / Workloads
+WPE = Workloads on Optimal Tier / Workloads
 ```
 
 ## Unit

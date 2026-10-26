@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Functional Alliance Coordination
 - **Canonical id:** `dea:metric-cross-functional-alliance-coordination-score`
 - **Name:** Cross-Functional Alliance Coordination Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAACS
 
@@ -18,7 +18,7 @@ A Alliances & Partnerships Management indicator, Cross-Functional Alliance Coord
 ## Formula
 
 ```
-Internal Team Alignment Survey per Alliance
+CAACS = Internal Team Alignment Survey per Alliance
 ```
 
 ## Unit

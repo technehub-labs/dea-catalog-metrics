@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Scenario Readiness Score** (
 - **Canonical id:** `dea:metric-workforce-scenario-readiness-score`
 - **Name:** Workforce Scenario Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSRS
 
@@ -22,7 +22,7 @@ Measures how well workforce plans cover major demand scenarios (growth, contract
 ## Formula
 
 ```
-Rubric of Modeled Scenarios for Workforce Shifts
+WSRS = Rubric of Modeled Scenarios for Workforce Shifts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Response Team Activation Time**
 - **Canonical id:** `dea:metric-crisis-response-team-activation-time`
 - **Name:** Crisis Response Team Activation Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRTAT
 
@@ -22,7 +22,7 @@ Measures elapsed time from crisis declaration to the response team being operati
 ## Formula
 
 ```
-Minutes from Trigger to Crisis Team Convened
+CRTAT = Minutes from Trigger to Crisis Team Convened
 ```
 
 ## Unit

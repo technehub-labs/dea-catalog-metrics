@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Driver-Based Planning Coverage** (DBPC
 - **Canonical id:** `dea:metric-driver-based-planning-coverage`
 - **Name:** Driver-Based Planning Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBPC
 
@@ -22,7 +22,7 @@ Measures how much of the plan is built from operational drivers rather than last
 ## Formula
 
 ```
-Plan Lines Built from Documented Drivers / Plan Lines
+DBPC = Plan Lines Built from Documented Drivers / Plan Lines
 ```
 
 ## Unit

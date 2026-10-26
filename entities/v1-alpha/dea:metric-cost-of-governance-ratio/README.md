@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost of Governance Ratio** (COGR-OM) i
 - **Canonical id:** `dea:metric-cost-of-governance-ratio`
 - **Name:** Cost of Governance Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COGR-OM
 
@@ -22,7 +22,7 @@ Measures governance and oversight cost as a share of operating cost. Governance 
 ## Formula
 
 ```
-Governance and Coordination Cost / Operating Cost
+COGR-OM = Governance and Coordination Cost / Operating Cost
 ```
 
 ## Unit

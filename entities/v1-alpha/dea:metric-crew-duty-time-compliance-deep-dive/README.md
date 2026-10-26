@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crew Duty Time Compliance (Deep Dive)*
 - **Canonical id:** `dea:metric-crew-duty-time-compliance-deep-dive`
 - **Name:** Crew Duty Time Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDTC
 
@@ -22,7 +22,7 @@ Measures adherence to regulated crew duty and rest requirements. It is the safet
 ## Formula
 
 ```
-Duty Periods within FTL Limits / Duty Periods
+CDTC = Duty Periods within FTL Limits / Duty Periods
 ```
 
 ## Unit

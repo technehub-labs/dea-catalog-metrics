@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaint Rate** (CoR) in the OpenDEAM
 - **Canonical id:** `dea:metric-complaint-rate`
 - **Name:** Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CoR
 
@@ -18,7 +18,7 @@ A Customer indicator, Complaint Rate (CoR) quantifies the quality of outputs and
 ## Formula
 
 ```
-Complaints / Total Customer Interactions
+CoR = Complaints / Total Customer Interactions
 ```
 
 ## Unit

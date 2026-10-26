@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mill Throughput per Operating Hour** (
 - **Canonical id:** `dea:metric-mill-throughput-per-operating-hour`
 - **Name:** Mill Throughput per Operating Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTOH
 
@@ -18,7 +18,7 @@ Within Metals & Mining Operations (Deep Dive), Mill Throughput per Operating Hou
 ## Formula
 
 ```
-Tonnes Milled / Operating Hours
+MTOH = Tonnes Milled / Operating Hours
 ```
 
 ## Unit

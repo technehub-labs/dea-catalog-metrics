@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Satisfaction with Audit** 
 - **Canonical id:** `dea:metric-stakeholder-satisfaction-with-audit`
 - **Name:** Stakeholder Satisfaction with Audit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSA
 
@@ -22,7 +22,7 @@ Measures auditee and executive satisfaction with the internal audit function. It
 ## Formula
 
 ```
-Satisfied Audit Client Survey Responses / Responses
+SSA = Satisfied Audit Client Survey Responses / Responses
 ```
 
 ## Unit

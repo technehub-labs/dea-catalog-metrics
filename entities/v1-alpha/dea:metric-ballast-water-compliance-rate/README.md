@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ballast Water Compliance Rate** (BWCR)
 - **Canonical id:** `dea:metric-ballast-water-compliance-rate`
 - **Name:** Ballast Water Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BWCR
 
@@ -22,7 +22,7 @@ Measures compliance with ballast water treatment and exchange regulations. It ma
 ## Formula
 
 ```
-Ballast Operations Meeting Convention Standards / Operations
+BWCR = Ballast Operations Meeting Convention Standards / Operations
 ```
 
 ## Unit

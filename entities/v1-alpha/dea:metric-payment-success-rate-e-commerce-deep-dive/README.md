@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Payment Success Rate (E-commerce Deep 
 - **Canonical id:** `dea:metric-payment-success-rate-e-commerce-deep-dive`
 - **Name:** Payment Success Rate (E-commerce Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSR-D
 
@@ -22,7 +22,7 @@ Measures the share of checkout attempts that complete as paid orders. It is the 
 ## Formula
 
 ```
-Settled Payments / Initiated Payments
+PSR-D = Settled Payments / Initiated Payments
 ```
 
 ## Unit

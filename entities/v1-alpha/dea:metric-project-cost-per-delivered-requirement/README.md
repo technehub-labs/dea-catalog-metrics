@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Cost per Delivered Requirement
 - **Canonical id:** `dea:metric-project-cost-per-delivered-requirement`
 - **Name:** Project Cost per Delivered Requirement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCPDR
 
@@ -18,7 +18,7 @@ Project Cost per Delivered Requirement (PCPDR) measures how efficiently resource
 ## Formula
 
 ```
-Project Cost / Delivered Requirements
+PCPDR = Project Cost / Delivered Requirements
 ```
 
 ## Unit

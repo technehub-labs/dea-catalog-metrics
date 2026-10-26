@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Training Attach Rate (Deep Di
 - **Canonical id:** `dea:metric-personal-training-attach-rate-deep-dive`
 - **Name:** Personal Training Attach Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTAR-D
 
@@ -18,7 +18,7 @@ Personal Training Attach Rate (Deep Dive) (PTAR-D) captures growth over time for
 ## Formula
 
 ```
-Members with PT Sessions / Members
+PTAR-D = Members with PT Sessions / Members
 ```
 
 ## Unit

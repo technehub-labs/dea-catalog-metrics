@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Priority Escalation Accuracy** (PEA-IT
 - **Canonical id:** `dea:metric-priority-escalation-accuracy`
 - **Name:** Priority Escalation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEA-IT
 
@@ -18,7 +18,7 @@ Priority Escalation Accuracy (PEA-IT) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Incidents Correctly Prioritized on Intake / Sampled
+PEA-IT = Incidents Correctly Prioritized on Intake / Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Churn Prediction Coverage** (CPC-S) in
 - **Canonical id:** `dea:metric-churn-prediction-coverage`
 - **Name:** Churn Prediction Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPC-S
 
@@ -22,7 +22,7 @@ Measures the share of the customer base scored by churn prediction models. It ma
 ## Formula
 
 ```
-At-Risk Accounts with Active Save Plan / At-Risk Accounts
+CPC-S = At-Risk Accounts with Active Save Plan / At-Risk Accounts
 ```
 
 ## Unit

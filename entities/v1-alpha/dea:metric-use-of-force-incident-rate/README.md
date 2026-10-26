@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Use-of-Force Incident Rate** (UOFIR) i
 - **Canonical id:** `dea:metric-use-of-force-incident-rate`
 - **Name:** Use-of-Force Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UOFIR
 
@@ -22,7 +22,7 @@ Measures force incidents per officer-shift or per site. It is the accountability
 ## Formula
 
 ```
-Use-of-Force Reports / 1,000 Shifts
+UOFIR = Use-of-Force Reports / 1,000 Shifts
 ```
 
 ## Unit

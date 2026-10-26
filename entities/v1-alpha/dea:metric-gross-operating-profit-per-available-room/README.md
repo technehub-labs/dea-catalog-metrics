@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Operating Profit per Available R
 - **Canonical id:** `dea:metric-gross-operating-profit-per-available-room`
 - **Name:** Gross Operating Profit per Available Room
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GOPPAR
 
@@ -22,7 +22,7 @@ Gross operating profit per available room - the metric that extends RevPAR from 
 ## Formula
 
 ```
-Gross Operating Profit / Rooms Available
+GOPPAR = Gross Operating Profit / Rooms Available
 ```
 
 ## Unit

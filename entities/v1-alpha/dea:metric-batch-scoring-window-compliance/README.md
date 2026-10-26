@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Scoring Window Compliance** (BSW
 - **Canonical id:** `dea:metric-batch-scoring-window-compliance`
 - **Name:** Batch Scoring Window Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSWC-M
 
@@ -18,7 +18,7 @@ Within MLOps & Model Lifecycle Operations, Batch Scoring Window Compliance (BSWC
 ## Formula
 
 ```
-Scoring Batches Completed in Window / Batches
+BSWC-M = Scoring Batches Completed in Window / Batches
 ```
 
 ## Unit

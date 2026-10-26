@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hospital Readmission Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-hospital-readmission-rate-deep-dive`
 - **Name:** Hospital Readmission Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRR-D
 
@@ -22,7 +22,7 @@ Measures unplanned returns within a window (often 30 days) of discharge. Readmis
 ## Formula
 
 ```
-Readmissions within 30 Days / Discharges
+HRR-D = Readmissions within 30 Days / Discharges
 ```
 
 ## Unit

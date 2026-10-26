@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Flight Hours between Failures** (
 - **Canonical id:** `dea:metric-mean-flight-hours-between-failures`
 - **Name:** Mean Flight Hours between Failures
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MFHBF
 
@@ -22,7 +22,7 @@ Mean flight hours between failures measures the reliability of aircraft systems 
 ## Formula
 
 ```
-Total Flight Hours / In-Flight Failures
+MFHBF = Total Flight Hours / In-Flight Failures
 ```
 
 ## Unit

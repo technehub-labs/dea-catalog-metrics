@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Improvement Idea Velocity** (P
 - **Canonical id:** `dea:metric-process-improvement-idea-velocity`
 - **Name:** Process Improvement Idea Velocity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIIV
 
@@ -18,7 +18,7 @@ Process Improvement Idea Velocity (PIIV) captures capability maturity or develop
 ## Formula
 
 ```
-Improvement Ideas Implemented per 100 FTE per Quarter
+PIIV = Improvement Ideas Implemented per 100 FTE per Quarter
 ```
 
 ## Unit

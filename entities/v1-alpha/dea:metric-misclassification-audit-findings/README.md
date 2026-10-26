@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Misclassification Audit Findings** (MA
 - **Canonical id:** `dea:metric-misclassification-audit-findings`
 - **Name:** Misclassification Audit Findings
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAF
 
@@ -22,7 +22,7 @@ Measures findings from audits testing whether gig or contractor workers are lega
 ## Formula
 
 ```
-Worker Classification Violations Detected / Workers Audited
+MAF = Worker Classification Violations Detected / Workers Audited
 ```
 
 ## Unit

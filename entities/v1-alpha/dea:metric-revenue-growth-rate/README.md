@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Growth Rate** (RGR) in the Ope
 - **Canonical id:** `dea:metric-revenue-growth-rate`
 - **Name:** Revenue Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RGR
 
@@ -22,7 +22,7 @@ Period-over-period change in the top line - the first question in every equity s
 ## Formula
 
 ```
-(Revenue_current - Revenue_prior) / Revenue_prior
+RGR = (Revenue_current - Revenue_prior) / Revenue_prior
 ```
 
 ## Unit

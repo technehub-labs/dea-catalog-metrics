@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Burnout Risk Index** (BRI-EE) in the O
 - **Canonical id:** `dea:metric-burnout-risk-index`
 - **Name:** Burnout Risk Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRI-EE
 
@@ -22,7 +22,7 @@ Measures the composite leading indicators of burnout across teams (sustained ove
 ## Formula
 
 ```
-Composite of Workload, Recovery and Exhaustion Indicators
+BRI-EE = Composite of Workload, Recovery and Exhaustion Indicators
 ```
 
 ## Unit

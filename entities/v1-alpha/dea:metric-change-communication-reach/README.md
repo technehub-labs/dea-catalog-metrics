@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Communication Reach** (CCR-C) i
 - **Canonical id:** `dea:metric-change-communication-reach`
 - **Name:** Change Communication Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-C
 
@@ -18,7 +18,7 @@ Within Change Management, Change Communication Reach (CCR-C) is used to gauge th
 ## Formula
 
 ```
-Audience Members Reached per Key Message / Audience
+CCR-C = Audience Members Reached per Key Message / Audience
 ```
 
 ## Unit

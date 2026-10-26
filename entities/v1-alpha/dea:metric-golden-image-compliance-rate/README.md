@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Image Compliance Rate** (GICR) 
 - **Canonical id:** `dea:metric-golden-image-compliance-rate`
 - **Name:** Golden Image Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GICR
 
@@ -18,7 +18,7 @@ Golden Image Compliance Rate (GICR) addresses conformance to standards, plans, o
 ## Formula
 
 ```
-Workloads Launched from Approved Images / Workloads
+GICR = Workloads Launched from Approved Images / Workloads
 ```
 
 ## Unit

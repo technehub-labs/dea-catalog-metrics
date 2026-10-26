@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unit Test Coverage - Line** (UTCL-QA) 
 - **Canonical id:** `dea:metric-unit-test-coverage-line`
 - **Name:** Unit Test Coverage - Line
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UTCL-QA
 
@@ -18,7 +18,7 @@ Within Software Testing & Quality Engineering, Unit Test Coverage - Line (UTCL-Q
 ## Formula
 
 ```
-Lines Covered by Tests / Total Lines
+UTCL-QA = Lines Covered by Tests / Total Lines
 ```
 
 ## Unit

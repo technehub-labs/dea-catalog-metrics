@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Development Ratio** (RDR) in t
 - **Canonical id:** `dea:metric-reserve-development-ratio`
 - **Name:** Reserve Development Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDR
 
@@ -22,7 +22,7 @@ Measures how prior-period reserves have developed against original estimates - a
 ## Formula
 
 ```
-Ultimate Claims / Initially Estimated Claims
+RDR = Ultimate Claims / Initially Estimated Claims
 ```
 
 ## Unit

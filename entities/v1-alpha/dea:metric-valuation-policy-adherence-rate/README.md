@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Valuation Policy Adherence Rate** (VPA
 - **Canonical id:** `dea:metric-valuation-policy-adherence-rate`
 - **Name:** Valuation Policy Adherence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPAR-IM
 
@@ -22,7 +22,7 @@ Measures compliance with the fund's valuation policy, including pricing sources,
 ## Formula
 
 ```
-Valuations per Approved Methodology / Valuations
+VPAR-IM = Valuations per Approved Methodology / Valuations
 ```
 
 ## Unit

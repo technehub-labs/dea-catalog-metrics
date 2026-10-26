@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Approval Cycle Time** (RACT-RM
 - **Canonical id:** `dea:metric-release-approval-cycle-time`
 - **Name:** Release Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RACT-RM
 
@@ -18,7 +18,7 @@ Release Approval Cycle Time (RACT-RM) addresses how efficiently resources are co
 ## Formula
 
 ```
-Days to Obtain Required Release Approvals
+RACT-RM = Days to Obtain Required Release Approvals
 ```
 
 ## Unit

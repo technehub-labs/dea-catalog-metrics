@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Campaign ROI** (MROI) in the
 - **Canonical id:** `dea:metric-marketing-campaign-roi`
 - **Name:** Marketing Campaign ROI
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MROI
 
@@ -22,7 +22,7 @@ Measures incremental profit generated per unit of campaign spend. It matters bec
 ## Formula
 
 ```
-(Campaign Revenue - Campaign Cost) / Campaign Cost
+MROI = (Campaign Revenue - Campaign Cost) / Campaign Cost
 ```
 
 ## Unit

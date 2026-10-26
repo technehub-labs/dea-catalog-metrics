@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legacy System Migration Progress** (LS
 - **Canonical id:** `dea:metric-legacy-system-migration-progress`
 - **Name:** Legacy System Migration Progress
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSMP
 
@@ -22,7 +22,7 @@ Measures completion of planned migrations off legacy platforms, expressed in wor
 ## Formula
 
 ```
-Workloads or Functions Migrated / Functions in Scope
+LSMP = Workloads or Functions Migrated / Functions in Scope
 ```
 
 ## Unit

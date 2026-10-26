@@ -8,7 +8,7 @@ description: Within Retail & E-commerce, Gross Margin Return on Inventory (GMROI
   It originates from and is most used in Retail practice.
 abbreviation: GMROI
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - customer
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Gross Margin / Average Inventory Cost
 formula_definition:
   formula_id: dea:formula-gross-margin-return-on-inventory
-  expression: Gross Margin / Average Inventory Cost
+  expression: GMROI = Gross Margin / Average Inventory Cost
   inputs:
   - name: Gross Margin
   - name: Average Inventory Cost
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '1'
 domain: retail_e_commerce
 sector: retail
+subject_concept: dea:subject-gross_margin_return_on_inventory
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 491
+  - Public domain - no attribution required
+  known_limitations: []

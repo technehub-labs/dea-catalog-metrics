@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Frequency Rate** (CFR-C) in the
 - **Canonical id:** `dea:metric-claims-frequency-rate`
 - **Name:** Claims Frequency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFR-C
 
@@ -22,7 +22,7 @@ Claims frequency measures how often insured events occur per exposure unit (poli
 ## Formula
 
 ```
-Claims Filed / Policies In Force
+CFR-C = Claims Filed / Policies In Force
 ```
 
 ## Unit

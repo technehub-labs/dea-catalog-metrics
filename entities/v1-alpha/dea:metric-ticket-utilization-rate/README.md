@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ticket Utilization Rate** (TUR-A) in t
 - **Canonical id:** `dea:metric-ticket-utilization-rate`
 - **Name:** Ticket Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TUR-A
 
@@ -22,7 +22,7 @@ Measures the share of sold or issued tickets actually used for arts and culture 
 ## Formula
 
 ```
-Tickets Used / Tickets Sold or Issued
+TUR-A = Tickets Used / Tickets Sold or Issued
 ```
 
 ## Unit

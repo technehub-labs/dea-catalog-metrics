@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DEI Disclosure Completeness** (DEIDC) 
 - **Canonical id:** `dea:metric-dei-disclosure-completeness`
 - **Name:** DEI Disclosure Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DEIDC
 
@@ -22,7 +22,7 @@ Measures how fully the organization's DEI reporting meets disclosure frameworks 
 ## Formula
 
 ```
-Required External DEI Disclosures Filed / Required
+DEIDC = Required External DEI Disclosures Filed / Required
 ```
 
 ## Unit

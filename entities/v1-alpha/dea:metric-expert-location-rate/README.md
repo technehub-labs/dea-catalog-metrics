@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expert Location Rate** (ELR-KM) in the
 - **Canonical id:** `dea:metric-expert-location-rate`
 - **Name:** Expert Location Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELR-KM
 
@@ -18,7 +18,7 @@ Within Knowledge Management (Deep Dive), Expert Location Rate (ELR-KM) is used t
 ## Formula
 
 ```
-Cases Where Expert Found within SLA / Cases Needing Expertise
+ELR-KM = Cases Where Expert Found within SLA / Cases Needing Expertise
 ```
 
 ## Unit

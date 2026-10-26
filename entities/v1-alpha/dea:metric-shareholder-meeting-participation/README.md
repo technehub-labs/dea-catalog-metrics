@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shareholder Meeting Participation** (S
 - **Canonical id:** `dea:metric-shareholder-meeting-participation`
 - **Name:** Shareholder Meeting Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMP
 
@@ -22,7 +22,7 @@ Shareholder meeting participation measures the share of shares voting or represe
 ## Formula
 
 ```
-Shares Voted / Shares Outstanding
+SMP = Shares Voted / Shares Outstanding
 ```
 
 ## Unit

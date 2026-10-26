@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Burn per Block Hour (Deep Dive)**
 - **Canonical id:** `dea:metric-fuel-burn-per-block-hour-deep-dive`
 - **Name:** Fuel Burn per Block Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPBH
 
@@ -22,7 +22,7 @@ Measures fuel consumption per aircraft operating hour. Fuel is the largest volat
 ## Formula
 
 ```
-Fuel Consumed / Block Hours
+FPBH = Fuel Consumed / Block Hours
 ```
 
 ## Unit

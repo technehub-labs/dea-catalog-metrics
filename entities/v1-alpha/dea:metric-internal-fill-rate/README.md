@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Fill Rate** (IFR) in the Open
 - **Canonical id:** `dea:metric-internal-fill-rate`
 - **Name:** Internal Fill Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFR
 
@@ -22,7 +22,7 @@ Measures the share of vacancies filled by internal candidates. It matters becaus
 ## Formula
 
 ```
-Positions Filled Internally / Total Positions Filled
+IFR = Positions Filled Internally / Total Positions Filled
 ```
 
 ## Unit

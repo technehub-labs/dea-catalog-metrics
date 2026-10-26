@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lifetime Value per Player** (LTV-G) in
 - **Canonical id:** `dea:metric-lifetime-value-per-player`
 - **Name:** Lifetime Value per Player
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTV-G
 
@@ -22,7 +22,7 @@ The projected total revenue a player generates - the unit-economics foundation o
 ## Formula
 
 ```
-Average Lifetime Revenue per Player
+LTV-G = Average Lifetime Revenue per Player
 ```
 
 ## Unit

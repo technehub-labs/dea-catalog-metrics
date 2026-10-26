@@ -8,7 +8,7 @@ description: Current Ratio (Deep Dive) (CRDD) addresses exposure to adverse outc
   but staying within an agreed operating band. Practitioners in nearly any industry can adopt it directly.
 abbreviation: CRDD
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - financial
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Current Assets / Current Liabilities
 formula_definition:
   formula_id: dea:formula-current-ratio-deep-dive
-  expression: Current Assets / Current Liabilities
+  expression: CRDD = Current Assets / Current Liabilities
   inputs:
   - name: Current Assets
   - name: Current Liabilities
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 4015
     batch: '9'
 domain: financial_statement_analysis_ratios_deep_dive
+subject_concept: dea:subject-current_ratio
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4015
+  - Public domain - no attribution required
+  known_limitations: []

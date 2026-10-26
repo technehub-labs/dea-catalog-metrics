@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Training on ESG** (ETSG) in t
 - **Canonical id:** `dea:metric-employee-training-on-esg`
 - **Name:** Employee Training on ESG
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETSG
 
@@ -18,7 +18,7 @@ Employee Training on ESG (ETSG) measures conformance to standards, plans, or obl
 ## Formula
 
 ```
-Employees Completing ESG Training / Required
+ETSG = Employees Completing ESG Training / Required
 ```
 
 ## Unit

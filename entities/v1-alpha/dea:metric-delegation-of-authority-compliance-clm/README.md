@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegation of Authority Compliance (CL
 - **Canonical id:** `dea:metric-delegation-of-authority-compliance-clm`
 - **Name:** Delegation of Authority Compliance (CLM)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOAC-CL
 
@@ -22,7 +22,7 @@ Measures whether contract commitments match the authority matrix for the signing
 ## Formula
 
 ```
-Contracts Signed per Authority Matrix / Contracts Sampled
+DOAC-CL = Contracts Signed per Authority Matrix / Contracts Sampled
 ```
 
 ## Unit

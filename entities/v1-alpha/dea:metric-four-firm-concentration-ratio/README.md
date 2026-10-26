@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Four-Firm Concentration Ratio** (FFCR)
 - **Canonical id:** `dea:metric-four-firm-concentration-ratio`
 - **Name:** Four-Firm Concentration Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FFCR
 
@@ -22,7 +22,7 @@ Measures the combined market share of the top four players. It summarizes indust
 ## Formula
 
 ```
-Combined Share of Top Four Competitors
+FFCR = Combined Share of Top Four Competitors
 ```
 
 ## Unit

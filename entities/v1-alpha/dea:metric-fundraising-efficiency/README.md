@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fundraising Efficiency** (FE-N) in the
 - **Canonical id:** `dea:metric-fundraising-efficiency`
 - **Name:** Fundraising Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FE-N
 
@@ -22,7 +22,7 @@ Fundraising efficiency measures funds raised per unit of fundraising effort or c
 ## Formula
 
 ```
-Funds Raised / Fundraising Costs
+FE-N = Funds Raised / Fundraising Costs
 ```
 
 ## Unit

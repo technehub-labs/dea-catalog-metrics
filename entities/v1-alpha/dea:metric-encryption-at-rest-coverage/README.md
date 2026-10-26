@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Encryption at Rest Coverage** (EARC) i
 - **Canonical id:** `dea:metric-encryption-at-rest-coverage`
 - **Name:** Encryption at Rest Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EARC
 
@@ -18,7 +18,7 @@ Encryption at Rest Coverage (EARC) addresses exposure to adverse outcomes and is
 ## Formula
 
 ```
-Storage Services Encrypted at Rest / Storage Services
+EARC = Storage Services Encrypted at Rest / Storage Services
 ```
 
 ## Unit

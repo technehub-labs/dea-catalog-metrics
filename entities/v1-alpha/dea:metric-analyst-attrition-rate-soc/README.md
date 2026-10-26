@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Attrition Rate - SOC** (AAR-SO
 - **Canonical id:** `dea:metric-analyst-attrition-rate-soc`
 - **Name:** Analyst Attrition Rate - SOC
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAR-SOC
 
@@ -22,7 +22,7 @@ Measures annual turnover among security analysts. SOC work is high-stress and ma
 ## Formula
 
 ```
-Analysts Leaving / Analysts Employed
+AAR-SOC = Analysts Leaving / Analysts Employed
 ```
 
 ## Unit

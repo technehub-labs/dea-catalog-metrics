@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automated Decision Approval Rate** (AD
 - **Canonical id:** `dea:metric-automated-decision-approval-rate`
 - **Name:** Automated Decision Approval Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADAR
 
@@ -22,7 +22,7 @@ Measures the share of automated decisions - credit, claims, pricing, underwritin
 ## Formula
 
 ```
-Automated Decisions Upheld on Review / Automated Decisions Sampled
+ADAR = Automated Decisions Upheld on Review / Automated Decisions Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design-to-Dev Handoff Rework Rate** (D
 - **Canonical id:** `dea:metric-design-to-dev-handoff-rework-rate`
 - **Name:** Design-to-Dev Handoff Rework Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DHR-UX
 
@@ -18,7 +18,7 @@ Design-to-Dev Handoff Rework Rate (DHR-UX) addresses the quality of outputs and 
 ## Formula
 
 ```
-Handoffs Requiring Redesign / Handoffs
+DHR-UX = Handoffs Requiring Redesign / Handoffs
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Distributed Trace Sampling Efficiency*
 - **Canonical id:** `dea:metric-distributed-trace-sampling-efficiency`
 - **Name:** Distributed Trace Sampling Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTSE
 
@@ -18,7 +18,7 @@ Distributed Trace Sampling Efficiency (DTSE) addresses how efficiently resources
 ## Formula
 
 ```
-Trace Samples Retained within Budget while Meeting Diagnostic Need
+DTSE = Trace Samples Retained within Budget while Meeting Diagnostic Need
 ```
 
 ## Unit

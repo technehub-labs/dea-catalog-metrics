@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Itinerary Change Rate** (ICR-S) in the
 - **Canonical id:** `dea:metric-itinerary-change-rate`
 - **Name:** Itinerary Change Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICR-S
 
@@ -18,7 +18,7 @@ Itinerary Change Rate (ICR-S) measures exposure to adverse outcomes in the Cruis
 ## Formula
 
 ```
-Port Calls Skipped or Changed / Scheduled Port Calls
+ICR-S = Port Calls Skipped or Changed / Scheduled Port Calls
 ```
 
 ## Unit

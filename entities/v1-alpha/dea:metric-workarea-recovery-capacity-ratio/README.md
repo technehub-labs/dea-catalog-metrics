@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workarea Recovery Capacity Ratio** (WR
 - **Canonical id:** `dea:metric-workarea-recovery-capacity-ratio`
 - **Name:** Workarea Recovery Capacity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRCR-BC
 
@@ -22,7 +22,7 @@ Measures whether alternate workspace capacity can absorb the staff required to r
 ## Formula
 
 ```
-Recovery Workstations Available / Required for Critical Teams
+WRCR-BC = Recovery Workstations Available / Required for Critical Teams
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demurrage and Detention Cost Ratio** (
 - **Canonical id:** `dea:metric-demurrage-and-detention-cost-ratio`
 - **Name:** Demurrage and Detention Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDCR
 
@@ -18,7 +18,7 @@ Demurrage and Detention Cost Ratio (DDCR) measures how efficiently resources are
 ## Formula
 
 ```
-Demurrage and Detention Charges / Freight Spend
+DDCR = Demurrage and Detention Charges / Freight Spend
 ```
 
 ## Unit

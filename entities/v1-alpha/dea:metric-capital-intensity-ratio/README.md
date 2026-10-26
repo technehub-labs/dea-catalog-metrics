@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capital Intensity Ratio** (CIR-VCF) in
 - **Canonical id:** `dea:metric-capital-intensity-ratio`
 - **Name:** Capital Intensity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIR-VCF
 
@@ -22,7 +22,7 @@ Measures the capital required per unit of output or revenue. Intensity defines t
 ## Formula
 
 ```
-Capital Expenditure / Revenue
+CIR-VCF = Capital Expenditure / Revenue
 ```
 
 ## Unit

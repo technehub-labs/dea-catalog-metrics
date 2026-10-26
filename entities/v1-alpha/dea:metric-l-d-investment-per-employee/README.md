@@ -7,7 +7,7 @@ Candidate Performance Metric record for **L&D Investment per Employee** (LDIPE) 
 - **Canonical id:** `dea:metric-l-d-investment-per-employee`
 - **Name:** L&D Investment per Employee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LDIPE
 
@@ -22,7 +22,7 @@ Measures annual learning investment per head. It frames L&D as capability invest
 ## Formula
 
 ```
-Annual L&D Spend / Employees
+LDIPE = Annual L&D Spend / Employees
 ```
 
 ## Unit

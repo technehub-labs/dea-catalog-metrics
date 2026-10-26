@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Contract Clause Adoption Rate
 - **Canonical id:** `dea:metric-standard-contract-clause-adoption-rate`
 - **Name:** Standard Contract Clause Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCCA
 
@@ -22,7 +22,7 @@ Measures the share of executed contracts using approved standard clauses and tem
 ## Formula
 
 ```
-Agreements using Standard Positions / Agreements
+SCCA = Agreements using Standard Positions / Agreements
 ```
 
 ## Unit

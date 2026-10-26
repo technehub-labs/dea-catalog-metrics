@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Placement Retention at 90 Days** (PR90
 - **Canonical id:** `dea:metric-placement-retention-at-90-days`
 - **Name:** Placement Retention at 90 Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PR90
 
@@ -22,7 +22,7 @@ Placement retention at 90 days measures the share of placed candidates still on 
 ## Formula
 
 ```
-Placements Retained at 90 Days / Placements Made
+PR90 = Placements Retained at 90 Days / Placements Made
 ```
 
 ## Unit

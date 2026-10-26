@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automated Control Coverage** (ACC-IC) 
 - **Canonical id:** `dea:metric-automated-control-coverage`
 - **Name:** Automated Control Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACC-IC
 
@@ -22,7 +22,7 @@ Measures the share of key controls executed by systems rather than humans. Autom
 ## Formula
 
 ```
-Key Controls Automated / Key Controls
+ACC-IC = Key Controls Automated / Key Controls
 ```
 
 ## Unit

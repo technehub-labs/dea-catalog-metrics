@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Markdown Rate** (MDR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-markdown-rate`
 - **Name:** Markdown Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDR
 
@@ -22,7 +22,7 @@ Measures the share of sales or inventory sold below original ticket price. It ma
 ## Formula
 
 ```
-Markdown Value / Gross Sales Value
+MDR = Markdown Value / Gross Sales Value
 ```
 
 ## Unit

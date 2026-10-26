@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value Leakage from Missed Renewals** (
 - **Canonical id:** `dea:metric-value-leakage-from-missed-renewals`
 - **Name:** Value Leakage from Missed Renewals
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VLMR
 
@@ -22,7 +22,7 @@ Measures the value lost to auto-renewals, unnoticed expirations, and unexercised
 ## Formula
 
 ```
-Spend on Unwanted Auto-Renewals in Period
+VLMR = Spend on Unwanted Auto-Renewals in Period
 ```
 
 ## Unit

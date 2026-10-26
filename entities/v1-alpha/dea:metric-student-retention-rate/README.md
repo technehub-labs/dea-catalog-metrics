@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student Retention Rate** (SRR) in the 
 - **Canonical id:** `dea:metric-student-retention-rate`
 - **Name:** Student Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR
 
@@ -22,7 +22,7 @@ The share of students who continue from one period to the next - the institution
 ## Formula
 
 ```
-Students Continuing / Students Enrolled at Start
+SRR = Students Continuing / Students Enrolled at Start
 ```
 
 ## Unit

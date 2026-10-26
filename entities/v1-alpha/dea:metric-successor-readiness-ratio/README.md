@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Successor Readiness Ratio** (SRR-W) in
 - **Canonical id:** `dea:metric-successor-readiness-ratio`
 - **Name:** Successor Readiness Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRR-W
 
@@ -22,7 +22,7 @@ Measures the share of critical roles with ready-now (or ready-soon) identified s
 ## Formula
 
 ```
-Ready-Now Successors / Critical Roles
+SRR-W = Ready-Now Successors / Critical Roles
 ```
 
 ## Unit

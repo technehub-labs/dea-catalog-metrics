@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Accuracy Rate (Deep Dive)** (DAR-
 - **Canonical id:** `dea:metric-data-accuracy-rate-deep-dive`
 - **Name:** Data Accuracy Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAR-DQ
 
@@ -18,7 +18,7 @@ Data Accuracy Rate (Deep Dive) (DAR-DQ) addresses the quality of outputs and out
 ## Formula
 
 ```
-Values Matching Verified Source / Values Sampled
+DAR-DQ = Values Matching Verified Source / Values Sampled
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Integration Success of Acquired Startu
 - **Canonical id:** `dea:metric-integration-success-of-acquired-startups`
 - **Name:** Integration Success of Acquired Startups
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISAS
 
@@ -22,7 +22,7 @@ Measures whether acquired ventures retain talent, deliver planned technology or 
 ## Formula
 
 ```
-Acquisitions Retaining Founders and Targets at 24 Months / Acquisitions
+ISAS = Acquisitions Retaining Founders and Targets at 24 Months / Acquisitions
 ```
 
 ## Unit

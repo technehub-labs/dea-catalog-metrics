@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage Gate Bypass Rate** (SGBR-PPM) in
 - **Canonical id:** `dea:metric-stage-gate-bypass-rate`
 - **Name:** Stage Gate Bypass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGBR-PPM
 
@@ -22,7 +22,7 @@ Measures the share of initiatives passing through stage gates with waived requir
 ## Formula
 
 ```
-Gates Approved with Exceptions or Waivers / Gates
+SGBR-PPM = Gates Approved with Exceptions or Waivers / Gates
 ```
 
 ## Unit

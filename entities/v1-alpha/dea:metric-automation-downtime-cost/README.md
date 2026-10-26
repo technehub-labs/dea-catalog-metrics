@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Downtime Cost** (ADC) in th
 - **Canonical id:** `dea:metric-automation-downtime-cost`
 - **Name:** Automation Downtime Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADC
 
@@ -22,7 +22,7 @@ Measures the production cost of automated system outages. It matters because aut
 ## Formula
 
 ```
-Lost Output Value from Automation Unavailability per Period
+ADC = Lost Output Value from Automation Unavailability per Period
 ```
 
 ## Unit

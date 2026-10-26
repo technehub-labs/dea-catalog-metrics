@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Adherence** (SA) in the OpenD
 - **Canonical id:** `dea:metric-schedule-adherence`
 - **Name:** Schedule Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SA
 
@@ -22,7 +22,7 @@ Measures how well frontline staff follow their planned schedules. It matters bec
 ## Formula
 
 ```
-Tasks Completed On Schedule / Tasks Scheduled
+SA = Tasks Completed On Schedule / Tasks Scheduled
 ```
 
 ## Unit

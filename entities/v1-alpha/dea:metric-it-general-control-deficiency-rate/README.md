@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IT General Control Deficiency Rate** (
 - **Canonical id:** `dea:metric-it-general-control-deficiency-rate`
 - **Name:** IT General Control Deficiency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITGCDR
 
@@ -22,7 +22,7 @@ Measures the rate of deficiencies in ITGCs (access, change, operations) that und
 ## Formula
 
 ```
-ITGC Tests with Deficiencies / ITGC Tests
+ITGCDR = ITGC Tests with Deficiencies / ITGC Tests
 ```
 
 ## Unit

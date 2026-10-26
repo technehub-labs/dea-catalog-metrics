@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review-to-Merge Elapsed Time** (RMET) 
 - **Canonical id:** `dea:metric-review-to-merge-elapsed-time`
 - **Name:** Review-to-Merge Elapsed Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMET
 
@@ -18,7 +18,7 @@ Review-to-Merge Elapsed Time (RMET) captures how efficiently resources are conve
 ## Formula
 
 ```
-Median Hours from Review Start to Merge
+RMET = Median Hours from Review Start to Merge
 ```
 
 ## Unit

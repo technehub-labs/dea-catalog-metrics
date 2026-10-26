@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Concentration Risk** (CCR-PS) i
 - **Canonical id:** `dea:metric-client-concentration-risk`
 - **Name:** Client Concentration Risk
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-PS
 
@@ -22,7 +22,7 @@ The share of revenue from the largest clients - the dependency metric of the pro
 ## Formula
 
 ```
-Largest Client Fee Revenue / Total Fee Revenue
+CCR-PS = Largest Client Fee Revenue / Total Fee Revenue
 ```
 
 ## Unit

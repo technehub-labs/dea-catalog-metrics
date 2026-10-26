@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Litigation Cost Exposure Ratio** (I
 - **Canonical id:** `dea:metric-ip-litigation-cost-exposure-ratio`
 - **Name:** IP Litigation Cost Exposure Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ILCER
 
@@ -22,7 +22,7 @@ Measures potential IP litigation cost relative to capacity to absorb it. Litigat
 ## Formula
 
 ```
-Litigation Spend and Reserves / Revenue
+ILCER = Litigation Spend and Reserves / Revenue
 ```
 
 ## Unit

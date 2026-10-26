@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Dashboard Currency** (CDC) 
 - **Canonical id:** `dea:metric-compliance-dashboard-currency`
 - **Name:** Compliance Dashboard Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDC
 
@@ -18,7 +18,7 @@ Compliance Dashboard Currency (CDC) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Metrics Refreshed within Window / Metrics Tracked
+CDC = Metrics Refreshed within Window / Metrics Tracked
 ```
 
 ## Unit

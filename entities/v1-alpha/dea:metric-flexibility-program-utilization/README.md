@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flexibility Program Utilization** (FPU
 - **Canonical id:** `dea:metric-flexibility-program-utilization`
 - **Name:** Flexibility Program Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPU-DEI
 
@@ -18,7 +18,7 @@ Within Diversity, Equity & Inclusion (Deep Dive), Flexibility Program Utilizatio
 ## Formula
 
 ```
-Employees Using Flexible Arrangements / Employees
+FPU-DEI = Employees Using Flexible Arrangements / Employees
 ```
 
 ## Unit

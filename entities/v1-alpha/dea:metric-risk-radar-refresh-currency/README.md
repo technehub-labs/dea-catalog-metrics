@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Radar Refresh Currency** (RRRC) i
 - **Canonical id:** `dea:metric-risk-radar-refresh-currency`
 - **Name:** Risk Radar Refresh Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRRC
 
@@ -18,7 +18,7 @@ A Emerging Risk & Horizon Scanning indicator, Risk Radar Refresh Currency (RRRC)
 ## Formula
 
 ```
-Risk Radar Updated per Cadence / Required Updates
+RRRC = Risk Radar Updated per Cadence / Required Updates
 ```
 
 ## Unit

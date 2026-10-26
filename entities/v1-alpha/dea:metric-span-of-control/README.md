@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Span of Control** (SOC) in the OpenDEA
 - **Canonical id:** `dea:metric-span-of-control`
 - **Name:** Span of Control
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOC
 
@@ -22,7 +22,7 @@ Measures the average number of direct reports per manager. It is the structural 
 ## Formula
 
 ```
-Direct Reports / Manager, Averaged
+SOC = Direct Reports / Manager, Averaged
 ```
 
 ## Unit

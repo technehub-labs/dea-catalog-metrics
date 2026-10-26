@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline-to-Closing Conversion** (P2CC
 - **Canonical id:** `dea:metric-pipeline-to-closing-conversion`
 - **Name:** Pipeline-to-Closing Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** P2CC
 
@@ -22,7 +22,7 @@ Measures the share of pipeline listings or buyer engagements that close. It matt
 ## Formula
 
 ```
-Closings / Active Pipeline Opportunities
+P2CC = Closings / Active Pipeline Opportunities
 ```
 
 ## Unit

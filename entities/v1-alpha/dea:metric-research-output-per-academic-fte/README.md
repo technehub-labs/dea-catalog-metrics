@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Research Output per Academic FTE** (RO
 - **Canonical id:** `dea:metric-research-output-per-academic-fte`
 - **Name:** Research Output per Academic FTE
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROAF
 
@@ -22,7 +22,7 @@ Measures publications, grants, or citations per academic staff member. It is the
 ## Formula
 
 ```
-Peer-Reviewed Outputs / Academic FTE
+ROAF = Peer-Reviewed Outputs / Academic FTE
 ```
 
 ## Unit

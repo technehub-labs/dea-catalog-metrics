@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pre-Merge Verification Depth Score** (
 - **Canonical id:** `dea:metric-pre-merge-verification-depth-score`
 - **Name:** Pre-Merge Verification Depth Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMVDS
 
@@ -22,7 +22,7 @@ Measures the rigor of automated verification required before code merges - test 
 ## Formula
 
 ```
-Composite Gate Strength Score for Merge Checks
+PMVDS = Composite Gate Strength Score for Merge Checks
 ```
 
 ## Unit

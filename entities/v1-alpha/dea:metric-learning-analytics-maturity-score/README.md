@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Analytics Maturity Score** (L
 - **Canonical id:** `dea:metric-learning-analytics-maturity-score`
 - **Name:** Learning Analytics Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LAMS
 
@@ -18,7 +18,7 @@ A Learning & Development Effectiveness (Deep Dive) indicator, Learning Analytics
 ## Formula
 
 ```
-Rubric of Measurement Sophistication of L&D Function
+LAMS = Rubric of Measurement Sophistication of L&D Function
 ```
 
 ## Unit

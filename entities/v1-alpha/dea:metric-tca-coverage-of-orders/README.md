@@ -7,7 +7,7 @@ Candidate Performance Metric record for **TCA Coverage of Orders** (TCACO) in th
 - **Canonical id:** `dea:metric-tca-coverage-of-orders`
 - **Name:** TCA Coverage of Orders
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCACO
 
@@ -22,7 +22,7 @@ Measures the share of executed order flow subject to transaction cost analysis. 
 ## Formula
 
 ```
-Orders with Transaction Cost Analysis / Orders
+TCACO = Orders with Transaction Cost Analysis / Orders
 ```
 
 ## Unit

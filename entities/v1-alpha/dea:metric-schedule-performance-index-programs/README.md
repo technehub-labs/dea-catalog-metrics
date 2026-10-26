@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Performance Index (Programs)*
 - **Canonical id:** `dea:metric-schedule-performance-index-programs`
 - **Name:** Schedule Performance Index (Programs)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPI-P
 
@@ -22,7 +22,7 @@ Measures schedule efficiency through earned value - work performed against work 
 ## Formula
 
 ```
-EV / PV
+SPI-P = EV / PV
 ```
 
 ## Unit

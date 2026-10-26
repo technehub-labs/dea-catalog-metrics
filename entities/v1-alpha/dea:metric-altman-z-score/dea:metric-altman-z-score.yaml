@@ -9,7 +9,7 @@ description: Within Valuation & Corporate Finance Standard Measures, Altman Z-Sc
   frameworks.
 abbreviation: ALTZ
 unit: score
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - financial
@@ -27,7 +27,7 @@ source_credit: Edward I. Altman, 1968
 calculation_definition: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
 formula_definition:
   formula_id: dea:formula-altman-z-score
-  expression: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
+  expression: ALTZ = Composite Discriminant of Liquidity, Profitability, Leverage Ratios
   inputs:
   - name: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
   operators: []
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-score
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 4035
     batch: '9'
 domain: valuation_corporate_finance_standard_measures
+subject_concept: dea:subject-altman_z
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4035
+  - Edward I. Altman, 1968
+  known_limitations: []

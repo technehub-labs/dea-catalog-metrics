@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Machine Guarding Compliance** (MGC) in
 - **Canonical id:** `dea:metric-machine-guarding-compliance`
 - **Name:** Machine Guarding Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MGC
 
@@ -18,7 +18,7 @@ Machine Guarding Compliance (MGC) captures conformance to standards, plans, or o
 ## Formula
 
 ```
-Guarded Hazards / Identified Machine Hazards
+MGC = Guarded Hazards / Identified Machine Hazards
 ```
 
 ## Unit

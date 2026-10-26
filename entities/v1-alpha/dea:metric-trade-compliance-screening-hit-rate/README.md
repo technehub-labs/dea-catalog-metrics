@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Compliance Screening Hit Rate** 
 - **Canonical id:** `dea:metric-trade-compliance-screening-hit-rate`
 - **Name:** Trade Compliance Screening Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCSH
 
@@ -18,7 +18,7 @@ Trade Compliance Screening Hit Rate (TCSH) measures exposure to adverse outcomes
 ## Formula
 
 ```
-Denied-Party Hits Confirmed / Screening Hits
+TCSH = Denied-Party Hits Confirmed / Screening Hits
 ```
 
 ## Unit

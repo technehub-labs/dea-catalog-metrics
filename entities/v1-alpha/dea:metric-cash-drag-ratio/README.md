@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Drag Ratio** (CDR-IM) in the Open
 - **Canonical id:** `dea:metric-cash-drag-ratio`
 - **Name:** Cash Drag Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDR-IM
 
@@ -18,7 +18,7 @@ Cash Drag Ratio (CDR-IM) captures how efficiently resources are converted into o
 ## Formula
 
 ```
-Return Lost to Idle Cash / Portfolio Return
+CDR-IM = Return Lost to Idle Cash / Portfolio Return
 ```
 
 ## Unit

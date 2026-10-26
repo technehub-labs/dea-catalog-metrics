@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Control Coverage** (SCC) in t
 - **Canonical id:** `dea:metric-security-control-coverage`
 - **Name:** Security Control Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCC
 
@@ -22,7 +22,7 @@ The share of systems, environments, or in-scope assets on which required securit
 ## Formula
 
 ```
-Implemented Controls / Required Controls per Framework
+SCC = Implemented Controls / Required Controls per Framework
 ```
 
 ## Unit

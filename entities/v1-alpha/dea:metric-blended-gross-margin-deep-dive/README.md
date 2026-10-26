@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blended Gross Margin (Deep Dive)** (BG
 - **Canonical id:** `dea:metric-blended-gross-margin-deep-dive`
 - **Name:** Blended Gross Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BGMD
 
@@ -22,7 +22,7 @@ Measures gross margin across all revenue streams combined. Blended margin is the
 ## Formula
 
 ```
-Gross Profit including Services / Total Revenue
+BGMD = Gross Profit including Services / Total Revenue
 ```
 
 ## Unit

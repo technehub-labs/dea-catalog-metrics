@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Turnover (Investment Deep Di
 - **Canonical id:** `dea:metric-portfolio-turnover-investment-deep-dive`
 - **Name:** Portfolio Turnover (Investment Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTID
 
@@ -18,7 +18,7 @@ Portfolio Turnover (Investment Deep Dive) (PTID) measures how efficiently resour
 ## Formula
 
 ```
-Lesser of Purchases or Sales / Average NAV
+PTID = Lesser of Purchases or Sales / Average NAV
 ```
 
 ## Unit

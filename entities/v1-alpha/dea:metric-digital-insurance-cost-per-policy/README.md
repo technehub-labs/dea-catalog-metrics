@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Insurance Cost per Policy** (D
 - **Canonical id:** `dea:metric-digital-insurance-cost-per-policy`
 - **Name:** Digital Insurance Cost per Policy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DICPP
 
@@ -22,7 +22,7 @@ Measures fully loaded cost of issuing and servicing a digital-channel policy. It
 ## Formula
 
 ```
-Digital Channel Cost / Policies
+DICPP = Digital Channel Cost / Policies
 ```
 
 ## Unit

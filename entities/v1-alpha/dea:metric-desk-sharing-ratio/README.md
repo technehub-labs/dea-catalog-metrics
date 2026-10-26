@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Desk Sharing Ratio** (DSR) in the Open
 - **Canonical id:** `dea:metric-desk-sharing-ratio`
 - **Name:** Desk Sharing Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSR
 
@@ -22,7 +22,7 @@ The ratio of employees to desks in a workplace - the design parameter that hybri
 ## Formula
 
 ```
-Employees / Workstations
+DSR = Employees / Workstations
 ```
 
 ## Unit

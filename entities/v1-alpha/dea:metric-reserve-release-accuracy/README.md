@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Release Accuracy** (RRA) in th
 - **Canonical id:** `dea:metric-reserve-release-accuracy`
 - **Name:** Reserve Release Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRA
 
@@ -22,7 +22,7 @@ Measures how accurately deliberate reserve releases (or strengthening) matched s
 ## Formula
 
 ```
-Reserve Releases Justified by Experience / Total Releases
+RRA = Reserve Releases Justified by Experience / Total Releases
 ```
 
 ## Unit

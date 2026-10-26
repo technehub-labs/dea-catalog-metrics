@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Defect Escape Rate (Aerospace
 - **Canonical id:** `dea:metric-supplier-defect-escape-rate-aerospace`
 - **Name:** Supplier Defect Escape Rate (Aerospace)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDER
 
@@ -18,7 +18,7 @@ Supplier Defect Escape Rate (Aerospace) (SDER) measures the quality of outputs a
 ## Formula
 
 ```
-Supplier Defects Found Downstream / Receipts
+SDER = Supplier Defects Found Downstream / Receipts
 ```
 
 ## Unit

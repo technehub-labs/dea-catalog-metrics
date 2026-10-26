@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity of Refining** (EIR) i
 - **Canonical id:** `dea:metric-energy-intensity-of-refining`
 - **Name:** Energy Intensity of Refining
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIR
 
@@ -22,7 +22,7 @@ Measures energy consumed per barrel or ton processed. It matters because refinin
 ## Formula
 
 ```
-Refinery Energy Consumed / Crude Throughput
+EIR = Refinery Energy Consumed / Crude Throughput
 ```
 
 ## Unit

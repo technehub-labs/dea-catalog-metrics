@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flight Cancellation Rate** (FCR) in th
 - **Canonical id:** `dea:metric-flight-cancellation-rate`
 - **Name:** Flight Cancellation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR
 
@@ -22,7 +22,7 @@ Cancelled flights as a share of scheduled flights - the disruption metric that p
 ## Formula
 
 ```
-Cancelled Flights / Scheduled Flights
+FCR = Cancelled Flights / Scheduled Flights
 ```
 
 ## Unit

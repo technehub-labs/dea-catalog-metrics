@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Clause Compliance Rate** (CCC
 - **Canonical id:** `dea:metric-contract-clause-compliance-rate`
 - **Name:** Contract Clause Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCCR
 
@@ -22,7 +22,7 @@ Measures the share of executed contracts containing required standard clauses. I
 ## Formula
 
 ```
-Contracts Containing All Required Clauses / Contracts Executed
+CCCR = Contracts Containing All Required Clauses / Contracts Executed
 ```
 
 ## Unit

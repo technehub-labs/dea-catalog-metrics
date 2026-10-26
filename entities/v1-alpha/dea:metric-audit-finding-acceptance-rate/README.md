@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Finding Acceptance Rate** (AFAR)
 - **Canonical id:** `dea:metric-audit-finding-acceptance-rate`
 - **Name:** Audit Finding Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFAR
 
@@ -22,7 +22,7 @@ Measures the share of audit findings accepted by management without dispute. It 
 ## Formula
 
 ```
-Findings Accepted by Management / Findings Raised
+AFAR = Findings Accepted by Management / Findings Raised
 ```
 
 ## Unit

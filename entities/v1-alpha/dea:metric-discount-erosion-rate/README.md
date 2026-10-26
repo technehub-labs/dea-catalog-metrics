@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discount Erosion Rate** (DER-UE) in th
 - **Canonical id:** `dea:metric-discount-erosion-rate`
 - **Name:** Discount Erosion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DER-UE
 
@@ -18,7 +18,7 @@ Discount Erosion Rate (DER-UE) captures the economic value created or preserved 
 ## Formula
 
 ```
-Average Discount Depth on New Contracts
+DER-UE = Average Discount Depth on New Contracts
 ```
 
 ## Unit

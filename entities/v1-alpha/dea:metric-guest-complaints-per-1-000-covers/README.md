@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Complaints per 1,000 Covers** (G
 - **Canonical id:** `dea:metric-guest-complaints-per-1-000-covers`
 - **Name:** Guest Complaints per 1,000 Covers
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GCPC
 
@@ -18,7 +18,7 @@ Within Restaurants, Guest Complaints per 1,000 Covers (GCPC) is used to gauge th
 ## Formula
 
 ```
-Complaints / Covers Served x 1,000
+GCPC = Complaints / Covers Served x 1,000
 ```
 
 ## Unit

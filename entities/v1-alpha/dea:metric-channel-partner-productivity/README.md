@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Channel Partner Productivity** (CPP-CD
 - **Canonical id:** `dea:metric-channel-partner-productivity`
 - **Name:** Channel Partner Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPP-CD
 
@@ -22,7 +22,7 @@ Measures revenue generated per channel partner (or per partner tier). Productivi
 ## Formula
 
 ```
-Revenue per Active Partner
+CPP-CD = Revenue per Active Partner
 ```
 
 ## Unit

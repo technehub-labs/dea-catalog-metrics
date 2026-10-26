@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cloud Misconfiguration Density** (CMDE
 - **Canonical id:** `dea:metric-cloud-misconfiguration-density`
 - **Name:** Cloud Misconfiguration Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMDEN
 
@@ -18,7 +18,7 @@ A Cloud Security Posture Management indicator, Cloud Misconfiguration Density (C
 ## Formula
 
 ```
-Open Misconfigurations per 100 Cloud Resources
+CMDEN = Open Misconfigurations per 100 Cloud Resources
 ```
 
 ## Unit

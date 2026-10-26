@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tabletop Exercise Completion Rate** (T
 - **Canonical id:** `dea:metric-tabletop-exercise-completion-rate`
 - **Name:** Tabletop Exercise Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TECR-SOC
 
@@ -22,7 +22,7 @@ Measures the share of required incident-response exercises conducted on schedule
 ## Formula
 
 ```
-Exercises Completed per Year / Planned
+TECR-SOC = Exercises Completed per Year / Planned
 ```
 
 ## Unit

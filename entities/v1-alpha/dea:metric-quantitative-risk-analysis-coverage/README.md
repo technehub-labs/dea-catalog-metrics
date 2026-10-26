@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quantitative Risk Analysis Coverage** 
 - **Canonical id:** `dea:metric-quantitative-risk-analysis-coverage`
 - **Name:** Quantitative Risk Analysis Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QRAC
 
@@ -18,7 +18,7 @@ A Project Risk & Issue Management indicator, Quantitative Risk Analysis Coverage
 ## Formula
 
 ```
-High-Criticality Projects with Quantified Risk / High-Criticality Projects
+QRAC = High-Criticality Projects with Quantified Risk / High-Criticality Projects
 ```
 
 ## Unit

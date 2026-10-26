@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secure SDLC Stage Gate Compliance** (S
 - **Canonical id:** `dea:metric-secure-sdlc-stage-gate-compliance`
 - **Name:** Secure SDLC Stage Gate Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSDLC
 
@@ -22,7 +22,7 @@ Measures whether security activities are performed and passed at each SDLC stage
 ## Formula
 
 ```
-Projects Passing Security Gates at Each Stage / Projects
+SSDLC = Projects Passing Security Gates at Each Stage / Projects
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: Use-of-Force Incident Rate (UOFIR) captures exposure to adverse out
   It originates from and is most used in Security practice.
 abbreviation: UOFIR
 unit: event
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - risk
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Use-of-Force Reports / 1,000 Shifts
 formula_definition:
   formula_id: dea:formula-use-of-force-incident-rate
-  expression: Use-of-Force Reports / 1,000 Shifts
+  expression: UOFIR = Use-of-Force Reports / 1,000 Shifts
   inputs:
   - name: Use
   - name: of
@@ -38,7 +38,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-event
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -49,6 +49,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -56,3 +60,11 @@ metadata:
     batch: '6'
 domain: security_services_guarding
 sector: security
+subject_concept: dea:subject-use_of_force_incident
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2058
+  - Public domain - no attribution required
+  known_limitations: []

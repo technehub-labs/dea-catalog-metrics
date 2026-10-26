@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process First-Pass Yield Trend (Deep D
 - **Canonical id:** `dea:metric-process-first-pass-yield-trend-deep-dive`
 - **Name:** Process First-Pass Yield Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPYT-D
 
@@ -22,7 +22,7 @@ Measures the share of process outputs done right the first time, tracked over ti
 ## Formula
 
 ```
-Change in First-Pass Yield between Periods
+FPYT-D = Change in First-Pass Yield between Periods
 ```
 
 ## Unit

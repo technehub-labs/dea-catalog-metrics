@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Belonging Index** (BI-DEI) in the Open
 - **Canonical id:** `dea:metric-belonging-index`
 - **Name:** Belonging Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BI-DEI
 
@@ -22,7 +22,7 @@ Measures employees' felt sense of being valued and able to be themselves at work
 ## Formula
 
 ```
-Survey Composite of Belonging and Psychological Safety
+BI-DEI = Survey Composite of Belonging and Psychological Safety
 ```
 
 ## Unit

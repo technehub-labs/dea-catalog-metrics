@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Capacity Utilization** (PCU-
 - **Canonical id:** `dea:metric-portfolio-capacity-utilization`
 - **Name:** Portfolio Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCU-PPM
 
@@ -22,7 +22,7 @@ Measures how fully the delivery capacity is committed against available capacity
 ## Formula
 
 ```
-Committed Resource Capacity / Total Capacity
+PCU-PPM = Committed Resource Capacity / Total Capacity
 ```
 
 ## Unit

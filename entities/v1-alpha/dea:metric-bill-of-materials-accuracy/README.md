@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bill of Materials Accuracy** (BOMA) in
 - **Canonical id:** `dea:metric-bill-of-materials-accuracy`
 - **Name:** Bill of Materials Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOMA
 
@@ -18,7 +18,7 @@ Bill of Materials Accuracy (BOMA) captures the quality of outputs and outcomes f
 ## Formula
 
 ```
-BOMs without Discrepancy / BOMs Audited
+BOMA = BOMs without Discrepancy / BOMs Audited
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Phishing Click Rate** (PCR) in the Ope
 - **Canonical id:** `dea:metric-phishing-click-rate`
 - **Name:** Phishing Click Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR
 
@@ -22,7 +22,7 @@ Measures the share of simulated phishing recipients who click the lure. It matte
 ## Formula
 
 ```
-Users Clicking Simulated Phish / Users Targeted
+PCR = Users Clicking Simulated Phish / Users Targeted
 ```
 
 ## Unit

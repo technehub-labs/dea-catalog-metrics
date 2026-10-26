@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAU-to-MAU Stickiness (Deep Dive)** (D
 - **Canonical id:** `dea:metric-dau-to-mau-stickiness-deep-dive`
 - **Name:** DAU-to-MAU Stickiness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DMS-D
 
@@ -22,7 +22,7 @@ Measures daily actives as a share of monthly actives, the standard stickiness ra
 ## Formula
 
 ```
-DAU / MAU
+DMS-D = DAU / MAU
 ```
 
 ## Unit

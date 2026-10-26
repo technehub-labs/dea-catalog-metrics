@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Empty Miles Rate** (EMR) in the OpenDE
 - **Canonical id:** `dea:metric-empty-miles-rate`
 - **Name:** Empty Miles Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EMR
 
@@ -22,7 +22,7 @@ Measures the share of driven miles running without a paying load. It matters bec
 ## Formula
 
 ```
-Empty Miles / Total Miles
+EMR = Empty Miles / Total Miles
 ```
 
 ## Unit

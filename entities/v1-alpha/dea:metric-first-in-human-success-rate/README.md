@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First-in-Human Success Rate** (FIHS) i
 - **Canonical id:** `dea:metric-first-in-human-success-rate`
 - **Name:** First-in-Human Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FIHS
 
@@ -22,7 +22,7 @@ Measures the share of candidates entering first-in-human studies that proceed sa
 ## Formula
 
 ```
-Compounds Progressing past First-in-Human / Compounds Entering
+FIHS = Compounds Progressing past First-in-Human / Compounds Entering
 ```
 
 ## Unit

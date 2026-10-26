@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Meeting Effectiveness Index** (MEI-GOV
 - **Canonical id:** `dea:metric-meeting-effectiveness-index`
 - **Name:** Meeting Effectiveness Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MEI-GOV
 
@@ -18,7 +18,7 @@ Meeting Effectiveness Index (MEI-GOV) measures how efficiently resources are con
 ## Formula
 
 ```
-Composite Meeting Value Survey Score
+MEI-GOV = Composite Meeting Value Survey Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disaster Recovery Test Pass Rate** (DR
 - **Canonical id:** `dea:metric-disaster-recovery-test-pass-rate`
 - **Name:** Disaster Recovery Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRTPR
 
@@ -22,7 +22,7 @@ Measures how completely DR tests meet their objectives without major gaps. Tests
 ## Formula
 
 ```
-Successful DR Tests / DR Tests Executed
+DRTPR = Successful DR Tests / DR Tests Executed
 ```
 
 ## Unit

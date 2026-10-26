@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investor Update Response Rate** (IURR)
 - **Canonical id:** `dea:metric-investor-update-response-rate`
 - **Name:** Investor Update Response Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IURR
 
@@ -18,7 +18,7 @@ Within Startup & Venture-Backed Business, Investor Update Response Rate (IURR) i
 ## Formula
 
 ```
-Investors Responding to Updates / Updates Sent
+IURR = Investors Responding to Updates / Updates Sent
 ```
 
 ## Unit

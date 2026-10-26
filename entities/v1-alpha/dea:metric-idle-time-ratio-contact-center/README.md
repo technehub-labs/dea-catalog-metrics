@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Idle Time Ratio (Contact Center)** (IT
 - **Canonical id:** `dea:metric-idle-time-ratio-contact-center`
 - **Name:** Idle Time Ratio (Contact Center)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITR-CC
 
@@ -18,7 +18,7 @@ Idle Time Ratio (Contact Center) (ITR-CC) addresses how efficiently resources ar
 ## Formula
 
 ```
-Unproductive Waiting Time / Paid Time
+ITR-CC = Unproductive Waiting Time / Paid Time
 ```
 
 ## Unit

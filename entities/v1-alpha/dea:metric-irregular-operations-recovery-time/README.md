@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Irregular Operations Recovery Time** (
 - **Canonical id:** `dea:metric-irregular-operations-recovery-time`
 - **Name:** Irregular Operations Recovery Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IROPR
 
@@ -18,7 +18,7 @@ Irregular Operations Recovery Time (IROPR) captures how efficiently resources ar
 ## Formula
 
 ```
-Minutes to Restore Schedule after Disruption
+IROPR = Minutes to Restore Schedule after Disruption
 ```
 
 ## Unit

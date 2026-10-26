@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Gate Enforcement Rate** (SGER
 - **Canonical id:** `dea:metric-security-gate-enforcement-rate`
 - **Name:** Security Gate Enforcement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGER
 
@@ -22,7 +22,7 @@ Measures the share of deployments that passed mandatory security gates without o
 ## Formula
 
 ```
-Releases Blocked by Security Gate when Threshold Exceeded / Threshold Events
+SGER = Releases Blocked by Security Gate when Threshold Exceeded / Threshold Events
 ```
 
 ## Unit

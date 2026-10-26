@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hiring Diversity Rate (Deep Dive)** (H
 - **Canonical id:** `dea:metric-hiring-diversity-rate-deep-dive`
 - **Name:** Hiring Diversity Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HDR-DEI
 
@@ -22,7 +22,7 @@ Measures demographic diversity of new hires relative to goals and pipeline avail
 ## Formula
 
 ```
-Diverse Hires / Total Hires
+HDR-DEI = Diverse Hires / Total Hires
 ```
 
 ## Unit

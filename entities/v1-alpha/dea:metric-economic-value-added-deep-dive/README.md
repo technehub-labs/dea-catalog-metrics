@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added (Deep Dive)** (EV
 - **Canonical id:** `dea:metric-economic-value-added-deep-dive`
 - **Name:** Economic Value Added (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EVA-D
 
@@ -22,7 +22,7 @@ Measures operating profit minus the full cost of capital employed. EVA converts 
 ## Formula
 
 ```
-NOPAT - WACC x Capital Employed
+EVA-D = NOPAT - WACC x Capital Employed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interface Error Rate** (IER-NW) in the
 - **Canonical id:** `dea:metric-interface-error-rate`
 - **Name:** Interface Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IER-NW
 
@@ -18,7 +18,7 @@ Interface Error Rate (IER-NW) measures the quality of outputs and outcomes in th
 ## Formula
 
 ```
-Interfaces with Persistent Errors / Interfaces
+IER-NW = Interfaces with Persistent Errors / Interfaces
 ```
 
 ## Unit

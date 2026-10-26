@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Subscription Conversion Rate (
 - **Canonical id:** `dea:metric-digital-subscription-conversion-rate-deep-dive`
 - **Name:** Digital Subscription Conversion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCR-D
 
@@ -22,7 +22,7 @@ Measures the share of registered or anonymous readers converting to paid digital
 ## Formula
 
 ```
-New Digital Subscribers / Anonymous Visitors
+DSCR-D = New Digital Subscribers / Anonymous Visitors
 ```
 
 ## Unit

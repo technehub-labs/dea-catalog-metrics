@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Transaction Value** (ATV) in t
 - **Canonical id:** `dea:metric-average-transaction-value`
 - **Name:** Average Transaction Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATV
 
@@ -22,7 +22,7 @@ Measures mean revenue per completed transaction in retail or e-commerce. It matt
 ## Formula
 
 ```
-Total Revenue / Number of Transactions
+ATV = Total Revenue / Number of Transactions
 ```
 
 ## Unit

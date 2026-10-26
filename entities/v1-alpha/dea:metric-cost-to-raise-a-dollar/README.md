@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Raise a Dollar** (CTR) in the 
 - **Canonical id:** `dea:metric-cost-to-raise-a-dollar`
 - **Name:** Cost to Raise a Dollar
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTR
 
@@ -22,7 +22,7 @@ Cost to raise a dollar measures fundraising expense divided by funds raised, and
 ## Formula
 
 ```
-Fundraising Cost / Funds Raised
+CTR = Fundraising Cost / Funds Raised
 ```
 
 ## Unit

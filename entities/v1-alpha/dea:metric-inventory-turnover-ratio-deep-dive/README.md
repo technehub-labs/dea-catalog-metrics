@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Turnover Ratio (Deep Dive)**
 - **Canonical id:** `dea:metric-inventory-turnover-ratio-deep-dive`
 - **Name:** Inventory Turnover Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITRDD
 
@@ -18,7 +18,7 @@ Inventory Turnover Ratio (Deep Dive) (ITRDD) addresses how efficiently resources
 ## Formula
 
 ```
-Cost of Sales / Average Inventory
+ITRDD = Cost of Sales / Average Inventory
 ```
 
 ## Unit

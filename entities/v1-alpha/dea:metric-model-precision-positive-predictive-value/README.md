@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Precision (Positive Predictive V
 - **Canonical id:** `dea:metric-model-precision-positive-predictive-value`
 - **Name:** Model Precision (Positive Predictive Value)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MPPPV
 
@@ -18,7 +18,7 @@ Model Precision (Positive Predictive Value) (MPPPV) addresses the quality of out
 ## Formula
 
 ```
-True Positives / (True Positives + False Positives)
+MPPPV = True Positives / (True Positives + False Positives)
 ```
 
 ## Unit

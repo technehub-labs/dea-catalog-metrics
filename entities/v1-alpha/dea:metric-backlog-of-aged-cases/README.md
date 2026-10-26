@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backlog of Aged Cases** (BAC) in the O
 - **Canonical id:** `dea:metric-backlog-of-aged-cases`
 - **Name:** Backlog of Aged Cases
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BAC
 
@@ -18,7 +18,7 @@ Backlog of Aged Cases (BAC) measures the utilization or availability of capacity
 ## Formula
 
 ```
-Open Cases Older than Threshold Age
+BAC = Open Cases Older than Threshold Age
 ```
 
 ## Unit

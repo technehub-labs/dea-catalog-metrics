@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Market Coverage** (BMC) in the O
 - **Canonical id:** `dea:metric-brand-market-coverage`
 - **Name:** Brand Market Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BMC
 
@@ -22,7 +22,7 @@ Measures how completely the brand's presence covers the strategic market definit
 ## Formula
 
 ```
-Segments Served / Addressable Segments
+BMC = Segments Served / Addressable Segments
 ```
 
 ## Unit

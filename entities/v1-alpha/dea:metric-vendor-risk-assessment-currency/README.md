@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Risk Assessment Currency** (VRA
 - **Canonical id:** `dea:metric-vendor-risk-assessment-currency`
 - **Name:** Vendor Risk Assessment Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRAC
 
@@ -22,7 +22,7 @@ Vendor risk assessment currency measures the share of vendor relationships with 
 ## Formula
 
 ```
-Vendors with Assessment within Review Cycle / Critical Vendors
+VRAC = Vendors with Assessment within Review Cycle / Critical Vendors
 ```
 
 ## Unit

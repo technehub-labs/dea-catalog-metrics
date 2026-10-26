@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test Coverage (Electronics)** (TCV) in
 - **Canonical id:** `dea:metric-test-coverage-electronics`
 - **Name:** Test Coverage (Electronics)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCV
 
@@ -18,7 +18,7 @@ Test Coverage (Electronics) (TCV) addresses the quality of outputs and outcomes 
 ## Formula
 
 ```
-Circuit Nodes or Functions Tested / Total Nodes
+TCV = Circuit Nodes or Functions Tested / Total Nodes
 ```
 
 ## Unit

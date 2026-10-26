@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Impact Analysis Currency** (B
 - **Canonical id:** `dea:metric-business-impact-analysis-currency`
 - **Name:** Business Impact Analysis Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BIAC
 
@@ -22,7 +22,7 @@ Measures whether BIAs are recent enough to reflect current processes, systems, a
 ## Formula
 
 ```
-BIAs Refreshed within Cycle / Critical Processes
+BIAC = BIAs Refreshed within Cycle / Critical Processes
 ```
 
 ## Unit

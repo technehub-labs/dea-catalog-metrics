@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Accessibility Score (Deep Dive
 - **Canonical id:** `dea:metric-service-accessibility-score-deep-dive`
 - **Name:** Service Accessibility Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAS-D
 
@@ -22,7 +22,7 @@ Measures how easily customers can reach and use support and service channels acr
 ## Formula
 
 ```
-Composite Channel Accessibility Score
+SAS-D = Composite Channel Accessibility Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Traveler Satisfaction (Program)** (TSP
 - **Canonical id:** `dea:metric-traveler-satisfaction-program`
 - **Name:** Traveler Satisfaction (Program)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSP
 
@@ -22,7 +22,7 @@ Measures traveler satisfaction with the corporate travel program. It matters bec
 ## Formula
 
 ```
-Satisfied Traveler Survey Responses / Responses
+TSP = Satisfied Traveler Survey Responses / Responses
 ```
 
 ## Unit

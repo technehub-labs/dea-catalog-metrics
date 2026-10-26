@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Signal Failure Rate (Rail Deep Dive)**
 - **Canonical id:** `dea:metric-signal-failure-rate-rail-deep-dive`
 - **Name:** Signal Failure Rate (Rail Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SFR-D
 
@@ -18,7 +18,7 @@ A Rail Freight (Deep Dive) indicator, Signal Failure Rate (Rail Deep Dive) (SFR-
 ## Formula
 
 ```
-Failures per 1,000 Signals
+SFR-D = Failures per 1,000 Signals
 ```
 
 ## Unit

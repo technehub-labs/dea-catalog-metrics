@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Losses and Gains Variance (Refining)**
 - **Canonical id:** `dea:metric-losses-and-gains-variance-refining`
 - **Name:** Losses and Gains Variance (Refining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LGV
 
@@ -18,7 +18,7 @@ Losses and Gains Variance (Refining) (LGV) measures the quality of outputs and o
 ## Formula
 
 ```
-Measured Output vs Theoretical Output Variance
+LGV = Measured Output vs Theoretical Output Variance
 ```
 
 ## Unit

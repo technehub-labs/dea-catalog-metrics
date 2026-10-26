@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Governance Handoff Cycle Time** 
 - **Canonical id:** `dea:metric-model-governance-handoff-cycle-time`
 - **Name:** Model Governance Handoff Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MGHCT
 
@@ -18,7 +18,7 @@ Within MLOps & Model Lifecycle Operations, Model Governance Handoff Cycle Time (
 ## Formula
 
 ```
-Days from Model Sign-off to Deployment Readiness
+MGHCT = Days from Model Sign-off to Deployment Readiness
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Adoption Rate** (FAR) in the O
 - **Canonical id:** `dea:metric-feature-adoption-rate`
 - **Name:** Feature Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR
 
@@ -22,7 +22,7 @@ Measures the share of target users adopting a released feature within a period. 
 ## Formula
 
 ```
-Users Adopting New Feature / Users Exposed
+FAR = Users Adopting New Feature / Users Exposed
 ```
 
 ## Unit

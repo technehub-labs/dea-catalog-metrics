@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Show Cancellation Rate** (SCR-V) in th
 - **Canonical id:** `dea:metric-show-cancellation-rate`
 - **Name:** Show Cancellation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-V
 
@@ -18,7 +18,7 @@ Show Cancellation Rate (SCR-V) addresses exposure to adverse outcomes and is a f
 ## Formula
 
 ```
-Shows Cancelled / Shows Scheduled
+SCR-V = Shows Cancelled / Shows Scheduled
 ```
 
 ## Unit

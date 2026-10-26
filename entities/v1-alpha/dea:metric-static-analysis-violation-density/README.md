@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Static Analysis Violation Density** (S
 - **Canonical id:** `dea:metric-static-analysis-violation-density`
 - **Name:** Static Analysis Violation Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAVD
 
@@ -18,7 +18,7 @@ Static Analysis Violation Density (SAVD) captures the quality of outputs and out
 ## Formula
 
 ```
-Static Analysis Violations per 1,000 Lines of Code
+SAVD = Static Analysis Violations per 1,000 Lines of Code
 ```
 
 ## Unit

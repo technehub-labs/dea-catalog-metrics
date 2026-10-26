@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unmanaged Master Creation Rate** (UMMC
 - **Canonical id:** `dea:metric-unmanaged-master-creation-rate`
 - **Name:** Unmanaged Master Creation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UMMCR
 
@@ -18,7 +18,7 @@ A Master Data Management indicator, Unmanaged Master Creation Rate (UMMCR) quant
 ## Formula
 
 ```
-Records Bypassing MDM Workflow / New Records
+UMMCR = Records Bypassing MDM Workflow / New Records
 ```
 
 ## Unit

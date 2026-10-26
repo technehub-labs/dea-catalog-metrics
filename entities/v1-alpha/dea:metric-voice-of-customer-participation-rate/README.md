@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice of Customer Participation Rate**
 - **Canonical id:** `dea:metric-voice-of-customer-participation-rate`
 - **Name:** Voice of Customer Participation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VoCPR
 
@@ -18,7 +18,7 @@ Voice of Customer Participation Rate (VoCPR) measures the engagement or satisfac
 ## Formula
 
 ```
-Survey Responses / Survey Invitations
+VoCPR = Survey Responses / Survey Invitations
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Mix Model Alignment** (MMA) 
 - **Canonical id:** `dea:metric-marketing-mix-model-alignment`
 - **Name:** Marketing Mix Model Alignment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MMA
 
@@ -22,7 +22,7 @@ Measures how closely MMM-derived budget guidance and channel effect estimates ar
 ## Formula
 
 ```
-Channel Spend per Model Optimum / Actual Channel Spend
+MMA = Channel Spend per Model Optimum / Actual Channel Spend
 ```
 
 ## Unit

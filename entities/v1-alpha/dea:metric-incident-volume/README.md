@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Volume** (IV) in the OpenDEAM
 - **Canonical id:** `dea:metric-incident-volume`
 - **Name:** Incident Volume
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IV
 
@@ -18,7 +18,7 @@ A IT Service Management indicator, Incident Volume (IV) quantifies exposure to a
 ## Formula
 
 ```
-Incidents Logged per Period
+IV = Incidents Logged per Period
 ```
 
 ## Unit

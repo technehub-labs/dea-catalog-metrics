@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Labor Effectiveness** (OLE) in
 - **Canonical id:** `dea:metric-overall-labor-effectiveness`
 - **Name:** Overall Labor Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OLE
 
@@ -22,7 +22,7 @@ Measures the compound of labor availability, performance, and quality in product
 ## Formula
 
 ```
-Availability x Performance x Quality of Direct Labor
+OLE = Availability x Performance x Quality of Direct Labor
 ```
 
 ## Unit

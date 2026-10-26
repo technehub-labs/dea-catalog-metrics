@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Levelized Cost of Storage** (LCOS) in 
 - **Canonical id:** `dea:metric-levelized-cost-of-storage`
 - **Name:** Levelized Cost of Storage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCOS
 
@@ -22,7 +22,7 @@ Levelized cost of storage (LCOS) is the discounted lifetime cost per unit of ene
 ## Formula
 
 ```
-Lifetime Storage Costs / Energy Delivered from Storage
+LCOS = Lifetime Storage Costs / Energy Delivered from Storage
 ```
 
 ## Unit

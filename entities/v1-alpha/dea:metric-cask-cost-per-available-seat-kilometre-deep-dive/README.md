@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CASK - Cost per Available Seat Kilomet
 - **Canonical id:** `dea:metric-cask-cost-per-available-seat-kilometre-deep-dive`
 - **Name:** CASK - Cost per Available Seat Kilometre (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CASK-D
 
@@ -22,7 +22,7 @@ Measures unit cost per capacity unit, the cost-side summary of airline operation
 ## Formula
 
 ```
-Operating Cost / ASK
+CASK-D = Operating Cost / ASK
 ```
 
 ## Unit

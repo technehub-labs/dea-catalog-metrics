@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assisted Digital Drop-off Rate** (ADDR
 - **Canonical id:** `dea:metric-assisted-digital-drop-off-rate`
 - **Name:** Assisted Digital Drop-off Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADDR
 
@@ -18,7 +18,7 @@ Assisted Digital Drop-off Rate (ADDR) measures the quality of outputs and outcom
 ## Formula
 
 ```
-Users Abandoning Digital Journey to Assisted Channel / Digital Starts
+ADDR = Users Abandoning Digital Journey to Assisted Channel / Digital Starts
 ```
 
 ## Unit

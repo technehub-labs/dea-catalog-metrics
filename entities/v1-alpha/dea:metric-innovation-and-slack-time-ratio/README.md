@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Innovation and Slack Time Ratio** (IST
 - **Canonical id:** `dea:metric-innovation-and-slack-time-ratio`
 - **Name:** Innovation and Slack Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ISTR-AG
 
@@ -22,7 +22,7 @@ Measures the share of team capacity reserved for improvement and exploration wor
 ## Formula
 
 ```
-Slack or Exploration Time / Total Time
+ISTR-AG = Slack or Exploration Time / Total Time
 ```
 
 ## Unit

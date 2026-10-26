@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Wallet** (SOW) in the OpenDEA
 - **Canonical id:** `dea:metric-share-of-wallet`
 - **Name:** Share of Wallet
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOW
 
@@ -22,7 +22,7 @@ Measures the proportion of a customer's total category spending captured by the 
 ## Formula
 
 ```
-Organization Revenue from Customer / Customer Total Spend in Category
+SOW = Organization Revenue from Customer / Customer Total Spend in Category
 ```
 
 ## Unit

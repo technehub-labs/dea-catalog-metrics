@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Development Program Yield** (
 - **Canonical id:** `dea:metric-supplier-development-program-yield`
 - **Name:** Supplier Development Program Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDPY
 
@@ -22,7 +22,7 @@ Measures how much supplier capability improvement the development programs actua
 ## Formula
 
 ```
-Suppliers Improving Tier after Program / Program Suppliers
+SDPY = Suppliers Improving Tier after Program / Program Suppliers
 ```
 
 ## Unit

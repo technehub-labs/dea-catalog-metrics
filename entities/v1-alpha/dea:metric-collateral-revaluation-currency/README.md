@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collateral Revaluation Currency** (CRC
 - **Canonical id:** `dea:metric-collateral-revaluation-currency`
 - **Name:** Collateral Revaluation Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-B
 
@@ -22,7 +22,7 @@ Measures the share of collateral with valuations within policy refresh cycles. I
 ## Formula
 
 ```
-Collateral Valuations within Policy Cycle / Portfolio
+CRC-B = Collateral Valuations within Policy Cycle / Portfolio
 ```
 
 ## Unit

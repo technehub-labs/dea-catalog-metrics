@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Body-in-White Geometry Compliance** (B
 - **Canonical id:** `dea:metric-body-in-white-geometry-compliance`
 - **Name:** Body-in-White Geometry Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BWGC
 
@@ -18,7 +18,7 @@ Body-in-White Geometry Compliance (BWGC) captures the quality of outputs and out
 ## Formula
 
 ```
-Dimensional Measurements in Tolerance / Measurements
+BWGC = Dimensional Measurements in Tolerance / Measurements
 ```
 
 ## Unit

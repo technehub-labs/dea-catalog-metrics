@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Effective Frequency Attainment** (EFA)
 - **Canonical id:** `dea:metric-effective-frequency-attainment`
 - **Name:** Effective Frequency Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EFA
 
@@ -18,7 +18,7 @@ Within Advertising & Media Buying, Effective Frequency Attainment (EFA) is used 
 ## Formula
 
 ```
-Audience Meeting Effective Frequency / Targeted Audience
+EFA = Audience Meeting Effective Frequency / Targeted Audience
 ```
 
 ## Unit

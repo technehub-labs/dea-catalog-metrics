@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Initiative Value Realization**
 - **Canonical id:** `dea:metric-digital-initiative-value-realization`
 - **Name:** Digital Initiative Value Realization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIVR
 
@@ -22,7 +22,7 @@ Tracks the share of business-case benefits from digital programs that is actuall
 ## Formula
 
 ```
-Realized Benefits / Planned Benefits of Digital Portfolio
+DIVR = Realized Benefits / Planned Benefits of Digital Portfolio
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resource Allocation Accuracy** (RAA-PM
 - **Canonical id:** `dea:metric-resource-allocation-accuracy`
 - **Name:** Resource Allocation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAA-PM
 
@@ -18,7 +18,7 @@ Resource Allocation Accuracy (RAA-PM) addresses how efficiently resources are co
 ## Formula
 
 ```
-Actual Resource Use vs Plan / Plan
+RAA-PM = Actual Resource Use vs Plan / Plan
 ```
 
 ## Unit

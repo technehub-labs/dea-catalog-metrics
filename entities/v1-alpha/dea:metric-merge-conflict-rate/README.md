@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merge Conflict Rate** (MCR-SD) in the 
 - **Canonical id:** `dea:metric-merge-conflict-rate`
 - **Name:** Merge Conflict Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MCR-SD
 
@@ -18,7 +18,7 @@ Merge Conflict Rate (MCR-SD) captures how efficiently resources are converted in
 ## Formula
 
 ```
-Merges Requiring Conflict Resolution / Merges
+MCR-SD = Merges Requiring Conflict Resolution / Merges
 ```
 
 ## Unit

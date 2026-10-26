@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Debt Age** (SDA-AS) in the Op
 - **Canonical id:** `dea:metric-security-debt-age`
 - **Name:** Security Debt Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDA-AS
 
@@ -18,7 +18,7 @@ Within Application Security (AppSec), Security Debt Age (SDA-AS) is used to gaug
 ## Formula
 
 ```
-Average Age of Open Security Backlog Items
+SDA-AS = Average Age of Open Security Backlog Items
 ```
 
 ## Unit

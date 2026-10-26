@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Terminated Mandate Recovery Rate** (TM
 - **Canonical id:** `dea:metric-terminated-mandate-recovery-rate`
 - **Name:** Terminated Mandate Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMRR
 
@@ -22,7 +22,7 @@ Measures the share of lost mandates subsequently won back. Institutional asset m
 ## Formula
 
 ```
-Won-Back Mandates / Terminated Mandates
+TMRR = Won-Back Mandates / Terminated Mandates
 ```
 
 ## Unit

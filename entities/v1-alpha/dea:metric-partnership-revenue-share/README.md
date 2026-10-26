@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partnership Revenue Share** (PRS) in t
 - **Canonical id:** `dea:metric-partnership-revenue-share`
 - **Name:** Partnership Revenue Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRS
 
@@ -22,7 +22,7 @@ Measures the share of total revenue generated through or attributable to partner
 ## Formula
 
 ```
-Partner-Attributed Revenue / Total Revenue
+PRS = Partner-Attributed Revenue / Total Revenue
 ```
 
 ## Unit

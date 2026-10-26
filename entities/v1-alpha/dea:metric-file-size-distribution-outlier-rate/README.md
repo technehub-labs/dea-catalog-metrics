@@ -7,7 +7,7 @@ Candidate Performance Metric record for **File Size Distribution Outlier Rate** 
 - **Canonical id:** `dea:metric-file-size-distribution-outlier-rate`
 - **Name:** File Size Distribution Outlier Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSDOR
 
@@ -18,7 +18,7 @@ File Size Distribution Outlier Rate (FSDOR) addresses the quality of outputs and
 ## Formula
 
 ```
-Files Exceeding Size Guideline / Files
+FSDOR = Files Exceeding Size Guideline / Files
 ```
 
 ## Unit

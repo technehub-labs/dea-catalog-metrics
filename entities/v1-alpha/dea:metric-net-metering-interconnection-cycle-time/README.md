@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Metering Interconnection Cycle Tim
 - **Canonical id:** `dea:metric-net-metering-interconnection-cycle-time`
 - **Name:** Net Metering Interconnection Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NMICT
 
@@ -18,7 +18,7 @@ A Utilities Field Operations & Grid indicator, Net Metering Interconnection Cycl
 ## Formula
 
 ```
-Days from Application to Permission to Operate
+NMICT = Days from Application to Permission to Operate
 ```
 
 ## Unit

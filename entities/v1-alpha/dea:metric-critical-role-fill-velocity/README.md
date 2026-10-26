@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Role Fill Velocity** (CRFV) i
 - **Canonical id:** `dea:metric-critical-role-fill-velocity`
 - **Name:** Critical Role Fill Velocity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRFV
 
@@ -22,7 +22,7 @@ Measures how quickly openings in business-critical roles are filled with qualifi
 ## Formula
 
 ```
-Days to Fill Critical Role from Approval
+CRFV = Days to Fill Critical Role from Approval
 ```
 
 ## Unit

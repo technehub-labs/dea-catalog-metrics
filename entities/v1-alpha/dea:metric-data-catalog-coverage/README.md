@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Catalog Coverage** (DCC) in the O
 - **Canonical id:** `dea:metric-data-catalog-coverage`
 - **Name:** Data Catalog Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCC
 
@@ -22,7 +22,7 @@ Measures the share of data assets documented and discoverable in the catalog. It
 ## Formula
 
 ```
-Documented Datasets / Total Datasets
+DCC = Documented Datasets / Total Datasets
 ```
 
 ## Unit

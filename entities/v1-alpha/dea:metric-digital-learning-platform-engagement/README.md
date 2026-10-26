@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Learning Platform Engagement**
 - **Canonical id:** `dea:metric-digital-learning-platform-engagement`
 - **Name:** Digital Learning Platform Engagement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLPE
 
@@ -18,7 +18,7 @@ Digital Learning Platform Engagement (DLPE) captures the engagement or satisfact
 ## Formula
 
 ```
-Active Learners on Platform / Enrolled Students
+DLPE = Active Learners on Platform / Enrolled Students
 ```
 
 ## Unit

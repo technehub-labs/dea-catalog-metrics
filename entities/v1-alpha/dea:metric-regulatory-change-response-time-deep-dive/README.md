@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Change Response Time (Deep 
 - **Canonical id:** `dea:metric-regulatory-change-response-time-deep-dive`
 - **Name:** Regulatory Change Response Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCRT
 
@@ -18,7 +18,7 @@ Regulatory Change Response Time (Deep Dive) (RCRT) measures how efficiently reso
 ## Formula
 
 ```
-Days from Regulation Publication to Impact Assessment
+RCRT = Days from Regulation Publication to Impact Assessment
 ```
 
 ## Unit

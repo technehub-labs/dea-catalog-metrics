@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Conversion Cycle** (CCC) in the O
 - **Canonical id:** `dea:metric-cash-conversion-cycle`
 - **Name:** Cash Conversion Cycle
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC
 
@@ -22,7 +22,7 @@ Measures the number of days between paying for inputs and collecting cash from c
 ## Formula
 
 ```
-DSO + DIO - DPO
+CCC = DSO + DIO - DPO
 ```
 
 ## Unit

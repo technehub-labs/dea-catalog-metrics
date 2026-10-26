@@ -50,6 +50,14 @@ jobs:
         run: |
           python3 scripts/reconcile_domain_sector.py
           git diff --exit-code -- classifications/domain-reconciliation.yaml classifications/sector-reconciliation.yaml
+      - name: Verify the seeded subject-concept vocabulary matches the corpus
+        # CR-MET-020: the vocabulary is generated from the corpus, so a
+        # hand-edited file, or a corpus change nobody regenerated for, fails
+        # CI. The vocabulary is seeded, not frozen, so this is a drift check
+        # and not a membership gate.
+        run: |
+          python3 scripts/derive_subject_concepts.py
+          git diff --exit-code -- classifications/subject-concepts.yaml
       - name: Verify the admission readiness assessment matches the corpus
         # CR-MET-019: the readiness working set is generated from the corpus
         # and from the gates' own constant sets, so it cannot drift from

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Level Attainment** (SLA-T) in 
 - **Canonical id:** `dea:metric-service-level-attainment`
 - **Name:** Service Level Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLA-T
 
@@ -22,7 +22,7 @@ Measures the share of intervals or events meeting committed service levels. It m
 ## Formula
 
 ```
-Incidents Resolved within SLA / Total Incidents
+SLA-T = Incidents Resolved within SLA / Total Incidents
 ```
 
 ## Unit

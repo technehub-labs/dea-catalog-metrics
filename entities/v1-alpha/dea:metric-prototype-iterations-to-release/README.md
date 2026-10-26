@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prototype Iterations to Release** (PIT
 - **Canonical id:** `dea:metric-prototype-iterations-to-release`
 - **Name:** Prototype Iterations to Release
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PITR
 
@@ -18,7 +18,7 @@ Prototype Iterations to Release (PITR) measures how efficiently resources are co
 ## Formula
 
 ```
-Prototype Cycles before Design Freeze
+PITR = Prototype Cycles before Design Freeze
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chaos Experiment Validity Rate** (CEVR
 - **Canonical id:** `dea:metric-chaos-experiment-validity-rate`
 - **Name:** Chaos Experiment Validity Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEVR
 
@@ -18,7 +18,7 @@ Within SRE & Observability Standard Measures, Chaos Experiment Validity Rate (CE
 ## Formula
 
 ```
-Experiments Producing Actionable Resilience Findings / Experiments
+CEVR = Experiments Producing Actionable Resilience Findings / Experiments
 ```
 
 ## Unit

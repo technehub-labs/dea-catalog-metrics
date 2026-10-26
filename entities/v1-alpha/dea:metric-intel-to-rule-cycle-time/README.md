@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Intel-to-Rule Cycle Time** (ITRCT) in 
 - **Canonical id:** `dea:metric-intel-to-rule-cycle-time`
 - **Name:** Intel-to-Rule Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITRCT
 
@@ -18,7 +18,7 @@ Intel-to-Rule Cycle Time (ITRCT) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Days from Threat Intel Received to Detection Rule Deployed
+ITRCT = Days from Threat Intel Received to Detection Rule Deployed
 ```
 
 ## Unit

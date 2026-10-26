@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery Yield - Clean Products** (RYC
 - **Canonical id:** `dea:metric-refinery-yield-clean-products`
 - **Name:** Refinery Yield - Clean Products
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RYCP
 
@@ -22,7 +22,7 @@ Measures the share of crude converted into high-value light products (gasoline, 
 ## Formula
 
 ```
-Clean Product Barrels / Crude Barrels
+RYCP = Clean Product Barrels / Crude Barrels
 ```
 
 ## Unit

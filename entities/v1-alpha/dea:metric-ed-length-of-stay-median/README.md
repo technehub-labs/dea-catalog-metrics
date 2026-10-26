@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ED Length of Stay (Median)** (EDLOS) i
 - **Canonical id:** `dea:metric-ed-length-of-stay-median`
 - **Name:** ED Length of Stay (Median)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDLOS
 
@@ -18,7 +18,7 @@ A Healthcare Quality & Patient Safety Standard Measures indicator, ED Length of 
 ## Formula
 
 ```
-Median Time from ED Arrival to Discharge or Admission
+EDLOS = Median Time from ED Arrival to Discharge or Admission
 ```
 
 ## Unit

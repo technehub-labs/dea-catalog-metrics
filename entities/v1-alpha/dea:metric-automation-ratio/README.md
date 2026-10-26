@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Ratio** (AUTO) in the OpenD
 - **Canonical id:** `dea:metric-automation-ratio`
 - **Name:** Automation Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUTO
 
@@ -22,7 +22,7 @@ The share of production steps, capacity, or output performed by automated system
 ## Formula
 
 ```
-Automated Process Steps / Total Process Steps
+AUTO = Automated Process Steps / Total Process Steps
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bunker Consumption Variance (Deep Dive
 - **Canonical id:** `dea:metric-bunker-consumption-variance-deep-dive`
 - **Name:** Bunker Consumption Variance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCV-D
 
@@ -18,7 +18,7 @@ Bunker Consumption Variance (Deep Dive) (BCV-D) addresses how efficiently resour
 ## Formula
 
 ```
-Actual - Planned Consumption / Plan
+BCV-D = Actual - Planned Consumption / Plan
 ```
 
 ## Unit

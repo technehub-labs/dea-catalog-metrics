@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Range Penetration Ratio** (RPR-PAY) in
 - **Canonical id:** `dea:metric-range-penetration-ratio`
 - **Name:** Range Penetration Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPR-PAY
 
@@ -18,7 +18,7 @@ Range Penetration Ratio (RPR-PAY) measures conformance to standards, plans, or o
 ## Formula
 
 ```
-(Salary - Range Minimum) / (Range Maximum - Minimum)
+RPR-PAY = (Salary - Range Minimum) / (Range Maximum - Minimum)
 ```
 
 ## Unit

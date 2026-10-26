@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Transaction Processed** (CPT-
 - **Canonical id:** `dea:metric-cost-per-transaction-processed`
 - **Name:** Cost per Transaction Processed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPT-P
 
@@ -22,7 +22,7 @@ Measures total processing cost per payment or transaction. It matters because pa
 ## Formula
 
 ```
-Total Processing Cost / Transactions
+CPT-P = Total Processing Cost / Transactions
 ```
 
 ## Unit

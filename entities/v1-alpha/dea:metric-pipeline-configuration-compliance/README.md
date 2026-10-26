@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Configuration Compliance** (P
 - **Canonical id:** `dea:metric-pipeline-configuration-compliance`
 - **Name:** Pipeline Configuration Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCC-CI
 
@@ -18,7 +18,7 @@ Pipeline Configuration Compliance (PCC-CI) captures conformance to standards, pl
 ## Formula
 
 ```
-Pipelines Using Approved Templates / Pipelines
+PCC-CI = Pipelines Using Approved Templates / Pipelines
 ```
 
 ## Unit

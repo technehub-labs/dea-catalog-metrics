@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Least Privilege Compliance Ratio** (LP
 - **Canonical id:** `dea:metric-least-privilege-compliance-ratio`
 - **Name:** Least Privilege Compliance Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPCR-IAM
 
@@ -22,7 +22,7 @@ Measures the share of access grants conforming to least-privilege policy. Excess
 ## Formula
 
 ```
-Accounts with Only Required Entitlements / Sampled
+LPCR-IAM = Accounts with Only Required Entitlements / Sampled
 ```
 
 ## Unit

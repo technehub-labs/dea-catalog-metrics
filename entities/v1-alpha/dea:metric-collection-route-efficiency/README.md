@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Route Efficiency** (CRE) in
 - **Canonical id:** `dea:metric-collection-route-efficiency`
 - **Name:** Collection Route Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRE
 
@@ -18,7 +18,7 @@ Collection Route Efficiency (CRE) measures how efficiently resources are convert
 ## Formula
 
 ```
-Households Served per Route Hour
+CRE = Households Served per Route Hour
 ```
 
 ## Unit

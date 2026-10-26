@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unusual Trading Investigation Cycle Ti
 - **Canonical id:** `dea:metric-unusual-trading-investigation-cycle-time`
 - **Name:** Unusual Trading Investigation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UTICT
 
@@ -18,7 +18,7 @@ Unusual Trading Investigation Cycle Time (UTICT) measures exposure to adverse ou
 ## Formula
 
 ```
-Days from Alert to Surveillance Case Close
+UTICT = Days from Alert to Surveillance Case Close
 ```
 
 ## Unit

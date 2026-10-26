@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measure Owner Assignment Coverage** (M
 - **Canonical id:** `dea:metric-measure-owner-assignment-coverage`
 - **Name:** Measure Owner Assignment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MOAC-BSC
 
@@ -18,7 +18,7 @@ A Balanced Scorecard Implementation & Review indicator, Measure Owner Assignment
 ## Formula
 
 ```
-BSC Measures with Named Owner / Measures
+MOAC-BSC = BSC Measures with Named Owner / Measures
 ```
 
 ## Unit

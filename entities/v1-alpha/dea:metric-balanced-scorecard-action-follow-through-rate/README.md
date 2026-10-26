@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Balanced Scorecard Action Follow-Throu
 - **Canonical id:** `dea:metric-balanced-scorecard-action-follow-through-rate`
 - **Name:** Balanced Scorecard Action Follow-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSAFT
 
@@ -18,7 +18,7 @@ Balanced Scorecard Action Follow-Through Rate (BSAFT) measures conformance to st
 ## Formula
 
 ```
-Review Actions Closed by Next Review / Actions
+BSAFT = Review Actions Closed by Next Review / Actions
 ```
 
 ## Unit

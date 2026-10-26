@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Relative Market Position** (RMP) in th
 - **Canonical id:** `dea:metric-relative-market-position`
 - **Name:** Relative Market Position
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMP
 
@@ -22,7 +22,7 @@ The firm's market position expressed against its leading competitor - convention
 ## Formula
 
 ```
-Organization Market Share / Largest Competitor Market Share
+RMP = Organization Market Share / Largest Competitor Market Share
 ```
 
 ## Unit

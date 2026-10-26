@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage of Dye Batch** (SDB) in the 
 - **Canonical id:** `dea:metric-shrinkage-of-dye-batch`
 - **Name:** Shrinkage of Dye Batch
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDB
 
@@ -18,7 +18,7 @@ Shrinkage of Dye Batch (SDB) captures the quality of outputs and outcomes for or
 ## Formula
 
 ```
-Fabric Weight Loss in Dyeing / Fabric Input Weight
+SDB = Fabric Weight Loss in Dyeing / Fabric Input Weight
 ```
 
 ## Unit

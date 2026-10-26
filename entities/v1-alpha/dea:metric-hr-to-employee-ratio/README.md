@@ -7,7 +7,7 @@ Candidate Performance Metric record for **HR to Employee Ratio** (HRER) in the O
 - **Canonical id:** `dea:metric-hr-to-employee-ratio`
 - **Name:** HR to Employee Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRER
 
@@ -22,7 +22,7 @@ Measures HR staff per 100 employees. It matters as a benchmark of HR function si
 ## Formula
 
 ```
-HR FTEs / Total Employee FTEs
+HRER = HR FTEs / Total Employee FTEs
 ```
 
 ## Unit

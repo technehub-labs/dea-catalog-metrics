@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Network Change Ratio** (ENCR
 - **Canonical id:** `dea:metric-emergency-network-change-ratio`
 - **Name:** Emergency Network Change Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ENCR
 
@@ -18,7 +18,7 @@ Emergency Network Change Ratio (ENCR) captures exposure to adverse outcomes for 
 ## Formula
 
 ```
-Emergency Changes / Total Network Changes
+ENCR = Emergency Changes / Total Network Changes
 ```
 
 ## Unit

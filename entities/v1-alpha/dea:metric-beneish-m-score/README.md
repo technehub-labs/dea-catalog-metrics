@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beneish M-Score** (BENM) in the OpenDE
 - **Canonical id:** `dea:metric-beneish-m-score`
 - **Name:** Beneish M-Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BENM
 
@@ -22,7 +22,7 @@ The Beneish M-Score, from Messod D. Beneish (1999), is a weighted composite of e
 ## Formula
 
 ```
-Composite of Eight Manipulation-Signal Ratios
+BENM = Composite of Eight Manipulation-Signal Ratios
 ```
 
 ## Unit

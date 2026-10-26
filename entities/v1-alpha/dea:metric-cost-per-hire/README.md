@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hire** (CPH) in the OpenDEAM 
 - **Canonical id:** `dea:metric-cost-per-hire`
 - **Name:** Cost per Hire
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPH
 
@@ -22,7 +22,7 @@ Measures total recruiting cost divided by hires made. It matters because it benc
 ## Formula
 
 ```
-Total Recruiting Cost / Hires
+CPH = Total Recruiting Cost / Hires
 ```
 
 ## Unit

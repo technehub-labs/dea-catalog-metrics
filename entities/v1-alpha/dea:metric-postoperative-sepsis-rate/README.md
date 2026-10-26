@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Postoperative Sepsis Rate** (POSR) in 
 - **Canonical id:** `dea:metric-postoperative-sepsis-rate`
 - **Name:** Postoperative Sepsis Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POSR
 
@@ -22,7 +22,7 @@ Sepsis following surgery, per surgical cases or patient-days - the outcome metri
 ## Formula
 
 ```
-Post-Surgical Sepsis Cases / Surgeries
+POSR = Post-Surgical Sepsis Cases / Surgeries
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milestone Hit Rate (Deep Dive)** (MHR-
 - **Canonical id:** `dea:metric-milestone-hit-rate-deep-dive`
 - **Name:** Milestone Hit Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MHR-D
 
@@ -22,7 +22,7 @@ Measures the share of committed milestones achieved on schedule. Milestones are 
 ## Formula
 
 ```
-Milestones Achieved on Time / Milestones Planned
+MHR-D = Milestones Achieved on Time / Milestones Planned
 ```
 
 ## Unit

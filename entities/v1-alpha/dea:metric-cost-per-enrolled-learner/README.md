@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Enrolled Learner** (CPEL) in 
 - **Canonical id:** `dea:metric-cost-per-enrolled-learner`
 - **Name:** Cost per Enrolled Learner
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPEL
 
@@ -18,7 +18,7 @@ Cost per Enrolled Learner (CPEL) addresses how efficiently resources are convert
 ## Formula
 
 ```
-Total Delivery Cost / Enrolments
+CPEL = Total Delivery Cost / Enrolments
 ```
 
 ## Unit

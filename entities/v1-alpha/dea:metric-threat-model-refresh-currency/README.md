@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Model Refresh Currency** (TMFC)
 - **Canonical id:** `dea:metric-threat-model-refresh-currency`
 - **Name:** Threat Model Refresh Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMFC
 
@@ -18,7 +18,7 @@ A Threat Intelligence & Red Team indicator, Threat Model Refresh Currency (TMFC)
 ## Formula
 
 ```
-Threat Models Refreshed within 12 Months / In-Scope Systems
+TMFC = Threat Models Refreshed within 12 Months / In-Scope Systems
 ```
 
 ## Unit

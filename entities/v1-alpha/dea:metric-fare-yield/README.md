@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fare Yield** (FY) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-fare-yield`
 - **Name:** Fare Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FY
 
@@ -22,7 +22,7 @@ Passenger revenue per revenue passenger-kilometre - the pricing metric of aviati
 ## Formula
 
 ```
-Passenger Revenue / Revenue Passenger Kilometres
+FY = Passenger Revenue / Revenue Passenger Kilometres
 ```
 
 ## Unit

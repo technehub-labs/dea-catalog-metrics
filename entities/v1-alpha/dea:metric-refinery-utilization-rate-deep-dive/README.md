@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Refinery Utilization Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-refinery-utilization-rate-deep-dive`
 - **Name:** Refinery Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RUR
 
@@ -22,7 +22,7 @@ Measures crude throughput against rated capacity. It is the fixed-cost absorptio
 ## Formula
 
 ```
-Barrels Processed per Day / Crude Distillation Capacity
+RUR = Barrels Processed per Day / Crude Distillation Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Comparison Site Conversion** (PC
 - **Canonical id:** `dea:metric-price-comparison-site-conversion`
 - **Name:** Price Comparison Site Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCSC
 
@@ -18,7 +18,7 @@ A Insurance Distribution - Direct & Digital indicator, Price Comparison Site Con
 ## Formula
 
 ```
-Purchases from Comparison Traffic / Comparison Sessions
+PCSC = Purchases from Comparison Traffic / Comparison Sessions
 ```
 
 ## Unit

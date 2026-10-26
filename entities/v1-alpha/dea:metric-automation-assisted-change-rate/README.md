@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation-Assisted Change Rate** (AAC
 - **Canonical id:** `dea:metric-automation-assisted-change-rate`
 - **Name:** Automation-Assisted Change Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AACR
 
@@ -22,7 +22,7 @@ Measures the share of network changes executed through automated, validated work
 ## Formula
 
 ```
-Changes Executed via Automation / Changes
+AACR = Changes Executed via Automation / Changes
 ```
 
 ## Unit

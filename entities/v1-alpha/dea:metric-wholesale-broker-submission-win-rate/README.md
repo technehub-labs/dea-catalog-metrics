@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wholesale Broker Submission Win Rate**
 - **Canonical id:** `dea:metric-wholesale-broker-submission-win-rate`
 - **Name:** Wholesale Broker Submission Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WBSW
 
@@ -18,7 +18,7 @@ Wholesale Broker Submission Win Rate (WBSW) measures growth over time in the Ins
 ## Formula
 
 ```
-Deals Bound / Submissions to Wholesale Market
+WBSW = Deals Bound / Submissions to Wholesale Market
 ```
 
 ## Unit

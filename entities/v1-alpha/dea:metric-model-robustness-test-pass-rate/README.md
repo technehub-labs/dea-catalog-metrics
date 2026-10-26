@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Robustness Test Pass Rate** (MRT
 - **Canonical id:** `dea:metric-model-robustness-test-pass-rate`
 - **Name:** Model Robustness Test Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRTPR
 
@@ -22,7 +22,7 @@ Measures how models perform under adversarial, edge-case, and distribution-shift
 ## Formula
 
 ```
-Adversarial and Edge Case Tests Passed / Tests
+MRTPR = Adversarial and Edge Case Tests Passed / Tests
 ```
 
 ## Unit

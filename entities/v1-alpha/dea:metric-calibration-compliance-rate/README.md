@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calibration Compliance Rate** (CCR-Q) 
 - **Canonical id:** `dea:metric-calibration-compliance-rate`
 - **Name:** Calibration Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-Q
 
@@ -18,7 +18,7 @@ A Quality Management indicator, Calibration Compliance Rate (CCR-Q) quantifies c
 ## Formula
 
 ```
-In-Calibration Gauges / Gauges in Service
+CCR-Q = In-Calibration Gauges / Gauges in Service
 ```
 
 ## Unit

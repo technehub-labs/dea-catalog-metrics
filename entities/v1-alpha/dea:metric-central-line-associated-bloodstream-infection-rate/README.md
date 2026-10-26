@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Central Line-Associated Bloodstream In
 - **Canonical id:** `dea:metric-central-line-associated-bloodstream-infection-rate`
 - **Name:** Central Line-Associated Bloodstream Infection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLABSI
 
@@ -22,7 +22,7 @@ Measures CLABSI events per line-day. These infections are largely preventable an
 ## Formula
 
 ```
-CLABSI Events / 1,000 Central Line Days
+CLABSI = CLABSI Events / 1,000 Central Line Days
 ```
 
 ## Unit

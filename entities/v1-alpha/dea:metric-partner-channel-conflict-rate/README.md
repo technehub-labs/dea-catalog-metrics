@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Channel Conflict Rate** (PCCR)
 - **Canonical id:** `dea:metric-partner-channel-conflict-rate`
 - **Name:** Partner Channel Conflict Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCCR
 
@@ -22,7 +22,7 @@ Measures frequency of conflicts between direct and partner channels. It matters 
 ## Formula
 
 ```
-Disputed Partner Transactions / Partner Transactions
+PCCR = Disputed Partner Transactions / Partner Transactions
 ```
 
 ## Unit

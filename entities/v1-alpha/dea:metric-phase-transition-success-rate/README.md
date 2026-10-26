@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Phase Transition Success Rate** (PTSR)
 - **Canonical id:** `dea:metric-phase-transition-success-rate`
 - **Name:** Phase Transition Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTSR
 
@@ -22,7 +22,7 @@ Measures the share of candidates advancing across each clinical phase boundary. 
 ## Formula
 
 ```
-Compounds Advancing to Next Phase / Compounds in Phase
+PTSR = Compounds Advancing to Next Phase / Compounds in Phase
 ```
 
 ## Unit

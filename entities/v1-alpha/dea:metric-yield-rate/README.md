@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield Rate** (YR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-yield-rate`
 - **Name:** Yield Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YR
 
@@ -18,7 +18,7 @@ Within Manufacturing, Yield Rate (YR) is used to gauge the quality of outputs an
 ## Formula
 
 ```
-Good Units Produced / Units Started
+YR = Good Units Produced / Units Started
 ```
 
 ## Unit

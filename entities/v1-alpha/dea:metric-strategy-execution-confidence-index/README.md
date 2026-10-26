@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategy Execution Confidence Index** 
 - **Canonical id:** `dea:metric-strategy-execution-confidence-index`
 - **Name:** Strategy Execution Confidence Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SECI
 
@@ -22,7 +22,7 @@ Measures leadership's evidence-based confidence that strategic commitments will 
 ## Formula
 
 ```
-Leadership Survey on Strategy Delivery Confidence
+SECI = Leadership Survey on Strategy Delivery Confidence
 ```
 
 ## Unit

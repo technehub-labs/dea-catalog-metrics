@@ -7,7 +7,7 @@ Candidate Performance Metric record for **S&OP Meeting Cadence Compliance** (SMC
 - **Canonical id:** `dea:metric-s-op-meeting-cadence-compliance`
 - **Name:** S&OP Meeting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMCC
 
@@ -22,7 +22,7 @@ Measures whether the monthly sales and operations planning cycle actually happen
 ## Formula
 
 ```
-S&OP Cycles Completed per Standard / Cycles Due
+SMCC = S&OP Cycles Completed per Standard / Cycles Due
 ```
 
 ## Unit

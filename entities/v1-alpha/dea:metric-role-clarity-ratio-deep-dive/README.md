@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Role Clarity Ratio (Deep Dive)** (RCRD
 - **Canonical id:** `dea:metric-role-clarity-ratio-deep-dive`
 - **Name:** Role Clarity Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCRD
 
@@ -18,7 +18,7 @@ Role Clarity Ratio (Deep Dive) (RCRD) measures governance in the Workforce Plann
 ## Formula
 
 ```
-Roles with Documented Accountabilities / Roles
+RCRD = Roles with Documented Accountabilities / Roles
 ```
 
 ## Unit

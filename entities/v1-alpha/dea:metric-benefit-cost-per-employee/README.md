@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefit Cost per Employee** (BCPE) in 
 - **Canonical id:** `dea:metric-benefit-cost-per-employee`
 - **Name:** Benefit Cost per Employee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCPE
 
@@ -22,7 +22,7 @@ Measures total benefits spend per head. Benefits are a large and rising share of
 ## Formula
 
 ```
-Total Benefits Spend / Employees
+BCPE = Total Benefits Spend / Employees
 ```
 
 ## Unit

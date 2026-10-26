@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fulfilment Lead Time Trend (Deep
 - **Canonical id:** `dea:metric-order-fulfilment-lead-time-trend-deep-dive`
 - **Name:** Order Fulfilment Lead Time Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OFLTT-D
 
@@ -22,7 +22,7 @@ Measures the direction of time from order to customer receipt. Lead time is the 
 ## Formula
 
 ```
-Change in Fulfilment Lead Time
+OFLTT-D = Change in Fulfilment Lead Time
 ```
 
 ## Unit

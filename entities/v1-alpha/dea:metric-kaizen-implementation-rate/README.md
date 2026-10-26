@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Kaizen Implementation Rate** (KIR) in 
 - **Canonical id:** `dea:metric-kaizen-implementation-rate`
 - **Name:** Kaizen Implementation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KIR
 
@@ -22,7 +22,7 @@ Measures the share of improvement ideas actually implemented. It matters because
 ## Formula
 
 ```
-Improvement Actions Implemented / Improvement Actions Identified
+KIR = Improvement Actions Implemented / Improvement Actions Identified
 ```
 
 ## Unit

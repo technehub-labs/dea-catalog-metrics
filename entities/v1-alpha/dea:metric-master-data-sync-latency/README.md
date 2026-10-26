@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Sync Latency** (MDSL) in t
 - **Canonical id:** `dea:metric-master-data-sync-latency`
 - **Name:** Master Data Sync Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDSL
 
@@ -18,7 +18,7 @@ Master Data Sync Latency (MDSL) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Propagation Delay from Master Update to Subscribing Systems
+MDSL = Propagation Delay from Master Update to Subscribing Systems
 ```
 
 ## Unit

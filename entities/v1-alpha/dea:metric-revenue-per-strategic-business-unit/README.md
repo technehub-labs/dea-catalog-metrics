@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Strategic Business Unit** 
 - **Canonical id:** `dea:metric-revenue-per-strategic-business-unit`
 - **Name:** Revenue per Strategic Business Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPSBU
 
@@ -22,7 +22,7 @@ The topline of each business unit - the decomposition metric of the corporate po
 ## Formula
 
 ```
-Total Revenue / Number of Business Units
+RPSBU = Total Revenue / Number of Business Units
 ```
 
 ## Unit

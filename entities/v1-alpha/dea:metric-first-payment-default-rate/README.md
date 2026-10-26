@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Payment Default Rate** (FPDR) in
 - **Canonical id:** `dea:metric-first-payment-default-rate`
 - **Name:** First Payment Default Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPDR
 
@@ -22,7 +22,7 @@ Measures borrowers who never make a first payment after origination. First-payme
 ## Formula
 
 ```
-Borrowers Missing First Payment / Disbursed Loans
+FPDR = Borrowers Missing First Payment / Disbursed Loans
 ```
 
 ## Unit

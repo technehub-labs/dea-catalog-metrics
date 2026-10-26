@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secondary Market Ticket Listing Rate**
 - **Canonical id:** `dea:metric-secondary-market-ticket-listing-rate`
 - **Name:** Secondary Market Ticket Listing Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SMTL
 
@@ -18,7 +18,7 @@ Within Sports Clubs & Leagues (Deep Dive), Secondary Market Ticket Listing Rate 
 ## Formula
 
 ```
-Season Seats Listed for Resale / Season Seats
+SMTL = Season Seats Listed for Resale / Season Seats
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slippage versus Arrival Price (Deep Di
 - **Canonical id:** `dea:metric-slippage-versus-arrival-price-deep-dive`
 - **Name:** Slippage versus Arrival Price (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAP-D
 
@@ -18,7 +18,7 @@ Slippage versus Arrival Price (Deep Dive) (SAP-D) measures the quality of output
 ## Formula
 
 ```
-Execution Price vs Arrival Price Difference
+SAP-D = Execution Price vs Arrival Price Difference
 ```
 
 ## Unit

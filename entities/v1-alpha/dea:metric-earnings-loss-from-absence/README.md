@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Loss from Absence** (ELA) in 
 - **Canonical id:** `dea:metric-earnings-loss-from-absence`
 - **Name:** Earnings Loss from Absence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ELA
 
@@ -22,7 +22,7 @@ Earnings loss from absence measures the financial impact of missed work - direct
 ## Formula
 
 ```
-Absence Days x Average Daily Output Value
+ELA = Absence Days x Average Daily Output Value
 ```
 
 ## Unit

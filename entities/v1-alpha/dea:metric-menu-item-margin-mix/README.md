@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Menu Item Margin Mix** (MIM) in the Op
 - **Canonical id:** `dea:metric-menu-item-margin-mix`
 - **Name:** Menu Item Margin Mix
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIM
 
@@ -22,7 +22,7 @@ Measures the proportion of high-margin items in total sales mix in restaurants. 
 ## Formula
 
 ```
-Contribution Margin of Items Sold / Total Menu Margin Potential
+MIM = Contribution Margin of Items Sold / Total Menu Margin Potential
 ```
 
 ## Unit

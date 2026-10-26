@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Database Capacity Utilization** (DBCU)
 - **Canonical id:** `dea:metric-database-capacity-utilization`
 - **Name:** Database Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DBCU
 
@@ -18,7 +18,7 @@ Database Capacity Utilization (DBCU) measures the utilization or availability of
 ## Formula
 
 ```
-Used Storage / Provisioned Storage
+DBCU = Used Storage / Provisioned Storage
 ```
 
 ## Unit

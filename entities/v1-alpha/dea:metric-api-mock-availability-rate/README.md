@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Mock Availability Rate** (APIMK) i
 - **Canonical id:** `dea:metric-api-mock-availability-rate`
 - **Name:** API Mock Availability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIMK
 
@@ -18,7 +18,7 @@ A API Lifecycle Management indicator, API Mock Availability Rate (APIMK) quantif
 ## Formula
 
 ```
-Endpoints with Runnable Mocks / Endpoints
+APIMK = Endpoints with Runnable Mocks / Endpoints
 ```
 
 ## Unit

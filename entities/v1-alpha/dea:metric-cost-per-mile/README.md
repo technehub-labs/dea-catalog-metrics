@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Mile** (CPM) in the OpenDEAM 
 - **Canonical id:** `dea:metric-cost-per-mile`
 - **Name:** Cost per Mile
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPM
 
@@ -22,7 +22,7 @@ Measures total operating cost divided by miles driven. It matters as the fundame
 ## Formula
 
 ```
-Total Transport Cost / Total Miles
+CPM = Total Transport Cost / Total Miles
 ```
 
 ## Unit

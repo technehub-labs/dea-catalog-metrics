@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Safety Score (Deep Dive)
 - **Canonical id:** `dea:metric-psychological-safety-score-deep-dive`
 - **Name:** Psychological Safety Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSSDD
 
@@ -22,7 +22,7 @@ Measures whether employees can speak up, admit error, and challenge without fear
 ## Formula
 
 ```
-Team-Level Psychological Safety Survey Composite
+PSSDD = Team-Level Psychological Safety Survey Composite
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Cost per Audit Day** (ACPAD) in 
 - **Canonical id:** `dea:metric-audit-cost-per-audit-day`
 - **Name:** Audit Cost per Audit Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACPAD
 
@@ -22,7 +22,7 @@ Measures average cost of one audit engagement day. It matters because it benchma
 ## Formula
 
 ```
-Internal Audit Cost / Audit Days Performed
+ACPAD = Internal Audit Cost / Audit Days Performed
 ```
 
 ## Unit

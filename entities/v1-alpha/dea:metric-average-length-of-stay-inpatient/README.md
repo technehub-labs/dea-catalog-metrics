@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Stay (Inpatient)** (
 - **Canonical id:** `dea:metric-average-length-of-stay-inpatient`
 - **Name:** Average Length of Stay (Inpatient)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALOSDD
 
@@ -22,7 +22,7 @@ Measures mean inpatient days per stay. LOS is the efficiency lever with direct c
 ## Formula
 
 ```
-Inpatient Days / Discharges
+ALOSDD = Inpatient Days / Discharges
 ```
 
 ## Unit

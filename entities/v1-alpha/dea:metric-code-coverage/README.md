@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Coverage** (CC) in the OpenDEAM M
 - **Canonical id:** `dea:metric-code-coverage`
 - **Name:** Code Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CC
 
@@ -18,7 +18,7 @@ Code Coverage (CC) measures the quality of outputs and outcomes in the Software 
 ## Formula
 
 ```
-Covered Lines or Branches / Total Lines or Branches
+CC = Covered Lines or Branches / Total Lines or Branches
 ```
 
 ## Unit

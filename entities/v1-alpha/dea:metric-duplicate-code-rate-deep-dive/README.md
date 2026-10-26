@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Code Rate (Deep Dive)** (DCR
 - **Canonical id:** `dea:metric-duplicate-code-rate-deep-dive`
 - **Name:** Duplicate Code Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCRD
 
@@ -18,7 +18,7 @@ Duplicate Code Rate (Deep Dive) (DCRD) addresses the quality of outputs and outc
 ## Formula
 
 ```
-Duplicated Lines / Total Lines
+DCRD = Duplicated Lines / Total Lines
 ```
 
 ## Unit

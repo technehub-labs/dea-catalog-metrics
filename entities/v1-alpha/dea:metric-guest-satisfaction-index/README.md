@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guest Satisfaction Index** (GSI) in th
 - **Canonical id:** `dea:metric-guest-satisfaction-index`
 - **Name:** Guest Satisfaction Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSI
 
@@ -22,7 +22,7 @@ The composite of guest-reported experience across stay dimensions - cleanliness,
 ## Formula
 
 ```
-Weighted Guest Survey Score
+GSI = Weighted Guest Survey Score
 ```
 
 ## Unit

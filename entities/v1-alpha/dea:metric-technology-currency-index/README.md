@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Technology Currency Index** (TCI-SA) i
 - **Canonical id:** `dea:metric-technology-currency-index`
 - **Name:** Technology Currency Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCI-SA
 
@@ -22,7 +22,7 @@ Measures the share of the stack on current, supported versions of frameworks, ru
 ## Formula
 
 ```
-Components on Supported Versions / Components
+TCI-SA = Components on Supported Versions / Components
 ```
 
 ## Unit

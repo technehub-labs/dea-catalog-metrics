@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Door-to-Provider Time** (D2PT) in the 
 - **Canonical id:** `dea:metric-door-to-provider-time`
 - **Name:** Door-to-Provider Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D2PT
 
@@ -18,7 +18,7 @@ Door-to-Provider Time (D2PT) addresses how efficiently resources are converted i
 ## Formula
 
 ```
-Minutes from ED Arrival to First Provider Contact
+D2PT = Minutes from ED Arrival to First Provider Contact
 ```
 
 ## Unit

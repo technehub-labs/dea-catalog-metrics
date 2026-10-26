@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Storage Cost per Unit** (SCPU) in the 
 - **Canonical id:** `dea:metric-storage-cost-per-unit`
 - **Name:** Storage Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPU
 
@@ -22,7 +22,7 @@ Measures average warehousing cost per unit stored or handled. It matters because
 ## Formula
 
 ```
-Total Storage Cost / Units Stored
+SCPU = Total Storage Cost / Units Stored
 ```
 
 ## Unit

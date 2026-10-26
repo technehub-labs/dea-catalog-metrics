@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Trend Detection Accuracy** (RTDA)
 - **Canonical id:** `dea:metric-risk-trend-detection-accuracy`
 - **Name:** Risk Trend Detection Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTDA
 
@@ -22,7 +22,7 @@ Measures whether the risks that later materialized had been flagged and trending
 ## Formula
 
 ```
-Leading Indicators Predicting Risk / Leading Indicators
+RTDA = Leading Indicators Predicting Risk / Leading Indicators
 ```
 
 ## Unit

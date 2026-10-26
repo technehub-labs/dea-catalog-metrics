@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash-to-Cash Cycle Time** (C2C) in the
 - **Canonical id:** `dea:metric-cash-to-cash-cycle-time`
 - **Name:** Cash-to-Cash Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** C2C
 
@@ -22,7 +22,7 @@ The number of days between paying suppliers for inventory and collecting cash fr
 ## Formula
 
 ```
-DSO + DIO - DPO
+C2C = DSO + DIO - DPO
 ```
 
 ## Unit

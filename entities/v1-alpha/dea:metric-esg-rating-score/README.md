@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ESG Rating Score** (ESGR) in the OpenD
 - **Canonical id:** `dea:metric-esg-rating-score`
 - **Name:** ESG Rating Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESGR
 
@@ -22,7 +22,7 @@ A composite third-party assessment of environmental, social, and governance perf
 ## Formula
 
 ```
-Composite Rating from Recognized ESG Rater
+ESGR = Composite Rating from Recognized ESG Rater
 ```
 
 ## Unit

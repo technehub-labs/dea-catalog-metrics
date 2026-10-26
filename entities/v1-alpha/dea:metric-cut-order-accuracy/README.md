@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cut Order Accuracy** (COA-T) in the Op
 - **Canonical id:** `dea:metric-cut-order-accuracy`
 - **Name:** Cut Order Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COA-T
 
@@ -18,7 +18,7 @@ Within Textile & Apparel, Cut Order Accuracy (COA-T) is used to gauge the qualit
 ## Formula
 
 ```
-Cut Pieces Meeting Specification / Pieces Cut
+COA-T = Cut Pieces Meeting Specification / Pieces Cut
 ```
 
 ## Unit

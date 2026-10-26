@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API-Enabled Business Exposure** (AEBE)
 - **Canonical id:** `dea:metric-api-enabled-business-exposure`
 - **Name:** API-Enabled Business Exposure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AEBE
 
@@ -22,7 +22,7 @@ Measures the share of core business capabilities - products, pricing, logistics,
 ## Formula
 
 ```
-Services Exposed via APIs / Addressable Services
+AEBE = Services Exposed via APIs / Addressable Services
 ```
 
 ## Unit

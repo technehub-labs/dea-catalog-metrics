@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Counterparty Exposure Limit Utilizatio
 - **Canonical id:** `dea:metric-counterparty-exposure-limit-utilization`
 - **Name:** Counterparty Exposure Limit Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CELU
 
@@ -22,7 +22,7 @@ Measures current counterparty exposure relative to approved credit limits. It ma
 ## Formula
 
 ```
-Exposure to Counterparty / Approved Limit
+CELU = Exposure to Counterparty / Approved Limit
 ```
 
 ## Unit

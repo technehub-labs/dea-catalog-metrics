@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Penalty Exposure Ratio** (R
 - **Canonical id:** `dea:metric-regulatory-penalty-exposure-ratio`
 - **Name:** Regulatory Penalty Exposure Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPER
 
@@ -22,7 +22,7 @@ Measures potential or realized penalty exposure against legal or compliance budg
 ## Formula
 
 ```
-Aggregate Penalty Exposure / Revenue
+RPER = Aggregate Penalty Exposure / Revenue
 ```
 
 ## Unit

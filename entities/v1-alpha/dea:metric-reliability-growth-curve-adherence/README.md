@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reliability Growth Curve Adherence** (
 - **Canonical id:** `dea:metric-reliability-growth-curve-adherence`
 - **Name:** Reliability Growth Curve Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RGCA
 
@@ -22,7 +22,7 @@ Measures whether demonstrated reliability of the system is tracking the planned 
 ## Formula
 
 ```
-Actual MTBF vs Planned Growth Curve
+RGCA = Actual MTBF vs Planned Growth Curve
 ```
 
 ## Unit

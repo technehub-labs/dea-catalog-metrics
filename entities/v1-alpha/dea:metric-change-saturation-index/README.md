@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Saturation Index** (CSI) in the
 - **Canonical id:** `dea:metric-change-saturation-index`
 - **Name:** Change Saturation Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSI
 
@@ -22,7 +22,7 @@ Measures the degree to which employees are overloaded with concurrent change. It
 ## Formula
 
 ```
-Active Initiatives Impacting Same Population vs Capacity Threshold
+CSI = Active Initiatives Impacting Same Population vs Capacity Threshold
 ```
 
 ## Unit

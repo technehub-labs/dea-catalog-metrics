@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Profit Margin (Deep Dive)** (GPM
 - **Canonical id:** `dea:metric-gross-profit-margin-deep-dive`
 - **Name:** Gross Profit Margin (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GPMD
 
@@ -22,7 +22,7 @@ Measures revenue retained after direct costs. Gross margin is the cleanest signa
 ## Formula
 
 ```
-Gross Profit / Revenue
+GPMD = Gross Profit / Revenue
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time Between System Failures** (M
 - **Canonical id:** `dea:metric-mean-time-between-system-failures`
 - **Name:** Mean Time Between System Failures
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTBSF
 
@@ -18,7 +18,7 @@ A Software Engineering indicator, Mean Time Between System Failures (MTBSF) quan
 ## Formula
 
 ```
-Total Uptime / Number of System Failures
+MTBSF = Total Uptime / Number of System Failures
 ```
 
 ## Unit

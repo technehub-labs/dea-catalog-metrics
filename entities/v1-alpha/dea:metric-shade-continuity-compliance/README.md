@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shade Continuity Compliance** (SCC-T) 
 - **Canonical id:** `dea:metric-shade-continuity-compliance`
 - **Name:** Shade Continuity Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCC-T
 
@@ -18,7 +18,7 @@ Shade Continuity Compliance (SCC-T) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Rolls Matched for Shade within Tolerance / Rolls
+SCC-T = Rolls Matched for Shade within Tolerance / Rolls
 ```
 
 ## Unit

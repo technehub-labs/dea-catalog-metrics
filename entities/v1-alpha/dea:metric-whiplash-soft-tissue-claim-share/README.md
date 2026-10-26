@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whiplash / Soft Tissue Claim Share** (
 - **Canonical id:** `dea:metric-whiplash-soft-tissue-claim-share`
 - **Name:** Whiplash / Soft Tissue Claim Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSTS
 
@@ -18,7 +18,7 @@ Whiplash / Soft Tissue Claim Share (WSTS) addresses exposure to adverse outcomes
 ## Formula
 
 ```
-Soft Tissue Claims / Bodily Injury Claims
+WSTS = Soft Tissue Claims / Bodily Injury Claims
 ```
 
 ## Unit

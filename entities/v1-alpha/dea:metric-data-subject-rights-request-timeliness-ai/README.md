@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Subject Rights Request Timeliness
 - **Canonical id:** `dea:metric-data-subject-rights-request-timeliness-ai`
 - **Name:** Data Subject Rights Request Timeliness - AI
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSRTA
 
@@ -22,7 +22,7 @@ Measures whether access, deletion, and correction requests touching AI systems a
 ## Formula
 
 ```
-Rights Requests Answered within Statutory Window / Requests
+DSRTA = Rights Requests Answered within Statutory Window / Requests
 ```
 
 ## Unit

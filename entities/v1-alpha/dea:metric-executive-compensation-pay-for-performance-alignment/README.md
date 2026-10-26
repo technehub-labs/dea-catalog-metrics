@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Executive Compensation Pay-for-Perform
 - **Canonical id:** `dea:metric-executive-compensation-pay-for-performance-alignment`
 - **Name:** Executive Compensation Pay-for-Performance Alignment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECPA
 
@@ -22,7 +22,7 @@ Pay-for-performance alignment measures the linkage between executive compensatio
 ## Formula
 
 ```
-Executives Above Target Pay / Executives Above Target Performance
+ECPA = Executives Above Target Pay / Executives Above Target Performance
 ```
 
 ## Unit

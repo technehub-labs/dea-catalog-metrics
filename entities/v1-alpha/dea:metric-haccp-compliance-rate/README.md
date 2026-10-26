@@ -7,7 +7,7 @@ Candidate Performance Metric record for **HACCP Compliance Rate** (HCR) in the O
 - **Canonical id:** `dea:metric-haccp-compliance-rate`
 - **Name:** HACCP Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HCR
 
@@ -22,7 +22,7 @@ Measures adherence to critical control points and monitoring requirements under 
 ## Formula
 
 ```
-HACCP Checks Passed / Checks Performed
+HCR = HACCP Checks Passed / Checks Performed
 ```
 
 ## Unit

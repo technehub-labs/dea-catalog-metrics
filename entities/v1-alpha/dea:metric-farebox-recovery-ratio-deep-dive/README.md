@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farebox Recovery Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-farebox-recovery-ratio-deep-dive`
 - **Name:** Farebox Recovery Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRR-D
 
@@ -22,7 +22,7 @@ Measures fare revenue against operating cost. It is the fiscal-dependency metric
 ## Formula
 
 ```
-Fare Revenue / Operating Cost
+FRR-D = Fare Revenue / Operating Cost
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Risk Exposure Trend Index (Projects)**
 - **Canonical id:** `dea:metric-risk-exposure-trend-index-projects`
 - **Name:** Risk Exposure Trend Index (Projects)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RETI
 
@@ -22,7 +22,7 @@ Measures whether aggregate project risk exposure is rising or falling. Rising ex
 ## Formula
 
 ```
-Period-over-Period Change in Aggregate Risk Exposure
+RETI = Period-over-Period Change in Aggregate Risk Exposure
 ```
 
 ## Unit

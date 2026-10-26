@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Automation Ratio (Deep Dive)**
 - **Canonical id:** `dea:metric-process-automation-ratio-deep-dive`
 - **Name:** Process Automation Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PAR-D
 
@@ -22,7 +22,7 @@ Measures the share of process steps executed without manual human handling. Auto
 ## Formula
 
 ```
-Automated Steps / Total Process Steps
+PAR-D = Automated Steps / Total Process Steps
 ```
 
 ## Unit

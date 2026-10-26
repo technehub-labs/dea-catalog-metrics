@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Broadcast Reach** (BCR) in the OpenDEA
 - **Canonical id:** `dea:metric-broadcast-reach`
 - **Name:** Broadcast Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCR
 
@@ -22,7 +22,7 @@ Broadcast reach measures the audience exposed to a broadcast - unique viewers ra
 ## Formula
 
 ```
-Average Audience per Broadcast
+BCR = Average Audience per Broadcast
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sigma Shift per Year** (SSPY) in the O
 - **Canonical id:** `dea:metric-sigma-shift-per-year`
 - **Name:** Sigma Shift per Year
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSPY
 
@@ -22,7 +22,7 @@ Sigma shift per year measures annual improvement in process capability (sigma le
 ## Formula
 
 ```
-Change in Process Sigma Level Year over Year
+SSPY = Change in Process Sigma Level Year over Year
 ```
 
 ## Unit

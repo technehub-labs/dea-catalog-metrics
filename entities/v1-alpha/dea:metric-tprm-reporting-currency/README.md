@@ -7,7 +7,7 @@ Candidate Performance Metric record for **TPRM Reporting Currency** (TPRMRC) in 
 - **Canonical id:** `dea:metric-tprm-reporting-currency`
 - **Name:** TPRM Reporting Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPRMRC
 
@@ -18,7 +18,7 @@ A Third-Party Risk Management indicator, TPRM Reporting Currency (TPRMRC) quanti
 ## Formula
 
 ```
-Risk Reports Refreshed per Cadence / Reports
+TPRMRC = Risk Reports Refreshed per Cadence / Reports
 ```
 
 ## Unit

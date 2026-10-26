@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Punch List Closure Time** (PLCT) in th
 - **Canonical id:** `dea:metric-punch-list-closure-time`
 - **Name:** Punch List Closure Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLCT
 
@@ -18,7 +18,7 @@ Within Construction & Engineering, Punch List Closure Time (PLCT) is used to gau
 ## Formula
 
 ```
-Days from Handover Inspection to Punch List Completion
+PLCT = Days from Handover Inspection to Punch List Completion
 ```
 
 ## Unit

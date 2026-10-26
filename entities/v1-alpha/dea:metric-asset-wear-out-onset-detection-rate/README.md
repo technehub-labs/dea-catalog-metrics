@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Wear-Out Onset Detection Rate** 
 - **Canonical id:** `dea:metric-asset-wear-out-onset-detection-rate`
 - **Name:** Asset Wear-Out Onset Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AWODR
 
@@ -18,7 +18,7 @@ Asset Wear-Out Onset Detection Rate (AWODR) captures exposure to adverse outcome
 ## Formula
 
 ```
-Wear-Out Phase Detected before Failure / Wear-Out Cases
+AWODR = Wear-Out Phase Detected before Failure / Wear-Out Cases
 ```
 
 ## Unit

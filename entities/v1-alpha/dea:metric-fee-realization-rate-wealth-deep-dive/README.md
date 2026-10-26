@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fee Realization Rate (Wealth Deep Dive
 - **Canonical id:** `dea:metric-fee-realization-rate-wealth-deep-dive`
 - **Name:** Fee Realization Rate (Wealth Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRR-W
 
@@ -22,7 +22,7 @@ Measures fees actually collected against contractual fee schedules. Realization 
 ## Formula
 
 ```
-Fees Collected / Fees Billable
+FRR-W = Fees Collected / Fees Billable
 ```
 
 ## Unit

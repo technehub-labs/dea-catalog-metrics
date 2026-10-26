@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Resource Utilization on Projects** (RU
 - **Canonical id:** `dea:metric-resource-utilization-on-projects`
 - **Name:** Resource Utilization on Projects
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RUP
 
@@ -22,7 +22,7 @@ Measures how much of project team capacity is spent on project work versus idle 
 ## Formula
 
 ```
-Billable or Project Hours / Available Hours
+RUP = Billable or Project Hours / Available Hours
 ```
 
 ## Unit

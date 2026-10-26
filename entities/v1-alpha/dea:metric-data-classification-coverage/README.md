@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Classification Coverage** (DCC-DG
 - **Canonical id:** `dea:metric-data-classification-coverage`
 - **Name:** Data Classification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCC-DG
 
@@ -22,7 +22,7 @@ Measures the share of data assets classified per the governance scheme. Classifi
 ## Formula
 
 ```
-Data Assets Classified per Policy / Data Assets
+DCC-DG = Data Assets Classified per Policy / Data Assets
 ```
 
 ## Unit

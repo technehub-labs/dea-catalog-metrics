@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time Lag to Conversion** (TLTC) in the
 - **Canonical id:** `dea:metric-time-lag-to-conversion`
 - **Name:** Time Lag to Conversion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLTC
 
@@ -18,7 +18,7 @@ A Marketing Attribution & Analytics indicator, Time Lag to Conversion (TLTC) qua
 ## Formula
 
 ```
-Days from First Attribution Touch to Conversion
+TLTC = Days from First Attribution Touch to Conversion
 ```
 
 ## Unit

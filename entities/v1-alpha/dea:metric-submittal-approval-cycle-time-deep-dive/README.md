@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Submittal Approval Cycle Time (Deep Di
 - **Canonical id:** `dea:metric-submittal-approval-cycle-time-deep-dive`
 - **Name:** Submittal Approval Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SACT-C
 
@@ -18,7 +18,7 @@ A Construction Contracting (Deep Dive) indicator, Submittal Approval Cycle Time 
 ## Formula
 
 ```
-Days from Submittal to Approval
+SACT-C = Days from Submittal to Approval
 ```
 
 ## Unit

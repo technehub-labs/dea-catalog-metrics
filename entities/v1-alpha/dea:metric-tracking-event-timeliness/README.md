@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tracking Event Timeliness** (TET) in t
 - **Canonical id:** `dea:metric-tracking-event-timeliness`
 - **Name:** Tracking Event Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TET
 
@@ -18,7 +18,7 @@ A Postal & Courier indicator, Tracking Event Timeliness (TET) quantifies the qua
 ## Formula
 
 ```
-Scan Events Posted within Threshold / Events Generated
+TET = Scan Events Posted within Threshold / Events Generated
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reputation Risk Radar Coverage** (RRRC
 - **Canonical id:** `dea:metric-reputation-risk-radar-coverage`
 - **Name:** Reputation Risk Radar Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRRC
 
@@ -22,7 +22,7 @@ Measures the share of material reputation risks under active monitoring. It exte
 ## Formula
 
 ```
-Risks Monitored / Identified Risk Landscape
+RRRC = Risks Monitored / Identified Risk Landscape
 ```
 
 ## Unit

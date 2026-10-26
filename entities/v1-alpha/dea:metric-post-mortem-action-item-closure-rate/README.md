@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Mortem Action Item Closure Rate**
 - **Canonical id:** `dea:metric-post-mortem-action-item-closure-rate`
 - **Name:** Post-Mortem Action Item Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMAICR
 
@@ -22,7 +22,7 @@ Measures the share of corrective actions from security post-mortems completed by
 ## Formula
 
 ```
-Security Action Items Closed by Target / Items
+PMAICR = Security Action Items Closed by Target / Items
 ```
 
 ## Unit

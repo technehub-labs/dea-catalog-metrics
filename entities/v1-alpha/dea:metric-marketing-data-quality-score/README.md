@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Data Quality Score** (MDQS) 
 - **Canonical id:** `dea:metric-marketing-data-quality-score`
 - **Name:** Marketing Data Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDQS
 
@@ -18,7 +18,7 @@ A Marketing Attribution & Analytics indicator, Marketing Data Quality Score (MDQ
 ## Formula
 
 ```
-Weighted Index of Tracking Completeness and Consistency
+MDQS = Weighted Index of Tracking Completeness and Consistency
 ```
 
 ## Unit

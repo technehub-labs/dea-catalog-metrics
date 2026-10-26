@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interdependency Visibility Rate** (IVR
 - **Canonical id:** `dea:metric-interdependency-visibility-rate`
 - **Name:** Interdependency Visibility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IVR-P
 
@@ -18,7 +18,7 @@ Interdependency Visibility Rate (IVR-P) captures exposure to adverse outcomes fo
 ## Formula
 
 ```
-Cross-Initiative Dependencies Mapped / Identified
+IVR-P = Cross-Initiative Dependencies Mapped / Identified
 ```
 
 ## Unit

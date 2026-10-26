@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attraction Downtime Ratio** (ADR-V) in
 - **Canonical id:** `dea:metric-attraction-downtime-ratio`
 - **Name:** Attraction Downtime Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADR-V
 
@@ -18,7 +18,7 @@ Attraction Downtime Ratio (ADR-V) measures the utilization or availability of ca
 ## Formula
 
 ```
-Ride or Exhibit Downtime / Operating Hours
+ADR-V = Ride or Exhibit Downtime / Operating Hours
 ```
 
 ## Unit

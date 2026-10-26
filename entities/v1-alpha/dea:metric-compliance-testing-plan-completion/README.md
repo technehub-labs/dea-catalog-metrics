@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Testing Plan Completion** (
 - **Canonical id:** `dea:metric-compliance-testing-plan-completion`
 - **Name:** Compliance Testing Plan Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTPC
 
@@ -18,7 +18,7 @@ Within Compliance Monitoring & Testing, Compliance Testing Plan Completion (CTPC
 ## Formula
 
 ```
-Tests Executed per Annual Plan / Tests Planned
+CTPC = Tests Executed per Annual Plan / Tests Planned
 ```
 
 ## Unit

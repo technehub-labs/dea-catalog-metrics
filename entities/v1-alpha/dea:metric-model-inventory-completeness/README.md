@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Inventory Completeness** (MIC-AI
 - **Canonical id:** `dea:metric-model-inventory-completeness`
 - **Name:** Model Inventory Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MIC-AI
 
@@ -22,7 +22,7 @@ Measures the share of production models captured in the enterprise model invento
 ## Formula
 
 ```
-Documented Models in Inventory / Deployed Models
+MIC-AI = Documented Models in Inventory / Deployed Models
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workload Balance Index** (WBI-WF) in t
 - **Canonical id:** `dea:metric-workload-balance-index`
 - **Name:** Workload Balance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WBI-WF
 
@@ -18,7 +18,7 @@ A Workforce Planning & Productivity indicator, Workload Balance Index (WBI-WF) q
 ## Formula
 
 ```
-Distribution Variance of Load across Comparable Roles
+WBI-WF = Distribution Variance of Load across Comparable Roles
 ```
 
 ## Unit

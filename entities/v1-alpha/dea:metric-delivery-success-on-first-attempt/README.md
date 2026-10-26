@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delivery Success on First Attempt** (D
 - **Canonical id:** `dea:metric-delivery-success-on-first-attempt`
 - **Name:** Delivery Success on First Attempt
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSFA
 
@@ -18,7 +18,7 @@ A Logistics & Transportation indicator, Delivery Success on First Attempt (DSFA)
 ## Formula
 
 ```
-Successful First Attempts / Total Delivery Attempts
+DSFA = Successful First Attempts / Total Delivery Attempts
 ```
 
 ## Unit

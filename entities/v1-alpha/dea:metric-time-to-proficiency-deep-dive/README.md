@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Proficiency (Deep Dive)** (TTP
 - **Canonical id:** `dea:metric-time-to-proficiency-deep-dive`
 - **Name:** Time to Proficiency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTP-D
 
@@ -18,7 +18,7 @@ Time to Proficiency (Deep Dive) (TTP-D) measures capability maturity or developm
 ## Formula
 
 ```
-Days from Hire to Target Proficiency
+TTP-D = Days from Hire to Target Proficiency
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remote Diagnostics Resolution Rate** (
 - **Canonical id:** `dea:metric-remote-diagnostics-resolution-rate`
 - **Name:** Remote Diagnostics Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDRR-F
 
@@ -22,7 +22,7 @@ Measures the share of field-service issues resolved without a site visit. Every 
 ## Formula
 
 ```
-Resolutions via Remote Diagnostics / Diagnosable Issues
+RDRR-F = Resolutions via Remote Diagnostics / Diagnosable Issues
 ```
 
 ## Unit

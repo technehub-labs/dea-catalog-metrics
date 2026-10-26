@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Registration-to-Attendance Rate*
 - **Canonical id:** `dea:metric-event-registration-to-attendance-rate`
 - **Name:** Event Registration-to-Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERAR
 
@@ -18,7 +18,7 @@ Event Registration-to-Attendance Rate (ERAR) measures how effectively a process 
 ## Formula
 
 ```
-Attendees / Registrations
+ERAR = Attendees / Registrations
 ```
 
 ## Unit

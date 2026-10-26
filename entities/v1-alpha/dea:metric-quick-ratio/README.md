@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quick Ratio** (QR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-quick-ratio`
 - **Name:** Quick Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QR
 
@@ -22,7 +22,7 @@ Measures the ability to cover current liabilities using only cash, marketable se
 ## Formula
 
 ```
-(Current Assets - Inventory) / Current Liabilities
+QR = (Current Assets - Inventory) / Current Liabilities
 ```
 
 ## Unit

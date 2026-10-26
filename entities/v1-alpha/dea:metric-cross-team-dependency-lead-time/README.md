@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Team Dependency Lead Time** (CTD
 - **Canonical id:** `dea:metric-cross-team-dependency-lead-time`
 - **Name:** Cross-Team Dependency Lead Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTDLT-AG
 
@@ -18,7 +18,7 @@ Cross-Team Dependency Lead Time (CTDLT-AG) captures how efficiently resources ar
 ## Formula
 
 ```
-Days Waiting on External Team Dependencies
+CTDLT-AG = Days Waiting on External Team Dependencies
 ```
 
 ## Unit

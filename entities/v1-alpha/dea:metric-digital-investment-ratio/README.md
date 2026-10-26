@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Investment Ratio** (DIR) in th
 - **Canonical id:** `dea:metric-digital-investment-ratio`
 - **Name:** Digital Investment Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIR
 
@@ -22,7 +22,7 @@ Compares digital investment as a share of total capital and opex, or of revenue,
 ## Formula
 
 ```
-Digital Initiative Spend / Total Change Spend
+DIR = Digital Initiative Spend / Total Change Spend
 ```
 
 ## Unit

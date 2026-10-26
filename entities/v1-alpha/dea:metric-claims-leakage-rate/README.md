@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Leakage Rate** (CLR) in the Ope
 - **Canonical id:** `dea:metric-claims-leakage-rate`
 - **Name:** Claims Leakage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLR
 
@@ -22,7 +22,7 @@ Claims leakage measures payments beyond what proper claims handling would have r
 ## Formula
 
 ```
-Claims Overpayment Value / Total Claims Paid
+CLR = Claims Overpayment Value / Total Claims Paid
 ```
 
 ## Unit

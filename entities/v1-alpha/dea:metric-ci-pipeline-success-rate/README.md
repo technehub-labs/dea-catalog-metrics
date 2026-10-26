@@ -7,7 +7,7 @@ Candidate Performance Metric record for **CI Pipeline Success Rate** (CIPSR) in 
 - **Canonical id:** `dea:metric-ci-pipeline-success-rate`
 - **Name:** CI Pipeline Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIPSR
 
@@ -18,7 +18,7 @@ CI Pipeline Success Rate (CIPSR) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Green Pipeline Runs / Total Runs
+CIPSR = Green Pipeline Runs / Total Runs
 ```
 
 ## Unit

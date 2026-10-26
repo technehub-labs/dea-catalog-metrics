@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leasing Cycle Time (Commercial)** (LCT
 - **Canonical id:** `dea:metric-leasing-cycle-time-commercial`
 - **Name:** Leasing Cycle Time (Commercial)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCT-C
 
@@ -18,7 +18,7 @@ Leasing Cycle Time (Commercial) (LCT-C) captures how efficiently resources are c
 ## Formula
 
 ```
-Days from Inquiry to Lease Execution
+LCT-C = Days from Inquiry to Lease Execution
 ```
 
 ## Unit

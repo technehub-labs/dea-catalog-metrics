@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Document Change Cycle Time** (DCCT) in
 - **Canonical id:** `dea:metric-document-change-cycle-time`
 - **Name:** Document Change Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCCT
 
@@ -18,7 +18,7 @@ Within Quality Management, Document Change Cycle Time (DCCT) is used to gauge ho
 ## Formula
 
 ```
-Days from Change Request to Document Release
+DCCT = Days from Change Request to Document Release
 ```
 
 ## Unit

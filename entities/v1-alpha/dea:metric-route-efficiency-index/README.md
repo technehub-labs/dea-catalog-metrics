@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Route Efficiency Index** (REI-F) in th
 - **Canonical id:** `dea:metric-route-efficiency-index`
 - **Name:** Route Efficiency Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** REI-F
 
@@ -18,7 +18,7 @@ Route Efficiency Index (REI-F) captures how efficiently resources are converted 
 ## Formula
 
 ```
-Effective Travel Time / Total Travel Time
+REI-F = Effective Travel Time / Total Travel Time
 ```
 
 ## Unit

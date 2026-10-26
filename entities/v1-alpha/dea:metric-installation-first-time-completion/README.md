@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Installation First-Time Completion** (
 - **Canonical id:** `dea:metric-installation-first-time-completion`
 - **Name:** Installation First-Time Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFTC
 
@@ -18,7 +18,7 @@ A Telecom Field & Installation indicator, Installation First-Time Completion (IF
 ## Formula
 
 ```
-Installations Completed on First Visit / Installation Jobs
+IFTC = Installations Completed on First Visit / Installation Jobs
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Spec Compliance Rate** (APISC) in 
 - **Canonical id:** `dea:metric-api-spec-compliance-rate`
 - **Name:** API Spec Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APISC
 
@@ -18,7 +18,7 @@ API Spec Compliance Rate (APISC) captures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Implementations Matching Published Spec / Endpoints Tested
+APISC = Implementations Matching Published Spec / Endpoints Tested
 ```
 
 ## Unit

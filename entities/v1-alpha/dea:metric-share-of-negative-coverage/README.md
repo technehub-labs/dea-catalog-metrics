@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Share of Negative Coverage** (SNC) in 
 - **Canonical id:** `dea:metric-share-of-negative-coverage`
 - **Name:** Share of Negative Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SNC
 
@@ -22,7 +22,7 @@ Measures the proportion of media mentions that are negative. It matters because 
 ## Formula
 
 ```
-Negative Articles / Total Articles Monitored
+SNC = Negative Articles / Total Articles Monitored
 ```
 
 ## Unit

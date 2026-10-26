@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Complaints per 1,000 Passengers** (CPP
 - **Canonical id:** `dea:metric-complaints-per-1-000-passengers`
 - **Name:** Complaints per 1,000 Passengers
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPP
 
@@ -22,7 +22,7 @@ Measures complaint frequency normalized by passenger volume. It matters because 
 ## Formula
 
 ```
-Complaints / Passengers x 1,000
+CPP = Complaints / Passengers x 1,000
 ```
 
 ## Unit

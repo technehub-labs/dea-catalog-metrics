@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prompt Version Control Adoption** (PVC
 - **Canonical id:** `dea:metric-prompt-version-control-adoption`
 - **Name:** Prompt Version Control Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PVCA-LLM
 
@@ -18,7 +18,7 @@ Prompt Version Control Adoption (PVCA-LLM) captures conformance to standards, pl
 ## Formula
 
 ```
-Prompts under Version Control / Prompts in Production
+PVCA-LLM = Prompts under Version Control / Prompts in Production
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Version Control Compliance** (MV
 - **Canonical id:** `dea:metric-model-version-control-compliance`
 - **Name:** Model Version Control Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVCC-M
 
@@ -18,7 +18,7 @@ Model Version Control Compliance (MVCC-M) addresses conformance to standards, pl
 ## Formula
 
 ```
-Models with Versioned Artifacts / Models
+MVCC-M = Models with Versioned Artifacts / Models
 ```
 
 ## Unit

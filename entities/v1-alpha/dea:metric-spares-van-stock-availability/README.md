@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Spares Van Stock Availability** (SVSA)
 - **Canonical id:** `dea:metric-spares-van-stock-availability`
 - **Name:** Spares Van Stock Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVSA
 
@@ -18,7 +18,7 @@ Within Telecom Field & Installation, Spares Van Stock Availability (SVSA) is use
 ## Formula
 
 ```
-Jobs Completed without Spares Stockout / Jobs
+SVSA = Jobs Completed without Spares Stockout / Jobs
 ```
 
 ## Unit

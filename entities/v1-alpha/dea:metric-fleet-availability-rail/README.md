@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fleet Availability (Rail)** (FAR) in t
 - **Canonical id:** `dea:metric-fleet-availability-rail`
 - **Name:** Fleet Availability (Rail)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAR
 
@@ -22,7 +22,7 @@ Fleet availability measures the share of trains serviceable at any time, and it 
 ## Formula
 
 ```
-Serviceable Trains / Total Fleet
+FAR = Serviceable Trains / Total Fleet
 ```
 
 ## Unit

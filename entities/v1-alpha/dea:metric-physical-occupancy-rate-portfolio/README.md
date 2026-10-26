@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physical Occupancy Rate (Portfolio)** 
 - **Canonical id:** `dea:metric-physical-occupancy-rate-portfolio`
 - **Name:** Physical Occupancy Rate (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POR-P
 
@@ -22,7 +22,7 @@ Measures the share of leasable space physically occupied. It is the demand signa
 ## Formula
 
 ```
-Occupied Units or Area / Total Units or Area
+POR-P = Occupied Units or Area / Total Units or Area
 ```
 
 ## Unit

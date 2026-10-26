@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exit Interview Completion Rate** (EICR
 - **Canonical id:** `dea:metric-exit-interview-completion-rate`
 - **Name:** Exit Interview Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EICR
 
@@ -18,7 +18,7 @@ Within Culture & Employee Experience, Exit Interview Completion Rate (EICR) is u
 ## Formula
 
 ```
-Exit Interviews Conducted / Departures
+EICR = Exit Interviews Conducted / Departures
 ```
 
 ## Unit

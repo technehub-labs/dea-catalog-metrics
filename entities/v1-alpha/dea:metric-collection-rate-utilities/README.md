@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Rate (Utilities)** (CLR-U) 
 - **Canonical id:** `dea:metric-collection-rate-utilities`
 - **Name:** Collection Rate (Utilities)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLR-U
 
@@ -22,7 +22,7 @@ Collection rate measures the share of billed revenue actually collected, and it 
 ## Formula
 
 ```
-Revenue Collected / Revenue Billed
+CLR-U = Revenue Collected / Revenue Billed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Early Alert Intervention Effectiveness
 - **Canonical id:** `dea:metric-early-alert-intervention-effectiveness`
 - **Name:** Early Alert Intervention Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EAIE
 
@@ -18,7 +18,7 @@ Within Education & Training Outcome Standard Measures, Early Alert Intervention 
 ## Formula
 
 ```
-Interventions Preventing Withdrawal / Interventions
+EAIE = Interventions Preventing Withdrawal / Interventions
 ```
 
 ## Unit

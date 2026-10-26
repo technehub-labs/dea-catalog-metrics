@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Quality Rating** (SQR-Q) in t
 - **Canonical id:** `dea:metric-supplier-quality-rating`
 - **Name:** Supplier Quality Rating
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SQR-Q
 
@@ -22,7 +22,7 @@ Measures a composite quality score for suppliers, blending defect, escape, and r
 ## Formula
 
 ```
-Accepted Lots / Total Lots Received
+SQR-Q = Accepted Lots / Total Lots Received
 ```
 
 ## Unit

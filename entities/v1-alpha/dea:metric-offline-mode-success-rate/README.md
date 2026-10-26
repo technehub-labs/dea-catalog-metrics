@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offline Mode Success Rate** (OMSR) in 
 - **Canonical id:** `dea:metric-offline-mode-success-rate`
 - **Name:** Offline Mode Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMSR
 
@@ -18,7 +18,7 @@ A Mobile & Client Development indicator, Offline Mode Success Rate (OMSR) quanti
 ## Formula
 
 ```
-Offline Transactions Completed Correctly / Offline Attempts
+OMSR = Offline Transactions Completed Correctly / Offline Attempts
 ```
 
 ## Unit

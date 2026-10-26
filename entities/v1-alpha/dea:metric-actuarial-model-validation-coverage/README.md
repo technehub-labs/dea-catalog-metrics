@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Actuarial Model Validation Coverage** 
 - **Canonical id:** `dea:metric-actuarial-model-validation-coverage`
 - **Name:** Actuarial Model Validation Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AMVC
 
@@ -22,7 +22,7 @@ Measures the share of production actuarial models that have current, documented,
 ## Formula
 
 ```
-Models Validated in Period / Models in Use
+AMVC = Models Validated in Period / Models in Use
 ```
 
 ## Unit

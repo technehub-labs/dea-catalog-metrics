@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Counterfeit Intel Rejection Rate** (CI
 - **Canonical id:** `dea:metric-counterfeit-intel-rejection-rate`
 - **Name:** Counterfeit Intel Rejection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIRR
 
@@ -18,7 +18,7 @@ Counterfeit Intel Rejection Rate (CIRR) captures the quality of outputs and outc
 ## Formula
 
 ```
-Unverified Intel Rejected / Intel Received
+CIRR = Unverified Intel Rejected / Intel Received
 ```
 
 ## Unit

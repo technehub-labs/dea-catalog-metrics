@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Succession Plan Coverage (Deep Dive)**
 - **Canonical id:** `dea:metric-succession-plan-coverage-deep-dive`
 - **Name:** Succession Plan Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPC-D
 
@@ -22,7 +22,7 @@ Measures the share of critical roles with a viable, tested succession plan. Cove
 ## Formula
 
 ```
-Critical Roles with Ready Successors / Critical Roles
+SPC-D = Critical Roles with Ready Successors / Critical Roles
 ```
 
 ## Unit

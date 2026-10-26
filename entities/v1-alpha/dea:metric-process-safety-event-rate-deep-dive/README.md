@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Safety Event Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-process-safety-event-rate-deep-dive`
 - **Name:** Process Safety Event Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSER-D
 
@@ -22,7 +22,7 @@ Measures loss-of-containment and process safety events against exposure hours in
 ## Formula
 
 ```
-Tier 1 and 2 Process Safety Events per 200,000 Hours
+PSER-D = Tier 1 and 2 Process Safety Events per 200,000 Hours
 ```
 
 ## Unit

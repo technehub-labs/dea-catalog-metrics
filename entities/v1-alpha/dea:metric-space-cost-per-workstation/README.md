@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Space Cost per Workstation** (SCPW) in
 - **Canonical id:** `dea:metric-space-cost-per-workstation`
 - **Name:** Space Cost per Workstation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPW
 
@@ -22,7 +22,7 @@ Measures total occupancy cost allocated per workstation or seat. It is the unit 
 ## Formula
 
 ```
-Total Facility Cost / Workstations
+SCPW = Total Facility Cost / Workstations
 ```
 
 ## Unit

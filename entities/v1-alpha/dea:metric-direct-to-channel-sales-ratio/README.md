@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct-to-Channel Sales Ratio** (DCSR)
 - **Canonical id:** `dea:metric-direct-to-channel-sales-ratio`
 - **Name:** Direct-to-Channel Sales Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCSR
 
@@ -22,7 +22,7 @@ Measures the balance of direct versus partner-sourced revenue. The ratio is a st
 ## Formula
 
 ```
-Direct Sales / Channel Sales
+DCSR = Direct Sales / Channel Sales
 ```
 
 ## Unit

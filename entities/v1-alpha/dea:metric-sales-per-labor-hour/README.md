@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales per Labor Hour** (SPLH) in the O
 - **Canonical id:** `dea:metric-sales-per-labor-hour`
 - **Name:** Sales per Labor Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPLH
 
@@ -18,7 +18,7 @@ Sales per Labor Hour (SPLH) addresses how efficiently resources are converted in
 ## Formula
 
 ```
-Net Sales / Store Labor Hours
+SPLH = Net Sales / Store Labor Hours
 ```
 
 ## Unit

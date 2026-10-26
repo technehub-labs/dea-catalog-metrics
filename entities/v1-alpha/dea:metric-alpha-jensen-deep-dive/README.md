@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alpha (Jensen) (Deep Dive)** (AJDD) in
 - **Canonical id:** `dea:metric-alpha-jensen-deep-dive`
 - **Name:** Alpha (Jensen) (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AJDD
 
@@ -22,7 +22,7 @@ Jensen's alpha, from Michael C. Jensen (1968), is the return above what CAPM say
 ## Formula
 
 ```
-Portfolio Return above CAPM-Predicted Return
+AJDD = Portfolio Return above CAPM-Predicted Return
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Modeling Coverage (Applications
 - **Canonical id:** `dea:metric-threat-modeling-coverage-applications`
 - **Name:** Threat Modeling Coverage (Applications)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TMCA
 
@@ -22,7 +22,7 @@ Measures the share of applications with current threat models. Threat modeling i
 ## Formula
 
 ```
-High-Risk Apps with Threat Model / High-Risk Apps
+TMCA = High-Risk Apps with Threat Model / High-Risk Apps
 ```
 
 ## Unit

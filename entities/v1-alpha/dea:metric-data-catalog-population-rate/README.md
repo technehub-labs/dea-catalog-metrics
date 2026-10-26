@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Catalog Population Rate** (DCPR-D
 - **Canonical id:** `dea:metric-data-catalog-population-rate`
 - **Name:** Data Catalog Population Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCPR-DG
 
@@ -18,7 +18,7 @@ Data Catalog Population Rate (DCPR-DG) addresses how efficiently resources are c
 ## Formula
 
 ```
-Curated Assets Documented in Catalog / In-Scope Assets
+DCPR-DG = Curated Assets Documented in Catalog / In-Scope Assets
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Landscape Coverage Score** (TLC
 - **Canonical id:** `dea:metric-threat-landscape-coverage-score`
 - **Name:** Threat Landscape Coverage Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLCS
 
@@ -22,7 +22,7 @@ Measures how well monitoring and defenses cover the threats most relevant to you
 ## Formula
 
 ```
-Coverage of Industry-Threat Scenarios with Playbooks
+TLCS = Coverage of Industry-Threat Scenarios with Playbooks
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Background Check Clear Cycle Time** (B
 - **Canonical id:** `dea:metric-background-check-clear-cycle-time`
 - **Name:** Background Check Clear Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCCCT
 
@@ -18,7 +18,7 @@ Background Check Clear Cycle Time (BCCCT) measures how efficiently resources are
 ## Formula
 
 ```
-Days from Check Initiated to Cleared
+BCCCT = Days from Check Initiated to Cleared
 ```
 
 ## Unit

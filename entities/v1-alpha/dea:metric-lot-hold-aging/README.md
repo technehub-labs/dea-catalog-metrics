@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lot Hold Aging** (LHA-S) in the OpenDE
 - **Canonical id:** `dea:metric-lot-hold-aging`
 - **Name:** Lot Hold Aging
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LHA-S
 
@@ -18,7 +18,7 @@ Within Semiconductor Manufacturing (Deep Dive), Lot Hold Aging (LHA-S) is used t
 ## Formula
 
 ```
-Wafers on Hold over Threshold / Wafers on Hold
+LHA-S = Wafers on Hold over Threshold / Wafers on Hold
 ```
 
 ## Unit

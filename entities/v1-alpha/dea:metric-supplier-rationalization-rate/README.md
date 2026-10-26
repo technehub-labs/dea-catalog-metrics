@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Rationalization Rate** (SUPRR
 - **Canonical id:** `dea:metric-supplier-rationalization-rate`
 - **Name:** Supplier Rationalization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUPRR
 
@@ -18,7 +18,7 @@ Supplier Rationalization Rate (SUPRR) measures how efficiently resources are con
 ## Formula
 
 ```
-Redundant Suppliers Consolidated / Suppliers Identified
+SUPRR = Redundant Suppliers Consolidated / Suppliers Identified
 ```
 
 ## Unit

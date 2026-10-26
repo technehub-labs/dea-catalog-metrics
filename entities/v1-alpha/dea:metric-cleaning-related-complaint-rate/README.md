@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cleaning-Related Complaint Rate** (CRC
 - **Canonical id:** `dea:metric-cleaning-related-complaint-rate`
 - **Name:** Cleaning-Related Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRCR-C
 
@@ -18,7 +18,7 @@ Cleaning-Related Complaint Rate (CRCR-C) measures the quality of outputs and out
 ## Formula
 
 ```
-Complaints / 1,000 Cleaning Visits
+CRCR-C = Complaints / 1,000 Cleaning Visits
 ```
 
 ## Unit

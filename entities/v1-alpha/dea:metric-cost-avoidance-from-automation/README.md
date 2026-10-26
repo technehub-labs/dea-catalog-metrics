@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Avoidance from Automation** (CAA)
 - **Canonical id:** `dea:metric-cost-avoidance-from-automation`
 - **Name:** Cost Avoidance from Automation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAA
 
@@ -22,7 +22,7 @@ Quantifies spending that would have occurred absent automation - capacity not hi
 ## Formula
 
 ```
-Manual Cost Avoided through Automation, Annualized
+CAA = Manual Cost Avoided through Automation, Annualized
 ```
 
 ## Unit

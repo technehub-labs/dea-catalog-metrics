@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess Return over Benchmark (Deep Div
 - **Canonical id:** `dea:metric-excess-return-over-benchmark-deep-dive`
 - **Name:** Excess Return over Benchmark (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EROB-D
 
@@ -22,7 +22,7 @@ Measures the portfolio return above its benchmark over the period. Excess return
 ## Formula
 
 ```
-Portfolio Return - Benchmark Return
+EROB-D = Portfolio Return - Benchmark Return
 ```
 
 ## Unit

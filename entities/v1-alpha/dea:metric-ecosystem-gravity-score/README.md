@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ecosystem Gravity Score** (ECGS) in th
 - **Canonical id:** `dea:metric-ecosystem-gravity-score`
 - **Name:** Ecosystem Gravity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECGS
 
@@ -22,7 +22,7 @@ Measures the strength of attraction the company's ecosystem exerts on partners a
 ## Formula
 
 ```
-Attractiveness of Market Position to Complementary Players
+ECGS = Attractiveness of Market Position to Complementary Players
 ```
 
 ## Unit

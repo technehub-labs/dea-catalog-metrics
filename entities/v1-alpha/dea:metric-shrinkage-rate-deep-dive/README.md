@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage Rate (Deep Dive)** (SHR-D) i
 - **Canonical id:** `dea:metric-shrinkage-rate-deep-dive`
 - **Name:** Shrinkage Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHR-D
 
@@ -18,7 +18,7 @@ Shrinkage Rate (Deep Dive) (SHR-D) measures the utilization or availability of c
 ## Formula
 
 ```
-Non-Productive Time / Scheduled Time
+SHR-D = Non-Productive Time / Scheduled Time
 ```
 
 ## Unit

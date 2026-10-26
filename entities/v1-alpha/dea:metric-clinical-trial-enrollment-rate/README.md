@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Clinical Trial Enrollment Rate** (CTER
 - **Canonical id:** `dea:metric-clinical-trial-enrollment-rate`
 - **Name:** Clinical Trial Enrollment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTER
 
@@ -22,7 +22,7 @@ Measures enrolled subjects against the planned enrollment curve. It matters beca
 ## Formula
 
 ```
-Enrolled Subjects / Planned Subjects
+CTER = Enrolled Subjects / Planned Subjects
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Processing Time - Permits (Gov
 - **Canonical id:** `dea:metric-average-processing-time-permits-government`
 - **Name:** Average Processing Time - Permits (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APTP
 
@@ -18,7 +18,7 @@ Within Government & Public Administration, Average Processing Time - Permits (Go
 ## Formula
 
 ```
-Days from Application to Permit Decision
+APTP = Days from Application to Permit Decision
 ```
 
 ## Unit

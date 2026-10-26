@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Layup and Off-hire Days Ratio** (LODR)
 - **Canonical id:** `dea:metric-layup-and-off-hire-days-ratio`
 - **Name:** Layup and Off-hire Days Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LODR
 
@@ -22,7 +22,7 @@ Measures the share of fleet capacity inactive - laid up, in drydock beyond plan,
 ## Formula
 
 ```
-Off-hire Days / Total Vessel Days
+LODR = Off-hire Days / Total Vessel Days
 ```
 
 ## Unit

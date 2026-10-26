@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dark versus Lit Execution Mix** (DVLEM
 - **Canonical id:** `dea:metric-dark-versus-lit-execution-mix`
 - **Name:** Dark versus Lit Execution Mix
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVLEM
 
@@ -18,7 +18,7 @@ Within Investment Research & Trading Operations, Dark versus Lit Execution Mix (
 ## Formula
 
 ```
-Dark Venue Volume / Total Volume
+DVLEM = Dark Venue Volume / Total Volume
 ```
 
 ## Unit

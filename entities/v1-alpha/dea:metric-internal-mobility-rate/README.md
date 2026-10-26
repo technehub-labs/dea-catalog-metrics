@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Mobility Rate** (IMR) in the 
 - **Canonical id:** `dea:metric-internal-mobility-rate`
 - **Name:** Internal Mobility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMR
 
@@ -22,7 +22,7 @@ The share of roles filled by internal candidates - the metric that measures whet
 ## Formula
 
 ```
-Employees Moving to New Internal Roles / Headcount
+IMR = Employees Moving to New Internal Roles / Headcount
 ```
 
 ## Unit

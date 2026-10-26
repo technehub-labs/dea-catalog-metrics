@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Pipeline Strength Index** (
 - **Canonical id:** `dea:metric-leadership-pipeline-strength-index`
 - **Name:** Leadership Pipeline Strength Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPSI-BSC
 
@@ -22,7 +22,7 @@ Measures the depth and readiness of internal candidates for leadership positions
 ## Formula
 
 ```
-Ready-Now Leaders per Critical Leadership Role
+LPSI-BSC = Ready-Now Leaders per Critical Leadership Role
 ```
 
 ## Unit

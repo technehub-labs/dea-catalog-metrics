@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rollback Rate** (RBR-CD) in the OpenDE
 - **Canonical id:** `dea:metric-rollback-rate`
 - **Name:** Rollback Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RBR-CD
 
@@ -18,7 +18,7 @@ Rollback Rate (RBR-CD) captures exposure to adverse outcomes for organizations t
 ## Formula
 
 ```
-Deployments Rolled Back / Deployments
+RBR-CD = Deployments Rolled Back / Deployments
 ```
 
 ## Unit

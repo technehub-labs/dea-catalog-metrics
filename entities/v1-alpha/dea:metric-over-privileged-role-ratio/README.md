@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Over-Privileged Role Ratio** (OPRR) in
 - **Canonical id:** `dea:metric-over-privileged-role-ratio`
 - **Name:** Over-Privileged Role Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OPRR
 
@@ -18,7 +18,7 @@ Within Cloud Security Posture Management, Over-Privileged Role Ratio (OPRR) is u
 ## Formula
 
 ```
-Roles Exceeding Required Permissions / Roles
+OPRR = Roles Exceeding Required Permissions / Roles
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Health Inspection Score Trend (Deep Di
 - **Canonical id:** `dea:metric-health-inspection-score-trend-deep-dive`
 - **Name:** Health Inspection Score Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HIST-D
 
@@ -22,7 +22,7 @@ Measures the trajectory of regulatory hygiene inspection results. Trend matters 
 ## Formula
 
 ```
-Change in Inspection Score over Time
+HIST-D = Change in Inspection Score over Time
 ```
 
 ## Unit

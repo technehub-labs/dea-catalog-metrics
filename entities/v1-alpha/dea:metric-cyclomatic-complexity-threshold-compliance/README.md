@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cyclomatic Complexity Threshold Compli
 - **Canonical id:** `dea:metric-cyclomatic-complexity-threshold-compliance`
 - **Name:** Cyclomatic Complexity Threshold Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCTC-SA
 
@@ -18,7 +18,7 @@ Within Software Architecture & Technical Design, Cyclomatic Complexity Threshold
 ## Formula
 
 ```
-Functions within Complexity Threshold / Functions
+CCTC-SA = Functions within Complexity Threshold / Functions
 ```
 
 ## Unit

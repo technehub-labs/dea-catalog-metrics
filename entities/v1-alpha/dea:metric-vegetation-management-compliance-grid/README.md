@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vegetation Management Compliance (Grid
 - **Canonical id:** `dea:metric-vegetation-management-compliance-grid`
 - **Name:** Vegetation Management Compliance (Grid)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VMC
 
@@ -22,7 +22,7 @@ Measures completion of vegetation clearance schedules along power lines. Vegetat
 ## Formula
 
 ```
-Spans Treated per Cycle Plan / Planned
+VMC = Spans Treated per Cycle Plan / Planned
 ```
 
 ## Unit

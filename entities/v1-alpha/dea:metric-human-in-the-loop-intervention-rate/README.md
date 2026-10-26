@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human-in-the-Loop Intervention Rate** 
 - **Canonical id:** `dea:metric-human-in-the-loop-intervention-rate`
 - **Name:** Human-in-the-Loop Intervention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HITL
 
@@ -22,7 +22,7 @@ Measures how often automated processes require human intervention. It matters be
 ## Formula
 
 ```
-Cases Requiring Human Override / Automated Cases
+HITL = Cases Requiring Human Override / Automated Cases
 ```
 
 ## Unit

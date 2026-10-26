@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stakeholder Notification Coverage** (S
 - **Canonical id:** `dea:metric-stakeholder-notification-coverage`
 - **Name:** Stakeholder Notification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SNC-CM
 
@@ -22,7 +22,7 @@ Measures whether all required stakeholders (regulators, customers, employees, pa
 ## Formula
 
 ```
-Priority Stakeholders Notified within Threshold / Stakeholders
+SNC-CM = Priority Stakeholders Notified within Threshold / Stakeholders
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Raw Mill Utilization** (RMU-C) in the 
 - **Canonical id:** `dea:metric-raw-mill-utilization`
 - **Name:** Raw Mill Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMU-C
 
@@ -18,7 +18,7 @@ Raw Mill Utilization (RMU-C) addresses the utilization or availability of capaci
 ## Formula
 
 ```
-Raw Mill Operating Time / Available Time
+RMU-C = Raw Mill Operating Time / Available Time
 ```
 
 ## Unit

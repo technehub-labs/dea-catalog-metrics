@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaky Test Rate** (FTR-CI) in the Open
 - **Canonical id:** `dea:metric-flaky-test-rate`
 - **Name:** Flaky Test Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTR-CI
 
@@ -18,7 +18,7 @@ Within Continuous Integration, Flaky Test Rate (FTR-CI) is used to gauge the qua
 ## Formula
 
 ```
-Tests Failing without Code Change / Test Runs
+FTR-CI = Tests Failing without Code Change / Test Runs
 ```
 
 ## Unit

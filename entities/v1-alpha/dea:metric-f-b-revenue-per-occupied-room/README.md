@@ -7,7 +7,7 @@ Candidate Performance Metric record for **F&B Revenue per Occupied Room** (FBRPO
 - **Canonical id:** `dea:metric-f-b-revenue-per-occupied-room`
 - **Name:** F&B Revenue per Occupied Room
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FBRPOR
 
@@ -18,7 +18,7 @@ Within Hotel & Resort Operations (Deep Dive), F&B Revenue per Occupied Room (FBR
 ## Formula
 
 ```
-F&B Revenue / Occupied Rooms
+FBRPOR = F&B Revenue / Occupied Rooms
 ```
 
 ## Unit

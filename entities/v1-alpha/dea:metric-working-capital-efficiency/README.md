@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Working Capital Efficiency** (WCE) in 
 - **Canonical id:** `dea:metric-working-capital-efficiency`
 - **Name:** Working Capital Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCE
 
@@ -22,7 +22,7 @@ The productivity of the cash tied up in operations - conventionally tracked as r
 ## Formula
 
 ```
-Revenue / (Current Assets - Current Liabilities)
+WCE = Revenue / (Current Assets - Current Liabilities)
 ```
 
 ## Unit

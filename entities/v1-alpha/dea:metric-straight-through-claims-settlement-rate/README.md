@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Straight-Through Claims Settlement Rat
 - **Canonical id:** `dea:metric-straight-through-claims-settlement-rate`
 - **Name:** Straight-Through Claims Settlement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STCS
 
@@ -22,7 +22,7 @@ Measures the share of claims settled end-to-end without manual handling. It is t
 ## Formula
 
 ```
-Claims Settled without Human Touch / Claims
+STCS = Claims Settled without Human Touch / Claims
 ```
 
 ## Unit

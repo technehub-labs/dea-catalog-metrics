@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gross Merchandise Value** (GMV) in the
 - **Canonical id:** `dea:metric-gross-merchandise-value`
 - **Name:** Gross Merchandise Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GMV
 
@@ -22,7 +22,7 @@ The total value of goods transacted on a platform before any take-rate deduction
 ## Formula
 
 ```
-Total Value of Goods Transacted via Platform
+GMV = Total Value of Goods Transacted via Platform
 ```
 
 ## Unit

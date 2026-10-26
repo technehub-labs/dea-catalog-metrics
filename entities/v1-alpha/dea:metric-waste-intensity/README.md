@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Intensity** (WI) in the OpenDEAM
 - **Canonical id:** `dea:metric-waste-intensity`
 - **Name:** Waste Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WI
 
@@ -22,7 +22,7 @@ Measures waste generated per unit of output or revenue. It matters because waste
 ## Formula
 
 ```
-Waste Mass / Unit Produced
+WI = Waste Mass / Unit Produced
 ```
 
 ## Unit

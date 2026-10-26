@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Platform Cost per TB** (DPC-TB) i
 - **Canonical id:** `dea:metric-data-platform-cost-per-tb`
 - **Name:** Data Platform Cost per TB
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPC-TB
 
@@ -18,7 +18,7 @@ Within Database & Data Platform Operations, Data Platform Cost per TB (DPC-TB) i
 ## Formula
 
 ```
-Monthly Platform Spend / Terabytes Managed
+DPC-TB = Monthly Platform Spend / Terabytes Managed
 ```
 
 ## Unit

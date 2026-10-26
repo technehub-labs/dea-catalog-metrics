@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Suggestions per 100 Employees
 - **Canonical id:** `dea:metric-employee-suggestions-per-100-employees`
 - **Name:** Employee Suggestions per 100 Employees
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESP100
 
@@ -18,7 +18,7 @@ Employee Suggestions per 100 Employees (ESP100) measures capability maturity or 
 ## Formula
 
 ```
-Suggestions Submitted per 100 Employees
+ESP100 = Suggestions Submitted per 100 Employees
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Initiative Decision Latency*
 - **Canonical id:** `dea:metric-strategic-initiative-decision-latency`
 - **Name:** Strategic Initiative Decision Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIDL
 
@@ -22,7 +22,7 @@ Measures how long strategic initiatives wait for the decisions they need from le
 ## Formula
 
 ```
-Days Strategic Decisions Wait beyond Target
+SIDL = Days Strategic Decisions Wait beyond Target
 ```
 
 ## Unit

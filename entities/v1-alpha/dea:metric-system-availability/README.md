@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Availability** (SYS-A) in the O
 - **Canonical id:** `dea:metric-system-availability`
 - **Name:** System Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SYS-A
 
@@ -22,7 +22,7 @@ The share of time a system is operational and accessible to users - the foundati
 ## Formula
 
 ```
-Uptime / Scheduled Availability
+SYS-A = Uptime / Scheduled Availability
 ```
 
 ## Unit

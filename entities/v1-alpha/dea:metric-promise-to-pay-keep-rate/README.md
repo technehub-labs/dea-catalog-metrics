@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promise-to-Pay Keep Rate** (PTPKR) in 
 - **Canonical id:** `dea:metric-promise-to-pay-keep-rate`
 - **Name:** Promise-to-Pay Keep Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTPKR
 
@@ -18,7 +18,7 @@ A Accounts Payable & Receivable Operations (Deep Dive) indicator, Promise-to-Pay
 ## Formula
 
 ```
-Kept Payment Promises / Promises Made
+PTPKR = Kept Payment Promises / Promises Made
 ```
 
 ## Unit

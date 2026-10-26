@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Line Yield (Deep Dive)** (LYL-D) in th
 - **Canonical id:** `dea:metric-line-yield-deep-dive`
 - **Name:** Line Yield (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LYL-D
 
@@ -22,7 +22,7 @@ Measures wafers surviving the full process flow without scrapping. It captures c
 ## Formula
 
 ```
-Wafers Completed / Wafers Started
+LYL-D = Wafers Completed / Wafers Started
 ```
 
 ## Unit

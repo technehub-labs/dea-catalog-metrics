@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Slot Utilization - Liner (Deep Dive)**
 - **Canonical id:** `dea:metric-slot-utilization-liner-deep-dive`
 - **Name:** Slot Utilization - Liner (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SUL-D
 
@@ -22,7 +22,7 @@ Measures the share of vessel slot capacity actually utilized. Slot utilization i
 ## Formula
 
 ```
-TEU Carried / TEU Capacity
+SUL-D = TEU Carried / TEU Capacity
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Runway Adequacy** (ARA-SA
 - **Canonical id:** `dea:metric-architecture-runway-adequacy`
 - **Name:** Architecture Runway Adequacy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARA-SA
 
@@ -22,7 +22,7 @@ Measures whether the architectural foundation (platform capabilities, patterns, 
 ## Formula
 
 ```
-Features with Architecture Runway Ready / Planned Features
+ARA-SA = Features with Architecture Runway Ready / Planned Features
 ```
 
 ## Unit

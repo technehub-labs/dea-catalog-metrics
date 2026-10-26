@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Auto-Remediation Execution Rate** (ARE
 - **Canonical id:** `dea:metric-auto-remediation-execution-rate`
 - **Name:** Auto-Remediation Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARER-NOC
 
@@ -22,7 +22,7 @@ Measures the share of standard network faults resolved automatically without hum
 ## Formula
 
 ```
-Alerts Auto-Remediated without Human Touch / Auto-Eligible Alerts
+ARER-NOC = Alerts Auto-Remediated without Human Touch / Auto-Eligible Alerts
 ```
 
 ## Unit

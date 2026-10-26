@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Audit Score (Supply Chain)*
 - **Canonical id:** `dea:metric-compliance-audit-score-supply-chain`
 - **Name:** Compliance Audit Score (Supply Chain)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CASC
 
@@ -22,7 +22,7 @@ Supply chain compliance audit scores measure supplier adherence to labor, safety
 ## Formula
 
 ```
-Weighted Score of Social and Environmental Audits
+CASC = Weighted Score of Social and Environmental Audits
 ```
 
 ## Unit

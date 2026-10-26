@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claimant Communication Frequency** (CC
 - **Canonical id:** `dea:metric-claimant-communication-frequency`
 - **Name:** Claimant Communication Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCF
 
@@ -18,7 +18,7 @@ Within Insurance Claims Deep Dive, Claimant Communication Frequency (CCF) is use
 ## Formula
 
 ```
-Proactive Claimant Updates per Claim Cycle
+CCF = Proactive Claimant Updates per Claim Cycle
 ```
 
 ## Unit

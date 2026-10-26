@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Support Tickets per 1,000 Users** (STK
 - **Canonical id:** `dea:metric-support-tickets-per-1-000-users`
 - **Name:** Support Tickets per 1,000 Users
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STK
 
@@ -18,7 +18,7 @@ Support Tickets per 1,000 Users (STK) captures the quality of outputs and outcom
 ## Formula
 
 ```
-Support Tickets / Users x 1,000
+STK = Support Tickets / Users x 1,000
 ```
 
 ## Unit

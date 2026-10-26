@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Criticality Assignment Coverage*
 - **Canonical id:** `dea:metric-asset-criticality-assignment-coverage`
 - **Name:** Asset Criticality Assignment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACAC-VM
 
@@ -18,7 +18,7 @@ Asset Criticality Assignment Coverage (ACAC-VM) addresses capability maturity or
 ## Formula
 
 ```
-Assets with Assigned Criticality / Assets
+ACAC-VM = Assets with Assigned Criticality / Assets
 ```
 
 ## Unit

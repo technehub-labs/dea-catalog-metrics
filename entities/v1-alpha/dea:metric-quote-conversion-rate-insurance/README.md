@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quote Conversion Rate (Insurance)** (Q
 - **Canonical id:** `dea:metric-quote-conversion-rate-insurance`
 - **Name:** Quote Conversion Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QCR-I
 
@@ -22,7 +22,7 @@ Measures the share of insurance quotes that become bound policies. It matters be
 ## Formula
 
 ```
-Quotes Converted to Bound Policies / Quotes Issued
+QCR-I = Quotes Converted to Bound Policies / Quotes Issued
 ```
 
 ## Unit

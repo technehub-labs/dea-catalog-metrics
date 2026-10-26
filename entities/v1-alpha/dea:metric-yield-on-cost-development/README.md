@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield on Cost (Development)** (YOC-RE)
 - **Canonical id:** `dea:metric-yield-on-cost-development`
 - **Name:** Yield on Cost (Development)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YOC-RE
 
@@ -22,7 +22,7 @@ Measures development's stabilized income relative to total project cost. Yield o
 ## Formula
 
 ```
-Stabilized NOI / Total Development Cost
+YOC-RE = Stabilized NOI / Total Development Cost
 ```
 
 ## Unit

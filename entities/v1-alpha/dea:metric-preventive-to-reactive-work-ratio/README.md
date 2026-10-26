@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Preventive-to-Reactive Work Ratio** (P
 - **Canonical id:** `dea:metric-preventive-to-reactive-work-ratio`
 - **Name:** Preventive-to-Reactive Work Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRWR-F
 
@@ -18,7 +18,7 @@ Preventive-to-Reactive Work Ratio (PRWR-F) addresses exposure to adverse outcome
 ## Formula
 
 ```
-PM Work Orders / Reactive Work Orders
+PRWR-F = PM Work Orders / Reactive Work Orders
 ```
 
 ## Unit

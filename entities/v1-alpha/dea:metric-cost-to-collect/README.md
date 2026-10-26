@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost to Collect** (CTC) in the OpenDEA
 - **Canonical id:** `dea:metric-cost-to-collect`
 - **Name:** Cost to Collect
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTC
 
@@ -22,7 +22,7 @@ Cost to collect measures revenue-cycle operating expense as a share of net patie
 ## Formula
 
 ```
-Total Revenue Cycle Cost / Collected Revenue
+CTC = Total Revenue Cycle Cost / Collected Revenue
 ```
 
 ## Unit

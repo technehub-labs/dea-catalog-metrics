@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collection Treatment Effectiveness** (
 - **Canonical id:** `dea:metric-collection-treatment-effectiveness`
 - **Name:** Collection Treatment Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTE-CC
 
@@ -18,7 +18,7 @@ Collection Treatment Effectiveness (CTE-CC) addresses how efficiently resources 
 ## Formula
 
 ```
-Cured Accounts per Treatment Strategy / Treated Accounts
+CTE-CC = Cured Accounts per Treatment Strategy / Treated Accounts
 ```
 
 ## Unit

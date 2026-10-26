@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Line Breakeven Coverage** (PLB
 - **Canonical id:** `dea:metric-product-line-breakeven-coverage`
 - **Name:** Product Line Breakeven Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLBC
 
@@ -22,7 +22,7 @@ Measures the share of a product line's fixed cost base covered by its contributi
 ## Formula
 
 ```
-Products above Breakeven Volume / Products Sold
+PLBC = Products above Breakeven Volume / Products Sold
 ```
 
 ## Unit

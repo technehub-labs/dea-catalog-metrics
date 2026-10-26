@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wellbeing Program Participation** (WPP
 - **Canonical id:** `dea:metric-wellbeing-program-participation`
 - **Name:** Wellbeing Program Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPP
 
@@ -22,7 +22,7 @@ Measures employee take-up of wellbeing offerings. It matters because participati
 ## Formula
 
 ```
-Employees Participating in Wellbeing Programs / Eligible Employees
+WPP = Employees Participating in Wellbeing Programs / Eligible Employees
 ```
 
 ## Unit

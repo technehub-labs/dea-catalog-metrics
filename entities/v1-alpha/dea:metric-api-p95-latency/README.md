@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API P95 Latency** (APIP95) in the Open
 - **Canonical id:** `dea:metric-api-p95-latency`
 - **Name:** API P95 Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APIP95
 
@@ -18,7 +18,7 @@ A API Lifecycle Management indicator, API P95 Latency (APIP95) quantifies the qu
 ## Formula
 
 ```
-95th Percentile Round-Trip Response Time
+APIP95 = 95th Percentile Round-Trip Response Time
 ```
 
 ## Unit

@@ -8,7 +8,7 @@ description: Within Statistical Model Performance Diagnostics, Gini Coefficient 
   It originates from and is most used in Software practice.
 abbreviation: GINIM
 unit: index
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - information_architecture
@@ -26,7 +26,7 @@ source_credit: Corrado Gini, 1912
 calculation_definition: 2 x AUC - 1 (Rank Discrimination Power)
 formula_definition:
   formula_id: dea:formula-gini-coefficient-model-discrimination
-  expression: 2 x AUC - 1 (Rank Discrimination Power)
+  expression: GINIM = 2 x AUC - 1 (Rank Discrimination Power)
   inputs:
   - name: 2 x AUC
   - name: Rank Discrimination Power
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-index
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '9'
 domain: statistical_model_performance_diagnostics
 sector: software
+subject_concept: dea:subject-gini_coefficient_model_discrimination
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 4067
+  - Corrado Gini, 1912
+  known_limitations: []

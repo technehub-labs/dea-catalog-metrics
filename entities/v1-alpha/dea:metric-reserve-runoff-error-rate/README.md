@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Reserve Runoff Error Rate** (RRER) in 
 - **Canonical id:** `dea:metric-reserve-runoff-error-rate`
 - **Name:** Reserve Runoff Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRER
 
@@ -22,7 +22,7 @@ Measures the error in estimates as loss cohorts run off to ultimate, tracking de
 ## Formula
 
 ```
-Absolute Reserve Error at Runtime / Original Reserve
+RRER = Absolute Reserve Error at Runtime / Original Reserve
 ```
 
 ## Unit

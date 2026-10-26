@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discount Leakage** (DLK) in the OpenDE
 - **Canonical id:** `dea:metric-discount-leakage`
 - **Name:** Discount Leakage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLK
 
@@ -22,7 +22,7 @@ Discount leakage measures price erosion beyond policy-approved discounts - the g
 ## Formula
 
 ```
-Discount Value Granted outside Policy / Gross Sales Value
+DLK = Discount Value Granted outside Policy / Gross Sales Value
 ```
 
 ## Unit

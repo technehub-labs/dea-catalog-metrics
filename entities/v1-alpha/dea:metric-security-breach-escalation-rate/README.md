@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Breach Escalation Rate** (SBE
 - **Canonical id:** `dea:metric-security-breach-escalation-rate`
 - **Name:** Security Breach Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SBER
 
@@ -18,7 +18,7 @@ Security Breach Escalation Rate (SBER) addresses exposure to adverse outcomes an
 ## Formula
 
 ```
-Breaches Escalated / Breaches Detected
+SBER = Breaches Escalated / Breaches Detected
 ```
 
 ## Unit

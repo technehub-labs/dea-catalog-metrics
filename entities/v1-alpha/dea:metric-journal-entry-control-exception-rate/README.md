@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Journal Entry Control Exception Rate**
 - **Canonical id:** `dea:metric-journal-entry-control-exception-rate`
 - **Name:** Journal Entry Control Exception Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JECE
 
@@ -18,7 +18,7 @@ Journal Entry Control Exception Rate (JECE) captures exposure to adverse outcome
 ## Formula
 
 ```
-Manual Journal Entries Breaching Control / Manual Entries
+JECE = Manual Journal Entries Breaching Control / Manual Entries
 ```
 
 ## Unit

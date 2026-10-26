@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Impact Assessment Coverage** (C
 - **Canonical id:** `dea:metric-change-impact-assessment-coverage`
 - **Name:** Change Impact Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIAC
 
@@ -22,7 +22,7 @@ Measures the share of changes with completed impact assessments. It matters beca
 ## Formula
 
 ```
-Changes with Documented Impact Assessment / Changes Approved
+CIAC = Changes with Documented Impact Assessment / Changes Approved
 ```
 
 ## Unit

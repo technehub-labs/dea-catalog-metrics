@@ -103,13 +103,20 @@ def blockers(metric: dict) -> list:
 
 
 def signature(metric: dict):
-    """The 5-axis MECE signature (Gate 3)."""
+    """The MECE uniqueness key (Gate 3).
+
+    CR-MET-020 extended it with subject_concept: the metamodel says the
+    concept "distinguishes a Metric by what it measures rather than by its
+    MECE label", and with the label alone the corpus collapsed 4423 records
+    into 500 signatures.
+    """
     return (
         tuple(sorted(metric.get("subject_classification") or [])),
         tuple(sorted(metric.get("purpose_classification") or [])),
         metric.get("orientation_classification"),
         tuple(sorted(metric.get("scope_classification") or [])),
         metric.get("directionality"),
+        metric.get("subject_concept"),
     )
 
 

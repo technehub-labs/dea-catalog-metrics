@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hedge Effectiveness Ratio** (HER) in t
 - **Canonical id:** `dea:metric-hedge-effectiveness-ratio`
 - **Name:** Hedge Effectiveness Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HER
 
@@ -22,7 +22,7 @@ Measures how much of an exposure's value change is offset by the hedge. It matte
 ## Formula
 
 ```
-Change in Hedge Fair Value / Change in Hedged Exposure Value
+HER = Change in Hedge Fair Value / Change in Hedged Exposure Value
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Away, Restricted, or Transferred*
 - **Canonical id:** `dea:metric-days-away-restricted-or-transferred`
 - **Name:** Days Away, Restricted, or Transferred
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DART
 
@@ -22,7 +22,7 @@ DART, an OSHA measure, counts injuries per 200,000 hours that resulted in days a
 ## Formula
 
 ```
-(DART Cases x 200,000) / Total Hours Worked
+DART = (DART Cases x 200,000) / Total Hours Worked
 ```
 
 ## Unit

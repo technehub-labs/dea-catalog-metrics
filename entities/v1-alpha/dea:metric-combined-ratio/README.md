@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Combined Ratio** (CoR) in the OpenDEAM
 - **Canonical id:** `dea:metric-combined-ratio`
 - **Name:** Combined Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CoR
 
@@ -22,7 +22,7 @@ The combined ratio - loss ratio plus expense ratio - is the insurance industry's
 ## Formula
 
 ```
-(Incurred Losses + Expenses) / Earned Premiums
+CoR = (Incurred Losses + Expenses) / Earned Premiums
 ```
 
 ## Unit

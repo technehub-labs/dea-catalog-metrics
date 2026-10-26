@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downside Capture Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-downside-capture-ratio-deep-dive`
 - **Name:** Downside Capture Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-IM
 
@@ -22,7 +22,7 @@ Measures the percentage of benchmark losses the portfolio realizes in down marke
 ## Formula
 
 ```
-Fund Downside Return / Benchmark Downside Return
+DCR-IM = Fund Downside Return / Benchmark Downside Return
 ```
 
 ## Unit

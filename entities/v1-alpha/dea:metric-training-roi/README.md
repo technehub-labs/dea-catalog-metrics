@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training ROI** (TRoi) in the OpenDEAM 
 - **Canonical id:** `dea:metric-training-roi`
 - **Name:** Training ROI
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TRoi
 
@@ -22,7 +22,7 @@ Measures the business return generated per unit of training investment. It matte
 ## Formula
 
 ```
-(Productivity Gain - Training Cost) / Training Cost
+TRoi = (Productivity Gain - Training Cost) / Training Cost
 ```
 
 ## Unit

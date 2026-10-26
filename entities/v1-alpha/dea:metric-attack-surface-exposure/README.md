@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attack Surface Exposure** (ASE) in the
 - **Canonical id:** `dea:metric-attack-surface-exposure`
 - **Name:** Attack Surface Exposure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASE
 
@@ -22,7 +22,7 @@ Measures the count and severity of internet-facing exposures across ports, servi
 ## Formula
 
 ```
-Internet-Exposed Assets Requiring Remediation
+ASE = Internet-Exposed Assets Requiring Remediation
 ```
 
 ## Unit

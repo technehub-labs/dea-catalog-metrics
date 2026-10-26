@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Budget Variance** (EBV-E) in the
 - **Canonical id:** `dea:metric-event-budget-variance`
 - **Name:** Event Budget Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBV-E
 
@@ -18,7 +18,7 @@ Event Budget Variance (EBV-E) addresses how efficiently resources are converted 
 ## Formula
 
 ```
-Actual Spend - Budget / Budget
+EBV-E = Actual Spend - Budget / Budget
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchandise Attach Rate (Venues)** (MA
 - **Canonical id:** `dea:metric-merchandise-attach-rate-venues`
 - **Name:** Merchandise Attach Rate (Venues)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAR-V
 
@@ -18,7 +18,7 @@ A Entertainment Venues & Attractions indicator, Merchandise Attach Rate (Venues)
 ## Formula
 
 ```
-Guests Purchasing Merchandise / Guests
+MAR-V = Guests Purchasing Merchandise / Guests
 ```
 
 ## Unit

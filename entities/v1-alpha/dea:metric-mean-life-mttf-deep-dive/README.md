@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Life (MTTF Deep Dive)** (MLDD) in
 - **Canonical id:** `dea:metric-mean-life-mttf-deep-dive`
 - **Name:** Mean Life (MTTF Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MLDD
 
@@ -22,7 +22,7 @@ Measures the average time to failure for non-repairable assets. MTTF drives spar
 ## Formula
 
 ```
-Total Operating Time to Failure / Failed Units
+MLDD = Total Operating Time to Failure / Failed Units
 ```
 
 ## Unit

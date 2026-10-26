@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Square Metre Sell-Through** (NSMS)
 - **Canonical id:** `dea:metric-net-square-metre-sell-through`
 - **Name:** Net Square Metre Sell-Through
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSMS
 
@@ -22,7 +22,7 @@ Measures sold exhibition space against available space. It is the capacity utili
 ## Formula
 
 ```
-Sold Exhibition Area / Sellable Area
+NSMS = Sold Exhibition Area / Sellable Area
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Rights Clarity Index** (DRCI)
 - **Canonical id:** `dea:metric-decision-rights-clarity-index`
 - **Name:** Decision Rights Clarity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRCI
 
@@ -22,7 +22,7 @@ Measures how unambiguously decision authority is assigned across the organizatio
 ## Formula
 
 ```
-Survey Score on Decision Authority Clarity
+DRCI = Survey Score on Decision Authority Clarity
 ```
 
 ## Unit

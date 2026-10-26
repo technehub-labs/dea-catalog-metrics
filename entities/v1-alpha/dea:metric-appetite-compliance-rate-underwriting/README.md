@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appetite Compliance Rate (Underwriting
 - **Canonical id:** `dea:metric-appetite-compliance-rate-underwriting`
 - **Name:** Appetite Compliance Rate (Underwriting)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR-U
 
@@ -22,7 +22,7 @@ Measures the share of written business that conforms to the stated underwriting 
 ## Formula
 
 ```
-Risks Written within Appetite Guidelines / Risks Written
+ACR-U = Risks Written within Appetite Guidelines / Risks Written
 ```
 
 ## Unit

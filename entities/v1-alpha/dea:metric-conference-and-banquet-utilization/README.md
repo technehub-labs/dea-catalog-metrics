@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conference and Banquet Utilization** (
 - **Canonical id:** `dea:metric-conference-and-banquet-utilization`
 - **Name:** Conference and Banquet Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CBU
 
@@ -18,7 +18,7 @@ Within Hotel & Resort Operations (Deep Dive), Conference and Banquet Utilization
 ## Formula
 
 ```
-Function Space Revenue / Available Function Space Time
+CBU = Function Space Revenue / Available Function Space Time
 ```
 
 ## Unit

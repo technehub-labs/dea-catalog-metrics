@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Trip Cost Ratio** (PTCR-AT) 
 - **Canonical id:** `dea:metric-passenger-trip-cost-ratio`
 - **Name:** Passenger Trip Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTCR-AT
 
@@ -22,7 +22,7 @@ Measures the share of a passenger's ticket price consumed by trip cost. It frame
 ## Formula
 
 ```
-Total Operating Cost / Passengers Carried
+PTCR-AT = Total Operating Cost / Passengers Carried
 ```
 
 ## Unit

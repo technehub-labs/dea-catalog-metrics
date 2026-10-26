@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Departure Rate (Airport)** (OT
 - **Canonical id:** `dea:metric-on-time-departure-rate-airport`
 - **Name:** On-Time Departure Rate (Airport)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTDA
 
@@ -22,7 +22,7 @@ On-time departure rate measures flights pushing back within 15 minutes of schedu
 ## Formula
 
 ```
-Flights Departing within Threshold / Scheduled Departures
+OTDA = Flights Departing within Threshold / Scheduled Departures
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Predictive Precision** (APP)
 - **Canonical id:** `dea:metric-attrition-predictive-precision`
 - **Name:** Attrition Predictive Precision
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APP
 
@@ -22,7 +22,7 @@ Measures how accurately attrition models predict actual leavers. It matters beca
 ## Formula
 
 ```
-True At-Risk Departures Predicted / Predicted Departures
+APP = True At-Risk Departures Predicted / Predicted Departures
 ```
 
 ## Unit

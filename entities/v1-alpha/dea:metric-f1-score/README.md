@@ -7,7 +7,7 @@ Candidate Performance Metric record for **F1 Score** (F1SC) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-f1-score`
 - **Name:** F1 Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** F1SC
 
@@ -18,7 +18,7 @@ Within Statistical Model Performance Diagnostics, F1 Score (F1SC) is used to gau
 ## Formula
 
 ```
-Harmonic Mean of Precision and Recall
+F1SC = Harmonic Mean of Precision and Recall
 ```
 
 ## Unit

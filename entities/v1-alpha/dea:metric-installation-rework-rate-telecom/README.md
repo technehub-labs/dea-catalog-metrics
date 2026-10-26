@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Installation Rework Rate (Telecom)** (
 - **Canonical id:** `dea:metric-installation-rework-rate-telecom`
 - **Name:** Installation Rework Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRRT
 
@@ -18,7 +18,7 @@ Installation Rework Rate (Telecom) (IRRT) addresses the quality of outputs and o
 ## Formula
 
 ```
-Jobs Requiring Return Visit / Jobs Completed
+IRRT = Jobs Requiring Return Visit / Jobs Completed
 ```
 
 ## Unit

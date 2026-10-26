@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Claims FNOL Adoption** (DCFA-I
 - **Canonical id:** `dea:metric-digital-claims-fnol-adoption`
 - **Name:** Digital Claims FNOL Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCFA-I
 
@@ -22,7 +22,7 @@ Measures the share of first notices of loss submitted through digital channels. 
 ## Formula
 
 ```
-Digital First Notifications / Total FNOLs
+DCFA-I = Digital First Notifications / Total FNOLs
 ```
 
 ## Unit

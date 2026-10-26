@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rack Space Utilization** (RSU) in the 
 - **Canonical id:** `dea:metric-rack-space-utilization`
 - **Name:** Rack Space Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSU
 
@@ -22,7 +22,7 @@ Measures the share of rack positions filled in data center facilities. It matter
 ## Formula
 
 ```
-Occupied Rack Units / Total Rack Units
+RSU = Occupied Rack Units / Total Rack Units
 ```
 
 ## Unit

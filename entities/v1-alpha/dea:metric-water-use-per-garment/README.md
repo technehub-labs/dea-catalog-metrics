@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Use per Garment** (WUG) in the O
 - **Canonical id:** `dea:metric-water-use-per-garment`
 - **Name:** Water Use per Garment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WUG
 
@@ -22,7 +22,7 @@ Measures water consumed per unit produced, including wet processing. Textile wet
 ## Formula
 
 ```
-Litres of Water Used / Garment
+WUG = Litres of Water Used / Garment
 ```
 
 ## Unit

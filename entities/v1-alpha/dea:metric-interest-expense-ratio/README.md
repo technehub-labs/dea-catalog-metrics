@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interest Expense Ratio** (IER) in the 
 - **Canonical id:** `dea:metric-interest-expense-ratio`
 - **Name:** Interest Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IER
 
@@ -22,7 +22,7 @@ Measures interest expense as a share of revenue or operating income. It matters 
 ## Formula
 
 ```
-Interest Expense / Total Debt
+IER = Interest Expense / Total Debt
 ```
 
 ## Unit

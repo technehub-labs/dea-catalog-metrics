@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recurring Findings Rate** (RFR) in the
 - **Canonical id:** `dea:metric-recurring-findings-rate`
 - **Name:** Recurring Findings Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFR
 
@@ -22,7 +22,7 @@ The share of audit findings that repeat from prior cycles - the metric that meas
 ## Formula
 
 ```
-Findings Repeated from Prior Cycle / Total Findings
+RFR = Findings Repeated from Prior Cycle / Total Findings
 ```
 
 ## Unit

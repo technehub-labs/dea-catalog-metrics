@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logo Churn Rate (Deep Dive)** (LCR-D) 
 - **Canonical id:** `dea:metric-logo-churn-rate-deep-dive`
 - **Name:** Logo Churn Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCR-D
 
@@ -22,7 +22,7 @@ Measures the share of customer accounts lost, regardless of revenue weight. Logo
 ## Formula
 
 ```
-Cancelled Accounts / Total Accounts
+LCR-D = Cancelled Accounts / Total Accounts
 ```
 
 ## Unit

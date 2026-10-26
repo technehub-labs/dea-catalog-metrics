@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Accuracy** (FA) in the OpenDE
 - **Canonical id:** `dea:metric-forecast-accuracy`
 - **Name:** Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FA
 
@@ -22,7 +22,7 @@ Measures how close the sales forecast lands to actual bookings. It matters becau
 ## Formula
 
 ```
-1 - ABS(Actual - Forecast) / Actual
+FA = 1 - ABS(Actual - Forecast) / Actual
 ```
 
 ## Unit

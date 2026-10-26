@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Story Point Estimation Consistency** (
 - **Canonical id:** `dea:metric-story-point-estimation-consistency`
 - **Name:** Story Point Estimation Consistency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPEC-AG
 
@@ -18,7 +18,7 @@ Story Point Estimation Consistency (SPEC-AG) captures the quality of outputs and
 ## Formula
 
 ```
-Estimation Variance across Similar Stories
+SPEC-AG = Estimation Variance across Similar Stories
 ```
 
 ## Unit

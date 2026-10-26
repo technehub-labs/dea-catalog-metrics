@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Change Response Time** (RCR
 - **Canonical id:** `dea:metric-regulatory-change-response-time`
 - **Name:** Regulatory Change Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCRT
 
@@ -22,7 +22,7 @@ Measures time from regulatory change publication to implemented compliance respo
 ## Formula
 
 ```
-Days from Regulatory Publication to Compliance Action
+RCRT = Days from Regulatory Publication to Compliance Action
 ```
 
 ## Unit

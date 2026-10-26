@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bug Backlog Age** (BBA) in the OpenDEA
 - **Canonical id:** `dea:metric-bug-backlog-age`
 - **Name:** Bug Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BBA
 
@@ -18,7 +18,7 @@ Bug Backlog Age (BBA) captures exposure to adverse outcomes for organizations tr
 ## Formula
 
 ```
-Median Age of Open Defects
+BBA = Median Age of Open Defects
 ```
 
 ## Unit

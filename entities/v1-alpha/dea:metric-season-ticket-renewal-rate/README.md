@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Season Ticket Renewal Rate** (STRR) in
 - **Canonical id:** `dea:metric-season-ticket-renewal-rate`
 - **Name:** Season Ticket Renewal Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STRR
 
@@ -22,7 +22,7 @@ Season ticket renewal rate measures the share of season-ticket holders retaining
 ## Formula
 
 ```
-Season Tickets Renewed / Season Tickets Expiring
+STRR = Season Tickets Renewed / Season Tickets Expiring
 ```
 
 ## Unit

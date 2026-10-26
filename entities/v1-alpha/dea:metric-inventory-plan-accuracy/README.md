@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Plan Accuracy** (IPA-S) in t
 - **Canonical id:** `dea:metric-inventory-plan-accuracy`
 - **Name:** Inventory Plan Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPA-S
 
@@ -22,7 +22,7 @@ Measures how closely actual inventory lands against the S&OP inventory plan. It 
 ## Formula
 
 ```
-Inventory per Plan / Actual Inventory
+IPA-S = Inventory per Plan / Actual Inventory
 ```
 
 ## Unit

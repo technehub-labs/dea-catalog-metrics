@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Iteration Count** (FIC-FP) in
 - **Canonical id:** `dea:metric-forecast-iteration-count`
 - **Name:** Forecast Iteration Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FIC-FP
 
@@ -18,7 +18,7 @@ Forecast Iteration Count (FIC-FP) measures how efficiently resources are convert
 ## Formula
 
 ```
-Review Cycles needed per Forecast Sign-Off
+FIC-FP = Review Cycles needed per Forecast Sign-Off
 ```
 
 ## Unit

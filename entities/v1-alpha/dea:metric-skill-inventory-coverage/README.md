@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Skill Inventory Coverage** (SIC-W) in 
 - **Canonical id:** `dea:metric-skill-inventory-coverage`
 - **Name:** Skill Inventory Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIC-W
 
@@ -22,7 +22,7 @@ Measures the share of the workforce with verified, current skill profiles in the
 ## Formula
 
 ```
-Employees with Current Skills Profile / Employees
+SIC-W = Employees with Current Skills Profile / Employees
 ```
 
 ## Unit

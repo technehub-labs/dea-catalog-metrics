@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Source-to-Target Conformance Rate** (S
 - **Canonical id:** `dea:metric-source-to-target-conformance-rate`
 - **Name:** Source-to-Target Conformance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STCR
 
@@ -18,7 +18,7 @@ Source-to-Target Conformance Rate (STCR) measures the quality of outputs and out
 ## Formula
 
 ```
-ETL Outputs Conforming to Target Schema and Rules / Outputs
+STCR = ETL Outputs Conforming to Target Schema and Rules / Outputs
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Trail Completeness for AI Decisi
 - **Canonical id:** `dea:metric-audit-trail-completeness-for-ai-decisions`
 - **Name:** Audit Trail Completeness for AI Decisions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATCAD
 
@@ -22,7 +22,7 @@ Measures whether automated decisions are logged with inputs, model version, outp
 ## Formula
 
 ```
-Decisions with Complete Audit Trail / Decisions Sampled
+ATCAD = Decisions with Complete Audit Trail / Decisions Sampled
 ```
 
 ## Unit

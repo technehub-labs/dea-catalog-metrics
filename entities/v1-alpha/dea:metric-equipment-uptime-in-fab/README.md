@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equipment Uptime in Fab** (EUPT) in th
 - **Canonical id:** `dea:metric-equipment-uptime-in-fab`
 - **Name:** Equipment Uptime in Fab
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EUPT
 
@@ -18,7 +18,7 @@ Equipment Uptime in Fab (EUPT) addresses the utilization or availability of capa
 ## Formula
 
 ```
-Tool Productive Time / Total Tool Time
+EUPT = Tool Productive Time / Total Tool Time
 ```
 
 ## Unit

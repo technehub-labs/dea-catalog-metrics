@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager Effectiveness Index (Deep Dive
 - **Canonical id:** `dea:metric-manager-effectiveness-index-deep-dive`
 - **Name:** Manager Effectiveness Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MEIDD
 
@@ -22,7 +22,7 @@ Measures aggregate manager quality as rated by their teams. Managers are the lar
 ## Formula
 
 ```
-Upward Feedback Composite for People Managers
+MEIDD = Upward Feedback Composite for People Managers
 ```
 
 ## Unit

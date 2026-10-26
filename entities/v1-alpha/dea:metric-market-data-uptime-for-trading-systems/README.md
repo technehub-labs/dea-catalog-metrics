@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Market Data Uptime for Trading Systems
 - **Canonical id:** `dea:metric-market-data-uptime-for-trading-systems`
 - **Name:** Market Data Uptime for Trading Systems
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDUT-T
 
@@ -22,7 +22,7 @@ Measures availability of critical market data feeds during trading hours. Data g
 ## Formula
 
 ```
-Feed Available Time / Required Time
+MDUT-T = Feed Available Time / Required Time
 ```
 
 ## Unit

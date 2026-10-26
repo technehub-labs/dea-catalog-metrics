@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Radio Site Acceptance First Pass** (RS
 - **Canonical id:** `dea:metric-radio-site-acceptance-first-pass`
 - **Name:** Radio Site Acceptance First Pass
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSAF
 
@@ -22,7 +22,7 @@ Measures the share of built network sites passing acceptance testing first time.
 ## Formula
 
 ```
-Sites Accepted on First Inspection / Sites Inspected
+RSAF = Sites Accepted on First Inspection / Sites Inspected
 ```
 
 ## Unit

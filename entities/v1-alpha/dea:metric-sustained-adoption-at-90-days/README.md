@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustained Adoption at 90 Days** (SA90)
 - **Canonical id:** `dea:metric-sustained-adoption-at-90-days`
 - **Name:** Sustained Adoption at 90 Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SA90
 
@@ -22,7 +22,7 @@ Measures whether new behaviors and tool usage persist ninety days after launch, 
 ## Formula
 
 ```
-Users Still Adopting at 90 Days / Initial Adopters
+SA90 = Users Still Adopting at 90 Days / Initial Adopters
 ```
 
 ## Unit

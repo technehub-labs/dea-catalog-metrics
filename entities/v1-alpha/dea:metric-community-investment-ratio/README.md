@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Community Investment Ratio** (CIR2) in
 - **Canonical id:** `dea:metric-community-investment-ratio`
 - **Name:** Community Investment Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIR2
 
@@ -22,7 +22,7 @@ Corporate contribution to community causes - funding, in-kind resources, and emp
 ## Formula
 
 ```
-Community Investment Spend / Pre-Tax Profit
+CIR2 = Community Investment Spend / Pre-Tax Profit
 ```
 
 ## Unit

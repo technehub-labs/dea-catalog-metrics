@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Automation Upgrade Compliance** (AUC) 
 - **Canonical id:** `dea:metric-automation-upgrade-compliance`
 - **Name:** Automation Upgrade Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUC
 
@@ -18,7 +18,7 @@ Within Industrial Automation & Robotics, Automation Upgrade Compliance (AUC) is 
 ## Formula
 
 ```
-Cells Running Current Firmware and Safety Config / Cells
+AUC = Cells Running Current Firmware and Safety Config / Cells
 ```
 
 ## Unit

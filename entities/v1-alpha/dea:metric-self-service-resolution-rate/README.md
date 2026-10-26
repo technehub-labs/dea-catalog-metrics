@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Resolution Rate** (SSRR) 
 - **Canonical id:** `dea:metric-self-service-resolution-rate`
 - **Name:** Self-Service Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSRR
 
@@ -22,7 +22,7 @@ Measures the share of support issues resolved entirely through self-service chan
 ## Formula
 
 ```
-Self-Service Resolutions / Total Service Requests
+SSRR = Self-Service Resolutions / Total Service Requests
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tenant Satisfaction Score (Portfolio)*
 - **Canonical id:** `dea:metric-tenant-satisfaction-score-portfolio`
 - **Name:** Tenant Satisfaction Score (Portfolio)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSS-P
 
@@ -22,7 +22,7 @@ Measures occupant satisfaction with building services, management responsiveness
 ## Formula
 
 ```
-Average Tenant Survey Score
+TSS-P = Average Tenant Survey Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Paper Machine Efficiency** (PME) in th
 - **Canonical id:** `dea:metric-paper-machine-efficiency`
 - **Name:** Paper Machine Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PME
 
@@ -18,7 +18,7 @@ Paper Machine Efficiency (PME) measures the utilization or availability of capac
 ## Formula
 
 ```
-Good Production Time / Available Time
+PME = Good Production Time / Available Time
 ```
 
 ## Unit

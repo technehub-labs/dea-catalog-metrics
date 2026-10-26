@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Usage Frequency** (PUF) in the
 - **Canonical id:** `dea:metric-product-usage-frequency`
 - **Name:** Product Usage Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PUF
 
@@ -22,7 +22,7 @@ Measures how often active customers use the product in a period. It matters beca
 ## Formula
 
 ```
-Active Usage Days / Eligible Days per Account
+PUF = Active Usage Days / Eligible Days per Account
 ```
 
 ## Unit

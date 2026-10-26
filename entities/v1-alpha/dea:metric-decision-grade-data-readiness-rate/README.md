@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision-Grade Data Readiness Rate** (
 - **Canonical id:** `dea:metric-decision-grade-data-readiness-rate`
 - **Name:** Decision-Grade Data Readiness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DGDRA
 
@@ -22,7 +22,7 @@ Measures whether the data feeding major decision processes meets the quality bar
 ## Formula
 
 ```
-Enterprise Reports Sourced from Governed Data / Reports
+DGDRA = Enterprise Reports Sourced from Governed Data / Reports
 ```
 
 ## Unit

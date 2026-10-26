@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Store Staffing Ratio** (SSR2) in the O
 - **Canonical id:** `dea:metric-store-staffing-ratio`
 - **Name:** Store Staffing Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSR2
 
@@ -18,7 +18,7 @@ Within Retail & E-commerce, Store Staffing Ratio (SSR2) is used to gauge the uti
 ## Formula
 
 ```
-Labor Hours / Store Operating Hours
+SSR2 = Labor Hours / Store Operating Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Missort Rate (Deep Dive)** (MSR-D) in 
 - **Canonical id:** `dea:metric-missort-rate-deep-dive`
 - **Name:** Missort Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR-D
 
@@ -18,7 +18,7 @@ A Parcel & Last-Mile Logistics (Deep Dive) indicator, Missort Rate (Deep Dive) (
 ## Formula
 
 ```
-Misrouted Parcels / Parcels Sorted
+MSR-D = Misrouted Parcels / Parcels Sorted
 ```
 
 ## Unit

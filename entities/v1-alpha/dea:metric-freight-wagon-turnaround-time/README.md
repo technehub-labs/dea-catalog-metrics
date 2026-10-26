@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freight Wagon Turnaround Time** (FWTT)
 - **Canonical id:** `dea:metric-freight-wagon-turnaround-time`
 - **Name:** Freight Wagon Turnaround Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FWTT
 
@@ -18,7 +18,7 @@ Freight Wagon Turnaround Time (FWTT) addresses how efficiently resources are con
 ## Formula
 
 ```
-Days from Loading to Return for Loading
+FWTT = Days from Loading to Return for Loading
 ```
 
 ## Unit

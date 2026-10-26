@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ransomware Readiness Score** (RRS-TI) 
 - **Canonical id:** `dea:metric-ransomware-readiness-score`
 - **Name:** Ransomware Readiness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRS-TI
 
@@ -22,7 +22,7 @@ Measures composite readiness across backups, detection, response, and recovery a
 ## Formula
 
 ```
-Composite Score across Tabletop, Recovery and Detection Tests
+RRS-TI = Composite Score across Tabletop, Recovery and Detection Tests
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **GOPPAR - Gross Operating Profit per Av
 - **Canonical id:** `dea:metric-goppar-gross-operating-profit-per-available-room`
 - **Name:** GOPPAR - Gross Operating Profit per Available Room
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GOPPAR
 
@@ -22,7 +22,7 @@ GOPPAR divides gross operating profit by available rooms, capturing what a prope
 ## Formula
 
 ```
-Gross Operating Profit / Available Room Nights
+GOPPAR = Gross Operating Profit / Available Room Nights
 ```
 
 ## Unit

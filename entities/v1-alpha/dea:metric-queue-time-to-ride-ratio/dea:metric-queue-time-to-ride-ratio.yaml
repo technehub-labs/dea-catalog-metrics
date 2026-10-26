@@ -8,7 +8,7 @@ description: 'Queue Time to Ride Ratio (QTRR) addresses the quality of outputs a
   Entertainment, it is a recognized element of the standard performance toolkit.'
 abbreviation: QTRR
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - product_or_service
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Average Wait Time / Ride Duration
 formula_definition:
   formula_id: dea:formula-queue-time-to-ride-ratio
-  expression: Average Wait Time / Ride Duration
+  expression: QTRR = Average Wait Time / Ride Duration
   inputs:
   - name: Average Wait Time
   - name: Ride Duration
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: entertainment_venues_attractions
 sector: media_entertainment
+subject_concept: dea:subject-queue_time_to_ride
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1952
+  - Public domain - no attribution required
+  known_limitations: []

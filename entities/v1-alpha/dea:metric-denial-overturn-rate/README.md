@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Denial Overturn Rate** (DOR) in the Op
 - **Canonical id:** `dea:metric-denial-overturn-rate`
 - **Name:** Denial Overturn Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOR
 
@@ -22,7 +22,7 @@ Measures the share of denied claims successfully appealed and paid. It matters b
 ## Formula
 
 ```
-Denials Reversed on Appeal / Denials Appealed
+DOR = Denials Reversed on Appeal / Denials Appealed
 ```
 
 ## Unit

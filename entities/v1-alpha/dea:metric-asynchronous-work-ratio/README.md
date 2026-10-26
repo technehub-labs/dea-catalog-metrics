@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asynchronous Work Ratio** (ASWR) in th
 - **Canonical id:** `dea:metric-asynchronous-work-ratio`
 - **Name:** Asynchronous Work Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASWR
 
@@ -22,7 +22,7 @@ Measures the share of collaboration done asynchronously rather than in meetings.
 ## Formula
 
 ```
-Async Communications / Total Team Communications
+ASWR = Async Communications / Total Team Communications
 ```
 
 ## Unit

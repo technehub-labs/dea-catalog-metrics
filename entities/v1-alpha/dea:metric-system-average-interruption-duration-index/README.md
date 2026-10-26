@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Duration I
 - **Canonical id:** `dea:metric-system-average-interruption-duration-index`
 - **Name:** System Average Interruption Duration Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAIDI
 
@@ -22,7 +22,7 @@ The average minutes of sustained outage each customer experiences per year - the
 ## Formula
 
 ```
-Total Customer Interruption Minutes / Total Customers Served
+SAIDI = Total Customer Interruption Minutes / Total Customers Served
 ```
 
 ## Unit

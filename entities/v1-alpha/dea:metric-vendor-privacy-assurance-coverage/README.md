@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Privacy Assurance Coverage** (V
 - **Canonical id:** `dea:metric-vendor-privacy-assurance-coverage`
 - **Name:** Vendor Privacy Assurance Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPAC
 
@@ -22,7 +22,7 @@ Measures the share of vendors handling personal data under verified privacy assu
 ## Formula
 
 ```
-Vendors with DPAs and Assessments / Vendors Handling Personal Data
+VPAC = Vendors with DPAs and Assessments / Vendors Handling Personal Data
 ```
 
 ## Unit

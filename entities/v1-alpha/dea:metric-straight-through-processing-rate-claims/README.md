@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Straight-Through Processing Rate (Clai
 - **Canonical id:** `dea:metric-straight-through-processing-rate-claims`
 - **Name:** Straight-Through Processing Rate (Claims)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STP-C
 
@@ -22,7 +22,7 @@ Straight-through processing rate measures the share of claims settled without hu
 ## Formula
 
 ```
-Claims Settled without Manual Intervention / Claims Received
+STP-C = Claims Settled without Manual Intervention / Claims Received
 ```
 
 ## Unit

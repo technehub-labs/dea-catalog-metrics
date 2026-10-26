@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield-to-Capacity Ratio** (YCR-SS) in 
 - **Canonical id:** `dea:metric-yield-to-capacity-ratio`
 - **Name:** Yield-to-Capacity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YCR-SS
 
@@ -22,7 +22,7 @@ Measures the share of installed capacity actually converting to good output. It 
 ## Formula
 
 ```
-Good Units Produced / Theoretical Maximum Capacity
+YCR-SS = Good Units Produced / Theoretical Maximum Capacity
 ```
 
 ## Unit

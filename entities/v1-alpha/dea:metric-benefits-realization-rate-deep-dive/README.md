@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefits Realization Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-benefits-realization-rate-deep-dive`
 - **Name:** Benefits Realization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRR-D
 
@@ -22,7 +22,7 @@ Measures the share of promised business benefits actually delivered post-impleme
 ## Formula
 
 ```
-Realized Benefits / Business Case Benefits
+BRR-D = Realized Benefits / Business Case Benefits
 ```
 
 ## Unit

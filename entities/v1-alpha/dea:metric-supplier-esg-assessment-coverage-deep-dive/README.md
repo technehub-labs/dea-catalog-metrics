@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier ESG Assessment Coverage (Deep
 - **Canonical id:** `dea:metric-supplier-esg-assessment-coverage-deep-dive`
 - **Name:** Supplier ESG Assessment Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SEAC
 
@@ -22,7 +22,7 @@ Measures the share of supplier spend or risk-weighted suppliers assessed against
 ## Formula
 
 ```
-Suppliers Assessed / In-Scope Suppliers
+SEAC = Suppliers Assessed / In-Scope Suppliers
 ```
 
 ## Unit

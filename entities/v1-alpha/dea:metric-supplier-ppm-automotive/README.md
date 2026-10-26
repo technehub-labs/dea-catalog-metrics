@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier PPM (Automotive)** (SPPM) in 
 - **Canonical id:** `dea:metric-supplier-ppm-automotive`
 - **Name:** Supplier PPM (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPPM
 
@@ -22,7 +22,7 @@ Measures defective parts per million received from suppliers. It matters because
 ## Formula
 
 ```
-Defective Supplier Parts per Million Parts Received
+SPPM = Defective Supplier Parts per Million Parts Received
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labor Cost per Guest (Deep Dive)** (LC
 - **Canonical id:** `dea:metric-labor-cost-per-guest-deep-dive`
 - **Name:** Labor Cost per Guest (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCPG-D
 
@@ -18,7 +18,7 @@ Labor Cost per Guest (Deep Dive) (LCPG-D) captures how efficiently resources are
 ## Formula
 
 ```
-Labor Cost / Guests
+LCPG-D = Labor Cost / Guests
 ```
 
 ## Unit

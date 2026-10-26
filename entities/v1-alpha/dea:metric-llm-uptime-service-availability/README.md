@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LLM Uptime - Service Availability** (L
 - **Canonical id:** `dea:metric-llm-uptime-service-availability`
 - **Name:** LLM Uptime - Service Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LLMSA
 
@@ -18,7 +18,7 @@ A Generative AI & LLM Operations indicator, LLM Uptime - Service Availability (L
 ## Formula
 
 ```
-Assistant Available Time / Required Time
+LLMSA = Assistant Available Time / Required Time
 ```
 
 ## Unit

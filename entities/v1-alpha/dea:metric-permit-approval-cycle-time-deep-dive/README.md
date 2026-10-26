@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Permit Approval Cycle Time (Deep Dive)
 - **Canonical id:** `dea:metric-permit-approval-cycle-time-deep-dive`
 - **Name:** Permit Approval Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PACTDD
 
@@ -18,7 +18,7 @@ Permit Approval Cycle Time (Deep Dive) (PACTDD) measures how efficiently resourc
 ## Formula
 
 ```
-Days from Complete Application to Decision
+PACTDD = Days from Complete Application to Decision
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Conversion Rate** (CVR) in the OpenDEA
 - **Canonical id:** `dea:metric-conversion-rate`
 - **Name:** Conversion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVR
 
@@ -18,7 +18,7 @@ Conversion Rate (CVR) addresses how effectively a process or entity achieves its
 ## Formula
 
 ```
-Conversions / Total Sessions or Visitors
+CVR = Conversions / Total Sessions or Visitors
 ```
 
 ## Unit

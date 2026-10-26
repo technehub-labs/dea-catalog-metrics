@@ -7,7 +7,7 @@ Candidate Performance Metric record for **SAR Filing Timeliness (Deep Dive)** (S
 - **Canonical id:** `dea:metric-sar-filing-timeliness-deep-dive`
 - **Name:** SAR Filing Timeliness (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SFT-D
 
@@ -22,7 +22,7 @@ Measures suspicious-activity reports filed within regulatory deadlines. Timeline
 ## Formula
 
 ```
-SARs Filed within Regulatory Deadline / SARs Due
+SFT-D = SARs Filed within Regulatory Deadline / SARs Due
 ```
 
 ## Unit

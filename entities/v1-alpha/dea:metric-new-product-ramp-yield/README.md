@@ -7,7 +7,7 @@ Candidate Performance Metric record for **New Product Ramp Yield** (NPRY) in the
 - **Canonical id:** `dea:metric-new-product-ramp-yield`
 - **Name:** New Product Ramp Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPRY
 
@@ -22,7 +22,7 @@ New product ramp yield measures how quickly a new design reaches mature yield le
 ## Formula
 
 ```
-Yield at Ramp Milestone / Target Yield
+NPRY = Yield at Ramp Milestone / Target Yield
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fan Engagement Rate (Digital)** (FER-D
 - **Canonical id:** `dea:metric-fan-engagement-rate-digital`
 - **Name:** Fan Engagement Rate (Digital)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FER-D
 
@@ -22,7 +22,7 @@ Measures fan interactions relative to fan base across digital channels. It matte
 ## Formula
 
 ```
-Interactions on Club Channels / Followers
+FER-D = Interactions on Club Channels / Followers
 ```
 
 ## Unit

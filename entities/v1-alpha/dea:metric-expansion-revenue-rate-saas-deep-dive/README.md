@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Expansion Revenue Rate (SaaS Deep Dive
 - **Canonical id:** `dea:metric-expansion-revenue-rate-saas-deep-dive`
 - **Name:** Expansion Revenue Rate (SaaS Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERR-D
 
@@ -22,7 +22,7 @@ Measures revenue growth from existing customers via upsell, cross-sell, seat gro
 ## Formula
 
 ```
-Expansion MRR / Starting MRR
+ERR-D = Expansion MRR / Starting MRR
 ```
 
 ## Unit

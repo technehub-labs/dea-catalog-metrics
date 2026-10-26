@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Standardization Prerequisite R
 - **Canonical id:** `dea:metric-process-standardization-prerequisite-rate`
 - **Name:** Process Standardization Prerequisite Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSPR
 
@@ -22,7 +22,7 @@ Measures the share of processes standardized before automation. It matters becau
 ## Formula
 
 ```
-Processes Standardized before Automation / Processes Automated
+PSPR = Processes Standardized before Automation / Processes Automated
 ```
 
 ## Unit

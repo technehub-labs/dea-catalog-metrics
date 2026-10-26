@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Batch Schedule Adherence (Chemicals)**
 - **Canonical id:** `dea:metric-batch-schedule-adherence-chemicals`
 - **Name:** Batch Schedule Adherence (Chemicals)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSA-C
 
@@ -18,7 +18,7 @@ Batch Schedule Adherence (Chemicals) (BSA-C) captures conformance to standards, 
 ## Formula
 
 ```
-Batches Produced on Schedule / Batches Planned
+BSA-C = Batches Produced on Schedule / Batches Planned
 ```
 
 ## Unit

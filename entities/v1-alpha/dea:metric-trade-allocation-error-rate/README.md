@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trade Allocation Error Rate** (TAER-T)
 - **Canonical id:** `dea:metric-trade-allocation-error-rate`
 - **Name:** Trade Allocation Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAER-T
 
@@ -18,7 +18,7 @@ Within Investment Research & Trading Operations, Trade Allocation Error Rate (TA
 ## Formula
 
 ```
-Allocation Errors / Allocations
+TAER-T = Allocation Errors / Allocations
 ```
 
 ## Unit

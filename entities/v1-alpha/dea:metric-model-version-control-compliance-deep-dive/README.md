@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Version Control Compliance (Deep
 - **Canonical id:** `dea:metric-model-version-control-compliance-deep-dive`
 - **Name:** Model Version Control Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVCCC
 
@@ -18,7 +18,7 @@ A Financial Planning & Analysis indicator, Model Version Control Compliance (Dee
 ## Formula
 
 ```
-Planning Models under Version Control / Models
+MVCCC = Planning Models under Version Control / Models
 ```
 
 ## Unit

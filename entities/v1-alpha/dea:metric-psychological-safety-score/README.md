@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Psychological Safety Score** (PSS-E) i
 - **Canonical id:** `dea:metric-psychological-safety-score`
 - **Name:** Psychological Safety Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSS-E
 
@@ -22,7 +22,7 @@ The psychological safety score measures the shared belief that interpersonal ris
 ## Formula
 
 ```
-Average Team Psychological Safety Survey Rating
+PSS-E = Average Team Psychological Safety Survey Rating
 ```
 
 ## Unit

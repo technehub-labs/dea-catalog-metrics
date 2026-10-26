@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel Schedule Reliability** (VSR) in
 - **Canonical id:** `dea:metric-vessel-schedule-reliability`
 - **Name:** Vessel Schedule Reliability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSR
 
@@ -22,7 +22,7 @@ Vessel schedule reliability measures the share of vessels arriving within a day 
 ## Formula
 
 ```
-Voyages Arriving within Schedule Tolerance / Voyages
+VSR = Voyages Arriving within Schedule Tolerance / Voyages
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Coaching Program Effectiveness Score**
 - **Canonical id:** `dea:metric-coaching-program-effectiveness-score`
 - **Name:** Coaching Program Effectiveness Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPES
 
@@ -22,7 +22,7 @@ Measures whether coaching investment changes the coachee's behavior and outcomes
 ## Formula
 
 ```
-Measured Goal Attainment of Coached Cohort vs Baseline
+CPES = Measured Goal Attainment of Coached Cohort vs Baseline
 ```
 
 ## Unit

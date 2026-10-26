@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inspection Test Plan Compliance (Deep 
 - **Canonical id:** `dea:metric-inspection-test-plan-compliance-deep-dive`
 - **Name:** Inspection Test Plan Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ITPC-D
 
@@ -18,7 +18,7 @@ Inspection Test Plan Compliance (Deep Dive) (ITPC-D) measures conformance to sta
 ## Formula
 
 ```
-ITP Holds Tested on Schedule / Holds
+ITPC-D = ITP Holds Tested on Schedule / Holds
 ```
 
 ## Unit

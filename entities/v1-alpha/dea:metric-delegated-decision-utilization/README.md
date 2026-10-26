@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Delegated Decision Utilization** (DDU)
 - **Canonical id:** `dea:metric-delegated-decision-utilization`
 - **Name:** Delegated Decision Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDU
 
@@ -22,7 +22,7 @@ Measures how often decisions are actually taken at the delegated level versus es
 ## Formula
 
 ```
-Decisions Taken at Delegated Level / Decisions Eligible
+DDU = Decisions Taken at Delegated Level / Decisions Eligible
 ```
 
 ## Unit

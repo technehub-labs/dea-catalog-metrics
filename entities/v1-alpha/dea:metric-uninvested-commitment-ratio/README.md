@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Uninvested Commitment Ratio** (UCR-IM2
 - **Canonical id:** `dea:metric-uninvested-commitment-ratio`
 - **Name:** Uninvested Commitment Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UCR-IM2
 
@@ -22,7 +22,7 @@ Measures dry-powder capital not yet deployed against total committed. Persistent
 ## Formula
 
 ```
-Uncalled Capital / Total Commitments (Private)
+UCR-IM2 = Uncalled Capital / Total Commitments (Private)
 ```
 
 ## Unit

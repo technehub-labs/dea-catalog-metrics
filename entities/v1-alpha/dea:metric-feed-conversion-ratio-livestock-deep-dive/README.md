@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feed Conversion Ratio - Livestock (Dee
 - **Canonical id:** `dea:metric-feed-conversion-ratio-livestock-deep-dive`
 - **Name:** Feed Conversion Ratio - Livestock (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-D
 
@@ -22,7 +22,7 @@ Measures feed input per unit of animal output (weight gain, milk, eggs). It is t
 ## Formula
 
 ```
-Feed Consumed / Weight Gain
+FCR-D = Feed Consumed / Weight Gain
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective and Preventive Action Closu
 - **Canonical id:** `dea:metric-corrective-and-preventive-action-closure-rate`
 - **Name:** Corrective and Preventive Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CAPA
 
@@ -22,7 +22,7 @@ Measures the share of CAPAs closed on schedule in medical device quality systems
 ## Formula
 
 ```
-CAPAs Closed on Time / CAPAs Opened
+CAPA = CAPAs Closed on Time / CAPAs Opened
 ```
 
 ## Unit

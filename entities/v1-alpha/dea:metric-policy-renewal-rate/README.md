@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Policy Renewal Rate** (PoRR) in the Op
 - **Canonical id:** `dea:metric-policy-renewal-rate`
 - **Name:** Policy Renewal Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PoRR
 
@@ -22,7 +22,7 @@ Measures the share of expiring insurance policies that are renewed. It matters b
 ## Formula
 
 ```
-Policies Renewed / Policies Due for Renewal
+PoRR = Policies Renewed / Policies Due for Renewal
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Utilization Rate** (TUR) in t
 - **Canonical id:** `dea:metric-training-utilization-rate`
 - **Name:** Training Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TUR
 
@@ -18,7 +18,7 @@ A Learning & Development indicator, Training Utilization Rate (TUR) quantifies t
 ## Formula
 
 ```
-Seats Consumed / Seats Made Available
+TUR = Seats Consumed / Seats Made Available
 ```
 
 ## Unit

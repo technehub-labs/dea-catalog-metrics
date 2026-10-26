@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Monitoring Score (Deep Dive)**
 - **Canonical id:** `dea:metric-quality-monitoring-score-deep-dive`
 - **Name:** Quality Monitoring Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QMS-D
 
@@ -18,7 +18,7 @@ Quality Monitoring Score (Deep Dive) (QMS-D) addresses the quality of outputs an
 ## Formula
 
 ```
-Average QA Evaluation Score
+QMS-D = Average QA Evaluation Score
 ```
 
 ## Unit

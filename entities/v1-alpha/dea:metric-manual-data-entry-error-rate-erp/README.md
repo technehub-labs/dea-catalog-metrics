@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manual Data Entry Error Rate (ERP)** (
 - **Canonical id:** `dea:metric-manual-data-entry-error-rate-erp`
 - **Name:** Manual Data Entry Error Rate (ERP)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDEE
 
@@ -18,7 +18,7 @@ Manual Data Entry Error Rate (ERP) (MDEE) addresses the quality of outputs and o
 ## Formula
 
 ```
-Manual Entries with Errors / Entries Sampled
+MDEE = Manual Entries with Errors / Entries Sampled
 ```
 
 ## Unit

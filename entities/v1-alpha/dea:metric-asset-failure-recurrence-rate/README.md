@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Failure Recurrence Rate** (AFR) 
 - **Canonical id:** `dea:metric-asset-failure-recurrence-rate`
 - **Name:** Asset Failure Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFR
 
@@ -22,7 +22,7 @@ Measures how often the same asset fails again after a repair. It matters because
 ## Formula
 
 ```
-Repeat Failures within Warranty of Repair / Total Failures
+AFR = Repeat Failures within Warranty of Repair / Total Failures
 ```
 
 ## Unit

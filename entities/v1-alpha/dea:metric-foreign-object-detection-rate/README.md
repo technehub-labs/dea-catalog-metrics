@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Foreign Object Detection Rate** (FODR)
 - **Canonical id:** `dea:metric-foreign-object-detection-rate`
 - **Name:** Foreign Object Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FODR
 
@@ -18,7 +18,7 @@ Within Food & Beverage Manufacturing, Foreign Object Detection Rate (FODR) is us
 ## Formula
 
 ```
-Contaminants Detected by Inspection / Batches
+FODR = Contaminants Detected by Inspection / Batches
 ```
 
 ## Unit

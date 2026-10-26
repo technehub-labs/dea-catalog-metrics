@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Infrastructure Cost per Prediction** (
 - **Canonical id:** `dea:metric-infrastructure-cost-per-prediction`
 - **Name:** Infrastructure Cost per Prediction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICPP-M
 
@@ -22,7 +22,7 @@ Measures compute and serving cost per inference call. It is the unit-economics m
 ## Formula
 
 ```
-Serving Infrastructure Cost / Predictions
+ICPP-M = Serving Infrastructure Cost / Predictions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staffing Level Compliance (Care)** (SL
 - **Canonical id:** `dea:metric-staffing-level-compliance-care`
 - **Name:** Staffing Level Compliance (Care)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLCC
 
@@ -22,7 +22,7 @@ Staffing level compliance measures adherence to required staffing ratios and ski
 ## Formula
 
 ```
-Shifts Meeting Minimum Staffing / Shifts
+SLCC = Shifts Meeting Minimum Staffing / Shifts
 ```
 
 ## Unit

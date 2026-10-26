@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Equity Duration Gap** (EDG-VCF) in the
 - **Canonical id:** `dea:metric-equity-duration-gap`
 - **Name:** Equity Duration Gap
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDG-VCF
 
@@ -22,7 +22,7 @@ Measures the mismatch in sensitivity between asset and equity values to rate or 
 ## Formula
 
 ```
-Duration of Assets minus Duration of Liabilities
+EDG-VCF = Duration of Assets minus Duration of Liabilities
 ```
 
 ## Unit

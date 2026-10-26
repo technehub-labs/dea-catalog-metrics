@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Graduate Satisfaction Score (Deep Dive
 - **Canonical id:** `dea:metric-graduate-satisfaction-score-deep-dive`
 - **Name:** Graduate Satisfaction Score (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSSDD
 
@@ -22,7 +22,7 @@ Measures graduate-rated satisfaction with their education retrospectively. Gradu
 ## Formula
 
 ```
-Exit Survey Composite of Graduates
+GSSDD = Exit Survey Composite of Graduates
 ```
 
 ## Unit

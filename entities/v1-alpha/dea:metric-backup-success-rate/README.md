@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backup Success Rate** (BSR-C) in the O
 - **Canonical id:** `dea:metric-backup-success-rate`
 - **Name:** Backup Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSR-C
 
@@ -18,7 +18,7 @@ Backup Success Rate (BSR-C) measures exposure to adverse outcomes in the Cyberse
 ## Formula
 
 ```
-Successful Backups / Scheduled Backups
+BSR-C = Successful Backups / Scheduled Backups
 ```
 
 ## Unit

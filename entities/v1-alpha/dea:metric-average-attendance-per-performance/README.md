@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Attendance per Performance** (
 - **Canonical id:** `dea:metric-average-attendance-per-performance`
 - **Name:** Average Attendance per Performance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAP
 
@@ -18,7 +18,7 @@ Average Attendance per Performance (AAP) measures the utilization or availabilit
 ## Formula
 
 ```
-Total Attendance / Performances
+AAP = Total Attendance / Performances
 ```
 
 ## Unit

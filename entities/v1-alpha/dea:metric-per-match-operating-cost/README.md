@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Per-Match Operating Cost** (PMOC) in t
 - **Canonical id:** `dea:metric-per-match-operating-cost`
 - **Name:** Per-Match Operating Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMOC
 
@@ -18,7 +18,7 @@ Per-Match Operating Cost (PMOC) addresses how efficiently resources are converte
 ## Formula
 
 ```
-Stadium Operating Costs / Matches
+PMOC = Stadium Operating Costs / Matches
 ```
 
 ## Unit

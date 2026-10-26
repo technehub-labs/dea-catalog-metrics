@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Youth Academy Progression Rate** (YAPR
 - **Canonical id:** `dea:metric-youth-academy-progression-rate`
 - **Name:** Youth Academy Progression Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YAPR
 
@@ -22,7 +22,7 @@ Measures the share of academy players advancing to professional contracts or fir
 ## Formula
 
 ```
-Academy Players to First Team / Intake Cohort
+YAPR = Academy Players to First Team / Intake Cohort
 ```
 
 ## Unit

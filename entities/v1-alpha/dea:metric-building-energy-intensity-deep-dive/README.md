@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Building Energy Intensity (Deep Dive)*
 - **Canonical id:** `dea:metric-building-energy-intensity-deep-dive`
 - **Name:** Building Energy Intensity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BEI-D
 
@@ -22,7 +22,7 @@ Measures energy consumption per unit of area (kWh per square metre), weather-nor
 ## Formula
 
 ```
-Energy / Floor Area
+BEI-D = Energy / Floor Area
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defective Parts per Hundred - Audit (D
 - **Canonical id:** `dea:metric-defective-parts-per-hundred-audit-deep-dive`
 - **Name:** Defective Parts per Hundred - Audit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPH-D
 
@@ -18,7 +18,7 @@ Defective Parts per Hundred - Audit (Deep Dive) (DPH-D) captures the quality of 
 ## Formula
 
 ```
-Defects Found / Garments Audited x 100
+DPH-D = Defects Found / Garments Audited x 100
 ```
 
 ## Unit

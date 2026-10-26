@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Free Trade Agreement Utilization** (FT
 - **Canonical id:** `dea:metric-free-trade-agreement-utilization`
 - **Name:** Free Trade Agreement Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTAU
 
@@ -22,7 +22,7 @@ Measures the share of eligible trade flows using preferential FTA rates rather t
 ## Formula
 
 ```
-Preferential Entries Claimed / Eligible Entries
+FTAU = Preferential Entries Claimed / Eligible Entries
 ```
 
 ## Unit

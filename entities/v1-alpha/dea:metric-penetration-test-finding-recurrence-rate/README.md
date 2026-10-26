@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Penetration Test Finding Recurrence Ra
 - **Canonical id:** `dea:metric-penetration-test-finding-recurrence-rate`
 - **Name:** Penetration Test Finding Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTFRR
 
@@ -22,7 +22,7 @@ Measures the share of pen-test findings that reappear in later engagements. Recu
 ## Formula
 
 ```
-Findings Recurring from Prior Test / Findings
+PTFRR = Findings Recurring from Prior Test / Findings
 ```
 
 ## Unit

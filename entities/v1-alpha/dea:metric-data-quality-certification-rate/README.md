@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Certification Rate** (DQC
 - **Canonical id:** `dea:metric-data-quality-certification-rate`
 - **Name:** Data Quality Certification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQCRT
 
@@ -18,7 +18,7 @@ Data Quality Certification Rate (DQCRT) captures conformance to standards, plans
 ## Formula
 
 ```
-Datasets Certified for Business Use / In-Scope Datasets
+DQCRT = Datasets Certified for Business Use / In-Scope Datasets
 ```
 
 ## Unit

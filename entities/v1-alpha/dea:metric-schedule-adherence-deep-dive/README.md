@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Adherence (Deep Dive)** (SAD-
 - **Canonical id:** `dea:metric-schedule-adherence-deep-dive`
 - **Name:** Schedule Adherence (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAD-D
 
@@ -18,7 +18,7 @@ A Contact Center Operations (Deep Dive) indicator, Schedule Adherence (Deep Dive
 ## Formula
 
 ```
-Time in Scheduled State / Scheduled Time
+SAD-D = Time in Scheduled State / Scheduled Time
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Deal Size** (ADS) in the OpenD
 - **Canonical id:** `dea:metric-average-deal-size`
 - **Name:** Average Deal Size
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADS
 
@@ -22,7 +22,7 @@ Measures the mean value of closed deals in a period. It matters because it links
 ## Formula
 
 ```
-Total Closed Revenue / Closed Deals
+ADS = Total Closed Revenue / Closed Deals
 ```
 
 ## Unit

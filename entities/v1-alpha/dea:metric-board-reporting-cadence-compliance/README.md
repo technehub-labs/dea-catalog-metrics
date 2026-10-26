@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Reporting Cadence Compliance** (
 - **Canonical id:** `dea:metric-board-reporting-cadence-compliance`
 - **Name:** Board Reporting Cadence Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BRCC-S
 
@@ -18,7 +18,7 @@ Board Reporting Cadence Compliance (BRCC-S) measures governance in the Startup &
 ## Formula
 
 ```
-Board Packs Delivered on Schedule / Board Cycles
+BRCC-S = Board Packs Delivered on Schedule / Board Cycles
 ```
 
 ## Unit

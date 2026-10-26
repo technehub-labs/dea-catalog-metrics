@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Culture Change Adoption Rate** (CCAR) 
 - **Canonical id:** `dea:metric-culture-change-adoption-rate`
 - **Name:** Culture Change Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCAR
 
@@ -22,7 +22,7 @@ Measures the share of target behaviors or practices from a culture program demon
 ## Formula
 
 ```
-Behaviors Demonstrating Target Culture Observed / Behaviors Expected
+CCAR = Behaviors Demonstrating Target Culture Observed / Behaviors Expected
 ```
 
 ## Unit

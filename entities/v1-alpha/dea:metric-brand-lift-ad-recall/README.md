@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Brand Lift (Ad Recall)** (BLAR) in the
 - **Canonical id:** `dea:metric-brand-lift-ad-recall`
 - **Name:** Brand Lift (Ad Recall)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BLAR
 
@@ -22,7 +22,7 @@ Measures the increase in ad recall or brand awareness attributable to campaigns.
 ## Formula
 
 ```
-Exposed Recall minus Control Recall
+BLAR = Exposed Recall minus Control Recall
 ```
 
 ## Unit

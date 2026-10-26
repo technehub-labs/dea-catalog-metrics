@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Actuarial Function Independence Rating
 - **Canonical id:** `dea:metric-actuarial-function-independence-rating`
 - **Name:** Actuarial Function Independence Rating
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFIR
 
@@ -22,7 +22,7 @@ Measures the independence of the actuarial function from commercial pressure - r
 ## Formula
 
 ```
-Regulatory Independence Assessment Score
+AFIR = Regulatory Independence Assessment Score
 ```
 
 ## Unit

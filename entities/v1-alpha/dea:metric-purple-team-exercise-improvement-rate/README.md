@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purple Team Exercise Improvement Rate*
 - **Canonical id:** `dea:metric-purple-team-exercise-improvement-rate`
 - **Name:** Purple Team Exercise Improvement Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTEIR
 
@@ -22,7 +22,7 @@ Measures how detection coverage improves following purple team validation exerci
 ## Formula
 
 ```
-Detections Improved after Exercises / Gaps Identified
+PTEIR = Detections Improved after Exercises / Gaps Identified
 ```
 
 ## Unit

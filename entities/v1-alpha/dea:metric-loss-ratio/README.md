@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loss Ratio** (LR) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-loss-ratio`
 - **Name:** Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LR
 
@@ -22,7 +22,7 @@ Incurred claims over earned premium - the pure underwriting core of insurance ec
 ## Formula
 
 ```
-Incurred Losses / Earned Premiums
+LR = Incurred Losses / Earned Premiums
 ```
 
 ## Unit

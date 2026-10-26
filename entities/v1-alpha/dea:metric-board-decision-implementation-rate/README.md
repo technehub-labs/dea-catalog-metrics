@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Decision Implementation Rate** (
 - **Canonical id:** `dea:metric-board-decision-implementation-rate`
 - **Name:** Board Decision Implementation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BDIR
 
@@ -22,7 +22,7 @@ Measures how completely board decisions are executed as taken. Implementation is
 ## Formula
 
 ```
-Board Decisions Implemented Fully / Board Decisions
+BDIR = Board Decisions Implemented Fully / Board Decisions
 ```
 
 ## Unit

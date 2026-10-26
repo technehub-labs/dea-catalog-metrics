@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Design Review Coverage** (DRC) in the 
 - **Canonical id:** `dea:metric-design-review-coverage`
 - **Name:** Design Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRC
 
@@ -18,7 +18,7 @@ Within Engineering & Design, Design Review Coverage (DRC) is used to gauge confo
 ## Formula
 
 ```
-Artifacts Passing through Formal Review / Artifacts
+DRC = Artifacts Passing through Formal Review / Artifacts
 ```
 
 ## Unit

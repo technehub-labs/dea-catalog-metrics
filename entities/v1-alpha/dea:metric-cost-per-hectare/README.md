@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Hectare** (CPh) in the OpenDE
 - **Canonical id:** `dea:metric-cost-per-hectare`
 - **Name:** Cost per Hectare
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPh
 
@@ -22,7 +22,7 @@ Measures total production cost per cultivated hectare. It matters because it is 
 ## Formula
 
 ```
-Total Production Cost / Cultivated Hectares
+CPh = Total Production Cost / Cultivated Hectares
 ```
 
 ## Unit

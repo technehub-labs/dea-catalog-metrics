@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Expense Ratio** (PER-N) in the
 - **Canonical id:** `dea:metric-program-expense-ratio`
 - **Name:** Program Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PER-N
 
@@ -22,7 +22,7 @@ Program expense ratio measures the share of total spending that goes to program 
 ## Formula
 
 ```
-Program Service Expenses / Total Expenses
+PER-N = Program Service Expenses / Total Expenses
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Scheduling Efficiency - Fiel
 - **Canonical id:** `dea:metric-workforce-scheduling-efficiency-field`
 - **Name:** Workforce Scheduling Efficiency - Field
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WSEF
 
@@ -18,7 +18,7 @@ Workforce Scheduling Efficiency - Field (WSEF) measures how efficiently resource
 ## Formula
 
 ```
-Jobs Scheduled versus Travel-Optimized Plan / Plan
+WSEF = Jobs Scheduled versus Travel-Optimized Plan / Plan
 ```
 
 ## Unit

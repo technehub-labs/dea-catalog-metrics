@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stress Test Scenario Coverage** (STSC)
 - **Canonical id:** `dea:metric-stress-test-scenario-coverage`
 - **Name:** Stress Test Scenario Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STSC
 
@@ -22,7 +22,7 @@ Measures how completely the risk model portfolio covers the scenarios that could
 ## Formula
 
 ```
-Mandated Scenarios Executed / Required Scenarios
+STSC = Mandated Scenarios Executed / Required Scenarios
 ```
 
 ## Unit

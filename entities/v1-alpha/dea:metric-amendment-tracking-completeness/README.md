@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Amendment Tracking Completeness** (ATC
 - **Canonical id:** `dea:metric-amendment-tracking-completeness`
 - **Name:** Amendment Tracking Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATC-CL
 
@@ -18,7 +18,7 @@ Within Contract Lifecycle Management, Amendment Tracking Completeness (ATC-CL) i
 ## Formula
 
 ```
-Amendments Linked to Master Contract / Amendments
+ATC-CL = Amendments Linked to Master Contract / Amendments
 ```
 
 ## Unit

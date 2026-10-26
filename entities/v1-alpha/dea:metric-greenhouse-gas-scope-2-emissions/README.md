@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Greenhouse Gas Scope 2 Emissions** (GH
 - **Canonical id:** `dea:metric-greenhouse-gas-scope-2-emissions`
 - **Name:** Greenhouse Gas Scope 2 Emissions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GHG2
 
@@ -22,7 +22,7 @@ Indirect emissions from purchased energy - electricity, steam, heating, and cool
 ## Formula
 
 ```
-Indirect Emissions from Purchased Energy
+GHG2 = Indirect Emissions from Purchased Energy
 ```
 
 ## Unit

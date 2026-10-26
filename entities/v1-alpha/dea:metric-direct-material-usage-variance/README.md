@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Direct Material Usage Variance** (DMUV
 - **Canonical id:** `dea:metric-direct-material-usage-variance`
 - **Name:** Direct Material Usage Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DMUV
 
@@ -22,7 +22,7 @@ Measures the gap between standard and actual material consumed per unit of outpu
 ## Formula
 
 ```
-(Actual Material Used - Standard Material) x Standard Price
+DMUV = (Actual Material Used - Standard Material) x Standard Price
 ```
 
 ## Unit

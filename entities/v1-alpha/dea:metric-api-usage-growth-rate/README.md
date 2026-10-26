@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Usage Growth Rate** (AUGR) in the 
 - **Canonical id:** `dea:metric-api-usage-growth-rate`
 - **Name:** API Usage Growth Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUGR
 
@@ -18,7 +18,7 @@ API Usage Growth Rate (AUGR) captures growth over time for organizations trackin
 ## Formula
 
 ```
-Change in API Calls Period over Period
+AUGR = Change in API Calls Period over Period
 ```
 
 ## Unit

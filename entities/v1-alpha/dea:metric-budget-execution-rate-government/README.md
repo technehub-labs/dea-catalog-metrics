@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Budget Execution Rate (Government)** (
 - **Canonical id:** `dea:metric-budget-execution-rate-government`
 - **Name:** Budget Execution Rate (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BER-G
 
@@ -22,7 +22,7 @@ Measures actual spending against approved budget within the fiscal period. It is
 ## Formula
 
 ```
-Actual Spend / Approved Budget
+BER-G = Actual Spend / Approved Budget
 ```
 
 ## Unit

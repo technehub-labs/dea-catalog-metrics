@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change-Induced Incident Rate (ERP)** (
 - **Canonical id:** `dea:metric-change-induced-incident-rate-erp`
 - **Name:** Change-Induced Incident Rate (ERP)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIIR
 
@@ -18,7 +18,7 @@ A ERP & Enterprise Application Operations indicator, Change-Induced Incident Rat
 ## Formula
 
 ```
-Incidents Caused by Change / Changes
+CIIR = Incidents Caused by Change / Changes
 ```
 
 ## Unit

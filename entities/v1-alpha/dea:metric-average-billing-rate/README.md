@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Billing Rate** (ABR-PS) in the
 - **Canonical id:** `dea:metric-average-billing-rate`
 - **Name:** Average Billing Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABR-PS
 
@@ -22,7 +22,7 @@ Revenue per billed hour - the pricing metric of professional services, and the c
 ## Formula
 
 ```
-Fee Revenue / Billable Hours
+ABR-PS = Fee Revenue / Billable Hours
 ```
 
 ## Unit

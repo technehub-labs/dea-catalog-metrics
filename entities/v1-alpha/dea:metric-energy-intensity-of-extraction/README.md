@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Intensity of Extraction** (EIE)
 - **Canonical id:** `dea:metric-energy-intensity-of-extraction`
 - **Name:** Energy Intensity of Extraction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIE
 
@@ -22,7 +22,7 @@ Energy intensity of extraction is energy consumed per tonne of ore or unit of me
 ## Formula
 
 ```
-Energy Consumed / Ore Processed
+EIE = Energy Consumed / Ore Processed
 ```
 
 ## Unit

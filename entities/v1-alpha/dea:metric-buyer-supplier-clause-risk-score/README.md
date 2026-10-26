@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Buyer-Supplier Clause Risk Score** (BS
 - **Canonical id:** `dea:metric-buyer-supplier-clause-risk-score`
 - **Name:** Buyer-Supplier Clause Risk Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSCRS
 
@@ -22,7 +22,7 @@ Measures aggregate risk profile of accepted clause terms across the contract est
 ## Formula
 
 ```
-Average Risk Balance Score of Executed Terms
+BSCRS = Average Risk Balance Score of Executed Terms
 ```
 
 ## Unit

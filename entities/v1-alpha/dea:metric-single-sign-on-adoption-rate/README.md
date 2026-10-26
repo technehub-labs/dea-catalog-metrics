@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Sign-On Adoption Rate** (SSOAR)
 - **Canonical id:** `dea:metric-single-sign-on-adoption-rate`
 - **Name:** Single Sign-On Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSOAR
 
@@ -22,7 +22,7 @@ Measures the share of applications authenticating through the central identity p
 ## Formula
 
 ```
-Applications Integrated with SSO / Applications
+SSOAR = Applications Integrated with SSO / Applications
 ```
 
 ## Unit

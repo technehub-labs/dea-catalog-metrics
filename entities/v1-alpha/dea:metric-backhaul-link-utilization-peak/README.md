@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Backhaul Link Utilization Peak** (BLUP
 - **Canonical id:** `dea:metric-backhaul-link-utilization-peak`
 - **Name:** Backhaul Link Utilization Peak
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BLUP
 
@@ -18,7 +18,7 @@ Backhaul Link Utilization Peak (BLUP) captures the utilization or availability o
 ## Formula
 
 ```
-Peak Backhaul Throughput / Link Capacity
+BLUP = Peak Backhaul Throughput / Link Capacity
 ```
 
 ## Unit

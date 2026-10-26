@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Corrective Action Closure Rate** (CACR
 - **Canonical id:** `dea:metric-corrective-action-closure-rate`
 - **Name:** Corrective Action Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CACR
 
@@ -22,7 +22,7 @@ Measures the share of safety corrective actions closed within target time. It ma
 ## Formula
 
 ```
-Safety Corrective Actions Closed on Time / Actions Opened
+CACR = Safety Corrective Actions Closed on Time / Actions Opened
 ```
 
 ## Unit

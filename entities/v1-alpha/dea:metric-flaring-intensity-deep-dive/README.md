@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaring Intensity (Deep Dive)** (FI-OG
 - **Canonical id:** `dea:metric-flaring-intensity-deep-dive`
 - **Name:** Flaring Intensity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FI-OG
 
@@ -22,7 +22,7 @@ Measures gas flared per unit of production. Flaring is both wasted product and t
 ## Formula
 
 ```
-Flared Volume / Throughput
+FI-OG = Flared Volume / Throughput
 ```
 
 ## Unit

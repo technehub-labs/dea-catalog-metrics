@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Trade Break Rate** (CTBR) i
 - **Canonical id:** `dea:metric-compliance-trade-break-rate`
 - **Name:** Compliance Trade Break Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CTBR
 
@@ -22,7 +22,7 @@ Measures failed compliance checks per executed trade. It matters because breaks 
 ## Formula
 
 ```
-Trade Breaks Detected / Trades Executed
+CTBR = Trade Breaks Detected / Trades Executed
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **View-Through Attribution Rate** (VTAR)
 - **Canonical id:** `dea:metric-view-through-attribution-rate`
 - **Name:** View-Through Attribution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VTAR
 
@@ -18,7 +18,7 @@ Within Marketing Attribution & Analytics, View-Through Attribution Rate (VTAR) i
 ## Formula
 
 ```
-Conversions from Viewed Ads without Click / Attributed Conversions
+VTAR = Conversions from Viewed Ads without Click / Attributed Conversions
 ```
 
 ## Unit

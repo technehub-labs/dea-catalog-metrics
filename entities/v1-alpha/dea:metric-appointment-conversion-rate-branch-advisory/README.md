@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Appointment Conversion Rate (Branch Ad
 - **Canonical id:** `dea:metric-appointment-conversion-rate-branch-advisory`
 - **Name:** Appointment Conversion Rate (Branch Advisory)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR-BD
 
@@ -18,7 +18,7 @@ A Retail Banking Branch Network (Deep Dive) indicator, Appointment Conversion Ra
 ## Formula
 
 ```
-Appointments Held / Booked
+ACR-BD = Appointments Held / Booked
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Localization and Internationalization 
 - **Canonical id:** `dea:metric-localization-and-internationalization-test-coverage`
 - **Name:** Localization and Internationalization Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LITC-QA
 
@@ -18,7 +18,7 @@ Localization and Internationalization Test Coverage (LITC-QA) addresses the qual
 ## Formula
 
 ```
-Locales Tested / Supported Locales
+LITC-QA = Locales Tested / Supported Locales
 ```
 
 ## Unit

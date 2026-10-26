@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Operations Automation Rate** (LO
 - **Canonical id:** `dea:metric-legal-operations-automation-rate`
 - **Name:** Legal Operations Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOAR
 
@@ -18,7 +18,7 @@ Legal Operations Automation Rate (LOAR) captures capability maturity or developm
 ## Formula
 
 ```
-Workflows Automated / Total Workflows
+LOAR = Workflows Automated / Total Workflows
 ```
 
 ## Unit

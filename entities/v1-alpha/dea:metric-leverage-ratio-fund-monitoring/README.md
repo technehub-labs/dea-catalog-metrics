@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leverage Ratio (Fund) Monitoring** (LR
 - **Canonical id:** `dea:metric-leverage-ratio-fund-monitoring`
 - **Name:** Leverage Ratio (Fund) Monitoring
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRFM
 
@@ -22,7 +22,7 @@ Measures whether the fund's leverage is being tracked continuously against regul
 ## Formula
 
 ```
-Gross Exposure / NAV
+LRFM = Gross Exposure / NAV
 ```
 
 ## Unit

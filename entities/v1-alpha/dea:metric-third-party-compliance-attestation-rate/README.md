@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Third-Party Compliance Attestation Rat
 - **Canonical id:** `dea:metric-third-party-compliance-attestation-rate`
 - **Name:** Third-Party Compliance Attestation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TPCAR
 
@@ -18,7 +18,7 @@ Third-Party Compliance Attestation Rate (TPCAR) addresses conformance to standar
 ## Formula
 
 ```
-Vendors Submitting Compliance Attestations / Vendors in Scope
+TPCAR = Vendors Submitting Compliance Attestations / Vendors in Scope
 ```
 
 ## Unit

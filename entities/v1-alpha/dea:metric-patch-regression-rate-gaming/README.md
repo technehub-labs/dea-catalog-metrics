@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patch Regression Rate (Gaming)** (PRR-
 - **Canonical id:** `dea:metric-patch-regression-rate-gaming`
 - **Name:** Patch Regression Rate (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRR-G
 
@@ -18,7 +18,7 @@ A Gaming Development & Live Operations indicator, Patch Regression Rate (Gaming)
 ## Formula
 
 ```
-Regressions per Patch Release
+PRR-G = Regressions per Patch Release
 ```
 
 ## Unit

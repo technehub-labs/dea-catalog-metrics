@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wafer Fab Cycle Time (Deep Dive)** (WF
 - **Canonical id:** `dea:metric-wafer-fab-cycle-time-deep-dive`
 - **Name:** Wafer Fab Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WFCT-D
 
@@ -22,7 +22,7 @@ Measures elapsed time from wafer start to completion in fabrication. Cycle time 
 ## Formula
 
 ```
-Days from Wafer Start to Wafer Out
+WFCT-D = Days from Wafer Start to Wafer Out
 ```
 
 ## Unit

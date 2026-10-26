@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loan Origination Cycle Time (Deep Dive
 - **Canonical id:** `dea:metric-loan-origination-cycle-time-deep-dive`
 - **Name:** Loan Origination Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LOCTDD
 
@@ -18,7 +18,7 @@ A Real Estate & Mortgage Standard Measures indicator, Loan Origination Cycle Tim
 ## Formula
 
 ```
-Days from Application to Closing
+LOCTDD = Days from Application to Closing
 ```
 
 ## Unit

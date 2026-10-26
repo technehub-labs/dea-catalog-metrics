@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Findings Closure Rate** (RF
 - **Canonical id:** `dea:metric-regulatory-findings-closure-rate`
 - **Name:** Regulatory Findings Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFCR
 
@@ -18,7 +18,7 @@ A Regulatory Affairs & Compliance Operations indicator, Regulatory Findings Clos
 ## Formula
 
 ```
-Findings Closed by Deadline / Findings Issued
+RFCR = Findings Closed by Deadline / Findings Issued
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subsidy per Passenger Trip** (SPT) in 
 - **Canonical id:** `dea:metric-subsidy-per-passenger-trip`
 - **Name:** Subsidy per Passenger Trip
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPT
 
@@ -22,7 +22,7 @@ Subsidy per passenger trip measures the public funding required per rider after 
 ## Formula
 
 ```
-(Operating Cost - Fare Revenue) / Trips
+SPT = (Operating Cost - Fare Revenue) / Trips
 ```
 
 ## Unit

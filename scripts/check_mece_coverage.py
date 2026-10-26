@@ -28,12 +28,20 @@ def main():
     for mid, m in metrics:
         if m.get("lifecycle_status") != "admitted":
             continue
+        # CR-MET-020: the uniqueness key carries subject_concept. The
+        # metamodel says it outright: subject_concept "distinguishes a Metric
+        # by what it measures rather than by its MECE label" (metric.json).
+        # The five classification axes are the label; two metrics that share
+        # a label but measure different things are different metrics, and
+        # with the label alone the corpus collapsed 4423 records into 500
+        # signatures.
         sig = (
             tuple(m.get("subject_classification") or []),
             tuple(m.get("purpose_classification") or []),
             m.get("orientation_classification"),
             tuple(m.get("scope_classification") or []),
             m.get("directionality"),
+            m.get("subject_concept"),
         )
         sig_index[sig].append(mid)
     for sig, ids in sig_index.items():

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Realization Rate** (RLZ) in the OpenDE
 - **Canonical id:** `dea:metric-realization-rate`
 - **Name:** Realization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RLZ
 
@@ -22,7 +22,7 @@ Revenue actually collected (or billed without write-down) as a share of standard
 ## Formula
 
 ```
-Fees Collected / Standard Fees Billed
+RLZ = Fees Collected / Standard Fees Billed
 ```
 
 ## Unit

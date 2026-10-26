@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Client Compliance with Prescribed Medi
 - **Canonical id:** `dea:metric-client-compliance-with-prescribed-medication`
 - **Name:** Client Compliance with Prescribed Medication
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCPM
 
@@ -18,7 +18,7 @@ A Veterinary & Animal Health indicator, Client Compliance with Prescribed Medica
 ## Formula
 
 ```
-Refills Collected on Schedule / Prescribed
+CCPM = Refills Collected on Schedule / Prescribed
 ```
 
 ## Unit

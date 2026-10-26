@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Rate (Charged-Off Loans Deep 
 - **Canonical id:** `dea:metric-recovery-rate-charged-off-loans-deep-dive`
 - **Name:** Recovery Rate (Charged-Off Loans Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRCL-D
 
@@ -22,7 +22,7 @@ Measures principal recovered after charge-off, through collections, sale, or col
 ## Formula
 
 ```
-Recovered Value / Charged-Off Value
+RRCL-D = Recovered Value / Charged-Off Value
 ```
 
 ## Unit

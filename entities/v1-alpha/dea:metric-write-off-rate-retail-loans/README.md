@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Write-Off Rate (Retail Loans)** (WORL)
 - **Canonical id:** `dea:metric-write-off-rate-retail-loans`
 - **Name:** Write-Off Rate (Retail Loans)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WORL
 
@@ -22,7 +22,7 @@ Write-off rate measures loans charged off as uncollectible, and it is the realiz
 ## Formula
 
 ```
-Written-Off Loans / Average Gross Loans
+WORL = Written-Off Loans / Average Gross Loans
 ```
 
 ## Unit

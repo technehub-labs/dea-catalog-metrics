@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Days of Supply (Automotive)*
 - **Canonical id:** `dea:metric-inventory-days-of-supply-automotive`
 - **Name:** Inventory Days of Supply (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDS-A
 
@@ -22,7 +22,7 @@ Measures days of vehicle or parts demand covered by current stock. It matters be
 ## Formula
 
 ```
-Vehicle and Parts Inventory / Average Daily Usage
+IDS-A = Vehicle and Parts Inventory / Average Daily Usage
 ```
 
 ## Unit

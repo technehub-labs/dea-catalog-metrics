@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Champion-Challenger Evaluation Cycle T
 - **Canonical id:** `dea:metric-champion-challenger-evaluation-cycle-time`
 - **Name:** Champion-Challenger Evaluation Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCECT
 
@@ -18,7 +18,7 @@ Champion-Challenger Evaluation Cycle Time (CCECT) addresses how efficiently reso
 ## Formula
 
 ```
-Days to Complete Champion-Challenger Evaluation
+CCECT = Days to Complete Champion-Challenger Evaluation
 ```
 
 ## Unit

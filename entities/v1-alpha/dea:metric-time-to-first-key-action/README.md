@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to First Key Action** (TTKA) in t
 - **Canonical id:** `dea:metric-time-to-first-key-action`
 - **Name:** Time to First Key Action
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTKA
 
@@ -18,7 +18,7 @@ A Product Management indicator, Time to First Key Action (TTKA) quantifies how e
 ## Formula
 
 ```
-Time from Onboarding to First Key User Action
+TTKA = Time from Onboarding to First Key User Action
 ```
 
 ## Unit

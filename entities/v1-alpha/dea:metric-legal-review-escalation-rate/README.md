@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Review Escalation Rate** (LRER) 
 - **Canonical id:** `dea:metric-legal-review-escalation-rate`
 - **Name:** Legal Review Escalation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRER
 
@@ -18,7 +18,7 @@ A Contract Lifecycle Management indicator, Legal Review Escalation Rate (LRER) q
 ## Formula
 
 ```
-Contracts Escalated to Legal beyond Self-Serve / Contracts
+LRER = Contracts Escalated to Legal beyond Self-Serve / Contracts
 ```
 
 ## Unit

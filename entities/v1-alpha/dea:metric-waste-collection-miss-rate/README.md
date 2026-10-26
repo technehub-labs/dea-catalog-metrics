@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste Collection Miss Rate** (WCMR) in
 - **Canonical id:** `dea:metric-waste-collection-miss-rate`
 - **Name:** Waste Collection Miss Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCMR
 
@@ -18,7 +18,7 @@ Waste Collection Miss Rate (WCMR) measures the quality of outputs and outcomes i
 ## Formula
 
 ```
-Missed Collections / Scheduled Collections
+WCMR = Missed Collections / Scheduled Collections
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Provision Loading Accuracy (Cruise)** 
 - **Canonical id:** `dea:metric-provision-loading-accuracy-cruise`
 - **Name:** Provision Loading Accuracy (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLAC
 
@@ -18,7 +18,7 @@ Provision Loading Accuracy (Cruise) (PLAC) captures the quality of outputs and o
 ## Formula
 
 ```
-Provision Items Delivered per Manifest / Items
+PLAC = Provision Items Delivered per Manifest / Items
 ```
 
 ## Unit

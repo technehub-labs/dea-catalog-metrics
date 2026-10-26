@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Defect Rate** (DDR-MD) in the O
 - **Canonical id:** `dea:metric-device-defect-rate`
 - **Name:** Device Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DDR-MD
 
@@ -22,7 +22,7 @@ Device defect rate tracks the share of medical devices failing quality checks or
 ## Formula
 
 ```
-Reported Device Defects / Devices Shipped
+DDR-MD = Reported Device Defects / Devices Shipped
 ```
 
 ## Unit

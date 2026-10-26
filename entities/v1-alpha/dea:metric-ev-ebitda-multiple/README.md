@@ -7,7 +7,7 @@ Candidate Performance Metric record for **EV/EBITDA Multiple** (EVEBITDA) in the
 - **Canonical id:** `dea:metric-ev-ebitda-multiple`
 - **Name:** EV/EBITDA Multiple
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EVEBITDA
 
@@ -22,7 +22,7 @@ Measures enterprise value relative to EBITDA. It is the standard cross-capital-s
 ## Formula
 
 ```
-Enterprise Value / EBITDA
+EVEBITDA = Enterprise Value / EBITDA
 ```
 
 ## Unit

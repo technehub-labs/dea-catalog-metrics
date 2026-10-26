@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Overall Service Effectiveness** (OSE) 
 - **Canonical id:** `dea:metric-overall-service-effectiveness`
 - **Name:** Overall Service Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSE
 
@@ -22,7 +22,7 @@ Measures the compound of service staff availability, engagement, and first-pass 
 ## Formula
 
 ```
-Service Level Attainment x First Pass Resolution x Quality Score
+OSE = Service Level Attainment x First Pass Resolution x Quality Score
 ```
 
 ## Unit

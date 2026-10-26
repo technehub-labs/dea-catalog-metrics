@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Pass Batch Acceptance** (FPBA) i
 - **Canonical id:** `dea:metric-first-pass-batch-acceptance`
 - **Name:** First Pass Batch Acceptance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPBA
 
@@ -18,7 +18,7 @@ First Pass Batch Acceptance (FPBA) addresses the quality of outputs and outcomes
 ## Formula
 
 ```
-Batches Accepted without Rework / Batches Manufactured
+FPBA = Batches Accepted without Rework / Batches Manufactured
 ```
 
 ## Unit

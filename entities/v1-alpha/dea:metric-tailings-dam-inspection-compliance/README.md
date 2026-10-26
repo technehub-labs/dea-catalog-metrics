@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tailings Dam Inspection Compliance** (
 - **Canonical id:** `dea:metric-tailings-dam-inspection-compliance`
 - **Name:** Tailings Dam Inspection Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TDIC
 
@@ -22,7 +22,7 @@ Measures adherence to scheduled dam safety inspections, instrumentation monitori
 ## Formula
 
 ```
-Inspections per SMP Schedule / Required
+TDIC = Inspections per SMP Schedule / Required
 ```
 
 ## Unit

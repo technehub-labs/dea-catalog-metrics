@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Audit Plan Completion** (APC) in the O
 - **Canonical id:** `dea:metric-audit-plan-completion`
 - **Name:** Audit Plan Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APC
 
@@ -22,7 +22,7 @@ The share of the planned audit engagements completed in the cycle - the delivery
 ## Formula
 
 ```
-Audits Completed / Audits Planned
+APC = Audits Completed / Audits Planned
 ```
 
 ## Unit

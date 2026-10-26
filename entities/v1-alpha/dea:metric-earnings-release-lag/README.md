@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earnings Release Lag** (ERL) in the Op
 - **Canonical id:** `dea:metric-earnings-release-lag`
 - **Name:** Earnings Release Lag
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERL
 
@@ -22,7 +22,7 @@ Measures days from period close to earnings release. It matters because release 
 ## Formula
 
 ```
-Days from Period End to Earnings Release
+ERL = Days from Period End to Earnings Release
 ```
 
 ## Unit

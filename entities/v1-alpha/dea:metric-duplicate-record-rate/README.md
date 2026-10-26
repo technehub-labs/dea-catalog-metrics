@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Record Rate** (DRR) in the O
 - **Canonical id:** `dea:metric-duplicate-record-rate`
 - **Name:** Duplicate Record Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRR
 
@@ -18,7 +18,7 @@ Duplicate Record Rate (DRR) captures the quality of outputs and outcomes for org
 ## Formula
 
 ```
-Duplicate Records / Total Records
+DRR = Duplicate Records / Total Records
 ```
 
 ## Unit

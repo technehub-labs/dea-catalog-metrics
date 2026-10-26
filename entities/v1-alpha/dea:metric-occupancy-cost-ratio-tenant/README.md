@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Cost Ratio (Tenant)** (OCR-R
 - **Canonical id:** `dea:metric-occupancy-cost-ratio-tenant`
 - **Name:** Occupancy Cost Ratio (Tenant)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR-RE
 
@@ -18,7 +18,7 @@ Occupancy Cost Ratio (Tenant) (OCR-RE) addresses the economic value created or p
 ## Formula
 
 ```
-Tenant Occupancy Cost / Tenant Sales
+OCR-RE = Tenant Occupancy Cost / Tenant Sales
 ```
 
 ## Unit

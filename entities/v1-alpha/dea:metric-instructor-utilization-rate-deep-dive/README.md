@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Instructor Utilization Rate (Deep Dive
 - **Canonical id:** `dea:metric-instructor-utilization-rate-deep-dive`
 - **Name:** Instructor Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IUR-D
 
@@ -18,7 +18,7 @@ Within Education & Training (Deep Dive), Instructor Utilization Rate (Deep Dive)
 ## Formula
 
 ```
-Teaching Hours / Contracted Hours
+IUR-D = Teaching Hours / Contracted Hours
 ```
 
 ## Unit

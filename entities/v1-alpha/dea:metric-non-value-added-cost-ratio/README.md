@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Value-Added Cost Ratio** (NVAC) in
 - **Canonical id:** `dea:metric-non-value-added-cost-ratio`
 - **Name:** Non-Value-Added Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NVAC
 
@@ -22,7 +22,7 @@ Non-value-added cost ratio measures the share of cost consumed by activities the
 ## Formula
 
 ```
-Non-Value-Added Cost / Total Process Cost
+NVAC = Non-Value-Added Cost / Total Process Cost
 ```
 
 ## Unit

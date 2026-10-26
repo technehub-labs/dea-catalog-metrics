@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PII Leakage Incidents per Quarter** (P
 - **Canonical id:** `dea:metric-pii-leakage-incidents-per-quarter`
 - **Name:** PII Leakage Incidents per Quarter
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIILQ
 
@@ -22,7 +22,7 @@ Measures occurrences of personal data exposure through model outputs or logs. LL
 ## Formula
 
 ```
-Incidents of Personal Data in Prompts or Outputs
+PIILQ = Incidents of Personal Data in Prompts or Outputs
 ```
 
 ## Unit

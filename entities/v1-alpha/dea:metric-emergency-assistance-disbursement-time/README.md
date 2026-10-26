@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Assistance Disbursement Time
 - **Canonical id:** `dea:metric-emergency-assistance-disbursement-time`
 - **Name:** Emergency Assistance Disbursement Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EADT
 
@@ -22,7 +22,7 @@ Measures elapsed time from application to funds reaching the person in crisis. I
 ## Formula
 
 ```
-Days from Eligibility Confirmed to Funds Received
+EADT = Days from Eligibility Confirmed to Funds Received
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Units per Transaction** (UPT) in the O
 - **Canonical id:** `dea:metric-units-per-transaction`
 - **Name:** Units per Transaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UPT
 
@@ -22,7 +22,7 @@ Measures average item count per customer transaction. It matters because attach 
 ## Formula
 
 ```
-Units Sold / Number of Transactions
+UPT = Units Sold / Number of Transactions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Span and Layer Index**
 - **Canonical id:** `dea:metric-operating-model-span-and-layer-index`
 - **Name:** Operating Model Span and Layer Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OSLI
 
@@ -22,7 +22,7 @@ Measures organizational spans of control and management layers against healthy d
 ## Formula
 
 ```
-Reporting Layers and Span Balance Score
+OSLI = Reporting Layers and Span Balance Score
 ```
 
 ## Unit

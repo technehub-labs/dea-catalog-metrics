@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Rate (Transaction Value)** (FRTV
 - **Canonical id:** `dea:metric-fraud-rate-transaction-value`
 - **Name:** Fraud Rate (Transaction Value)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRTV
 
@@ -22,7 +22,7 @@ Fraud rate by transaction value measures fraud losses as a share of total proces
 ## Formula
 
 ```
-Fraudulent Transaction Value / Total Transaction Value
+FRTV = Fraudulent Transaction Value / Total Transaction Value
 ```
 
 ## Unit

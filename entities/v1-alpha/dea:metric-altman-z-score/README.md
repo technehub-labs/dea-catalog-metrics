@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Altman Z-Score** (ALTZ) in the OpenDEA
 - **Canonical id:** `dea:metric-altman-z-score`
 - **Name:** Altman Z-Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALTZ
 
@@ -22,7 +22,7 @@ The Altman Z-Score, from Edward I. Altman (1968), combines five weighted financi
 ## Formula
 
 ```
-Composite Discriminant of Liquidity, Profitability, Leverage Ratios
+ALTZ = Composite Discriminant of Liquidity, Profitability, Leverage Ratios
 ```
 
 ## Unit

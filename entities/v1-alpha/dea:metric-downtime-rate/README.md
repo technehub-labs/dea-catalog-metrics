@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Downtime Rate** (DTR) in the OpenDEAM 
 - **Canonical id:** `dea:metric-downtime-rate`
 - **Name:** Downtime Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTR
 
@@ -18,7 +18,7 @@ Downtime Rate (DTR) captures the utilization or availability of capacity for org
 ## Formula
 
 ```
-Downtime Hours / Scheduled Operating Hours
+DTR = Downtime Hours / Scheduled Operating Hours
 ```
 
 ## Unit

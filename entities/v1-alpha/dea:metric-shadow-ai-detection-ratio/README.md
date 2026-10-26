@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shadow AI Detection Ratio** (SAIDR) in
 - **Canonical id:** `dea:metric-shadow-ai-detection-ratio`
 - **Name:** Shadow AI Detection Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAIDR
 
@@ -22,7 +22,7 @@ Measures the discovery rate of unsanctioned AI usage (employee tools, unvetted v
 ## Formula
 
 ```
-Unsanctioned AI Tools Discovered per Audit Cycle
+SAIDR = Unsanctioned AI Tools Discovered per Audit Cycle
 ```
 
 ## Unit

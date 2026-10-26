@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Production per Agent** (APA-I) 
 - **Canonical id:** `dea:metric-agency-production-per-agent`
 - **Name:** Agency Production per Agent
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APA-I
 
@@ -18,7 +18,7 @@ Agency Production per Agent (APA-I) captures how efficiently resources are conve
 ## Formula
 
 ```
-Written Premium / Active Agents
+APA-I = Written Premium / Active Agents
 ```
 
 ## Unit

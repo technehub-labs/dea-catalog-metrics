@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Voice of Customer Response Rate** (VOC
 - **Canonical id:** `dea:metric-voice-of-customer-response-rate`
 - **Name:** Voice of Customer Response Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VOCRR
 
@@ -18,7 +18,7 @@ Within Balanced Scorecard - Customer Perspective, Voice of Customer Response Rat
 ## Formula
 
 ```
-Survey Responses / Requests Sent
+VOCRR = Survey Responses / Requests Sent
 ```
 
 ## Unit

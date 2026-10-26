@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Zone Availability Compliance** (
 - **Canonical id:** `dea:metric-cross-zone-availability-compliance`
 - **Name:** Cross-Zone Availability Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CZAC
 
@@ -22,7 +22,7 @@ Measures whether customer workloads comply with availability-zone resilience req
 ## Formula
 
 ```
-Services Meeting Zone Redundancy Standard / Services
+CZAC = Services Meeting Zone Redundancy Standard / Services
 ```
 
 ## Unit

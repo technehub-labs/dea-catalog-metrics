@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Enforcement Action Success Rate** (
 - **Canonical id:** `dea:metric-ip-enforcement-action-success-rate`
 - **Name:** IP Enforcement Action Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IEASR
 
@@ -22,7 +22,7 @@ Measures how often enforcement actions (cease-and-desist, litigation, licensing 
 ## Formula
 
 ```
-Enforcement Actions with Favorable Outcome / Actions
+IEASR = Enforcement Actions with Favorable Outcome / Actions
 ```
 
 ## Unit

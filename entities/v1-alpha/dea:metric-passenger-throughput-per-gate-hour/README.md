@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Throughput per Gate Hour** (
 - **Canonical id:** `dea:metric-passenger-throughput-per-gate-hour`
 - **Name:** Passenger Throughput per Gate Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTGH
 
@@ -18,7 +18,7 @@ Within Airport Operations (Deep Dive), Passenger Throughput per Gate Hour (PTGH)
 ## Formula
 
 ```
-Passengers / Gate Hours
+PTGH = Passengers / Gate Hours
 ```
 
 ## Unit

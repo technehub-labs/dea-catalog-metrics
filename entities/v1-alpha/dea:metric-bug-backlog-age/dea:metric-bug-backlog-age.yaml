@@ -7,7 +7,7 @@ description: 'Bug Backlog Age (BBA) captures exposure to adverse outcomes for or
   response. Reduction is the goal, and sustained decreases indicate successful intervention.'
 abbreviation: BBA
 unit: day
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - technology_architecture
@@ -25,7 +25,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Median Age of Open Defects
 formula_definition:
   formula_id: dea:formula-bug-backlog-age
-  expression: Median Age of Open Defects
+  expression: BBA = Median Age of Open Defects
   inputs:
   - name: Median Age of Open Defects
   operators: []
@@ -34,7 +34,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-day
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -45,9 +45,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 287
     batch: '1'
 domain: software_engineering
+subject_concept: dea:subject-bug_backlog_age
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 287
+  - Public domain - no attribution required
+  known_limitations: []

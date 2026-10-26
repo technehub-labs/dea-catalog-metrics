@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unmanaged Resource Ratio** (URR-CS) in
 - **Canonical id:** `dea:metric-unmanaged-resource-ratio`
 - **Name:** Unmanaged Resource Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** URR-CS
 
@@ -18,7 +18,7 @@ Within Cloud Security Posture Management, Unmanaged Resource Ratio (URR-CS) is u
 ## Formula
 
 ```
-Resources without Tagged Owner / Resources
+URR-CS = Resources without Tagged Owner / Resources
 ```
 
 ## Unit

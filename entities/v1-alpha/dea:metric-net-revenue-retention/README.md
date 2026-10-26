@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Revenue Retention** (NRR) in the O
 - **Canonical id:** `dea:metric-net-revenue-retention`
 - **Name:** Net Revenue Retention
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NRR
 
@@ -22,7 +22,7 @@ NRR (also NDR) is this period's recurring revenue from an existing cohort divide
 ## Formula
 
 ```
-(MRR_start + Expansion MRR - Contraction MRR - Churned MRR) / MRR_start
+NRR = (MRR_start + Expansion MRR - Contraction MRR - Churned MRR) / MRR_start
 ```
 
 ## Unit

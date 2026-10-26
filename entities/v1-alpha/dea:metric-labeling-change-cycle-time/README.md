@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Labeling Change Cycle Time** (LCCT) in
 - **Canonical id:** `dea:metric-labeling-change-cycle-time`
 - **Name:** Labeling Change Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCCT
 
@@ -18,7 +18,7 @@ Labeling Change Cycle Time (LCCT) measures conformance to standards, plans, or o
 ## Formula
 
 ```
-Days to Implement Approved Label Change
+LCCT = Days to Implement Approved Label Change
 ```
 
 ## Unit

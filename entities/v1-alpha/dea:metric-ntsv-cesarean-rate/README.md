@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NTSV Cesarean Rate** (NTSV) in the Ope
 - **Canonical id:** `dea:metric-ntsv-cesarean-rate`
 - **Name:** NTSV Cesarean Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NTSV
 
@@ -22,7 +22,7 @@ Measures cesarean births among low-risk, first-time mothers. It is the signature
 ## Formula
 
 ```
-Cesarean Deliveries among Low-Risk First Births / Such Births
+NTSV = Cesarean Deliveries among Low-Risk First Births / Such Births
 ```
 
 ## Unit

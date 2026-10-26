@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Digital Twin Coverage** (PDTC)
 - **Canonical id:** `dea:metric-product-digital-twin-coverage`
 - **Name:** Product Digital Twin Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDTC
 
@@ -22,7 +22,7 @@ Measures the share of products or assets represented by maintained digital twins
 ## Formula
 
 ```
-Products with Digital Twin / Products in Scope
+PDTC = Products with Digital Twin / Products in Scope
 ```
 
 ## Unit

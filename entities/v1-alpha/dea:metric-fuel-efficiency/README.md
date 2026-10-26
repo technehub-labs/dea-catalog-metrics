@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fuel Efficiency** (FUE) in the OpenDEA
 - **Canonical id:** `dea:metric-fuel-efficiency`
 - **Name:** Fuel Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUE
 
@@ -18,7 +18,7 @@ Fuel Efficiency (FUE) measures how efficiently resources are converted into outp
 ## Formula
 
 ```
-Distance Traveled / Fuel Consumed
+FUE = Distance Traveled / Fuel Consumed
 ```
 
 ## Unit

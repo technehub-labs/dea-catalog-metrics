@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trace Sampling Coverage** (TSC) in the
 - **Canonical id:** `dea:metric-trace-sampling-coverage`
 - **Name:** Trace Sampling Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSC
 
@@ -18,7 +18,7 @@ A Observability & Site Reliability Engineering indicator, Trace Sampling Coverag
 ## Formula
 
 ```
-Transactions with Distributed Tracing / Transactions
+TSC = Transactions with Distributed Tracing / Transactions
 ```
 
 ## Unit

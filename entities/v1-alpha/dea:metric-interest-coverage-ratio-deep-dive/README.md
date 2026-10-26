@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interest Coverage Ratio (Deep Dive)** 
 - **Canonical id:** `dea:metric-interest-coverage-ratio-deep-dive`
 - **Name:** Interest Coverage Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICR-D
 
@@ -22,7 +22,7 @@ Measures earnings available to service interest obligations. Coverage is the can
 ## Formula
 
 ```
-EBIT / Interest Expense
+ICR-D = EBIT / Interest Expense
 ```
 
 ## Unit

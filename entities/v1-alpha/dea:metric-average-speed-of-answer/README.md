@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Speed of Answer** (ASA) in the
 - **Canonical id:** `dea:metric-average-speed-of-answer`
 - **Name:** Average Speed of Answer
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASA
 
@@ -18,7 +18,7 @@ A Contact Center indicator, Average Speed of Answer (ASA) quantifies how efficie
 ## Formula
 
 ```
-Total Answer Delay / Calls Answered
+ASA = Total Answer Delay / Calls Answered
 ```
 
 ## Unit

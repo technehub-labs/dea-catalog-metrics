@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Active Share** (ACTSH) in the OpenDEAM
 - **Canonical id:** `dea:metric-active-share`
 - **Name:** Active Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACTSH
 
@@ -22,7 +22,7 @@ Measures the percentage of a portfolio that differs from its benchmark holdings.
 ## Formula
 
 ```
-Non-Overlapping Portfolio Weight / Total
+ACTSH = Non-Overlapping Portfolio Weight / Total
 ```
 
 ## Unit

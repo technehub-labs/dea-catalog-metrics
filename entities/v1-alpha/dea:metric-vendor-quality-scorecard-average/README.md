@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Quality Scorecard Average** (VQ
 - **Canonical id:** `dea:metric-vendor-quality-scorecard-average`
 - **Name:** Vendor Quality Scorecard Average
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VQSA
 
@@ -22,7 +22,7 @@ Measures the average composite score across the active vendor pool. It matters b
 ## Formula
 
 ```
-Average Weighted Quality Score across Strategic Vendors
+VQSA = Average Weighted Quality Score across Strategic Vendors
 ```
 
 ## Unit

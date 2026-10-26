@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patent Grant Rate** (PGR) in the OpenD
 - **Canonical id:** `dea:metric-patent-grant-rate`
 - **Name:** Patent Grant Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PGR
 
@@ -22,7 +22,7 @@ The share of applications that mature to granted patents over time - the convers
 ## Formula
 
 ```
-Patents Granted / Applications Filed
+PGR = Patents Granted / Applications Filed
 ```
 
 ## Unit

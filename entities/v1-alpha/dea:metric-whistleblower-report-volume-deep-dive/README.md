@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Whistleblower Report Volume (Deep Dive
 - **Canonical id:** `dea:metric-whistleblower-report-volume-deep-dive`
 - **Name:** Whistleblower Report Volume (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRV-EF
 
@@ -18,7 +18,7 @@ Whistleblower Report Volume (Deep Dive) (WRV-EF) measures exposure to adverse ou
 ## Formula
 
 ```
-Hotline Reports Received per Period
+WRV-EF = Hotline Reports Received per Period
 ```
 
 ## Unit

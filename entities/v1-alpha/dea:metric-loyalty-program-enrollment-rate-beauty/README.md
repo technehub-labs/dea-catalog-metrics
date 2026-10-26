@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Loyalty Program Enrollment Rate (Beaut
 - **Canonical id:** `dea:metric-loyalty-program-enrollment-rate-beauty`
 - **Name:** Loyalty Program Enrollment Rate (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPER-B
 
@@ -18,7 +18,7 @@ Loyalty Program Enrollment Rate (Beauty) (LPER-B) measures the retention of cust
 ## Formula
 
 ```
-Clients Enrolled / Eligible Clients
+LPER-B = Clients Enrolled / Eligible Clients
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Detection via Monitoring Rati
 - **Canonical id:** `dea:metric-incident-detection-via-monitoring-ratio`
 - **Name:** Incident Detection via Monitoring Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDVMR
 
@@ -22,7 +22,7 @@ Measures the share of incidents detected by monitoring before users report them.
 ## Formula
 
 ```
-Incidents Detected before User Report / Incidents
+IDVMR = Incidents Detected before User Report / Incidents
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Competency** (TTC-L) in the Op
 - **Canonical id:** `dea:metric-time-to-competency`
 - **Name:** Time to Competency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTC-L
 
@@ -22,7 +22,7 @@ Time to competency measures how long new hires take to reach defined productivit
 ## Formula
 
 ```
-Days from Role Entry to Competent Performance
+TTC-L = Days from Role Entry to Competent Performance
 ```
 
 ## Unit

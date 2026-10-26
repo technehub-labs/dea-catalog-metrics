@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Archival Cost Avoidance** (ACA-DB) in 
 - **Canonical id:** `dea:metric-archival-cost-avoidance`
 - **Name:** Archival Cost Avoidance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACA-DB
 
@@ -18,7 +18,7 @@ A Database & Data Platform Operations indicator, Archival Cost Avoidance (ACA-DB
 ## Formula
 
 ```
-Storage Cost Avoided through Archival vs Baseline
+ACA-DB = Storage Cost Avoided through Archival vs Baseline
 ```
 
 ## Unit

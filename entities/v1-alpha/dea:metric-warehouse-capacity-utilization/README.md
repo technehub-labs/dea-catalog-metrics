@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warehouse Capacity Utilization** (WCU)
 - **Canonical id:** `dea:metric-warehouse-capacity-utilization`
 - **Name:** Warehouse Capacity Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCU
 
@@ -22,7 +22,7 @@ Measures the share of available storage space or throughput capacity in use. It 
 ## Formula
 
 ```
-Occupied Storage Space / Total Storage Space
+WCU = Occupied Storage Space / Total Storage Space
 ```
 
 ## Unit

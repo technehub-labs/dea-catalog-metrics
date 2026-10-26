@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monthly Active Users** (MAU) in the Op
 - **Canonical id:** `dea:metric-monthly-active-users`
 - **Name:** Monthly Active Users
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAU
 
@@ -22,7 +22,7 @@ Unique users engaging in a month - the reach metric that trades DAU's habit-reso
 ## Formula
 
 ```
-Unique Active Users per Month
+MAU = Unique Active Users per Month
 ```
 
 ## Unit

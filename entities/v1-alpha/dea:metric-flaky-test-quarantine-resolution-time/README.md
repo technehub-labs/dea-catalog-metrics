@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Flaky Test Quarantine Resolution Time*
 - **Canonical id:** `dea:metric-flaky-test-quarantine-resolution-time`
 - **Name:** Flaky Test Quarantine Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTQRT
 
@@ -18,7 +18,7 @@ Flaky Test Quarantine Resolution Time (FTQRT) captures the quality of outputs an
 ## Formula
 
 ```
-Days a Test Remains Quarantined
+FTQRT = Days a Test Remains Quarantined
 ```
 
 ## Unit

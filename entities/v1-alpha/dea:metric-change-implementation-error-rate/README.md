@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Implementation Error Rate** (CI
 - **Canonical id:** `dea:metric-change-implementation-error-rate`
 - **Name:** Change Implementation Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIER
 
@@ -18,7 +18,7 @@ Within Network Change & Configuration Management, Change Implementation Error Ra
 ## Formula
 
 ```
-Changes Requiring Correction during Implementation / Changes
+CIER = Changes Requiring Correction during Implementation / Changes
 ```
 
 ## Unit

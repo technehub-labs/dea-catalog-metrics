@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Freight Cost per Unit** (FCPU) in the 
 - **Canonical id:** `dea:metric-freight-cost-per-unit`
 - **Name:** Freight Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCPU
 
@@ -22,7 +22,7 @@ Measures average transportation cost per unit or shipment shipped. It matters be
 ## Formula
 
 ```
-Total Freight Cost / Units Shipped
+FCPU = Total Freight Cost / Units Shipped
 ```
 
 ## Unit

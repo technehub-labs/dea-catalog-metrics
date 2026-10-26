@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Review Defect Detection Yield** (RDDY)
 - **Canonical id:** `dea:metric-review-defect-detection-yield`
 - **Name:** Review Defect Detection Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RDDY
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Review Defect Detection Yield (RDDY) is used 
 ## Formula
 
 ```
-Defects Found in Review / (Defects in Review + Field)
+RDDY = Defects Found in Review / (Defects in Review + Field)
 ```
 
 ## Unit

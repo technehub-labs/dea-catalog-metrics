@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fiber Cut Restoration Time** (FCRT) in
 - **Canonical id:** `dea:metric-fiber-cut-restoration-time`
 - **Name:** Fiber Cut Restoration Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCRT
 
@@ -18,7 +18,7 @@ Fiber Cut Restoration Time (FCRT) measures how efficiently resources are convert
 ## Formula
 
 ```
-Hours to Restore Fiber Link
+FCRT = Hours to Restore Fiber Link
 ```
 
 ## Unit

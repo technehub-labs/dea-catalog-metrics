@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ecosystem Coverage Ratio** (ECR-AP) in
 - **Canonical id:** `dea:metric-ecosystem-coverage-ratio`
 - **Name:** Ecosystem Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECR-AP
 
@@ -22,7 +22,7 @@ Measures how completely the partner ecosystem covers the capabilities and geogra
 ## Formula
 
 ```
-Target Ecosystem Roles Filled by Partners / Target Roles
+ECR-AP = Target Ecosystem Roles Filled by Partners / Target Roles
 ```
 
 ## Unit

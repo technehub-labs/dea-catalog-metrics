@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution (Claims)** (F
 - **Canonical id:** `dea:metric-first-contact-resolution-claims`
 - **Name:** First Contact Resolution (Claims)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-C
 
@@ -18,7 +18,7 @@ First Contact Resolution (Claims) (FCR-C) captures how efficiently resources are
 ## Formula
 
 ```
-Claims Resolved at First Contact / Claims
+FCR-C = Claims Resolved at First Contact / Claims
 ```
 
 ## Unit

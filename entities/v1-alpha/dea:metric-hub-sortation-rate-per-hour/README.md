@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hub Sortation Rate per Hour** (HSRH) i
 - **Canonical id:** `dea:metric-hub-sortation-rate-per-hour`
 - **Name:** Hub Sortation Rate per Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HSRH
 
@@ -18,7 +18,7 @@ Within Parcel & Last-Mile Logistics (Deep Dive), Hub Sortation Rate per Hour (HS
 ## Formula
 
 ```
-Parcels Sorted / Sorter Hour
+HSRH = Parcels Sorted / Sorter Hour
 ```
 
 ## Unit

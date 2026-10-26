@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logo Churn Rate** (LogoChurn) in the O
 - **Canonical id:** `dea:metric-logo-churn-rate`
 - **Name:** Logo Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LogoChurn
 
@@ -22,7 +22,7 @@ The share of customer accounts lost in a period - the people-counting companion 
 ## Formula
 
 ```
-Customers Lost / Customers at Start of Period
+LogoChurn = Customers Lost / Customers at Start of Period
 ```
 
 ## Unit

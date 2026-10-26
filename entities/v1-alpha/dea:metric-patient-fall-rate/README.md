@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Fall Rate** (PFR) in the OpenD
 - **Canonical id:** `dea:metric-patient-fall-rate`
 - **Name:** Patient Fall Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PFR
 
@@ -22,7 +22,7 @@ Measures falls per patient day or per 1,000 patient days. It matters because fal
 ## Formula
 
 ```
-Patient Falls / Patient Days x 1,000
+PFR = Patient Falls / Patient Days x 1,000
 ```
 
 ## Unit

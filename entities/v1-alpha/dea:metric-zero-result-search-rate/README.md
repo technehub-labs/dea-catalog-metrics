@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Zero Result Search Rate** (ZRS) in the
 - **Canonical id:** `dea:metric-zero-result-search-rate`
 - **Name:** Zero Result Search Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ZRS
 
@@ -18,7 +18,7 @@ Zero Result Search Rate (ZRS) measures the quality of outputs and outcomes in th
 ## Formula
 
 ```
-Searches Returning No Results / Total Searches
+ZRS = Searches Returning No Results / Total Searches
 ```
 
 ## Unit

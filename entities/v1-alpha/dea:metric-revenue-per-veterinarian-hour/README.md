@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Veterinarian Hour** (RPVH)
 - **Canonical id:** `dea:metric-revenue-per-veterinarian-hour`
 - **Name:** Revenue per Veterinarian Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPVH
 
@@ -22,7 +22,7 @@ Measures revenue generated per clinical hour. It is the productivity core of vet
 ## Formula
 
 ```
-Revenue / Veterinarian Hours
+RPVH = Revenue / Veterinarian Hours
 ```
 
 ## Unit

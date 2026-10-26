@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Decline Rate (Deep Dive)** (FDR-
 - **Canonical id:** `dea:metric-false-decline-rate-deep-dive`
 - **Name:** False Decline Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDR-P
 
@@ -22,7 +22,7 @@ Measures legitimate transactions declined by risk controls. False declines are t
 ## Formula
 
 ```
-Legitimate Transactions Declined / Declined
+FDR-P = Legitimate Transactions Declined / Declined
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deviations per Batch** (DPB) in the Op
 - **Canonical id:** `dea:metric-deviations-per-batch`
 - **Name:** Deviations per Batch
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPB
 
@@ -18,7 +18,7 @@ Within Pharmaceuticals & Life Sciences, Deviations per Batch (DPB) is used to ga
 ## Formula
 
 ```
-Quality Deviations / Batches Produced
+DPB = Quality Deviations / Batches Produced
 ```
 
 ## Unit

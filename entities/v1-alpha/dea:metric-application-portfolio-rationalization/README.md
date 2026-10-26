@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application Portfolio Rationalization*
 - **Canonical id:** `dea:metric-application-portfolio-rationalization`
 - **Name:** Application Portfolio Rationalization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APR
 
@@ -22,7 +22,7 @@ Measures progress in shrinking the application estate - retirements, consolidati
 ## Formula
 
 ```
-Applications Retired or Consolidated / Applications Identified
+APR = Applications Retired or Consolidated / Applications Identified
 ```
 
 ## Unit

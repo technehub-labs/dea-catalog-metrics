@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Subject Request Cycle Time** (DSR
 - **Canonical id:** `dea:metric-data-subject-request-cycle-time`
 - **Name:** Data Subject Request Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSRCT
 
@@ -18,7 +18,7 @@ Data Subject Request Cycle Time (DSRCT) captures how efficiently resources are c
 ## Formula
 
 ```
-Days from Request Received to Fulfilled
+DSRCT = Days from Request Received to Fulfilled
 ```
 
 ## Unit

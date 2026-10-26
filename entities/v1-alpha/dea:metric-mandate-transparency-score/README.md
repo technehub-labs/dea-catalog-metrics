@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mandate Transparency Score** (MTS) in 
 - **Canonical id:** `dea:metric-mandate-transparency-score`
 - **Name:** Mandate Transparency Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTS
 
@@ -22,7 +22,7 @@ Measures how clearly the PMO's own authority and scope are defined and understoo
 ## Formula
 
 ```
-Stakeholder Clarity Rating of Portfolio Priorities
+MTS = Stakeholder Clarity Rating of Portfolio Priorities
 ```
 
 ## Unit

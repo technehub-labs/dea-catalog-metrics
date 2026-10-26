@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passengers per Vehicle Hour** (PPVH) i
 - **Canonical id:** `dea:metric-passengers-per-vehicle-hour`
 - **Name:** Passengers per Vehicle Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPVH
 
@@ -22,7 +22,7 @@ Passengers per vehicle hour measures transit productivity - ridership relative t
 ## Formula
 
 ```
-Boardings / Vehicle Revenue Hours
+PPVH = Boardings / Vehicle Revenue Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Win Rate (Investments)** (WRI) in the 
 - **Canonical id:** `dea:metric-win-rate-investments`
 - **Name:** Win Rate (Investments)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRI
 
@@ -22,7 +22,7 @@ Win rate is the share of closed positions that were profitable, and it is danger
 ## Formula
 
 ```
-Profitable Positions Closed / Positions Closed
+WRI = Profitable Positions Closed / Positions Closed
 ```
 
 ## Unit

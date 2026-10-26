@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Irregular Operations Recovery Time (Av
 - **Canonical id:** `dea:metric-irregular-operations-recovery-time-aviation`
 - **Name:** Irregular Operations Recovery Time (Aviation)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IROPSRT
 
@@ -18,7 +18,7 @@ Irregular Operations Recovery Time (Aviation) (IROPSRT) measures exposure to adv
 ## Formula
 
 ```
-Time to Restore Schedule after Disruption
+IROPSRT = Time to Restore Schedule after Disruption
 ```
 
 ## Unit

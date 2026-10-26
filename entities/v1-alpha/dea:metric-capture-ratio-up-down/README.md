@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capture Ratio (Up/Down)** (CRUD) in th
 - **Canonical id:** `dea:metric-capture-ratio-up-down`
 - **Name:** Capture Ratio (Up/Down)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRUD
 
@@ -22,7 +22,7 @@ Measures the paired ratio of upside captured to downside captured versus the ben
 ## Formula
 
 ```
-Upside Capture / Downside Capture
+CRUD = Upside Capture / Downside Capture
 ```
 
 ## Unit

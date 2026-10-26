@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ground Control Incident Rate** (GCIR) 
 - **Canonical id:** `dea:metric-ground-control-incident-rate`
 - **Name:** Ground Control Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GCIR
 
@@ -22,7 +22,7 @@ Measures events related to ground stability - falls of ground, squeeze events, s
 ## Formula
 
 ```
-Ground Failure Incidents / 200,000 Hours
+GCIR = Ground Failure Incidents / 200,000 Hours
 ```
 
 ## Unit

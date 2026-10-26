@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Change Adoption Rate** (PCAR) 
 - **Canonical id:** `dea:metric-process-change-adoption-rate`
 - **Name:** Process Change Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCAR
 
@@ -18,7 +18,7 @@ Process Change Adoption Rate (PCAR) measures transformation in the Operating Mod
 ## Formula
 
 ```
-Staff Using Updated Process within Lead Time / Staff
+PCAR = Staff Using Updated Process within Lead Time / Staff
 ```
 
 ## Unit

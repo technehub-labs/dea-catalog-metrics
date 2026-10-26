@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Speed of Answer (Deep Dive)** 
 - **Canonical id:** `dea:metric-average-speed-of-answer-deep-dive`
 - **Name:** Average Speed of Answer (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ASA-D
 
@@ -18,7 +18,7 @@ Average Speed of Answer (Deep Dive) (ASA-D) measures how efficiently resources a
 ## Formula
 
 ```
-Seconds to Answer Offered Calls
+ASA-D = Seconds to Answer Offered Calls
 ```
 
 ## Unit

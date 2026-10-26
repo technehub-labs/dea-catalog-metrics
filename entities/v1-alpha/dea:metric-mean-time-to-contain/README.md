@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Contain** (MTTC) in the O
 - **Canonical id:** `dea:metric-mean-time-to-contain`
 - **Name:** Mean Time to Contain
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTC
 
@@ -22,7 +22,7 @@ The average time from detection of a security incident to its containment - the 
 ## Formula
 
 ```
-Total Containment Time / Security Incidents
+MTTC = Total Containment Time / Security Incidents
 ```
 
 ## Unit

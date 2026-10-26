@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Threat Hunting Find Rate** (THFR) in t
 - **Canonical id:** `dea:metric-threat-hunting-find-rate`
 - **Name:** Threat Hunting Find Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** THFR
 
@@ -18,7 +18,7 @@ Within Threat Intelligence & Red Team, Threat Hunting Find Rate (THFR) is used t
 ## Formula
 
 ```
-Hunts Producing Actionable Findings / Hunts
+THFR = Hunts Producing Actionable Findings / Hunts
 ```
 
 ## Unit

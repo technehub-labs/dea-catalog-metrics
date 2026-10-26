@@ -7,7 +7,7 @@ Candidate Performance Metric record for **License Utilization Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-license-utilization-rate-deep-dive`
 - **Name:** License Utilization Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LUR-D
 
@@ -18,7 +18,7 @@ A ERP & Enterprise Application Operations indicator, License Utilization Rate (D
 ## Formula
 
 ```
-Used Licenses / Purchased Licenses
+LUR-D = Used Licenses / Purchased Licenses
 ```
 
 ## Unit

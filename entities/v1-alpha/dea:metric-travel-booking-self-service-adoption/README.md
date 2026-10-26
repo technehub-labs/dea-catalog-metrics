@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Travel Booking Self-Service Adoption**
 - **Canonical id:** `dea:metric-travel-booking-self-service-adoption`
 - **Name:** Travel Booking Self-Service Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TBSS
 
@@ -18,7 +18,7 @@ A Corporate Travel Management indicator, Travel Booking Self-Service Adoption (T
 ## Formula
 
 ```
-Bookings via Approved Self-Booking Tool / Total Bookings
+TBSS = Bookings via Approved Self-Booking Tool / Total Bookings
 ```
 
 ## Unit

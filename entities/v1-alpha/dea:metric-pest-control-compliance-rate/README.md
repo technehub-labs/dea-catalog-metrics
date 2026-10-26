@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pest Control Compliance Rate** (PCCR) 
 - **Canonical id:** `dea:metric-pest-control-compliance-rate`
 - **Name:** Pest Control Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCCR
 
@@ -18,7 +18,7 @@ A Food & Beverage Manufacturing indicator, Pest Control Compliance Rate (PCCR) q
 ## Formula
 
 ```
-Pest Control Visits and Actions Complete / Required
+PCCR = Pest Control Visits and Actions Complete / Required
 ```
 
 ## Unit

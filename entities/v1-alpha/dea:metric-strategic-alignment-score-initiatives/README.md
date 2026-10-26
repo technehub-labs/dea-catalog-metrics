@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Alignment Score - Initiative
 - **Canonical id:** `dea:metric-strategic-alignment-score-initiatives`
 - **Name:** Strategic Alignment Score - Initiatives
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SASI-PPM
 
@@ -22,7 +22,7 @@ Measures how well each initiative demonstrably supports declared strategic objec
 ## Formula
 
 ```
-Initiatives Mapped to Strategic Objectives / Initiatives
+SASI-PPM = Initiatives Mapped to Strategic Objectives / Initiatives
 ```
 
 ## Unit

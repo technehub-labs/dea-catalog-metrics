@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Margin per Bundle** (PMPB) in 
 - **Canonical id:** `dea:metric-product-margin-per-bundle`
 - **Name:** Product Margin per Bundle
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMPB
 
@@ -22,7 +22,7 @@ Measures blended margin across the components of a bundle, the honesty check on 
 ## Formula
 
 ```
-(Bundle Revenue - Bundle Direct Cost) / Bundle Revenue
+PMPB = (Bundle Revenue - Bundle Direct Cost) / Bundle Revenue
 ```
 
 ## Unit

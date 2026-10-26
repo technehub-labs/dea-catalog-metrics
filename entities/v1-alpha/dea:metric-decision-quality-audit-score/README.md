@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Quality Audit Score** (DQAS-G
 - **Canonical id:** `dea:metric-decision-quality-audit-score`
 - **Name:** Decision Quality Audit Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQAS-GOV
 
@@ -22,7 +22,7 @@ Measures whether decisions followed a quality process: framed, alternatives expl
 ## Formula
 
 ```
-Composite Evidence, Options, and Outcome Score
+DQAS-GOV = Composite Evidence, Options, and Outcome Score
 ```
 
 ## Unit

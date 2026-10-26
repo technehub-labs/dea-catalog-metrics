@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single Source of Truth Metric Adoption
 - **Canonical id:** `dea:metric-single-source-of-truth-metric-adoption`
 - **Name:** Single Source of Truth Metric Adoption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSTMA
 
@@ -22,7 +22,7 @@ Measures how widely decisions rely on the governed metric definitions rather tha
 ## Formula
 
 ```
-Governed Metrics from Authoritative Source / Governed Metrics
+SSTMA = Governed Metrics from Authoritative Source / Governed Metrics
 ```
 
 ## Unit

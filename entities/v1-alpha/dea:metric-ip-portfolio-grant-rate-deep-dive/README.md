@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Portfolio Grant Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-ip-portfolio-grant-rate-deep-dive`
 - **Name:** IP Portfolio Grant Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPGR
 
@@ -22,7 +22,7 @@ Measures the share of patent applications that grant, by technology area. Grant 
 ## Formula
 
 ```
-Granted Applications / Filed Applications
+IPGR = Granted Applications / Filed Applications
 ```
 
 ## Unit

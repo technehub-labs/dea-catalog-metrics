@@ -7,7 +7,7 @@ Candidate Performance Metric record for **User Story Acceptance Criteria Coverag
 - **Canonical id:** `dea:metric-user-story-acceptance-criteria-coverage`
 - **Name:** User Story Acceptance Criteria Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** USACC
 
@@ -18,7 +18,7 @@ A Requirements Engineering & Product Discovery indicator, User Story Acceptance 
 ## Formula
 
 ```
-Stories with Clear Acceptance Criteria / Stories
+USACC = Stories with Clear Acceptance Criteria / Stories
 ```
 
 ## Unit

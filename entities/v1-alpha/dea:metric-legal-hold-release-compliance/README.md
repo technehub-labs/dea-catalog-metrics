@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Legal Hold Release Compliance** (LHRC)
 - **Canonical id:** `dea:metric-legal-hold-release-compliance`
 - **Name:** Legal Hold Release Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LHRC
 
@@ -18,7 +18,7 @@ Legal Hold Release Compliance (LHRC) captures conformance to standards, plans, o
 ## Formula
 
 ```
-Holds Released and Data Reverted to Schedule / Released Holds
+LHRC = Holds Released and Data Reverted to Schedule / Released Holds
 ```
 
 ## Unit

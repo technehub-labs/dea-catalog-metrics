@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ergonomic Injury Rate** (EIR) in the O
 - **Canonical id:** `dea:metric-ergonomic-injury-rate`
 - **Name:** Ergonomic Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EIR
 
@@ -22,7 +22,7 @@ Measures musculoskeletal injuries per worker or hours worked, often from repetit
 ## Formula
 
 ```
-Ergonomic-Related Injuries / Total Injuries
+EIR = Ergonomic-Related Injuries / Total Injuries
 ```
 
 ## Unit

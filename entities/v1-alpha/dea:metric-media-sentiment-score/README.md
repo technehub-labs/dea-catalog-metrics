@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Sentiment Score** (MSS-C) in the
 - **Canonical id:** `dea:metric-media-sentiment-score`
 - **Name:** Media Sentiment Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSS-C
 
@@ -22,7 +22,7 @@ Media sentiment score quantifies the tone of brand mentions across news, social,
 ## Formula
 
 ```
-Weighted Average of Positive and Negative Tone across Coverage
+MSS-C = Weighted Average of Positive and Negative Tone across Coverage
 ```
 
 ## Unit

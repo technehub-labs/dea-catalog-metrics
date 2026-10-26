@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Integration Count per Application** (I
 - **Canonical id:** `dea:metric-integration-count-per-application`
 - **Name:** Integration Count per Application
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICA
 
@@ -22,7 +22,7 @@ Measures the number of integrations connected to each application. It matters be
 ## Formula
 
 ```
-Average Point-to-Point Interfaces per Application
+ICA = Average Point-to-Point Interfaces per Application
 ```
 
 ## Unit

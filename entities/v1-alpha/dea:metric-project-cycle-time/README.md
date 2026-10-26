@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Cycle Time** (PCyT) in the Ope
 - **Canonical id:** `dea:metric-project-cycle-time`
 - **Name:** Project Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCyT
 
@@ -22,7 +22,7 @@ The elapsed time from project start to completion - the velocity metric of the p
 ## Formula
 
 ```
-Days from Project Start to Closure
+PCyT = Days from Project Start to Closure
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Zero-Day Response Time** (ZDRT) in the
 - **Canonical id:** `dea:metric-zero-day-response-time`
 - **Name:** Zero-Day Response Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ZDRT
 
@@ -22,7 +22,7 @@ Measures elapsed time from zero-day disclosure (or in-the-wild exploitation) to 
 ## Formula
 
 ```
-Hours from Zero-Day Advisory to Mitigation
+ZDRT = Hours from Zero-Day Advisory to Mitigation
 ```
 
 ## Unit

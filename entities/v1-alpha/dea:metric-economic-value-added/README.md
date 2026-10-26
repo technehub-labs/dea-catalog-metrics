@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Value Added** (EVA) in the Op
 - **Canonical id:** `dea:metric-economic-value-added`
 - **Name:** Economic Value Added
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EVA
 
@@ -22,7 +22,7 @@ Net operating profit after tax minus the full cost of the capital employed to ea
 ## Formula
 
 ```
-NOPAT - (Capital Employed x Cost of Capital)
+EVA = NOPAT - (Capital Employed x Cost of Capital)
 ```
 
 ## Unit

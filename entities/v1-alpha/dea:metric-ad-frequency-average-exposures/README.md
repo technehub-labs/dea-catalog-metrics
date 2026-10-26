@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Frequency (Average Exposures)** (AF
 - **Canonical id:** `dea:metric-ad-frequency-average-exposures`
 - **Name:** Ad Frequency (Average Exposures)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFREQ
 
@@ -18,7 +18,7 @@ Ad Frequency (Average Exposures) (AFREQ) measures the engagement or satisfaction
 ## Formula
 
 ```
-Impressions / Unique Users Reached
+AFREQ = Impressions / Unique Users Reached
 ```
 
 ## Unit

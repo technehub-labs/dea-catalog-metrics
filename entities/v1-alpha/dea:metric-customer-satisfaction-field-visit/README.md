@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction (Field Visit)** 
 - **Canonical id:** `dea:metric-customer-satisfaction-field-visit`
 - **Name:** Customer Satisfaction (Field Visit)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSATFV
 
@@ -18,7 +18,7 @@ Customer Satisfaction (Field Visit) (CSATFV) addresses the economic value create
 ## Formula
 
 ```
-Post-Visit Satisfaction Score
+CSATFV = Post-Visit Satisfaction Score
 ```
 
 ## Unit

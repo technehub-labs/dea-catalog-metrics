@@ -7,7 +7,7 @@ Candidate Performance Metric record for **LTV-to-CAC Ratio (Deep Dive)** (LTVCRD
 - **Canonical id:** `dea:metric-ltv-to-cac-ratio-deep-dive`
 - **Name:** LTV-to-CAC Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTVCRD
 
@@ -22,7 +22,7 @@ Measures customer lifetime value relative to acquisition cost. The ratio is the 
 ## Formula
 
 ```
-Lifetime Value / Acquisition Cost
+LTVCRD = Lifetime Value / Acquisition Cost
 ```
 
 ## Unit

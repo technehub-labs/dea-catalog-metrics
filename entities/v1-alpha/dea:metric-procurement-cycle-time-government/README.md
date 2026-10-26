@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Procurement Cycle Time (Government)** 
 - **Canonical id:** `dea:metric-procurement-cycle-time-government`
 - **Name:** Procurement Cycle Time (Government)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCT-G
 
@@ -18,7 +18,7 @@ Within Government & Public Administration, Procurement Cycle Time (Government) (
 ## Formula
 
 ```
-Days from Requisition to Contract Award
+PCT-G = Days from Requisition to Contract Award
 ```
 
 ## Unit

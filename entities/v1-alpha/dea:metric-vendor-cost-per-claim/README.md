@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Cost per Claim** (VCC) in the O
 - **Canonical id:** `dea:metric-vendor-cost-per-claim`
 - **Name:** Vendor Cost per Claim
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VCC
 
@@ -18,7 +18,7 @@ Vendor Cost per Claim (VCC) captures how efficiently resources are converted int
 ## Formula
 
 ```
-Third-Party Vendor Costs / Claims
+VCC = Third-Party Vendor Costs / Claims
 ```
 
 ## Unit

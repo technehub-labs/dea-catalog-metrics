@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendance per Capita of Catchment** (
 - **Canonical id:** `dea:metric-attendance-per-capita-of-catchment`
 - **Name:** Attendance per Capita of Catchment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APCC
 
@@ -22,7 +22,7 @@ Attendance per capita of catchment measures admissions against the population wi
 ## Formula
 
 ```
-Attendance / Catchment Population
+APCC = Attendance / Catchment Population
 ```
 
 ## Unit

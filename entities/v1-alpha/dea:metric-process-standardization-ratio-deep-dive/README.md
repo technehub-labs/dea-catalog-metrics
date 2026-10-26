@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Standardization Ratio (Deep Di
 - **Canonical id:** `dea:metric-process-standardization-ratio-deep-dive`
 - **Name:** Process Standardization Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSR-D
 
@@ -22,7 +22,7 @@ Measures the share of process variants that follow the standardized design. Stan
 ## Formula
 
 ```
-Processes Following Global Standard / Processes
+PSR-D = Processes Following Global Standard / Processes
 ```
 
 ## Unit

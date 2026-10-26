@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Findings in Review Rate** (CF
 - **Canonical id:** `dea:metric-critical-findings-in-review-rate`
 - **Name:** Critical Findings in Review Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFRR
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Critical Findings in Review Rate (CFRR) is us
 ## Formula
 
 ```
-Critical or Security Comments / Reviews
+CFRR = Critical or Security Comments / Reviews
 ```
 
 ## Unit

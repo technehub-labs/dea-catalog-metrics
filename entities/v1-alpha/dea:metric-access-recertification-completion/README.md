@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Access Recertification Completion** (A
 - **Canonical id:** `dea:metric-access-recertification-completion`
 - **Name:** Access Recertification Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARC-IC
 
@@ -18,7 +18,7 @@ Access Recertification Completion (ARC-IC) measures conformance to standards, pl
 ## Formula
 
 ```
-Access Reviews Completed by Due Date / Reviews
+ARC-IC = Access Reviews Completed by Due Date / Reviews
 ```
 
 ## Unit

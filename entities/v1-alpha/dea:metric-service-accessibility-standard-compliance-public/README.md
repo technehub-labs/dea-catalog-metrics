@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Accessibility Standard Complia
 - **Canonical id:** `dea:metric-service-accessibility-standard-compliance-public`
 - **Name:** Service Accessibility Standard Compliance (Public)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SASCP
 
@@ -22,7 +22,7 @@ Measures whether citizen services meet accessibility standards across channels a
 ## Formula
 
 ```
-Services Meeting Accessibility Obligations / Services
+SASCP = Services Meeting Accessibility Obligations / Services
 ```
 
 ## Unit

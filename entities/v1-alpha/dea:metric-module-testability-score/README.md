@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Module Testability Score** (MTS-CQ) in
 - **Canonical id:** `dea:metric-module-testability-score`
 - **Name:** Module Testability Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTS-CQ
 
@@ -18,7 +18,7 @@ Within Code Quality & Static Analysis, Module Testability Score (MTS-CQ) is used
 ## Formula
 
 ```
-Rubric of Seam Quality and Dependency Injection Readiness
+MTS-CQ = Rubric of Seam Quality and Dependency Injection Readiness
 ```
 
 ## Unit

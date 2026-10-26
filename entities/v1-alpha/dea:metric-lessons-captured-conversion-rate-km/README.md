@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Lessons Captured Conversion Rate (KM)*
 - **Canonical id:** `dea:metric-lessons-captured-conversion-rate-km`
 - **Name:** Lessons Captured Conversion Rate (KM)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCCR
 
@@ -18,7 +18,7 @@ Lessons Captured Conversion Rate (KM) (LCCR) captures capability maturity or dev
 ## Formula
 
 ```
-Retrospectives Converted to Knowledge Articles / Retrospectives
+LCCR = Retrospectives Converted to Knowledge Articles / Retrospectives
 ```
 
 ## Unit

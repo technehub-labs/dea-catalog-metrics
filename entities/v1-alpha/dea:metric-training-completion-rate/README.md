@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Training Completion Rate** (TCR-L) in 
 - **Canonical id:** `dea:metric-training-completion-rate`
 - **Name:** Training Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCR-L
 
@@ -18,7 +18,7 @@ Training Completion Rate (TCR-L) captures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Completed Enrollments / Enrollments
+TCR-L = Completed Enrollments / Enrollments
 ```
 
 ## Unit

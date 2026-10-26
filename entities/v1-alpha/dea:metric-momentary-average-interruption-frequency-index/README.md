@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Momentary Average Interruption Frequen
 - **Canonical id:** `dea:metric-momentary-average-interruption-frequency-index`
 - **Name:** Momentary Average Interruption Frequency Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAIFI
 
@@ -22,7 +22,7 @@ MAIFI, from IEEE Std 1366, counts momentary interruptions (under five minutes, t
 ## Formula
 
 ```
-Momentary Interruptions / Customers Served
+MAIFI = Momentary Interruptions / Customers Served
 ```
 
 ## Unit

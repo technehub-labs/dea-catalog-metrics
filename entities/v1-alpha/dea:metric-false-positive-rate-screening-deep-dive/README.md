@@ -7,7 +7,7 @@ Candidate Performance Metric record for **False Positive Rate - Screening (Deep 
 - **Canonical id:** `dea:metric-false-positive-rate-screening-deep-dive`
 - **Name:** False Positive Rate - Screening (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPR-S
 
@@ -18,7 +18,7 @@ A Insurance Fraud & Financial Crime indicator, False Positive Rate - Screening (
 ## Formula
 
 ```
-False Alerts / Total Alerts
+FPR-S = False Alerts / Total Alerts
 ```
 
 ## Unit

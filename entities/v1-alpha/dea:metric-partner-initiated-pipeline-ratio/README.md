@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner-Initiated Pipeline Ratio** (PI
 - **Canonical id:** `dea:metric-partner-initiated-pipeline-ratio`
 - **Name:** Partner-Initiated Pipeline Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIPR
 
@@ -22,7 +22,7 @@ Measures how much of the sales pipeline originates with partners. Partner-origin
 ## Formula
 
 ```
-Qualified Pipeline Originated by Partners / Pipeline
+PIPR = Qualified Pipeline Originated by Partners / Pipeline
 ```
 
 ## Unit

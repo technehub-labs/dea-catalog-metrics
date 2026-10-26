@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnaround Execution Compliance** (TAE
 - **Canonical id:** `dea:metric-turnaround-execution-compliance`
 - **Name:** Turnaround Execution Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TAEC
 
@@ -22,7 +22,7 @@ Measures whether refinery turnarounds complete on schedule and scope. It matters
 ## Formula
 
 ```
-Turnarounds Completed on Schedule and Budget / Turnarounds
+TAEC = Turnarounds Completed on Schedule and Budget / Turnarounds
 ```
 
 ## Unit

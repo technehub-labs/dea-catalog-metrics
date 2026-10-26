@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Public Trust Index** (PTI) in the Open
 - **Canonical id:** `dea:metric-public-trust-index`
 - **Name:** Public Trust Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTI
 
@@ -22,7 +22,7 @@ Measures citizen confidence in public institutions' competence, fairness, and ho
 ## Formula
 
 ```
-Composite Trust Survey Score
+PTI = Composite Trust Survey Score
 ```
 
 ## Unit

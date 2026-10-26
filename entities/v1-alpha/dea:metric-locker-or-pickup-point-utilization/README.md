@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Locker or Pickup Point Utilization** (
 - **Canonical id:** `dea:metric-locker-or-pickup-point-utilization`
 - **Name:** Locker or Pickup Point Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPPU
 
@@ -18,7 +18,7 @@ Locker or Pickup Point Utilization (LPPU) measures the utilization or availabili
 ## Formula
 
 ```
-Locker Transactions / Locker Capacity
+LPPU = Locker Transactions / Locker Capacity
 ```
 
 ## Unit

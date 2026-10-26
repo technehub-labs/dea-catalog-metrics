@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credentialing Verification Currency Ra
 - **Canonical id:** `dea:metric-credentialing-verification-currency-rate`
 - **Name:** Credentialing Verification Currency Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CVCR-HC
 
@@ -22,7 +22,7 @@ Measures whether practitioner credentials and privileges are verified within req
 ## Formula
 
 ```
-Practitioners with Current Primary Source Verification / Practitioners
+CVCR-HC = Practitioners with Current Primary Source Verification / Practitioners
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Critical Patch Compliance** (CPC) in t
 - **Canonical id:** `dea:metric-critical-patch-compliance`
 - **Name:** Critical Patch Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPC
 
@@ -22,7 +22,7 @@ Measures the share of systems patched within policy windows for critical vulnera
 ## Formula
 
 ```
-Critical Patches Applied within SLA / Critical Patches Released
+CPC = Critical Patches Applied within SLA / Critical Patches Released
 ```
 
 ## Unit

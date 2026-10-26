@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Booking Value** (ABV-T) in the
 - **Canonical id:** `dea:metric-average-booking-value`
 - **Name:** Average Booking Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABV-T
 
@@ -22,7 +22,7 @@ Measures mean revenue per booking. It matters because travel economics improve v
 ## Formula
 
 ```
-Total Booking Revenue / Bookings
+ABV-T = Total Booking Revenue / Bookings
 ```
 
 ## Unit

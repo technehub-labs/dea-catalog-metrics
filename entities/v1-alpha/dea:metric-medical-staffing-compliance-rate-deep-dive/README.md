@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medical Staffing Compliance Rate (Deep
 - **Canonical id:** `dea:metric-medical-staffing-compliance-rate-deep-dive`
 - **Name:** Medical Staffing Compliance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSCR-D
 
@@ -22,7 +22,7 @@ Measures adherence to required medical staffing standards for training and match
 ## Formula
 
 ```
-Events with Full Medical Coverage / Events
+MSCR-D = Events with Full Medical Coverage / Events
 ```
 
 ## Unit

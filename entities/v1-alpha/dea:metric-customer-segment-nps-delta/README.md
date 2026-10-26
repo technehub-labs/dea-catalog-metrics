@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Segment NPS Delta** (CSND) in
 - **Canonical id:** `dea:metric-customer-segment-nps-delta`
 - **Name:** Customer Segment NPS Delta
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSND
 
@@ -22,7 +22,7 @@ Compares Net Promoter Score across customer segments, converting a blunt satisfa
 ## Formula
 
 ```
-NPS of Target Segment - NPS of Baseline Segment
+CSND = NPS of Target Segment - NPS of Baseline Segment
 ```
 
 ## Unit

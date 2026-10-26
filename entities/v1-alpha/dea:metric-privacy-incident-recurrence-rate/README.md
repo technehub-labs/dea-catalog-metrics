@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Privacy Incident Recurrence Rate** (PI
 - **Canonical id:** `dea:metric-privacy-incident-recurrence-rate`
 - **Name:** Privacy Incident Recurrence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PIRR
 
@@ -18,7 +18,7 @@ Privacy Incident Recurrence Rate (PIRR) addresses the quality of outputs and out
 ## Formula
 
 ```
-Incidents of Same Root Cause Recurring / Incidents
+PIRR = Incidents of Same Root Cause Recurring / Incidents
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintainability Index** (MAINIDX) in t
 - **Canonical id:** `dea:metric-maintainability-index`
 - **Name:** Maintainability Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAINIDX
 
@@ -18,7 +18,7 @@ Maintainability Index (MAINIDX) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Composite of Cyclomatic Complexity, Halstead, LOC
+MAINIDX = Composite of Cyclomatic Complexity, Halstead, LOC
 ```
 
 ## Unit

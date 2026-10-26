@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recovery Time Objective Attainment (De
 - **Canonical id:** `dea:metric-recovery-time-objective-attainment-deep-dive`
 - **Name:** Recovery Time Objective Attainment (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTOA-SA
 
@@ -22,7 +22,7 @@ Measures whether critical systems restored within target recovery times in actua
 ## Formula
 
 ```
-Actual Recovery Time within RTO / Recovery Events
+RTOA-SA = Actual Recovery Time within RTO / Recovery Events
 ```
 
 ## Unit

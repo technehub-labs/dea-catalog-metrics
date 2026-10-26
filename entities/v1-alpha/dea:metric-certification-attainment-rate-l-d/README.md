@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certification Attainment Rate (L&D)** 
 - **Canonical id:** `dea:metric-certification-attainment-rate-l-d`
 - **Name:** Certification Attainment Rate (L&D)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CART-LD
 
@@ -22,7 +22,7 @@ Measures completion of role-required certifications against plan. Certifications
 ## Formula
 
 ```
-Employees Achieving Target Certifications / Planned
+CART-LD = Employees Achieving Target Certifications / Planned
 ```
 
 ## Unit

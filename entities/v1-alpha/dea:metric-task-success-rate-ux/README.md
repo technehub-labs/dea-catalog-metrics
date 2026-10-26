@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Task Success Rate (UX)** (TSR-UX) in t
 - **Canonical id:** `dea:metric-task-success-rate-ux`
 - **Name:** Task Success Rate (UX)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TSR-UX
 
@@ -18,7 +18,7 @@ A UX & Design Systems indicator, Task Success Rate (UX) (TSR-UX) quantifies the 
 ## Formula
 
 ```
-Tasks Completed Successfully by Users / Task Attempts
+TSR-UX = Tasks Completed Successfully by Users / Task Attempts
 ```
 
 ## Unit

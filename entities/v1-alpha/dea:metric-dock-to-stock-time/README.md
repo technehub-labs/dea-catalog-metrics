@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dock-to-Stock Time** (D2S) in the Open
 - **Canonical id:** `dea:metric-dock-to-stock-time`
 - **Name:** Dock-to-Stock Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D2S
 
@@ -18,7 +18,7 @@ Dock-to-Stock Time (D2S) measures how efficiently resources are converted into o
 ## Formula
 
 ```
-Hours from Receiving Dock to Stock Availability
+D2S = Hours from Receiving Dock to Stock Availability
 ```
 
 ## Unit

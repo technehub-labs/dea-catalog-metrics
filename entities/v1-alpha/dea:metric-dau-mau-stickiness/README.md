@@ -7,7 +7,7 @@ Candidate Performance Metric record for **DAU/MAU Stickiness** (STICK) in the Op
 - **Canonical id:** `dea:metric-dau-mau-stickiness`
 - **Name:** DAU/MAU Stickiness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STICK
 
@@ -22,7 +22,7 @@ Daily actives as a share of monthly actives - the fraction-of-your-audience-come
 ## Formula
 
 ```
-Daily Active Users / Monthly Active Users
+STICK = Daily Active Users / Monthly Active Users
 ```
 
 ## Unit

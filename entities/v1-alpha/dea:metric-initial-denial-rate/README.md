@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Initial Denial Rate** (IDR) in the Ope
 - **Canonical id:** `dea:metric-initial-denial-rate`
 - **Name:** Initial Denial Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IDR
 
@@ -22,7 +22,7 @@ Initial denial rate measures the share of claims denied on first adjudication, a
 ## Formula
 
 ```
-Claims Denied on First Pass / Claims Submitted
+IDR = Claims Denied on First Pass / Claims Submitted
 ```
 
 ## Unit

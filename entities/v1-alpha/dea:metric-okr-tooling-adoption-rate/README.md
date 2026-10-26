@@ -7,7 +7,7 @@ Candidate Performance Metric record for **OKR Tooling Adoption Rate** (OTAR) in 
 - **Canonical id:** `dea:metric-okr-tooling-adoption-rate`
 - **Name:** OKR Tooling Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTAR
 
@@ -18,7 +18,7 @@ Within Enterprise OKR & Performance Management, OKR Tooling Adoption Rate (OTAR)
 ## Formula
 
 ```
-Teams Using OKR Platform / Teams
+OTAR = Teams Using OKR Platform / Teams
 ```
 
 ## Unit

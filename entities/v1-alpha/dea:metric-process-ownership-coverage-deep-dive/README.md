@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Ownership Coverage (Deep Dive)
 - **Canonical id:** `dea:metric-process-ownership-coverage-deep-dive`
 - **Name:** Process Ownership Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POCD
 
@@ -22,7 +22,7 @@ Measures the share of end-to-end processes with a named, accountable owner holdi
 ## Formula
 
 ```
-Value Streams with Named Process Owner / Value Streams
+POCD = Value Streams with Named Process Owner / Value Streams
 ```
 
 ## Unit

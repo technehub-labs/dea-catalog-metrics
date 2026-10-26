@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Usage Effectiveness** (WUE-DC) i
 - **Canonical id:** `dea:metric-water-usage-effectiveness`
 - **Name:** Water Usage Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WUE-DC
 
@@ -22,7 +22,7 @@ Measures water consumed per unit of IT equipment energy (WUE). As AI-scale densi
 ## Formula
 
 ```
-Water Used / IT Energy
+WUE-DC = Water Used / IT Energy
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Day 1 Retention** (D1R) in the OpenDEA
 - **Canonical id:** `dea:metric-day-1-retention`
 - **Name:** Day 1 Retention
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** D1R
 
@@ -22,7 +22,7 @@ The share of a new-player cohort active on day one - the first checkpoint of the
 ## Formula
 
 ```
-Players Returning on Day 1 / New Player Cohort
+D1R = Players Returning on Day 1 / New Player Cohort
 ```
 
 ## Unit

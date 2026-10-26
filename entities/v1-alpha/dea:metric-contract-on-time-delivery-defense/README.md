@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract On-Time Delivery (Defense)** 
 - **Canonical id:** `dea:metric-contract-on-time-delivery-defense`
 - **Name:** Contract On-Time Delivery (Defense)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COTD
 
@@ -22,7 +22,7 @@ Contract on-time delivery measures prime and subcontractor adherence to delivery
 ## Formula
 
 ```
-Deliveries on Contract Schedule / Deliveries Due
+COTD = Deliveries on Contract Schedule / Deliveries Due
 ```
 
 ## Unit

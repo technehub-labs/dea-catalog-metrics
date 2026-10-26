@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vessel Emissions Efficiency** (VEE) in
 - **Canonical id:** `dea:metric-vessel-emissions-efficiency`
 - **Name:** Vessel Emissions Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VEE
 
@@ -22,7 +22,7 @@ Vessel emissions efficiency measures CO2 per tonne-mile (the basis of the IMO's 
 ## Formula
 
 ```
-CO2e Emitted / Tonne-Nautical Mile
+VEE = CO2e Emitted / Tonne-Nautical Mile
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Frequency** (RLF) in the OpenD
 - **Canonical id:** `dea:metric-release-frequency`
 - **Name:** Release Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RLF
 
@@ -22,7 +22,7 @@ How often code changes are deployed to production - the throughput metric of sof
 ## Formula
 
 ```
-Releases per Period
+RLF = Releases per Period
 ```
 
 ## Unit

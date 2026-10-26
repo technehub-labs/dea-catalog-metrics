@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager Span of Control (Deep Dive)** 
 - **Canonical id:** `dea:metric-manager-span-of-control-deep-dive`
 - **Name:** Manager Span of Control (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOCDD
 
@@ -22,7 +22,7 @@ Measures the average number of direct reports per manager. Span is the structura
 ## Formula
 
 ```
-Direct Reports per Manager
+SOCDD = Direct Reports per Manager
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sustainability Target Attainment** (ST
 - **Canonical id:** `dea:metric-sustainability-target-attainment`
 - **Name:** Sustainability Target Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STA
 
@@ -22,7 +22,7 @@ The share of published sustainability targets achieved on schedule - the account
 ## Formula
 
 ```
-Sustainability Targets Met / Targets Set
+STA = Sustainability Targets Met / Targets Set
 ```
 
 ## Unit

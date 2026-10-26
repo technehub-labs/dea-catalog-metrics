@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Learning Transfer Rate (Deep Dive - L&
 - **Canonical id:** `dea:metric-learning-transfer-rate-deep-dive-l-d`
 - **Name:** Learning Transfer Rate (Deep Dive - L&D)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LTRDDL
 
@@ -22,7 +22,7 @@ Measures how much of what is trained shows up in changed on-the-job behavior. Tr
 ## Formula
 
 ```
-Behaviors Applied at Work after Training / Trained Cohort
+LTRDDL = Behaviors Applied at Work after Training / Trained Cohort
 ```
 
 ## Unit

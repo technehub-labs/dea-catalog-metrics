@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue Passenger Mile Yield** (RPMY) 
 - **Canonical id:** `dea:metric-revenue-passenger-mile-yield`
 - **Name:** Revenue Passenger Mile Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPMY
 
@@ -22,7 +22,7 @@ Measures revenue per passenger mile actually flown. Yield is the pricing power s
 ## Formula
 
 ```
-Passenger Revenue / Revenue Passenger Miles
+RPMY = Passenger Revenue / Revenue Passenger Miles
 ```
 
 ## Unit

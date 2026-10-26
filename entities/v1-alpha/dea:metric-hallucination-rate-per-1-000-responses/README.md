@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Hallucination Rate per 1,000 Responses
 - **Canonical id:** `dea:metric-hallucination-rate-per-1-000-responses`
 - **Name:** Hallucination Rate per 1,000 Responses
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HALLR
 
@@ -22,7 +22,7 @@ Measures frequency of fabricated or unsupported content in generations. Hallucin
 ## Formula
 
 ```
-Responses Containing Fabricated Facts / 1,000 Responses
+HALLR = Responses Containing Fabricated Facts / 1,000 Responses
 ```
 
 ## Unit

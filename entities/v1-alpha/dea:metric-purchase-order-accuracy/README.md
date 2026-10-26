@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purchase Order Accuracy** (POA) in the
 - **Canonical id:** `dea:metric-purchase-order-accuracy`
 - **Name:** Purchase Order Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POA
 
@@ -18,7 +18,7 @@ Purchase Order Accuracy (POA) measures the quality of outputs and outcomes in th
 ## Formula
 
 ```
-Error-Free Purchase Orders / Purchase Orders Issued
+POA = Error-Free Purchase Orders / Purchase Orders Issued
 ```
 
 ## Unit

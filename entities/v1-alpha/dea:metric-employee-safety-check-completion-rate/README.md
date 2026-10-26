@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Safety Check Completion Rate*
 - **Canonical id:** `dea:metric-employee-safety-check-completion-rate`
 - **Name:** Employee Safety Check Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ESCCR
 
@@ -18,7 +18,7 @@ A Crisis Management & Emergency Response indicator, Employee Safety Check Comple
 ## Formula
 
 ```
-Staff Accounted for within Threshold in Event / Staff
+ESCCR = Staff Accounted for within Threshold in Event / Staff
 ```
 
 ## Unit

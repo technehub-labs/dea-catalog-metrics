@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Media Response Accuracy Rate** 
 - **Canonical id:** `dea:metric-crisis-media-response-accuracy-rate`
 - **Name:** Crisis Media Response Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMRAR
 
@@ -22,7 +22,7 @@ Measures whether public statements during crises were accurate and required no r
 ## Formula
 
 ```
-Public Statements Requiring Correction / Statements
+CMRAR = Public Statements Requiring Correction / Statements
 ```
 
 ## Unit

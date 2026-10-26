@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Upside Capture Ratio (Deep Dive)** (UC
 - **Canonical id:** `dea:metric-upside-capture-ratio-deep-dive`
 - **Name:** Upside Capture Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UCR-IM
 
@@ -22,7 +22,7 @@ Measures the percentage of benchmark gains the portfolio realizes in up markets.
 ## Formula
 
 ```
-Fund Upside Return / Benchmark Upside Return
+UCR-IM = Fund Upside Return / Benchmark Upside Return
 ```
 
 ## Unit

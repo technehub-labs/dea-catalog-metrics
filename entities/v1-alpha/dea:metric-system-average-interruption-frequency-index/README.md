@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Frequency 
 - **Canonical id:** `dea:metric-system-average-interruption-frequency-index`
 - **Name:** System Average Interruption Frequency Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAIFI
 
@@ -22,7 +22,7 @@ The average number of sustained outages each customer experiences per year - the
 ## Formula
 
 ```
-Total Customer Interruptions / Total Customers Served
+SAIFI = Total Customer Interruptions / Total Customers Served
 ```
 
 ## Unit

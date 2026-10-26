@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Manager Certification Coverage
 - **Canonical id:** `dea:metric-project-manager-certification-coverage`
 - **Name:** Project Manager Certification Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMCC
 
@@ -18,7 +18,7 @@ A PMO & Portfolio Governance indicator, Project Manager Certification Coverage (
 ## Formula
 
 ```
-Certified PMs / PM Population
+PMCC = Certified PMs / PM Population
 ```
 
 ## Unit

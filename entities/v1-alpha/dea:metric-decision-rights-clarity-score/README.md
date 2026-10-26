@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Decision Rights Clarity Score** (DRCS-
 - **Canonical id:** `dea:metric-decision-rights-clarity-score`
 - **Name:** Decision Rights Clarity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRCS-OM
 
@@ -22,7 +22,7 @@ Measures whether people know who decides what, at what threshold. Unclear decisi
 ## Formula
 
 ```
-Decision Types with Assigned Owner / Decision Types
+DRCS-OM = Decision Types with Assigned Owner / Decision Types
 ```
 
 ## Unit

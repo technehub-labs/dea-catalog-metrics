@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Learning Pass Rate** (CLPR-
 - **Canonical id:** `dea:metric-compliance-learning-pass-rate`
 - **Name:** Compliance Learning Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLPR-LD
 
@@ -18,7 +18,7 @@ Compliance Learning Pass Rate (CLPR-LD) measures conformance to standards, plans
 ## Formula
 
 ```
-Mandatory Course Passes on First Attempt / Attempts
+CLPR-LD = Mandatory Course Passes on First Attempt / Attempts
 ```
 
 ## Unit

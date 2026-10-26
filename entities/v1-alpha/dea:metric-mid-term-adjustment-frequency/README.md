@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mid-Term Adjustment Frequency** (MTAF)
 - **Canonical id:** `dea:metric-mid-term-adjustment-frequency`
 - **Name:** Mid-Term Adjustment Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTAF
 
@@ -18,7 +18,7 @@ Mid-Term Adjustment Frequency (MTAF) addresses exposure to adverse outcomes and 
 ## Formula
 
 ```
-Mid-Term Adjustments / Active Policies
+MTAF = Mid-Term Adjustments / Active Policies
 ```
 
 ## Unit

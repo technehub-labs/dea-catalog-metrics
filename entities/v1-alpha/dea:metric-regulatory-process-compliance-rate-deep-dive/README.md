@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Process Compliance Rate (De
 - **Canonical id:** `dea:metric-regulatory-process-compliance-rate-deep-dive`
 - **Name:** Regulatory Process Compliance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPCR-D
 
@@ -22,7 +22,7 @@ Measures adherence of core processes to applicable regulatory requirements. Regu
 ## Formula
 
 ```
-Process Audits Passed / Audits
+RPCR-D = Process Audits Passed / Audits
 ```
 
 ## Unit

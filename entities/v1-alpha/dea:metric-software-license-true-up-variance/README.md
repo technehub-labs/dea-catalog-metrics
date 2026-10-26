@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Software License True-up Variance** (S
 - **Canonical id:** `dea:metric-software-license-true-up-variance`
 - **Name:** Software License True-up Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLTV-ITFM
 
@@ -18,7 +18,7 @@ A IT Financial Management & Technology Budgeting indicator, Software License Tru
 ## Formula
 
 ```
-True-Up Payment vs Estimated Liability / Estimate
+SLTV-ITFM = True-Up Payment vs Estimated Liability / Estimate
 ```
 
 ## Unit

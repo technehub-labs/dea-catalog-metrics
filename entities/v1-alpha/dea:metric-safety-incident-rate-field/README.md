@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Safety Incident Rate (Field)** (SIR-F)
 - **Canonical id:** `dea:metric-safety-incident-rate-field`
 - **Name:** Safety Incident Rate (Field)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIR-F
 
@@ -22,7 +22,7 @@ Measures recordable safety incidents per hours worked in field operations. Field
 ## Formula
 
 ```
-Recordable Field Incidents per 200,000 Hours
+SIR-F = Recordable Field Incidents per 200,000 Hours
 ```
 
 ## Unit

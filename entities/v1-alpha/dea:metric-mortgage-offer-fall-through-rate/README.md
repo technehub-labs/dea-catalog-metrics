@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortgage Offer Fall-Through Rate** (MO
 - **Canonical id:** `dea:metric-mortgage-offer-fall-through-rate`
 - **Name:** Mortgage Offer Fall-Through Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MOFTR
 
@@ -18,7 +18,7 @@ Mortgage Offer Fall-Through Rate (MOFTR) measures exposure to adverse outcomes i
 ## Formula
 
 ```
-Offers Not Proceeding to Completion / Offers
+MOFTR = Offers Not Proceeding to Completion / Offers
 ```
 
 ## Unit

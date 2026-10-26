@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Release Rollback Automation Rate** (RR
 - **Canonical id:** `dea:metric-release-rollback-automation-rate`
 - **Name:** Release Rollback Automation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRA
 
@@ -18,7 +18,7 @@ Release Rollback Automation Rate (RRA) captures how efficiently resources are co
 ## Formula
 
 ```
-Rollbacks Executed via Automated Path / Rollbacks
+RRA = Rollbacks Executed via Automated Path / Rollbacks
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **API Contract Test Coverage** (APICC) i
 - **Canonical id:** `dea:metric-api-contract-test-coverage`
 - **Name:** API Contract Test Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** APICC
 
@@ -18,7 +18,7 @@ API Contract Test Coverage (APICC) measures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Endpoints Covered by Contract Tests / Endpoints
+APICC = Endpoints Covered by Contract Tests / Endpoints
 ```
 
 ## Unit

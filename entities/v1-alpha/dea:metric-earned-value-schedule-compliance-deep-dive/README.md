@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Earned Value Schedule Compliance (Deep
 - **Canonical id:** `dea:metric-earned-value-schedule-compliance-deep-dive`
 - **Name:** Earned Value Schedule Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EVSC-D
 
@@ -22,7 +22,7 @@ Measures schedule performance through earned value management, comparing work pe
 ## Formula
 
 ```
-Milestones with SPI >= 0.95 / Milestones
+EVSC-D = Milestones with SPI >= 0.95 / Milestones
 ```
 
 ## Unit

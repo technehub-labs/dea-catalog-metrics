@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Environment Maturity Score** (
 - **Canonical id:** `dea:metric-control-environment-maturity-score`
 - **Name:** Control Environment Maturity Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEMS
 
@@ -22,7 +22,7 @@ Measures the overall maturity of the control environment across culture, compete
 ## Formula
 
 ```
-COSO-Based Maturity Rating of Control Environment
+CEMS = COSO-Based Maturity Rating of Control Environment
 ```
 
 ## Unit

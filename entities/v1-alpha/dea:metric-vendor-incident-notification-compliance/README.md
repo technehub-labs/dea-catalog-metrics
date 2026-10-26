@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Incident Notification Complianc
 - **Canonical id:** `dea:metric-vendor-incident-notification-compliance`
 - **Name:** Vendor Incident Notification Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VINC
 
@@ -22,7 +22,7 @@ Measures whether vendors report security and continuity incidents within contrac
 ## Formula
 
 ```
-Vendor Breaches Notified per Contract Terms / Breaches
+VINC = Vendor Breaches Notified per Contract Terms / Breaches
 ```
 
 ## Unit

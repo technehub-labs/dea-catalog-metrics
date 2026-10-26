@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Success Rate** (PSR) in the Op
 - **Canonical id:** `dea:metric-project-success-rate`
 - **Name:** Project Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSR
 
@@ -22,7 +22,7 @@ The share of projects delivered meeting their baseline for scope, schedule, and 
 ## Formula
 
 ```
-Projects Meeting Scope, Schedule, Budget / Total Projects
+PSR = Projects Meeting Scope, Schedule, Budget / Total Projects
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategy Communication Reach** (SCHR) 
 - **Canonical id:** `dea:metric-strategy-communication-reach`
 - **Name:** Strategy Communication Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCHR
 
@@ -22,7 +22,7 @@ Measures the share of employees reached by strategy communication they can recal
 ## Formula
 
 ```
-Employees Aware of Strategic Objectives / Employees
+SCHR = Employees Aware of Strategic Objectives / Employees
 ```
 
 ## Unit

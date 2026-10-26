@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Visit Rate (Retail Store Teleco
 - **Canonical id:** `dea:metric-repeat-visit-rate-retail-store-telecom`
 - **Name:** Repeat Visit Rate (Retail Store Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RVR
 
@@ -18,7 +18,7 @@ A Telecom Customer Experience & Billing indicator, Repeat Visit Rate (Retail Sto
 ## Formula
 
 ```
-Customers Returning to Store within Period for Same Issue / Store Visits
+RVR = Customers Returning to Store within Period for Same Issue / Store Visits
 ```
 
 ## Unit

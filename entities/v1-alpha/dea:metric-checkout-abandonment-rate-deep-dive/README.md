@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Checkout Abandonment Rate (Deep Dive)*
 - **Canonical id:** `dea:metric-checkout-abandonment-rate-deep-dive`
 - **Name:** Checkout Abandonment Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CARD
 
@@ -18,7 +18,7 @@ Checkout Abandonment Rate (Deep Dive) (CARD) measures the retention of customers
 ## Formula
 
 ```
-Carts Abandoned before Purchase / Carts Created
+CARD = Carts Abandoned before Purchase / Carts Created
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bad Debt Expense Ratio** (BDER) in the
 - **Canonical id:** `dea:metric-bad-debt-expense-ratio`
 - **Name:** Bad Debt Expense Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BDER
 
@@ -22,7 +22,7 @@ Measures receivables written off relative to credit sales. Bad debt is the price
 ## Formula
 
 ```
-Bad Debt Write-Offs / Credit Sales
+BDER = Bad Debt Write-Offs / Credit Sales
 ```
 
 ## Unit

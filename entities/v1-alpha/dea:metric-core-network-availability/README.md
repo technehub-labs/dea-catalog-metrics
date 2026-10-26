@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Core Network Availability** (CNA) in t
 - **Canonical id:** `dea:metric-core-network-availability`
 - **Name:** Core Network Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CNA
 
@@ -22,7 +22,7 @@ Core network availability measures the uptime of the primary service infrastruct
 ## Formula
 
 ```
-Core Network Uptime / Total Time
+CNA = Core Network Uptime / Total Time
 ```
 
 ## Unit

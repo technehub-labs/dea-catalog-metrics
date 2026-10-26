@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Clearance Processing Time** (
 - **Canonical id:** `dea:metric-security-clearance-processing-time`
 - **Name:** Security Clearance Processing Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPT
 
@@ -22,7 +22,7 @@ Measures elapsed time from clearance application to adjudication. It matters bec
 ## Formula
 
 ```
-Days from Clearance Request to Adjudication
+SCPT = Days from Clearance Request to Adjudication
 ```
 
 ## Unit

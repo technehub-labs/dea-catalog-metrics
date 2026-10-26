@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Divestiture Completion Time** (DVC) in
 - **Canonical id:** `dea:metric-divestiture-completion-time`
 - **Name:** Divestiture Completion Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DVC
 
@@ -22,7 +22,7 @@ Measures elapsed time from decision to close for disposals and carve-outs. Dives
 ## Formula
 
 ```
-Days from Decision to Completed Divestiture
+DVC = Days from Decision to Completed Divestiture
 ```
 
 ## Unit

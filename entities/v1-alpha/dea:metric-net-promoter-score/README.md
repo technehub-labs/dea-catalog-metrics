@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net Promoter Score** (NPS) in the Open
 - **Canonical id:** `dea:metric-net-promoter-score`
 - **Name:** Net Promoter Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPS
 
@@ -22,7 +22,7 @@ Net Promoter Score asks customers one question - how likely are you to recommend
 ## Formula
 
 ```
-% Promoters - % Detractors
+NPS = % Promoters - % Detractors
 ```
 
 ## Unit

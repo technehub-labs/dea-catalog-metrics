@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Current Ratio (Deep Dive)** (CRDD) in 
 - **Canonical id:** `dea:metric-current-ratio-deep-dive`
 - **Name:** Current Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRDD
 
@@ -22,7 +22,7 @@ Measures current assets relative to current liabilities. It is the basic test of
 ## Formula
 
 ```
-Current Assets / Current Liabilities
+CRDD = Current Assets / Current Liabilities
 ```
 
 ## Unit

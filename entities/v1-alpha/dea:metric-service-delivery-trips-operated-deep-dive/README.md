@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Delivery - Trips Operated (Dee
 - **Canonical id:** `dea:metric-service-delivery-trips-operated-deep-dive`
 - **Name:** Service Delivery - Trips Operated (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDTO-D
 
@@ -22,7 +22,7 @@ Measures the share of scheduled transit trips actually operated. It is the relia
 ## Formula
 
 ```
-Trips Operated / Trips Scheduled
+SDTO-D = Trips Operated / Trips Scheduled
 ```
 
 ## Unit

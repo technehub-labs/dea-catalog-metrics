@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Governance Decision Backlog Age** (GDB
 - **Canonical id:** `dea:metric-governance-decision-backlog-age`
 - **Name:** Governance Decision Backlog Age
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GDBA
 
@@ -18,7 +18,7 @@ Within Enterprise Decision Effectiveness & Governance Monitoring, Governance Dec
 ## Formula
 
 ```
-Days Decisions Await Governance Body
+GDBA = Days Decisions Await Governance Body
 ```
 
 ## Unit

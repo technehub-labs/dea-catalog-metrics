@@ -46,7 +46,8 @@ ESTABLISHED_BY = "CR-MET-016"
 # CR-MET-017 (Q19): unit references canonicalised. The record version tracks
 # record changes (the formula version tracks the formula, which did not
 # change); the pilot records bumped their version on each field change.
-RECORD_VERSION = "1.0.1"
+RECORD_VERSION = "1.1.0"
+FORMULA_VERSION = "1.1.0"
 RECORD_CHANGES = [
     {
         "cr": ESTABLISHED_BY,
@@ -58,8 +59,55 @@ RECORD_CHANGES = [
         "date": "2026-10-26",
         "change": "Unit reference canonicalised: ratio form and singular names (Q19)",
     },
+    {
+        "cr": "CR-MET-020",
+        "date": "2026-10-26",
+        "change": "Derived admission fields added (subject_concept, measurement_nature, "
+                  "seed evidence) and the formula bound to its short form (Q26, Q27)",
+    },
 ]
 SEED_WORKBOOK = "seeds/open-deam-candidate-metrics-seed.xlsx"
+
+# CR-MET-020: the admission-time fields that are DERIVABLE, and the axis
+# extension that makes the corpus collision-free.
+#
+# subject_concept is the metamodel's own answer to a metric's identity: it
+# "distinguishes a Metric by what it measures rather than by its MECE label"
+# (dea-metamodel metric.json). The seed's metric ids name the subject
+# precisely, so the concept is derived from the id rather than authored.
+#
+# The vocabulary is SEEDED, not frozen: the values live in
+# classifications/subject-concepts.yaml and are reconciled to the
+# metamodel's concept entities when their home is settled (Q23, Q25).
+
+# A topic VARIANT marker: the same subject published as a focused measure set.
+VARIANT_MARKERS = ("deep_dive", "standard_measures")
+
+# Trailing measure nouns: the thing MEASURED is not the thing MEASURED ABOUT.
+# `code-churn-rate` and `code-churn` name the same subject; the rate is how
+# it is expressed.
+# A standalone "=": the formula's binding, not a comparison operator.
+BOUND_FORMULA_RE = re.compile(r"(?<![<>!=])=(?![=])")
+
+MEASURE_NOUNS = {
+    "rate", "index", "level", "score", "percentage", "percent", "amount",
+    "count", "ratio", "duration", "time", "coverage", "attainment", "trend",
+    "efficiency", "margin", "growth", "balance", "value", "volume",
+    "frequency", "accuracy", "sla", "kpi", "target", "variance", "average",
+    "mean", "sum", "number", "total",
+}
+
+# Every seed metric measures a quantity, so the measurement nature is derived
+# from the unit rather than authored per record.
+UNIT_NATURE = {
+    "percent": "numeric", "ratio": "numeric", "score": "numeric",
+    "index": "numeric", "count": "numeric", "event": "numeric",
+    "times": "numeric", "currency": "numeric", "minute": "numeric",
+    "hour": "numeric", "day": "numeric", "second": "numeric",
+    "millisecond": "numeric", "month": "numeric", "week": "numeric",
+    "year": "numeric", "tonne": "numeric", "kilolitre": "numeric",
+    "megawatthour": "numeric",
+}
 
 # Columns the workbook carries that the catalog has no field for. They are
 # documentation or provenance, and each is handled explicitly below.
@@ -198,6 +246,46 @@ def map_unit_ref(value: str, maps: dict) -> str:
     )
 
 
+def subject_phrase(metric_id: str) -> str:
+    """The subject a metric id names: what it measures, not how it is expressed.
+
+    `dea:metric-code-churn-rate` and `dea:metric-code-churn` name the same
+    subject, `code_churn`; the trailing measure noun and the topic-variant
+    markers are stripped, because the subject is the thing the metric is
+    about.
+    """
+    slug = metric_id.replace("dea:metric-", "")
+    tokens = [t for t in slug.split("-")]
+    while tokens and tokens[-1] in MEASURE_NOUNS:
+        tokens.pop()
+    while tokens and "_".join(tokens[-2:]) in VARIANT_MARKERS:
+        tokens = tokens[:-2]
+    while tokens and tokens[-1] in VARIANT_MARKERS:
+        tokens.pop()
+    return "_".join(tokens) if tokens else slug
+
+
+def subject_concept(metric_id: str) -> str:
+    """The concept reference a metric's subject resolves to."""
+    return f"dea:subject-{subject_phrase(metric_id)}"
+
+
+def seed_evidence(record_seed: dict, source_credit: str) -> list:
+    """The measurement evidence for a seed-derived record (Q27 ruling).
+
+    The seed is admissible evidence: the record cites the workbook, the
+    sheet, the row it came from, and the credit the source carries.
+    """
+    evidence = [
+        f"OpenDEAM candidate-metrics seed workbook "
+        f"({record_seed.get('workbook', SEED_WORKBOOK)}), sheet "
+        f"'{record_seed.get('sheet', SEED_SHEET)}', row {record_seed.get('row')}"
+    ]
+    if source_credit:
+        evidence.append(source_credit)
+    return evidence
+
+
 def build_record(row: dict, aliases: dict, maps: dict) -> dict:
     """Build one candidate Metric record from one workbook row."""
     def cell(name: str) -> str:
@@ -211,6 +299,23 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
     formula = cell("formula")
     unit_ref = map_unit_ref(cell("unit_id"), maps)
     unit = unit_slug(unit_ref)
+
+    # CR-MET-020: the formula is BOUND. The short form is the record's own
+    # left-hand variable, so a consumer can evaluate it, and Gate 8's rule
+    # (the abbreviation equals the formula's left-hand variable) holds for
+    # every record. The operands are read off the RIGHT-HAND side only: the
+    # left-hand side is the result, not an input.
+    abbreviation = cell("abbr")
+    # A formula is already BOUND only if it carries a standalone "=". A
+    # comparison operator (">=", "<=", "==") is not a binding: the seed
+    # publishes thresholds inside expressions, and reading their "=" as a
+    # binding left the record unbound with a nonsense left-hand side.
+    if BOUND_FORMULA_RE.search(formula):
+        bound_expression = formula
+        bound_operands = expression_operands(formula.split("=", 1)[1])
+    else:
+        bound_expression = f"{abbreviation} = {formula}"
+        bound_operands = expression_operands(formula)
 
     record = {
         "id": metric_id,
@@ -233,13 +338,13 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
         "calculation_definition": formula,
         "formula_definition": {
             "formula_id": f"dea:formula-{metric_id.replace('dea:metric-', '')}",
-            "expression": formula,
-            "inputs": [{"name": term} for term in expression_operands(formula)],
+            "expression": bound_expression,
+            "inputs": [{"name": term} for term in bound_operands],
             "operators": [],
             "parameters": [],
             "unit_semantics": {"input_units": [], "output_unit": unit_ref},
             "validation_rules": [],
-            "version": "1.0.0",
+            "version": FORMULA_VERSION,
         },
         "metadata": {
             "established_by": ESTABLISHED_BY,
@@ -259,6 +364,17 @@ def build_record(row: dict, aliases: dict, maps: dict) -> dict:
     sector = cell("sector")
     if sector and sector.lower() != "all industries":
         record["sector"] = slug(sector)
+
+    # CR-MET-020: the derivable admission-time fields. The two judgement
+    # fields (orientation_classification and measurement_nature_detail) are
+    # NOT derived: they are authored per topic pack, in the admission
+    # tranches, and a rule would fabricate them.
+    record["subject_concept"] = subject_concept(metric_id)
+    record["measurement_nature"] = UNIT_NATURE.get(unit, "numeric")
+    record["quality"] = {
+        "measurement_evidence": seed_evidence(record["metadata"]["seed"], cell("source_credit")),
+        "known_limitations": [],
+    }
     return record
 
 

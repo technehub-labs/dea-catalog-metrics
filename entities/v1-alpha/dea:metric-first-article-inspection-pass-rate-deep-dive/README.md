@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Article Inspection Pass Rate (De
 - **Canonical id:** `dea:metric-first-article-inspection-pass-rate-deep-dive`
 - **Name:** First Article Inspection Pass Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAIPR
 
@@ -18,7 +18,7 @@ First Article Inspection Pass Rate (Deep Dive) (FAIPR) addresses the quality of 
 ## Formula
 
 ```
-FAIs Accepted / FAIs Performed
+FAIPR = FAIs Accepted / FAIs Performed
 ```
 
 ## Unit

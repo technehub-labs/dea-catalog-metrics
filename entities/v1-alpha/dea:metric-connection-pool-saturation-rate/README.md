@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Connection Pool Saturation Rate** (CPS
 - **Canonical id:** `dea:metric-connection-pool-saturation-rate`
 - **Name:** Connection Pool Saturation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPSR
 
@@ -18,7 +18,7 @@ Connection Pool Saturation Rate (CPSR) addresses the utilization or availability
 ## Formula
 
 ```
-Peak Connections / Pool Capacity
+CPSR = Peak Connections / Pool Capacity
 ```
 
 ## Unit

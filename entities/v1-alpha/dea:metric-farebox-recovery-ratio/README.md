@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farebox Recovery Ratio** (FBR) in the 
 - **Canonical id:** `dea:metric-farebox-recovery-ratio`
 - **Name:** Farebox Recovery Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FBR
 
@@ -22,7 +22,7 @@ Farebox recovery ratio measures fare revenue against operating cost, and it is t
 ## Formula
 
 ```
-Fare Revenue / Operating Costs
+FBR = Fare Revenue / Operating Costs
 ```
 
 ## Unit

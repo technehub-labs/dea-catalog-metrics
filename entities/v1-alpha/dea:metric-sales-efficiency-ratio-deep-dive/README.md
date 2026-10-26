@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sales Efficiency Ratio (Deep Dive)** (
 - **Canonical id:** `dea:metric-sales-efficiency-ratio-deep-dive`
 - **Name:** Sales Efficiency Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SERD
 
@@ -22,7 +22,7 @@ Measures new revenue generated per unit of sales and marketing spend. It is the 
 ## Formula
 
 ```
-New ARR / Total Sales and Marketing Cost
+SERD = New ARR / Total Sales and Marketing Cost
 ```
 
 ## Unit

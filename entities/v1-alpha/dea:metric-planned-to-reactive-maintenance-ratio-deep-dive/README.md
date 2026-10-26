@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Planned-to-Reactive Maintenance Ratio 
 - **Canonical id:** `dea:metric-planned-to-reactive-maintenance-ratio-deep-dive`
 - **Name:** Planned-to-Reactive Maintenance Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRMR-D
 
@@ -22,7 +22,7 @@ Measures the share of maintenance work that is planned versus reactive. It is th
 ## Formula
 
 ```
-Planned Maintenance Hours / Reactive Hours
+PRMR-D = Planned Maintenance Hours / Reactive Hours
 ```
 
 ## Unit

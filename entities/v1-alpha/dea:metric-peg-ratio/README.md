@@ -7,7 +7,7 @@ Candidate Performance Metric record for **PEG Ratio** (PEGR) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-peg-ratio`
 - **Name:** PEG Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PEGR
 
@@ -22,7 +22,7 @@ Measures the price-to-earnings multiple relative to earnings growth rate. It pri
 ## Formula
 
 ```
-Price-to-Earnings / Expected Earnings Growth
+PEGR = Price-to-Earnings / Expected Earnings Growth
 ```
 
 ## Unit

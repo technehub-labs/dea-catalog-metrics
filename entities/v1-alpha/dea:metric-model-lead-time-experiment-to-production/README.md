@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Lead Time - Experiment to Produc
 - **Canonical id:** `dea:metric-model-lead-time-experiment-to-production`
 - **Name:** Model Lead Time - Experiment to Production
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MLTEP
 
@@ -22,7 +22,7 @@ Measures elapsed time from experiment approval to production deployment. It is t
 ## Formula
 
 ```
-Days from Candidate Model to Production Deployment
+MLTEP = Days from Candidate Model to Production Deployment
 ```
 
 ## Unit

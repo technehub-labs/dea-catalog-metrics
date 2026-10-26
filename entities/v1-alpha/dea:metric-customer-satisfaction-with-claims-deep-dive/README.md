@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Satisfaction with Claims (Dee
 - **Canonical id:** `dea:metric-customer-satisfaction-with-claims-deep-dive`
 - **Name:** Customer Satisfaction with Claims (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSAT-C
 
@@ -22,7 +22,7 @@ Measures claimant satisfaction through the claims journey, usually at settlement
 ## Formula
 
 ```
-Average Claimant Satisfaction Score
+CSAT-C = Average Claimant Satisfaction Score
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Profit per Employee** (PPE) in the Ope
 - **Canonical id:** `dea:metric-profit-per-employee`
 - **Name:** Profit per Employee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPE
 
@@ -22,7 +22,7 @@ Operating or net profit over headcount - the sharpened version of revenue per em
 ## Formula
 
 ```
-Operating Profit / Average Headcount
+PPE = Operating Profit / Average Headcount
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **RFx Participation Breadth** (RFXPB) in
 - **Canonical id:** `dea:metric-rfx-participation-breadth`
 - **Name:** RFx Participation Breadth
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFXPB
 
@@ -18,7 +18,7 @@ Within Strategic Sourcing & Supplier Performance (Deep Dive), RFx Participation 
 ## Formula
 
 ```
-Average Bidders per Competitive RFx
+RFXPB = Average Bidders per Competitive RFx
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Diversity Spend Ratio** (SDSR
 - **Canonical id:** `dea:metric-supplier-diversity-spend-ratio`
 - **Name:** Supplier Diversity Spend Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SDSR
 
@@ -22,7 +22,7 @@ Measures the share of procurement spend directed to certified diverse suppliers.
 ## Formula
 
 ```
-Spend with Diverse Suppliers / Total Spend
+SDSR = Spend with Diverse Suppliers / Total Spend
 ```
 
 ## Unit

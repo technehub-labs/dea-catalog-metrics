@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interagency Case Referral Cycle Time**
 - **Canonical id:** `dea:metric-interagency-case-referral-cycle-time`
 - **Name:** Interagency Case Referral Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICRC
 
@@ -18,7 +18,7 @@ Interagency Case Referral Cycle Time (ICRC) addresses how efficiently resources 
 ## Formula
 
 ```
-Days for Cross-Agency Case Completion
+ICRC = Days for Cross-Agency Case Completion
 ```
 
 ## Unit

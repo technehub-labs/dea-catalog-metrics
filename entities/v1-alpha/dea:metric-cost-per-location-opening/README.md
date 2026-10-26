@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Location Opening** (CLO) in t
 - **Canonical id:** `dea:metric-cost-per-location-opening`
 - **Name:** Cost per Location Opening
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLO
 
@@ -22,7 +22,7 @@ Measures average cost to open a new franchise or store location. It matters beca
 ## Formula
 
 ```
-Total Opening Costs / New Locations Opened
+CLO = Total Opening Costs / New Locations Opened
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change Order Rate** (COR-C) in the Ope
 - **Canonical id:** `dea:metric-change-order-rate`
 - **Name:** Change Order Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COR-C
 
@@ -22,7 +22,7 @@ Measures the frequency or value of change orders relative to the base contract. 
 ## Formula
 
 ```
-Change Order Value / Original Contract Value
+COR-C = Change Order Value / Original Contract Value
 ```
 
 ## Unit

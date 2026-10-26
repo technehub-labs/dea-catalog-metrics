@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Recovery per Performance** (CRPP)
 - **Canonical id:** `dea:metric-cost-recovery-per-performance`
 - **Name:** Cost Recovery per Performance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRPP
 
@@ -22,7 +22,7 @@ Cost recovery per performance measures earned revenue against the cost of mounti
 ## Formula
 
 ```
-Earned Revenue / Direct Production Costs
+CRPP = Earned Revenue / Direct Production Costs
 ```
 
 ## Unit

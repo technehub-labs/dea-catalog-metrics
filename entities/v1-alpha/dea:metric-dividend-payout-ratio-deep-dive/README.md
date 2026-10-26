@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dividend Payout Ratio (Deep Dive)** (D
 - **Canonical id:** `dea:metric-dividend-payout-ratio-deep-dive`
 - **Name:** Dividend Payout Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPRDD
 
@@ -22,7 +22,7 @@ Measures the share of earnings distributed as dividends. Payout balances shareho
 ## Formula
 
 ```
-Dividends / Net Income
+DPRDD = Dividends / Net Income
 ```
 
 ## Unit

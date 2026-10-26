@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stevedore Injury Rate (Deep Dive)** (S
 - **Canonical id:** `dea:metric-stevedore-injury-rate-deep-dive`
 - **Name:** Stevedore Injury Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIR-D
 
@@ -22,7 +22,7 @@ Measures dockworker injuries against exposure hours. Port operations combine hea
 ## Formula
 
 ```
-Injuries per 200,000 Hours
+SIR-D = Injuries per 200,000 Hours
 ```
 
 ## Unit

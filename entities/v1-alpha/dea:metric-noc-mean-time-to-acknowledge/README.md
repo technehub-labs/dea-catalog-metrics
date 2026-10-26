@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Mean Time to Acknowledge** (NOMTA)
 - **Canonical id:** `dea:metric-noc-mean-time-to-acknowledge`
 - **Name:** NOC Mean Time to Acknowledge
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOMTA
 
@@ -18,7 +18,7 @@ NOC Mean Time to Acknowledge (NOMTA) measures how efficiently resources are conv
 ## Formula
 
 ```
-Minutes from Alert to NOC Acknowledgment
+NOMTA = Minutes from Alert to NOC Acknowledgment
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Functional Requirement Coverage** 
 - **Canonical id:** `dea:metric-non-functional-requirement-coverage`
 - **Name:** Non-Functional Requirement Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NFRC
 
@@ -22,7 +22,7 @@ Measures how thoroughly performance, security, scalability, and reliability requ
 ## Formula
 
 ```
-NFR Categories Addressed per Release / Applicable NFRs
+NFRC = NFR Categories Addressed per Release / Applicable NFRs
 ```
 
 ## Unit

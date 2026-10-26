@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Beta** (BETA) in the OpenDEAM Metric c
 - **Canonical id:** `dea:metric-beta`
 - **Name:** Beta
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BETA
 
@@ -22,7 +22,7 @@ Beta measures a portfolio's sensitivity to market movements - the slope of its r
 ## Formula
 
 ```
-Covariance of Portfolio and Market Returns / Market Variance
+BETA = Covariance of Portfolio and Market Returns / Market Variance
 ```
 
 ## Unit

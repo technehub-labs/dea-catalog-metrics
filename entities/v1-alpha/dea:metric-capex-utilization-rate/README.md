@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capex Utilization Rate** (CUR-FP) in t
 - **Canonical id:** `dea:metric-capex-utilization-rate`
 - **Name:** Capex Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CUR-FP
 
@@ -22,7 +22,7 @@ Measures how much approved capital investment is actually deployed and deliverin
 ## Formula
 
 ```
-Capex Spent vs Approved Plan / Plan
+CUR-FP = Capex Spent vs Approved Plan / Plan
 ```
 
 ## Unit

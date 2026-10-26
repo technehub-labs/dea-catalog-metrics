@@ -7,6 +7,20 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 ### Added
+- CR-MET-020: the axis extension, the seed as evidence, and the tranche plan
+  (Q26, Q27, Q28). The MECE uniqueness key now carries `subject_concept`,
+  which is what the metamodel says distinguishes a Metric "by what it
+  measures rather than by its MECE label": the corpus resolves from 500
+  signatures with 4303 colliding records to 4402 signatures with 26 records
+  in 25 clusters. The subject concept is derived from the seed's metric id
+  and the vocabulary is seeded, not frozen
+  (`classifications/subject-concepts.yaml`, 4316 concepts, CI-checked).
+  `measurement_nature` is derived from the unit; the seed is admissible
+  evidence (Q27), so every record cites its workbook, sheet and row; and the
+  formula is bound to its short form, with Gate 7's unbound scan reading the
+  right-hand side only. Two judgement fields remain outstanding
+  (`orientation_classification`, `measurement_nature_detail`), authored per
+  topic pack in the 14 admission tranches. No record is admitted here.
 - CR-MET-019: the admission readiness assessment. `scripts/admission_readiness.py`
   scores every candidate against exactly what the gates enforce for an
   admitted record, importing the dual anchor's constant sets rather than

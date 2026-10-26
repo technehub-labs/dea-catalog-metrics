@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Availability** (AVL) in the OpenDEAM M
 - **Canonical id:** `dea:metric-availability`
 - **Name:** Availability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVL
 
@@ -22,7 +22,7 @@ Measures the share of scheduled time an asset is capable of performing its funct
 ## Formula
 
 ```
-Uptime / (Uptime + Downtime)
+AVL = Uptime / (Uptime + Downtime)
 ```
 
 ## Unit

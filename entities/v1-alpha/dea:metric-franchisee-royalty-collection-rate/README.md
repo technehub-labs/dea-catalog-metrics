@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Franchisee Royalty Collection Rate** (
 - **Canonical id:** `dea:metric-franchisee-royalty-collection-rate`
 - **Name:** Franchisee Royalty Collection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRCR-D
 
@@ -22,7 +22,7 @@ Measures royalties actually collected against royalties billed. It is the cash-i
 ## Formula
 
 ```
-Royalties Collected / Royalties Due
+FRCR-D = Royalties Collected / Royalties Due
 ```
 
 ## Unit

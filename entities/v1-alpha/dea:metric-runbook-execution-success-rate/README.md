@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Runbook Execution Success Rate** (RESR
 - **Canonical id:** `dea:metric-runbook-execution-success-rate`
 - **Name:** Runbook Execution Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RESR-NOC
 
@@ -18,7 +18,7 @@ Runbook Execution Success Rate (RESR-NOC) addresses the quality of outputs and o
 ## Formula
 
 ```
-Runbook-Guided Resolutions Successful / Executed
+RESR-NOC = Runbook-Guided Resolutions Successful / Executed
 ```
 
 ## Unit

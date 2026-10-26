@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Check** (AC-H) in the OpenDEAM
 - **Canonical id:** `dea:metric-average-check`
 - **Name:** Average Check
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AC-H
 
@@ -22,7 +22,7 @@ Measures mean spend per guest visit. It matters because growing check size is th
 ## Formula
 
 ```
-Revenue / Number of Guests or Checks
+AC-H = Revenue / Number of Guests or Checks
 ```
 
 ## Unit

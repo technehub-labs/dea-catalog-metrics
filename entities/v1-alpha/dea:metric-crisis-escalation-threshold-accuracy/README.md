@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Escalation Threshold Accuracy**
 - **Canonical id:** `dea:metric-crisis-escalation-threshold-accuracy`
 - **Name:** Crisis Escalation Threshold Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CETA
 
@@ -18,7 +18,7 @@ Crisis Escalation Threshold Accuracy (CETA) addresses the quality of outputs and
 ## Formula
 
 ```
-Events Correctly Classified on First Assessment / Events
+CETA = Events Correctly Classified on First Assessment / Events
 ```
 
 ## Unit

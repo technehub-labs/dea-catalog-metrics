@@ -8,7 +8,7 @@ description: 'Time to Placement (TTP) addresses how efficiently resources are co
   It is a standard measure in the Staffing & recruiting sector.'
 abbreviation: TTP
 unit: day
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Days from Mandate Opening to Accepted Offer
 formula_definition:
   formula_id: dea:formula-time-to-placement
-  expression: Days from Mandate Opening to Accepted Offer
+  expression: TTP = Days from Mandate Opening to Accepted Offer
   inputs:
   - name: Days from Mandate Opening to Accepted Offer
   operators: []
@@ -35,7 +35,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-day
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -46,6 +46,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -53,3 +57,11 @@ metadata:
     batch: '3'
 domain: staffing_recruiting
 sector: staffing_recruiting
+subject_concept: dea:subject-time_to_placement
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1022
+  - Public domain - no attribution required
+  known_limitations: []

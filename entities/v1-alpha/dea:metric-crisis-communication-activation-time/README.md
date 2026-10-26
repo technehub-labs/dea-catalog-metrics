@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crisis Communication Activation Time**
 - **Canonical id:** `dea:metric-crisis-communication-activation-time`
 - **Name:** Crisis Communication Activation Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCAT
 
@@ -22,7 +22,7 @@ Measures elapsed time from incident to first coordinated public communication. S
 ## Formula
 
 ```
-Hours from Event to First Approved Statement
+CCAT = Hours from Event to First Approved Statement
 ```
 
 ## Unit

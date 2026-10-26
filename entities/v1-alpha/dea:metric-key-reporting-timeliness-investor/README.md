@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Key Reporting Timeliness (Investor)** 
 - **Canonical id:** `dea:metric-key-reporting-timeliness-investor`
 - **Name:** Key Reporting Timeliness (Investor)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KRTI
 
@@ -18,7 +18,7 @@ Key Reporting Timeliness (Investor) (KRTI) addresses the quality of outputs and 
 ## Formula
 
 ```
-Client Reports Delivered by Deadline / Reports
+KRTI = Client Reports Delivered by Deadline / Reports
 ```
 
 ## Unit

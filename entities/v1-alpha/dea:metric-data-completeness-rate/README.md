@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Completeness Rate** (DCR-DQ) in t
 - **Canonical id:** `dea:metric-data-completeness-rate`
 - **Name:** Data Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-DQ
 
@@ -18,7 +18,7 @@ Data Completeness Rate (DCR-DQ) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Mandatory Fields Populated / Mandatory Fields
+DCR-DQ = Mandatory Fields Populated / Mandatory Fields
 ```
 
 ## Unit

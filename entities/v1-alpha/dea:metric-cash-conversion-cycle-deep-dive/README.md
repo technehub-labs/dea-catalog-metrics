@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cash Conversion Cycle (Deep Dive)** (C
 - **Canonical id:** `dea:metric-cash-conversion-cycle-deep-dive`
 - **Name:** Cash Conversion Cycle (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCC-D
 
@@ -22,7 +22,7 @@ Measures days from cash out (inventory, payables) to cash in (receivables). CCC 
 ## Formula
 
 ```
-DIO + DSO - DPO
+CCC-D = DIO + DSO - DPO
 ```
 
 ## Unit

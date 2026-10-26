@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Content Hour (Gaming)** (CPCH
 - **Canonical id:** `dea:metric-cost-per-content-hour-gaming`
 - **Name:** Cost per Content Hour (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCH
 
@@ -22,7 +22,7 @@ Measures development and live-ops cost per hour of player engagement delivered. 
 ## Formula
 
 ```
-Development Cost / Playable Hours Delivered
+CPCH = Development Cost / Playable Hours Delivered
 ```
 
 ## Unit

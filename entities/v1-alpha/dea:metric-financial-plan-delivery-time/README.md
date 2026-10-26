@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Plan Delivery Time** (FPDT) 
 - **Canonical id:** `dea:metric-financial-plan-delivery-time`
 - **Name:** Financial Plan Delivery Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FPDT
 
@@ -18,7 +18,7 @@ Within Asset & Wealth Management (Deep Dive), Financial Plan Delivery Time (FPDT
 ## Formula
 
 ```
-Days from Data Gathering to Plan Presentation
+FPDT = Days from Data Gathering to Plan Presentation
 ```
 
 ## Unit

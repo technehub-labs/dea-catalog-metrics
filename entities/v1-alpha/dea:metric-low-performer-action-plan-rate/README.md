@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Low Performer Action Plan Rate** (LPAP
 - **Canonical id:** `dea:metric-low-performer-action-plan-rate`
 - **Name:** Low Performer Action Plan Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LPAPR
 
@@ -18,7 +18,7 @@ Low Performer Action Plan Rate (LPAPR) captures capability maturity or developme
 ## Formula
 
 ```
-Underperformers with Development Plans / Identified
+LPAPR = Underperformers with Development Plans / Identified
 ```
 
 ## Unit

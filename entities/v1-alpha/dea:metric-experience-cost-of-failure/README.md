@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Experience Cost of Failure** (ECF) in 
 - **Canonical id:** `dea:metric-experience-cost-of-failure`
 - **Name:** Experience Cost of Failure
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECF
 
@@ -22,7 +22,7 @@ Measures the financial cost of experience failures including service, churn, and
 ## Formula
 
 ```
-Cost of Rework, Credits, and Recovery per Failed Experience
+ECF = Cost of Rework, Credits, and Recovery per Failed Experience
 ```
 
 ## Unit

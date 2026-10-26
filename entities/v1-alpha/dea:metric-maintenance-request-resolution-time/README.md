@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maintenance Request Resolution Time** 
 - **Canonical id:** `dea:metric-maintenance-request-resolution-time`
 - **Name:** Maintenance Request Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRRT
 
@@ -18,7 +18,7 @@ Within Facilities & Real Estate, Maintenance Request Resolution Time (MRRT) is u
 ## Formula
 
 ```
-Hours from Request to Completion
+MRRT = Hours from Request to Completion
 ```
 
 ## Unit

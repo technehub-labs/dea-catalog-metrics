@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employment Outcome Rate (Deep Dive)** 
 - **Canonical id:** `dea:metric-employment-outcome-rate-deep-dive`
 - **Name:** Employment Outcome Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOR-D
 
@@ -22,7 +22,7 @@ Measures the share of graduates employed in relevant fields within a standard wi
 ## Formula
 
 ```
-Graduates Employed in Field / Graduates
+EOR-D = Graduates Employed in Field / Graduates
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milestone Adherence** (MA) in the Open
 - **Canonical id:** `dea:metric-milestone-adherence`
 - **Name:** Milestone Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MA
 
@@ -22,7 +22,7 @@ Measures the share of project milestones completed on schedule. It matters becau
 ## Formula
 
 ```
-Milestones Met on Time / Milestones Planned
+MA = Milestones Met on Time / Milestones Planned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Capacity Utilization (Venues)** (CUV) 
 - **Canonical id:** `dea:metric-capacity-utilization-venues`
 - **Name:** Capacity Utilization (Venues)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CUV
 
@@ -22,7 +22,7 @@ Measures attendance or use against available capacity. It is the revenue-efficie
 ## Formula
 
 ```
-Tickets Sold / Ticketable Capacity
+CUV = Tickets Sold / Ticketable Capacity
 ```
 
 ## Unit

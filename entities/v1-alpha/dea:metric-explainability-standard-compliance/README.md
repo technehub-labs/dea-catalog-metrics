@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Explainability Standard Compliance** (
 - **Canonical id:** `dea:metric-explainability-standard-compliance`
 - **Name:** Explainability Standard Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EXSC
 
@@ -22,7 +22,7 @@ Measures whether models used in consequential decisions meet the enterprise expl
 ## Formula
 
 ```
-Models Meeting Explainability Requirement / In-Scope Models
+EXSC = Models Meeting Explainability Requirement / In-Scope Models
 ```
 
 ## Unit

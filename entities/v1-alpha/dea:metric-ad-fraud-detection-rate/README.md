@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Fraud Detection Rate** (AFDR) in th
 - **Canonical id:** `dea:metric-ad-fraud-detection-rate`
 - **Name:** Ad Fraud Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFDR
 
@@ -18,7 +18,7 @@ Within Advertising & Media Buying, Ad Fraud Detection Rate (AFDR) is used to gau
 ## Formula
 
 ```
-Invalid Traffic Identified / Traffic Analyzed
+AFDR = Invalid Traffic Identified / Traffic Analyzed
 ```
 
 ## Unit

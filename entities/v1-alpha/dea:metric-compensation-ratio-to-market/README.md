@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensation Ratio to Market** (CRM) i
 - **Canonical id:** `dea:metric-compensation-ratio-to-market`
 - **Name:** Compensation Ratio to Market
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRM
 
@@ -22,7 +22,7 @@ Organization pay levels relative to the market benchmark - typically the ratio o
 ## Formula
 
 ```
-Average Salary / Market Median Salary
+CRM = Average Salary / Market Median Salary
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Gig Worker Fulfilment Rate** (GWFR) in
 - **Canonical id:** `dea:metric-gig-worker-fulfilment-rate`
 - **Name:** Gig Worker Fulfilment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GWFR
 
@@ -18,7 +18,7 @@ Gig Worker Fulfilment Rate (GWFR) addresses the utilization or availability of c
 ## Formula
 
 ```
-Tasks Accepted within SLA / Tasks Posted
+GWFR = Tasks Accepted within SLA / Tasks Posted
 ```
 
 ## Unit

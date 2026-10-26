@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Excess and Obsolete Inventory Ratio** 
 - **Canonical id:** `dea:metric-excess-and-obsolete-inventory-ratio`
 - **Name:** Excess and Obsolete Inventory Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOIR
 
@@ -22,7 +22,7 @@ Measures the share of inventory value that is excess to foreseeable demand, obso
 ## Formula
 
 ```
-Excess and Obsolete Inventory Value / Total Inventory Value
+EOIR = Excess and Obsolete Inventory Value / Total Inventory Value
 ```
 
 ## Unit

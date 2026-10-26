@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standard Change Pre-Approval Ratio** (
 - **Canonical id:** `dea:metric-standard-change-pre-approval-ratio`
 - **Name:** Standard Change Pre-Approval Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCPR
 
@@ -18,7 +18,7 @@ A Network Change & Configuration Management indicator, Standard Change Pre-Appro
 ## Formula
 
 ```
-Change Types Pre-Approved as Standard / Change Types
+SCPR = Change Types Pre-Approved as Standard / Change Types
 ```
 
 ## Unit

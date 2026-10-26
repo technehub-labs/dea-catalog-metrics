@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Prior Authorization Success Rate** (PA
 - **Canonical id:** `dea:metric-prior-authorization-success-rate`
 - **Name:** Prior Authorization Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PASR
 
@@ -22,7 +22,7 @@ Measures the share of prior authorization requests approved by payers. It matter
 ## Formula
 
 ```
-Services Authorized on Request / Services Requiring Authorization
+PASR = Services Authorized on Request / Services Requiring Authorization
 ```
 
 ## Unit

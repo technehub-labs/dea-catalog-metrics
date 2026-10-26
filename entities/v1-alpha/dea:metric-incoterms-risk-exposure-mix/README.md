@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incoterms Risk Exposure Mix** (IREM) i
 - **Canonical id:** `dea:metric-incoterms-risk-exposure-mix`
 - **Name:** Incoterms Risk Exposure Mix
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IREM
 
@@ -18,7 +18,7 @@ Incoterms Risk Exposure Mix (IREM) addresses exposure to adverse outcomes and is
 ## Formula
 
 ```
-Shipment Value by Incoterms Risk-Transfer Point
+IREM = Shipment Value by Incoterms Risk-Transfer Point
 ```
 
 ## Unit

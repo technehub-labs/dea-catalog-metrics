@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Monitoring Coverage Ratio** (MONCR) in
 - **Canonical id:** `dea:metric-monitoring-coverage-ratio`
 - **Name:** Monitoring Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MONCR
 
@@ -22,7 +22,7 @@ Measures the share of network elements under active monitoring. Coverage is the 
 ## Formula
 
 ```
-Devices under Monitoring / In-Scope Devices
+MONCR = Devices under Monitoring / In-Scope Devices
 ```
 
 ## Unit

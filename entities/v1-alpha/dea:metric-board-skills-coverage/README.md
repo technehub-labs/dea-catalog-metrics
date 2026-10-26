@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Board Skills Coverage** (BSC) in the O
 - **Canonical id:** `dea:metric-board-skills-coverage`
 - **Name:** Board Skills Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSC
 
@@ -22,7 +22,7 @@ Board skills coverage measures the composition of the board against a defined sk
 ## Formula
 
 ```
-Required Competencies Present on Board / Required Competencies
+BSC = Required Competencies Present on Board / Required Competencies
 ```
 
 ## Unit

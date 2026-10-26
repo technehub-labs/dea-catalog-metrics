@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Warranty Cost per Vehicle (Deep Dive)*
 - **Canonical id:** `dea:metric-warranty-cost-per-vehicle-deep-dive`
 - **Name:** Warranty Cost per Vehicle (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCPV-D
 
@@ -22,7 +22,7 @@ Measures warranty spend normalized by vehicles sold. It is the long-delay truth 
 ## Formula
 
 ```
-Warranty Spend / Vehicles Sold
+WCPV-D = Warranty Spend / Vehicles Sold
 ```
 
 ## Unit

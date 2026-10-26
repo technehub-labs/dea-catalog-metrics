@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Base Station Downtime per Quarter** (B
 - **Canonical id:** `dea:metric-base-station-downtime-per-quarter`
 - **Name:** Base Station Downtime per Quarter
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSDT
 
@@ -18,7 +18,7 @@ A Telecom Network Operations indicator, Base Station Downtime per Quarter (BSDT)
 ## Formula
 
 ```
-Total Site Unavailability Hours per Quarter
+BSDT = Total Site Unavailability Hours per Quarter
 ```
 
 ## Unit

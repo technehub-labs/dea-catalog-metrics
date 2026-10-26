@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Architecture Review Pass Rate** (ARPR)
 - **Canonical id:** `dea:metric-architecture-review-pass-rate`
 - **Name:** Architecture Review Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPR
 
@@ -22,7 +22,7 @@ Measures the share of designs passing architecture reviews without major rework.
 ## Formula
 
 ```
-Designs Approved at First Review / Designs Reviewed
+ARPR = Designs Approved at First Review / Designs Reviewed
 ```
 
 ## Unit

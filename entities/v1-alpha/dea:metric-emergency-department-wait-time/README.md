@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Emergency Department Wait Time** (EDWT
 - **Canonical id:** `dea:metric-emergency-department-wait-time`
 - **Name:** Emergency Department Wait Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDWT
 
@@ -22,7 +22,7 @@ Elapsed time from emergency arrival to care - conventionally the time to see a c
 ## Formula
 
 ```
-Median Minutes from Arrival to Treatment
+EDWT = Median Minutes from Arrival to Treatment
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Energy Consumption** (EC) in the OpenD
 - **Canonical id:** `dea:metric-energy-consumption`
 - **Name:** Energy Consumption
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EC
 
@@ -22,7 +22,7 @@ Total energy used by the organization, conventionally in megawatt-hours or gigaj
 ## Formula
 
 ```
-Total Energy Consumed per Period
+EC = Total Energy Consumed per Period
 ```
 
 ## Unit

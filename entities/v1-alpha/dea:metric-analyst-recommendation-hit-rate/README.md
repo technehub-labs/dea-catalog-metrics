@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analyst Recommendation Hit Rate** (ARH
 - **Canonical id:** `dea:metric-analyst-recommendation-hit-rate`
 - **Name:** Analyst Recommendation Hit Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARHR
 
@@ -22,7 +22,7 @@ Measures how often analyst recommendations are followed by the expected price di
 ## Formula
 
 ```
-Recommendations Meeting Target Return / Recommendations
+ARHR = Recommendations Meeting Target Return / Recommendations
 ```
 
 ## Unit

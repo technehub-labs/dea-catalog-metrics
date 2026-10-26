@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Margin Contribution** (PMC) in
 - **Canonical id:** `dea:metric-product-margin-contribution`
 - **Name:** Product Margin Contribution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMC
 
@@ -22,7 +22,7 @@ The share of total margin contributed by a product or line - the profitability-d
 ## Formula
 
 ```
-(Product Revenue - Product Cost) / Product Revenue
+PMC = (Product Revenue - Product Cost) / Product Revenue
 ```
 
 ## Unit

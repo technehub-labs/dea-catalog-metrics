@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Cost per Transaction (Deep Div
 - **Canonical id:** `dea:metric-process-cost-per-transaction-deep-dive-ops`
 - **Name:** Process Cost per Transaction (Deep Dive - Ops)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCPTD
 
@@ -18,7 +18,7 @@ Process Cost per Transaction (Deep Dive - Ops) (PCPTD) addresses how efficiently
 ## Formula
 
 ```
-Fully Loaded Cost / Process Transactions
+PCPTD = Fully Loaded Cost / Process Transactions
 ```
 
 ## Unit

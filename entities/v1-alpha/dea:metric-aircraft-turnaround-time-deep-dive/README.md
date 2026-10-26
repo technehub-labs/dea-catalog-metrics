@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Aircraft Turnaround Time (Deep Dive)**
 - **Canonical id:** `dea:metric-aircraft-turnaround-time-deep-dive`
 - **Name:** Aircraft Turnaround Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TATDD
 
@@ -18,7 +18,7 @@ A Airline & Transportation Standard Measures (Deep Dive) indicator, Aircraft Tur
 ## Formula
 
 ```
-Minutes from Arrival Gate to Departure Gate
+TATDD = Minutes from Arrival Gate to Departure Gate
 ```
 
 ## Unit

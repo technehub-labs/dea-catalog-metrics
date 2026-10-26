@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Care Plan Review Currency** (CPRC) in 
 - **Canonical id:** `dea:metric-care-plan-review-currency`
 - **Name:** Care Plan Review Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPRC
 
@@ -18,7 +18,7 @@ Care Plan Review Currency (CPRC) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Care Plans Reviewed within Interval / Care Plans
+CPRC = Care Plans Reviewed within Interval / Care Plans
 ```
 
 ## Unit

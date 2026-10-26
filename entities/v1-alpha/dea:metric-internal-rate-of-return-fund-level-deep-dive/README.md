@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Internal Rate of Return - Fund Level (
 - **Canonical id:** `dea:metric-internal-rate-of-return-fund-level-deep-dive`
 - **Name:** Internal Rate of Return - Fund Level (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FIRR-D
 
@@ -22,7 +22,7 @@ Measures the annualized return of the fund including timing of cash flows. IRR i
 ## Formula
 
 ```
-Fund Cash Flow IRR
+FIRR-D = Fund Cash Flow IRR
 ```
 
 ## Unit

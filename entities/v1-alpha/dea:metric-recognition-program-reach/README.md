@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Recognition Program Reach** (RPR-EE) i
 - **Canonical id:** `dea:metric-recognition-program-reach`
 - **Name:** Recognition Program Reach
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPR-EE
 
@@ -18,7 +18,7 @@ Recognition Program Reach (RPR-EE) captures the engagement or satisfaction of th
 ## Formula
 
 ```
-Employees Recognized in Period / Employees
+RPR-EE = Employees Recognized in Period / Employees
 ```
 
 ## Unit

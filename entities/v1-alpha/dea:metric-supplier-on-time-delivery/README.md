@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier On-Time Delivery** (SOTD) in 
 - **Canonical id:** `dea:metric-supplier-on-time-delivery`
 - **Name:** Supplier On-Time Delivery
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SOTD
 
@@ -22,7 +22,7 @@ Measures the share of supplier order lines delivered by the agreed date. It matt
 ## Formula
 
 ```
-Supplier Deliveries On Time / Total Supplier Deliveries
+SOTD = Supplier Deliveries On Time / Total Supplier Deliveries
 ```
 
 ## Unit

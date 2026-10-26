@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alternative Fuel Substitution Rate** (
 - **Canonical id:** `dea:metric-alternative-fuel-substitution-rate`
 - **Name:** Alternative Fuel Substitution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFSR
 
@@ -22,7 +22,7 @@ Measures the share of kiln thermal energy from alternative fuels - waste-derived
 ## Formula
 
 ```
-Alternative Fuel Heat / Total Fuel Heat
+AFSR = Alternative Fuel Heat / Total Fuel Heat
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Onboarding Completion Rate** (OCR) in 
 - **Canonical id:** `dea:metric-onboarding-completion-rate`
 - **Name:** Onboarding Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OCR
 
@@ -22,7 +22,7 @@ Measures the share of new customers finishing the defined onboarding sequence. I
 ## Formula
 
 ```
-Accounts Completing Onboarding Milestones / New Accounts
+OCR = Accounts Completing Onboarding Milestones / New Accounts
 ```
 
 ## Unit

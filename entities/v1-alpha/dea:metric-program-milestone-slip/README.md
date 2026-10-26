@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Program Milestone Slip** (PMS) in the 
 - **Canonical id:** `dea:metric-program-milestone-slip`
 - **Name:** Program Milestone Slip
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PMS
 
@@ -22,7 +22,7 @@ Program milestone slip measures schedule growth against baselines at decision po
 ## Formula
 
 ```
-Days of Schedule Slip at Milestone
+PMS = Days of Schedule Slip at Milestone
 ```
 
 ## Unit

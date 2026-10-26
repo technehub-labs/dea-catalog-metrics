@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Test Compliance Rate** (
 - **Canonical id:** `dea:metric-accessibility-test-compliance-rate`
 - **Name:** Accessibility Test Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATCR-QA
 
@@ -22,7 +22,7 @@ Measures the share of interfaces and user flows passing WCAG-based automated and
 ## Formula
 
 ```
-WCAG Checks Passed / Checks
+ATCR-QA = WCAG Checks Passed / Checks
 ```
 
 ## Unit

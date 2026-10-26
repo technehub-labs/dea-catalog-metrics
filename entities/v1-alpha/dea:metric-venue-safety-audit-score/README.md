@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Venue Safety Audit Score** (VSAS-V) in
 - **Canonical id:** `dea:metric-venue-safety-audit-score`
 - **Name:** Venue Safety Audit Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VSAS-V
 
@@ -22,7 +22,7 @@ Measures performance against venue safety audit protocols - crowd management, em
 ## Formula
 
 ```
-Composite Venue Safety Audit Score
+VSAS-V = Composite Venue Safety Audit Score
 ```
 
 ## Unit

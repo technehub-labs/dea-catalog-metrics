@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Capacity Headroom (Deep Dive)*
 - **Canonical id:** `dea:metric-network-capacity-headroom-deep-dive`
 - **Name:** Network Capacity Headroom (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCH-D
 
@@ -18,7 +18,7 @@ Network Capacity Headroom (Deep Dive) (NCH-D) addresses the utilization or avail
 ## Formula
 
 ```
-Peak Utilization / Provisioned Capacity
+NCH-D = Peak Utilization / Provisioned Capacity
 ```
 
 ## Unit

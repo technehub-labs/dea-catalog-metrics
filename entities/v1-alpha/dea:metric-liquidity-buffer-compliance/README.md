@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liquidity Buffer Compliance** (LBC-T) 
 - **Canonical id:** `dea:metric-liquidity-buffer-compliance`
 - **Name:** Liquidity Buffer Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LBC-T
 
@@ -22,7 +22,7 @@ Measures whether liquid asset buffers meet policy minimums (coverage days, ratio
 ## Formula
 
 ```
-Days Buffer Meets Policy / Days in Period
+LBC-T = Days Buffer Meets Policy / Days in Period
 ```
 
 ## Unit

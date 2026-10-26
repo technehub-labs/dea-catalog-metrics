@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Interview Completion SLA Rate** (ICSLA
 - **Canonical id:** `dea:metric-interview-completion-sla-rate`
 - **Name:** Interview Completion SLA Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICSLA
 
@@ -18,7 +18,7 @@ Interview Completion SLA Rate (ICSLA) captures how efficiently resources are con
 ## Formula
 
 ```
-Interview Stages Completed within SLA / Stages
+ICSLA = Interview Stages Completed within SLA / Stages
 ```
 
 ## Unit

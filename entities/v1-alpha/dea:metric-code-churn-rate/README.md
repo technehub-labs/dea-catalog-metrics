@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Code Churn Rate** (CCR-SD) in the Open
 - **Canonical id:** `dea:metric-code-churn-rate`
 - **Name:** Code Churn Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-SD
 
@@ -18,7 +18,7 @@ Within Software Development - Coding & Engineering Practices, Code Churn Rate (C
 ## Formula
 
 ```
-Lines Rewritten shortly after Delivery / Lines Delivered
+CCR-SD = Lines Rewritten shortly after Delivery / Lines Delivered
 ```
 
 ## Unit

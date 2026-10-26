@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Archival Compliance** (DAC-E) in 
 - **Canonical id:** `dea:metric-data-archival-compliance`
 - **Name:** Data Archival Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAC-E
 
@@ -18,7 +18,7 @@ Data Archival Compliance (DAC-E) measures conformance to standards, plans, or ob
 ## Formula
 
 ```
-Records Archived per Policy / Due
+DAC-E = Records Archived per Policy / Due
 ```
 
 ## Unit

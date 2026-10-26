@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Turnover Ratio** (PTR) in th
 - **Canonical id:** `dea:metric-portfolio-turnover-ratio`
 - **Name:** Portfolio Turnover Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTR
 
@@ -22,7 +22,7 @@ Portfolio turnover measures the share of a portfolio's holdings traded in a peri
 ## Formula
 
 ```
-Min(Purchases, Sales) / Average Portfolio Value
+PTR = Min(Purchases, Sales) / Average Portfolio Value
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stock Loss Rate (Pharmacy - Vet)** (SL
 - **Canonical id:** `dea:metric-stock-loss-rate-pharmacy-vet`
 - **Name:** Stock Loss Rate (Pharmacy - Vet)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLR-V
 
@@ -18,7 +18,7 @@ Within Veterinary & Animal Health, Stock Loss Rate (Pharmacy - Vet) (SLR-V) is u
 ## Formula
 
 ```
-Expired or Lost Inventory Value / Inventory Value
+SLR-V = Expired or Lost Inventory Value / Inventory Value
 ```
 
 ## Unit

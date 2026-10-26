@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Restatement Count** (FRC) in
 - **Canonical id:** `dea:metric-financial-restatement-count`
 - **Name:** Financial Restatement Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FRC
 
@@ -22,7 +22,7 @@ Measures the frequency of restated financial statements. Restatements are the mo
 ## Formula
 
 ```
-Restatements Issued in Period
+FRC = Restatements Issued in Period
 ```
 
 ## Unit

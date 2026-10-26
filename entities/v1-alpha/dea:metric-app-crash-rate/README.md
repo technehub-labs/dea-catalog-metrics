@@ -7,7 +7,7 @@ Candidate Performance Metric record for **App Crash Rate** (ACR2) in the OpenDEA
 - **Canonical id:** `dea:metric-app-crash-rate`
 - **Name:** App Crash Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR2
 
@@ -18,7 +18,7 @@ App Crash Rate (ACR2) addresses the quality of outputs and outcomes and is a fix
 ## Formula
 
 ```
-Sessions with Crash / Total Sessions
+ACR2 = Sessions with Crash / Total Sessions
 ```
 
 ## Unit

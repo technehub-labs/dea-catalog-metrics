@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Methane Emissions Intensity** (MEI) in
 - **Canonical id:** `dea:metric-methane-emissions-intensity`
 - **Name:** Methane Emissions Intensity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MEI
 
@@ -22,7 +22,7 @@ Methane emissions intensity measures leaked and vented methane per unit of produ
 ## Formula
 
 ```
-Methane Emitted / Hydrocarbons Produced
+MEI = Methane Emitted / Hydrocarbons Produced
 ```
 
 ## Unit

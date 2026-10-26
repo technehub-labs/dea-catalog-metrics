@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Server Capacity Headroom (Gaming)** (S
 - **Canonical id:** `dea:metric-server-capacity-headroom-gaming`
 - **Name:** Server Capacity Headroom (Gaming)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCH-G
 
@@ -18,7 +18,7 @@ Server Capacity Headroom (Gaming) (SCH-G) addresses the utilization or availabil
 ## Formula
 
 ```
-Peak Utilized Capacity / Provisioned Capacity
+SCH-G = Peak Utilized Capacity / Provisioned Capacity
 ```
 
 ## Unit

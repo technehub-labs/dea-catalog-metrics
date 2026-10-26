@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Dashboard Link Compliance** (
 - **Canonical id:** `dea:metric-alert-to-dashboard-link-compliance`
 - **Name:** Alert-to-Dashboard Link Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADLC
 
@@ -18,7 +18,7 @@ Alert-to-Dashboard Link Compliance (ADLC) addresses the quality of outputs and o
 ## Formula
 
 ```
-Alerts Linking to Runbook and Dashboard / Alerts
+ADLC = Alerts Linking to Runbook and Dashboard / Alerts
 ```
 
 ## Unit

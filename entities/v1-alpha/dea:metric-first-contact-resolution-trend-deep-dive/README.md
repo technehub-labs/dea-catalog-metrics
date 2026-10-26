@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution Trend (Deep D
 - **Canonical id:** `dea:metric-first-contact-resolution-trend-deep-dive`
 - **Name:** First Contact Resolution Trend (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCRT-D
 
@@ -18,7 +18,7 @@ A Balanced Scorecard - Customer Perspective indicator, First Contact Resolution 
 ## Formula
 
 ```
-Change in FCR between Periods
+FCRT-D = Change in FCR between Periods
 ```
 
 ## Unit

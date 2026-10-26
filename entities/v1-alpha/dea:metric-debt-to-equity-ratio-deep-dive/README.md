@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt-to-Equity Ratio (Deep Dive)** (DE
 - **Canonical id:** `dea:metric-debt-to-equity-ratio-deep-dive`
 - **Name:** Debt-to-Equity Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DERDD
 
@@ -22,7 +22,7 @@ Measures borrowed capital against shareholder capital. Leverage amplifies return
 ## Formula
 
 ```
-Total Debt / Total Equity
+DERDD = Total Debt / Total Equity
 ```
 
 ## Unit

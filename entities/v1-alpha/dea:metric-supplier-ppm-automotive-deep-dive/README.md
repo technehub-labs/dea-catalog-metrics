@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier PPM - Automotive (Deep Dive)*
 - **Canonical id:** `dea:metric-supplier-ppm-automotive-deep-dive`
 - **Name:** Supplier PPM - Automotive (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPPM-D
 
@@ -22,7 +22,7 @@ Measures defective parts per million from suppliers. In a just-in-time industry,
 ## Formula
 
 ```
-Defective Parts per Million Received
+SPPM-D = Defective Parts per Million Received
 ```
 
 ## Unit

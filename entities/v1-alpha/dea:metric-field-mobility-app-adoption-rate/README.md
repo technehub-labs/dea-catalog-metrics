@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Mobility App Adoption Rate** (FM
 - **Canonical id:** `dea:metric-field-mobility-app-adoption-rate`
 - **Name:** Field Mobility App Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FMAAR
 
@@ -18,7 +18,7 @@ Field Mobility App Adoption Rate (FMAAR) captures capability maturity or develop
 ## Formula
 
 ```
-Technicians Using Digital Work Order App / Technicians
+FMAAR = Technicians Using Digital Work Order App / Technicians
 ```
 
 ## Unit

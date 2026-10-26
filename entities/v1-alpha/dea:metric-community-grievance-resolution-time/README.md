@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Community Grievance Resolution Time** 
 - **Canonical id:** `dea:metric-community-grievance-resolution-time`
 - **Name:** Community Grievance Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CGRT
 
@@ -22,7 +22,7 @@ Measures average time to resolve community complaints around operations. It matt
 ## Formula
 
 ```
-Days from Grievance Filed to Resolution
+CGRT = Days from Grievance Filed to Resolution
 ```
 
 ## Unit

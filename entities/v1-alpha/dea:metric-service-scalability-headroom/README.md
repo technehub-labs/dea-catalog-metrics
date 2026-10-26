@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Service Scalability Headroom** (SSH-SA
 - **Canonical id:** `dea:metric-service-scalability-headroom`
 - **Name:** Service Scalability Headroom
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSH-SA
 
@@ -22,7 +22,7 @@ Measures the capacity buffer between current load and system limits at peak. Hea
 ## Formula
 
 ```
-Peak Load / Designed Capacity
+SSH-SA = Peak Load / Designed Capacity
 ```
 
 ## Unit

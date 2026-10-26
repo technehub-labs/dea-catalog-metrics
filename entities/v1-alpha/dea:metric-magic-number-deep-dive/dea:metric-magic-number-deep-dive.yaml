@@ -9,7 +9,7 @@ description: Magic Number (Deep Dive) (MN-D) measures how efficiently resources 
   performance frameworks.
 abbreviation: MN-D
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - strategy
@@ -27,7 +27,7 @@ source_credit: SaaS growth benchmarking practice (Bessemer tradition)
 calculation_definition: Net New ARR Quarter / Prior Quarter Sales and Marketing Spend
 formula_definition:
   formula_id: dea:formula-magic-number-deep-dive
-  expression: Net New ARR Quarter / Prior Quarter Sales and Marketing Spend
+  expression: MN-D = Net New ARR Quarter / Prior Quarter Sales and Marketing Spend
   inputs:
   - name: Net New ARR Quarter
   - name: Prior Quarter Sales and Marketing Spend
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,9 +48,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 2445
     batch: '6'
 domain: startup_venture_backed_business
+subject_concept: dea:subject-magic_number
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 2445
+  - SaaS growth benchmarking practice (Bessemer tradition)
+  known_limitations: []

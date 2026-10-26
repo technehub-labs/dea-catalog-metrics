@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bid Win Rate** (BWR) in the OpenDEAM M
 - **Canonical id:** `dea:metric-bid-win-rate`
 - **Name:** Bid Win Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BWR
 
@@ -22,7 +22,7 @@ Won bids as a share of bids submitted - the conversion metric of the constructio
 ## Formula
 
 ```
-Bids Won / Bids Submitted
+BWR = Bids Won / Bids Submitted
 ```
 
 ## Unit

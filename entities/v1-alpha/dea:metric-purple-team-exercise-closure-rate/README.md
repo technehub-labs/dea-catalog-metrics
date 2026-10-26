@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Purple Team Exercise Closure Rate** (P
 - **Canonical id:** `dea:metric-purple-team-exercise-closure-rate`
 - **Name:** Purple Team Exercise Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTECR
 
@@ -18,7 +18,7 @@ Purple Team Exercise Closure Rate (PTECR) captures conformance to standards, pla
 ## Formula
 
 ```
-Exercise Findings Remediated / Findings
+PTECR = Exercise Findings Remediated / Findings
 ```
 
 ## Unit

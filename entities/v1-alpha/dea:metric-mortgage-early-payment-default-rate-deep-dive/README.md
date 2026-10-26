@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mortgage Early Payment Default Rate (D
 - **Canonical id:** `dea:metric-mortgage-early-payment-default-rate-deep-dive`
 - **Name:** Mortgage Early Payment Default Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MEPDR
 
@@ -22,7 +22,7 @@ Measures defaults occurring within months of loan origination. Early payment def
 ## Formula
 
 ```
-Defaults within 24 Months of Origination / Loans Originated
+MEPDR = Defaults within 24 Months of Origination / Loans Originated
 ```
 
 ## Unit

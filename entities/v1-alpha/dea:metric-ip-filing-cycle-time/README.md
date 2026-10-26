@@ -7,7 +7,7 @@ Candidate Performance Metric record for **IP Filing Cycle Time** (IPFCT) in the 
 - **Canonical id:** `dea:metric-ip-filing-cycle-time`
 - **Name:** IP Filing Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IPFCT
 
@@ -18,7 +18,7 @@ Within Intellectual Property & Licensing, IP Filing Cycle Time (IPFCT) is used t
 ## Formula
 
 ```
-Days from Disclosure to Filed Application
+IPFCT = Days from Disclosure to Filed Application
 ```
 
 ## Unit

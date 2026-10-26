@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farm Cost per Tonne Produced (Deep Div
 - **Canonical id:** `dea:metric-farm-cost-per-tonne-produced-deep-dive`
 - **Name:** Farm Cost per Tonne Produced (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCPT-D
 
@@ -22,7 +22,7 @@ Measures fully loaded production cost per output unit. It is the survival metric
 ## Formula
 
 ```
-Total Cost / Production Tonnes
+FCPT-D = Total Cost / Production Tonnes
 ```
 
 ## Unit

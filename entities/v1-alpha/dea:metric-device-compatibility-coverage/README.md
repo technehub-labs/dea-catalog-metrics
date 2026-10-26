@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Device Compatibility Coverage** (DCC-M
 - **Canonical id:** `dea:metric-device-compatibility-coverage`
 - **Name:** Device Compatibility Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCC-MOB
 
@@ -18,7 +18,7 @@ A Mobile & Client Development indicator, Device Compatibility Coverage (DCC-MOB)
 ## Formula
 
 ```
-Tested Device-OS Combinations / Top Combinations in Use
+DCC-MOB = Tested Device-OS Combinations / Top Combinations in Use
 ```
 
 ## Unit

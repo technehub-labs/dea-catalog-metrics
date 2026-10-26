@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Student Progression Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-student-progression-rate-deep-dive`
 - **Name:** Student Progression Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPR-D
 
@@ -22,7 +22,7 @@ Measures the share of learners advancing through program milestones on schedule 
 ## Formula
 
 ```
-Students Advancing to Next Level / Cohort
+SPR-D = Students Advancing to Next Level / Cohort
 ```
 
 ## Unit

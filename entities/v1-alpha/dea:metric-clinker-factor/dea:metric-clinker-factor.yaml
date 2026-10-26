@@ -8,7 +8,7 @@ description: A Cement & Building Materials indicator, Clinker Factor (CF-C) quan
   sustained decreases indicate successful intervention.
 abbreviation: CF-C
 unit: ratio
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - product_or_service
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Clinker Mass / Cement Mass
 formula_definition:
   formula_id: dea:formula-clinker-factor
-  expression: Clinker Mass / Cement Mass
+  expression: CF-C = Clinker Mass / Cement Mass
   inputs:
   - name: Clinker Mass
   - name: Cement Mass
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,6 +47,10 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -54,3 +58,11 @@ metadata:
     batch: '6'
 domain: cement_building_materials
 sector: manufacturing
+subject_concept: dea:subject-clinker_factor
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 1864
+  - Public domain - no attribution required
+  known_limitations: []

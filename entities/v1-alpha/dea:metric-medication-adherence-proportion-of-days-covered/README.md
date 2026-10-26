@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Medication Adherence - Proportion of D
 - **Canonical id:** `dea:metric-medication-adherence-proportion-of-days-covered`
 - **Name:** Medication Adherence - Proportion of Days Covered
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDC
 
@@ -22,7 +22,7 @@ Measures the share of days a patient has medication on hand over the measurement
 ## Formula
 
 ```
-Days Covered by Dispensed Medication / Observation Days
+PDC = Days Covered by Dispensed Medication / Observation Days
 ```
 
 ## Unit

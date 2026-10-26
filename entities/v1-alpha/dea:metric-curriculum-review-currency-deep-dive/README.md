@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Curriculum Review Currency (Deep Dive)
 - **Canonical id:** `dea:metric-curriculum-review-currency-deep-dive`
 - **Name:** Curriculum Review Currency (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-D
 
@@ -22,7 +22,7 @@ Measures whether program content has been reviewed within policy cycles against 
 ## Formula
 
 ```
-Courses Reviewed within Cycle / Courses
+CRC-D = Courses Reviewed within Cycle / Courses
 ```
 
 ## Unit

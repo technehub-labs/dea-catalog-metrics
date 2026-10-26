@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Case Processing Time** (CPT-G) in the 
 - **Canonical id:** `dea:metric-case-processing-time`
 - **Name:** Case Processing Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPT-G
 
@@ -22,7 +22,7 @@ Measures average time to complete a citizen or administrative case. It matters b
 ## Formula
 
 ```
-Days from Case Receipt to Case Closure
+CPT-G = Days from Case Receipt to Case Closure
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Tariff Classification Accuracy** (TCA)
 - **Canonical id:** `dea:metric-tariff-classification-accuracy`
 - **Name:** Tariff Classification Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCA
 
@@ -18,7 +18,7 @@ Tariff Classification Accuracy (TCA) measures conformance to standards, plans, o
 ## Formula
 
 ```
-Lines Correctly Classified / Lines Audited
+TCA = Lines Correctly Classified / Lines Audited
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deliveries per Route Hour (Deep Dive)*
 - **Canonical id:** `dea:metric-deliveries-per-route-hour-deep-dive`
 - **Name:** Deliveries per Route Hour (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPH-D
 
@@ -18,7 +18,7 @@ Deliveries per Route Hour (Deep Dive) (DPH-D) captures how efficiently resources
 ## Formula
 
 ```
-Successful Deliveries / Route Hours
+DPH-D = Successful Deliveries / Route Hours
 ```
 
 ## Unit

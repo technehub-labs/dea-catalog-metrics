@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Economic Capital Model Coverage** (ECM
 - **Canonical id:** `dea:metric-economic-capital-model-coverage`
 - **Name:** Economic Capital Model Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECMC
 
@@ -22,7 +22,7 @@ Measures the share of material risk types captured within the economic capital m
 ## Formula
 
 ```
-Risks Covered by Capital Model / Total Risks
+ECMC = Risks Covered by Capital Model / Total Risks
 ```
 
 ## Unit

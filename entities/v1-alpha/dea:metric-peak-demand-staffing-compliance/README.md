@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Peak Demand Staffing Compliance** (PDS
 - **Canonical id:** `dea:metric-peak-demand-staffing-compliance`
 - **Name:** Peak Demand Staffing Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDSC
 
@@ -18,7 +18,7 @@ A Workforce Planning & Productivity indicator, Peak Demand Staffing Compliance (
 ## Formula
 
 ```
-Peak Periods Staffed to Model / Peak Periods
+PDSC = Peak Periods Staffed to Model / Peak Periods
 ```
 
 ## Unit

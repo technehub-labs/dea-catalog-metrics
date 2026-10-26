@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Device User Stitching Accuracy**
 - **Canonical id:** `dea:metric-cross-device-user-stitching-accuracy`
 - **Name:** Cross-Device User Stitching Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CDUSA
 
@@ -18,7 +18,7 @@ Cross-Device User Stitching Accuracy (CDUSA) measures the quality of outputs and
 ## Formula
 
 ```
-Identity Graph Matches Confirmed Correct / Matches Sampled
+CDUSA = Identity Graph Matches Confirmed Correct / Matches Sampled
 ```
 
 ## Unit

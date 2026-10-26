@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Capacity Utilization (PMO)**
 - **Canonical id:** `dea:metric-portfolio-capacity-utilization-pmo`
 - **Name:** Portfolio Capacity Utilization (PMO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCU-P
 
@@ -22,7 +22,7 @@ Measures how fully delivery capacity is committed under PMO governance. Overcomm
 ## Formula
 
 ```
-Committed Demand / Available Delivery Capacity
+PCU-P = Committed Demand / Available Delivery Capacity
 ```
 
 ## Unit

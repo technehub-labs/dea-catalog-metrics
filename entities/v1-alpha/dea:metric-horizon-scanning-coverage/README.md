@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Horizon Scanning Coverage** (HSC) in t
 - **Canonical id:** `dea:metric-horizon-scanning-coverage`
 - **Name:** Horizon Scanning Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HSC
 
@@ -18,7 +18,7 @@ Horizon Scanning Coverage (HSC) measures capability maturity or development in t
 ## Formula
 
 ```
-Jurisdictions Monitored / Jurisdictions in Scope
+HSC = Jurisdictions Monitored / Jurisdictions in Scope
 ```
 
 ## Unit

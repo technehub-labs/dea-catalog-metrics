@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Continuity Attestation Coverage (Vendo
 - **Canonical id:** `dea:metric-continuity-attestation-coverage-vendors`
 - **Name:** Continuity Attestation Coverage (Vendors)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CACV
 
@@ -22,7 +22,7 @@ Measures the share of critical vendors providing verified business continuity at
 ## Formula
 
 ```
-Critical Vendors Attesting BCP / Critical Vendors
+CACV = Critical Vendors Attesting BCP / Critical Vendors
 ```
 
 ## Unit

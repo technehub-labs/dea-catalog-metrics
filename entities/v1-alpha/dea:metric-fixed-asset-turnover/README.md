@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fixed Asset Turnover** (FAT) in the Op
 - **Canonical id:** `dea:metric-fixed-asset-turnover`
 - **Name:** Fixed Asset Turnover
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FAT
 
@@ -22,7 +22,7 @@ Measures revenue generated per unit of net fixed assets. It matters as a read on
 ## Formula
 
 ```
-Revenue / Net Fixed Assets
+FAT = Revenue / Net Fixed Assets
 ```
 
 ## Unit

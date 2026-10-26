@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Net New ARR per Sales Rep** (NNAR) in 
 - **Canonical id:** `dea:metric-net-new-arr-per-sales-rep`
 - **Name:** Net New ARR per Sales Rep
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NNAR
 
@@ -22,7 +22,7 @@ Measures new ARR added per quota-carrying rep. It is the productivity engine che
 ## Formula
 
 ```
-Net New ARR / Quota-Carrying Reps
+NNAR = Net New ARR / Quota-Carrying Reps
 ```
 
 ## Unit

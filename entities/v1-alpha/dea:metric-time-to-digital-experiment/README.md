@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Digital Experiment** (TTDE) in
 - **Canonical id:** `dea:metric-time-to-digital-experiment`
 - **Name:** Time to Digital Experiment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTDE
 
@@ -22,7 +22,7 @@ Measures elapsed time from hypothesis to live customer-facing experiment, the me
 ## Formula
 
 ```
-Days from Idea to Live Digital Experiment
+TTDE = Days from Idea to Live Digital Experiment
 ```
 
 ## Unit

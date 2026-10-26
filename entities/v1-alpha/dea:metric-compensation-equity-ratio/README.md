@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compensation Equity Ratio** (CER-PAY) 
 - **Canonical id:** `dea:metric-compensation-equity-ratio`
 - **Name:** Compensation Equity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CER-PAY
 
@@ -18,7 +18,7 @@ Compensation Equity Ratio (CER-PAY) measures conformance to standards, plans, or
 ## Formula
 
 ```
-Top Quartile Pay / Bottom Quartile Pay within Grade
+CER-PAY = Top Quartile Pay / Bottom Quartile Pay within Grade
 ```
 
 ## Unit

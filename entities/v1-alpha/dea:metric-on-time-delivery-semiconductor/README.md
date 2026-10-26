@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Delivery (Semiconductor)** (OT
 - **Canonical id:** `dea:metric-on-time-delivery-semiconductor`
 - **Name:** On-Time Delivery (Semiconductor)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTD-S
 
@@ -22,7 +22,7 @@ Measures the share of wafer or chip orders delivered on committed dates. It matt
 ## Formula
 
 ```
-Order Lines Delivered on Commit Date / Order Lines
+OTD-S = Order Lines Delivered on Commit Date / Order Lines
 ```
 
 ## Unit

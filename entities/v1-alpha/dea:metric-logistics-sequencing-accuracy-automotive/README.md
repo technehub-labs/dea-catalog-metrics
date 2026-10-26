@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Sequencing Accuracy (Automot
 - **Canonical id:** `dea:metric-logistics-sequencing-accuracy-automotive`
 - **Name:** Logistics Sequencing Accuracy (Automotive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSA
 
@@ -18,7 +18,7 @@ Logistics Sequencing Accuracy (Automotive) (LSA) addresses the quality of output
 ## Formula
 
 ```
-Sequenced Deliveries Correct / Deliveries
+LSA = Sequenced Deliveries Correct / Deliveries
 ```
 
 ## Unit

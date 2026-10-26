@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Article Defect Rate** (ADR-KM) in the 
 - **Canonical id:** `dea:metric-article-defect-rate`
 - **Name:** Article Defect Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADR-KM
 
@@ -18,7 +18,7 @@ Article Defect Rate (ADR-KM) measures the quality of outputs and outcomes in the
 ## Formula
 
 ```
-Articles Flagged Incorrect / Articles
+ADR-KM = Articles Flagged Incorrect / Articles
 ```
 
 ## Unit

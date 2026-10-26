@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Activation Rate** (ACT) in the OpenDEA
 - **Canonical id:** `dea:metric-activation-rate`
 - **Name:** Activation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACT
 
@@ -22,7 +22,7 @@ Measures the share of new signups reaching the defined activation milestone. It 
 ## Formula
 
 ```
-Users Reaching Activation Milestone / New Users
+ACT = Users Reaching Activation Milestone / New Users
 ```
 
 ## Unit

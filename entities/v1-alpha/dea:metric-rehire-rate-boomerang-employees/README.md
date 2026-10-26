@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Rehire Rate (Boomerang Employees)** (R
 - **Canonical id:** `dea:metric-rehire-rate-boomerang-employees`
 - **Name:** Rehire Rate (Boomerang Employees)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RRE
 
@@ -22,7 +22,7 @@ Measures the share of new hires who are returning former employees. It matters b
 ## Formula
 
 ```
-Former Employees Rehired within Period / Hires
+RRE = Former Employees Rehired within Period / Hires
 ```
 
 ## Unit

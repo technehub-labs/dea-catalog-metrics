@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Non-Performing Loan Ratio** (NPL) in t
 - **Canonical id:** `dea:metric-non-performing-loan-ratio`
 - **Name:** Non-Performing Loan Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPL
 
@@ -22,7 +22,7 @@ Loans past due or otherwise impaired as a share of the gross loan book - the can
 ## Formula
 
 ```
-Non-Performing Loans / Gross Loans
+NPL = Non-Performing Loans / Gross Loans
 ```
 
 ## Unit

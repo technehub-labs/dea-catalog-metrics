@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Abandonment Rate (Contact Center Deep 
 - **Canonical id:** `dea:metric-abandonment-rate-contact-center-deep-dive`
 - **Name:** Abandonment Rate (Contact Center Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABDD
 
@@ -18,7 +18,7 @@ Abandonment Rate (Contact Center Deep Dive) (ABDD) addresses the quality of outp
 ## Formula
 
 ```
-Callers Abandoning before Answer / Calls Offered
+ABDD = Callers Abandoning before Answer / Calls Offered
 ```
 
 ## Unit

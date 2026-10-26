@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Capacity Forecast Accuracy** (
 - **Canonical id:** `dea:metric-network-capacity-forecast-accuracy`
 - **Name:** Network Capacity Forecast Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NCFA
 
@@ -18,7 +18,7 @@ Network Capacity Forecast Accuracy (NCFA) measures the utilization or availabili
 ## Formula
 
 ```
-Forecast vs Actual Utilization Variance
+NCFA = Forecast vs Actual Utilization Variance
 ```
 
 ## Unit

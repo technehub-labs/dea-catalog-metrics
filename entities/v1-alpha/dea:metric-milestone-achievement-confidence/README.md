@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Milestone Achievement Confidence** (MA
 - **Canonical id:** `dea:metric-milestone-achievement-confidence`
 - **Name:** Milestone Achievement Confidence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAC
 
@@ -22,7 +22,7 @@ Measures the confidence-weighted probability that program milestones will be met
 ## Formula
 
 ```
-Program Milestones at Green Confidence / Milestones
+MAC = Program Milestones at Green Confidence / Milestones
 ```
 
 ## Unit

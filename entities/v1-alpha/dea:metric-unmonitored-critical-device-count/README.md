@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unmonitored Critical Device Count** (U
 - **Canonical id:** `dea:metric-unmonitored-critical-device-count`
 - **Name:** Unmonitored Critical Device Count
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UCDC
 
@@ -22,7 +22,7 @@ Measures critical network devices not covered by monitoring and alerting. Unmoni
 ## Formula
 
 ```
-Critical Devices without Monitoring
+UCDC = Critical Devices without Monitoring
 ```
 
 ## Unit

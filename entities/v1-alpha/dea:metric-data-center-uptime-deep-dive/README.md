@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Center Uptime (Deep Dive)** (DCU-
 - **Canonical id:** `dea:metric-data-center-uptime-deep-dive`
 - **Name:** Data Center Uptime (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCU-D
 
@@ -22,7 +22,7 @@ Measures facility availability against tier commitments. Uptime is the contractu
 ## Formula
 
 ```
-Available Hours / Total Hours
+DCU-D = Available Hours / Total Hours
 ```
 
 ## Unit

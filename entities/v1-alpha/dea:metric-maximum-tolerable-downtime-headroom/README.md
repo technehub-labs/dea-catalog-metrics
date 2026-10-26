@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maximum Tolerable Downtime Headroom** 
 - **Canonical id:** `dea:metric-maximum-tolerable-downtime-headroom`
 - **Name:** Maximum Tolerable Downtime Headroom
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTDH
 
@@ -22,7 +22,7 @@ Measures the buffer between recoverable downtime capability and the maximum the 
 ## Formula
 
 ```
-Demonstrated Recovery Time vs Maximum Tolerable Downtime
+MTDH = Demonstrated Recovery Time vs Maximum Tolerable Downtime
 ```
 
 ## Unit

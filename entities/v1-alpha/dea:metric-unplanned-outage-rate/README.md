@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Unplanned Outage Rate** (UOR) in the O
 - **Canonical id:** `dea:metric-unplanned-outage-rate`
 - **Name:** Unplanned Outage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** UOR
 
@@ -22,7 +22,7 @@ Measures the frequency of unplanned service interruptions per asset or period. I
 ## Formula
 
 ```
-Unplanned Outages / Total Operating Units per Period
+UOR = Unplanned Outages / Total Operating Units per Period
 ```
 
 ## Unit

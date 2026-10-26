@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Velocity** (VEL) in the OpenDEAM Metri
 - **Canonical id:** `dea:metric-velocity`
 - **Name:** Velocity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VEL
 
@@ -18,7 +18,7 @@ Velocity (VEL) measures the utilization or availability of capacity in the Softw
 ## Formula
 
 ```
-Story Points Completed per Sprint
+VEL = Story Points Completed per Sprint
 ```
 
 ## Unit

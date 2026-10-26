@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Radio Access Network Utilization** (RA
 - **Canonical id:** `dea:metric-radio-access-network-utilization`
 - **Name:** Radio Access Network Utilization
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RANU
 
@@ -22,7 +22,7 @@ Measures capacity utilization of radio network elements. It matters because util
 ## Formula
 
 ```
-Used Radio Capacity / Provisioned Radio Capacity
+RANU = Used Radio Capacity / Provisioned Radio Capacity
 ```
 
 ## Unit

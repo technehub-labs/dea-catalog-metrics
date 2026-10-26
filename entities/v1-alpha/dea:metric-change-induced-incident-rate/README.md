@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Change-Induced Incident Rate** (CIIR) 
 - **Canonical id:** `dea:metric-change-induced-incident-rate`
 - **Name:** Change-Induced Incident Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CIIR
 
@@ -18,7 +18,7 @@ Within Network Change & Configuration Management, Change-Induced Incident Rate (
 ## Formula
 
 ```
-Incidents Caused by Change / Changes
+CIIR = Incidents Caused by Change / Changes
 ```
 
 ## Unit

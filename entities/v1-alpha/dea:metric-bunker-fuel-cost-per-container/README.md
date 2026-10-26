@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bunker Fuel Cost per Container** (BFCC
 - **Canonical id:** `dea:metric-bunker-fuel-cost-per-container`
 - **Name:** Bunker Fuel Cost per Container
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BFCC
 
@@ -22,7 +22,7 @@ Bunker fuel cost per container measures the fuel expense allocated to each box m
 ## Formula
 
 ```
-Fuel Cost / Containers Carried
+BFCC = Fuel Cost / Containers Carried
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Remediate - Critical Vuln
 - **Canonical id:** `dea:metric-mean-time-to-remediate-critical-vulnerabilities`
 - **Name:** Mean Time to Remediate - Critical Vulnerabilities
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTRCV2
 
@@ -22,7 +22,7 @@ Measures the average time to fix critical-severity vulnerabilities in production
 ## Formula
 
 ```
-Days to Patch Critical Vulnerabilities
+MTTRCV2 = Days to Patch Critical Vulnerabilities
 ```
 
 ## Unit

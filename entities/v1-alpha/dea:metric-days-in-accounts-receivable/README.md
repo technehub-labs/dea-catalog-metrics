@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days in Accounts Receivable** (DAR) in
 - **Canonical id:** `dea:metric-days-in-accounts-receivable`
 - **Name:** Days in Accounts Receivable
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DAR
 
@@ -22,7 +22,7 @@ Days in accounts receivable measures the average age of unpaid claims - how long
 ## Formula
 
 ```
-Total Accounts Receivable / Average Daily Revenue
+DAR = Total Accounts Receivable / Average Daily Revenue
 ```
 
 ## Unit

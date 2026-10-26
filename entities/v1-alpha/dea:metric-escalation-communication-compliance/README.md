@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escalation Communication Compliance** 
 - **Canonical id:** `dea:metric-escalation-communication-compliance`
 - **Name:** Escalation Communication Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ECC-NOC
 
@@ -18,7 +18,7 @@ Escalation Communication Compliance (ECC-NOC) captures conformance to standards,
 ## Formula
 
 ```
-Escalations with Required Notifications / Escalations
+ECC-NOC = Escalations with Required Notifications / Escalations
 ```
 
 ## Unit

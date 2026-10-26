@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vital Records Duplicate Rate** (VRDR) 
 - **Canonical id:** `dea:metric-vital-records-duplicate-rate`
 - **Name:** Vital Records Duplicate Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRDR
 
@@ -18,7 +18,7 @@ Vital Records Duplicate Rate (VRDR) captures exposure to adverse outcomes for or
 ## Formula
 
 ```
-Vital Records with Verified Duplicate Copies / Vital Records
+VRDR = Vital Records with Verified Duplicate Copies / Vital Records
 ```
 
 ## Unit

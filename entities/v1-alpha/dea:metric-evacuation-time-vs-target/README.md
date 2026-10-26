@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Evacuation Time vs Target** (ETVT) in 
 - **Canonical id:** `dea:metric-evacuation-time-vs-target`
 - **Name:** Evacuation Time vs Target
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ETVT
 
@@ -18,7 +18,7 @@ Evacuation Time vs Target (ETVT) measures exposure to adverse outcomes in the Cr
 ## Formula
 
 ```
-Actual Evacuation Time / Target Evacuation Time
+ETVT = Actual Evacuation Time / Target Evacuation Time
 ```
 
 ## Unit

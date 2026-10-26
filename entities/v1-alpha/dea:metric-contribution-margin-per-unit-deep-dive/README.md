@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contribution Margin per Unit (Deep Div
 - **Canonical id:** `dea:metric-contribution-margin-per-unit-deep-dive`
 - **Name:** Contribution Margin per Unit (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CMPUD
 
@@ -18,7 +18,7 @@ Within Unit Economics & Growth (Deep Dive), Contribution Margin per Unit (Deep D
 ## Formula
 
 ```
-(Price - Variable Cost) per Unit
+CMPUD = (Price - Variable Cost) per Unit
 ```
 
 ## Unit

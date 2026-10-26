@@ -7,7 +7,7 @@ Candidate Performance Metric record for **External Intelligence Source Coverage*
 - **Canonical id:** `dea:metric-external-intelligence-source-coverage`
 - **Name:** External Intelligence Source Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EISC
 
@@ -18,7 +18,7 @@ A Emerging Risk & Horizon Scanning indicator, External Intelligence Source Cover
 ## Formula
 
 ```
-Monitored Sources per Risk Taxonomy / Planned Sources
+EISC = Monitored Sources per Risk Taxonomy / Planned Sources
 ```
 
 ## Unit

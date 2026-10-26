@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff Leverage Ratio** (SLR-PS) in the
 - **Canonical id:** `dea:metric-staff-leverage-ratio`
 - **Name:** Staff Leverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SLR-PS
 
@@ -22,7 +22,7 @@ The ratio of junior delivery staff to senior (partner-level) staff - the structu
 ## Formula
 
 ```
-Non-Partner Staff / Partners
+SLR-PS = Non-Partner Staff / Partners
 ```
 
 ## Unit

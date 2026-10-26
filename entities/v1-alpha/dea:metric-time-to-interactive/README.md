@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Interactive** (TTI) in the Ope
 - **Canonical id:** `dea:metric-time-to-interactive`
 - **Name:** Time to Interactive
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTI
 
@@ -22,7 +22,7 @@ TTI, from Google Web Vitals, measures when a page becomes reliably responsive - 
 ## Formula
 
 ```
-Median Time until Page Fully Interactive
+TTI = Median Time until Page Fully Interactive
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Network Latency** (NL) in the OpenDEAM
 - **Canonical id:** `dea:metric-network-latency`
 - **Name:** Network Latency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NL
 
@@ -18,7 +18,7 @@ A Telecommunications indicator, Network Latency (NL) quantifies the quality of o
 ## Formula
 
 ```
-Median Round-Trip Delay of Packets
+NL = Median Round-Trip Delay of Packets
 ```
 
 ## Unit

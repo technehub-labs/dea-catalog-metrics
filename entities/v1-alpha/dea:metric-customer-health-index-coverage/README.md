@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Health Index Coverage** (CHIC
 - **Canonical id:** `dea:metric-customer-health-index-coverage`
 - **Name:** Customer Health Index Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CHIC
 
@@ -22,7 +22,7 @@ Measures the share of accounts with a current health score. It matters because u
 ## Formula
 
 ```
-Accounts with Current Health Score / Total Accounts
+CHIC = Accounts with Current Health Score / Total Accounts
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Command Structure Deployment 
 - **Canonical id:** `dea:metric-incident-command-structure-deployment-rate`
 - **Name:** Incident Command Structure Deployment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICSDR
 
@@ -22,7 +22,7 @@ Measures how consistently a defined command structure is actually used in crisis
 ## Formula
 
 ```
-Events Managed under Formal Command Structure / Events
+ICSDR = Events Managed under Formal Command Structure / Events
 ```
 
 ## Unit

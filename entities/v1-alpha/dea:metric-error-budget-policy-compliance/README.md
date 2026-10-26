@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Error Budget Policy Compliance** (EBPC
 - **Canonical id:** `dea:metric-error-budget-policy-compliance`
 - **Name:** Error Budget Policy Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EBPC
 
@@ -22,7 +22,7 @@ Measures whether agreed consequences (reliability sprints, feature freezes) are 
 ## Formula
 
 ```
-Enforcement Actions Taken per Policy Breach Windows / Breach Windows
+EBPC = Enforcement Actions Taken per Policy Breach Windows / Breach Windows
 ```
 
 ## Unit

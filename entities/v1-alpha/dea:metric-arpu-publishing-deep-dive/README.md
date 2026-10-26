@@ -7,7 +7,7 @@ Candidate Performance Metric record for **ARPU - Publishing (Deep Dive)** (ARPU-
 - **Canonical id:** `dea:metric-arpu-publishing-deep-dive`
 - **Name:** ARPU - Publishing (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPU-P
 
@@ -22,7 +22,7 @@ Measures revenue per subscriber, blended across tiers, bundles, and corporate su
 ## Formula
 
 ```
-Total Revenue / Active Readers or Subscribers
+ARPU-P = Total Revenue / Active Readers or Subscribers
 ```
 
 ## Unit

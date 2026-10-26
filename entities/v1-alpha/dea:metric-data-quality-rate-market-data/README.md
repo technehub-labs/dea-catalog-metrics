@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Quality Rate (Market Data)** (DQR
 - **Canonical id:** `dea:metric-data-quality-rate-market-data`
 - **Name:** Data Quality Rate (Market Data)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DQRMD
 
@@ -18,7 +18,7 @@ Data Quality Rate (Market Data) (DQRMD) measures the quality of outputs and outc
 ## Formula
 
 ```
-Market Data Fields Passing Checks / Fields
+DQRMD = Market Data Fields Passing Checks / Fields
 ```
 
 ## Unit

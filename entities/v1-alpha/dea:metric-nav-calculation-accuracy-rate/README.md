@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Calculation Accuracy Rate** (NAVCA
 - **Canonical id:** `dea:metric-nav-calculation-accuracy-rate`
 - **Name:** NAV Calculation Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAVCAR
 
@@ -22,7 +22,7 @@ Measures the share of net asset value calculations completed without material er
 ## Formula
 
 ```
-NAV Calculations without Error / Calculations
+NAVCAR = NAV Calculations without Error / Calculations
 ```
 
 ## Unit

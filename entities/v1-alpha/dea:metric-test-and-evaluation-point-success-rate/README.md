@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Test and Evaluation Point Success Rate
 - **Canonical id:** `dea:metric-test-and-evaluation-point-success-rate`
 - **Name:** Test and Evaluation Point Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TEPS
 
@@ -22,7 +22,7 @@ Measures the share of defined test points passed during program test and evaluat
 ## Formula
 
 ```
-Test Points Passed / Test Points Executed
+TEPS = Test Points Passed / Test Points Executed
 ```
 
 ## Unit

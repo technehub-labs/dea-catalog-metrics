@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotion Parity Ratio** (PPR) in the 
 - **Canonical id:** `dea:metric-promotion-parity-ratio`
 - **Name:** Promotion Parity Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPR
 
@@ -22,7 +22,7 @@ Compares promotion rates across demographic groups within comparable populations
 ## Formula
 
 ```
-Promotion Rate of Underrepresented Group / Promotion Rate Overall
+PPR = Promotion Rate of Underrepresented Group / Promotion Rate Overall
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Visual Management Board Effectiveness*
 - **Canonical id:** `dea:metric-visual-management-board-effectiveness`
 - **Name:** Visual Management Board Effectiveness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VMBE
 
@@ -18,7 +18,7 @@ Visual Management Board Effectiveness (VMBE) measures conformance to standards, 
 ## Formula
 
 ```
-Boards Reviewed at Required Cadence / Boards Deployed
+VMBE = Boards Reviewed at Required Cadence / Boards Deployed
 ```
 
 ## Unit

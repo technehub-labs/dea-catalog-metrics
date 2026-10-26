@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return per Unit of Risk Realized** (RP
 - **Canonical id:** `dea:metric-return-per-unit-of-risk-realized`
 - **Name:** Return per Unit of Risk Realized
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPRUR
 
@@ -22,7 +22,7 @@ Measures realized excess return per unit of realized risk (the realized informat
 ## Formula
 
 ```
-Realized Return / Realized Volatility
+RPRUR = Realized Return / Realized Volatility
 ```
 
 ## Unit

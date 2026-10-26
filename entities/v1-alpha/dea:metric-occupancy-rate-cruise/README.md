@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupancy Rate (Cruise)** (ORC-S) in t
 - **Canonical id:** `dea:metric-occupancy-rate-cruise`
 - **Name:** Occupancy Rate (Cruise)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORC-S
 
@@ -22,7 +22,7 @@ Measures berth capacity sold against capacity available, often above 100 percent
 ## Formula
 
 ```
-Passengers / Double Occupancy Berths
+ORC-S = Passengers / Double Occupancy Berths
 ```
 
 ## Unit

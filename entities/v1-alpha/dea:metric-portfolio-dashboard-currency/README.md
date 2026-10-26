@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Dashboard Currency** (PDC-PP
 - **Canonical id:** `dea:metric-portfolio-dashboard-currency`
 - **Name:** Portfolio Dashboard Currency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDC-PPM
 
@@ -18,7 +18,7 @@ Portfolio Dashboard Currency (PDC-PPM) addresses the quality of outputs and outc
 ## Formula
 
 ```
-Initiatives with Data Refreshed on Cadence / Initiatives
+PDC-PPM = Initiatives with Data Refreshed on Cadence / Initiatives
 ```
 
 ## Unit

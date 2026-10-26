@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Report Data Completeness** (I
 - **Canonical id:** `dea:metric-incident-report-data-completeness`
 - **Name:** Incident Report Data Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IRDC
 
@@ -18,7 +18,7 @@ Incident Report Data Completeness (IRDC) measures the quality of outputs and out
 ## Formula
 
 ```
-Incident Records with Required Fields / Records
+IRDC = Incident Records with Required Fields / Records
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Portfolio Health Distribution*
 - **Canonical id:** `dea:metric-project-portfolio-health-distribution`
 - **Name:** Project Portfolio Health Distribution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PPHD
 
@@ -22,7 +22,7 @@ Measures the proportion of projects at each health status (green, amber, red). C
 ## Formula
 
 ```
-Green Projects / Total Projects
+PPHD = Green Projects / Total Projects
 ```
 
 ## Unit

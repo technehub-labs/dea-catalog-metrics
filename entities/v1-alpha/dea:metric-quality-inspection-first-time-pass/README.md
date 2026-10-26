@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quality Inspection First-Time Pass** (
 - **Canonical id:** `dea:metric-quality-inspection-first-time-pass`
 - **Name:** Quality Inspection First-Time Pass
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QIFP
 
@@ -18,7 +18,7 @@ Within Construction & Engineering, Quality Inspection First-Time Pass (QIFP) is 
 ## Formula
 
 ```
-Inspections Passed First Time / Inspections Performed
+QIFP = Inspections Passed First Time / Inspections Performed
 ```
 
 ## Unit

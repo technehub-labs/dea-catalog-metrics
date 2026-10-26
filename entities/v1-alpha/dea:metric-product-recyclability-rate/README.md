@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Product Recyclability Rate** (PRR2) in
 - **Canonical id:** `dea:metric-product-recyclability-rate`
 - **Name:** Product Recyclability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRR2
 
@@ -22,7 +22,7 @@ The share of product mass designed to be recyclable at end of life - the design-
 ## Formula
 
 ```
-Recyclable Product Mass / Total Product Mass
+PRR2 = Recyclable Product Mass / Total Product Mass
 ```
 
 ## Unit

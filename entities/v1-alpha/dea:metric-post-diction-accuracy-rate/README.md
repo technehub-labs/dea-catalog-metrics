@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Post-Diction Accuracy Rate** (PDAR) in
 - **Canonical id:** `dea:metric-post-diction-accuracy-rate`
 - **Name:** Post-Diction Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDAR
 
@@ -22,7 +22,7 @@ Measures how well the risk function predicted, in advance, the risks that later 
 ## Formula
 
 ```
-Emerging Risks That Materialized and Were Previously Flagged / Materialized
+PDAR = Emerging Risks That Materialized and Were Previously Flagged / Materialized
 ```
 
 ## Unit

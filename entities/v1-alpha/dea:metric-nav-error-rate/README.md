@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NAV Error Rate** (NAVER) in the OpenDE
 - **Canonical id:** `dea:metric-nav-error-rate`
 - **Name:** NAV Error Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NAVER
 
@@ -18,7 +18,7 @@ A Investment Risk & Middle Office Operations indicator, NAV Error Rate (NAVER) q
 ## Formula
 
 ```
-NAV Calculations with Error / NAVs Calculated
+NAVER = NAV Calculations with Error / NAVs Calculated
 ```
 
 ## Unit

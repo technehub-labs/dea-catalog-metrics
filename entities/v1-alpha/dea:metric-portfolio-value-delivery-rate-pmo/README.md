@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Portfolio Value Delivery Rate (PMO)** 
 - **Canonical id:** `dea:metric-portfolio-value-delivery-rate-pmo`
 - **Name:** Portfolio Value Delivery Rate (PMO)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PVDR
 
@@ -22,7 +22,7 @@ Measures the share of portfolio spend converted into realized business value, PM
 ## Formula
 
 ```
-Benefits Realized vs Business Case / Business Case
+PVDR = Benefits Realized vs Business Case / Business Case
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dilution per Funding Round** (DPRF) in
 - **Canonical id:** `dea:metric-dilution-per-funding-round`
 - **Name:** Dilution per Funding Round
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPRF
 
@@ -22,7 +22,7 @@ Measures the ownership percentage ceded per financing. It is the founder-and-emp
 ## Formula
 
 ```
-Founders' Ownership Change per Round
+DPRF = Founders' Ownership Change per Round
 ```
 
 ## Unit

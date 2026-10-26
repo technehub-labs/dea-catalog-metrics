@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Access Request Rate** (SS
 - **Canonical id:** `dea:metric-self-service-access-request-rate`
 - **Name:** Self-Service Access Request Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSARR
 
@@ -18,7 +18,7 @@ Self-Service Access Request Rate (SSARR) measures how efficiently resources are 
 ## Formula
 
 ```
-Requests via Self-Service Workflow / Requests
+SSARR = Requests via Self-Service Workflow / Requests
 ```
 
 ## Unit

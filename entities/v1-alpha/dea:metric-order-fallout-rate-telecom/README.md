@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Fallout Rate (Telecom)** (OFR-T)
 - **Canonical id:** `dea:metric-order-fallout-rate-telecom`
 - **Name:** Order Fallout Rate (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OFR-T
 
@@ -18,7 +18,7 @@ Order Fallout Rate (Telecom) (OFR-T) measures the quality of outputs and outcome
 ## Formula
 
 ```
-Orders Requiring Manual Intervention / Orders Processed
+OFR-T = Orders Requiring Manual Intervention / Orders Processed
 ```
 
 ## Unit

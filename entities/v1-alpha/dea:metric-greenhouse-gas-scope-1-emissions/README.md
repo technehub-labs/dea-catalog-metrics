@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Greenhouse Gas Scope 1 Emissions** (GH
 - **Canonical id:** `dea:metric-greenhouse-gas-scope-1-emissions`
 - **Name:** Greenhouse Gas Scope 1 Emissions
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GHG1
 
@@ -22,7 +22,7 @@ Direct greenhouse gas emissions from sources the organization owns or controls -
 ## Formula
 
 ```
-Direct Emissions from Owned or Controlled Sources
+GHG1 = Direct Emissions from Owned or Controlled Sources
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days on Market (Real Estate)** (DOM-RE
 - **Canonical id:** `dea:metric-days-on-market-real-estate`
 - **Name:** Days on Market (Real Estate)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOM-RE
 
@@ -18,7 +18,7 @@ Days on Market (Real Estate) (DOM-RE) addresses how efficiently resources are co
 ## Formula
 
 ```
-Average Days from Listing to Contract
+DOM-RE = Average Days from Listing to Contract
 ```
 
 ## Unit

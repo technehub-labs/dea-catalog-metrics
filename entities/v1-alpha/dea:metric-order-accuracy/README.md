@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Order Accuracy** (OA) in the OpenDEAM 
 - **Canonical id:** `dea:metric-order-accuracy`
 - **Name:** Order Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OA
 
@@ -18,7 +18,7 @@ Within Supply Chain, Order Accuracy (OA) is used to gauge the quality of outputs
 ## Formula
 
 ```
-Error-Free Orders / Total Orders
+OA = Error-Free Orders / Total Orders
 ```
 
 ## Unit

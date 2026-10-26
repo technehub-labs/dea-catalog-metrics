@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Waste per Service (Beauty)** (WPS-B) i
 - **Canonical id:** `dea:metric-waste-per-service-beauty`
 - **Name:** Waste per Service (Beauty)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WPS-B
 
@@ -18,7 +18,7 @@ Within Beauty & Personal Care Services, Waste per Service (Beauty) (WPS-B) is us
 ## Formula
 
 ```
-Product Wasted / Services Delivered
+WPS-B = Product Wasted / Services Delivered
 ```
 
 ## Unit

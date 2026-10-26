@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Record Confidence Score** (GRCS
 - **Canonical id:** `dea:metric-golden-record-confidence-score`
 - **Name:** Golden Record Confidence Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GRCS
 
@@ -22,7 +22,7 @@ Measures how much the organization's surviving golden records can be trusted as 
 ## Formula
 
 ```
-Composite of Completeness, Uniqueness, Timeliness for Golden Records
+GRCS = Composite of Completeness, Uniqueness, Timeliness for Golden Records
 ```
 
 ## Unit

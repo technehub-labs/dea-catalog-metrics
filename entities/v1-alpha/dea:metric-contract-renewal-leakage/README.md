@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Renewal Leakage** (CRL) in th
 - **Canonical id:** `dea:metric-contract-renewal-leakage`
 - **Name:** Contract Renewal Leakage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRL
 
@@ -22,7 +22,7 @@ Measures revenue or value lost at renewal through poor terms, missed auto-renewa
 ## Formula
 
 ```
-Auto-Renewed Contracts without Review / Contracts Renewed
+CRL = Auto-Renewed Contracts without Review / Contracts Renewed
 ```
 
 ## Unit

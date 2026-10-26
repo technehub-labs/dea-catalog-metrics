@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Risk Assessment Coverage (D
 - **Canonical id:** `dea:metric-compliance-risk-assessment-coverage-deep-dive`
 - **Name:** Compliance Risk Assessment Coverage (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRAC
 
@@ -22,7 +22,7 @@ Measures how completely compliance risks across the business are periodically as
 ## Formula
 
 ```
-Entities with Current Compliance Risk Assessment / Entities
+CRAC = Entities with Current Compliance Risk Assessment / Entities
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Loss per Investigation FTE** (FL
 - **Canonical id:** `dea:metric-fraud-loss-per-investigation-fte`
 - **Name:** Fraud Loss per Investigation FTE
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FLPIF
 
@@ -18,7 +18,7 @@ A Enterprise Fraud & Financial Crime Management indicator, Fraud Loss per Invest
 ## Formula
 
 ```
-Annual Fraud Losses Prevented / Investigation FTE
+FLPIF = Annual Fraud Losses Prevented / Investigation FTE
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Demand Intake to Funding Cycle Time** 
 - **Canonical id:** `dea:metric-demand-intake-to-funding-cycle-time`
 - **Name:** Demand Intake to Funding Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DITFCT
 
@@ -22,7 +22,7 @@ Measures elapsed time from business demand submission to funded approval. Long i
 ## Formula
 
 ```
-Days from Demand Submission to Approved Funding
+DITFCT = Days from Demand Submission to Approved Funding
 ```
 
 ## Unit

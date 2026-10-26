@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Knowledge Capture Rate** (KCR-K) in th
 - **Canonical id:** `dea:metric-knowledge-capture-rate`
 - **Name:** Knowledge Capture Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** KCR-K
 
@@ -22,7 +22,7 @@ Measures the share of critical knowledge formally captured before it walks out t
 ## Formula
 
 ```
-Documented Solutions / Resolved Novel Issues
+KCR-K = Documented Solutions / Resolved Novel Issues
 ```
 
 ## Unit

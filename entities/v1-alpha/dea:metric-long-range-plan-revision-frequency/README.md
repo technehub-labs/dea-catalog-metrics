@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Long-Range Plan Revision Frequency** (
 - **Canonical id:** `dea:metric-long-range-plan-revision-frequency`
 - **Name:** Long-Range Plan Revision Frequency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRPRF
 
@@ -22,7 +22,7 @@ Measures how often the long-range plan is materially revised. Both extremes are 
 ## Formula
 
 ```
-Major LRP Revisions per Year
+LRPRF = Major LRP Revisions per Year
 ```
 
 ## Unit

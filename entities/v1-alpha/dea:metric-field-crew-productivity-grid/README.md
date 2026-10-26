@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Crew Productivity (Grid)** (FCP-
 - **Canonical id:** `dea:metric-field-crew-productivity-grid`
 - **Name:** Field Crew Productivity (Grid)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCP-G
 
@@ -18,7 +18,7 @@ Field Crew Productivity (Grid) (FCP-G) measures how efficiently resources are co
 ## Formula
 
 ```
-Completed Work Orders / Crew Day
+FCP-G = Completed Work Orders / Crew Day
 ```
 
 ## Unit

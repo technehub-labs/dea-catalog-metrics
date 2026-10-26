@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dead Code Ratio** (DCR-CQ) in the Open
 - **Canonical id:** `dea:metric-dead-code-ratio`
 - **Name:** Dead Code Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-CQ
 
@@ -18,7 +18,7 @@ Dead Code Ratio (DCR-CQ) measures the quality of outputs and outcomes in the Cod
 ## Formula
 
 ```
-Unreachable or Unused Code / Total Code
+DCR-CQ = Unreachable or Unused Code / Total Code
 ```
 
 ## Unit

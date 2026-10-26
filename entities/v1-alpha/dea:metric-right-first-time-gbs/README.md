@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Right First Time (GBS)** (RFT-GBS) in 
 - **Canonical id:** `dea:metric-right-first-time-gbs`
 - **Name:** Right First Time (GBS)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFT-GBS
 
@@ -18,7 +18,7 @@ Within Shared Services & Global Business Services, Right First Time (GBS) (RFT-G
 ## Formula
 
 ```
-Requests Completed without Rework / Requests Completed
+RFT-GBS = Requests Completed without Rework / Requests Completed
 ```
 
 ## Unit

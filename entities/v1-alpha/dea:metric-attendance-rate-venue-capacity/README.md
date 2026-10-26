@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attendance Rate (Venue Capacity)** (AR
 - **Canonical id:** `dea:metric-attendance-rate-venue-capacity`
 - **Name:** Attendance Rate (Venue Capacity)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARVC
 
@@ -22,7 +22,7 @@ Attendance rate measures filled seats against venue capacity, and it is the live
 ## Formula
 
 ```
-Attendees / Venue Capacity
+ARVC = Attendees / Venue Capacity
 ```
 
 ## Unit

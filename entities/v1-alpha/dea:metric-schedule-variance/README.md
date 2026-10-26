@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Schedule Variance** (SV) in the OpenDE
 - **Canonical id:** `dea:metric-schedule-variance`
 - **Name:** Schedule Variance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SV
 
@@ -22,7 +22,7 @@ SV is earned value minus planned value - the budgeted worth of the schedule gap 
 ## Formula
 
 ```
-Earned Value - Planned Value
+SV = Earned Value - Planned Value
 ```
 
 ## Unit

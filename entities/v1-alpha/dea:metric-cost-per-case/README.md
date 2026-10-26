@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Case** (CPC2) in the OpenDEAM
 - **Canonical id:** `dea:metric-cost-per-case`
 - **Name:** Cost per Case
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPC2
 
@@ -22,7 +22,7 @@ The full cost of treating an episode, divided by cases - the unit-economics metr
 ## Formula
 
 ```
-Total Treatment Cost / Cases Treated
+CPC2 = Total Treatment Cost / Cases Treated
 ```
 
 ## Unit

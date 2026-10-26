@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Building Operating Cost Escalation** (
 - **Canonical id:** `dea:metric-building-operating-cost-escalation`
 - **Name:** Building Operating Cost Escalation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BOCE
 
@@ -22,7 +22,7 @@ Measures year-over-year growth in building operating expenses. It matters becaus
 ## Formula
 
 ```
-(Cost_current - Cost_prior) / Cost_prior
+BOCE = (Cost_current - Cost_prior) / Cost_prior
 ```
 
 ## Unit

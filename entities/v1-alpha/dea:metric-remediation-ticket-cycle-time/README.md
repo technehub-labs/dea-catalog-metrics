@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Remediation Ticket Cycle Time** (RTCVM
 - **Canonical id:** `dea:metric-remediation-ticket-cycle-time`
 - **Name:** Remediation Ticket Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTCVM
 
@@ -18,7 +18,7 @@ Remediation Ticket Cycle Time (RTCVM) captures how efficiently resources are con
 ## Formula
 
 ```
-Days from Finding to Ticket Closure
+RTCVM = Days from Finding to Ticket Closure
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Orchestration Success Rate** 
 - **Canonical id:** `dea:metric-pipeline-orchestration-success-rate`
 - **Name:** Pipeline Orchestration Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** POSR-M
 
@@ -18,7 +18,7 @@ Pipeline Orchestration Success Rate (POSR-M) addresses the quality of outputs an
 ## Formula
 
 ```
-Orchestrated DAG Runs Succeeding / Runs
+POSR-M = Orchestrated DAG Runs Succeeding / Runs
 ```
 
 ## Unit

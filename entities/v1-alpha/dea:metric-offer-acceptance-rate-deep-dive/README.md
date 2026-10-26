@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Acceptance Rate (Deep Dive)** (O
 - **Canonical id:** `dea:metric-offer-acceptance-rate-deep-dive`
 - **Name:** Offer Acceptance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OARDD
 
@@ -18,7 +18,7 @@ Offer Acceptance Rate (Deep Dive) (OARDD) addresses the quality of outputs and o
 ## Formula
 
 ```
-Offers Accepted / Offers Extended
+OARDD = Offers Accepted / Offers Extended
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Valuation-to-Revenue Multiple at Raise
 - **Canonical id:** `dea:metric-valuation-to-revenue-multiple-at-raise`
 - **Name:** Valuation-to-Revenue Multiple at Raise
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VRMR
 
@@ -22,7 +22,7 @@ Measures the valuation paid by the market at each raise against revenue. It pric
 ## Formula
 
 ```
-Post-Money Valuation / Trailing Revenue
+VRMR = Post-Money Valuation / Trailing Revenue
 ```
 
 ## Unit

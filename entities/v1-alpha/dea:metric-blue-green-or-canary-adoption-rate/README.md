@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Blue-Green or Canary Adoption Rate** (
 - **Canonical id:** `dea:metric-blue-green-or-canary-adoption-rate`
 - **Name:** Blue-Green or Canary Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BGCA
 
@@ -22,7 +22,7 @@ Measures the share of deployments using progressive or zero-downtime release pat
 ## Formula
 
 ```
-Services Using Progressive Delivery / Services
+BGCA = Services Using Progressive Delivery / Services
 ```
 
 ## Unit

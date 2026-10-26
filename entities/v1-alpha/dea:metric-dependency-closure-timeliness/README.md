@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dependency Closure Timeliness** (DCT-P
 - **Canonical id:** `dea:metric-dependency-closure-timeliness`
 - **Name:** Dependency Closure Timeliness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCT-PM
 
@@ -22,7 +22,7 @@ Measures whether cross-project and cross-team dependencies resolve by their comm
 ## Formula
 
 ```
-Cross-Project Dependencies Resolved by Date / Dependencies
+DCT-PM = Cross-Project Dependencies Resolved by Date / Dependencies
 ```
 
 ## Unit

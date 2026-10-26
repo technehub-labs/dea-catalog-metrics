@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Forecast Bias** (FB) in the OpenDEAM M
 - **Canonical id:** `dea:metric-forecast-bias`
 - **Name:** Forecast Bias
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FB
 
@@ -22,7 +22,7 @@ Measures the systematic tendency of forecasts to run high or low versus actuals.
 ## Formula
 
 ```
-Sum of Forecast Errors / Sum of Actual Demand
+FB = Sum of Forecast Errors / Sum of Actual Demand
 ```
 
 ## Unit

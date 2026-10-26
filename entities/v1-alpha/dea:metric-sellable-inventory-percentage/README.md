@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Sellable Inventory Percentage** (SIP) 
 - **Canonical id:** `dea:metric-sellable-inventory-percentage`
 - **Name:** Sellable Inventory Percentage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SIP
 
@@ -18,7 +18,7 @@ Sellable Inventory Percentage (SIP) addresses the utilization or availability of
 ## Formula
 
 ```
-Sellable Units / Total Inventory Units
+SIP = Sellable Units / Total Inventory Units
 ```
 
 ## Unit

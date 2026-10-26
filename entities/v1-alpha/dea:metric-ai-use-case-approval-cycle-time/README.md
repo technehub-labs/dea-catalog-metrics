@@ -7,7 +7,7 @@ Candidate Performance Metric record for **AI Use Case Approval Cycle Time** (AIA
 - **Canonical id:** `dea:metric-ai-use-case-approval-cycle-time`
 - **Name:** AI Use Case Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AIAC
 
@@ -18,7 +18,7 @@ AI Use Case Approval Cycle Time (AIAC) measures how efficiently resources are co
 ## Formula
 
 ```
-Days from Proposal to Governance Decision
+AIAC = Days from Proposal to Governance Decision
 ```
 
 ## Unit

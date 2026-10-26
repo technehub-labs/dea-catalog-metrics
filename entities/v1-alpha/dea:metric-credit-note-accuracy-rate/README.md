@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Credit Note Accuracy Rate** (CNAR) in 
 - **Canonical id:** `dea:metric-credit-note-accuracy-rate`
 - **Name:** Credit Note Accuracy Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CNAR
 
@@ -18,7 +18,7 @@ A Accounts Payable & Receivable Operations (Deep Dive) indicator, Credit Note Ac
 ## Formula
 
 ```
-Credit Notes Issued Correctly First Time / Credit Notes
+CNAR = Credit Notes Issued Correctly First Time / Credit Notes
 ```
 
 ## Unit

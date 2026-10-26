@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Yield per Reactor Campaign** (YPRC) in
 - **Canonical id:** `dea:metric-yield-per-reactor-campaign`
 - **Name:** Yield per Reactor Campaign
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** YPRC
 
@@ -18,7 +18,7 @@ Yield per Reactor Campaign (YPRC) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Output Mass / Theoretical Maximum Mass
+YPRC = Output Mass / Theoretical Maximum Mass
 ```
 
 ## Unit

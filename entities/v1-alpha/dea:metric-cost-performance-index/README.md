@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost Performance Index** (CPI) in the 
 - **Canonical id:** `dea:metric-cost-performance-index`
 - **Name:** Cost Performance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPI
 
@@ -22,7 +22,7 @@ CPI, Earned Value Management's cost gauge, is earned value divided by actual cos
 ## Formula
 
 ```
-Earned Value / Actual Cost
+CPI = Earned Value / Actual Cost
 ```
 
 ## Unit

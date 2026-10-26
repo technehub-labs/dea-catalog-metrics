@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Capability Heat Map Coverage*
 - **Canonical id:** `dea:metric-business-capability-heat-map-coverage`
 - **Name:** Business Capability Heat Map Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCHMC
 
@@ -22,7 +22,7 @@ Measures how completely the business capability model is assessed for health and
 ## Formula
 
 ```
-Capabilities with Performance and Health Ratings / Capabilities
+BCHMC = Capabilities with Performance and Health Ratings / Capabilities
 ```
 
 ## Unit

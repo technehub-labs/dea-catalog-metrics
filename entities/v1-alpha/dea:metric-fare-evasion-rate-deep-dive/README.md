@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fare Evasion Rate (Deep Dive)** (FER-D
 - **Canonical id:** `dea:metric-fare-evasion-rate-deep-dive`
 - **Name:** Fare Evasion Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FER-D
 
@@ -22,7 +22,7 @@ Measures uncollected rides against total ridership, usually via survey and inspe
 ## Formula
 
 ```
-Unpaid Journeys / Total Journeys
+FER-D = Unpaid Journeys / Total Journeys
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Personal Development Plan Completion**
 - **Canonical id:** `dea:metric-personal-development-plan-completion`
 - **Name:** Personal Development Plan Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDPC
 
@@ -18,7 +18,7 @@ Personal Development Plan Completion (PDPC) measures the engagement or satisfact
 ## Formula
 
 ```
-Employees Completing PDP Milestones / Plans
+PDPC = Employees Completing PDP Milestones / Plans
 ```
 
 ## Unit

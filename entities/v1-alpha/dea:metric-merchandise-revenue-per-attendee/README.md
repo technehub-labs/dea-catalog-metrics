@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Merchandise Revenue per Attendee** (MR
 - **Canonical id:** `dea:metric-merchandise-revenue-per-attendee`
 - **Name:** Merchandise Revenue per Attendee
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRPA
 
@@ -22,7 +22,7 @@ Measures merchandise spend per event attendee. It matters because merchandising 
 ## Formula
 
 ```
-Merchandise Revenue / Attendance
+MRPA = Merchandise Revenue / Attendance
 ```
 
 ## Unit

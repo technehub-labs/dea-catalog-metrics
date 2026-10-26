@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Robots per 10,000 Employees** (RD) in 
 - **Canonical id:** `dea:metric-robots-per-10-000-employees`
 - **Name:** Robots per 10,000 Employees
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RD
 
@@ -22,7 +22,7 @@ Measures robot density relative to workforce, the standard cross-country benchma
 ## Formula
 
 ```
-Industrial Robots in Operation / Employees x 10,000
+RD = Industrial Robots in Operation / Employees x 10,000
 ```
 
 ## Unit

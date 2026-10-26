@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pipeline Coverage Ratio** (PCR) in the
 - **Canonical id:** `dea:metric-pipeline-coverage-ratio`
 - **Name:** Pipeline Coverage Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCR
 
@@ -22,7 +22,7 @@ Measures open pipeline value relative to the remaining quota for the period. It 
 ## Formula
 
 ```
-Pipeline Value / Quota for Period
+PCR = Pipeline Value / Quota for Period
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agent Churn Rate (Insurance)** (ACR-I)
 - **Canonical id:** `dea:metric-agent-churn-rate-insurance`
 - **Name:** Agent Churn Rate (Insurance)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACR-I
 
@@ -22,7 +22,7 @@ Measures producer departures, failures to license, or inactivity. Agent churn de
 ## Formula
 
 ```
-Agents Terminating / Appointed Agents
+ACR-I = Agents Terminating / Appointed Agents
 ```
 
 ## Unit

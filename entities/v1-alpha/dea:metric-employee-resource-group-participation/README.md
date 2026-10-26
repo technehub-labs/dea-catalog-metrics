@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Employee Resource Group Participation*
 - **Canonical id:** `dea:metric-employee-resource-group-participation`
 - **Name:** Employee Resource Group Participation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERGP
 
@@ -18,7 +18,7 @@ Employee Resource Group Participation (ERGP) addresses the engagement or satisfa
 ## Formula
 
 ```
-Active ERG Members / Employees
+ERGP = Active ERG Members / Employees
 ```
 
 ## Unit

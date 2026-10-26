@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cost per Contact (Deep Dive)** (CPCDD)
 - **Canonical id:** `dea:metric-cost-per-contact-deep-dive`
 - **Name:** Cost per Contact (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPCDD
 
@@ -18,7 +18,7 @@ A Contact Center Standard Measures (Deep Dive) indicator, Cost per Contact (Deep
 ## Formula
 
 ```
-Total Center Cost / Contacts Handled
+CPCDD = Total Center Cost / Contacts Handled
 ```
 
 ## Unit

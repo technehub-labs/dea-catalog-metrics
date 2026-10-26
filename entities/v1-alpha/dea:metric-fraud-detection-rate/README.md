@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fraud Detection Rate** (FDR) in the Op
 - **Canonical id:** `dea:metric-fraud-detection-rate`
 - **Name:** Fraud Detection Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FDR
 
@@ -22,7 +22,7 @@ Measures the share of fraud attempts or fraud losses that detection systems succ
 ## Formula
 
 ```
-Fraudulent Claims Detected / Total Fraudulent Claims Estimated
+FDR = Fraudulent Claims Detected / Total Fraudulent Claims Estimated
 ```
 
 ## Unit

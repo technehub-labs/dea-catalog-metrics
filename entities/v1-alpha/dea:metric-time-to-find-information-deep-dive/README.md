@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Find Information (Deep Dive)**
 - **Canonical id:** `dea:metric-time-to-find-information-deep-dive`
 - **Name:** Time to Find Information (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTFI
 
@@ -18,7 +18,7 @@ Time to Find Information (Deep Dive) (TTFI) addresses how efficiently resources 
 ## Formula
 
 ```
-Median Minutes to Locate Required Knowledge
+TTFI = Median Minutes to Locate Required Knowledge
 ```
 
 ## Unit

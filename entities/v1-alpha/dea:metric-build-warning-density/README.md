@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Build Warning Density** (BWD) in the O
 - **Canonical id:** `dea:metric-build-warning-density`
 - **Name:** Build Warning Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BWD
 
@@ -18,7 +18,7 @@ A Code Quality & Static Analysis indicator, Build Warning Density (BWD) quantifi
 ## Formula
 
 ```
-Compiler and Linter Warnings per Build
+BWD = Compiler and Linter Warnings per Build
 ```
 
 ## Unit

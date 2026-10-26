@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Crop Yield per Hectare** (CYH) in the 
 - **Canonical id:** `dea:metric-crop-yield-per-hectare`
 - **Name:** Crop Yield per Hectare
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CYH
 
@@ -22,7 +22,7 @@ Crop yield per hectare is agriculture's core productivity metric, and it is wher
 ## Formula
 
 ```
-Harvested Crop Mass / Cultivated Hectares
+CYH = Harvested Crop Mass / Cultivated Hectares
 ```
 
 ## Unit

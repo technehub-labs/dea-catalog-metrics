@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Human Rights Risk Assessment Coverage*
 - **Canonical id:** `dea:metric-human-rights-risk-assessment-coverage`
 - **Name:** Human Rights Risk Assessment Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HRRAC
 
@@ -22,7 +22,7 @@ Measures the share of operations, suppliers, and geographies covered by human-ri
 ## Formula
 
 ```
-Sites and Suppliers Assessed / In-Scope
+HRRAC = Sites and Suppliers Assessed / In-Scope
 ```
 
 ## Unit

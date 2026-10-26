@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Alert-to-Ticket Conversion Ratio** (AT
 - **Canonical id:** `dea:metric-alert-to-ticket-conversion-ratio`
 - **Name:** Alert-to-Ticket Conversion Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATTR
 
@@ -18,7 +18,7 @@ A Network Operations Center (Deep Dive) indicator, Alert-to-Ticket Conversion Ra
 ## Formula
 
 ```
-Alerts Generating Tickets / Alerts
+ATTR = Alerts Generating Tickets / Alerts
 ```
 
 ## Unit

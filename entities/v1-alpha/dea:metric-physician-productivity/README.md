@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Physician Productivity** (PP) in the O
 - **Canonical id:** `dea:metric-physician-productivity`
 - **Name:** Physician Productivity
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PP
 
@@ -22,7 +22,7 @@ Measures clinical output per physician, typically visits, procedures, or work re
 ## Formula
 
 ```
-Relative Value Units Generated per Physician
+PP = Relative Value Units Generated per Physician
 ```
 
 ## Unit

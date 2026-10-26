@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Email Deliverability Rate** (EDR) in t
 - **Canonical id:** `dea:metric-email-deliverability-rate`
 - **Name:** Email Deliverability Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EDR
 
@@ -18,7 +18,7 @@ Email Deliverability Rate (EDR) captures the quality of outputs and outcomes for
 ## Formula
 
 ```
-Emails Delivered / Emails Sent
+EDR = Emails Delivered / Emails Sent
 ```
 
 ## Unit

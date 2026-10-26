@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Field Technician Utilization (Deep Div
 - **Canonical id:** `dea:metric-field-technician-utilization-deep-dive`
 - **Name:** Field Technician Utilization (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FTU-D
 
@@ -18,7 +18,7 @@ Within Field Maintenance & Technical Field Service (Deep Dive), Field Technician
 ## Formula
 
 ```
-Billable or Job Hours / Paid Hours
+FTU-D = Billable or Job Hours / Paid Hours
 ```
 
 ## Unit

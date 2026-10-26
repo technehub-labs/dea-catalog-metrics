@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Calls per Agent per Day** (CPAD) in th
 - **Canonical id:** `dea:metric-calls-per-agent-per-day`
 - **Name:** Calls per Agent per Day
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPAD
 
@@ -18,7 +18,7 @@ A Contact Center indicator, Calls per Agent per Day (CPAD) quantifies the utiliz
 ## Formula
 
 ```
-Calls Handled / Agent Days Worked
+CPAD = Calls Handled / Agent Days Worked
 ```
 
 ## Unit

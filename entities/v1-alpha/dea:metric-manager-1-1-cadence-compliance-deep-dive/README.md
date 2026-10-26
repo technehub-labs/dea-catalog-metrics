@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manager 1:1 Cadence Compliance (Deep D
 - **Canonical id:** `dea:metric-manager-1-1-cadence-compliance-deep-dive`
 - **Name:** Manager 1:1 Cadence Compliance (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MO1CC
 
@@ -18,7 +18,7 @@ Within Employee Engagement & Culture (Deep Dive), Manager 1:1 Cadence Compliance
 ## Formula
 
 ```
-Reports Requiring Regular 1:1s Receiving Them / Reports
+MO1CC = Reports Requiring Regular 1:1s Receiving Them / Reports
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Artifact Build Reproducibility Rate** 
 - **Canonical id:** `dea:metric-artifact-build-reproducibility-rate`
 - **Name:** Artifact Build Reproducibility Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABRR-CI
 
@@ -22,7 +22,7 @@ Measures whether builds produce bit-identical (or verified-equivalent) artifacts
 ## Formula
 
 ```
-Builds Producing Identical Artifacts from Same Input / Sampled
+ABRR-CI = Builds Producing Identical Artifacts from Same Input / Sampled
 ```
 
 ## Unit

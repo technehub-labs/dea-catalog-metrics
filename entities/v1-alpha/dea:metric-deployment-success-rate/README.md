@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Deployment Success Rate** (DSR-CD) in 
 - **Canonical id:** `dea:metric-deployment-success-rate`
 - **Name:** Deployment Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSR-CD
 
@@ -22,7 +22,7 @@ Measures the share of deployments that complete without rollback, hotfix, or inc
 ## Formula
 
 ```
-Deployments without Failure / Deployments
+DSR-CD = Deployments without Failure / Deployments
 ```
 
 ## Unit

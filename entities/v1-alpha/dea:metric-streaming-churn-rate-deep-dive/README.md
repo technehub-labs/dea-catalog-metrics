@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Streaming Churn Rate (Deep Dive)** (SC
 - **Canonical id:** `dea:metric-streaming-churn-rate-deep-dive`
 - **Name:** Streaming Churn Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCR-S
 
@@ -22,7 +22,7 @@ Measures subscriber cancellation, often monthly in a churn-intensive subscriptio
 ## Formula
 
 ```
-Cancelled Subscriptions / Subscribers
+SCR-S = Cancelled Subscriptions / Subscribers
 ```
 
 ## Unit

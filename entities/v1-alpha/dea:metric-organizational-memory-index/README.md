@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organizational Memory Index** (OMI) in
 - **Canonical id:** `dea:metric-organizational-memory-index`
 - **Name:** Organizational Memory Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMI
 
@@ -22,7 +22,7 @@ Measures how well the organization retains and accesses what it has learned. Mem
 ## Formula
 
 ```
-Rubric of Preserved Institutional Knowledge across Functions
+OMI = Rubric of Preserved Institutional Knowledge across Functions
 ```
 
 ## Unit

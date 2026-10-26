@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wood Utilization Efficiency** (WUE) in
 - **Canonical id:** `dea:metric-wood-utilization-efficiency`
 - **Name:** Wood Utilization Efficiency
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WUE
 
@@ -18,7 +18,7 @@ Wood Utilization Efficiency (WUE) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Finished Product Volume / Timber Input Volume
+WUE = Finished Product Volume / Timber Input Volume
 ```
 
 ## Unit

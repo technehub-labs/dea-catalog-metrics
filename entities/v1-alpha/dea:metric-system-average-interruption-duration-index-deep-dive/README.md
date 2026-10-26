@@ -7,7 +7,7 @@ Candidate Performance Metric record for **System Average Interruption Duration I
 - **Canonical id:** `dea:metric-system-average-interruption-duration-index-deep-dive`
 - **Name:** System Average Interruption Duration Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SAIDI-D
 
@@ -22,7 +22,7 @@ SAIDI, from IEEE Std 1366, is the average customer-minutes of sustained interrup
 ## Formula
 
 ```
-Customer-Minutes Interrupted / Customers Served
+SAIDI-D = Customer-Minutes Interrupted / Customers Served
 ```
 
 ## Unit

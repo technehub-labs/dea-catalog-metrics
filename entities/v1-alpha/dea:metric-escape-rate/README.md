@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Escape Rate** (ER) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-escape-rate`
 - **Name:** Escape Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ER
 
@@ -18,7 +18,7 @@ Within Quality Management, Escape Rate (ER) is used to gauge the quality of outp
 ## Formula
 
 ```
-Defects Found Downstream / Defects Present at Stage
+ER = Defects Found Downstream / Defects Present at Stage
 ```
 
 ## Unit

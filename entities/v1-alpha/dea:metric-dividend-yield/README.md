@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dividend Yield** (DIVY) in the OpenDEA
 - **Canonical id:** `dea:metric-dividend-yield`
 - **Name:** Dividend Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DIVY
 
@@ -22,7 +22,7 @@ Annual dividends per share divided by price - the return metric that frames equi
 ## Formula
 
 ```
-Annual Dividend per Share / Share Price
+DIVY = Annual Dividend per Share / Share Price
 ```
 
 ## Unit

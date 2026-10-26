@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Return on Capital Employed** (ROCE) in
 - **Canonical id:** `dea:metric-return-on-capital-employed`
 - **Name:** Return on Capital Employed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ROCE
 
@@ -22,7 +22,7 @@ EBIT over capital employed (total assets minus current liabilities) - the pre-ta
 ## Formula
 
 ```
-EBIT / (Total Assets - Current Liabilities)
+ROCE = EBIT / (Total Assets - Current Liabilities)
 ```
 
 ## Unit

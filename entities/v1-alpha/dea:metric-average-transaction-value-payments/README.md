@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Transaction Value (Payments)**
 - **Canonical id:** `dea:metric-average-transaction-value-payments`
 - **Name:** Average Transaction Value (Payments)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATV-P
 
@@ -22,7 +22,7 @@ Average transaction value divides processed volume by transaction count, and in 
 ## Formula
 
 ```
-Total Processed Value / Transaction Count
+ATV-P = Total Processed Value / Transaction Count
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Application-to-Offer Cycle Time (Deep 
 - **Canonical id:** `dea:metric-application-to-offer-cycle-time-deep-dive`
 - **Name:** Application-to-Offer Cycle Time (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AOT-D
 
@@ -18,7 +18,7 @@ Application-to-Offer Cycle Time (Deep Dive) (AOT-D) addresses how efficiently re
 ## Formula
 
 ```
-Days from Application to Offer Decision
+AOT-D = Days from Application to Offer Decision
 ```
 
 ## Unit

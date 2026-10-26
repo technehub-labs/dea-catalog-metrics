@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Employee (Deep Dive)** (RP
 - **Canonical id:** `dea:metric-revenue-per-employee-deep-dive`
 - **Name:** Revenue per Employee (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPE-D
 
@@ -22,7 +22,7 @@ Measures revenue generated per headcount. It is the crudest but most comparable 
 ## Formula
 
 ```
-Revenue / Average Employees
+RPE-D = Revenue / Average Employees
 ```
 
 ## Unit

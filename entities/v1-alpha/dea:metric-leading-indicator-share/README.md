@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leading Indicator Share** (LIS-BSC) in
 - **Canonical id:** `dea:metric-leading-indicator-share`
 - **Name:** Leading Indicator Share
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LIS-BSC
 
@@ -22,7 +22,7 @@ Measures the proportion of scorecard metrics that lead rather than lag outcomes.
 ## Formula
 
 ```
-Leading Measures / Total BSC Measures
+LIS-BSC = Leading Measures / Total BSC Measures
 ```
 
 ## Unit

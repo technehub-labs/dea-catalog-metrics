@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Repeat Visit Rate (Field)** (RVR-F) in
 - **Canonical id:** `dea:metric-repeat-visit-rate-field`
 - **Name:** Repeat Visit Rate (Field)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RVR-F
 
@@ -18,7 +18,7 @@ Within Field Service & Asset Performance, Repeat Visit Rate (Field) (RVR-F) is u
 ## Formula
 
 ```
-Jobs Requiring Return Visit / Jobs
+RVR-F = Jobs Requiring Return Visit / Jobs
 ```
 
 ## Unit

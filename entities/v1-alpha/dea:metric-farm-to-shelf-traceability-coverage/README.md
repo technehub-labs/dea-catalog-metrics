@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Farm-to-Shelf Traceability Coverage** 
 - **Canonical id:** `dea:metric-farm-to-shelf-traceability-coverage`
 - **Name:** Farm-to-Shelf Traceability Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FSTC
 
@@ -22,7 +22,7 @@ Traceability coverage measures the share of product that can be traced from shel
 ## Formula
 
 ```
-Batches with Full Traceability Records / Batches
+FSTC = Batches with Full Traceability Records / Batches
 ```
 
 ## Unit

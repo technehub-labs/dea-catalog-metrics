@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Secret Scanning Gate Pass Rate** (SSGP
 - **Canonical id:** `dea:metric-secret-scanning-gate-pass-rate`
 - **Name:** Secret Scanning Gate Pass Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSGPR
 
@@ -18,7 +18,7 @@ Secret Scanning Gate Pass Rate (SSGPR) addresses exposure to adverse outcomes an
 ## Formula
 
 ```
-Builds Passing Secret Scan Gate / Builds
+SSGPR = Builds Passing Secret Scan Gate / Builds
 ```
 
 ## Unit

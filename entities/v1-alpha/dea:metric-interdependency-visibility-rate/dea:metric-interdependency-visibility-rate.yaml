@@ -8,7 +8,7 @@ description: Interdependency Visibility Rate (IVR-P) captures exposure to advers
   nearly any industry can adopt it directly.
 abbreviation: IVR-P
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - governance
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Cross-Initiative Dependencies Mapped / Identified
 formula_definition:
   formula_id: dea:formula-interdependency-visibility-rate
-  expression: Cross-Initiative Dependencies Mapped / Identified
+  expression: IVR-P = Cross-Initiative Dependencies Mapped / Identified
   inputs:
   - name: Cross
   - name: Initiative Dependencies Mapped
@@ -37,7 +37,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -48,9 +48,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 3410
     batch: '7'
 domain: pmo_portfolio_governance
+subject_concept: dea:subject-interdependency_visibility
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 3410
+  - Public domain - no attribution required
+  known_limitations: []

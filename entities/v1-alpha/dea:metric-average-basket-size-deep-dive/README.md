@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Basket Size (Deep Dive)** (ABS
 - **Canonical id:** `dea:metric-average-basket-size-deep-dive`
 - **Name:** Average Basket Size (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ABSDD
 
@@ -18,7 +18,7 @@ A Retail Standard Measures indicator, Average Basket Size (Deep Dive) (ABSDD) qu
 ## Formula
 
 ```
-Total Transaction Value / Transactions
+ABSDD = Total Transaction Value / Transactions
 ```
 
 ## Unit

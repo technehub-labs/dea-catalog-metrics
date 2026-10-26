@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Trademark Opposition Success Rate** (T
 - **Canonical id:** `dea:metric-trademark-opposition-success-rate`
 - **Name:** Trademark Opposition Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TOSR
 
@@ -18,7 +18,7 @@ A Legal Operations indicator, Trademark Opposition Success Rate (TOSR) quantifie
 ## Formula
 
 ```
-Oppositions Won / Oppositions Filed
+TOSR = Oppositions Won / Oppositions Filed
 ```
 
 ## Unit

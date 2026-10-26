@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Load Factor (Deep Dive)** (P
 - **Canonical id:** `dea:metric-passenger-load-factor-deep-dive`
 - **Name:** Passenger Load Factor (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PLFDD
 
@@ -22,7 +22,7 @@ Measures the share of available seats sold. Load factor is the core unit-economi
 ## Formula
 
 ```
-Revenue Passenger Kilometers / Available Seat Kilometers
+PLFDD = Revenue Passenger Kilometers / Available Seat Kilometers
 ```
 
 ## Unit

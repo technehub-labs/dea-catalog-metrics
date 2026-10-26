@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Outbound License Revenue Yield** (OLRY
 - **Canonical id:** `dea:metric-outbound-license-revenue-yield`
 - **Name:** Outbound License Revenue Yield
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OLRY
 
@@ -22,7 +22,7 @@ Measures revenue generated from licensing IP to others. Yield converts the portf
 ## Formula
 
 ```
-Licensing Revenue vs Portfolio Potential
+OLRY = Licensing Revenue vs Portfolio Potential
 ```
 
 ## Unit

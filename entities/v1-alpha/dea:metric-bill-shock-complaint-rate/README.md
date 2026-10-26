@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bill Shock Complaint Rate** (BSCR) in 
 - **Canonical id:** `dea:metric-bill-shock-complaint-rate`
 - **Name:** Bill Shock Complaint Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSCR
 
@@ -22,7 +22,7 @@ Measures complaints about unexpectedly high bills. It matters because bill shock
 ## Formula
 
 ```
-Bill Shock Complaints / Customers x 1,000
+BSCR = Bill Shock Complaints / Customers x 1,000
 ```
 
 ## Unit

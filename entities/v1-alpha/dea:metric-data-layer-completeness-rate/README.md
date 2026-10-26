@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Layer Completeness Rate** (DLCR) 
 - **Canonical id:** `dea:metric-data-layer-completeness-rate`
 - **Name:** Data Layer Completeness Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLCR
 
@@ -18,7 +18,7 @@ Data Layer Completeness Rate (DLCR) captures the quality of outputs and outcomes
 ## Formula
 
 ```
-Required Data Layer Attributes Populated / Required
+DLCR = Required Data Layer Attributes Populated / Required
 ```
 
 ## Unit

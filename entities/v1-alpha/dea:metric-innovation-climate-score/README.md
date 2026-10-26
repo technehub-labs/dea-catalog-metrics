@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Innovation Climate Score** (ICS-BSC) i
 - **Canonical id:** `dea:metric-innovation-climate-score`
 - **Name:** Innovation Climate Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ICS-BSC
 
@@ -22,7 +22,7 @@ Measures whether employees believe ideas are welcomed, resourced, and safely pur
 ## Formula
 
 ```
-Survey-Based Innovation Culture Score
+ICS-BSC = Survey-Based Innovation Culture Score
 ```
 
 ## Unit

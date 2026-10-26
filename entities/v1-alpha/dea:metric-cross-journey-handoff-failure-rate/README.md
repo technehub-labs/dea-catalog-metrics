@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cross-Journey Handoff Failure Rate** (
 - **Canonical id:** `dea:metric-cross-journey-handoff-failure-rate`
 - **Name:** Cross-Journey Handoff Failure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** JHFR
 
@@ -18,7 +18,7 @@ Cross-Journey Handoff Failure Rate (JHFR) measures the quality of outputs and ou
 ## Formula
 
 ```
-Handoffs Requiring Customer Re-Explanation / Handoffs
+JHFR = Handoffs Requiring Customer Re-Explanation / Handoffs
 ```
 
 ## Unit

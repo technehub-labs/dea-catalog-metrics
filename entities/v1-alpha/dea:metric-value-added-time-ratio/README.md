@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Value-Added Time Ratio** (VATR) in the
 - **Canonical id:** `dea:metric-value-added-time-ratio`
 - **Name:** Value-Added Time Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VATR
 
@@ -22,7 +22,7 @@ Measures the share of total process time spent on value-creating work. It matter
 ## Formula
 
 ```
-Value-Added Process Time / Total Lead Time
+VATR = Value-Added Process Time / Total Lead Time
 ```
 
 ## Unit

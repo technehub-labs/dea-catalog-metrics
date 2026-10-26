@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Feature Importance Stability** (FIIMP)
 - **Canonical id:** `dea:metric-feature-importance-stability`
 - **Name:** Feature Importance Stability
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FIIMP
 
@@ -18,7 +18,7 @@ Within Statistical Model Performance Diagnostics, Feature Importance Stability (
 ## Formula
 
 ```
-Rank Correlation of Feature Importances across Retrains
+FIIMP = Rank Correlation of Feature Importances across Retrains
 ```
 
 ## Unit

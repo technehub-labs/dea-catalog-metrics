@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Penetration Test Finding Closure Rate*
 - **Canonical id:** `dea:metric-penetration-test-finding-closure-rate`
 - **Name:** Penetration Test Finding Closure Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PTFCR
 
@@ -18,7 +18,7 @@ Within Application Security (AppSec), Penetration Test Finding Closure Rate (PTF
 ## Formula
 
 ```
-Pentest Findings Remediated / Findings
+PTFCR = Pentest Findings Remediated / Findings
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Availability Zone Redundancy Complianc
 - **Canonical id:** `dea:metric-availability-zone-redundancy-compliance`
 - **Name:** Availability Zone Redundancy Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AZRC
 
@@ -22,7 +22,7 @@ Measures the share of critical services deployed across multiple availability zo
 ## Formula
 
 ```
-Services Meeting Redundancy Standard / Services
+AZRC = Services Meeting Redundancy Standard / Services
 ```
 
 ## Unit

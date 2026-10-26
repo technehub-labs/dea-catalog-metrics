@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Agency Fee-to-Media Ratio** (AFMR) in 
 - **Canonical id:** `dea:metric-agency-fee-to-media-ratio`
 - **Name:** Agency Fee-to-Media Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AFMR
 
@@ -18,7 +18,7 @@ A Advertising & Media Buying indicator, Agency Fee-to-Media Ratio (AFMR) quantif
 ## Formula
 
 ```
-Agency Fees / Gross Media Spend
+AFMR = Agency Fees / Gross Media Spend
 ```
 
 ## Unit

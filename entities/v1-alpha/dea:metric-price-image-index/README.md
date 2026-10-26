@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Price Image Index** (PII-RT) in the Op
 - **Canonical id:** `dea:metric-price-image-index`
 - **Name:** Price Image Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PII-RT
 
@@ -22,7 +22,7 @@ Measures customers' perception of the retailer's price position versus competito
 ## Formula
 
 ```
-Composite of Key Value Item Price Position vs Competitors
+PII-RT = Composite of Key Value Item Price Position vs Competitors
 ```
 
 ## Unit

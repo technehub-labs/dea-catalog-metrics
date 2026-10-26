@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Falls with Injury Rate** (FWIR) in the
 - **Canonical id:** `dea:metric-falls-with-injury-rate`
 - **Name:** Falls with Injury Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FWIR
 
@@ -18,7 +18,7 @@ Falls with Injury Rate (FWIR) addresses exposure to adverse outcomes and is a fi
 ## Formula
 
 ```
-Falls Causing Injury / 1,000 Patient Days
+FWIR = Falls Causing Injury / 1,000 Patient Days
 ```
 
 ## Unit

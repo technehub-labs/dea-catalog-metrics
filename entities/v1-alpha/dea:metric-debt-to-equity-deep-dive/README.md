@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt to Equity (Deep Dive)** (DTE-D) i
 - **Canonical id:** `dea:metric-debt-to-equity-deep-dive`
 - **Name:** Debt to Equity (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DTE-D
 
@@ -22,7 +22,7 @@ Measures the balance of borrowed funds to shareholder equity in the capital stru
 ## Formula
 
 ```
-Total Debt / Total Equity
+DTE-D = Total Debt / Total Equity
 ```
 
 ## Unit

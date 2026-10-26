@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Revenue per User (Telecom)** (
 - **Canonical id:** `dea:metric-average-revenue-per-user-telecom`
 - **Name:** Average Revenue per User (Telecom)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARPU-T
 
@@ -22,7 +22,7 @@ Telecom service revenue divided by the average subscriber base - the unit-econom
 ## Formula
 
 ```
-Service Revenue / Average Subscribers
+ARPU-T = Service Revenue / Average Subscribers
 ```
 
 ## Unit

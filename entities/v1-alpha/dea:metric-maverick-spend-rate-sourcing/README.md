@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Maverick Spend Rate (Sourcing)** (MSR-
 - **Canonical id:** `dea:metric-maverick-spend-rate-sourcing`
 - **Name:** Maverick Spend Rate (Sourcing)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSR-SS
 
@@ -22,7 +22,7 @@ Measures the share of addressable spend bypassing sourcing channels and contract
 ## Formula
 
 ```
-Spend outside Approved Channels / Total Spend
+MSR-SS = Spend outside Approved Channels / Total Spend
 ```
 
 ## Unit

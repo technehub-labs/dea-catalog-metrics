@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Retention Policy Compliance** (DR
 - **Canonical id:** `dea:metric-data-retention-policy-compliance`
 - **Name:** Data Retention Policy Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRPC
 
@@ -18,7 +18,7 @@ Within Database & Data Platform Operations, Data Retention Policy Compliance (DR
 ## Formula
 
 ```
-Stores Compliant with Retention Schedule / Stores
+DRPC = Stores Compliant with Retention Schedule / Stores
 ```
 
 ## Unit

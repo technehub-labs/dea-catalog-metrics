@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Simulation Correlation Accuracy** (SCA
 - **Canonical id:** `dea:metric-simulation-correlation-accuracy`
 - **Name:** Simulation Correlation Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCA
 
@@ -22,7 +22,7 @@ Measures how closely simulation models (CAE, digital twins) predict physical tes
 ## Formula
 
 ```
-Model Prediction Error vs Test Data
+SCA = Model Prediction Error vs Test Data
 ```
 
 ## Unit

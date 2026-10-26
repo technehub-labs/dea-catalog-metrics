@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Benefits Tracking Coverage** (BTC-PPM)
 - **Canonical id:** `dea:metric-benefits-tracking-coverage`
 - **Name:** Benefits Tracking Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BTC-PPM
 
@@ -22,7 +22,7 @@ Measures the share of initiatives with defined, owned, measurable benefits under
 ## Formula
 
 ```
-Initiatives with Measurable Benefits Tracked / Initiatives
+BTC-PPM = Initiatives with Measurable Benefits Tracked / Initiatives
 ```
 
 ## Unit

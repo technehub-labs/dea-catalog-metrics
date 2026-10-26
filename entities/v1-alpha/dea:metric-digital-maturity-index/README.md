@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Digital Maturity Index** (DMI) in the 
 - **Canonical id:** `dea:metric-digital-maturity-index`
 - **Name:** Digital Maturity Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DMI
 
@@ -22,7 +22,7 @@ A composite score across capability dimensions - technology, talent, operations,
 ## Formula
 
 ```
-Weighted Index of Strategy, Technology, Data, Process, Culture Dimensions
+DMI = Weighted Index of Strategy, Technology, Data, Process, Culture Dimensions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Straight-Through Processing Rate (Unde
 - **Canonical id:** `dea:metric-straight-through-processing-rate-underwriting`
 - **Name:** Straight-Through Processing Rate (Underwriting)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** STPU
 
@@ -22,7 +22,7 @@ Measures the share of applications underwritten end-to-end by rules and models w
 ## Formula
 
 ```
-Policies Issued without Manual Touch / Policies Issued
+STPU = Policies Issued without Manual Touch / Policies Issued
 ```
 
 ## Unit

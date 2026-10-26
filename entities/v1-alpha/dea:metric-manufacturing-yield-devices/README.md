@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Manufacturing Yield (Devices)** (MYD) 
 - **Canonical id:** `dea:metric-manufacturing-yield-devices`
 - **Name:** Manufacturing Yield (Devices)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MYD
 
@@ -18,7 +18,7 @@ Manufacturing Yield (Devices) (MYD) addresses the quality of outputs and outcome
 ## Formula
 
 ```
-Conforming Devices / Devices Started
+MYD = Conforming Devices / Devices Started
 ```
 
 ## Unit

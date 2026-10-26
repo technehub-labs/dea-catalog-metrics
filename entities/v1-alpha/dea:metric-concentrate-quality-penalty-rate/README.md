@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Concentrate Quality Penalty Rate** (CQ
 - **Canonical id:** `dea:metric-concentrate-quality-penalty-rate`
 - **Name:** Concentrate Quality Penalty Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CQPR
 
@@ -18,7 +18,7 @@ Concentrate Quality Penalty Rate (CQPR) addresses the quality of outputs and out
 ## Formula
 
 ```
-Shipments Incurring Penalty Elements / Shipments
+CQPR = Shipments Incurring Penalty Elements / Shipments
 ```
 
 ## Unit

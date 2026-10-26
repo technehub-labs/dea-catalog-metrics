@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Layup Days** (LUD) in the OpenDEAM Met
 - **Canonical id:** `dea:metric-layup-days`
 - **Name:** Layup Days
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LUD
 
@@ -22,7 +22,7 @@ Measures days vessels are laid up inactive rather than earning. It matters becau
 ## Formula
 
 ```
-Vessel Days Idle / Total Vessel Days
+LUD = Vessel Days Idle / Total Vessel Days
 ```
 
 ## Unit

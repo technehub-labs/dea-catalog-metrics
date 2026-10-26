@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Enablement Certification Rate*
 - **Canonical id:** `dea:metric-partner-enablement-certification-rate`
 - **Name:** Partner Enablement Certification Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PECR
 
@@ -18,7 +18,7 @@ Partner Enablement Certification Rate (PECR) captures capability maturity or dev
 ## Formula
 
 ```
-Partner Staff Certified / Required Certifications
+PECR = Partner Staff Certified / Required Certifications
 ```
 
 ## Unit

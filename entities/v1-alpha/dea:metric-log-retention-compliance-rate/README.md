@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Log Retention Compliance Rate** (LRCR-
 - **Canonical id:** `dea:metric-log-retention-compliance-rate`
 - **Name:** Log Retention Compliance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LRCR-SOC
 
@@ -22,7 +22,7 @@ Measures adherence to required log retention periods across systems. Retention d
 ## Formula
 
 ```
-Sources Meeting Retention Policy / Sources
+LRCR-SOC = Sources Meeting Retention Policy / Sources
 ```
 
 ## Unit

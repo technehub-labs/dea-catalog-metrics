@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Attrition Cost Impact** (ACI-WF) in th
 - **Canonical id:** `dea:metric-attrition-cost-impact`
 - **Name:** Attrition Cost Impact
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ACI-WF
 
@@ -22,7 +22,7 @@ Measures the full financial impact of turnover: recruiting, lost productivity, o
 ## Formula
 
 ```
-Replacement and Productivity Cost per Regretted Leaver
+ACI-WF = Replacement and Productivity Cost per Regretted Leaver
 ```
 
 ## Unit

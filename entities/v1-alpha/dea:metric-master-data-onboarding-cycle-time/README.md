@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Onboarding Cycle Time** (M
 - **Canonical id:** `dea:metric-master-data-onboarding-cycle-time`
 - **Name:** Master Data Onboarding Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDOCT
 
@@ -18,7 +18,7 @@ Master Data Onboarding Cycle Time (MDOCT) measures how efficiently resources are
 ## Formula
 
 ```
-Days to Add New Master Record with Full Governance
+MDOCT = Days to Add New Master Record with Full Governance
 ```
 
 ## Unit

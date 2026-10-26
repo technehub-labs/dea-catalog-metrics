@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Occupational Exposure Limit Compliance
 - **Canonical id:** `dea:metric-occupational-exposure-limit-compliance`
 - **Name:** Occupational Exposure Limit Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OELC
 
@@ -22,7 +22,7 @@ Measures workplace exposure to hazardous substances against regulatory limits. I
 ## Formula
 
 ```
-Monitoring Results below OEL / Results
+OELC = Monitoring Results below OEL / Results
 ```
 
 ## Unit

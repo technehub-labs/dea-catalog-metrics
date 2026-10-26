@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Daily Commits per Developer** (DCPD) i
 - **Canonical id:** `dea:metric-daily-commits-per-developer`
 - **Name:** Daily Commits per Developer
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCPD
 
@@ -18,7 +18,7 @@ Daily Commits per Developer (DCPD) addresses how efficiently resources are conve
 ## Formula
 
 ```
-Commits Merged per Developer per Day
+DCPD = Commits Merged per Developer per Day
 ```
 
 ## Unit

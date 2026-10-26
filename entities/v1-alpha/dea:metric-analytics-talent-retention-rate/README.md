@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Analytics Talent Retention Rate** (ATR
 - **Canonical id:** `dea:metric-analytics-talent-retention-rate`
 - **Name:** Analytics Talent Retention Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ATRR-DS
 
@@ -22,7 +22,7 @@ Measures retention of data scientists, engineers, and analysts. Analytics talent
 ## Formula
 
 ```
-Analytics Staff Retained / Analytics Staff
+ATRR-DS = Analytics Staff Retained / Analytics Staff
 ```
 
 ## Unit

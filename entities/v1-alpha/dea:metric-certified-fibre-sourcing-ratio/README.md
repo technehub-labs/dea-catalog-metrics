@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Certified Fibre Sourcing Ratio** (CFSR
 - **Canonical id:** `dea:metric-certified-fibre-sourcing-ratio`
 - **Name:** Certified Fibre Sourcing Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CFSR
 
@@ -22,7 +22,7 @@ Measures the share of virgin fibre from certified (FSC/PEFC) or controlled-wood 
 ## Formula
 
 ```
-Certified Fibre / Total Fibre
+CFSR = Certified Fibre / Total Fibre
 ```
 
 ## Unit

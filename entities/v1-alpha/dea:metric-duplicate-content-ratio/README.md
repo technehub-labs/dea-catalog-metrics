@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Duplicate Content Ratio** (DCR-KM) in 
 - **Canonical id:** `dea:metric-duplicate-content-ratio`
 - **Name:** Duplicate Content Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-KM
 
@@ -18,7 +18,7 @@ A Knowledge Management (Deep Dive) indicator, Duplicate Content Ratio (DCR-KM) q
 ## Formula
 
 ```
-Redundant Articles / Total Articles
+DCR-KM = Redundant Articles / Total Articles
 ```
 
 ## Unit

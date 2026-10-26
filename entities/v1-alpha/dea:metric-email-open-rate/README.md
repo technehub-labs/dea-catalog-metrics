@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Email Open Rate** (EOR) in the OpenDEA
 - **Canonical id:** `dea:metric-email-open-rate`
 - **Name:** Email Open Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EOR
 
@@ -18,7 +18,7 @@ Email Open Rate (EOR) captures the engagement or satisfaction of the people invo
 ## Formula
 
 ```
-Email Opens / Emails Delivered
+EOR = Email Opens / Emails Delivered
 ```
 
 ## Unit

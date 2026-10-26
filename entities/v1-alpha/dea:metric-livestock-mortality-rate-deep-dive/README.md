@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Livestock Mortality Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-livestock-mortality-rate-deep-dive`
 - **Name:** Livestock Mortality Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LMR-D
 
@@ -18,7 +18,7 @@ Within Agriculture & Agronomy (Deep Dive), Livestock Mortality Rate (Deep Dive) 
 ## Formula
 
 ```
-Deaths / Herd Size
+LMR-D = Deaths / Herd Size
 ```
 
 ## Unit

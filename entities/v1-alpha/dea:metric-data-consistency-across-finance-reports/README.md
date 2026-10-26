@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Data Consistency across Finance Report
 - **Canonical id:** `dea:metric-data-consistency-across-finance-reports`
 - **Name:** Data Consistency across Finance Reports
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCFPR
 
@@ -18,7 +18,7 @@ Data Consistency across Finance Reports (DCFPR) captures the quality of outputs 
 ## Formula
 
 ```
-Reports Reconciled to Single Source / Reports
+DCFPR = Reports Reconciled to Single Source / Reports
 ```
 
 ## Unit

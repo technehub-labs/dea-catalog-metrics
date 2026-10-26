@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Percent Complete Planned vs Actual (De
 - **Canonical id:** `dea:metric-percent-complete-planned-vs-actual-deep-dive`
 - **Name:** Percent Complete Planned vs Actual (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCPA-D
 
@@ -22,7 +22,7 @@ Measures earned progress against planned progress on construction projects. It i
 ## Formula
 
 ```
-Actual Percent Complete - Planned Percent Complete
+PCPA-D = Actual Percent Complete - Planned Percent Complete
 ```
 
 ## Unit

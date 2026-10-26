@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Fab Utilization - Steppers (Deep Dive)
 - **Canonical id:** `dea:metric-fab-utilization-steppers-deep-dive`
 - **Name:** Fab Utilization - Steppers (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FUS-D
 
@@ -22,7 +22,7 @@ Measures utilization of lithography tools, the fab's capital-dominant and usuall
 ## Formula
 
 ```
-Exposure Tool Productive Time / Available Time
+FUS-D = Exposure Tool Productive Time / Available Time
 ```
 
 ## Unit

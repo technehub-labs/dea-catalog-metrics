@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Handover On-Time Rate** (PHOT)
 - **Canonical id:** `dea:metric-project-handover-on-time-rate`
 - **Name:** Project Handover On-Time Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PHOT
 
@@ -22,7 +22,7 @@ The share of projects formally handed over to the client by the contractual date
 ## Formula
 
 ```
-Projects Handed Over on Schedule / Projects Completed
+PHOT = Projects Handed Over on Schedule / Projects Completed
 ```
 
 ## Unit

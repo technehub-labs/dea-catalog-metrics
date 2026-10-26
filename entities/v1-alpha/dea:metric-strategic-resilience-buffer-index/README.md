@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Strategic Resilience Buffer Index** (S
 - **Canonical id:** `dea:metric-strategic-resilience-buffer-index`
 - **Name:** Strategic Resilience Buffer Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRBI
 
@@ -22,7 +22,7 @@ Measures the buffers (cash, capacity, optionality) standing between the organiza
 ## Formula
 
 ```
-Composite of Financial and Operational Buffers vs Stressed Scenarios
+SRBI = Composite of Financial and Operational Buffers vs Stressed Scenarios
 ```
 
 ## Unit

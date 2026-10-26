@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Passenger Satisfaction Index - Airport
 - **Canonical id:** `dea:metric-passenger-satisfaction-index-airport-deep-dive`
 - **Name:** Passenger Satisfaction Index - Airport (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSIA-D
 
@@ -22,7 +22,7 @@ Measures overall passenger sentiment across the airport journey (check-in, secur
 ## Formula
 
 ```
-Composite Airport Survey Score
+PSIA-D = Composite Airport Survey Score
 ```
 
 ## Unit

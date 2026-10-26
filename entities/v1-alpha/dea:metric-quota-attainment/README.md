@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quota Attainment** (QA) in the OpenDEA
 - **Canonical id:** `dea:metric-quota-attainment`
 - **Name:** Quota Attainment
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QA
 
@@ -22,7 +22,7 @@ Measures the percentage of assigned sales quota each rep or team achieves. It ma
 ## Formula
 
 ```
-Actual Sales / Quota
+QA = Actual Sales / Quota
 ```
 
 ## Unit

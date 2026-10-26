@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mutation Testing Kill Score** (MTKS) i
 - **Canonical id:** `dea:metric-mutation-testing-kill-score`
 - **Name:** Mutation Testing Kill Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTKS
 
@@ -22,7 +22,7 @@ Measures the proportion of deliberately injected code faults that existing tests
 ## Formula
 
 ```
-Mutants Killed by Test Suite / Mutants Introduced
+MTKS = Mutants Killed by Test Suite / Mutants Introduced
 ```
 
 ## Unit

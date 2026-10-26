@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Data Insight** (TTDI) in the O
 - **Canonical id:** `dea:metric-time-to-data-insight`
 - **Name:** Time to Data Insight
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTDI
 
@@ -22,7 +22,7 @@ Measures elapsed time from question or event to delivered analytical insight. It
 ## Formula
 
 ```
-Days from Question Raised to Analytical Answer Delivered
+TTDI = Days from Question Raised to Analytical Answer Delivered
 ```
 
 ## Unit

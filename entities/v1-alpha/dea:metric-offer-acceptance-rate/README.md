@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Offer Acceptance Rate** (OAR) in the O
 - **Canonical id:** `dea:metric-offer-acceptance-rate`
 - **Name:** Offer Acceptance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OAR
 
@@ -22,7 +22,7 @@ Measures the share of extended offers that candidates accept. It matters because
 ## Formula
 
 ```
-Offers Accepted / Offers Extended
+OAR = Offers Accepted / Offers Extended
 ```
 
 ## Unit

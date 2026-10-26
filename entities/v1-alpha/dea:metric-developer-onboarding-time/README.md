@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Developer Onboarding Time** (DOT-SD) i
 - **Canonical id:** `dea:metric-developer-onboarding-time`
 - **Name:** Developer Onboarding Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DOT-SD
 
@@ -18,7 +18,7 @@ A Software Development - Coding & Engineering Practices indicator, Developer Onb
 ## Formula
 
 ```
-Days from Join to First Production Merge
+DOT-SD = Days from Join to First Production Merge
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Regulatory Inspection Observation Rate
 - **Canonical id:** `dea:metric-regulatory-inspection-observation-rate`
 - **Name:** Regulatory Inspection Observation Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RIOR
 
@@ -18,7 +18,7 @@ Within Pharma R&D & Clinical Trials, Regulatory Inspection Observation Rate (RIO
 ## Formula
 
 ```
-Inspection Observations per Inspection
+RIOR = Inspection Observations per Inspection
 ```
 
 ## Unit

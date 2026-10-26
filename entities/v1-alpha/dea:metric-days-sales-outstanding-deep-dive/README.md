@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Sales Outstanding (Deep Dive)** (
 - **Canonical id:** `dea:metric-days-sales-outstanding-deep-dive`
 - **Name:** Days Sales Outstanding (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSODD
 
@@ -22,7 +22,7 @@ Measures the average time to collect revenue after billing. DSO is where booked 
 ## Formula
 
 ```
-Average Days from Invoice to Collection
+DSODD = Average Days from Invoice to Collection
 ```
 
 ## Unit

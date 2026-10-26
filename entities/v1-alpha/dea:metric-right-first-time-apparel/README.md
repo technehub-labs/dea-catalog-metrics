@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Right First Time (Apparel)** (RFT-A) i
 - **Canonical id:** `dea:metric-right-first-time-apparel`
 - **Name:** Right First Time (Apparel)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RFT-A
 
@@ -22,7 +22,7 @@ Measures the share of garments passing quality inspection without rework. It mat
 ## Formula
 
 ```
-Garments Passing Inspection First Time / Garments Produced
+RFT-A = Garments Passing Inspection First Time / Garments Produced
 ```
 
 ## Unit

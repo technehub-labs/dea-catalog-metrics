@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Shrinkage** (SHK) in the OpenDEAM Metr
 - **Canonical id:** `dea:metric-shrinkage`
 - **Name:** Shrinkage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SHK
 
@@ -18,7 +18,7 @@ Shrinkage (SHK) captures the utilization or availability of capacity for organiz
 ## Formula
 
 ```
-Non-Productive Time / Total Paid Time
+SHK = Non-Productive Time / Total Paid Time
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Absence Rate** (AR) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-absence-rate`
 - **Name:** Absence Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AR
 
@@ -22,7 +22,7 @@ Measures employee absence days as a percentage of scheduled workdays. It matters
 ## Formula
 
 ```
-Absent Days / Scheduled Work Days
+AR = Absent Days / Scheduled Work Days
 ```
 
 ## Unit

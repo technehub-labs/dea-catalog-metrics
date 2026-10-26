@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident First-Level Resolution Rate**
 - **Canonical id:** `dea:metric-incident-first-level-resolution-rate`
 - **Name:** Incident First-Level Resolution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IFLRR
 
@@ -18,7 +18,7 @@ Incident First-Level Resolution Rate (IFLRR) measures how efficiently resources 
 ## Formula
 
 ```
-Incidents Resolved at First Line / Incidents
+IFLRR = Incidents Resolved at First Line / Incidents
 ```
 
 ## Unit

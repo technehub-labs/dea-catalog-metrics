@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Exception Handling Rate** (EHR) in the
 - **Canonical id:** `dea:metric-exception-handling-rate`
 - **Name:** Exception Handling Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EHR
 
@@ -18,7 +18,7 @@ A Automation & Robotic Process Automation indicator, Exception Handling Rate (EH
 ## Formula
 
 ```
-Bot Executions Routed to Manual Handling / Bot Executions
+EHR = Bot Executions Routed to Manual Handling / Bot Executions
 ```
 
 ## Unit

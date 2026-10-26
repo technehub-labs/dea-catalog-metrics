@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Ad Load per Streaming Hour** (ALSH) in
 - **Canonical id:** `dea:metric-ad-load-per-streaming-hour`
 - **Name:** Ad Load per Streaming Hour
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALSH
 
@@ -18,7 +18,7 @@ Within Broadcasting & Streaming Media, Ad Load per Streaming Hour (ALSH) is used
 ## Formula
 
 ```
-Ad Minutes / Streaming Hours
+ALSH = Ad Minutes / Streaming Hours
 ```
 
 ## Unit

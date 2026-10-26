@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-Weighted Return vs Benchmark** (T
 - **Canonical id:** `dea:metric-time-weighted-return-vs-benchmark`
 - **Name:** Time-Weighted Return vs Benchmark
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TWRB
 
@@ -22,7 +22,7 @@ Measures the manager's time-weighted return against its declared benchmark. This
 ## Formula
 
 ```
-TWR minus Benchmark Return in Period
+TWRB = TWR minus Benchmark Return in Period
 ```
 
 ## Unit

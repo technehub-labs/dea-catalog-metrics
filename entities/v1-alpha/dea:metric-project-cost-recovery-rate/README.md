@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Project Cost Recovery Rate** (PCRR-ITF
 - **Canonical id:** `dea:metric-project-cost-recovery-rate`
 - **Name:** Project Cost Recovery Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PCRR-ITFM
 
@@ -18,7 +18,7 @@ Project Cost Recovery Rate (PCRR-ITFM) captures conformance to standards, plans,
 ## Formula
 
 ```
-Capitalized Project Costs Recovered per Policy / Eligible
+PCRR-ITFM = Capitalized Project Costs Recovered per Policy / Eligible
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Customer Complaint Rate (Transit Deep 
 - **Canonical id:** `dea:metric-customer-complaint-rate-transit-deep-dive`
 - **Name:** Customer Complaint Rate (Transit Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CCR-T
 
@@ -18,7 +18,7 @@ Customer Complaint Rate (Transit Deep Dive) (CCR-T) addresses the quality of out
 ## Formula
 
 ```
-Complaints per 100,000 Journeys
+CCR-T = Complaints per 100,000 Journeys
 ```
 
 ## Unit

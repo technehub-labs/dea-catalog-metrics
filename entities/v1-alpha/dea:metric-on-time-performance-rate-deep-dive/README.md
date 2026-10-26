@@ -7,7 +7,7 @@ Candidate Performance Metric record for **On-Time Performance Rate (Deep Dive)**
 - **Canonical id:** `dea:metric-on-time-performance-rate-deep-dive`
 - **Name:** On-Time Performance Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OTPDD
 
@@ -22,7 +22,7 @@ Measures the share of flights departing/arriving within threshold windows. OTP i
 ## Formula
 
 ```
-Flights within 15 Minutes of Schedule / Flights
+OTPDD = Flights within 15 Minutes of Schedule / Flights
 ```
 
 ## Unit

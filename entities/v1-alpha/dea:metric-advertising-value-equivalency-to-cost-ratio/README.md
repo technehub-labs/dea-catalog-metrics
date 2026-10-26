@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Advertising Value Equivalency to Cost 
 - **Canonical id:** `dea:metric-advertising-value-equivalency-to-cost-ratio`
 - **Name:** Advertising Value Equivalency to Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AVECR
 
@@ -18,7 +18,7 @@ Within Corporate Communications & PR (Deep Dive), Advertising Value Equivalency 
 ## Formula
 
 ```
-Earned Media Value / Program Cost
+AVECR = Earned Media Value / Program Cost
 ```
 
 ## Unit

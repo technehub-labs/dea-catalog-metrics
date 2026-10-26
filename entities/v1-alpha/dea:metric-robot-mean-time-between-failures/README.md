@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Robot Mean Time between Failures** (RM
 - **Canonical id:** `dea:metric-robot-mean-time-between-failures`
 - **Name:** Robot Mean Time between Failures
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RMTBF
 
@@ -22,7 +22,7 @@ Measures average uptime between robot failures. It matters because robot reliabi
 ## Formula
 
 ```
-Robot Operating Time / Robot Failures
+RMTBF = Robot Operating Time / Robot Failures
 ```
 
 ## Unit

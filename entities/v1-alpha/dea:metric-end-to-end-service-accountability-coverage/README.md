@@ -7,7 +7,7 @@ Candidate Performance Metric record for **End-to-End Service Accountability Cove
 - **Canonical id:** `dea:metric-end-to-end-service-accountability-coverage`
 - **Name:** End-to-End Service Accountability Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EESAC
 
@@ -22,7 +22,7 @@ Measures the share of services with a single accountable owner across all contri
 ## Formula
 
 ```
-Services with Single Accountable Executive / Services
+EESAC = Services with Single Accountable Executive / Services
 ```
 
 ## Unit

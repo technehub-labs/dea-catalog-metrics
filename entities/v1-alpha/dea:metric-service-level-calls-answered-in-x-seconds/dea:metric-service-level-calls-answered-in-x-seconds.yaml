@@ -8,7 +8,7 @@ description: A Contact Center indicator, Service Level (Calls Answered in X seco
   maximized within the limits of cost and quality trade-offs.
 abbreviation: SL-CC
 unit: percent
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - customer
@@ -26,7 +26,7 @@ source_credit: Public domain - no attribution required
 calculation_definition: Calls Answered within Threshold / Calls Offered
 formula_definition:
   formula_id: dea:formula-service-level-calls-answered-in-x-seconds
-  expression: Calls Answered within Threshold / Calls Offered
+  expression: SL-CC = Calls Answered within Threshold / Calls Offered
   inputs:
   - name: Calls Answered within Threshold
   - name: Calls Offered
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-ratio-percent
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 565
     batch: '2'
 domain: contact_center
+subject_concept: dea:subject-service_level_calls_answered_in_x_seconds
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 565
+  - Public domain - no attribution required
+  known_limitations: []

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Financial Close Cycle Time** (FCCT) in
 - **Canonical id:** `dea:metric-financial-close-cycle-time`
 - **Name:** Financial Close Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCCT
 
@@ -18,7 +18,7 @@ Within Finance & Accounting, Financial Close Cycle Time (FCCT) is used to gauge 
 ## Formula
 
 ```
-Days from Period End to Signed Financial Statements
+FCCT = Days from Period End to Signed Financial Statements
 ```
 
 ## Unit

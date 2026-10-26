@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Security Architect Review Coverage** (
 - **Canonical id:** `dea:metric-security-architect-review-coverage`
 - **Name:** Security Architect Review Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SARC
 
@@ -22,7 +22,7 @@ Measures the share of significant changes receiving architectural security revie
 ## Formula
 
 ```
-Material Changes with Security Review / Material Changes
+SARC = Material Changes with Security Review / Material Changes
 ```
 
 ## Unit

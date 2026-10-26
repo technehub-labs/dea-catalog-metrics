@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mystery Shopper Score** (MSS) in the O
 - **Canonical id:** `dea:metric-mystery-shopper-score`
 - **Name:** Mystery Shopper Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSS
 
@@ -22,7 +22,7 @@ Measures standardized evaluations of service quality by trained anonymous assess
 ## Formula
 
 ```
-Average Audit Score across Mystery Shopper Evaluations
+MSS = Average Audit Score across Mystery Shopper Evaluations
 ```
 
 ## Unit

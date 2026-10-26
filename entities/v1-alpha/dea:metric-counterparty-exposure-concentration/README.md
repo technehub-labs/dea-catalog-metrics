@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Counterparty Exposure Concentration** 
 - **Canonical id:** `dea:metric-counterparty-exposure-concentration`
 - **Name:** Counterparty Exposure Concentration
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPEC
 
@@ -22,7 +22,7 @@ Measures how much exposure rests with any single counterparty or small group. Co
 ## Formula
 
 ```
-Largest Counterparty Exposure / Total Exposure
+CPEC = Largest Counterparty Exposure / Total Exposure
 ```
 
 ## Unit

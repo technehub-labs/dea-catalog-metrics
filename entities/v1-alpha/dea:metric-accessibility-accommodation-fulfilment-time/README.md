@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Accessibility Accommodation Fulfilment
 - **Canonical id:** `dea:metric-accessibility-accommodation-fulfilment-time`
 - **Name:** Accessibility Accommodation Fulfilment Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AAFT-D
 
@@ -18,7 +18,7 @@ Accessibility Accommodation Fulfilment Time (AAFT-D) measures conformance to sta
 ## Formula
 
 ```
-Days from Accommodation Request to Fulfilment
+AAFT-D = Days from Accommodation Request to Fulfilment
 ```
 
 ## Unit

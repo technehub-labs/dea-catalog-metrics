@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Metadata Capture Completeness** (MDCC)
 - **Canonical id:** `dea:metric-metadata-capture-completeness`
 - **Name:** Metadata Capture Completeness
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDCC
 
@@ -18,7 +18,7 @@ Metadata Capture Completeness (MDCC) addresses the quality of outputs and outcom
 ## Formula
 
 ```
-Required Record Metadata Captured at Filing / Required Fields
+MDCC = Required Record Metadata Captured at Filing / Required Fields
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Collision Rate per Million Miles** (CR
 - **Canonical id:** `dea:metric-collision-rate-per-million-miles`
 - **Name:** Collision Rate per Million Miles
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRPM
 
@@ -22,7 +22,7 @@ Collision rate per million miles measures safety performance normalized for expo
 ## Formula
 
 ```
-Collisions / Miles Operated x 1,000,000
+CRPM = Collisions / Miles Operated x 1,000,000
 ```
 
 ## Unit

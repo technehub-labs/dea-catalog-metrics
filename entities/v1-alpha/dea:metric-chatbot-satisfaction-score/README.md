@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chatbot Satisfaction Score** (CSS-CB) 
 - **Canonical id:** `dea:metric-chatbot-satisfaction-score`
 - **Name:** Chatbot Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSS-CB
 
@@ -18,7 +18,7 @@ Chatbot Satisfaction Score (CSS-CB) measures the engagement or satisfaction of t
 ## Formula
 
 ```
-Average Post-Conversation Rating
+CSS-CB = Average Post-Conversation Rating
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Claims Leakage Rate (Deep Dive)** (CLR
 - **Canonical id:** `dea:metric-claims-leakage-rate-deep-dive`
 - **Name:** Claims Leakage Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CLR-D
 
@@ -22,7 +22,7 @@ Measures amounts paid in excess of what proper adjudication would have required 
 ## Formula
 
 ```
-Avoidable Claim Costs / Total Claim Costs
+CLR-D = Avoidable Claim Costs / Total Claim Costs
 ```
 
 ## Unit

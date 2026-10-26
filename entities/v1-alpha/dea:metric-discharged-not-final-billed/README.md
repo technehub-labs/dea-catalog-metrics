@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Discharged Not Final Billed** (DNFB) i
 - **Canonical id:** `dea:metric-discharged-not-final-billed`
 - **Name:** Discharged Not Final Billed
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DNFB
 
@@ -18,7 +18,7 @@ Within Healthcare Revenue Cycle, Discharged Not Final Billed (DNFB) is used to g
 ## Formula
 
 ```
-Discharged Accounts Awaiting Final Billing
+DNFB = Discharged Accounts Awaiting Final Billing
 ```
 
 ## Unit

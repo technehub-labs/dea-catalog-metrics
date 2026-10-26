@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Days Past Due 30+ Rate** (DPD30) in th
 - **Canonical id:** `dea:metric-days-past-due-30-rate`
 - **Name:** Days Past Due 30+ Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPD30
 
@@ -18,7 +18,7 @@ Days Past Due 30+ Rate (DPD30) captures exposure to adverse outcomes for organiz
 ## Formula
 
 ```
-Accounts 30+ Days Past Due / Active Accounts
+DPD30 = Accounts 30+ Days Past Due / Active Accounts
 ```
 
 ## Unit

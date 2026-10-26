@@ -7,7 +7,7 @@ Candidate Performance Metric record for **No-Show Rate (Salon)** (NSR-S) in the 
 - **Canonical id:** `dea:metric-no-show-rate-salon`
 - **Name:** No-Show Rate (Salon)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NSR-S
 
@@ -18,7 +18,7 @@ No-Show Rate (Salon) (NSR-S) captures how efficiently resources are converted in
 ## Formula
 
 ```
-Missed Appointments / Appointments
+NSR-S = Missed Appointments / Appointments
 ```
 
 ## Unit

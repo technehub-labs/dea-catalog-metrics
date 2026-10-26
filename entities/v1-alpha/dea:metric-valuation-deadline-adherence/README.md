@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Valuation Deadline Adherence** (VDA) i
 - **Canonical id:** `dea:metric-valuation-deadline-adherence`
 - **Name:** Valuation Deadline Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VDA
 
@@ -18,7 +18,7 @@ Valuation Deadline Adherence (VDA) addresses conformance to standards, plans, or
 ## Formula
 
 ```
-Valuations Completed by Deadline / Valuations Due
+VDA = Valuations Completed by Deadline / Valuations Due
 ```
 
 ## Unit

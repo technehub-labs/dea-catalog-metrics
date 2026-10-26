@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Supplier Performance Index** (SPI) in 
 - **Canonical id:** `dea:metric-supplier-performance-index`
 - **Name:** Supplier Performance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SPI
 
@@ -22,7 +22,7 @@ Measures a composite score of supplier quality, delivery, cost, and responsivene
 ## Formula
 
 ```
-Weighted Index of Quality, Delivery, Cost, Service
+SPI = Weighted Index of Quality, Delivery, Cost, Service
 ```
 
 ## Unit

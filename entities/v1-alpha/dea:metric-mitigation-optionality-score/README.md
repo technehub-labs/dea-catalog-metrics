@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mitigation Optionality Score** (MOS-ER
 - **Canonical id:** `dea:metric-mitigation-optionality-score`
 - **Name:** Mitigation Optionality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MOS-ER
 
@@ -22,7 +22,7 @@ Measures how many alternative response paths exist for major emerging risks. Opt
 ## Formula
 
 ```
-Rubric of Prepared Mitigation Options per Emerging Risk
+MOS-ER = Rubric of Prepared Mitigation Options per Emerging Risk
 ```
 
 ## Unit

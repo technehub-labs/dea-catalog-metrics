@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Patient Satisfaction Score** (PSS) in 
 - **Canonical id:** `dea:metric-patient-satisfaction-score`
 - **Name:** Patient Satisfaction Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSS
 
@@ -22,7 +22,7 @@ The aggregate of patient-reported experience across care episodes - conventional
 ## Formula
 
 ```
-Satisfied Patient Survey Responses / Responses
+PSS = Satisfied Patient Survey Responses / Responses
 ```
 
 ## Unit

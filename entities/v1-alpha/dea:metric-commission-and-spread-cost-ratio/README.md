@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commission and Spread Cost Ratio** (CS
 - **Canonical id:** `dea:metric-commission-and-spread-cost-ratio`
 - **Name:** Commission and Spread Cost Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSCR-IM
 
@@ -18,7 +18,7 @@ Commission and Spread Cost Ratio (CSCR-IM) measures how efficiently resources ar
 ## Formula
 
 ```
-Trading Costs / Traded Value
+CSCR-IM = Trading Costs / Traded Value
 ```
 
 ## Unit

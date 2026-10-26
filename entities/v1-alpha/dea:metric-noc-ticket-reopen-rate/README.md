@@ -7,7 +7,7 @@ Candidate Performance Metric record for **NOC Ticket Reopen Rate** (NOC-TRR) in 
 - **Canonical id:** `dea:metric-noc-ticket-reopen-rate`
 - **Name:** NOC Ticket Reopen Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NOC-TRR
 
@@ -18,7 +18,7 @@ NOC Ticket Reopen Rate (NOC-TRR) addresses the quality of outputs and outcomes a
 ## Formula
 
 ```
-Tickets Reopened after Closure / Closed
+NOC-TRR = Tickets Reopened after Closure / Closed
 ```
 
 ## Unit

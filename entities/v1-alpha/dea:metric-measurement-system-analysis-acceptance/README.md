@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Measurement System Analysis Acceptance
 - **Canonical id:** `dea:metric-measurement-system-analysis-acceptance`
 - **Name:** Measurement System Analysis Acceptance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSA
 
@@ -18,7 +18,7 @@ Measurement System Analysis Acceptance (MSA) addresses the quality of outputs an
 ## Formula
 
 ```
-Gage R&R Studies Passing / Studies Conducted
+MSA = Gage R&R Studies Passing / Studies Conducted
 ```
 
 ## Unit

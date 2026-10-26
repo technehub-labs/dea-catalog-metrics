@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Assortment Depth Compliance** (ADC-RT)
 - **Canonical id:** `dea:metric-assortment-depth-compliance`
 - **Name:** Assortment Depth Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ADC-RT
 
@@ -18,7 +18,7 @@ Within Retail Standard Measures, Assortment Depth Compliance (ADC-RT) is used to
 ## Formula
 
 ```
-Stores Holding Core Assortment / Stores
+ADC-RT = Stores Holding Core Assortment / Stores
 ```
 
 ## Unit

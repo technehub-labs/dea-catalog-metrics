@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Startup Video Rebuffer Ratio** (SVRR) 
 - **Canonical id:** `dea:metric-startup-video-rebuffer-ratio`
 - **Name:** Startup Video Rebuffer Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SVRR
 
@@ -18,7 +18,7 @@ A Broadcasting & Streaming Media indicator, Startup Video Rebuffer Ratio (SVRR) 
 ## Formula
 
 ```
-Rebuffer Time / Play Time
+SVRR = Rebuffer Time / Play Time
 ```
 
 ## Unit

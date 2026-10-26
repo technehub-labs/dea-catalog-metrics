@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Datasheet Completion Rate** (DCR-AI) i
 - **Canonical id:** `dea:metric-datasheet-completion-rate`
 - **Name:** Datasheet Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DCR-AI
 
@@ -18,7 +18,7 @@ Datasheet Completion Rate (DCR-AI) captures the quality of outputs and outcomes 
 ## Formula
 
 ```
-Datasets with Completed Datasheets / Datasets
+DCR-AI = Datasets with Completed Datasheets / Datasets
 ```
 
 ## Unit

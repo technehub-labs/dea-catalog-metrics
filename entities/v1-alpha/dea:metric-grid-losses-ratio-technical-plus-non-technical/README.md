@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grid Losses Ratio (Technical plus Non-
 - **Canonical id:** `dea:metric-grid-losses-ratio-technical-plus-non-technical`
 - **Name:** Grid Losses Ratio (Technical plus Non-Technical)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GLR
 
@@ -22,7 +22,7 @@ Measures energy lost between generation and billing - technical losses in conduc
 ## Formula
 
 ```
-(Generation - Billed Energy) / Generation
+GLR = (Generation - Billed Energy) / Generation
 ```
 
 ## Unit

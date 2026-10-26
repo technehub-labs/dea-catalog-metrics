@@ -7,7 +7,7 @@ Candidate Performance Metric record for **First Contact Resolution** (FCR) in th
 - **Canonical id:** `dea:metric-first-contact-resolution`
 - **Name:** First Contact Resolution
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR
 
@@ -18,7 +18,7 @@ First Contact Resolution (FCR) addresses the quality of outputs and outcomes and
 ## Formula
 
 ```
-Issues Resolved on First Contact / Total Issues
+FCR = Issues Resolved on First Contact / Total Issues
 ```
 
 ## Unit

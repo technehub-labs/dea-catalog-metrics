@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Disruption Loss Value** (O
 - **Canonical id:** `dea:metric-operational-disruption-loss-value`
 - **Name:** Operational Disruption Loss Value
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ODLV
 
@@ -22,7 +22,7 @@ Measures the financial impact of operational disruptions - lost revenue, remedia
 ## Formula
 
 ```
-Financial Impact of Disruptions per Period
+ODLV = Financial Impact of Disruptions per Period
 ```
 
 ## Unit

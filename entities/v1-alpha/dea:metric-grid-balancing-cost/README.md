@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Grid Balancing Cost** (GBC) in the Ope
 - **Canonical id:** `dea:metric-grid-balancing-cost`
 - **Name:** Grid Balancing Cost
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GBC
 
@@ -22,7 +22,7 @@ Measures the cost of matching electricity supply and demand in real time. It mat
 ## Formula
 
 ```
-Cost of Balancing Operations / Energy Delivered
+GBC = Cost of Balancing Operations / Energy Delivered
 ```
 
 ## Unit

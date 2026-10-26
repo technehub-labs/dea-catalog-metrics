@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Commission per Transaction** (CPTX) in
 - **Canonical id:** `dea:metric-commission-per-transaction`
 - **Name:** Commission per Transaction
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CPTX
 
@@ -22,7 +22,7 @@ Measures average commission revenue per closed transaction. It matters because i
 ## Formula
 
 ```
-Total Commission Revenue / Closed Transactions
+CPTX = Total Commission Revenue / Closed Transactions
 ```
 
 ## Unit

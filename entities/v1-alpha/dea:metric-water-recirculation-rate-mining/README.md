@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Water Recirculation Rate (Mining)** (W
 - **Canonical id:** `dea:metric-water-recirculation-rate-mining`
 - **Name:** Water Recirculation Rate (Mining)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WRR-M
 
@@ -22,7 +22,7 @@ Measures the share of process water recirculated rather than drawn fresh. It mat
 ## Formula
 
 ```
-Recirculated Water / Total Water Used
+WRR-M = Recirculated Water / Total Water Used
 ```
 
 ## Unit

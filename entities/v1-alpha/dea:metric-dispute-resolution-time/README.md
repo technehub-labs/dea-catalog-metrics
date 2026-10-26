@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dispute Resolution Time** (DRT-P) in t
 - **Canonical id:** `dea:metric-dispute-resolution-time`
 - **Name:** Dispute Resolution Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRT-P
 
@@ -22,7 +22,7 @@ Measures average time to resolve payment disputes or chargebacks. It matters bec
 ## Formula
 
 ```
-Days from Dispute Raised to Resolution
+DRT-P = Days from Dispute Raised to Resolution
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Root Cause Analysis Completion Rate** 
 - **Canonical id:** `dea:metric-root-cause-analysis-completion-rate`
 - **Name:** Root Cause Analysis Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RCACR
 
@@ -22,7 +22,7 @@ Measures the share of qualifying incidents with completed, quality-reviewed RCA.
 ## Formula
 
 ```
-RCAs Completed within Target for Major Incidents / Major Incidents
+RCACR = RCAs Completed within Target for Major Incidents / Major Incidents
 ```
 
 ## Unit

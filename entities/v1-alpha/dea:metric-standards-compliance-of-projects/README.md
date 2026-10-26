@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Standards Compliance of Projects** (SC
 - **Canonical id:** `dea:metric-standards-compliance-of-projects`
 - **Name:** Standards Compliance of Projects
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SCP
 
@@ -22,7 +22,7 @@ Measures the share of projects conforming to enterprise architecture and enginee
 ## Formula
 
 ```
-Projects Compliant with Architecture Standards / Projects Audited
+SCP = Projects Compliant with Architecture Standards / Projects Audited
 ```
 
 ## Unit

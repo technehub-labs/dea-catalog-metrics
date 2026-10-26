@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Workforce Age Profile Balance Index** 
 - **Canonical id:** `dea:metric-workforce-age-profile-balance-index`
 - **Name:** Workforce Age Profile Balance Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WAPBI
 
@@ -22,7 +22,7 @@ Measures the distribution of workforce tenure and age against sustainability nee
 ## Formula
 
 ```
-Distribution Evenness across Age Bands
+WAPBI = Distribution Evenness across Age Bands
 ```
 
 ## Unit

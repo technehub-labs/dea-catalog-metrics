@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Process Safety Event Rate** (PSER) in 
 - **Canonical id:** `dea:metric-process-safety-event-rate`
 - **Name:** Process Safety Event Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PSER
 
@@ -22,7 +22,7 @@ Process safety event rate measures releases of hazardous substances, fires, expl
 ## Formula
 
 ```
-Process Safety Events / Total Hours Worked x 1,000,000
+PSER = Process Safety Events / Total Hours Worked x 1,000,000
 ```
 
 ## Unit

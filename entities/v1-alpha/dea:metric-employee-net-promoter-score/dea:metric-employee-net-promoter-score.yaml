@@ -8,7 +8,7 @@ description: A Human Resources indicator, Employee Net Promoter Score (eNPS) qua
   Practitioners in nearly any industry can adopt it directly.
 abbreviation: eNPS
 unit: score
-version: 1.0.1
+version: 1.1.0
 lifecycle_status: candidate
 subject_classification:
 - organization
@@ -26,7 +26,7 @@ source_credit: Adapted from Fred Reichheld's NPS methodology
 calculation_definition: '% Employee Promoters - % Employee Detractors'
 formula_definition:
   formula_id: dea:formula-employee-net-promoter-score
-  expression: '% Employee Promoters - % Employee Detractors'
+  expression: eNPS = % Employee Promoters - % Employee Detractors
   inputs:
   - name: '% Employee Promoters'
   - name: '% Employee Detractors'
@@ -36,7 +36,7 @@ formula_definition:
     input_units: []
     output_unit: dea:unit-score
   validation_rules: []
-  version: 1.0.0
+  version: 1.1.0
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -47,9 +47,21 @@ metadata:
   - cr: CR-MET-017
     date: '2026-10-26'
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
+  - cr: CR-MET-020
+    date: '2026-10-26'
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
+      formula bound to its short form (Q26, Q27)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
     row: 130
     batch: '1'
 domain: human_resources
+subject_concept: dea:subject-employee_net_promoter
+measurement_nature: numeric
+quality:
+  measurement_evidence:
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
+    Metrics', row 130
+  - Adapted from Fred Reichheld's NPS methodology
+  known_limitations: []

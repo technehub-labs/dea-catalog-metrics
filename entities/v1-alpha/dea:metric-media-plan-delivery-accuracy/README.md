@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Media Plan Delivery Accuracy** (MPDA) 
 - **Canonical id:** `dea:metric-media-plan-delivery-accuracy`
 - **Name:** Media Plan Delivery Accuracy
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MPDA
 
@@ -18,7 +18,7 @@ Media Plan Delivery Accuracy (MPDA) addresses conformance to standards, plans, o
 ## Formula
 
 ```
-Delivered Impressions vs Plan within Tolerance / Placements
+MPDA = Delivered Impressions vs Plan within Tolerance / Placements
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compa-Ratio** (COMPA) in the OpenDEAM 
 - **Canonical id:** `dea:metric-compa-ratio`
 - **Name:** Compa-Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COMPA
 
@@ -18,7 +18,7 @@ Compa-Ratio (COMPA) captures conformance to standards, plans, or obligations for
 ## Formula
 
 ```
-Actual Salary / Salary Range Midpoint
+COMPA = Actual Salary / Salary Range Midpoint
 ```
 
 ## Unit

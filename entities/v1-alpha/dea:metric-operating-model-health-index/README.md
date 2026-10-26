@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operating Model Health Index** (OMHI) 
 - **Canonical id:** `dea:metric-operating-model-health-index`
 - **Name:** Operating Model Health Index
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OMHI
 
@@ -22,7 +22,7 @@ Measures the composite condition of the operating model across accountability, p
 ## Formula
 
 ```
-Composite of Alignment, Accountability, Efficiency Subscores
+OMHI = Composite of Alignment, Accountability, Efficiency Subscores
 ```
 
 ## Unit

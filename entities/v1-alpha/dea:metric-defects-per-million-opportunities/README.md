@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Defects per Million Opportunities** (D
 - **Canonical id:** `dea:metric-defects-per-million-opportunities`
 - **Name:** Defects per Million Opportunities
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DPMO
 
@@ -22,7 +22,7 @@ The count of defects normalized to a million opportunities - the normalization t
 ## Formula
 
 ```
-Defects / (Units x Opportunities) x 1,000,000
+DPMO = Defects / (Units x Opportunities) x 1,000,000
 ```
 
 ## Unit

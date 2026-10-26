@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Contract Repository Coverage** (CRC-CL
 - **Canonical id:** `dea:metric-contract-repository-coverage`
 - **Name:** Contract Repository Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRC-CL
 
@@ -22,7 +22,7 @@ Measures the share of the organization's contracts in the governed repository. U
 ## Formula
 
 ```
-Active Contracts in Central Repository / Active Contracts
+CRC-CL = Active Contracts in Central Repository / Active Contracts
 ```
 
 ## Unit

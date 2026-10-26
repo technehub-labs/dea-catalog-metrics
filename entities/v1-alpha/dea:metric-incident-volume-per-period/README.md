@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Incident Volume per Period** (IVPP-IT)
 - **Canonical id:** `dea:metric-incident-volume-per-period`
 - **Name:** Incident Volume per Period
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IVPP-IT
 
@@ -22,7 +22,7 @@ Measures the count of incidents recorded per period. It is the ambient noise flo
 ## Formula
 
 ```
-Incidents Logged per Month
+IVPP-IT = Incidents Logged per Month
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Marketing Attributed Revenue** (MAR) i
 - **Canonical id:** `dea:metric-marketing-attributed-revenue`
 - **Name:** Marketing Attributed Revenue
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MAR
 
@@ -22,7 +22,7 @@ The revenue that attribution models assign to marketing activity - the bridge me
 ## Formula
 
 ```
-Revenue from Marketing-Touched Conversions
+MAR = Revenue from Marketing-Touched Conversions
 ```
 
 ## Unit

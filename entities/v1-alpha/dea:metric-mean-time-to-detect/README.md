@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Mean Time to Detect** (MTTD) in the Op
 - **Canonical id:** `dea:metric-mean-time-to-detect`
 - **Name:** Mean Time to Detect
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MTTD
 
@@ -22,7 +22,7 @@ The average time from the start of an incident or intrusion to its discovery - t
 ## Formula
 
 ```
-Total Detection Time / Security Incidents
+MTTD = Total Detection Time / Security Incidents
 ```
 
 ## Unit

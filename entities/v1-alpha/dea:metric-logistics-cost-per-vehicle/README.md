@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Logistics Cost per Vehicle** (LCV) in 
 - **Canonical id:** `dea:metric-logistics-cost-per-vehicle`
 - **Name:** Logistics Cost per Vehicle
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LCV
 
@@ -22,7 +22,7 @@ Measures total inbound and outbound logistics cost per vehicle delivered. It mat
 ## Formula
 
 ```
-Total Inbound and Outbound Logistics Cost / Vehicles Sold
+LCV = Total Inbound and Outbound Logistics Cost / Vehicles Sold
 ```
 
 ## Unit

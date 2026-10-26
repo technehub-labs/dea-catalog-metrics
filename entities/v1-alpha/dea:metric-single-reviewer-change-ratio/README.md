@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Single-Reviewer Change Ratio** (SRCR) 
 - **Canonical id:** `dea:metric-single-reviewer-change-ratio`
 - **Name:** Single-Reviewer Change Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SRCR
 
@@ -18,7 +18,7 @@ Within Code Review & Peer Quality, Single-Reviewer Change Ratio (SRCR) is used t
 ## Formula
 
 ```
-Changes Approved by One Reviewer / Merged Changes
+SRCR = Changes Approved by One Reviewer / Merged Changes
 ```
 
 ## Unit

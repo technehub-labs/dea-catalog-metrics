@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Life Extension Achievement** (AL
 - **Canonical id:** `dea:metric-asset-life-extension-achievement`
 - **Name:** Asset Life Extension Achievement
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALEA
 
@@ -22,7 +22,7 @@ Asset life extension achievement measures progress in extending operating life b
 ## Formula
 
 ```
-Turbines Operating beyond Design Life / Turbines at Design Life
+ALEA = Turbines Operating beyond Design Life / Turbines at Design Life
 ```
 
 ## Unit

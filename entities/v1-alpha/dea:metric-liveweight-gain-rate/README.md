@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Liveweight Gain Rate** (LWG) in the Op
 - **Canonical id:** `dea:metric-liveweight-gain-rate`
 - **Name:** Liveweight Gain Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LWG
 
@@ -18,7 +18,7 @@ Liveweight Gain Rate (LWG) captures how efficiently resources are converted into
 ## Formula
 
 ```
-Animal Weight Gain / Days on Feed
+LWG = Animal Weight Gain / Days on Feed
 ```
 
 ## Unit

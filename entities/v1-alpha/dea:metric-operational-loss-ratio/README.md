@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Operational Loss Ratio** (OLR) in the 
 - **Canonical id:** `dea:metric-operational-loss-ratio`
 - **Name:** Operational Loss Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** OLR
 
@@ -22,7 +22,7 @@ Operational losses - from error, fraud, external events, and process failure - a
 ## Formula
 
 ```
-Operational Losses / Revenue
+OLR = Operational Losses / Revenue
 ```
 
 ## Unit

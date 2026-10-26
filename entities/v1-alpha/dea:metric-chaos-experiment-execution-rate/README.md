@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Chaos Experiment Execution Rate** (CEE
 - **Canonical id:** `dea:metric-chaos-experiment-execution-rate`
 - **Name:** Chaos Experiment Execution Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CEER-SRE
 
@@ -22,7 +22,7 @@ Measures how regularly controlled failure experiments run against critical servi
 ## Formula
 
 ```
-Chaos Experiments Run per Period / Planned
+CEER-SRE = Chaos Experiments Run per Period / Planned
 ```
 
 ## Unit

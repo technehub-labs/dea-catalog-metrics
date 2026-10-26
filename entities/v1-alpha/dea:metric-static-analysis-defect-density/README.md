@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Static Analysis Defect Density** (SADD
 - **Canonical id:** `dea:metric-static-analysis-defect-density`
 - **Name:** Static Analysis Defect Density
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SADD
 
@@ -18,7 +18,7 @@ Static Analysis Defect Density (SADD) captures the quality of outputs and outcom
 ## Formula
 
 ```
-Static Analysis Defects per 1,000 Lines of Code
+SADD = Static Analysis Defects per 1,000 Lines of Code
 ```
 
 ## Unit

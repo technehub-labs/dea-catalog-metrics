@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Wasted Cloud Spend** (WCS) in the Open
 - **Canonical id:** `dea:metric-wasted-cloud-spend`
 - **Name:** Wasted Cloud Spend
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WCS
 
@@ -22,7 +22,7 @@ Wasted cloud spend measures spend that delivers no value - idle resources, over-
 ## Formula
 
 ```
-Unattached or Under-Used Resource Spend / Total Cloud Spend
+WCS = Unattached or Under-Used Resource Spend / Total Cloud Spend
 ```
 
 ## Unit

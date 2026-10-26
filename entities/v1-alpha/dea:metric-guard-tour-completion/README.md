@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Guard Tour Completion** (GTC) in the O
 - **Canonical id:** `dea:metric-guard-tour-completion`
 - **Name:** Guard Tour Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GTC
 
@@ -18,7 +18,7 @@ Guard Tour Completion (GTC) addresses conformance to standards, plans, or obliga
 ## Formula
 
 ```
-Patrol Tours Completed / Tours Scheduled
+GTC = Patrol Tours Completed / Tours Scheduled
 ```
 
 ## Unit

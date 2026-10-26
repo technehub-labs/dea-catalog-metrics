@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Router and Switch Config Compliance** 
 - **Canonical id:** `dea:metric-router-and-switch-config-compliance`
 - **Name:** Router and Switch Config Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RSCC
 
@@ -18,7 +18,7 @@ Router and Switch Config Compliance (RSCC) addresses conformance to standards, p
 ## Formula
 
 ```
-Devices with Approved Config / Devices
+RSCC = Devices with Approved Config / Devices
 ```
 
 ## Unit

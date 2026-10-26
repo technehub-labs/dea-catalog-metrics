@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Member Satisfaction Score (Fitness)** 
 - **Canonical id:** `dea:metric-member-satisfaction-score-fitness`
 - **Name:** Member Satisfaction Score (Fitness)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MSS-F
 
@@ -22,7 +22,7 @@ Measures member satisfaction with facilities, classes, and service. It matters b
 ## Formula
 
 ```
-Satisfied Member Survey Responses / Responses
+MSS-F = Satisfied Member Survey Responses / Responses
 ```
 
 ## Unit

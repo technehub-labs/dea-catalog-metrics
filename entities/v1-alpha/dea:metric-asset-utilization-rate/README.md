@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Asset Utilization Rate** (AUR) in the 
 - **Canonical id:** `dea:metric-asset-utilization-rate`
 - **Name:** Asset Utilization Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** AUR
 
@@ -22,7 +22,7 @@ Actual productive use of an asset against its available or design capacity - the
 ## Formula
 
 ```
-Productive Asset Hours / Available Asset Hours
+AUR = Productive Asset Hours / Available Asset Hours
 ```
 
 ## Unit

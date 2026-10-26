@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time-to-Competency Compression** (TTCC
 - **Canonical id:** `dea:metric-time-to-competency-compression`
 - **Name:** Time-to-Competency Compression
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTCC
 
@@ -22,7 +22,7 @@ Measures how much faster new hires or new-role holders reach full productivity v
 ## Formula
 
 ```
-Reduction in Ramp Days vs Baseline / Baseline
+TTCC = Reduction in Ramp Days vs Baseline / Baseline
 ```
 
 ## Unit

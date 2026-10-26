@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Early Payment Default - 3 Month** (EPD
 - **Canonical id:** `dea:metric-early-payment-default-3-month`
 - **Name:** Early Payment Default - 3 Month
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** EPD3
 
@@ -22,7 +22,7 @@ Measures defaults emerging within ninety days of origination. EPD isolates under
 ## Formula
 
 ```
-Defaults within 3 Months / Disbursed Loans
+EPD3 = Defaults within 3 Months / Disbursed Loans
 ```
 
 ## Unit

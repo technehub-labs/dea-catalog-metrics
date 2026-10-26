@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event Net Promoter Score (Attendees)**
 - **Canonical id:** `dea:metric-event-net-promoter-score-attendees`
 - **Name:** Event Net Promoter Score (Attendees)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ENPS-A
 
@@ -22,7 +22,7 @@ Measures attendee willingness to recommend the event. For trade events, attendee
 ## Formula
 
 ```
-Attendee NPS Survey Result
+ENPS-A = Attendee NPS Survey Result
 ```
 
 ## Unit

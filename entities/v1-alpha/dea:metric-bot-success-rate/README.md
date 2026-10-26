@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bot Success Rate** (BSR-A) in the Open
 - **Canonical id:** `dea:metric-bot-success-rate`
 - **Name:** Bot Success Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BSR-A
 
@@ -18,7 +18,7 @@ Bot Success Rate (BSR-A) measures the quality of outputs and outcomes in the Aut
 ## Formula
 
 ```
-Bot Executions without Exception / Bot Executions
+BSR-A = Bot Executions without Exception / Bot Executions
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Promotional ROI** (PRoi) in the OpenDE
 - **Canonical id:** `dea:metric-promotional-roi`
 - **Name:** Promotional ROI
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRoi
 
@@ -22,7 +22,7 @@ Measures incremental margin generated per unit of promotional investment. It mat
 ## Formula
 
 ```
-(Incremental Promotion Revenue - Promotion Cost) / Promotion Cost
+PRoi = (Incremental Promotion Revenue - Promotion Cost) / Promotion Cost
 ```
 
 ## Unit

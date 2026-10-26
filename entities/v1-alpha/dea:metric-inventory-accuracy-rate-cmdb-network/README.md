@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Inventory Accuracy Rate (CMDB Network)
 - **Canonical id:** `dea:metric-inventory-accuracy-rate-cmdb-network`
 - **Name:** Inventory Accuracy Rate (CMDB Network)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IARN
 
@@ -18,7 +18,7 @@ Inventory Accuracy Rate (CMDB Network) (IARN) addresses the quality of outputs a
 ## Formula
 
 ```
-CMDB Records Matching Discovery / Records Sampled
+IARN = CMDB Records Matching Discovery / Records Sampled
 ```
 
 ## Unit

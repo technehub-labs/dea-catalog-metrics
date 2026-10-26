@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Staff-to-Guest Ratio (Deep Dive)** (SG
 - **Canonical id:** `dea:metric-staff-to-guest-ratio-deep-dive`
 - **Name:** Staff-to-Guest Ratio (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGR-D
 
@@ -18,7 +18,7 @@ Staff-to-Guest Ratio (Deep Dive) (SGR-D) measures the utilization or availabilit
 ## Formula
 
 ```
-Staff / Guests in House
+SGR-D = Staff / Guests in House
 ```
 
 ## Unit

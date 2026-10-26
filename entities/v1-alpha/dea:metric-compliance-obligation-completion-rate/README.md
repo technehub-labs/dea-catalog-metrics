@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Compliance Obligation Completion Rate*
 - **Canonical id:** `dea:metric-compliance-obligation-completion-rate`
 - **Name:** Compliance Obligation Completion Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** COCR
 
@@ -22,7 +22,7 @@ Measures completion of all tracked regulatory obligations - filings, attestation
 ## Formula
 
 ```
-Obligations Completed by Due Date / Obligations
+COCR = Obligations Completed by Due Date / Obligations
 ```
 
 ## Unit

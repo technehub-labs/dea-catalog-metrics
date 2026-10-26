@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Leadership Diversity Representation** 
 - **Canonical id:** `dea:metric-leadership-diversity-representation`
 - **Name:** Leadership Diversity Representation
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LDR
 
@@ -22,7 +22,7 @@ Measures demographic composition of the leadership population, typically directo
 ## Formula
 
 ```
-Underrepresented Group in Leadership / Leadership Roles
+LDR = Underrepresented Group in Leadership / Leadership Roles
 ```
 
 ## Unit

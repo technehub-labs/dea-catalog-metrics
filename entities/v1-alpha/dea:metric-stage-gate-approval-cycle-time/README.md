@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Stage Gate Approval Cycle Time** (SGAC
 - **Canonical id:** `dea:metric-stage-gate-approval-cycle-time`
 - **Name:** Stage Gate Approval Cycle Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SGACT
 
@@ -18,7 +18,7 @@ Stage Gate Approval Cycle Time (SGACT) addresses how efficiently resources are c
 ## Formula
 
 ```
-Days to Complete Stage Gate Review
+SGACT = Days to Complete Stage Gate Review
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Match Rule Recall** (MRR-MD) in the Op
 - **Canonical id:** `dea:metric-match-rule-recall`
 - **Name:** Match Rule Recall
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MRR-MD
 
@@ -18,7 +18,7 @@ Within Master Data Management, Match Rule Recall (MRR-MD) is used to gauge the q
 ## Formula
 
 ```
-True Matches Matched Automatically / All True Matches
+MRR-MD = True Matches Matched Automatically / All True Matches
 ```
 
 ## Unit

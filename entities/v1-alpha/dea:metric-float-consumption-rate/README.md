@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Float Consumption Rate** (FCR-PM) in t
 - **Canonical id:** `dea:metric-float-consumption-rate`
 - **Name:** Float Consumption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** FCR-PM
 
@@ -18,7 +18,7 @@ Float Consumption Rate (FCR-PM) measures exposure to adverse outcomes in the Pro
 ## Formula
 
 ```
-Float Consumed / Total Float
+FCR-PM = Float Consumed / Total Float
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Disruption Readiness Confidence Score*
 - **Canonical id:** `dea:metric-disruption-readiness-confidence-score`
 - **Name:** Disruption Readiness Confidence Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DRCS-ER
 
@@ -22,7 +22,7 @@ Measures evidence-based confidence in surviving defined disruption scenarios. Co
 ## Formula
 
 ```
-Leadership Survey Confidence in Response Playbooks
+DRCS-ER = Leadership Survey Confidence in Response Playbooks
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Partner Dispute Rate** (PDR-AP) in the
 - **Canonical id:** `dea:metric-partner-dispute-rate`
 - **Name:** Partner Dispute Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PDR-AP
 
@@ -18,7 +18,7 @@ Within Alliances & Partnerships Management, Partner Dispute Rate (PDR-AP) is use
 ## Formula
 
 ```
-Formal Disputes per Alliance per Year
+PDR-AP = Formal Disputes per Alliance per Year
 ```
 
 ## Unit

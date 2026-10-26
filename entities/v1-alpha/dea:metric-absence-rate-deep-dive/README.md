@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Absence Rate (Deep Dive)** (ARDD) in t
 - **Canonical id:** `dea:metric-absence-rate-deep-dive`
 - **Name:** Absence Rate (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ARDD
 
@@ -18,7 +18,7 @@ Within Workforce Planning & Productivity, Absence Rate (Deep Dive) (ARDD) is use
 ## Formula
 
 ```
-Absent Days / Scheduled Days
+ARDD = Absent Days / Scheduled Days
 ```
 
 ## Unit

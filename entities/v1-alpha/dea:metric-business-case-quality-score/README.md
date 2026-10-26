@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Business Case Quality Score** (BCQS) i
 - **Canonical id:** `dea:metric-business-case-quality-score`
 - **Name:** Business Case Quality Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BCQS
 
@@ -22,7 +22,7 @@ Measures whether business cases meet evidence standards: defined benefits, credi
 ## Formula
 
 ```
-Rubric-Based Completeness and Rigor of Business Cases
+BCQS = Rubric-Based Completeness and Rigor of Business Cases
 ```
 
 ## Unit

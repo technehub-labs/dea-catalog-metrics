@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Dependency Lockfile Compliance** (DLC-
 - **Canonical id:** `dea:metric-dependency-lockfile-compliance`
 - **Name:** Dependency Lockfile Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DLC-CI
 
@@ -18,7 +18,7 @@ Dependency Lockfile Compliance (DLC-CI) addresses conformance to standards, plan
 ## Formula
 
 ```
-Projects Using Locked Dependencies / Projects
+DLC-CI = Projects Using Locked Dependencies / Projects
 ```
 
 ## Unit

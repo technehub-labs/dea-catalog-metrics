@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Model Validation Currency (Investment)
 - **Canonical id:** `dea:metric-model-validation-currency-investment`
 - **Name:** Model Validation Currency (Investment)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MVCI
 
@@ -22,7 +22,7 @@ Measures whether risk and pricing models have been validated within their requir
 ## Formula
 
 ```
-Pricing and Risk Models Validated within Cycle / Due
+MVCI = Pricing and Risk Models Validated within Cycle / Due
 ```
 
 ## Unit

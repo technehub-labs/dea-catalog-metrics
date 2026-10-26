@@ -7,7 +7,7 @@ Candidate Performance Metric record for **HCAHPS Patient Experience Score** (HCA
 - **Canonical id:** `dea:metric-hcahps-patient-experience-score`
 - **Name:** HCAHPS Patient Experience Score
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** HCAHPS
 
@@ -22,7 +22,7 @@ Measures standardized patient-reported experience across US hospital stays. It i
 ## Formula
 
 ```
-Composite Patient Experience Survey Rating
+HCAHPS = Composite Patient Experience Survey Rating
 ```
 
 ## Unit

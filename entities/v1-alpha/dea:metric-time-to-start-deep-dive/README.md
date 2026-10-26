@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Time to Start (Deep Dive)** (TTSDD) in
 - **Canonical id:** `dea:metric-time-to-start-deep-dive`
 - **Name:** Time to Start (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTSDD
 
@@ -18,7 +18,7 @@ Time to Start (Deep Dive) (TTSDD) addresses how efficiently resources are conver
 ## Formula
 
 ```
-Days from Offer Acceptance to First Day
+TTSDD = Days from Offer Acceptance to First Day
 ```
 
 ## Unit

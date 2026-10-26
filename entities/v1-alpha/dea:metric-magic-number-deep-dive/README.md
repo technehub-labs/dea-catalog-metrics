@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Magic Number (Deep Dive)** (MN-D) in t
 - **Canonical id:** `dea:metric-magic-number-deep-dive`
 - **Name:** Magic Number (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MN-D
 
@@ -22,7 +22,7 @@ The SaaS magic number is the quarter's net new ARR divided by the prior quarter'
 ## Formula
 
 ```
-Net New ARR Quarter / Prior Quarter Sales and Marketing Spend
+MN-D = Net New ARR Quarter / Prior Quarter Sales and Marketing Spend
 ```
 
 ## Unit

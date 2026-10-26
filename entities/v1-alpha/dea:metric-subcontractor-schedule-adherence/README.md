@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Subcontractor Schedule Adherence** (SS
 - **Canonical id:** `dea:metric-subcontractor-schedule-adherence`
 - **Name:** Subcontractor Schedule Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSA-C
 
@@ -18,7 +18,7 @@ A Construction Contracting (Deep Dive) indicator, Subcontractor Schedule Adheren
 ## Formula
 
 ```
-Subcontractor Tasks on Schedule / Tasks
+SSA-C = Subcontractor Tasks on Schedule / Tasks
 ```
 
 ## Unit

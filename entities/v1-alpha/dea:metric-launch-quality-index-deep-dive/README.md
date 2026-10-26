@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Launch Quality Index (Deep Dive)** (LQ
 - **Canonical id:** `dea:metric-launch-quality-index-deep-dive`
 - **Name:** Launch Quality Index (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LQI-D
 
@@ -22,7 +22,7 @@ A composite of launch-phase quality measures - early warranty rates, containment
 ## Formula
 
 ```
-Composite New-Launch Defect Score
+LQI-D = Composite New-Launch Defect Score
 ```
 
 ## Unit

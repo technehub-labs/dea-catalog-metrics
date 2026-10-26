@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Organizational Layers** (ORGL) in the 
 - **Canonical id:** `dea:metric-organizational-layers`
 - **Name:** Organizational Layers
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ORGL
 
@@ -22,7 +22,7 @@ Counts the number of reporting levels from front line to CEO. Every additional l
 ## Formula
 
 ```
-Layers from Frontline to CEO
+ORGL = Layers from Frontline to CEO
 ```
 
 ## Unit

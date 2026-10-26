@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Takt Time Adherence** (TTA) in the Ope
 - **Canonical id:** `dea:metric-takt-time-adherence`
 - **Name:** Takt Time Adherence
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TTA
 
@@ -22,7 +22,7 @@ Takt adherence measures how well actual production rhythm matches the takt targe
 ## Formula
 
 ```
-Cycle Time / Takt Time
+TTA = Cycle Time / Takt Time
 ```
 
 ## Unit

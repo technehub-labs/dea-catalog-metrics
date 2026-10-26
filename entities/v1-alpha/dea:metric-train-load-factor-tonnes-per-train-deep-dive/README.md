@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Train Load Factor - Tonnes per Train (
 - **Canonical id:** `dea:metric-train-load-factor-tonnes-per-train-deep-dive`
 - **Name:** Train Load Factor - Tonnes per Train (Deep Dive)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TLF-D
 
@@ -22,7 +22,7 @@ Measures average train payload against capacity. It is the core productivity met
 ## Formula
 
 ```
-Net Tonnes / Trains
+TLF-D = Net Tonnes / Trains
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Event NPS** (NPS-E) in the OpenDEAM Me
 - **Canonical id:** `dea:metric-event-nps`
 - **Name:** Event NPS
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** NPS-E
 
@@ -22,7 +22,7 @@ Event NPS measures net promoter score for a specific event - would attendees rec
 ## Formula
 
 ```
-% Promoters - % Detractors among Event Attendees
+NPS-E = % Promoters - % Detractors among Event Attendees
 ```
 
 ## Unit

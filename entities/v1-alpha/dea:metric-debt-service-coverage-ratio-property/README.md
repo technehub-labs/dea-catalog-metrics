@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Debt Service Coverage Ratio (Property)
 - **Canonical id:** `dea:metric-debt-service-coverage-ratio-property`
 - **Name:** Debt Service Coverage Ratio (Property)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** DSCR-P
 
@@ -22,7 +22,7 @@ Measures net operating income against debt service at the asset level. It is the
 ## Formula
 
 ```
-Net Operating Income / Debt Service
+DSCR-P = Net Operating Income / Debt Service
 ```
 
 ## Unit

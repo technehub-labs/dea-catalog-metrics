@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Engineering Rework Hours Ratio** (ERHR
 - **Canonical id:** `dea:metric-engineering-rework-hours-ratio`
 - **Name:** Engineering Rework Hours Ratio
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ERHR
 
@@ -18,7 +18,7 @@ A Engineering & Design indicator, Engineering Rework Hours Ratio (ERHR) quantifi
 ## Formula
 
 ```
-Rework Hours / Total Engineering Hours
+ERHR = Rework Hours / Total Engineering Hours
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Turnover Cost per Unit** (TCPU) in the
 - **Canonical id:** `dea:metric-turnover-cost-per-unit`
 - **Name:** Turnover Cost per Unit
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** TCPU
 
@@ -18,7 +18,7 @@ Within Real Estate Portfolio & Property Management, Turnover Cost per Unit (TCPU
 ## Formula
 
 ```
-Make-Ready Costs / Units Turned
+TCPU = Make-Ready Costs / Units Turned
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Control Self-Assessment Completion** (
 - **Canonical id:** `dea:metric-control-self-assessment-completion`
 - **Name:** Control Self-Assessment Completion
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CSAC
 
@@ -18,7 +18,7 @@ Control Self-Assessment Completion (CSAC) captures conformance to standards, pla
 ## Formula
 
 ```
-Business Units Submitting CSAs by Due Date / Units
+CSAC = Business Units Submitting CSAs by Due Date / Units
 ```
 
 ## Unit

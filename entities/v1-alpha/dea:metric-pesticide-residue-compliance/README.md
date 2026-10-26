@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Pesticide Residue Compliance** (PRC-A)
 - **Canonical id:** `dea:metric-pesticide-residue-compliance`
 - **Name:** Pesticide Residue Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** PRC-A
 
@@ -22,7 +22,7 @@ Measures harvested product against maximum residue limits for destination market
 ## Formula
 
 ```
-Samples within MRL / Samples Tested
+PRC-A = Samples within MRL / Samples Tested
 ```
 
 ## Unit

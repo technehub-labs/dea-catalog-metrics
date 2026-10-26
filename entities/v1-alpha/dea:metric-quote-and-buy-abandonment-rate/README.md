@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Quote and Buy Abandonment Rate** (QBAR
 - **Canonical id:** `dea:metric-quote-and-buy-abandonment-rate`
 - **Name:** Quote and Buy Abandonment Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** QBAR
 
@@ -18,7 +18,7 @@ Quote and Buy Abandonment Rate (QBAR) measures exposure to adverse outcomes in t
 ## Formula
 
 ```
-Abandoned Quote Sessions / Started Sessions
+QBAR = Abandoned Quote Sessions / Started Sessions
 ```
 
 ## Unit

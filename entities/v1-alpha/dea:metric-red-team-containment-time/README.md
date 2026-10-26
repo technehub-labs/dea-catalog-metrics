@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Red Team Containment Time** (RTCT) in 
 - **Canonical id:** `dea:metric-red-team-containment-time`
 - **Name:** Red Team Containment Time
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RTCT
 
@@ -22,7 +22,7 @@ Measures how long blue teams take to contain simulated attacker activity once de
 ## Formula
 
 ```
-Time for Defenders to Contain Simulated Intrusion
+RTCT = Time for Defenders to Contain Simulated Intrusion
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Log Source Coverage Rate** (LSCR-SOC) 
 - **Canonical id:** `dea:metric-log-source-coverage-rate`
 - **Name:** Log Source Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** LSCR-SOC
 
@@ -22,7 +22,7 @@ Measures the proportion of critical assets and applications forwarding logs to t
 ## Formula
 
 ```
-Required Log Sources Onboarded / Required
+LSCR-SOC = Required Log Sources Onboarded / Required
 ```
 
 ## Unit

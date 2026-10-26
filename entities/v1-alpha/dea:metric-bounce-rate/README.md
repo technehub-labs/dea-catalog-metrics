@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Bounce Rate** (BounceR) in the OpenDEA
 - **Canonical id:** `dea:metric-bounce-rate`
 - **Name:** Bounce Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** BounceR
 
@@ -18,7 +18,7 @@ Bounce Rate (BounceR) measures the engagement or satisfaction of the people invo
 ## Formula
 
 ```
-Single-Page Sessions / Total Sessions
+BounceR = Single-Page Sessions / Total Sessions
 ```
 
 ## Unit

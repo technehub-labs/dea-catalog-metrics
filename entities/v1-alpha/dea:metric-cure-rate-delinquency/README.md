@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Cure Rate (Delinquency)** (CRD-CC) in 
 - **Canonical id:** `dea:metric-cure-rate-delinquency`
 - **Name:** Cure Rate (Delinquency)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** CRD-CC
 
@@ -18,7 +18,7 @@ Cure Rate (Delinquency) (CRD-CC) measures the quality of outputs and outcomes in
 ## Formula
 
 ```
-Delinquent Accounts Returning to Current / Delinquent Accounts
+CRD-CC = Delinquent Accounts Returning to Current / Delinquent Accounts
 ```
 
 ## Unit

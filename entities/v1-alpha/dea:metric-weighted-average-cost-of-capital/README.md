@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Weighted Average Cost of Capital** (WA
 - **Canonical id:** `dea:metric-weighted-average-cost-of-capital`
 - **Name:** Weighted Average Cost of Capital
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** WACC
 
@@ -22,7 +22,7 @@ The blended required return on all capital - the cost of equity from the capital
 ## Formula
 
 ```
-Weighted Average of Cost of Equity and After-Tax Cost of Debt
+WACC = Weighted Average of Cost of Equity and After-Tax Cost of Debt
 ```
 
 ## Unit

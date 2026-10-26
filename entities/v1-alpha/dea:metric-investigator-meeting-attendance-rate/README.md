@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Investigator Meeting Attendance Rate**
 - **Canonical id:** `dea:metric-investigator-meeting-attendance-rate`
 - **Name:** Investigator Meeting Attendance Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** IMAR
 
@@ -18,7 +18,7 @@ Investigator Meeting Attendance Rate (IMAR) measures the engagement or satisfact
 ## Formula
 
 ```
-Sites Attending Investigator Meetings / Sites
+IMAR = Sites Attending Investigator Meetings / Sites
 ```
 
 ## Unit

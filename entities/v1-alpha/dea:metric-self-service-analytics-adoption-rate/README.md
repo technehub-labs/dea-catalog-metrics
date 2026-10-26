@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Self-Service Analytics Adoption Rate**
 - **Canonical id:** `dea:metric-self-service-analytics-adoption-rate`
 - **Name:** Self-Service Analytics Adoption Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** SSAAR
 
@@ -22,7 +22,7 @@ Measures the share of eligible business users actively using governed self-servi
 ## Formula
 
 ```
-Analyses via Self-Service Tooling / Total Analyses
+SSAAR = Analyses via Self-Service Tooling / Total Analyses
 ```
 
 ## Unit

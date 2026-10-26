@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Master Data Coverage Rate** (MDCR) in 
 - **Canonical id:** `dea:metric-master-data-coverage-rate`
 - **Name:** Master Data Coverage Rate
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** MDCR
 
@@ -22,7 +22,7 @@ Measures the share of master data domains and records brought under managed MDM.
 ## Formula
 
 ```
-Entities Managed under MDM / Identified Master Entities
+MDCR = Entities Managed under MDM / Identified Master Entities
 ```
 
 ## Unit

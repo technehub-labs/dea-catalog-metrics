@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Vendor Performance SLA Compliance** (V
 - **Canonical id:** `dea:metric-vendor-performance-sla-compliance`
 - **Name:** Vendor Performance SLA Compliance
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** VPSC
 
@@ -18,7 +18,7 @@ A Third-Party Risk Management indicator, Vendor Performance SLA Compliance (VPSC
 ## Formula
 
 ```
-SLAs Met by Vendors / SLAs Measured
+VPSC = SLAs Met by Vendors / SLAs Measured
 ```
 
 ## Unit

@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Revenue per Passenger** (RPP) in the O
 - **Canonical id:** `dea:metric-revenue-per-passenger`
 - **Name:** Revenue per Passenger
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RPP
 
@@ -22,7 +22,7 @@ Measures average revenue carried per passenger, including ancillaries. It matter
 ## Formula
 
 ```
-Passenger Revenue / Passengers Carried
+RPP = Passenger Revenue / Passengers Carried
 ```
 
 ## Unit

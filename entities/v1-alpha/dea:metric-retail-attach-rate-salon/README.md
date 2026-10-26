@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Retail Attach Rate (Salon)** (RAR-S) i
 - **Canonical id:** `dea:metric-retail-attach-rate-salon`
 - **Name:** Retail Attach Rate (Salon)
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** RAR-S
 
@@ -18,7 +18,7 @@ Within Beauty & Personal Care Services, Retail Attach Rate (Salon) (RAR-S) is us
 ## Formula
 
 ```
-Clients Purchasing Products / Clients Served
+RAR-S = Clients Purchasing Products / Clients Served
 ```
 
 ## Unit

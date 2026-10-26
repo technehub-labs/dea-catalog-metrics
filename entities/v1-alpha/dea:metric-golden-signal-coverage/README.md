@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Golden Signal Coverage** (GSC) in the 
 - **Canonical id:** `dea:metric-golden-signal-coverage`
 - **Name:** Golden Signal Coverage
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** GSC
 
@@ -18,7 +18,7 @@ Golden Signal Coverage (GSC) measures capability maturity or development in the 
 ## Formula
 
 ```
-Services with Latency, Traffic, Errors, Saturation Signals / Services
+GSC = Services with Latency, Traffic, Errors, Saturation Signals / Services
 ```
 
 ## Unit

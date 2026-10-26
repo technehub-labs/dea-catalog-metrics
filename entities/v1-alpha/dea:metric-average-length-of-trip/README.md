@@ -7,7 +7,7 @@ Candidate Performance Metric record for **Average Length of Trip** (ALOT) in the
 - **Canonical id:** `dea:metric-average-length-of-trip`
 - **Name:** Average Length of Trip
 - **Type:** Metric
-- **Version:** 1.0.1
+- **Version:** 1.1.0
 - **Lifecycle:** candidate
 - **Short form:** ALOT
 
@@ -22,7 +22,7 @@ Measures mean nights or days per booked trip. It matters because trip length dri
 ## Formula
 
 ```
-Total Traveler Nights / Trips
+ALOT = Total Traveler Nights / Trips
 ```
 
 ## Unit
