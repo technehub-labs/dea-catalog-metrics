@@ -1,0 +1,52 @@
+id: dea:metric-form-abandonment-rate
+name: Form Abandonment Rate
+type: Metric
+description: Form Abandonment Rate (FAR) measures exposure to adverse outcomes in the Digital Product
+  & Web Operations domain. It provides the day-to-day signal that a process is running as designed. Its
+  calculation is Forms Started but Not Submitted / Forms Started, measured in percent (%). It should be
+  driven down, since lower readings signal healthier performance. Practitioners in nearly any industry
+  can adopt it directly.
+abbreviation: FAR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Forms Started but Not Submitted / Forms Started
+formula_definition:
+  formula_id: dea:formula-form-abandonment-rate
+  expression: Forms Started but Not Submitted / Forms Started
+  inputs:
+  - name: Forms Started but Not Submitted
+  - name: Forms Started
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1082
+    batch: '4'
+domain: digital_product_web_operations

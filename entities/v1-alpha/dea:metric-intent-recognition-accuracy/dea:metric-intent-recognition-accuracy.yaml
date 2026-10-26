@@ -1,0 +1,52 @@
+id: dea:metric-intent-recognition-accuracy
+name: Intent Recognition Accuracy
+type: Metric
+description: Intent Recognition Accuracy (IRA) measures the quality of outputs and outcomes in the Conversational
+  AI & Chatbots domain. Front-line and delivery teams watch it in real time, as small deviations demand
+  immediate correction. It is computed as Correctly Classified Utterances / Utterances, expressed in percent
+  (%). Improvement means raising this figure toward best-in-class levels. Practitioners in nearly any
+  industry can adopt it directly.
+abbreviation: IRA
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Correctly Classified Utterances / Utterances
+formula_definition:
+  formula_id: dea:formula-intent-recognition-accuracy
+  expression: Correctly Classified Utterances / Utterances
+  inputs:
+  - name: Correctly Classified Utterances
+  - name: Utterances
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1481
+    batch: '5'
+domain: conversational_ai_chatbots

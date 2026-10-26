@@ -1,0 +1,53 @@
+id: dea:metric-defective-parts-per-hundred-audit-deep-dive
+name: Defective Parts per Hundred - Audit (Deep Dive)
+type: Metric
+description: 'Defective Parts per Hundred - Audit (Deep Dive) (DPH-D) captures the quality of outputs
+  and outcomes for organizations tracking textile & apparel (deep dive). The formula is Defects Found
+  / Garments Audited x 100 - reported in ratio (x:1 or x). It guides mid-horizon planning: portfolio,
+  program, and function owners act on it between review cycles. Lower values are better; each reduction
+  is an improvement. It is a standard measure in the Textiles & Apparel sector.'
+abbreviation: DPH-D
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Defects Found / Garments Audited x 100
+formula_definition:
+  formula_id: dea:formula-defective-parts-per-hundred-audit-deep-dive
+  expression: Defects Found / Garments Audited x 100
+  inputs:
+  - name: Defects Found
+  - name: Garments Audited x 100
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2387
+    batch: '6'
+domain: textile_apparel_deep_dive
+sector: textiles_apparel

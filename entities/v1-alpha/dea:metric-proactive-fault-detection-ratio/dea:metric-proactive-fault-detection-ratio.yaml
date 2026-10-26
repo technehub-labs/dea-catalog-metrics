@@ -1,0 +1,53 @@
+id: dea:metric-proactive-fault-detection-ratio
+name: Proactive Fault Detection Ratio
+type: Metric
+description: Within Telecom Network Operations (Deep Dive), Proactive Fault Detection Ratio (PFDR-N) is
+  used to gauge capability maturity or development. Its calculation is Faults Detected Proactively / Total
+  Faults, measured in percent (%). It originates from and is most used in Telecommunications practice.
+  It informs long-horizon decisions and is typically tracked on enterprise dashboards rather than team
+  boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: PFDR-N
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Faults Detected Proactively / Total Faults
+formula_definition:
+  formula_id: dea:formula-proactive-fault-detection-ratio
+  expression: Faults Detected Proactively / Total Faults
+  inputs:
+  - name: Faults Detected Proactively
+  - name: Total Faults
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2134
+    batch: '6'
+domain: telecom_network_operations_deep_dive
+sector: telecommunications

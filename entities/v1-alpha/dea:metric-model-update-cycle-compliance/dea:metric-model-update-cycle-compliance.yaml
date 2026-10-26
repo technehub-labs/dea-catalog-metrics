@@ -1,0 +1,53 @@
+id: dea:metric-model-update-cycle-compliance
+name: Model Update Cycle Compliance
+type: Metric
+description: Model Update Cycle Compliance (MUCC-RS) captures the quality of outputs and outcomes for
+  organizations tracking investment research & trading operations. Its calculation is Coverage Models
+  Refreshed per Schedule / Due, measured in percent (%). It originates from and is most used in Financial
+  Services practice. Its value drives prioritization and resource reallocation among competing initiatives.
+  It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: MUCC-RS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Coverage Models Refreshed per Schedule / Due
+formula_definition:
+  formula_id: dea:formula-model-update-cycle-compliance
+  expression: Coverage Models Refreshed per Schedule / Due
+  inputs:
+  - name: Coverage Models Refreshed per Schedule
+  - name: Due
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3034
+    batch: '7'
+domain: investment_research_trading_operations
+sector: financial_services

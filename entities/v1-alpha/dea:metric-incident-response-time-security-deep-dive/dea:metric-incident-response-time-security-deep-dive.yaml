@@ -1,0 +1,52 @@
+id: dea:metric-incident-response-time-security-deep-dive
+name: Incident Response Time (Security Deep Dive)
+type: Metric
+description: 'Incident Response Time (Security Deep Dive) (IRT-SD) captures how efficiently resources
+  are converted into outputs for organizations tracking security services & guarding. The formula is Minutes
+  from Alert to Guard on Scene - reported in minutes. It is monitored close to the work: teams act on
+  it within a shift, sprint, or daily review. Lower values are better; each reduction is an improvement.
+  It is a standard measure in the Security sector.'
+abbreviation: IRT-SD
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: Public domain - no attribution required
+calculation_definition: Minutes from Alert to Guard on Scene
+formula_definition:
+  formula_id: dea:formula-incident-response-time-security-deep-dive
+  expression: Minutes from Alert to Guard on Scene
+  inputs:
+  - name: Minutes from Alert to Guard on Scene
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2052
+    batch: '6'
+domain: security_services_guarding
+sector: security

@@ -1,0 +1,52 @@
+id: dea:metric-league-table-rank
+name: League Table Rank
+type: Metric
+description: A Investment Banking & Capital Markets indicator, League Table Rank (LTR) quantifies growth
+  over time. It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. The formula is Rank in Deal Volume or Fee League Tables - reported in count (items per period).
+  Improvement means raising this figure toward best-in-class levels. It is a standard measure in the Investment
+  banking sector.
+abbreviation: LTR
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- growth
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Rank in Deal Volume or Fee League Tables
+formula_definition:
+  formula_id: dea:formula-league-table-rank
+  expression: Rank in Deal Volume or Fee League Tables
+  inputs:
+  - name: Rank in Deal Volume or Fee League Tables
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1144
+    batch: '4'
+domain: investment_banking_capital_markets
+sector: investment_banking

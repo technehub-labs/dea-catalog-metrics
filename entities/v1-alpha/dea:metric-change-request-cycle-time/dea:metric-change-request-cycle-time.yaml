@@ -1,0 +1,51 @@
+id: dea:metric-change-request-cycle-time
+name: Change Request Cycle Time
+type: Metric
+description: 'Within Project Management, Change Request Cycle Time (CRCT) is used to gauge how efficiently
+  resources are converted into outputs. It is defined as Days from Change Request to Decision; the result
+  is stated in days. It is a working-level control: thresholds trigger immediate operational response.
+  Lower values are better; each reduction is an improvement. Its use is not sector-specific; it appears
+  in cross-industry performance frameworks.'
+abbreviation: CRCT
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- transformation
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days from Change Request to Decision
+formula_definition:
+  formula_id: dea:formula-change-request-cycle-time
+  expression: Days from Change Request to Decision
+  inputs:
+  - name: Days from Change Request to Decision
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 361
+    batch: '1'
+domain: project_management

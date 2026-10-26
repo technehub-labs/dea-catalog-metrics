@@ -1,0 +1,53 @@
+id: dea:metric-data-center-cooling-efficiency
+name: Data Center Cooling Efficiency
+type: Metric
+description: Data Center Cooling Efficiency (DCCE) captures how efficiently resources are converted into
+  outputs for organizations tracking data center & cloud operations. Its calculation is IT Load / Cooling
+  Load, measured in ratio (x:1 or x). It originates from and is most used in Technology & data centers
+  practice. Its value drives prioritization and resource reallocation among competing initiatives. It
+  should be maximized within the limits of cost and quality trade-offs.
+abbreviation: DCCE
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: IT Load / Cooling Load
+formula_definition:
+  formula_id: dea:formula-data-center-cooling-efficiency
+  expression: IT Load / Cooling Load
+  inputs:
+  - name: IT Load
+  - name: Cooling Load
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1099
+    batch: '4'
+domain: data_center_cloud_operations
+sector: technology_data_centers

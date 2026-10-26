@@ -1,0 +1,52 @@
+id: dea:metric-leadership-pipeline-readiness
+name: Leadership Pipeline Readiness
+type: Metric
+description: A Learning & Development indicator, Leadership Pipeline Readiness (LPR) quantifies capability
+  maturity or development. The formula is Leadership Roles with Ready Internal Candidates / Leadership
+  Roles - reported in percent (%). It carries weight in boardroom and executive reviews, where it anchors
+  cross-organization trade-offs. Higher values are better; gains are read as improvement and losses as
+  deterioration. Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: LPR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Leadership Roles with Ready Internal Candidates / Leadership Roles
+formula_definition:
+  formula_id: dea:formula-leadership-pipeline-readiness
+  expression: Leadership Roles with Ready Internal Candidates / Leadership Roles
+  inputs:
+  - name: Leadership Roles with Ready Internal Candidates
+  - name: Leadership Roles
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 802
+    batch: '2'
+domain: learning_development

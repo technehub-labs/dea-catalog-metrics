@@ -1,0 +1,54 @@
+id: dea:metric-bundle-attach-rate-telecom
+name: Bundle Attach Rate (Telecom)
+type: Metric
+description: Bundle Attach Rate (Telecom) (BART-T) addresses growth over time and is a fixture of telecom
+  product & bundle management reporting. The formula is Customers with Multi-Product Bundle / Customers
+  - reported in percent (%). It is a standard measure in the Telecommunications sector. It carries weight
+  in boardroom and executive reviews, where it anchors cross-organization trade-offs. It should be maximized
+  within the limits of cost and quality trade-offs.
+abbreviation: BART-T
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- growth
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Customers with Multi-Product Bundle / Customers
+formula_definition:
+  formula_id: dea:formula-bundle-attach-rate-telecom
+  expression: Customers with Multi-Product Bundle / Customers
+  inputs:
+  - name: Customers with Multi
+  - name: Product Bundle
+  - name: Customers
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1440
+    batch: '5'
+domain: telecom_product_bundle_management
+sector: telecommunications

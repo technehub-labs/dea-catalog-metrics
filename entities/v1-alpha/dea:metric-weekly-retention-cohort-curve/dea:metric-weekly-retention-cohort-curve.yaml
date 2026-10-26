@@ -1,0 +1,53 @@
+id: dea:metric-weekly-retention-cohort-curve
+name: Weekly Retention Cohort Curve
+type: Metric
+description: Weekly Retention Cohort Curve (WRCC) addresses the retention of customers, users, or assets
+  over time and is a fixture of web & digital analytics standard measures reporting. Its calculation is
+  Active Users in Week N / Cohort Size, measured in percent (%). It originates from and is most used in
+  Digital product practice. It informs long-horizon decisions and is typically tracked on enterprise dashboards
+  rather than team boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: WRCC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- retention
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Active Users in Week N / Cohort Size
+formula_definition:
+  formula_id: dea:formula-weekly-retention-cohort-curve
+  expression: Active Users in Week N / Cohort Size
+  inputs:
+  - name: Active Users in Week N
+  - name: Cohort Size
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4359
+    batch: '11'
+domain: web_digital_analytics_standard_measures
+sector: digital_product

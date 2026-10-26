@@ -1,0 +1,52 @@
+id: dea:metric-fraud-loss-per-investigation-fte
+name: Fraud Loss per Investigation FTE
+type: Metric
+description: A Enterprise Fraud & Financial Crime Management indicator, Fraud Loss per Investigation FTE
+  (FLPIF) quantifies the economic value created or preserved. Its calculation is Annual Fraud Losses Prevented
+  / Investigation FTE, measured in currency per unit. Its value drives prioritization and resource reallocation
+  among competing initiatives. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: FLPIF
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Annual Fraud Losses Prevented / Investigation FTE
+formula_definition:
+  formula_id: dea:formula-fraud-loss-per-investigation-fte
+  expression: Annual Fraud Losses Prevented / Investigation FTE
+  inputs:
+  - name: Annual Fraud Losses Prevented
+  - name: Investigation FTE
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3773
+    batch: '8'
+domain: enterprise_fraud_financial_crime_management

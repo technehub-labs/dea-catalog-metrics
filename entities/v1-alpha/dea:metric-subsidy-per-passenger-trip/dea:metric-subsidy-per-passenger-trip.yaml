@@ -1,0 +1,54 @@
+id: dea:metric-subsidy-per-passenger-trip
+name: Subsidy per Passenger Trip
+type: Metric
+description: Subsidy per Passenger Trip (SPT) measures the economic value created or preserved in the
+  Public Transit domain. The formula is (Operating Cost - Fare Revenue) / Trips - reported in currency
+  per unit. It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. Lower values are better; each reduction is an improvement. It is a standard measure in the
+  Public transit sector.
+abbreviation: SPT
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: (Operating Cost - Fare Revenue) / Trips
+formula_definition:
+  formula_id: dea:formula-subsidy-per-passenger-trip
+  expression: (Operating Cost - Fare Revenue) / Trips
+  inputs:
+  - name: Operating Cost
+  - name: Fare Revenue
+  - name: Trips
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1008
+    batch: '3'
+domain: public_transit
+sector: public_transit

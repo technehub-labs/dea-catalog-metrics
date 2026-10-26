@@ -1,0 +1,53 @@
+id: dea:metric-human-robot-collaboration-task-share
+name: Human-Robot Collaboration Task Share
+type: Metric
+description: Human-Robot Collaboration Task Share (HRTS) measures capability maturity or development in
+  the Industrial Automation & Robotics domain. Its value drives prioritization and resource reallocation
+  among competing initiatives. Its calculation is Tasks Performed Collaboratively / Automatable Tasks,
+  measured in percent (%). Improvement means raising this figure toward best-in-class levels. It originates
+  from and is most used in Manufacturing practice.
+abbreviation: HRTS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Tasks Performed Collaboratively / Automatable Tasks
+formula_definition:
+  formula_id: dea:formula-human-robot-collaboration-task-share
+  expression: Tasks Performed Collaboratively / Automatable Tasks
+  inputs:
+  - name: Tasks Performed Collaboratively
+  - name: Automatable Tasks
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1342
+    batch: '5'
+domain: industrial_automation_robotics
+sector: manufacturing

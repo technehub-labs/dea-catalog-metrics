@@ -1,0 +1,52 @@
+id: dea:metric-business-case-quality-score
+name: Business Case Quality Score
+type: Metric
+description: Business Case Quality Score (BCQS) captures the quality of outputs and outcomes for organizations
+  tracking pmo & portfolio governance. Its calculation is Rubric-Based Completeness and Rigor of Business
+  Cases, measured in score (points). It informs long-horizon decisions and is typically tracked on enterprise
+  dashboards rather than team boards. Higher values are better; gains are read as improvement and losses
+  as deterioration. Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: BCQS
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Rubric-Based Completeness and Rigor of Business Cases
+formula_definition:
+  formula_id: dea:formula-business-case-quality-score
+  expression: Rubric-Based Completeness and Rigor of Business Cases
+  inputs:
+  - name: Rubric
+  - name: Based Completeness and Rigor of Business Cases
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3402
+    batch: '7'
+domain: pmo_portfolio_governance

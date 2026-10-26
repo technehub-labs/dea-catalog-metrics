@@ -1,0 +1,53 @@
+id: dea:metric-line-efficiency-food-processing
+name: Line Efficiency (Food Processing)
+type: Metric
+description: Line Efficiency (Food Processing) (LEF) captures how efficiently resources are converted
+  into outputs for organizations tracking agriculture & food processing. Its calculation is Actual Output
+  / Theoretical Line Capacity Output, measured in percent (%). It provides the day-to-day signal that
+  a process is running as designed. Higher values are better; gains are read as improvement and losses
+  as deterioration. It originates from and is most used in Agriculture & food practice.
+abbreviation: LEF
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Actual Output / Theoretical Line Capacity Output
+formula_definition:
+  formula_id: dea:formula-line-efficiency-food-processing
+  expression: Actual Output / Theoretical Line Capacity Output
+  inputs:
+  - name: Actual Output
+  - name: Theoretical Line Capacity Output
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 735
+    batch: '2'
+domain: agriculture_food_processing
+sector: agriculture_food

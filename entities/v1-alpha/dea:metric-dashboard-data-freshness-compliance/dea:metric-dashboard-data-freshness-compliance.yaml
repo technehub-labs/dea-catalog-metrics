@@ -1,0 +1,52 @@
+id: dea:metric-dashboard-data-freshness-compliance
+name: Dashboard Data Freshness Compliance
+type: Metric
+description: 'Dashboard Data Freshness Compliance (DDFC) measures the quality of outputs and outcomes
+  in the Data Science & Analytics Operations domain. It is defined as Dashards Meeting Freshness SLA /
+  Dashboards; the result is stated in percent (%). It is applied across virtually every sector. It is
+  a working-level control: thresholds trigger immediate operational response. It should be maximized within
+  the limits of cost and quality trade-offs.'
+abbreviation: DDFC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Dashards Meeting Freshness SLA / Dashboards
+formula_definition:
+  formula_id: dea:formula-dashboard-data-freshness-compliance
+  expression: Dashards Meeting Freshness SLA / Dashboards
+  inputs:
+  - name: Dashards Meeting Freshness SLA
+  - name: Dashboards
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2584
+    batch: '7'
+domain: data_science_analytics_operations

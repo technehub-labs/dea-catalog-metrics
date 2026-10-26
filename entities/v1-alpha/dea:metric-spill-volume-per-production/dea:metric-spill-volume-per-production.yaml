@@ -1,0 +1,53 @@
+id: dea:metric-spill-volume-per-production
+name: Spill Volume per Production
+type: Metric
+description: 'Spill Volume per Production (SVP) measures environmental and social sustainability performance
+  in the Oil & Gas domain. It is computed as Hydrocarbons Spilled / Hydrocarbons Produced, expressed in
+  ratio (x:1 or x). It is a headline indicator: movement in it prompts leadership questions about strategy
+  and resourcing. Lower values are better; each reduction is an improvement. Its use is concentrated in
+  Oil & gas.'
+abbreviation: SVP
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- sustainability
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Hydrocarbons Spilled / Hydrocarbons Produced
+formula_definition:
+  formula_id: dea:formula-spill-volume-per-production
+  expression: Hydrocarbons Spilled / Hydrocarbons Produced
+  inputs:
+  - name: Hydrocarbons Spilled
+  - name: Hydrocarbons Produced
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 890
+    batch: '3'
+domain: oil_gas
+sector: oil_gas

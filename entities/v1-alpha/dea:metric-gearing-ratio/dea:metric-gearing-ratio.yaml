@@ -1,0 +1,52 @@
+id: dea:metric-gearing-ratio
+name: Gearing Ratio
+type: Metric
+description: 'Within Finance & Accounting, Gearing Ratio (GR) is used to gauge exposure to adverse outcomes.
+  It is a headline indicator: movement in it prompts leadership questions about strategy and resourcing.
+  It is computed as Net Debt / (Net Debt + Shareholders'' Equity), expressed in percent (%). It should
+  be driven down, since lower readings signal healthier performance. Practitioners in nearly any industry
+  can adopt it directly.'
+abbreviation: GR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Net Debt / (Net Debt + Shareholders' Equity)
+formula_definition:
+  formula_id: dea:formula-gearing-ratio
+  expression: Net Debt / (Net Debt + Shareholders' Equity)
+  inputs:
+  - name: Net Debt
+  - name: Shareholders' Equity
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 34
+    batch: '1'
+domain: finance_accounting

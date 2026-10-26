@@ -1,0 +1,53 @@
+id: dea:metric-digital-renewal-uptake-insurance
+name: Digital Renewal Uptake (Insurance)
+type: Metric
+description: Within Insurance Distribution - Direct & Digital, Digital Renewal Uptake (Insurance) (DRU-I)
+  is used to gauge how efficiently resources are converted into outputs. Its calculation is Renewals Completed
+  Digitally / Renewals, measured in percent (%). Its value drives prioritization and resource reallocation
+  among competing initiatives. Higher values are better; gains are read as improvement and losses as deterioration.
+  It originates from and is most used in Insurance practice.
+abbreviation: DRU-I
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Renewals Completed Digitally / Renewals
+formula_definition:
+  formula_id: dea:formula-digital-renewal-uptake-insurance
+  expression: Renewals Completed Digitally / Renewals
+  inputs:
+  - name: Renewals Completed Digitally
+  - name: Renewals
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2213
+    batch: '6'
+domain: insurance_distribution_direct_digital
+sector: insurance

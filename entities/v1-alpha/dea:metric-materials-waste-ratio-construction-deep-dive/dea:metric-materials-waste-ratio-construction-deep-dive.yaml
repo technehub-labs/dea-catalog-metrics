@@ -1,0 +1,53 @@
+id: dea:metric-materials-waste-ratio-construction-deep-dive
+name: Materials Waste Ratio (Construction Deep Dive)
+type: Metric
+description: 'Materials Waste Ratio (Construction Deep Dive) (MWR-D) measures how efficiently resources
+  are converted into outputs in the Construction Contracting (Deep Dive) domain. The formula is Wasted
+  Materials / Materials Purchased - reported in percent (%). It guides mid-horizon planning: portfolio,
+  program, and function owners act on it between review cycles. Lower values are better; each reduction
+  is an improvement. It is a standard measure in the Construction sector.'
+abbreviation: MWR-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Wasted Materials / Materials Purchased
+formula_definition:
+  formula_id: dea:formula-materials-waste-ratio-construction-deep-dive
+  expression: Wasted Materials / Materials Purchased
+  inputs:
+  - name: Wasted Materials
+  - name: Materials Purchased
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2403
+    batch: '6'
+domain: construction_contracting_deep_dive
+sector: construction

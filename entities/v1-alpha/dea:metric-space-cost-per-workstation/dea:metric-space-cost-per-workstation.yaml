@@ -1,0 +1,52 @@
+id: dea:metric-space-cost-per-workstation
+name: Space Cost per Workstation
+type: Metric
+description: Within Facility Management & Workplace (Deep Dive), Space Cost per Workstation (SCPW) is
+  used to gauge how efficiently resources are converted into outputs. The formula is Total Facility Cost
+  / Workstations - reported in currency per unit. It carries weight in boardroom and executive reviews,
+  where it anchors cross-organization trade-offs. Lower values are better; each reduction is an improvement.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: SCPW
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Facility Cost / Workstations
+formula_definition:
+  formula_id: dea:formula-space-cost-per-workstation
+  expression: Total Facility Cost / Workstations
+  inputs:
+  - name: Total Facility Cost
+  - name: Workstations
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2246
+    batch: '6'
+domain: facility_management_workplace_deep_dive

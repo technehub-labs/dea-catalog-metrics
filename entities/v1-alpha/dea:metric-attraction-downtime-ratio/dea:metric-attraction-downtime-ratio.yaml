@@ -1,0 +1,53 @@
+id: dea:metric-attraction-downtime-ratio
+name: Attraction Downtime Ratio
+type: Metric
+description: 'Attraction Downtime Ratio (ADR-V) measures the utilization or availability of capacity in
+  the Entertainment Venues & Attractions domain. The formula is Ride or Exhibit Downtime / Operating Hours
+  - reported in percent (%). It is a standard measure in the Media & Entertainment sector. It is monitored
+  close to the work: teams act on it within a shift, sprint, or daily review. Reduction is the goal, and
+  sustained decreases indicate successful intervention.'
+abbreviation: ADR-V
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Ride or Exhibit Downtime / Operating Hours
+formula_definition:
+  formula_id: dea:formula-attraction-downtime-ratio
+  expression: Ride or Exhibit Downtime / Operating Hours
+  inputs:
+  - name: Ride or Exhibit Downtime
+  - name: Operating Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1946
+    batch: '6'
+domain: entertainment_venues_attractions
+sector: media_entertainment

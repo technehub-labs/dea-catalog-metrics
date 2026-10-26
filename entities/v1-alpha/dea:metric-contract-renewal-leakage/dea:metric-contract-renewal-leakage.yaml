@@ -1,0 +1,53 @@
+id: dea:metric-contract-renewal-leakage
+name: Contract Renewal Leakage
+type: Metric
+description: Contract Renewal Leakage (CRL) measures exposure to adverse outcomes in the Legal domain.
+  It is reviewed at cadence by planning owners to correct course before issues become strategic. It is
+  computed as Auto-Renewed Contracts without Review / Contracts Renewed, expressed in percent (%). It
+  should be driven down, since lower readings signal healthier performance. Practitioners in nearly any
+  industry can adopt it directly.
+abbreviation: CRL
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Auto-Renewed Contracts without Review / Contracts Renewed
+formula_definition:
+  formula_id: dea:formula-contract-renewal-leakage
+  expression: Auto-Renewed Contracts without Review / Contracts Renewed
+  inputs:
+  - name: Auto
+  - name: Renewed Contracts without Review
+  - name: Contracts Renewed
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 392
+    batch: '1'
+domain: legal

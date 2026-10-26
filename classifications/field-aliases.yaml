@@ -1,4 +1,4 @@
-# CR-MET-015: field alias registry.
+# CR-MET-015 / CR-MET-016: field alias registry.
 #
 # Maps an external Metric field vocabulary onto the catalog's canonical field
 # names, for use when ingesting Metric contributions authored elsewhere.
@@ -10,19 +10,35 @@
 # validation. scripts/check_field_alignment.py (Gate 8) enforces that the
 # registry stays valid and that no stored record uses an alias name.
 #
+# Only RENAMED fields appear here. A field whose name is already canonical
+# needs no entry, and adding one would make the alias ambiguous with a
+# schema property (Gate 8 rejects that).
+#
 # Format: aliases.<external name>.canonical = <catalog field name>
 version: 1.0.0
 authority: CR-MET-015
 aliases:
   metric id:
     canonical: id
-    note: External spelling of the record identifier.
+    note: Field Guide spelling of the record identifier.
+  metric_id:
+    canonical: id
+    note: Seed workbook column spelling of the record identifier.
+  abbr:
+    canonical: abbreviation
+    note: Seed workbook column spelling of the short form.
   formula:
     canonical: formula_definition
     note: External spelling of the formula object.
   unit id:
     canonical: unit_ref
-    note: External spelling of the unit reference.
+    note: Field Guide spelling of the unit reference.
+  unit_id:
+    canonical: unit_ref
+    note: Seed workbook column spelling of the unit reference.
+  entity_kind:
+    canonical: measurable_entity_kind
+    note: Seed workbook column spelling of dual anchor 1.
   subject_area:
     canonical: subject_classification
     note: >
@@ -36,8 +52,13 @@ aliases:
     canonical: purpose_classification
     note: External spelling of the purpose axis.
   orientation:
-    canonical: orientation_classification
-    note: External spelling of the orientation axis.
+    canonical: directionality
+    note: >
+      The seed workbook's own Field Guide assigns this field to threshold
+      semantics, which is the catalog's directionality: its values are
+      higher-is-better, lower-is-better and target-band. The catalog's
+      orientation axis (leading, lagging, diagnostic, concurrent) is a
+      different axis and is not populated by this vocabulary.
   significance:
     canonical: management_significance
     note: External spelling of the management significance axis.

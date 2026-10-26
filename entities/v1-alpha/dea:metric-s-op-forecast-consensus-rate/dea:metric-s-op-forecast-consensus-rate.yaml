@@ -1,0 +1,52 @@
+id: dea:metric-s-op-forecast-consensus-rate
+name: S&OP Forecast Consensus Rate
+type: Metric
+description: S&OP Forecast Consensus Rate (SFCSR) measures the engagement or satisfaction of the people
+  involved in the Supply Chain Standard Measures (Deep Dive) domain. It is reviewed at cadence by planning
+  owners to correct course before issues become strategic. It is computed as Consensus Reached without
+  Escalation / Planning Cycles, expressed in percent (%). Improvement means raising this figure toward
+  best-in-class levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: SFCSR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- engagement
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Consensus Reached without Escalation / Planning Cycles
+formula_definition:
+  formula_id: dea:formula-s-op-forecast-consensus-rate
+  expression: Consensus Reached without Escalation / Planning Cycles
+  inputs:
+  - name: Consensus Reached without Escalation
+  - name: Planning Cycles
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4268
+    batch: '10'
+domain: supply_chain_standard_measures_deep_dive

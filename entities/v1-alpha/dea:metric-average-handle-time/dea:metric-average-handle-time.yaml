@@ -1,0 +1,55 @@
+id: dea:metric-average-handle-time
+name: Average Handle Time
+type: Metric
+description: Average Handle Time (AHT) measures how efficiently resources are converted into outputs in
+  the Contact Center domain. Front-line and delivery teams watch it in real time, as small deviations
+  demand immediate correction. It is computed as Talk Time + Hold Time + After-Call Work Time / Calls
+  Handled, expressed in minutes. It should be driven down, since lower readings signal healthier performance.
+  Practitioners in nearly any industry can adopt it directly.
+abbreviation: AHT
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: Public domain - no attribution required
+calculation_definition: Talk Time + Hold Time + After-Call Work Time / Calls Handled
+formula_definition:
+  formula_id: dea:formula-average-handle-time
+  expression: Talk Time + Hold Time + After-Call Work Time / Calls Handled
+  inputs:
+  - name: Talk Time
+  - name: Hold Time
+  - name: After
+  - name: Call Work Time
+  - name: Calls Handled
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 562
+    batch: '2'
+domain: contact_center

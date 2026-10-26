@@ -1,0 +1,52 @@
+id: dea:metric-production-incident-root-cause-test-gap-ratio
+name: Production Incident Root Cause - Test Gap Ratio
+type: Metric
+description: A Software Testing & Quality Engineering indicator, Production Incident Root Cause - Test
+  Gap Ratio (PIRC-TG) quantifies the quality of outputs and outcomes. It is defined as Incidents Attributed
+  to Test Gaps / Incidents; the result is stated in percent (%). It is applied across virtually every
+  sector. Its trend is watched by senior leadership as an early signal of structural performance shifts.
+  Reduction is the goal, and sustained decreases indicate successful intervention.
+abbreviation: PIRC-TG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Incidents Attributed to Test Gaps / Incidents
+formula_definition:
+  formula_id: dea:formula-production-incident-root-cause-test-gap-ratio
+  expression: Incidents Attributed to Test Gaps / Incidents
+  inputs:
+  - name: Incidents Attributed to Test Gaps
+  - name: Incidents
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2719
+    batch: '7'
+domain: software_testing_quality_engineering

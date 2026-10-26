@@ -1,0 +1,53 @@
+id: dea:metric-shrinkage-of-dye-batch
+name: Shrinkage of Dye Batch
+type: Metric
+description: 'Shrinkage of Dye Batch (SDB) captures the quality of outputs and outcomes for organizations
+  tracking textile & apparel. The formula is Fabric Weight Loss in Dyeing / Fabric Input Weight - reported
+  in percent (%). It is a standard measure in the Textile & apparel sector. It is monitored close to the
+  work: teams act on it within a shift, sprint, or daily review. Reduction is the goal, and sustained
+  decreases indicate successful intervention.'
+abbreviation: SDB
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Fabric Weight Loss in Dyeing / Fabric Input Weight
+formula_definition:
+  formula_id: dea:formula-shrinkage-of-dye-batch
+  expression: Fabric Weight Loss in Dyeing / Fabric Input Weight
+  inputs:
+  - name: Fabric Weight Loss in Dyeing
+  - name: Fabric Input Weight
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 925
+    batch: '3'
+domain: textile_apparel
+sector: textile_apparel

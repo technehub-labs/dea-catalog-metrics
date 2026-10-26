@@ -20,9 +20,13 @@ required fields only, matching how the other gates treat them.
 """
 from __future__ import annotations
 
-import json
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import load_metrics  # noqa: E402
+
+import json
 
 import yaml
 
@@ -42,14 +46,6 @@ def _load_aliases() -> dict:
     for alias, spec in (data.get("aliases") or {}).items():
         out[alias] = (spec or {}).get("canonical")
     return out
-
-
-def _load_metrics() -> list:
-    metrics = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
-        if path.parent.name.startswith("dea:metric-"):
-            metrics.append((path.parent.name, yaml.safe_load(path.read_text())))
-    return metrics
 
 
 def _short_form(m: dict) -> str:
@@ -81,7 +77,7 @@ def main() -> int:
                 "the alias is ambiguous"
             )
 
-    for mid, m in _load_metrics():
+    for mid, m in load_metrics():
         # 3. no stored record uses an alias name
         for alias in sorted(aliases):
             if alias in m:
@@ -139,7 +135,7 @@ def main() -> int:
             print(f"  {f}")
         sys.exit(1)
 
-    n = sum(1 for _, m in _load_metrics() if m.get("lifecycle_status") == "admitted")
+    n = sum(1 for _, m in load_metrics() if m.get("lifecycle_status") == "admitted")
     print(f"PASS: check_field_alignment.py ({n} admitted metrics, 0 findings)")
     return 0
 

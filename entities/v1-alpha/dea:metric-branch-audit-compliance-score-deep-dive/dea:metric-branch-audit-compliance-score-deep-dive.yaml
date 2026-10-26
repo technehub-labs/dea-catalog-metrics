@@ -1,0 +1,52 @@
+id: dea:metric-branch-audit-compliance-score-deep-dive
+name: Branch Audit Compliance Score (Deep Dive)
+type: Metric
+description: Branch Audit Compliance Score (Deep Dive) (BACS-D) measures conformance to standards, plans,
+  or obligations in the Retail Banking Branch Network (Deep Dive) domain. Its calculation is Composite
+  Branch Audit Score, measured in score (points). Its value drives prioritization and resource reallocation
+  among competing initiatives. Higher values are better; gains are read as improvement and losses as deterioration.
+  It originates from and is most used in Banking practice.
+abbreviation: BACS-D
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Composite Branch Audit Score
+formula_definition:
+  formula_id: dea:formula-branch-audit-compliance-score-deep-dive
+  expression: Composite Branch Audit Score
+  inputs:
+  - name: Composite Branch Audit Score
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2120
+    batch: '6'
+domain: retail_banking_branch_network_deep_dive
+sector: banking

@@ -1,0 +1,52 @@
+id: dea:metric-critical-patch-compliance
+name: Critical Patch Compliance
+type: Metric
+description: A Cybersecurity indicator, Critical Patch Compliance (CPC) quantifies conformance to standards,
+  plans, or obligations. It is defined as Critical Patches Applied within SLA / Critical Patches Released;
+  the result is stated in percent (%). It bridges daily operations and executive reporting, giving managers
+  a lever to pull within a quarter. Higher values are better; gains are read as improvement and losses
+  as deterioration. Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: CPC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Critical Patches Applied within SLA / Critical Patches Released
+formula_definition:
+  formula_id: dea:formula-critical-patch-compliance
+  expression: Critical Patches Applied within SLA / Critical Patches Released
+  inputs:
+  - name: Critical Patches Applied within SLA
+  - name: Critical Patches Released
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 322
+    batch: '1'
+domain: cybersecurity

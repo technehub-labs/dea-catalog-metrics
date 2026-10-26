@@ -1,0 +1,49 @@
+# dea:metric-randomization-speed-trials
+
+Candidate Performance Metric record for **Randomization Speed (Trials)** (RST) in the OpenDEAM Metric catalog.
+
+## 1. Identity
+
+- **Canonical id:** `dea:metric-randomization-speed-trials`
+- **Name:** Randomization Speed (Trials)
+- **Type:** Metric
+- **Version:** 1.0.0
+- **Lifecycle:** candidate
+- **Short form:** RST
+
+## 2. Definition
+
+A Pharma R&D & Clinical Trials indicator, Randomization Speed (Trials) (RST) quantifies how efficiently resources are converted into outputs. It is a working-level control: thresholds trigger immediate operational response. It is defined as Hours from Eligibility Confirmation to Randomization; the result is stated in hours. It should be driven down, since lower readings signal healthier performance. In Pharmaceuticals, it is a recognized element of the standard performance toolkit.
+
+## Formula
+
+```
+Hours from Eligibility Confirmation to Randomization
+```
+
+## Unit
+
+- **Unit reference:** `dea:unit-hours`
+- **Unit:** hours
+- **Unit label (as published):** hours
+
+## Classification
+
+- **Subject classification:** product_or_service
+- **Purpose classification:** efficiency
+- **Scope classification:** capability
+- **Directionality:** lower_is_better
+- **Management significance:** operational
+- **Measurable entity kind:** dea:OrganizationalUnit
+- **Reputability tier:** industry_standard
+- **Domain:** pharma_r_d_clinical_trials
+- **Sector:** pharmaceuticals
+
+## Attribution
+
+- **Source credit:** Public domain - no attribution required
+
+## Provenance
+
+- **Established by:** CR-MET-016 on 2026-10-26
+- **Seed workbook:** `seeds/open-deam-candidate-metrics-seed.xlsx`, sheet `Candidate Metrics`, row 1630 (batch 6)

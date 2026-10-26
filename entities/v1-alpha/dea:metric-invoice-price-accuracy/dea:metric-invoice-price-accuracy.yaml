@@ -1,0 +1,52 @@
+id: dea:metric-invoice-price-accuracy
+name: Invoice Price Accuracy
+type: Metric
+description: 'Invoice Price Accuracy (IPA) measures the quality of outputs and outcomes in the Pricing
+  & Revenue Management domain. The formula is Invoices Billed at Approved Price / Invoices - reported
+  in percent (%). It is monitored close to the work: teams act on it within a shift, sprint, or daily
+  review. Higher values are better; gains are read as improvement and losses as deterioration. Its use
+  is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: IPA
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Invoices Billed at Approved Price / Invoices
+formula_definition:
+  formula_id: dea:formula-invoice-price-accuracy
+  expression: Invoices Billed at Approved Price / Invoices
+  inputs:
+  - name: Invoices Billed at Approved Price
+  - name: Invoices
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1072
+    batch: '4'
+domain: pricing_revenue_management

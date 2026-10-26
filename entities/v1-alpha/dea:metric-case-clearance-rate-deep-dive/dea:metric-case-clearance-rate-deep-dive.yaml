@@ -1,0 +1,53 @@
+id: dea:metric-case-clearance-rate-deep-dive
+name: Case Clearance Rate (Deep Dive)
+type: Metric
+description: A Public Sector & Citizen Service Standard Measures (Deep Dive) indicator, Case Clearance
+  Rate (Deep Dive) (CCRD) quantifies how efficiently resources are converted into outputs. It provides
+  the day-to-day signal that a process is running as designed. Its calculation is Cases Closed / Cases
+  Received, measured in ratio (x:1 or x). Improvement means raising this figure toward best-in-class levels.
+  It originates from and is most used in Public sector practice.
+abbreviation: CCRD
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Cases Closed / Cases Received
+formula_definition:
+  formula_id: dea:formula-case-clearance-rate-deep-dive
+  expression: Cases Closed / Cases Received
+  inputs:
+  - name: Cases Closed
+  - name: Cases Received
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4415
+    batch: '11'
+domain: public_sector_citizen_service_standard_measures_deep_dive
+sector: public_sector

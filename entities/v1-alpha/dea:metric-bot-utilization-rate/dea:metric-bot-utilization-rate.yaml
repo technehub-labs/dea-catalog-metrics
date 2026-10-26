@@ -1,0 +1,52 @@
+id: dea:metric-bot-utilization-rate
+name: Bot Utilization Rate
+type: Metric
+description: 'Bot Utilization Rate (BUR) measures the utilization or availability of capacity in the Automation
+  & Robotic Process Automation domain. It guides mid-horizon planning: portfolio, program, and function
+  owners act on it between review cycles. The formula is Bot Productive Hours / Bot Licensed Hours - reported
+  in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners in
+  nearly any industry can adopt it directly.'
+abbreviation: BUR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Bot Productive Hours / Bot Licensed Hours
+formula_definition:
+  formula_id: dea:formula-bot-utilization-rate
+  expression: Bot Productive Hours / Bot Licensed Hours
+  inputs:
+  - name: Bot Productive Hours
+  - name: Bot Licensed Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1323
+    batch: '5'
+domain: automation_robotic_process_automation

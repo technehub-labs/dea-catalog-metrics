@@ -1,0 +1,52 @@
+id: dea:metric-recruiter-productivity
+name: Recruiter Productivity
+type: Metric
+description: 'Recruiter Productivity (RPR-S) measures how efficiently resources are converted into outputs
+  in the Staffing & Recruiting domain. It guides mid-horizon planning: portfolio, program, and function
+  owners act on it between review cycles. The formula is Placements per Recruiter per Period - reported
+  in ratio (x:1 or x). Improvement means raising this figure toward best-in-class levels. It is a standard
+  measure in the Staffing & recruiting sector.'
+abbreviation: RPR-S
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Placements per Recruiter per Period
+formula_definition:
+  formula_id: dea:formula-recruiter-productivity
+  expression: Placements per Recruiter per Period
+  inputs:
+  - name: Placements per Recruiter per Period
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1025
+    batch: '3'
+domain: staffing_recruiting
+sector: staffing_recruiting

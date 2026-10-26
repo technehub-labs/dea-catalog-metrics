@@ -1,0 +1,52 @@
+id: dea:metric-discharged-not-final-billed
+name: Discharged Not Final Billed
+type: Metric
+description: 'Within Healthcare Revenue Cycle, Discharged Not Final Billed (DNFB) is used to gauge the
+  utilization or availability of capacity. The formula is Discharged Accounts Awaiting Final Billing -
+  reported in count (items per period). It is monitored close to the work: teams act on it within a shift,
+  sprint, or daily review. Lower values are better; each reduction is an improvement. It is a standard
+  measure in the Healthcare sector.'
+abbreviation: DNFB
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Discharged Accounts Awaiting Final Billing
+formula_definition:
+  formula_id: dea:formula-discharged-not-final-billed
+  expression: Discharged Accounts Awaiting Final Billing
+  inputs:
+  - name: Discharged Accounts Awaiting Final Billing
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 877
+    batch: '3'
+domain: healthcare_revenue_cycle
+sector: healthcare

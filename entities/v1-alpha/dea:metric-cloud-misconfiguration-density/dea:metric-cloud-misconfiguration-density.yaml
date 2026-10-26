@@ -1,0 +1,51 @@
+id: dea:metric-cloud-misconfiguration-density
+name: Cloud Misconfiguration Density
+type: Metric
+description: A Cloud Security Posture Management indicator, Cloud Misconfiguration Density (CMDEN) quantifies
+  exposure to adverse outcomes. It is computed as Open Misconfigurations per 100 Cloud Resources, expressed
+  in events per thousand or million (scaled). Front-line and delivery teams watch it in real time, as
+  small deviations demand immediate correction. Lower values are better; each reduction is an improvement.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: CMDEN
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Open Misconfigurations per 100 Cloud Resources
+formula_definition:
+  formula_id: dea:formula-cloud-misconfiguration-density
+  expression: Open Misconfigurations per 100 Cloud Resources
+  inputs:
+  - name: Open Misconfigurations per 100 Cloud Resources
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3302
+    batch: '7'
+domain: cloud_security_posture_management

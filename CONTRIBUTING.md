@@ -29,7 +29,7 @@ composition are in [docs/FOUNDATIONS.md](./docs/FOUNDATIONS.md).
 Steps 4 and 5 are easy to miss, and step 5 alone will not fail CI in the way
 you might expect. See the two constraints below.
 
-## Two constraints CI enforces that review will not catch
+## Constraints CI enforces that review will not catch
 
 These were found by executing the quick start against a real clone, not by
 reading it.
@@ -49,19 +49,58 @@ MECE conflict: ['dea:metric-data-completeness', 'dea:metric-<your-slug>'] share
 Check your signature against the existing records before writing the record.
 `python3 scripts/check_mece_coverage.py` is the arbiter, not a reviewer.
 
-### 2. The pilot-count assertion (tests)
+### 2. The corpus check (tests)
 
-`tests/test_conformance.py` currently asserts:
+`tests/test_conformance.py` used to assert that the catalog holds exactly 5
+records, the CR-MET-009 pilot cohort, frozen into a literal when the catalog
+held nothing else. **Adding any record turned this test red until the same PR
+updated the literal.** It was a pilot-era artifact.
 
-```python
-def test_pilot_has_5_metrics():
-    assert n == 5, f"CR-MET-009: pilot must have 5 metrics (got {n})"
+It is replaced (CR-MET-016) by a check that reads the seed workbook and
+asserts that every seed-derived record exists, that the set of ids matches the
+workbook's, and that each record's provenance points back at its own workbook
+row. A hard-coded count is replaced by a derived relationship, so adding a
+record no longer requires editing a constant.
+
+### 3. The lifecycle-aware required set (schema)
+
+`schemas/entity.schema.json` splits its required fields by lifecycle. A
+`candidate` record must carry the 15 fields the source provides:
+
+`id`, `name`, `type`, `description`, `abbreviation`, `unit`, `version`,
+`lifecycle_status`, `subject_classification`, `purpose_classification`,
+`scope_classification`, `directionality`, `management_significance`.
+
+Any other lifecycle must carry those plus the 4 admission fields:
+`subject_concept`, `measurement_nature`, `orientation_classification`, and
+`measurement_nature_detail`. Those four are requirements of ADMISSION, and
+the seed workbook has no column for any of them.
+
+### 4. Ingesting a seed workbook
+
+The seed is a committed artefact, so ingestion is reproducible:
+
+```bash
+python3 scripts/ingest_seed.py --report   # what would be written, and any gap
+python3 scripts/ingest_seed.py            # write the records
+python3 scripts/ingest_seed.py --check    # does the corpus match the workbook?
 ```
 
-The number 5 is the CR-MET-009 pilot cohort, frozen into an assertion when the
-catalog held exactly the pilot. **Adding any record turns this test red until
-the same PR updates the literal.** This is a pilot-era artifact and is tracked
-for removal; until then, update the count in the same PR and say why.
+Field NAMES come from `classifications/field-aliases.yaml`; field VALUES come
+from `classifications/seed-value-maps.yaml`, which distinguishes `carry` (the
+value is already a catalog value), `map` (it is a synonym) and `add` (it is a
+distinct concept, so the catalog vocabulary gains it). A seed value that
+appears in no map stops the ingestion:
+
+```text
+ingest_seed.py: no mapping for directionality value 'higher-is-better';
+add it to seed-value-maps.yaml rather than guessing.
+```
+
+The ingestion owns the records it created: a seed-derived record is refreshed
+on every run, so the corpus always matches the workbook. A record the catalog
+admitted by another route is never overwritten; those ids are reported as
+collisions.
 
 ## Record README structure
 
@@ -122,8 +161,8 @@ python3 scripts/check_formula_namespace.py
 
 ## Validation gates
 
-CI runs 11 steps: the regenerator, a registry-freshness check, 8 numbered
-gates, and pytest.
+CI runs 13 steps: the regenerator, a registry-freshness check, a seed-corpus
+check, a coverage report, 8 numbered gates, and pytest.
 
 | Gate | Script |
 |---|---|

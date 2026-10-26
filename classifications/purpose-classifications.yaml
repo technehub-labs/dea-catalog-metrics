@@ -1,24 +1,47 @@
 # Purpose classifications (CR-MET-002 binding axis 2)
-# The Metric purpose axis; one Metric MAY have multiple purpose classifications.
+#
+# 'quality' and the nine CR-MET-016 additions are the values the
+# candidate-metrics seed contributed. schemas/entity.schema.json carries the
+# enforced copy of this vocabulary.
 version: 1.0.0
 values:
-- id: performance
-  definition: Measures performance against objectives or targets
-- id: health
-  definition: Measures the health of an entity (operational, technical, organizational)
-- id: risk
-  definition: Measures risk exposure, drivers, or conditions
-- id: compliance
-  definition: Measures compliance with regulatory or policy requirements
 - id: adoption
-  definition: Measures adoption of a product, service, or capability
-- id: maturity
-  definition: Measures maturity against a defined model
-- id: satisfaction
-  definition: Measures customer or stakeholder satisfaction
-- id: efficiency
-  definition: Measures resource efficiency (cost per unit, throughput)
+  definition: "Measures adoption of a product, service, or capability"
+- id: capability
+  definition: "Capability purpose: the breadth or maturity of what an organisation can do."
+- id: capacity
+  definition: "Capacity purpose: the volume or ceiling of what can be produced or served."
+- id: compliance
+  definition: "Measures compliance with regulatory or policy requirements"
 - id: effectiveness
-  definition: Measures outcome effectiveness (output quality, goal achievement)
+  definition: "Measures outcome effectiveness (output quality, goal achievement)"
+- id: efficiency
+  definition: "Measures resource efficiency (cost per unit, throughput)"
+- id: engagement
+  definition: "Engagement purpose: the degree of active involvement or participation."
+- id: governance
+  definition: "Governance purpose: the degree to which work is directed, supervised and accountable."
+- id: growth
+  definition: "Growth purpose: the rate at which a measure increases over time."
+- id: health
+  definition: "Measures the health of an entity (operational, technical, organizational)"
+- id: maturity
+  definition: "Measures maturity against a defined model"
+- id: performance
+  definition: "Measures performance against objectives or targets"
+- id: quality
+  definition: "Measures the quality of a product, service, or outcome"
+- id: retention
+  definition: "Retention purpose: the proportion of a population that is kept."
+- id: risk
+  definition: "Measures risk exposure, drivers, or conditions"
+- id: satisfaction
+  definition: "Measures customer or stakeholder satisfaction"
+- id: strategy
+  definition: "Strategy purpose: the degree to which activity advances an objective."
+- id: sustainability
+  definition: "Sustainability purpose: the degree to which an activity is sustained without depleting its basis."
+- id: transformation
+  definition: "Transformation purpose: the degree of change an organisation has undergone."
 - id: value_delivery
-  definition: Measures value delivered to stakeholders
+  definition: "Measures value delivered to stakeholders"

@@ -1,0 +1,52 @@
+id: dea:metric-audit-findings-recurrence
+name: Audit Findings Recurrence
+type: Metric
+description: Audit Findings Recurrence (AFR) captures the quality of outputs and outcomes for organizations
+  tracking risk & compliance. Its calculation is Repeat Findings / Total Findings, measured in percent
+  (%). It informs long-horizon decisions and is typically tracked on enterprise dashboards rather than
+  team boards. Lower values are better; each reduction is an improvement. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: AFR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Repeat Findings / Total Findings
+formula_definition:
+  formula_id: dea:formula-audit-findings-recurrence
+  expression: Repeat Findings / Total Findings
+  inputs:
+  - name: Repeat Findings
+  - name: Total Findings
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 379
+    batch: '1'
+domain: risk_compliance

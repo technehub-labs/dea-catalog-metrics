@@ -1,0 +1,51 @@
+id: dea:metric-report-refresh-latency
+name: Report Refresh Latency
+type: Metric
+description: A Data Management & Analytics indicator, Report Refresh Latency (RRL) quantifies how efficiently
+  resources are converted into outputs. Its calculation is Time from Source Update to Dashboard Availability,
+  measured in hours. It is applied across virtually every sector. It provides the day-to-day signal that
+  a process is running as designed. Reduction is the goal, and sustained decreases indicate successful
+  intervention.
+abbreviation: RRL
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:DataEntity
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Time from Source Update to Dashboard Availability
+formula_definition:
+  formula_id: dea:formula-report-refresh-latency
+  expression: Time from Source Update to Dashboard Availability
+  inputs:
+  - name: Time from Source Update to Dashboard Availability
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 341
+    batch: '1'
+domain: data_management_analytics

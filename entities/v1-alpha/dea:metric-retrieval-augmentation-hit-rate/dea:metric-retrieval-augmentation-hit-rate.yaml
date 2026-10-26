@@ -1,0 +1,52 @@
+id: dea:metric-retrieval-augmentation-hit-rate
+name: Retrieval Augmentation Hit Rate
+type: Metric
+description: Within Generative AI & LLM Operations, Retrieval Augmentation Hit Rate (RAHR-LLM) is used
+  to gauge the quality of outputs and outcomes. Its calculation is Queries Returning Relevant Chunks /
+  Queries, measured in percent (%). It provides the day-to-day signal that a process is running as designed.
+  Higher values are better; gains are read as improvement and losses as deterioration. Its use is not
+  sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: RAHR-LLM
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Queries Returning Relevant Chunks / Queries
+formula_definition:
+  formula_id: dea:formula-retrieval-augmentation-hit-rate
+  expression: Queries Returning Relevant Chunks / Queries
+  inputs:
+  - name: Queries Returning Relevant Chunks
+  - name: Queries
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2542
+    batch: '7'
+domain: generative_ai_llm_operations

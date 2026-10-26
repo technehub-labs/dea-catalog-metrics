@@ -1,0 +1,53 @@
+id: dea:metric-euthanasia-to-death-ratio
+name: Euthanasia to Death Ratio
+type: Metric
+description: 'Euthanasia to Death Ratio (EDR) measures exposure to adverse outcomes in the Veterinary
+  & Animal Health domain. The formula is Planned Euthanasia / Total Deaths Recorded - reported in percent
+  (%). It guides mid-horizon planning: portfolio, program, and function owners act on it between review
+  cycles. It is managed toward a defined target band rather than an extreme - both overshoot and undershoot
+  can signal problems. It is a standard measure in the Healthcare sector.'
+abbreviation: EDR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Planned Euthanasia / Total Deaths Recorded
+formula_definition:
+  formula_id: dea:formula-euthanasia-to-death-ratio
+  expression: Planned Euthanasia / Total Deaths Recorded
+  inputs:
+  - name: Planned Euthanasia
+  - name: Total Deaths Recorded
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2033
+    batch: '6'
+domain: veterinary_animal_health
+sector: healthcare

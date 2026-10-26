@@ -1,0 +1,52 @@
+id: dea:metric-ai-governance-cost-per-model
+name: AI Governance Cost per Model
+type: Metric
+description: AI Governance Cost per Model (AIGCM) addresses how efficiently resources are converted into
+  outputs and is a fixture of ai governance & model risk management reporting. Its value drives prioritization
+  and resource reallocation among competing initiatives. Its calculation is Governance and Validation
+  Cost / Active Models, measured in currency value. It should be driven down, since lower readings signal
+  healthier performance. Practitioners in nearly any industry can adopt it directly.
+abbreviation: AIGCM
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Governance and Validation Cost / Active Models
+formula_definition:
+  formula_id: dea:formula-ai-governance-cost-per-model
+  expression: Governance and Validation Cost / Active Models
+  inputs:
+  - name: Governance and Validation Cost
+  - name: Active Models
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2511
+    batch: '7'
+domain: ai_governance_model_risk_management

@@ -1,0 +1,52 @@
+id: dea:metric-share-of-positive-coverage
+name: Share of Positive Coverage
+type: Metric
+description: A Corporate Communications & PR (Deep Dive) indicator, Share of Positive Coverage (SOPC)
+  quantifies the engagement or satisfaction of the people involved. The formula is Positive Stories /
+  Total Stories Monitored - reported in percent (%). It is applied across virtually every sector. It carries
+  weight in boardroom and executive reviews, where it anchors cross-organization trade-offs. It should
+  be maximized within the limits of cost and quality trade-offs.
+abbreviation: SOPC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- engagement
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Positive Stories / Total Stories Monitored
+formula_definition:
+  formula_id: dea:formula-share-of-positive-coverage
+  expression: Positive Stories / Total Stories Monitored
+  inputs:
+  - name: Positive Stories
+  - name: Total Stories Monitored
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2227
+    batch: '6'
+domain: corporate_communications_pr_deep_dive

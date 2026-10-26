@@ -1,0 +1,53 @@
+id: dea:metric-cac-payback-period-unit-economics
+name: CAC Payback Period (Unit Economics)
+type: Metric
+description: 'Within Unit Economics & Growth (Deep Dive), CAC Payback Period (Unit Economics) (CACPPD)
+  is used to gauge how efficiently resources are converted into outputs. It is computed as CAC / Monthly
+  Contribution Margin per Customer, expressed in months. It is a headline indicator: movement in it prompts
+  leadership questions about strategy and resourcing. Lower values are better; each reduction is an improvement.
+  Its use is concentrated in Software.'
+abbreviation: CACPPD
+unit: months
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-months
+source_credit: Public domain - no attribution required
+calculation_definition: CAC / Monthly Contribution Margin per Customer
+formula_definition:
+  formula_id: dea:formula-cac-payback-period-unit-economics
+  expression: CAC / Monthly Contribution Margin per Customer
+  inputs:
+  - name: CAC
+  - name: Monthly Contribution Margin per Customer
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-months
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4158
+    batch: '9'
+domain: unit_economics_growth_deep_dive
+sector: software

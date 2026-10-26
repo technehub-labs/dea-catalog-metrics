@@ -1,0 +1,51 @@
+id: dea:metric-near-miss-reporting-rate
+name: Near Miss Reporting Rate
+type: Metric
+description: Within Health & Safety, Near Miss Reporting Rate (NMRR) is used to gauge exposure to adverse
+  outcomes. It is computed as Near Misses Reported per 100 Employees, expressed in ratio (x:1 or x). It
+  is reviewed at cadence by planning owners to correct course before issues become strategic. Higher values
+  are better; gains are read as improvement and losses as deterioration. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: NMRR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Near Misses Reported per 100 Employees
+formula_definition:
+  formula_id: dea:formula-near-miss-reporting-rate
+  expression: Near Misses Reported per 100 Employees
+  inputs:
+  - name: Near Misses Reported per 100 Employees
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 400
+    batch: '1'
+domain: health_safety

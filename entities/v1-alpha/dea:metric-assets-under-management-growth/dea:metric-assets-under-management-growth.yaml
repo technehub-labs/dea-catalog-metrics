@@ -1,0 +1,53 @@
+id: dea:metric-assets-under-management-growth
+name: Assets Under Management Growth
+type: Metric
+description: Assets Under Management Growth (AUMG) captures growth over time for organizations tracking
+  banking & financial services. The formula is (AUM_current - AUM_prior) / AUM_prior - reported in percent
+  (%). It is a standard measure in the Financial services sector. It carries weight in boardroom and executive
+  reviews, where it anchors cross-organization trade-offs. It should be maximized within the limits of
+  cost and quality trade-offs.
+abbreviation: AUMG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- growth
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: (AUM_current - AUM_prior) / AUM_prior
+formula_definition:
+  formula_id: dea:formula-assets-under-management-growth
+  expression: (AUM_current - AUM_prior) / AUM_prior
+  inputs:
+  - name: AUM_current
+  - name: AUM_prior
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 53
+    batch: '1'
+domain: banking_financial_services
+sector: financial_services

@@ -1,0 +1,53 @@
+id: dea:metric-team-stability-index
+name: Team Stability Index
+type: Metric
+description: A Agile Delivery & Team Effectiveness indicator, Team Stability Index (TSI-AG) quantifies
+  capability maturity or development. It is defined as Team Composition Unchanged over Quarter / Team;
+  the result is stated in percent (%). It bridges daily operations and executive reporting, giving managers
+  a lever to pull within a quarter. It is managed toward a defined target band rather than an extreme
+  - both overshoot and undershoot can signal problems. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.
+abbreviation: TSI-AG
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Team Composition Unchanged over Quarter / Team
+formula_definition:
+  formula_id: dea:formula-team-stability-index
+  expression: Team Composition Unchanged over Quarter / Team
+  inputs:
+  - name: Team Composition Unchanged over Quarter
+  - name: Team
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2993
+    batch: '7'
+domain: agile_delivery_team_effectiveness

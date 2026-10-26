@@ -1,0 +1,52 @@
+id: dea:metric-promotion-equity-ratio
+name: Promotion Equity Ratio
+type: Metric
+description: Promotion Equity Ratio (PER-DEI) measures capability maturity or development in the Diversity,
+  Equity & Inclusion (Deep Dive) domain. Its calculation is Promotion Rates of Underrepresented vs Overall
+  Population, measured in ratio (x:1 or x). It informs long-horizon decisions and is typically tracked
+  on enterprise dashboards rather than team boards. It is managed toward a defined target band rather
+  than an extreme - both overshoot and undershoot can signal problems. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: PER-DEI
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Promotion Rates of Underrepresented vs Overall Population
+formula_definition:
+  formula_id: dea:formula-promotion-equity-ratio
+  expression: Promotion Rates of Underrepresented vs Overall Population
+  inputs:
+  - name: Promotion Rates of Underrepresented vs Overall Population
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3823
+    batch: '8'
+domain: diversity_equity_inclusion_deep_dive

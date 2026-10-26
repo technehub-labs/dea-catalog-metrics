@@ -1,0 +1,53 @@
+id: dea:metric-cost-per-ad-impression
+name: Cost per Ad-Impression
+type: Metric
+description: A Media & Entertainment indicator, Cost per Ad-Impression (CPM) quantifies how efficiently
+  resources are converted into outputs. Its calculation is Ad Campaign Cost / Impressions x 1,000, measured
+  in currency per unit. It provides the day-to-day signal that a process is running as designed. Lower
+  values are better; each reduction is an improvement. It originates from and is most used in Media &
+  entertainment practice.
+abbreviation: CPM
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Ad Campaign Cost / Impressions x 1,000
+formula_definition:
+  formula_id: dea:formula-cost-per-ad-impression
+  expression: Ad Campaign Cost / Impressions x 1,000
+  inputs:
+  - name: Ad Campaign Cost
+  - name: Impressions x 1,000
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 698
+    batch: '2'
+domain: media_entertainment
+sector: media_entertainment

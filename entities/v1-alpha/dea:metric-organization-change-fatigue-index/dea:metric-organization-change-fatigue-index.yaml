@@ -1,0 +1,51 @@
+id: dea:metric-organization-change-fatigue-index
+name: Organization Change Fatigue Index
+type: Metric
+description: Organization Change Fatigue Index (OCFI-OM) captures exposure to adverse outcomes for organizations
+  tracking operating model monitoring & design effectiveness. It is reviewed at cadence by planning owners
+  to correct course before issues become strategic. It is computed as Concurrent Major Changes per Unit,
+  expressed in count (items per period). It should be driven down, since lower readings signal healthier
+  performance. Practitioners in nearly any industry can adopt it directly.
+abbreviation: OCFI-OM
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Concurrent Major Changes per Unit
+formula_definition:
+  formula_id: dea:formula-organization-change-fatigue-index
+  expression: Concurrent Major Changes per Unit
+  inputs:
+  - name: Concurrent Major Changes per Unit
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3130
+    batch: '7'
+domain: operating_model_monitoring_design_effectiveness

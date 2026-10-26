@@ -1,0 +1,53 @@
+id: dea:metric-first-contact-resolution-claims
+name: First Contact Resolution (Claims)
+type: Metric
+description: First Contact Resolution (Claims) (FCR-C) captures how efficiently resources are converted
+  into outputs for organizations tracking insurance claims deep dive. It is computed as Claims Resolved
+  at First Contact / Claims, expressed in percent (%). Its use is concentrated in Insurance. Front-line
+  and delivery teams watch it in real time, as small deviations demand immediate correction. It should
+  be maximized within the limits of cost and quality trade-offs.
+abbreviation: FCR-C
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Claims Resolved at First Contact / Claims
+formula_definition:
+  formula_id: dea:formula-first-contact-resolution-claims
+  expression: Claims Resolved at First Contact / Claims
+  inputs:
+  - name: Claims Resolved at First Contact
+  - name: Claims
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1542
+    batch: '6'
+domain: insurance_claims_deep_dive
+sector: insurance

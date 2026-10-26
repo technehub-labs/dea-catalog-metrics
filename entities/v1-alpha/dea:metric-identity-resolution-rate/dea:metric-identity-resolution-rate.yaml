@@ -1,0 +1,52 @@
+id: dea:metric-identity-resolution-rate
+name: Identity Resolution Rate
+type: Metric
+description: A Marketing Attribution & Analytics indicator, Identity Resolution Rate (IRR-M) quantifies
+  capability maturity or development. It is reviewed at cadence by planning owners to correct course before
+  issues become strategic. It is computed as Touchpoints Resolved to Person / Total Touchpoints, expressed
+  in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners in
+  nearly any industry can adopt it directly.
+abbreviation: IRR-M
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:DataEntity
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Touchpoints Resolved to Person / Total Touchpoints
+formula_definition:
+  formula_id: dea:formula-identity-resolution-rate
+  expression: Touchpoints Resolved to Person / Total Touchpoints
+  inputs:
+  - name: Touchpoints Resolved to Person
+  - name: Total Touchpoints
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1497
+    batch: '5'
+domain: marketing_attribution_analytics

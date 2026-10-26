@@ -1,0 +1,53 @@
+id: dea:metric-budget-execution-rate
+name: Budget Execution Rate
+type: Metric
+description: Within Public Sector & Government, Budget Execution Rate (BER) is used to gauge conformance
+  to standards, plans, or obligations. It carries weight in boardroom and executive reviews, where it
+  anchors cross-organization trade-offs. The formula is Actual Spend / Approved Budget - reported in percent
+  (%). The objective is neither maximization nor minimization but staying within an agreed operating band.
+  It is a standard measure in the Public sector sector.
+abbreviation: BER
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Actual Spend / Approved Budget
+formula_definition:
+  formula_id: dea:formula-budget-execution-rate
+  expression: Actual Spend / Approved Budget
+  inputs:
+  - name: Actual Spend
+  - name: Approved Budget
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 632
+    batch: '2'
+domain: public_sector_government
+sector: public_sector

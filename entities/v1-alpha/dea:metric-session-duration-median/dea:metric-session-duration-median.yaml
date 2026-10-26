@@ -1,0 +1,52 @@
+id: dea:metric-session-duration-median
+name: Session Duration (Median)
+type: Metric
+description: A Web & Digital Analytics Standard Measures indicator, Session Duration (Median) (SESDUR)
+  quantifies the engagement or satisfaction of the people involved. Its calculation is Median Time on
+  Site per Session, measured in minutes. It provides the day-to-day signal that a process is running as
+  designed. It is managed toward a defined target band rather than an extreme - both overshoot and undershoot
+  can signal problems. It originates from and is most used in Digital product practice.
+abbreviation: SESDUR
+unit: minutes
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- engagement
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-minutes
+source_credit: Public domain - no attribution required
+calculation_definition: Median Time on Site per Session
+formula_definition:
+  formula_id: dea:formula-session-duration-median
+  expression: Median Time on Site per Session
+  inputs:
+  - name: Median Time on Site per Session
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-minutes
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4356
+    batch: '11'
+domain: web_digital_analytics_standard_measures
+sector: digital_product

@@ -6,12 +6,15 @@ If a gate fails, the test fails with the gate's findings.
 from __future__ import annotations
 
 import subprocess
+import sys
 from pathlib import Path
 
 import pytest
 
 BASE = Path(__file__).parent.parent
 SCRIPTS = BASE / "scripts"
+sys.path.insert(0, str(SCRIPTS))
+from _catalog import load_metrics, load_metric_paths  # noqa: E402
 
 GATES = [
     "check_metric_schema.py",
@@ -36,10 +39,60 @@ def test_gate_passes(gate):
     assert "0 findings" in result.stdout or "0 MECE" in result.stdout or "0 directionality" in result.stdout or "0 dual-anchor" in result.stdout
 
 
-def test_pilot_has_5_metrics():
+def test_corpus_matches_the_seed_workbook():
+    """CR-MET-016: the corpus must match the seed workbook exactly.
+
+    The seed carries 4428 metric rows. Five of them are records this catalog
+    admitted by another route, so those rows are reported as collisions rather
+    than ingested. Every other row must be present as a candidate record whose
+    provenance points back at the workbook row it came from.
+
+    This replaces the pilot-era assertion that the catalog holds exactly 5
+    records, which turned red on any addition (board card #588).
+    """
     from conftest import BASE  # type: ignore
-    n = sum(1 for _ in (BASE / "entities" / "v1-alpha").glob("*") if _.is_dir())
-    assert n == 5, f"CR-MET-009: pilot must have 5 metrics (got {n})"
+    import yaml
+    try:
+        import openpyxl
+    except ImportError:
+        pytest.skip("openpyxl not available; seed corpus check skipped")
+
+    seed = BASE / "seeds" / "open-deam-candidate-metrics-seed.xlsx"
+    if not seed.exists():
+        pytest.skip("seed workbook not present; seed corpus check skipped")
+    wb = openpyxl.load_workbook(seed, read_only=True, data_only=True)
+    ws = wb["Candidate Metrics"]
+    rows = ws.iter_rows(min_row=6, values_only=True)
+    header = [str(h).strip() if h is not None else "" for h in next(rows)]
+    data = [dict(zip(header, r)) for r in rows
+            if any(v is not None and str(v).strip() for v in r)]
+    wb.close()
+
+    expected = {str(r["metric_id"]).strip(): r for r in data}
+    records = {}
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+        records[p.parent.name] = yaml.safe_load(p.read_text())
+
+    seed_derived = {
+        mid: r for mid, r in records.items()
+        if (r.get("metadata") or {}).get("seed")
+    }
+    assert set(seed_derived) == set(expected) - {
+        mid for mid in expected
+        if mid in records and not (records[mid].get("metadata") or {}).get("seed")
+    }, "the seed-derived records do not match the workbook's metric ids"
+
+    # provenance: every record must point back at its own workbook row
+    for mid, r in seed_derived.items():
+        seed_meta = r["metadata"]["seed"]
+        assert seed_meta["workbook"] == "seeds/open-deam-candidate-metrics-seed.xlsx"
+        assert seed_meta["sheet"] == "Candidate Metrics"
+        row_number = seed_meta["row"]
+        source = expected[mid]
+        assert str(source["name"]).strip() == r["name"], (
+            f"{mid}: record name does not match the workbook row"
+        )
+        assert row_number >= 7, f"{mid}: provenance row {row_number} is inside the header block"
 
 
 def test_metamodel_pointer_migrated_to_performance_metric():
@@ -100,18 +153,33 @@ def test_schema_supersets_dea_metamodel_metric_json():
     import json
     catalog = json.loads((BASE / "schemas" / "entity.schema.json").read_text())
     required = set(catalog.get("required", []))
-    for field in ["id", "name", "type", "description", "version", "lifecycle_status",
-                  "subject_concept", "measurement_nature",
+    for field in ["id", "name", "type", "description", "abbreviation", "unit", "version", "lifecycle_status",
                   "subject_classification", "purpose_classification",
-                  "orientation_classification", "scope_classification",
+                  "scope_classification",
                   "directionality", "management_significance"]:
         assert field in required, \
             f"entity.schema.json required fields must include {field!r} (got {sorted(required)})"
 
+    # CR-MET-016: the admission-time fields are required of every record that
+    # is not a candidate. They live in the schema's allOf/else branch, so the
+    # base required set alone no longer proves them.
+    admitted_extra = set()
+    for clause in catalog.get("allOf", []):
+        admitted_extra |= set((clause.get("else") or {}).get("required", []))
+    for field in ["subject_concept", "measurement_nature",
+                  "orientation_classification", "measurement_nature_detail"]:
+        assert field in admitted_extra, (
+            f"entity.schema.json must require {field!r} for non-candidate records "
+            f"(got {sorted(admitted_extra)})"
+        )
+
     upstream = _norm_metamodel_required()
     if upstream is None:
         pytest.skip("dea-metamodel checkout not available; upstream superset check skipped")
-    missing = sorted(upstream - required)
+    # CR-MET-016: the schema's required set is lifecycle-aware. An admitted
+    # record must carry the base fields AND the admission-time fields, so the
+    # set the catalog guarantees for an admitted record is the union.
+    missing = sorted(upstream - (required | admitted_extra))
     assert not missing, (
         "schemas/entity.schema.json no longer covers the normative fields "
         f"{missing}; dea-metamodel/schemas/entities/metric.json now requires "
@@ -157,8 +225,7 @@ def test_readme_definition_matches_description():
     prose surfaces cannot diverge silently (board card #602)."""
     import re
     import yaml
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
-        m = yaml.safe_load(p.read_text())
+    for p, m in load_metric_paths():
         desc = m.get("description")
         assert desc, f"{m['id']}: missing required description (CR-MET-014)"
         readme = (p.parent / "README.md").read_text()
@@ -207,8 +274,7 @@ def test_stored_records_use_canonical_names_only():
     carries both spellings of one field."""
     import yaml
     aliases = _alias_map()
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
-        m = yaml.safe_load(p.read_text())
+    for _mid, m in load_metrics():
         for alias, canonical in aliases.items():
             assert alias not in m, f"{m['id']}: stored record uses alias {alias!r} instead of {canonical!r}"
             assert not (alias in m and canonical in m), f"{m['id']}: carries both {alias!r} and {canonical!r}"
@@ -217,8 +283,7 @@ def test_stored_records_use_canonical_names_only():
 def test_abbreviation_matches_formula_short_form():
     """CR-MET-015 D2: abbreviation equals the left-hand variable of the formula."""
     import yaml
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
-        m = yaml.safe_load(p.read_text())
+    for _mid, m in load_metrics():
         if m.get("lifecycle_status") != "admitted":
             continue
         expression = ((m.get("formula_definition") or {}).get("expression") or "")
@@ -233,8 +298,7 @@ def test_abbreviation_matches_formula_short_form():
 def test_unit_is_coherent_with_unit_ref():
     """CR-MET-015 D3: unit_ref is dea:unit-<unit> or dea:unit-ratio-<unit>."""
     import yaml
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
-        m = yaml.safe_load(p.read_text())
+    for _mid, m in load_metrics():
         if m.get("lifecycle_status") != "admitted":
             continue
         unit_ref, unit = m.get("unit_ref"), m.get("unit")
@@ -247,10 +311,16 @@ def test_unit_is_coherent_with_unit_ref():
 
 
 def test_source_credit_is_among_measurement_evidence():
-    """CR-MET-015 D5: a credit that is not evidence is rejected."""
+    """CR-MET-015 D5: a credit that is not evidence is rejected.
+
+    CR-MET-016: the rule binds admitted records. A candidate carries the
+    credit its source published, and the evidence that backs it is a
+    requirement of admission, not of candidacy.
+    """
     import yaml
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
-        m = yaml.safe_load(p.read_text())
+    for _mid, m in load_metrics():
+        if m.get("lifecycle_status") != "admitted":
+            continue
         credit = m.get("source_credit")
         if not credit:
             continue

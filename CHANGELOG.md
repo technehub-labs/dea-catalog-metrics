@@ -7,6 +7,25 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 ### Added
+- CR-MET-016: seed ingestion and the 4428-record corpus. The
+  candidate-metrics seed workbook is committed at
+  `seeds/open-deam-candidate-metrics-seed.xlsx` (sha-256
+  `f037b8d3dfeb48538715e975492f4a864f56bfd58d66bed99afcad222a7af1c4`),
+  and `scripts/ingest_seed.py` maps its fields and values onto the catalog
+  schema through `classifications/field-aliases.yaml` and
+  `classifications/seed-value-maps.yaml`. 4423 candidate records were
+  ingested; 5 seed rows collide with the admitted pilot and are reported
+  rather than written. A seed value with no mapping stops the ingestion.
+- CR-MET-016: `scripts/report_coverage.py` reports how the corpus is
+  distributed across the classification axes, the domains and the sectors. A
+  report, not a gate.
+- CR-MET-016: `scripts/_catalog.py`, a shared corpus loader using libyaml when
+  the interpreter has it. Measured on this host, the schema gate went from
+  23.8s to 2.8s, the measurement-conformance gate from 22.7s to 1.5s, and the
+  MECE gate from 11.8s to 1.5s. A full eight-gate run is about 25s at 4428
+  records.
+- CR-MET-016: CI installs `openpyxl`, checks the corpus against the seed
+  workbook, and prints the coverage report.
 - CR-MET-015: five field dimensions added to the catalog Metric schema.
   `abbreviation` and `unit` are required; `domain`, `sector`, and
   `source_credit` are optional. `abbreviation` must equal the left-hand
@@ -64,6 +83,29 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   upstream file, so upstream drift could not fail it.
 
 ### Changed
+- CR-MET-016: the schema's required set is lifecycle-aware. A `candidate`
+  record must carry the 15 fields the source provides; any other lifecycle
+  must carry those plus the 4 admission fields (`subject_concept`,
+  `measurement_nature`, `orientation_classification`,
+  `measurement_nature_detail`). The seed has no column for any of them, so
+  requiring them of a candidate would have meant inventing them for 4423
+  records.
+- CR-MET-016: the id pattern allows a leading digit (2 seed ids begin with
+  one) and the abbreviation pattern allows letters in either case, digits, and
+  the characters `% * / : . -` (1362 seed short forms use them). Both patterns
+  were derived from the data's own character set.
+- CR-MET-016: the subject vocabulary gained `operations` and `risk`, and the
+  purpose vocabulary gained 9 values. Collapsing them would have thrown away
+  the classification signal across 4423 records. The schema's enums and the
+  `classifications/` vocabulary files are now identical for all five axes;
+  they were not (the schema's purpose enum carried `quality` and the
+  vocabulary file did not).
+- CR-MET-016: the seed's formulas declare their operands, read off the
+  published expression by splitting on the arithmetic and comparison
+  operators. Without this the formula namespace gate reported 4423 unbound
+  expressions, which made the finding meaningless.
+- CR-MET-016: the pilot-count assertion is replaced by a corpus check that
+  reads the workbook and asserts the id set and each record's provenance row.
 - `metamodel-pointer.yaml` migrated: `dea:entity-metric` -> `dea:PerformanceMetric`
   (CR-MET-001 re-membershiped canonical Metric).
 - `legacy_ids` field added to metamodel-pointer to preserve historical references.
@@ -75,6 +117,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - README and CONTRIBUTING now state the metamodel binding, the
   `measurement-dimension` placement, and the rule that the catalog must not
   redefine the normative entity.
+
+### Known gaps
+- The MTTR unit disagreement between the seed and the catalog is unresolved:
+  the seed measures Mean Time to Recovery in hours, the catalog in minutes.
+  The admitted record wins and is unchanged. This is Q18 in CR-MET-016.
 
 ### Fixed
 - CR-MET-014: `scripts/regenerate_catalog.py` no longer stamps the run date

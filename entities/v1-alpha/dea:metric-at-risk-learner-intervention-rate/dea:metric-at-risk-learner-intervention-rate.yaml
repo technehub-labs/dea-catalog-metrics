@@ -1,0 +1,54 @@
+id: dea:metric-at-risk-learner-intervention-rate
+name: At-Risk Learner Intervention Rate
+type: Metric
+description: 'At-Risk Learner Intervention Rate (ALIR) measures the quality of outputs and outcomes in
+  the Education & Training (Deep Dive) domain. It guides mid-horizon planning: portfolio, program, and
+  function owners act on it between review cycles. The formula is At-Risk Learners Receiving Support /
+  Identified - reported in percent (%). Improvement means raising this figure toward best-in-class levels.
+  It is a standard measure in the Education sector.'
+abbreviation: ALIR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: At-Risk Learners Receiving Support / Identified
+formula_definition:
+  formula_id: dea:formula-at-risk-learner-intervention-rate
+  expression: At-Risk Learners Receiving Support / Identified
+  inputs:
+  - name: At
+  - name: Risk Learners Receiving Support
+  - name: Identified
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2072
+    batch: '6'
+domain: education_training_deep_dive
+sector: education

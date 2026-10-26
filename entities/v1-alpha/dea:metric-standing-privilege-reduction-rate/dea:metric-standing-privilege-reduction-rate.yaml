@@ -1,0 +1,55 @@
+id: dea:metric-standing-privilege-reduction-rate
+name: Standing Privilege Reduction Rate
+type: Metric
+description: Within Identity & Access Management Operations, Standing Privilege Reduction Rate (SPRR)
+  is used to gauge exposure to adverse outcomes. It is defined as Just-in-Time Access Grants / Privileged
+  Access Grants; the result is stated in percent (%). Its trend is watched by senior leadership as an
+  early signal of structural performance shifts. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: SPRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Just-in-Time Access Grants / Privileged Access Grants
+formula_definition:
+  formula_id: dea:formula-standing-privilege-reduction-rate
+  expression: Just-in-Time Access Grants / Privileged Access Grants
+  inputs:
+  - name: Just
+  - name: in
+  - name: Time Access Grants
+  - name: Privileged Access Grants
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2820
+    batch: '7'
+domain: identity_access_management_operations

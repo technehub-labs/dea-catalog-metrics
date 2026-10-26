@@ -1,0 +1,52 @@
+id: dea:metric-tolerance-compliance-yield
+name: Tolerance Compliance Yield
+type: Metric
+description: 'Within Engineering & Design, Tolerance Compliance Yield (TCY) is used to gauge the quality
+  of outputs and outcomes. The formula is Dimensions within Tolerance / Dimensions Measured - reported
+  in percent (%). It is applied across virtually every sector. It is monitored close to the work: teams
+  act on it within a shift, sprint, or daily review. It should be maximized within the limits of cost
+  and quality trade-offs.'
+abbreviation: TCY
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Dimensions within Tolerance / Dimensions Measured
+formula_definition:
+  formula_id: dea:formula-tolerance-compliance-yield
+  expression: Dimensions within Tolerance / Dimensions Measured
+  inputs:
+  - name: Dimensions within Tolerance
+  - name: Dimensions Measured
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1766
+    batch: '6'
+domain: engineering_design

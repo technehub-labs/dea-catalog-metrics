@@ -14,22 +14,34 @@
     "unit",
     "version",
     "lifecycle_status",
-    "subject_concept",
-    "measurement_nature",
     "subject_classification",
     "purpose_classification",
-    "orientation_classification",
     "scope_classification",
     "directionality",
     "management_significance",
-    "measurement_nature_detail",
     "measurable_entity_kind",
     "reputability_tier"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": { "lifecycle_status": { "const": "candidate" } },
+        "required": ["lifecycle_status"]
+      },
+      "else": {
+        "required": [
+          "subject_concept",
+          "measurement_nature",
+          "orientation_classification",
+          "measurement_nature_detail"
+        ]
+      }
+    }
   ],
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^dea:metric-[a-z][a-z0-9-]*$",
+      "pattern": "^dea:metric-[a-z0-9][a-z0-9-]*$",
       "description": "Catalog-internal entity id; canonical Metric id pattern (dea:metric-<slug>)."
     },
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
@@ -42,7 +54,7 @@
     },
     "abbreviation": {
       "type": "string",
-      "pattern": "^[A-Z][A-Z0-9]{1,9}$",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9%*/:.-]{1,19}$",
       "description": "CR-MET-015: the Metric's short form. Must equal the left-hand variable of formula_definition.expression for admitted records; the formula namespace gate (check_formula_namespace.py) guards the form's meaning."
     },
     "unit": {
@@ -83,12 +95,12 @@
     },
     "subject_classification": {
       "type": "array",
-      "items": { "type": "string", "enum": ["strategy", "organization", "customer", "product_or_service", "business_architecture", "value_architecture", "information_architecture", "technology_architecture", "governance", "transformation", "sustainability", "capability", "financial"] },
+      "items": { "type": "string", "enum": ["strategy", "organization", "customer", "product_or_service", "business_architecture", "value_architecture", "information_architecture", "technology_architecture", "governance", "transformation", "sustainability", "capability", "financial", "operations", "risk"] },
       "description": "CR-MET-002 binding; 13 subjects."
     },
     "purpose_classification": {
       "type": "array",
-      "items": { "type": "string", "enum": ["performance", "health", "risk", "compliance", "adoption", "maturity", "satisfaction", "efficiency", "effectiveness", "value_delivery", "quality"] }
+      "items": { "type": "string", "enum": ["performance", "health", "risk", "compliance", "adoption", "maturity", "satisfaction", "efficiency", "effectiveness", "value_delivery", "quality", "capability", "capacity", "engagement", "governance", "growth", "retention", "strategy", "sustainability", "transformation"] }
     },
     "orientation_classification": {
       "type": "string",

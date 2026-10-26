@@ -1,0 +1,53 @@
+id: dea:metric-personal-training-attach-rate-deep-dive
+name: Personal Training Attach Rate (Deep Dive)
+type: Metric
+description: Personal Training Attach Rate (Deep Dive) (PTAR-D) captures growth over time for organizations
+  tracking fitness & wellness (deep dive). It is computed as Members with PT Sessions / Members, expressed
+  in percent (%). Its use is concentrated in Health & Fitness. It is reviewed at cadence by planning owners
+  to correct course before issues become strategic. It should be maximized within the limits of cost and
+  quality trade-offs.
+abbreviation: PTAR-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- growth
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Members with PT Sessions / Members
+formula_definition:
+  formula_id: dea:formula-personal-training-attach-rate-deep-dive
+  expression: Members with PT Sessions / Members
+  inputs:
+  - name: Members with PT Sessions
+  - name: Members
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2011
+    batch: '6'
+domain: fitness_wellness_deep_dive
+sector: health_fitness

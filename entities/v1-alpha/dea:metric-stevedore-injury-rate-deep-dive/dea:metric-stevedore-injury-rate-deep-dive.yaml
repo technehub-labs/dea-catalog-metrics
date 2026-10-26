@@ -1,0 +1,52 @@
+id: dea:metric-stevedore-injury-rate-deep-dive
+name: Stevedore Injury Rate (Deep Dive)
+type: Metric
+description: A Maritime Shipping (Deep Dive) indicator, Stevedore Injury Rate (Deep Dive) (SIR-D) quantifies
+  exposure to adverse outcomes. The formula is Injuries per 200,000 Hours - reported in events per thousand
+  or million (scaled). It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. Lower values are better; each reduction is an improvement. It is a standard measure in the
+  Maritime sector.
+abbreviation: SIR-D
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Injuries per 200,000 Hours
+formula_definition:
+  formula_id: dea:formula-stevedore-injury-rate-deep-dive
+  expression: Injuries per 200,000 Hours
+  inputs:
+  - name: Injuries per 200,000 Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2440
+    batch: '6'
+domain: maritime_shipping_deep_dive
+sector: maritime

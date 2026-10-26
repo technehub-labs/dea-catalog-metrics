@@ -1,0 +1,52 @@
+id: dea:metric-customer-digital-preference-share
+name: Customer Digital Preference Share
+type: Metric
+description: A Digital Transformation indicator, Customer Digital Preference Share (CDPS) quantifies growth
+  over time. Its trend is watched by senior leadership as an early signal of structural performance shifts.
+  It is defined as Customers Choosing Digital Channel for Key Journey / Customers; the result is stated
+  in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners in
+  nearly any industry can adopt it directly.
+abbreviation: CDPS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- transformation
+purpose_classification:
+- growth
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Customers Choosing Digital Channel for Key Journey / Customers
+formula_definition:
+  formula_id: dea:formula-customer-digital-preference-share
+  expression: Customers Choosing Digital Channel for Key Journey / Customers
+  inputs:
+  - name: Customers Choosing Digital Channel for Key Journey
+  - name: Customers
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1314
+    batch: '5'
+domain: digital_transformation

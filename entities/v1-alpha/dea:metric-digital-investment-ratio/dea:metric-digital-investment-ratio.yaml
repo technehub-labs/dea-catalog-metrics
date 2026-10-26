@@ -1,0 +1,52 @@
+id: dea:metric-digital-investment-ratio
+name: Digital Investment Ratio
+type: Metric
+description: 'Within Digital Transformation, Digital Investment Ratio (DIR) is used to gauge the economic
+  value created or preserved. It is computed as Digital Initiative Spend / Total Change Spend, expressed
+  in percent (%). It is applied across virtually every sector. It is a headline indicator: movement in
+  it prompts leadership questions about strategy and resourcing. Values outside the intended band, on
+  either side, warrant investigation.'
+abbreviation: DIR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- transformation
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Digital Initiative Spend / Total Change Spend
+formula_definition:
+  formula_id: dea:formula-digital-investment-ratio
+  expression: Digital Initiative Spend / Total Change Spend
+  inputs:
+  - name: Digital Initiative Spend
+  - name: Total Change Spend
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1317
+    batch: '5'
+domain: digital_transformation

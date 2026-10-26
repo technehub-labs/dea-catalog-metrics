@@ -1,0 +1,53 @@
+id: dea:metric-value-stream-cycle-time-deep-dive
+name: Value Stream Cycle Time (Deep Dive)
+type: Metric
+description: A Operating Model Monitoring & Design Effectiveness indicator, Value Stream Cycle Time (Deep
+  Dive) (VSCT-D) quantifies how efficiently resources are converted into outputs. It informs long-horizon
+  decisions and is typically tracked on enterprise dashboards rather than team boards. Its calculation
+  is End-to-End Time across Value Stream, measured in days. It should be driven down, since lower readings
+  signal healthier performance. Practitioners in nearly any industry can adopt it directly.
+abbreviation: VSCT-D
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: End-to-End Time across Value Stream
+formula_definition:
+  formula_id: dea:formula-value-stream-cycle-time-deep-dive
+  expression: End-to-End Time across Value Stream
+  inputs:
+  - name: End
+  - name: to
+  - name: End Time across Value Stream
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3115
+    batch: '7'
+domain: operating_model_monitoring_design_effectiveness

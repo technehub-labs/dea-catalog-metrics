@@ -1,0 +1,51 @@
+id: dea:metric-project-manager-span-of-control
+name: Project Manager Span of Control
+type: Metric
+description: Project Manager Span of Control (PMSOC) measures the utilization or availability of capacity
+  in the Project Management (Deep Dive) domain. It bridges daily operations and executive reporting, giving
+  managers a lever to pull within a quarter. It is defined as Concurrent Projects per Manager; the result
+  is stated in count (items per period). The objective is neither maximization nor minimization but staying
+  within an agreed operating band. Practitioners in nearly any industry can adopt it directly.
+abbreviation: PMSOC
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Concurrent Projects per Manager
+formula_definition:
+  formula_id: dea:formula-project-manager-span-of-control
+  expression: Concurrent Projects per Manager
+  inputs:
+  - name: Concurrent Projects per Manager
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2948
+    batch: '7'
+domain: project_management_deep_dive

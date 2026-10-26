@@ -7,25 +7,22 @@ CR-MET-002 binding; CR-MET-009 Q14 disposition.
 from __future__ import annotations
 
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import load_metrics  # noqa: E402
+
+import sys
 from collections import defaultdict
 from pathlib import Path
 
-import yaml
 
 BASE = Path(__file__).parent.parent
 ENTITIES_DIR = BASE / "entities"
 
 
-def _load_metrics():
-    metrics = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
-        if path.parent.name.startswith("dea:metric-"):
-            metrics.append((path.parent.name, yaml.safe_load(path.read_text())))
-    return metrics
-
-
 def main():
-    metrics = _load_metrics()
+    metrics = load_metrics()
     findings = []
     sig_index = defaultdict(list)
     for mid, m in metrics:

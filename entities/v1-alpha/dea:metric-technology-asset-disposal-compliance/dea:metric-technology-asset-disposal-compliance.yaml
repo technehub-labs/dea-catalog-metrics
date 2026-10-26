@@ -1,0 +1,52 @@
+id: dea:metric-technology-asset-disposal-compliance
+name: Technology Asset Disposal Compliance
+type: Metric
+description: A IT Financial Management & Technology Budgeting indicator, Technology Asset Disposal Compliance
+  (TADC-ITFM) quantifies conformance to standards, plans, or obligations. Front-line and delivery teams
+  watch it in real time, as small deviations demand immediate correction. It is computed as Assets Disposed
+  per Policy / Disposals, expressed in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: TADC-ITFM
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Assets Disposed per Policy / Disposals
+formula_definition:
+  formula_id: dea:formula-technology-asset-disposal-compliance
+  expression: Assets Disposed per Policy / Disposals
+  inputs:
+  - name: Assets Disposed per Policy
+  - name: Disposals
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3185
+    batch: '7'
+domain: it_financial_management_technology_budgeting

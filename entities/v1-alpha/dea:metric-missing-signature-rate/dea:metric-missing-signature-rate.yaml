@@ -1,0 +1,53 @@
+id: dea:metric-missing-signature-rate
+name: Missing Signature Rate
+type: Metric
+description: Missing Signature Rate (MSR-CL) addresses exposure to adverse outcomes and is a fixture of
+  contract lifecycle management reporting. It is computed as Counterparty-Unsigned Contracts in Force
+  / Contracts Sampled, expressed in percent (%). Front-line and delivery teams watch it in real time,
+  as small deviations demand immediate correction. Lower values are better; each reduction is an improvement.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: MSR-CL
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Counterparty-Unsigned Contracts in Force / Contracts Sampled
+formula_definition:
+  formula_id: dea:formula-missing-signature-rate
+  expression: Counterparty-Unsigned Contracts in Force / Contracts Sampled
+  inputs:
+  - name: Counterparty
+  - name: Unsigned Contracts in Force
+  - name: Contracts Sampled
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3705
+    batch: '8'
+domain: contract_lifecycle_management

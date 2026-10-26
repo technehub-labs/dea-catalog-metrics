@@ -1,0 +1,53 @@
+id: dea:metric-smart-meter-installation-rate
+name: Smart Meter Installation Rate
+type: Metric
+description: Smart Meter Installation Rate (SMIR) addresses capability maturity or development and is
+  a fixture of utilities customer operations reporting. Its trend is watched by senior leadership as an
+  early signal of structural performance shifts. It is defined as Smart Meters Installed / Meters in Service;
+  the result is stated in percent (%). Improvement means raising this figure toward best-in-class levels.
+  In Utilities, it is a recognized element of the standard performance toolkit.
+abbreviation: SMIR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Smart Meters Installed / Meters in Service
+formula_definition:
+  formula_id: dea:formula-smart-meter-installation-rate
+  expression: Smart Meters Installed / Meters in Service
+  inputs:
+  - name: Smart Meters Installed
+  - name: Meters in Service
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 961
+    batch: '3'
+domain: utilities_customer_operations
+sector: utilities

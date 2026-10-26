@@ -1,0 +1,53 @@
+id: dea:metric-legal-matter-cost-variance
+name: Legal Matter Cost Variance
+type: Metric
+description: Within Legal Operations, Legal Matter Cost Variance (LMCV) is used to gauge how efficiently
+  resources are converted into outputs. It is defined as Actual Matter Cost - Budgeted Cost / Budget;
+  the result is stated in percent (%). It is applied across virtually every sector. It bridges daily operations
+  and executive reporting, giving managers a lever to pull within a quarter. Values outside the intended
+  band, on either side, warrant investigation.
+abbreviation: LMCV
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Actual Matter Cost - Budgeted Cost / Budget
+formula_definition:
+  formula_id: dea:formula-legal-matter-cost-variance
+  expression: Actual Matter Cost - Budgeted Cost / Budget
+  inputs:
+  - name: Actual Matter Cost
+  - name: Budgeted Cost
+  - name: Budget
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1685
+    batch: '6'
+domain: legal_operations

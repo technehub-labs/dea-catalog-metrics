@@ -1,0 +1,54 @@
+id: dea:metric-threat-model-refresh-currency
+name: Threat Model Refresh Currency
+type: Metric
+description: 'A Threat Intelligence & Red Team indicator, Threat Model Refresh Currency (TMFC) quantifies
+  conformance to standards, plans, or obligations. The formula is Threat Models Refreshed within 12 Months
+  / In-Scope Systems - reported in percent (%). It guides mid-horizon planning: portfolio, program, and
+  function owners act on it between review cycles. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.'
+abbreviation: TMFC
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Threat Models Refreshed within 12 Months / In-Scope Systems
+formula_definition:
+  formula_id: dea:formula-threat-model-refresh-currency
+  expression: Threat Models Refreshed within 12 Months / In-Scope Systems
+  inputs:
+  - name: Threat Models Refreshed within 12 Months
+  - name: In
+  - name: Scope Systems
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3301
+    batch: '7'
+domain: threat_intelligence_red_team

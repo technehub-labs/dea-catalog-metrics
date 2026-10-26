@@ -1,0 +1,51 @@
+id: dea:metric-gig-quality-score
+name: Gig Quality Score
+type: Metric
+description: Within Gig & Contingent Workforce, Gig Quality Score (GQS) is used to gauge the quality of
+  outputs and outcomes. It is computed as Average Quality Rating of Completed Tasks, expressed in score
+  (points). It is applied across virtually every sector. Front-line and delivery teams watch it in real
+  time, as small deviations demand immediate correction. It should be maximized within the limits of cost
+  and quality trade-offs.
+abbreviation: GQS
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Public domain - no attribution required
+calculation_definition: Average Quality Rating of Completed Tasks
+formula_definition:
+  formula_id: dea:formula-gig-quality-score
+  expression: Average Quality Rating of Completed Tasks
+  inputs:
+  - name: Average Quality Rating of Completed Tasks
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1463
+    batch: '5'
+domain: gig_contingent_workforce

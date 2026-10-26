@@ -1,0 +1,52 @@
+id: dea:metric-attribution-residual
+name: Attribution Residual
+type: Metric
+description: Attribution Residual (ATTR) addresses the quality of outputs and outcomes and is a fixture
+  of investment performance measurement reporting. It is computed as Unexplained Return after Factor Attribution,
+  expressed in percent (%). It is reviewed at cadence by planning owners to correct course before issues
+  become strategic. It is managed toward a defined target band rather than an extreme - both overshoot
+  and undershoot can signal problems. Its use is concentrated in Investment management.
+abbreviation: ATTR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Unexplained Return after Factor Attribution
+formula_definition:
+  formula_id: dea:formula-attribution-residual
+  expression: Unexplained Return after Factor Attribution
+  inputs:
+  - name: Unexplained Return after Factor Attribution
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3449
+    batch: '7'
+domain: investment_performance_measurement
+sector: investment_management

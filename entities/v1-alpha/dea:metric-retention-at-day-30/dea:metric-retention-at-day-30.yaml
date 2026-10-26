@@ -1,0 +1,52 @@
+id: dea:metric-retention-at-day-30
+name: Retention at Day 30
+type: Metric
+description: Within Product Management, Retention at Day 30 (R30) is used to gauge the retention of customers,
+  users, or assets over time. Its trend is watched by senior leadership as an early signal of structural
+  performance shifts. It is defined as Users Active on Day 30 / Users in Cohort; the result is stated
+  in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners in
+  nearly any industry can adopt it directly.
+abbreviation: R30
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- retention
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Users Active on Day 30 / Users in Cohort
+formula_definition:
+  formula_id: dea:formula-retention-at-day-30
+  expression: Users Active on Day 30 / Users in Cohort
+  inputs:
+  - name: Users Active on Day 30
+  - name: Users in Cohort
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 558
+    batch: '1'
+domain: product_management

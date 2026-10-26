@@ -1,0 +1,52 @@
+id: dea:metric-energy-cost-ratio-to-output
+name: Energy Cost Ratio to Output
+type: Metric
+description: 'A Operations Energy Management indicator, Energy Cost Ratio to Output (ECRO) quantifies
+  how efficiently resources are converted into outputs. It is computed as Total Energy Cost / Units of
+  Output, expressed in currency per unit. It is a headline indicator: movement in it prompts leadership
+  questions about strategy and resourcing. Lower values are better; each reduction is an improvement.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: ECRO
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- sustainability
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Total Energy Cost / Units of Output
+formula_definition:
+  formula_id: dea:formula-energy-cost-ratio-to-output
+  expression: Total Energy Cost / Units of Output
+  inputs:
+  - name: Total Energy Cost
+  - name: Units of Output
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1430
+    batch: '5'
+domain: operations_energy_management

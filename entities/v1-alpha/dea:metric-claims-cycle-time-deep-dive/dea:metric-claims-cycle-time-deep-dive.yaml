@@ -1,0 +1,52 @@
+id: dea:metric-claims-cycle-time-deep-dive
+name: Claims Cycle Time (Deep Dive)
+type: Metric
+description: Claims Cycle Time (Deep Dive) (CCT-D) captures how efficiently resources are converted into
+  outputs for organizations tracking insurance claims deep dive. It informs long-horizon decisions and
+  is typically tracked on enterprise dashboards rather than team boards. Its calculation is Days from
+  First Notification to Claim Closure, measured in days. It should be driven down, since lower readings
+  signal healthier performance. It originates from and is most used in Insurance practice.
+abbreviation: CCT-D
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days from First Notification to Claim Closure
+formula_definition:
+  formula_id: dea:formula-claims-cycle-time-deep-dive
+  expression: Days from First Notification to Claim Closure
+  inputs:
+  - name: Days from First Notification to Claim Closure
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1541
+    batch: '6'
+domain: insurance_claims_deep_dive
+sector: insurance

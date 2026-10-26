@@ -1,0 +1,52 @@
+id: dea:metric-mdm-cost-per-million-records
+name: MDM Cost per Million Records
+type: Metric
+description: MDM Cost per Million Records (MDMCPR) measures how efficiently resources are converted into
+  outputs in the Master Data Management domain. It is computed as Annual MDM Spend / Records in Millions,
+  expressed in currency per unit. It is applied across virtually every sector. It is reviewed at cadence
+  by planning owners to correct course before issues become strategic. Reduction is the goal, and sustained
+  decreases indicate successful intervention.
+abbreviation: MDMCPR
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Annual MDM Spend / Records in Millions
+formula_definition:
+  formula_id: dea:formula-mdm-cost-per-million-records
+  expression: Annual MDM Spend / Records in Millions
+  inputs:
+  - name: Annual MDM Spend
+  - name: Records in Millions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3654
+    batch: '8'
+domain: master_data_management

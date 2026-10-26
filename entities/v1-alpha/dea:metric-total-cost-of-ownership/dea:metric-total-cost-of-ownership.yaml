@@ -1,0 +1,54 @@
+id: dea:metric-total-cost-of-ownership
+name: Total Cost of Ownership
+type: Metric
+description: A Finance & Accounting indicator, Total Cost of Ownership (TCO) quantifies the economic value
+  created or preserved. Its value drives prioritization and resource reallocation among competing initiatives.
+  Its calculation is Purchase Price + Operating Costs + Maintenance Costs - Residual Value, measured in
+  currency value. It should be driven down, since lower readings signal healthier performance. Practitioners
+  in nearly any industry can adopt it directly.
+abbreviation: TCO
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Purchase Price + Operating Costs + Maintenance Costs - Residual Value
+formula_definition:
+  formula_id: dea:formula-total-cost-of-ownership
+  expression: Purchase Price + Operating Costs + Maintenance Costs - Residual Value
+  inputs:
+  - name: Purchase Price
+  - name: Operating Costs
+  - name: Maintenance Costs
+  - name: Residual Value
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 32
+    batch: '1'
+domain: finance_accounting

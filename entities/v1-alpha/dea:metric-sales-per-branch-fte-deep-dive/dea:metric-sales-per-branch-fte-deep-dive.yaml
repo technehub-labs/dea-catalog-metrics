@@ -1,0 +1,53 @@
+id: dea:metric-sales-per-branch-fte-deep-dive
+name: Sales per Branch FTE (Deep Dive)
+type: Metric
+description: Within Retail Banking Branch Network (Deep Dive), Sales per Branch FTE (Deep Dive) (SPBF-D)
+  is used to gauge how efficiently resources are converted into outputs. Its value drives prioritization
+  and resource reallocation among competing initiatives. Its calculation is Products Sold / Branch FTE,
+  measured in count (items per period). Improvement means raising this figure toward best-in-class levels.
+  It originates from and is most used in Banking practice.
+abbreviation: SPBF-D
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Products Sold / Branch FTE
+formula_definition:
+  formula_id: dea:formula-sales-per-branch-fte-deep-dive
+  expression: Products Sold / Branch FTE
+  inputs:
+  - name: Products Sold
+  - name: Branch FTE
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2121
+    batch: '6'
+domain: retail_banking_branch_network_deep_dive
+sector: banking

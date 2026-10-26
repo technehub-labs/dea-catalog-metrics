@@ -1,0 +1,52 @@
+id: dea:metric-marketing-qualified-lead-to-sales-accepted-ratio
+name: Marketing Qualified Lead to Sales Accepted Ratio
+type: Metric
+description: A Marketing & Advertising Standard Measures (Deep Dive) indicator, Marketing Qualified Lead
+  to Sales Accepted Ratio (MQSAR) quantifies the quality of outputs and outcomes. Its calculation is SALs
+  / MQLs, measured in percent (%). Its value drives prioritization and resource reallocation among competing
+  initiatives. Higher values are better; gains are read as improvement and losses as deterioration. Its
+  use is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: MQSAR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: SALs / MQLs
+formula_definition:
+  formula_id: dea:formula-marketing-qualified-lead-to-sales-accepted-ratio
+  expression: SALs / MQLs
+  inputs:
+  - name: SALs
+  - name: MQLs
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4354
+    batch: '11'
+domain: marketing_advertising_standard_measures_deep_dive

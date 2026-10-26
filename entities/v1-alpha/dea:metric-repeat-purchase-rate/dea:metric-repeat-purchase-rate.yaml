@@ -1,0 +1,53 @@
+id: dea:metric-repeat-purchase-rate
+name: Repeat Purchase Rate
+type: Metric
+description: Repeat Purchase Rate (RPR) measures the retention of customers, users, or assets over time
+  in the Customer domain. It is computed as Customers with >1 Purchase / Total Customers, expressed in
+  percent (%). It is reviewed at cadence by planning owners to correct course before issues become strategic.
+  Higher values are better; gains are read as improvement and losses as deterioration. Its use is not
+  sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: RPR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- retention
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Customers with >1 Purchase / Total Customers
+formula_definition:
+  formula_id: dea:formula-repeat-purchase-rate
+  expression: Customers with >1 Purchase / Total Customers
+  inputs:
+  - name: Customers with
+  - name: 1 Purchase
+  - name: Total Customers
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 79
+    batch: '1'
+domain: customer

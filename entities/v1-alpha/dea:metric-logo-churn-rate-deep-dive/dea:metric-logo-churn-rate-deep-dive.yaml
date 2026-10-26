@@ -1,0 +1,53 @@
+id: dea:metric-logo-churn-rate-deep-dive
+name: Logo Churn Rate (Deep Dive)
+type: Metric
+description: 'Within Software Product Operations (Deep Dive), Logo Churn Rate (Deep Dive) (LCR-D) is used
+  to gauge the retention of customers, users, or assets over time. It is a headline indicator: movement
+  in it prompts leadership questions about strategy and resourcing. It is computed as Cancelled Accounts
+  / Total Accounts, expressed in percent (%). It should be driven down, since lower readings signal healthier
+  performance. Its use is concentrated in Technology.'
+abbreviation: LCR-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- retention
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Cancelled Accounts / Total Accounts
+formula_definition:
+  formula_id: dea:formula-logo-churn-rate-deep-dive
+  expression: Cancelled Accounts / Total Accounts
+  inputs:
+  - name: Cancelled Accounts
+  - name: Total Accounts
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2158
+    batch: '6'
+domain: software_product_operations_deep_dive
+sector: technology

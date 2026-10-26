@@ -1,0 +1,53 @@
+id: dea:metric-bandwidth-utilization
+name: Bandwidth Utilization
+type: Metric
+description: 'Bandwidth Utilization (BU-T) captures the utilization or availability of capacity for organizations
+  tracking telecommunications. The formula is Used Capacity / Provisioned Capacity - reported in percent
+  (%). It is monitored close to the work: teams act on it within a shift, sprint, or daily review. It
+  is managed toward a defined target band rather than an extreme - both overshoot and undershoot can signal
+  problems. It is a standard measure in the Telecommunications sector.'
+abbreviation: BU-T
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Used Capacity / Provisioned Capacity
+formula_definition:
+  formula_id: dea:formula-bandwidth-utilization
+  expression: Used Capacity / Provisioned Capacity
+  inputs:
+  - name: Used Capacity
+  - name: Provisioned Capacity
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 533
+    batch: '1'
+domain: telecommunications
+sector: telecommunications

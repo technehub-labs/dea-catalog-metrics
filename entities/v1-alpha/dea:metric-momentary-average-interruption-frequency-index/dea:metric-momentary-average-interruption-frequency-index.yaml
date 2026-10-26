@@ -1,0 +1,53 @@
+id: dea:metric-momentary-average-interruption-frequency-index
+name: Momentary Average Interruption Frequency Index
+type: Metric
+description: Momentary Average Interruption Frequency Index (MAIFI) measures the quality of outputs and
+  outcomes in the Utilities Field Operations & Grid domain. It is computed as Momentary Interruptions
+  / Customers Served, expressed in times per period. Its use is concentrated in Utilities. It is reviewed
+  at cadence by planning owners to correct course before issues become strategic. Reduction is the goal,
+  and sustained decreases indicate successful intervention.
+abbreviation: MAIFI
+unit: times
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-times
+source_credit: IEEE Std 1366 reliability indices
+calculation_definition: Momentary Interruptions / Customers Served
+formula_definition:
+  formula_id: dea:formula-momentary-average-interruption-frequency-index
+  expression: Momentary Interruptions / Customers Served
+  inputs:
+  - name: Momentary Interruptions
+  - name: Customers Served
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-times
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1885
+    batch: '6'
+domain: utilities_field_operations_grid
+sector: utilities

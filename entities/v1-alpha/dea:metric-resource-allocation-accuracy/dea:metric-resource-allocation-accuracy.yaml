@@ -1,0 +1,53 @@
+id: dea:metric-resource-allocation-accuracy
+name: Resource Allocation Accuracy
+type: Metric
+description: 'Resource Allocation Accuracy (RAA-PM) addresses how efficiently resources are converted
+  into outputs and is a fixture of project management (deep dive) reporting. The formula is Actual Resource
+  Use vs Plan / Plan - reported in percent (%). It guides mid-horizon planning: portfolio, program, and
+  function owners act on it between review cycles. It is managed toward a defined target band rather than
+  an extreme - both overshoot and undershoot can signal problems. Its use is not sector-specific; it appears
+  in cross-industry performance frameworks.'
+abbreviation: RAA-PM
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Actual Resource Use vs Plan / Plan
+formula_definition:
+  formula_id: dea:formula-resource-allocation-accuracy
+  expression: Actual Resource Use vs Plan / Plan
+  inputs:
+  - name: Actual Resource Use vs Plan
+  - name: Plan
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2949
+    batch: '7'
+domain: project_management_deep_dive

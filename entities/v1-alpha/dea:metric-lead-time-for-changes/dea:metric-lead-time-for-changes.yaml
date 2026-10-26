@@ -1,0 +1,51 @@
+id: dea:metric-lead-time-for-changes
+name: Lead Time for Changes
+type: Metric
+description: Lead Time for Changes (LTDC) addresses how efficiently resources are converted into outputs
+  and is a fixture of software engineering reporting. Its calculation is Median Time from Commit to Production,
+  measured in hours. It informs long-horizon decisions and is typically tracked on enterprise dashboards
+  rather than team boards. Lower values are better; each reduction is an improvement. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: LTDC
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: DORA research program (DevOps Research and Assessment)
+calculation_definition: Median Time from Commit to Production
+formula_definition:
+  formula_id: dea:formula-lead-time-for-changes
+  expression: Median Time from Commit to Production
+  inputs:
+  - name: Median Time from Commit to Production
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 278
+    batch: '1'
+domain: software_engineering

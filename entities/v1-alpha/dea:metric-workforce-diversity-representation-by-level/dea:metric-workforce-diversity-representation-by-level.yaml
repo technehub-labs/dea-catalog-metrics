@@ -1,0 +1,52 @@
+id: dea:metric-workforce-diversity-representation-by-level
+name: Workforce Diversity Representation by Level
+type: Metric
+description: Workforce Diversity Representation by Level (WDRL) captures conformance to standards, plans,
+  or obligations for organizations tracking diversity, equity & inclusion. Its calculation is Underrepresented
+  Group Members at Level / Total at Level, measured in percent (%). It is applied across virtually every
+  sector. It informs long-horizon decisions and is typically tracked on enterprise dashboards rather than
+  team boards. It should be maximized within the limits of cost and quality trade-offs.
+abbreviation: WDRL
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Underrepresented Group Members at Level / Total at Level
+formula_definition:
+  formula_id: dea:formula-workforce-diversity-representation-by-level
+  expression: Underrepresented Group Members at Level / Total at Level
+  inputs:
+  - name: Underrepresented Group Members at Level
+  - name: Total at Level
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1366
+    batch: '5'
+domain: diversity_equity_inclusion

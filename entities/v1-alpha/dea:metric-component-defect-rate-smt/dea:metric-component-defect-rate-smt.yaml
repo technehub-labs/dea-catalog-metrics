@@ -1,0 +1,52 @@
+id: dea:metric-component-defect-rate-smt
+name: Component Defect Rate (SMT)
+type: Metric
+description: 'Component Defect Rate (SMT) (CDR-SMT) captures the quality of outputs and outcomes for organizations
+  tracking semiconductor & electronics. The formula is Defective Placements per Million Components Placed
+  - reported in events per thousand or million (scaled). It is a standard measure in the Electronics &
+  semiconductors sector. It is monitored close to the work: teams act on it within a shift, sprint, or
+  daily review. Reduction is the goal, and sustained decreases indicate successful intervention.'
+abbreviation: CDR-SMT
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Defective Placements per Million Components Placed
+formula_definition:
+  formula_id: dea:formula-component-defect-rate-smt
+  expression: Defective Placements per Million Components Placed
+  inputs:
+  - name: Defective Placements per Million Components Placed
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 911
+    batch: '3'
+domain: semiconductor_electronics
+sector: electronics_semiconductors

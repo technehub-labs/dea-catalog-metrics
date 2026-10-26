@@ -1,0 +1,53 @@
+id: dea:metric-supplier-defect-cost-recovery-rate
+name: Supplier Defect Cost Recovery Rate
+type: Metric
+description: 'Supplier Defect Cost Recovery Rate (SDCRR) addresses the economic value created or preserved
+  and is a fixture of strategic sourcing & supplier performance (deep dive) reporting. The formula is
+  Quality Costs Recovered from Suppliers / Recoverable Costs - reported in percent (%). It is monitored
+  close to the work: teams act on it within a shift, sprint, or daily review. Higher values are better;
+  gains are read as improvement and losses as deterioration. Its use is not sector-specific; it appears
+  in cross-industry performance frameworks.'
+abbreviation: SDCRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Quality Costs Recovered from Suppliers / Recoverable Costs
+formula_definition:
+  formula_id: dea:formula-supplier-defect-cost-recovery-rate
+  expression: Quality Costs Recovered from Suppliers / Recoverable Costs
+  inputs:
+  - name: Quality Costs Recovered from Suppliers
+  - name: Recoverable Costs
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3753
+    batch: '8'
+domain: strategic_sourcing_supplier_performance_deep_dive

@@ -1,0 +1,53 @@
+id: dea:metric-vessel-schedule-reliability
+name: Vessel Schedule Reliability
+type: Metric
+description: Within Maritime & Shipping, Vessel Schedule Reliability (VSR) is used to gauge the quality
+  of outputs and outcomes. The formula is Voyages Arriving within Schedule Tolerance / Voyages - reported
+  in percent (%). It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. Higher values are better; gains are read as improvement and losses as deterioration. It
+  is a standard measure in the Maritime & shipping sector.
+abbreviation: VSR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Voyages Arriving within Schedule Tolerance / Voyages
+formula_definition:
+  formula_id: dea:formula-vessel-schedule-reliability
+  expression: Voyages Arriving within Schedule Tolerance / Voyages
+  inputs:
+  - name: Voyages Arriving within Schedule Tolerance
+  - name: Voyages
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 978
+    batch: '3'
+domain: maritime_shipping
+sector: maritime_shipping

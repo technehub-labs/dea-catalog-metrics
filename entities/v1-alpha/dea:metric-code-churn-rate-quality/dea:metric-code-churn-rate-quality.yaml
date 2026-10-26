@@ -1,0 +1,53 @@
+id: dea:metric-code-churn-rate-quality
+name: Code Churn Rate (Quality)
+type: Metric
+description: A Code Quality & Static Analysis indicator, Code Churn Rate (Quality) (CHURNQ) quantifies
+  exposure to adverse outcomes. It provides the day-to-day signal that a process is running as designed.
+  Its calculation is Lines Rewritten within Window after First Write / Lines, measured in percent (%).
+  It should be driven down, since lower readings signal healthier performance. It originates from and
+  is most used in Software practice.
+abbreviation: CHURNQ
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Lines Rewritten within Window after First Write / Lines
+formula_definition:
+  formula_id: dea:formula-code-churn-rate-quality
+  expression: Lines Rewritten within Window after First Write / Lines
+  inputs:
+  - name: Lines Rewritten within Window after First Write
+  - name: Lines
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4178
+    batch: '9'
+domain: code_quality_static_analysis
+sector: software

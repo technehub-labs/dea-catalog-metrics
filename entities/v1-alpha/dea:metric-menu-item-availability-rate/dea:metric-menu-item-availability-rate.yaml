@@ -1,0 +1,54 @@
+id: dea:metric-menu-item-availability-rate
+name: Menu Item Availability Rate
+type: Metric
+description: Menu Item Availability Rate (MIAR) captures the quality of outputs and outcomes for organizations
+  tracking restaurant operations (deep dive). Its calculation is In-Stock Menu Items / Menu Items, measured
+  in percent (%). It originates from and is most used in Restaurants practice. It provides the day-to-day
+  signal that a process is running as designed. It should be maximized within the limits of cost and quality
+  trade-offs.
+abbreviation: MIAR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: In-Stock Menu Items / Menu Items
+formula_definition:
+  formula_id: dea:formula-menu-item-availability-rate
+  expression: In-Stock Menu Items / Menu Items
+  inputs:
+  - name: In
+  - name: Stock Menu Items
+  - name: Menu Items
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2348
+    batch: '6'
+domain: restaurant_operations_deep_dive
+sector: restaurants

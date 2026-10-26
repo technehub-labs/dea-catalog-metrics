@@ -1,0 +1,54 @@
+id: dea:metric-recovery-rate-on-charged-off-deep-dive
+name: Recovery Rate on Charged-Off (Deep Dive)
+type: Metric
+description: Recovery Rate on Charged-Off (Deep Dive) (RRCOD) captures the economic value created or preserved
+  for organizations tracking credit & collections risk (enterprise). The formula is Recovered Amount /
+  Charged-Off Amount - reported in percent (%). It carries weight in boardroom and executive reviews,
+  where it anchors cross-organization trade-offs. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: RRCOD
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Recovered Amount / Charged-Off Amount
+formula_definition:
+  formula_id: dea:formula-recovery-rate-on-charged-off-deep-dive
+  expression: Recovered Amount / Charged-Off Amount
+  inputs:
+  - name: Recovered Amount
+  - name: Charged
+  - name: Off Amount
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4203
+    batch: '9'
+domain: credit_collections_risk_enterprise

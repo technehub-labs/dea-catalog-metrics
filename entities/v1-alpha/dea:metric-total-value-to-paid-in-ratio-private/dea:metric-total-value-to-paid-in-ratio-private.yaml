@@ -1,0 +1,56 @@
+id: dea:metric-total-value-to-paid-in-ratio-private
+name: Total Value to Paid-In Ratio (Private)
+type: Metric
+description: Total Value to Paid-In Ratio (Private) (TVPI) addresses the economic value created or preserved
+  and is a fixture of investment management - portfolio operations reporting. Its calculation is (Distributions
+  + Residual Value) / Paid-In Capital, measured in ratio (x:1 or x). It informs long-horizon decisions
+  and is typically tracked on enterprise dashboards rather than team boards. Higher values are better;
+  gains are read as improvement and losses as deterioration. It originates from and is most used in Financial
+  Services practice.
+abbreviation: TVPI
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: (Distributions + Residual Value) / Paid-In Capital
+formula_definition:
+  formula_id: dea:formula-total-value-to-paid-in-ratio-private
+  expression: (Distributions + Residual Value) / Paid-In Capital
+  inputs:
+  - name: Distributions
+  - name: Residual Value
+  - name: Paid
+  - name: In Capital
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3020
+    batch: '7'
+domain: investment_management_portfolio_operations
+sector: financial_services

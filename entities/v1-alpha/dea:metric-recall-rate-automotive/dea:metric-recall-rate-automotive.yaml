@@ -1,0 +1,53 @@
+id: dea:metric-recall-rate-automotive
+name: Recall Rate (Automotive)
+type: Metric
+description: Recall Rate (Automotive) (RRA) addresses exposure to adverse outcomes and is a fixture of
+  automotive reporting. Its calculation is Recalled Vehicles / Vehicles Sold, measured in percent (%).
+  It originates from and is most used in Automotive practice. It informs long-horizon decisions and is
+  typically tracked on enterprise dashboards rather than team boards. Reduction is the goal, and sustained
+  decreases indicate successful intervention.
+abbreviation: RRA
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Recalled Vehicles / Vehicles Sold
+formula_definition:
+  formula_id: dea:formula-recall-rate-automotive
+  expression: Recalled Vehicles / Vehicles Sold
+  inputs:
+  - name: Recalled Vehicles
+  - name: Vehicles Sold
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 748
+    batch: '2'
+domain: automotive
+sector: automotive

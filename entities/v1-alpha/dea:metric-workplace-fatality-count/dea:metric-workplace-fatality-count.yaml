@@ -1,0 +1,52 @@
+id: dea:metric-workplace-fatality-count
+name: Workplace Fatality Count
+type: Metric
+description: Workplace Fatality Count (WFC) captures exposure to adverse outcomes for organizations tracking
+  health & safety. The formula is Work-Related Fatalities per Period - reported in count (items per period).
+  It carries weight in boardroom and executive reviews, where it anchors cross-organization trade-offs.
+  Lower values are better; each reduction is an improvement. Its use is not sector-specific; it appears
+  in cross-industry performance frameworks.
+abbreviation: WFC
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Work-Related Fatalities per Period
+formula_definition:
+  formula_id: dea:formula-workplace-fatality-count
+  expression: Work-Related Fatalities per Period
+  inputs:
+  - name: Work
+  - name: Related Fatalities per Period
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 403
+    batch: '1'
+domain: health_safety

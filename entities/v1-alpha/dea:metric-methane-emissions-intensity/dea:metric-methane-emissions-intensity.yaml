@@ -1,0 +1,53 @@
+id: dea:metric-methane-emissions-intensity
+name: Methane Emissions Intensity
+type: Metric
+description: Methane Emissions Intensity (MEI) captures environmental and social sustainability performance
+  for organizations tracking oil & gas. The formula is Methane Emitted / Hydrocarbons Produced - reported
+  in ratio (x:1 or x). It carries weight in boardroom and executive reviews, where it anchors cross-organization
+  trade-offs. Lower values are better; each reduction is an improvement. It is a standard measure in the
+  Oil & gas sector.
+abbreviation: MEI
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- sustainability
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Methane Emitted / Hydrocarbons Produced
+formula_definition:
+  formula_id: dea:formula-methane-emissions-intensity
+  expression: Methane Emitted / Hydrocarbons Produced
+  inputs:
+  - name: Methane Emitted
+  - name: Hydrocarbons Produced
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 886
+    batch: '3'
+domain: oil_gas
+sector: oil_gas

@@ -1,0 +1,52 @@
+id: dea:metric-defect-density-deep-dive
+name: Defect Density (Deep Dive)
+type: Metric
+description: 'Defect Density (Deep Dive) (DD-D) captures the quality of outputs and outcomes for organizations
+  tracking semiconductor manufacturing (deep dive). It is computed as Killer Defects per Square Centimetre,
+  expressed in events per thousand or million (scaled). Its use is concentrated in Semiconductors. It
+  is a headline indicator: movement in it prompts leadership questions about strategy and resourcing.
+  Reduction is the goal, and sustained decreases indicate successful intervention.'
+abbreviation: DD-D
+unit: events
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-events
+source_credit: Public domain - no attribution required
+calculation_definition: Killer Defects per Square Centimetre
+formula_definition:
+  formula_id: dea:formula-defect-density-deep-dive
+  expression: Killer Defects per Square Centimetre
+  inputs:
+  - name: Killer Defects per Square Centimetre
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-events
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2377
+    batch: '6'
+domain: semiconductor_manufacturing_deep_dive
+sector: semiconductors

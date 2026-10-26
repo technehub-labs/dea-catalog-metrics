@@ -1,0 +1,53 @@
+id: dea:metric-fare-evasion-rate-deep-dive
+name: Fare Evasion Rate (Deep Dive)
+type: Metric
+description: 'Within Public Transit (Deep Dive), Fare Evasion Rate (Deep Dive) (FER-D) is used to gauge
+  the economic value created or preserved. It is computed as Unpaid Journeys / Total Journeys, expressed
+  in percent (%). It is a headline indicator: movement in it prompts leadership questions about strategy
+  and resourcing. Lower values are better; each reduction is an improvement. Its use is concentrated in
+  Public Transit.'
+abbreviation: FER-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Service
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Unpaid Journeys / Total Journeys
+formula_definition:
+  formula_id: dea:formula-fare-evasion-rate-deep-dive
+  expression: Unpaid Journeys / Total Journeys
+  inputs:
+  - name: Unpaid Journeys
+  - name: Total Journeys
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2418
+    batch: '6'
+domain: public_transit_deep_dive
+sector: public_transit

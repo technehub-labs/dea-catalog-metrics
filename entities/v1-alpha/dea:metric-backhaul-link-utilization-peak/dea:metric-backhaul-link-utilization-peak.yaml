@@ -1,0 +1,53 @@
+id: dea:metric-backhaul-link-utilization-peak
+name: Backhaul Link Utilization Peak
+type: Metric
+description: Backhaul Link Utilization Peak (BLUP) captures the utilization or availability of capacity
+  for organizations tracking telecom network operations (deep dive). It is computed as Peak Backhaul Throughput
+  / Link Capacity, expressed in percent (%). Its use is concentrated in Telecommunications. It is reviewed
+  at cadence by planning owners to correct course before issues become strategic. Values outside the intended
+  band, on either side, warrant investigation.
+abbreviation: BLUP
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Peak Backhaul Throughput / Link Capacity
+formula_definition:
+  formula_id: dea:formula-backhaul-link-utilization-peak
+  expression: Peak Backhaul Throughput / Link Capacity
+  inputs:
+  - name: Peak Backhaul Throughput
+  - name: Link Capacity
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2136
+    batch: '6'
+domain: telecom_network_operations_deep_dive
+sector: telecommunications

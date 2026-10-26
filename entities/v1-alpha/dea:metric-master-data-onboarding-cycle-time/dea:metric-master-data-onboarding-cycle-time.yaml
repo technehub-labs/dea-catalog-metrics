@@ -1,0 +1,51 @@
+id: dea:metric-master-data-onboarding-cycle-time
+name: Master Data Onboarding Cycle Time
+type: Metric
+description: 'Master Data Onboarding Cycle Time (MDOCT) measures how efficiently resources are converted
+  into outputs in the Master Data Management domain. It is defined as Days to Add New Master Record with
+  Full Governance; the result is stated in days. It is applied across virtually every sector. It is a
+  working-level control: thresholds trigger immediate operational response. Reduction is the goal, and
+  sustained decreases indicate successful intervention.'
+abbreviation: MDOCT
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- information_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days to Add New Master Record with Full Governance
+formula_definition:
+  formula_id: dea:formula-master-data-onboarding-cycle-time
+  expression: Days to Add New Master Record with Full Governance
+  inputs:
+  - name: Days to Add New Master Record with Full Governance
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3645
+    batch: '8'
+domain: master_data_management

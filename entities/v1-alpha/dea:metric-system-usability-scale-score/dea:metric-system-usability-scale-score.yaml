@@ -1,0 +1,52 @@
+id: dea:metric-system-usability-scale-score
+name: System Usability Scale Score
+type: Metric
+description: 'System Usability Scale Score (SUS-UX) measures the quality of outputs and outcomes in the
+  UX & Design Systems domain. The formula is Standardized 10-Item Usability Questionnaire Score - reported
+  in score (points). It guides mid-horizon planning: portfolio, program, and function owners act on it
+  between review cycles. Higher values are better; gains are read as improvement and losses as deterioration.
+  Its use is not sector-specific; it appears in cross-industry performance frameworks.'
+abbreviation: SUS-UX
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- product_or_service
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: John Brooke (System Usability Scale, 1996)
+calculation_definition: Standardized 10-Item Usability Questionnaire Score
+formula_definition:
+  formula_id: dea:formula-system-usability-scale-score
+  expression: Standardized 10-Item Usability Questionnaire Score
+  inputs:
+  - name: Standardized 10
+  - name: Item Usability Questionnaire Score
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3267
+    batch: '7'
+domain: ux_design_systems

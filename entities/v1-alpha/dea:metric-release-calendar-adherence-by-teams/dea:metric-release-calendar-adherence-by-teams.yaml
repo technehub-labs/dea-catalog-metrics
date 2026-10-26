@@ -1,0 +1,52 @@
+id: dea:metric-release-calendar-adherence-by-teams
+name: Release Calendar Adherence by Teams
+type: Metric
+description: Release Calendar Adherence by Teams (RCAT) addresses conformance to standards, plans, or
+  obligations and is a fixture of release management & environments reporting. Its value drives prioritization
+  and resource reallocation among competing initiatives. Its calculation is Teams Following Coordinated
+  Release Calendar / Teams, measured in percent (%). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: RCAT
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- compliance
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Teams Following Coordinated Release Calendar / Teams
+formula_definition:
+  formula_id: dea:formula-release-calendar-adherence-by-teams
+  expression: Teams Following Coordinated Release Calendar / Teams
+  inputs:
+  - name: Teams Following Coordinated Release Calendar
+  - name: Teams
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2739
+    batch: '7'
+domain: release_management_environments

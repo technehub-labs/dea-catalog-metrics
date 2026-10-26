@@ -1,0 +1,52 @@
+id: dea:metric-remote-work-enablement-score
+name: Remote Work Enablement Score
+type: Metric
+description: Within Digital Workplace & Collaboration, Remote Work Enablement Score (RWES) is used to
+  gauge capability maturity or development. It is defined as Weighted Index of Access, Tooling, Experience
+  Items; the result is stated in index (0-100 or normalized). Its trend is watched by senior leadership
+  as an early signal of structural performance shifts. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: RWES
+unit: index
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-index
+source_credit: Public domain - no attribution required
+calculation_definition: Weighted Index of Access, Tooling, Experience Items
+formula_definition:
+  formula_id: dea:formula-remote-work-enablement-score
+  expression: Weighted Index of Access, Tooling, Experience Items
+  inputs:
+  - name: Weighted Index of Access, Tooling, Experience Items
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-index
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1478
+    batch: '5'
+domain: digital_workplace_collaboration

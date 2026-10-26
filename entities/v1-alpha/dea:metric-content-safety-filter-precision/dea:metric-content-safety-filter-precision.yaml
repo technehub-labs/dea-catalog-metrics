@@ -1,0 +1,52 @@
+id: dea:metric-content-safety-filter-precision
+name: Content Safety Filter Precision
+type: Metric
+description: Within Generative AI & LLM Operations, Content Safety Filter Precision (CSFP) is used to
+  gauge the quality of outputs and outcomes. Its calculation is Correctly Flagged Content / Flagged Content,
+  measured in percent (%). It is applied across virtually every sector. It provides the day-to-day signal
+  that a process is running as designed. It should be maximized within the limits of cost and quality
+  trade-offs.
+abbreviation: CSFP
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- technology_architecture
+purpose_classification:
+- quality
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Correctly Flagged Content / Flagged Content
+formula_definition:
+  formula_id: dea:formula-content-safety-filter-precision
+  expression: Correctly Flagged Content / Flagged Content
+  inputs:
+  - name: Correctly Flagged Content
+  - name: Flagged Content
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2541
+    batch: '7'
+domain: generative_ai_llm_operations

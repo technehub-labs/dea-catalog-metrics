@@ -1,0 +1,53 @@
+id: dea:metric-upsell-revenue-ratio
+name: Upsell Revenue Ratio
+type: Metric
+description: Within Sales, Upsell Revenue Ratio (UPR) is used to gauge growth over time. It is defined
+  as Upsell and Cross-Sell Revenue / Total Revenue; the result is stated in percent (%). It bridges daily
+  operations and executive reporting, giving managers a lever to pull within a quarter. Higher values
+  are better; gains are read as improvement and losses as deterioration. Its use is not sector-specific;
+  it appears in cross-industry performance frameworks.
+abbreviation: UPR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- customer
+purpose_classification:
+- growth
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Upsell and Cross-Sell Revenue / Total Revenue
+formula_definition:
+  formula_id: dea:formula-upsell-revenue-ratio
+  expression: Upsell and Cross-Sell Revenue / Total Revenue
+  inputs:
+  - name: Upsell and Cross
+  - name: Sell Revenue
+  - name: Total Revenue
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 97
+    batch: '1'
+domain: sales

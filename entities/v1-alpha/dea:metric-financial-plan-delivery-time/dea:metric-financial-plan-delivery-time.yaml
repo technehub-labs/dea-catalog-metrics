@@ -1,0 +1,52 @@
+id: dea:metric-financial-plan-delivery-time
+name: Financial Plan Delivery Time
+type: Metric
+description: Within Asset & Wealth Management (Deep Dive), Financial Plan Delivery Time (FPDT) is used
+  to gauge how efficiently resources are converted into outputs. Its calculation is Days from Data Gathering
+  to Plan Presentation, measured in days. It originates from and is most used in Financial Services practice.
+  Its value drives prioritization and resource reallocation among competing initiatives. Reduction is
+  the goal, and sustained decreases indicate successful intervention.
+abbreviation: FPDT
+unit: days
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-days
+source_credit: Public domain - no attribution required
+calculation_definition: Days from Data Gathering to Plan Presentation
+formula_definition:
+  formula_id: dea:formula-financial-plan-delivery-time
+  expression: Days from Data Gathering to Plan Presentation
+  inputs:
+  - name: Days from Data Gathering to Plan Presentation
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-days
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2108
+    batch: '6'
+domain: asset_wealth_management_deep_dive
+sector: financial_services

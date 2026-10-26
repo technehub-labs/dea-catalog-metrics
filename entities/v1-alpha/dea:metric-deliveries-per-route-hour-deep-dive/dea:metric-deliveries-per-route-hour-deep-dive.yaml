@@ -1,0 +1,53 @@
+id: dea:metric-deliveries-per-route-hour-deep-dive
+name: Deliveries per Route Hour (Deep Dive)
+type: Metric
+description: Deliveries per Route Hour (Deep Dive) (DPH-D) captures how efficiently resources are converted
+  into outputs for organizations tracking parcel & last-mile logistics (deep dive). It provides the day-to-day
+  signal that a process is running as designed. Its calculation is Successful Deliveries / Route Hours,
+  measured in count (items per period). Improvement means raising this figure toward best-in-class levels.
+  It originates from and is most used in Logistics & Trade practice.
+abbreviation: DPH-D
+unit: count
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- business_architecture
+purpose_classification:
+- efficiency
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-count
+source_credit: Public domain - no attribution required
+calculation_definition: Successful Deliveries / Route Hours
+formula_definition:
+  formula_id: dea:formula-deliveries-per-route-hour-deep-dive
+  expression: Successful Deliveries / Route Hours
+  inputs:
+  - name: Successful Deliveries
+  - name: Route Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-count
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2331
+    batch: '6'
+domain: parcel_last_mile_logistics_deep_dive
+sector: logistics_trade

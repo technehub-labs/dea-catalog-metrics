@@ -1,0 +1,53 @@
+id: dea:metric-mean-life-mttf-deep-dive
+name: Mean Life (MTTF Deep Dive)
+type: Metric
+description: Mean Life (MTTF Deep Dive) (MLDD) addresses the quality of outputs and outcomes and is a
+  fixture of reliability & maintainability engineering (deep dive) reporting. Its calculation is Total
+  Operating Time to Failure / Failed Units, measured in hours. It informs long-horizon decisions and is
+  typically tracked on enterprise dashboards rather than team boards. Higher values are better; gains
+  are read as improvement and losses as deterioration. Its use is not sector-specific; it appears in cross-industry
+  performance frameworks.
+abbreviation: MLDD
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Total Operating Time to Failure / Failed Units
+formula_definition:
+  formula_id: dea:formula-mean-life-mttf-deep-dive
+  expression: Total Operating Time to Failure / Failed Units
+  inputs:
+  - name: Total Operating Time to Failure
+  - name: Failed Units
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4098
+    batch: '9'
+domain: reliability_maintainability_engineering_deep_dive

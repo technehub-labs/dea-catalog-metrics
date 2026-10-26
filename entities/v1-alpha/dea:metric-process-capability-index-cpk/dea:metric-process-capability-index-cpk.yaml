@@ -1,0 +1,53 @@
+id: dea:metric-process-capability-index-cpk
+name: Process Capability Index (Cpk)
+type: Metric
+description: A Process Capability & Six Sigma (Deep Dive) indicator, Process Capability Index (Cpk) (CPKS)
+  quantifies the quality of outputs and outcomes. It is computed as Min Distance of Mean to Spec Limit
+  / (3 x Std Dev), expressed in ratio (x:1 or x). Front-line and delivery teams watch it in real time,
+  as small deviations demand immediate correction. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is concentrated in Manufacturing.
+abbreviation: CPKS
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- quality
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Statistical process control tradition (Juran / SQC)
+calculation_definition: Min Distance of Mean to Spec Limit / (3 x Std Dev)
+formula_definition:
+  formula_id: dea:formula-process-capability-index-cpk
+  expression: Min Distance of Mean to Spec Limit / (3 x Std Dev)
+  inputs:
+  - name: Min Distance of Mean to Spec Limit
+  - name: 3 x Std Dev
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4076
+    batch: '9'
+domain: process_capability_six_sigma_deep_dive
+sector: manufacturing

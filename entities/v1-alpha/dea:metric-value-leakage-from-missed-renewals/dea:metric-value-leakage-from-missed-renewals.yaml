@@ -1,0 +1,52 @@
+id: dea:metric-value-leakage-from-missed-renewals
+name: Value Leakage from Missed Renewals
+type: Metric
+description: Value Leakage from Missed Renewals (VLMR) measures the economic value created or preserved
+  in the Contract Lifecycle Management domain. Its calculation is Spend on Unwanted Auto-Renewals in Period,
+  measured in currency value. It informs long-horizon decisions and is typically tracked on enterprise
+  dashboards rather than team boards. Lower values are better; each reduction is an improvement. Its use
+  is not sector-specific; it appears in cross-industry performance frameworks.
+abbreviation: VLMR
+unit: currency
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-currency
+source_credit: Public domain - no attribution required
+calculation_definition: Spend on Unwanted Auto-Renewals in Period
+formula_definition:
+  formula_id: dea:formula-value-leakage-from-missed-renewals
+  expression: Spend on Unwanted Auto-Renewals in Period
+  inputs:
+  - name: Spend on Unwanted Auto
+  - name: Renewals in Period
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-currency
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3701
+    batch: '8'
+domain: contract_lifecycle_management

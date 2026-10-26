@@ -1,0 +1,52 @@
+id: dea:metric-price-to-book-ratio-deep-dive
+name: Price-to-Book Ratio (Deep Dive)
+type: Metric
+description: Price-to-Book Ratio (Deep Dive) (PTBDD) measures the economic value created or preserved
+  in the Valuation & Corporate Finance Standard Measures domain. It carries weight in boardroom and executive
+  reviews, where it anchors cross-organization trade-offs. The formula is Market Price / Book Value per
+  Share - reported in ratio (x:1 or x). The objective is neither maximization nor minimization but staying
+  within an agreed operating band. Practitioners in nearly any industry can adopt it directly.
+abbreviation: PTBDD
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: Market Price / Book Value per Share
+formula_definition:
+  formula_id: dea:formula-price-to-book-ratio-deep-dive
+  expression: Market Price / Book Value per Share
+  inputs:
+  - name: Market Price
+  - name: Book Value per Share
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4044
+    batch: '9'
+domain: valuation_corporate_finance_standard_measures

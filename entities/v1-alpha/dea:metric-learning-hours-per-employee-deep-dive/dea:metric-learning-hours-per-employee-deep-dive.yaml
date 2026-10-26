@@ -1,0 +1,52 @@
+id: dea:metric-learning-hours-per-employee-deep-dive
+name: Learning Hours per Employee (Deep Dive)
+type: Metric
+description: Within Learning & Development Effectiveness (Deep Dive), Learning Hours per Employee (Deep
+  Dive) (LHPEDD) is used to gauge capability maturity or development. Its calculation is Total Learning
+  Hours / Employees, measured in hours. It is applied across virtually every sector. Its value drives
+  prioritization and resource reallocation among competing initiatives. Values outside the intended band,
+  on either side, warrant investigation.
+abbreviation: LHPEDD
+unit: hours
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-hours
+source_credit: Public domain - no attribution required
+calculation_definition: Total Learning Hours / Employees
+formula_definition:
+  formula_id: dea:formula-learning-hours-per-employee-deep-dive
+  expression: Total Learning Hours / Employees
+  inputs:
+  - name: Total Learning Hours
+  - name: Employees
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-hours
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3876
+    batch: '8'
+domain: learning_development_effectiveness_deep_dive

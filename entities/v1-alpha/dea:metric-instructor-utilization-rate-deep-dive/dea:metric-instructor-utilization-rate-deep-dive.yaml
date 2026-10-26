@@ -1,0 +1,53 @@
+id: dea:metric-instructor-utilization-rate-deep-dive
+name: Instructor Utilization Rate (Deep Dive)
+type: Metric
+description: Within Education & Training (Deep Dive), Instructor Utilization Rate (Deep Dive) (IUR-D)
+  is used to gauge the utilization or availability of capacity. It is computed as Teaching Hours / Contracted
+  Hours, expressed in percent (%). Its use is concentrated in Education. It is reviewed at cadence by
+  planning owners to correct course before issues become strategic. Values outside the intended band,
+  on either side, warrant investigation.
+abbreviation: IUR-D
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- capability
+purpose_classification:
+- capacity
+scope_classification:
+- organizational_unit
+directionality: target_band
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Teaching Hours / Contracted Hours
+formula_definition:
+  formula_id: dea:formula-instructor-utilization-rate-deep-dive
+  expression: Teaching Hours / Contracted Hours
+  inputs:
+  - name: Teaching Hours
+  - name: Contracted Hours
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2065
+    batch: '6'
+domain: education_training_deep_dive
+sector: education

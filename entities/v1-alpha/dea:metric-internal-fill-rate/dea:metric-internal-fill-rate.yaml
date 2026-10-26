@@ -1,0 +1,52 @@
+id: dea:metric-internal-fill-rate
+name: Internal Fill Rate
+type: Metric
+description: A Human Resources indicator, Internal Fill Rate (IFR) quantifies capability maturity or development.
+  It is reviewed at cadence by planning owners to correct course before issues become strategic. It is
+  computed as Positions Filled Internally / Total Positions Filled, expressed in percent (%). Improvement
+  means raising this figure toward best-in-class levels. Practitioners in nearly any industry can adopt
+  it directly.
+abbreviation: IFR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capability
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Positions Filled Internally / Total Positions Filled
+formula_definition:
+  formula_id: dea:formula-internal-fill-rate
+  expression: Positions Filled Internally / Total Positions Filled
+  inputs:
+  - name: Positions Filled Internally
+  - name: Total Positions Filled
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 141
+    batch: '1'
+domain: human_resources

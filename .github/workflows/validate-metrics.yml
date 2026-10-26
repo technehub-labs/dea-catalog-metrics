@@ -29,13 +29,20 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          pip install pyyaml jsonschema pytest
+          pip install pyyaml jsonschema pytest openpyxl
       - name: Regenerate catalog
         run: python3 scripts/regenerate_catalog.py
       - name: Verify CATALOG.yaml is current
         # CR-MET-014 D6: the generator is idempotent, so a contributor who
         # edits a record without regenerating fails here.
         run: git diff --exit-code CATALOG.yaml
+      - name: Verify the catalog matches the seed workbook
+        # CR-MET-016: the seed-derived records must match the workbook, so a
+        # record edited by hand, or a workbook row that never landed, fails CI.
+        run: python3 scripts/ingest_seed.py --check
+      - name: Coverage report
+        # A report, not a gate: it prints how the corpus is distributed.
+        run: python3 scripts/report_coverage.py
       - name: Gate 1 - check_metric_schema.py
         run: python3 scripts/check_metric_schema.py
       - name: Gate 2 - check_measurement_conformance.py

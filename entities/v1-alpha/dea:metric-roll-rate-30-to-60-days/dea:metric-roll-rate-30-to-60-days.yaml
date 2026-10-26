@@ -1,0 +1,52 @@
+id: dea:metric-roll-rate-30-to-60-days
+name: Roll Rate (30 to 60 Days)
+type: Metric
+description: Roll Rate (30 to 60 Days) (RR3060) measures exposure to adverse outcomes in the Credit &
+  Collections Risk (Enterprise) domain. Its calculation is Accounts Rolling from 30DPD to 60DPD / Accounts
+  at 30DPD, measured in percent (%). It is applied across virtually every sector. It provides the day-to-day
+  signal that a process is running as designed. Reduction is the goal, and sustained decreases indicate
+  successful intervention.
+abbreviation: RR3060
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- risk
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: lower_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Accounts Rolling from 30DPD to 60DPD / Accounts at 30DPD
+formula_definition:
+  formula_id: dea:formula-roll-rate-30-to-60-days
+  expression: Accounts Rolling from 30DPD to 60DPD / Accounts at 30DPD
+  inputs:
+  - name: Accounts Rolling from 30DPD to 60DPD
+  - name: Accounts at 30DPD
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4200
+    batch: '9'
+domain: credit_collections_risk_enterprise

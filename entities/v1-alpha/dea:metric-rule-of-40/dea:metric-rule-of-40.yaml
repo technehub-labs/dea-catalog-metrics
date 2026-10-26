@@ -1,0 +1,52 @@
+id: dea:metric-rule-of-40
+name: Rule of 40
+type: Metric
+description: Within Startup & Venture-Backed Business, Rule of 40 (R40) is used to gauge the economic
+  value created or preserved. It informs long-horizon decisions and is typically tracked on enterprise
+  dashboards rather than team boards. Its calculation is Revenue Growth Percent + Profit Margin Percent,
+  measured in index (0-100 or normalized). Improvement means raising this figure toward best-in-class
+  levels. Practitioners in nearly any industry can adopt it directly.
+abbreviation: R40
+unit: index
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- strategy
+purpose_classification:
+- value_delivery
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-index
+source_credit: Venture capital practice (popularized by Brad Feld)
+calculation_definition: Revenue Growth Percent + Profit Margin Percent
+formula_definition:
+  formula_id: dea:formula-rule-of-40
+  expression: Revenue Growth Percent + Profit Margin Percent
+  inputs:
+  - name: Revenue Growth Percent
+  - name: Profit Margin Percent
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-index
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 2444
+    batch: '6'
+domain: startup_venture_backed_business

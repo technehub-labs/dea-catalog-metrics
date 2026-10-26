@@ -1,0 +1,53 @@
+id: dea:metric-facultative-rejection-rate
+name: Facultative Rejection Rate
+type: Metric
+description: 'A Insurance Underwriting indicator, Facultative Rejection Rate (FRR) quantifies exposure
+  to adverse outcomes. The formula is Facultative Offers Rejected / Offers Made - reported in percent
+  (%). It is a standard measure in the Insurance sector. It guides mid-horizon planning: portfolio, program,
+  and function owners act on it between review cycles. Reduction is the goal, and sustained decreases
+  indicate successful intervention.'
+abbreviation: FRR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: lower_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Facultative Offers Rejected / Offers Made
+formula_definition:
+  formula_id: dea:formula-facultative-rejection-rate
+  expression: Facultative Offers Rejected / Offers Made
+  inputs:
+  - name: Facultative Offers Rejected
+  - name: Offers Made
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1513
+    batch: '6'
+domain: insurance_underwriting
+sector: insurance

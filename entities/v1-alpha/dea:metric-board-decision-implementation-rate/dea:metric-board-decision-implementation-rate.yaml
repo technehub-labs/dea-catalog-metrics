@@ -1,0 +1,53 @@
+id: dea:metric-board-decision-implementation-rate
+name: Board Decision Implementation Rate
+type: Metric
+description: Board Decision Implementation Rate (BDIR) addresses conformance to standards, plans, or obligations
+  and is a fixture of enterprise decision effectiveness & governance monitoring reporting. It is defined
+  as Board Decisions Implemented Fully / Board Decisions; the result is stated in percent (%). Its trend
+  is watched by senior leadership as an early signal of structural performance shifts. Higher values are
+  better; gains are read as improvement and losses as deterioration. Its use is not sector-specific; it
+  appears in cross-industry performance frameworks.
+abbreviation: BDIR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- compliance
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:OrganizationalUnit
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Board Decisions Implemented Fully / Board Decisions
+formula_definition:
+  formula_id: dea:formula-board-decision-implementation-rate
+  expression: Board Decisions Implemented Fully / Board Decisions
+  inputs:
+  - name: Board Decisions Implemented Fully
+  - name: Board Decisions
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 3138
+    batch: '7'
+domain: enterprise_decision_effectiveness_governance_monitoring

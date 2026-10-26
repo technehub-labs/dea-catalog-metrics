@@ -1,0 +1,53 @@
+id: dea:metric-liquidity-headroom
+name: Liquidity Headroom
+type: Metric
+description: Liquidity Headroom (LHR) captures exposure to adverse outcomes for organizations tracking
+  treasury & cash management. Its calculation is (Available Liquidity - Projected Outflows) / Projected
+  Outflows, measured in ratio (x:1 or x). It informs long-horizon decisions and is typically tracked on
+  enterprise dashboards rather than team boards. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: LHR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-ratio
+source_credit: Public domain - no attribution required
+calculation_definition: (Available Liquidity - Projected Outflows) / Projected Outflows
+formula_definition:
+  formula_id: dea:formula-liquidity-headroom
+  expression: (Available Liquidity - Projected Outflows) / Projected Outflows
+  inputs:
+  - name: Available Liquidity
+  - name: Projected Outflows
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 593
+    batch: '2'
+domain: treasury_cash_management

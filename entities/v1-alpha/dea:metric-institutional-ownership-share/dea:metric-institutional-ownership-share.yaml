@@ -1,0 +1,54 @@
+id: dea:metric-institutional-ownership-share
+name: Institutional Ownership Share
+type: Metric
+description: Institutional Ownership Share (IOS) captures the economic value created or preserved for
+  organizations tracking investor relations & capital markets. Its calculation is Institutionally Held
+  Shares / Shares Outstanding, measured in percent (%). It informs long-horizon decisions and is typically
+  tracked on enterprise dashboards rather than team boards. It is managed toward a defined target band
+  rather than an extreme - both overshoot and undershoot can signal problems. It originates from and is
+  most used in Listed companies practice.
+abbreviation: IOS
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- value_delivery
+scope_classification:
+- capability
+directionality: target_band
+management_significance:
+- strategic
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Institutionally Held Shares / Shares Outstanding
+formula_definition:
+  formula_id: dea:formula-institutional-ownership-share
+  expression: Institutionally Held Shares / Shares Outstanding
+  inputs:
+  - name: Institutionally Held Shares
+  - name: Shares Outstanding
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 624
+    batch: '2'
+domain: investor_relations_capital_markets
+sector: listed_companies

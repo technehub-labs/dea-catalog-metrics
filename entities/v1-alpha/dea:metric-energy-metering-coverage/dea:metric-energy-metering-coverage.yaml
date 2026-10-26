@@ -1,0 +1,52 @@
+id: dea:metric-energy-metering-coverage
+name: Energy Metering Coverage
+type: Metric
+description: 'Within Operations Energy Management, Energy Metering Coverage (EMC-E) is used to gauge capability
+  maturity or development. The formula is Major Loads Metered / Major Loads - reported in percent (%).
+  It is applied across virtually every sector. It guides mid-horizon planning: portfolio, program, and
+  function owners act on it between review cycles. It should be maximized within the limits of cost and
+  quality trade-offs.'
+abbreviation: EMC-E
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- sustainability
+purpose_classification:
+- capability
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- managerial
+measurable_entity_kind: dea:ApplicationComponent
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Major Loads Metered / Major Loads
+formula_definition:
+  formula_id: dea:formula-energy-metering-coverage
+  expression: Major Loads Metered / Major Loads
+  inputs:
+  - name: Major Loads Metered
+  - name: Major Loads
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1437
+    batch: '5'
+domain: operations_energy_management

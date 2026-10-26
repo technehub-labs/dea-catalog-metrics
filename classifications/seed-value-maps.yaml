@@ -1,0 +1,87 @@
+# CR-MET-016: seed value maps.
+#
+# Maps the seed workbook's controlled values onto the catalog's controlled
+# vocabularies. Read by scripts/ingest_seed.py.
+#
+# Three kinds of entry, kept distinct so a reader can see which is which:
+#
+#   carry   the seed value is already a catalog value (after hyphen to
+#           underscore normalisation). Copied through.
+#   map     the seed value is a synonym of an existing catalog value. Mapped
+#           to that value.
+#   add     the seed value is a distinct concept with no catalog value. The
+#           catalog vocabulary gains it, with a definition in the matching
+#           classifications/ file.
+#
+# A seed value that appears nowhere in this file is a mapping gap, and the
+# ingestion script refuses to run rather than guess.
+
+version: 1.0.0
+authority: CR-MET-016
+
+subject_classification:
+  carry: [business_architecture, capability, customer, financial, governance,
+          information_architecture, organization, strategy, sustainability,
+          technology_architecture, transformation]
+  map:
+    product-service: product_or_service
+  add:
+    operations: "Operational subject area: how an enterprise runs its day-to-day work, capacity and process execution."
+    risk: "Risk subject area: exposure, likelihood, and the controls that bound it."
+
+purpose_classification:
+  carry: [effectiveness, efficiency, quality, risk]
+  map:
+    value: value_delivery
+    conformance: compliance
+  add:
+    capability: "Capability purpose: the breadth or maturity of what an organisation can do."
+    capacity: "Capacity purpose: the volume or ceiling of what can be produced or served."
+    engagement: "Engagement purpose: the degree of active involvement or participation."
+    governance: "Governance purpose: the degree to which work is directed, supervised and accountable."
+    growth: "Growth purpose: the rate at which a measure increases over time."
+    retention: "Retention purpose: the proportion of a population that is kept."
+    strategy: "Strategy purpose: the degree to which activity advances an objective."
+    sustainability: "Sustainability purpose: the degree to which an activity is sustained without depleting its basis."
+    transformation: "Transformation purpose: the degree of change an organisation has undergone."
+
+scope_classification:
+  carry: []
+  map:
+    functional: capability
+    organizational: organizational_unit
+    market: business_domain
+
+management_significance:
+  carry: [operational, strategic]
+  map:
+    tactical: managerial
+
+directionality:
+  carry: [higher-is-better, lower-is-better, target-band]
+  map: {}
+
+measurable_entity_kind:
+  carry: []
+  map:
+    process: dea:BusinessProcess
+    organization: dea:OrganizationalUnit
+    employee: dea:OrganizationalUnit
+    project: dea:OrganizationalUnit
+    asset: dea:ApplicationComponent
+    system: dea:ApplicationComponent
+    facility: dea:ApplicationComponent
+    service: dea:Service
+    product: dea:Service
+    outcome: dea:Outcome
+    information: dea:DataEntity
+    customer: dea:BusinessService
+    partner: dea:BusinessService
+    supplier: dea:BusinessService
+
+# Columns the catalog has no field for. They are provenance or documentation,
+# not classification, and are handled explicitly by the ingestion script.
+source_only:
+  prose: "record README Context section"
+  unit: "record README Unit line"
+  batch: "metadata.seed.batch"

@@ -1,0 +1,52 @@
+id: dea:metric-altman-z-score
+name: Altman Z-Score
+type: Metric
+description: Within Valuation & Corporate Finance Standard Measures, Altman Z-Score (ALTZ) is used to
+  gauge exposure to adverse outcomes. It is defined as Composite Discriminant of Liquidity, Profitability,
+  Leverage Ratios; the result is stated in score (points). Its trend is watched by senior leadership as
+  an early signal of structural performance shifts. Higher values are better; gains are read as improvement
+  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
+  frameworks.
+abbreviation: ALTZ
+unit: score
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- financial
+purpose_classification:
+- risk
+scope_classification:
+- organizational_unit
+directionality: higher_is_better
+management_significance:
+- strategic
+measurable_entity_kind: dea:Outcome
+reputability_tier: industry_standard
+unit_ref: dea:unit-score
+source_credit: Edward I. Altman, 1968
+calculation_definition: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
+formula_definition:
+  formula_id: dea:formula-altman-z-score
+  expression: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
+  inputs:
+  - name: Composite Discriminant of Liquidity, Profitability, Leverage Ratios
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-score
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 4035
+    batch: '9'
+domain: valuation_corporate_finance_standard_measures

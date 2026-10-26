@@ -1,0 +1,52 @@
+id: dea:metric-gig-worker-fulfilment-rate
+name: Gig Worker Fulfilment Rate
+type: Metric
+description: 'Gig Worker Fulfilment Rate (GWFR) addresses the utilization or availability of capacity
+  and is a fixture of gig & contingent workforce reporting. It is monitored close to the work: teams act
+  on it within a shift, sprint, or daily review. The formula is Tasks Accepted within SLA / Tasks Posted
+  - reported in percent (%). Improvement means raising this figure toward best-in-class levels. Practitioners
+  in nearly any industry can adopt it directly.'
+abbreviation: GWFR
+unit: percent
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- organization
+purpose_classification:
+- capacity
+scope_classification:
+- capability
+directionality: higher_is_better
+management_significance:
+- operational
+measurable_entity_kind: dea:BusinessService
+reputability_tier: industry_standard
+unit_ref: dea:unit-percent
+source_credit: Public domain - no attribution required
+calculation_definition: Tasks Accepted within SLA / Tasks Posted
+formula_definition:
+  formula_id: dea:formula-gig-worker-fulfilment-rate
+  expression: Tasks Accepted within SLA / Tasks Posted
+  inputs:
+  - name: Tasks Accepted within SLA
+  - name: Tasks Posted
+  operators: []
+  parameters: []
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-percent
+  validation_rules: []
+  version: 1.0.0
+metadata:
+  established_by: CR-MET-016
+  established_at: '2026-10-26'
+  change_history:
+  - cr: CR-MET-016
+    date: '2026-10-26'
+    change: Ingested from the candidate-metrics seed workbook
+  seed:
+    workbook: seeds/open-deam-candidate-metrics-seed.xlsx
+    sheet: Candidate Metrics
+    row: 1460
+    batch: '5'
+domain: gig_contingent_workforce
