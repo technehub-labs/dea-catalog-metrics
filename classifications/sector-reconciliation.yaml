@@ -1,0 +1,777 @@
+version: 1.0.0
+authority: CR-MET-018
+generated_by: scripts/reconcile_domain_sector.py
+finding: Every seeded sector value names an INDUSTRY. The metamodel's organisation-type vocabulary names
+  organisational STRUCTURES. The two axes are not the same, so the seeded sector values do not map to
+  OrganizationalUnit.ou_type.
+sectors:
+- seeded_value: aerospace_defense
+  records: 16
+  display_name: Aerospace Defense
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: agriculture
+  records: 18
+  display_name: Agriculture
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: agriculture_food
+  records: 12
+  display_name: Agriculture Food
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: airlines
+  records: 20
+  display_name: Airlines
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: airlines_aviation
+  records: 46
+  display_name: Airlines Aviation
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: airports
+  records: 10
+  display_name: Airports
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: arts_culture
+  records: 8
+  display_name: Arts Culture
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: asset_management
+  records: 12
+  display_name: Asset Management
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: automotive
+  records: 27
+  display_name: Automotive
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: aviation
+  records: 14
+  display_name: Aviation
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: banking
+  records: 38
+  display_name: Banking
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: chemicals
+  records: 25
+  display_name: Chemicals
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: construction
+  records: 13
+  display_name: Construction
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: construction_engineering
+  records: 16
+  display_name: Construction Engineering
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: defense_aerospace
+  records: 12
+  display_name: Defense Aerospace
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: digital_product
+  records: 20
+  display_name: Digital Product
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: education
+  records: 42
+  display_name: Education
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: electronics_semiconductors
+  records: 12
+  display_name: Electronics Semiconductors
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: energy_utilities
+  records: 12
+  display_name: Energy Utilities
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: environmental_services
+  records: 10
+  display_name: Environmental Services
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: facility_services
+  records: 11
+  display_name: Facility Services
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: financial_services
+  records: 99
+  display_name: Financial Services
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: fitness_wellness
+  records: 10
+  display_name: Fitness Wellness
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: food_beverage
+  records: 17
+  display_name: Food Beverage
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: franchise_multi_site
+  records: 10
+  display_name: Franchise Multi Site
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: gaming
+  records: 26
+  display_name: Gaming
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: health_fitness
+  records: 11
+  display_name: Health Fitness
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: healthcare
+  records: 93
+  display_name: Healthcare
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: hospitality
+  records: 44
+  display_name: Hospitality
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: insurance
+  records: 112
+  display_name: Insurance
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: insurance_distribution
+  records: 10
+  display_name: Insurance Distribution
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: investment_banking
+  records: 10
+  display_name: Investment Banking
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: investment_management
+  records: 40
+  display_name: Investment Management
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: listed_companies
+  records: 10
+  display_name: Listed Companies
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: logistics
+  records: 15
+  display_name: Logistics
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: logistics_trade
+  records: 33
+  display_name: Logistics Trade
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: manufacturing
+  records: 102
+  display_name: Manufacturing
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: maritime
+  records: 11
+  display_name: Maritime
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: maritime_shipping
+  records: 12
+  display_name: Maritime Shipping
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: media_entertainment
+  records: 81
+  display_name: Media Entertainment
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: medical_devices
+  records: 10
+  display_name: Medical Devices
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: metals_mining
+  records: 15
+  display_name: Metals Mining
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: mining_metals
+  records: 12
+  display_name: Mining Metals
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: nonprofit
+  records: 11
+  display_name: Nonprofit
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: nonprofit_ngo
+  records: 10
+  display_name: Nonprofit Ngo
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: oil_gas
+  records: 29
+  display_name: Oil Gas
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: payments
+  records: 14
+  display_name: Payments
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: payments_fintech
+  records: 12
+  display_name: Payments Fintech
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: personal_services
+  records: 10
+  display_name: Personal Services
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: pharmaceuticals
+  records: 33
+  display_name: Pharmaceuticals
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: postal_courier
+  records: 10
+  display_name: Postal Courier
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: printing_publishing
+  records: 8
+  display_name: Printing Publishing
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: professional_services
+  records: 12
+  display_name: Professional Services
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: public_sector
+  records: 58
+  display_name: Public Sector
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: public_transit
+  records: 21
+  display_name: Public Transit
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: rail
+  records: 20
+  display_name: Rail
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: real_estate
+  records: 50
+  display_name: Real Estate
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: renewable_energy
+  records: 12
+  display_name: Renewable Energy
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: restaurants
+  records: 24
+  display_name: Restaurants
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: retail
+  records: 18
+  display_name: Retail
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: retail_e_commerce
+  records: 20
+  display_name: Retail E Commerce
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: security
+  records: 10
+  display_name: Security
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: semiconductors
+  records: 12
+  display_name: Semiconductors
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: social_care
+  records: 10
+  display_name: Social Care
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: software
+  records: 176
+  display_name: Software
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: software_saas
+  records: 14
+  display_name: Software SAAS
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: sports
+  records: 14
+  display_name: Sports
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: sports_events
+  records: 10
+  display_name: Sports Events
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: staffing_recruiting
+  records: 10
+  display_name: Staffing Recruiting
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: technology
+  records: 29
+  display_name: Technology
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: technology_data_centers
+  records: 12
+  display_name: Technology Data Centers
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: telecommunications
+  records: 70
+  display_name: Telecommunications
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: textile_apparel
+  records: 10
+  display_name: Textile Apparel
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: textiles_apparel
+  records: 12
+  display_name: Textiles Apparel
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: travel_tourism
+  records: 10
+  display_name: Travel Tourism
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: utilities
+  records: 25
+  display_name: Utilities
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
+- seeded_value: wealth_management
+  records: 10
+  display_name: Wealth Management
+  axis: industry
+  organizational_unit_type: null
+  ou_type_status: not_applicable
+  note: The seeded value names an industry, not an organisational structure. The metamodel's organisation-type
+    vocabulary (OrganizationalUnit.ou_type) holds structures (business-unit, division, department, team,
+    role-cluster, virtual-team, governance-body, external-partner-role), so no seeded sector value maps
+    to one.
