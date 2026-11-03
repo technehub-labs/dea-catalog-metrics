@@ -37,6 +37,16 @@ formula_definition:
     output_unit: dea:unit-second
   validation_rules: []
   version: 1.1.0
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/service-latency
+  url: 
+    https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/service-latency.yaml
+  relationship: broadens
+  note: Automation-measurement contextualization of this record. Meaning boundaries, denominator 
+    rules, and reporting pairings are managed in mama-metrics external/dea-mapping.yaml (pinned to 
+    this catalog's commit c2a2951a8a4f437817e293cd12593b4e70176f4d).
+  recorded_by: CR-MET-021
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -49,8 +59,11 @@ metadata:
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   - cr: CR-MET-020
     date: '2026-10-26'
-    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
-      formula bound to its short form (Q26, Q27)
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and 
+      the formula bound to its short form (Q26, Q27)
+  - cr: CR-MET-021
+    date: '2026-11-04'
+    change: Added external_references (managed MAMA cross-reference relationship)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -61,7 +74,7 @@ subject_concept: dea:subject-application_response
 measurement_nature: numeric
 quality:
   measurement_evidence:
-  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
-    Metrics', row 316
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 
+    'Candidate Metrics', row 316
   - Public domain - no attribution required
   known_limitations: []

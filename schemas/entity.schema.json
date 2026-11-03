@@ -86,7 +86,23 @@
     },
     "external_references": {
       "type": "array",
-      "items": { "type": "object" }
+      "description": "Cross-references to metric definitions in related frameworks. Item shape defined by CR-MET-021 (managed MAMA cross-reference relationship): source, source_id, url, relationship are required; relationship is stated from the referenced item's perspective relative to this record. additionalProperties stays true so other frameworks can attach their own fields.",
+      "items": {
+        "type": "object",
+        "required": ["source", "source_id", "url", "relationship"],
+        "properties": {
+          "source": { "type": "string", "minLength": 1, "description": "Human-readable name of the referencing framework/library." },
+          "source_id": { "type": "string", "minLength": 1, "description": "The referenced artifact's stable id in its home (e.g. mama-metrics:card/recovery-time)." },
+          "url": { "type": "string", "minLength": 1, "description": "Resolvable URL of the referenced artifact." },
+          "relationship": {
+            "type": "string",
+            "enum": ["aligns_with", "narrows", "broadens", "complements", "references"],
+            "description": "The referenced external item relative to this record: aligns_with = same construct/scope; narrows = the external item is this construct restricted to a narrower context; broadens = the external item covers a wider construct; complements = adjacent construct used alongside; references = general pointer without a semantic claim."
+          },
+          "note": { "type": "string", "description": "Where the two definitions agree, diverge, and what is not interchangeable." },
+          "recorded_by": { "type": "string", "description": "The change request that recorded this reference (e.g. CR-MET-021)." }
+        }
+      }
     },
     "subject_concept": { "type": "string" },
     "measurement_nature": {

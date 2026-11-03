@@ -1,8 +1,9 @@
 id: dea:metric-mean-time-to-recovery
 name: Mean Time to Recovery
 type: Metric
-description: The arithmetic mean of recovery times across n incidents, expressed in minutes. Recovery
-  time is measured from incident-detection to service-restoration. Lower values indicate faster recovery.
+description: The arithmetic mean of recovery times across n incidents, expressed in minutes. 
+  Recovery time is measured from incident-detection to service-restoration. Lower values indicate 
+  faster recovery.
 abbreviation: MTTR
 unit: minute
 version: 1.2.0
@@ -80,6 +81,16 @@ quality:
   measurement_evidence:
   - ITIL 4 incident management practice
   - SRE workbook MTTR definitions
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/recovery-time
+  url: 
+    https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/recovery-time.yaml
+  relationship: narrows
+  note: Automation-measurement contextualization of this record. Meaning boundaries, denominator 
+    rules, and reporting pairings are managed in mama-metrics external/dea-mapping.yaml (pinned to 
+    this catalog's commit c2a2951a8a4f437817e293cd12593b4e70176f4d).
+  recorded_by: CR-MET-021
 metadata:
   established_by: CR-MET-009
   established_at: '2026-10-18'
@@ -92,6 +103,9 @@ metadata:
     change: Added required description field
   - cr: CR-MET-015
     date: '2026-10-25'
-    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector left
-      unset pending a controlled vocabulary (Q16)
+    change: Added CR-MET-015 field dimensions (abbreviation, unit, source_credit); domain and sector
+      left unset pending a controlled vocabulary (Q16)
+  - cr: CR-MET-021
+    date: '2026-11-04'
+    change: Added external_references (managed MAMA cross-reference relationship)
 source_credit: ITIL 4 incident management practice

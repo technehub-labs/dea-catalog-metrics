@@ -1,12 +1,12 @@
 id: dea:metric-achieved-availability
 name: Achieved Availability
 type: Metric
-description: Achieved Availability (ACAVL) addresses the quality of outputs and outcomes and is a fixture
-  of reliability & maintainability engineering (deep dive) reporting. It is defined as MTBMA / (MTBMA
-  + MMTRS); the result is stated in percent (%). It bridges daily operations and executive reporting,
-  giving managers a lever to pull within a quarter. Higher values are better; gains are read as improvement
-  and losses as deterioration. Its use is not sector-specific; it appears in cross-industry performance
-  frameworks.
+description: Achieved Availability (ACAVL) addresses the quality of outputs and outcomes and is a 
+  fixture of reliability & maintainability engineering (deep dive) reporting. It is defined as MTBMA
+  / (MTBMA + MMTRS); the result is stated in percent (%). It bridges daily operations and executive 
+  reporting, giving managers a lever to pull within a quarter. Higher values are better; gains are 
+  read as improvement and losses as deterioration. Its use is not sector-specific; it appears in 
+  cross-industry performance frameworks.
 abbreviation: ACAVL
 unit: percent
 version: 1.1.0
@@ -38,6 +38,16 @@ formula_definition:
     output_unit: dea:unit-ratio-percent
   validation_rules: []
   version: 1.1.0
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/availability
+  url: 
+    https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/availability.yaml
+  relationship: aligns_with
+  note: Automation-measurement contextualization of this record. Meaning boundaries, denominator 
+    rules, and reporting pairings are managed in mama-metrics external/dea-mapping.yaml (pinned to 
+    this catalog's commit c2a2951a8a4f437817e293cd12593b4e70176f4d).
+  recorded_by: CR-MET-021
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -50,8 +60,11 @@ metadata:
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   - cr: CR-MET-020
     date: '2026-10-26'
-    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
-      formula bound to its short form (Q26, Q27)
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and 
+      the formula bound to its short form (Q26, Q27)
+  - cr: CR-MET-021
+    date: '2026-11-04'
+    change: Added external_references (managed MAMA cross-reference relationship)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -62,7 +75,7 @@ subject_concept: dea:subject-achieved_availability
 measurement_nature: numeric
 quality:
   measurement_evidence:
-  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
-    Metrics', row 4102
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 
+    'Candidate Metrics', row 4102
   - Public domain - no attribution required
   known_limitations: []
