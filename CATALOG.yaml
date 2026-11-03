@@ -432,7 +432,7 @@ catalog:
     - capability
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-achieved-availability/dea:metric-achieved-availability.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-action-item-closure-rate
     name: Action Item Closure Rate
     description: 'Action Item Closure Rate (AICR) measures conformance to standards,
@@ -3034,7 +3034,7 @@ catalog:
     - technology_architecture
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-application-response-time/dea:metric-application-response-time.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-application-response-time-90th-percentile
     name: Application Response Time - 90th Percentile
     description: 'Within ERP & Enterprise Application Operations, Application Response
@@ -4638,7 +4638,7 @@ catalog:
     - transformation
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-automation-potential-realized-rate/dea:metric-automation-potential-realized-rate.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-automation-ratio
     name: Automation Ratio
     description: 'Automation Ratio (AUTO) addresses capability maturity or development
@@ -6302,7 +6302,7 @@ catalog:
     - transformation
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-benefits-realization-ratio/dea:metric-benefits-realization-ratio.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-benefits-tracking-coverage
     name: Benefits Tracking Coverage
     description: Benefits Tracking Coverage (BTC-PPM) captures conformance to standards,
@@ -7072,7 +7072,7 @@ catalog:
     - technology_architecture
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-bot-success-rate/dea:metric-bot-success-rate.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-bot-utilization-rate
     name: Bot Utilization Rate
     description: 'Bot Utilization Rate (BUR) measures the utilization or availability
@@ -17680,7 +17680,7 @@ catalog:
     - customer
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-customer-satisfaction-score/dea:metric-customer-satisfaction-score.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-customer-satisfaction-score-trend-deep-dive
     name: Customer Satisfaction Score Trend (Deep Dive)
     description: 'Within Balanced Scorecard - Customer Perspective, Customer Satisfaction
@@ -25126,7 +25126,7 @@ catalog:
     - technology_architecture
     directionality: target_band
     path: entities/v1-alpha/dea:metric-escalation-rate-llm-to-human/dea:metric-escalation-rate-llm-to-human.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-escalation-rate-noc-to-engineering
     name: Escalation Rate - NOC to Engineering
     description: A Network Operations Center (Deep Dive) indicator, Escalation Rate
@@ -25622,7 +25622,7 @@ catalog:
     - technology_architecture
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-exception-handling-rate/dea:metric-exception-handling-rate.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-exception-rate-trend-deep-dive
     name: Exception Rate Trend (Deep Dive)
     description: 'Exception Rate Trend (Deep Dive) (ERT-D) captures the quality of
@@ -28046,7 +28046,7 @@ catalog:
     - business_architecture
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-first-pass-yield/dea:metric-first-pass-yield.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-first-pass-yield-deep-dive
     name: First Pass Yield (Deep Dive)
     description: 'First Pass Yield (Deep Dive) (FPYDD) addresses the quality of outputs
@@ -31735,7 +31735,7 @@ catalog:
     - technology_architecture
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-human-in-the-loop-intervention-rate/dea:metric-human-in-the-loop-intervention-rate.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-human-preference-win-rate-model-vs-baseline
     name: Human Preference Win Rate - Model vs Baseline
     description: Within Generative AI & LLM Operations, Human Preference Win Rate
@@ -39600,7 +39600,7 @@ catalog:
     - technology_architecture
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-mean-time-to-recovery/dea:metric-mean-time-to-recovery.yaml
-    last_modified: '2026-10-25'
+    last_modified: '2026-11-04'
   - id: dea:metric-mean-time-to-remediate-code-vulnerability
     name: Mean Time to Remediate Code Vulnerability
     description: Within DevSecOps & Application Security Engineering, Mean Time to
@@ -63665,7 +63665,7 @@ catalog:
     - technology_architecture
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-straight-through-processing-rate-automation/dea:metric-straight-through-processing-rate-automation.yaml
-    last_modified: '2026-10-26'
+    last_modified: '2026-11-04'
   - id: dea:metric-straight-through-processing-rate-claims
     name: Straight-Through Processing Rate (Claims)
     description: Straight-Through Processing Rate (Claims) (STP-C) measures how efficiently

@@ -53,6 +53,10 @@ The binding is declared in [`metamodel-pointer.yaml`](./metamodel-pointer.yaml)
 and is validated in CI by the reusable allocation validator
 (`dea-architecture-framework/.github/workflows/validate-against-model.yml`).
 
+## Related frameworks
+
+- **MAMA (Measuring Automation & Measuring Autonomy) — [`mama-metrics`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics).** A managed, version-pinned cross-reference relationship (CR-MET-021): 12 records in this catalog are referenced by MAMA automation-measurement metric cards (typed `aligns_with` / `narrows` / `broadens`, each with a meaning note), and 3 MAMA cards are proposed here as future candidate records. The mapping — single source of truth, pinned to this catalog's commit `c2a2951a8a4f437817e293cd12593b4e70176f4d`, CI-validated with drift detection — lives in `mama-metrics` at [`external/dea-mapping.yaml`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/external/dea-mapping.yaml) with its policy at [`external/dea-catalog-metrics.md`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/external/dea-catalog-metrics.md). `external_references` items on records follow the shape defined in CR-MET-021. This is a reference relationship only — not an endorsement, equivalence, or conformance claim in either direction.
+
 ## Scope
 
 The catalog publishes Metric records across 13 subject areas:

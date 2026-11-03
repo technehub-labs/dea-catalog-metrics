@@ -1,11 +1,11 @@
 id: dea:metric-exception-handling-rate
 name: Exception Handling Rate
 type: Metric
-description: A Automation & Robotic Process Automation indicator, Exception Handling Rate (EHR) quantifies
-  the quality of outputs and outcomes. Front-line and delivery teams watch it in real time, as small deviations
-  demand immediate correction. It is computed as Bot Executions Routed to Manual Handling / Bot Executions,
-  expressed in percent (%). It should be driven down, since lower readings signal healthier performance.
-  Practitioners in nearly any industry can adopt it directly.
+description: A Automation & Robotic Process Automation indicator, Exception Handling Rate (EHR) 
+  quantifies the quality of outputs and outcomes. Front-line and delivery teams watch it in real 
+  time, as small deviations demand immediate correction. It is computed as Bot Executions Routed to 
+  Manual Handling / Bot Executions, expressed in percent (%). It should be driven down, since lower 
+  readings signal healthier performance. Practitioners in nearly any industry can adopt it directly.
 abbreviation: EHR
 unit: percent
 version: 1.1.0
@@ -37,6 +37,16 @@ formula_definition:
     output_unit: dea:unit-ratio-percent
   validation_rules: []
   version: 1.1.0
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/exception-rate
+  url: 
+    https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/exception-rate.yaml
+  relationship: aligns_with
+  note: Automation-measurement contextualization of this record. Meaning boundaries, denominator 
+    rules, and reporting pairings are managed in mama-metrics external/dea-mapping.yaml (pinned to 
+    this catalog's commit c2a2951a8a4f437817e293cd12593b4e70176f4d).
+  recorded_by: CR-MET-021
 metadata:
   established_by: CR-MET-016
   established_at: '2026-10-26'
@@ -49,8 +59,11 @@ metadata:
     change: 'Unit reference canonicalised: ratio form and singular names (Q19)'
   - cr: CR-MET-020
     date: '2026-10-26'
-    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and the
-      formula bound to its short form (Q26, Q27)
+    change: Derived admission fields added (subject_concept, measurement_nature, seed evidence) and 
+      the formula bound to its short form (Q26, Q27)
+  - cr: CR-MET-021
+    date: '2026-11-04'
+    change: Added external_references (managed MAMA cross-reference relationship)
   seed:
     workbook: seeds/open-deam-candidate-metrics-seed.xlsx
     sheet: Candidate Metrics
@@ -61,7 +74,7 @@ subject_concept: dea:subject-exception_handling
 measurement_nature: numeric
 quality:
   measurement_evidence:
-  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 'Candidate
-    Metrics', row 1325
+  - OpenDEAM candidate-metrics seed workbook (seeds/open-deam-candidate-metrics-seed.xlsx), sheet 
+    'Candidate Metrics', row 1325
   - Public domain - no attribution required
   known_limitations: []
