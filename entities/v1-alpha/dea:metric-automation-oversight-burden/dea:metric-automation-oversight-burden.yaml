@@ -1,0 +1,79 @@
+id: dea:metric-automation-oversight-burden
+name: Automation Oversight Burden
+type: Metric
+description: Automation Oversight Burden (AOB) counts the human oversight events attributable to an
+  automated path - escalations, scheduled reviews, and interventions - normalized per worker-day of
+  the roles operating it, expressed as events per worker-day (ratio). It reads the staffing cost of
+  supervision - where burden concentrates and whether the operating design keeps it sustainable. The
+  record counts events; it does not judge the people handling them. Lower values are better; gains
+  are read as improvement and losses as deterioration. Its use is not sector-specific; it supports
+  operating-design, staffing, and workforce-impact decisions.
+abbreviation: AOB
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- operations
+purpose_classification:
+- risk
+scope_classification:
+- process
+directionality: lower_is_better
+management_significance:
+- operational
+- managerial
+measurable_entity_kind: dea:BusinessProcess
+reputability_tier: framework_derived
+unit_ref: dea:unit-ratio
+source_credit: MAMA (Measuring Automation & Measuring Autonomy) mama-metrics metric library v0.1.1 (CC-BY-4.0)
+calculation_definition: AOB = (Escalations + Scheduled Reviews + Interventions) / Worker-Days
+formula_definition:
+  formula_id: dea:formula-automation-oversight-burden
+  expression: AOB = (Escalations + Scheduled Reviews + Interventions) / Worker-Days
+  inputs:
+  - name: Escalations
+  - name: Scheduled Reviews
+  - name: Interventions
+  - name: Worker-Days
+  operators:
+  - add
+  - divide
+  parameters: []
+  unit_semantics:
+    input_units:
+    - dea:unit-count
+    - dea:unit-count
+    - dea:unit-count
+    - dea:unit-day
+    output_unit: dea:unit-ratio
+  validation_rules:
+  - result >= 0
+  - Worker-Days > 0
+  version: 1.0.0
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/worker-experience-impact
+  url: https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/worker-experience-impact.yaml
+  relationship: broadens
+  note: The MAMA card is a three-component construct (workload profile, oversight burden, validated
+    survey); this record is the oversight-burden component stated as a standalone single-construct
+    metric. The card's baseline-before-change and no-sum rules govern the card; meaning boundaries
+    are managed in mama-metrics external/dea-mapping.yaml (version-pinned).
+  recorded_by: CR-MET-022
+metadata:
+  established_by: CR-MET-022
+  established_at: '2026-11-04'
+  change_history:
+  - cr: CR-MET-022
+    date: '2026-11-04'
+    change: Initial record, contributed from the oversight-burden component of the MAMA
+      worker-experience-impact card (proposed in CR-MET-021)
+subject_concept: dea:subject-automation_oversight_burden
+measurement_nature: numeric
+quality:
+  validation_rules:
+  - Events counted MUST be attributable to the automated path (its exceptions, reviews, and interventions); events of the manual path are out of scope.
+  - The operating roles in scope (the denominator population) MUST be stated with the value.
+  known_limitations:
+  - Event counts do not weigh effort; a two-minute review and a two-hour rebuild count equally (pair with effort or cost measures when material).
+  - Suppressed or off-system handling (shadow tooling) undercounts the burden.

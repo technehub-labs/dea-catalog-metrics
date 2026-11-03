@@ -1,0 +1,79 @@
+id: dea:metric-outcome-disparity-ratio
+name: Outcome Disparity Ratio
+type: Metric
+description: Outcome Disparity Ratio (ODR) expresses how evenly a chosen outcome rate is distributed
+  across documented affected groups - the highest group rate divided by the lowest group rate for
+  that outcome, reported as a ratio where 1.0 indicates parity. It makes distributional effects
+  visible so aggregate averages cannot hide which groups bear adverse outcomes; group definitions,
+  attribute provenance, and small-cell suppression rules are part of any reported value. Lower
+  values are better; gains are read as improvement and losses as deterioration. Its use is not
+  sector-specific; it supports fairness, risk, and scope-expansion reviews.
+abbreviation: ODR
+unit: ratio
+version: 1.0.0
+lifecycle_status: candidate
+subject_classification:
+- governance
+purpose_classification:
+- governance
+- risk
+scope_classification:
+- product_or_service
+directionality: lower_is_better
+management_significance:
+- managerial
+- regulatory
+measurable_entity_kind: dea:Outcome
+reputability_tier: framework_derived
+unit_ref: dea:unit-ratio
+source_credit: MAMA (Measuring Automation & Measuring Autonomy) mama-metrics metric library v0.1.1 (CC-BY-4.0)
+calculation_definition: ODR = max_g Rate_g / min_h Rate_h
+formula_definition:
+  formula_id: dea:formula-outcome-disparity-ratio
+  expression: ODR = max_g Rate_g / min_h Rate_h
+  inputs:
+  - name: Rate_g
+  - name: Rate_h
+  operators:
+  - divide
+  parameters:
+  - name: g
+    value_type: string
+    default_value: all documented affected groups
+  - name: h
+    value_type: string
+    default_value: all documented affected groups
+  unit_semantics:
+    input_units: []
+    output_unit: dea:unit-ratio
+  validation_rules:
+  - result >= 1
+  - comparison groups meet the documented minimum cell volume before the ratio is computed
+  version: 1.0.0
+external_references:
+- source: MAMA (Measuring Automation & Measuring Autonomy) - mama-metrics
+  source_id: mama-metrics:card/distributional-effects
+  url: https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics/blob/main/cards/distributional-effects.yaml
+  relationship: broadens
+  note: The MAMA card is the full distributional protocol (per-measure between-group reporting,
+    uncertainty-labelled indeterminate gaps, suppression discipline, attribute-provenance rules);
+    this record is the headline disparity construct stated as a single ratio. Meaning boundaries
+    are managed in mama-metrics external/dea-mapping.yaml (version-pinned).
+  recorded_by: CR-MET-022
+metadata:
+  established_by: CR-MET-022
+  established_at: '2026-11-04'
+  change_history:
+  - cr: CR-MET-022
+    date: '2026-11-04'
+    change: Initial record, contributed from the MAMA distributional-effects card (proposed in CR-MET-021)
+subject_concept: dea:subject-outcome_disparity_ratio
+measurement_nature: numeric
+quality:
+  validation_rules:
+  - The outcome measure, its orientation, and the group definitions (with attribute provenance) MUST be recorded with every reported value.
+  - Groups below the documented minimum cell volume MUST be suppressed from the ratio and the suppression stated.
+  known_limitations:
+  - A ratio of 1.0 can mask uniformly poor outcomes (parity at a low level); read alongside the underlying outcome rates.
+  - Unchosen segment axes are invisible; the affected-party analysis governs which axes are reported.
+  - Legal constraints on collecting group attributes vary by jurisdiction; record the legal basis.
