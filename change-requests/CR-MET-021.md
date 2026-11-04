@@ -121,7 +121,7 @@ with source attribution to `mama-metrics`.
   dual-anchor, seed provenance) stays the only path to new records.
 - No claim of equivalence, endorsement, or conformance in either direction.
   MAMA's autonomy method (lowercase `mama`,
-  `emmanuel-a-otchere/MeasuringAndManagingAutonomy`) is unrelated to this
+  `emmanuel-a-otchere/measuring-and-managing-autonomy`) is unrelated to this
   crosswalk.
 
 ## 5. Validation
