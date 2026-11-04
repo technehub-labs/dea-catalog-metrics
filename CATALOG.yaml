@@ -1,9 +1,9 @@
 catalog:
   abbreviation: PM
   counts:
-    total: 4428
+    total: 4431
     admitted: 5
-    candidate: 4423
+    candidate: 4426
   description: 'Reference catalog for Performance Metric (PM) entities. Authority:
     CR-MET-009 (catalog-establishment). Aligns with dea:PerformanceMetric in dea-metamodel
     (CR-MET-001 binding).'
@@ -4606,6 +4606,43 @@ catalog:
     directionality: lower_is_better
     path: entities/v1-alpha/dea:metric-automation-downtime-cost/dea:metric-automation-downtime-cost.yaml
     last_modified: '2026-10-26'
+  - id: dea:metric-automation-eligibility-share
+    name: Automation Eligibility Share
+    description: Automation Eligibility Share (AES) quantifies the automatable base
+      of a process - the share of assessed work items classified eligible for automation
+      under documented, versioned criteria. The formula is Work Items Classified Eligible
+      / Assessed Work Items - reported in percent (%). Eligibility judgments are assessor-dependent,
+      so the criteria version and inter-assessor agreement are part of any reported
+      value. Higher values are better; gains are read as improvement and losses as
+      deterioration. Its use is not sector-specific; it supports automation scoping,
+      eligibility assessment, and investment decisions.
+    abbreviation: AES
+    unit: percent
+    lifecycle_status: candidate
+    subject_classification:
+    - business_architecture
+    directionality: higher_is_better
+    path: entities/v1-alpha/dea:metric-automation-eligibility-share/dea:metric-automation-eligibility-share.yaml
+    last_modified: '2026-11-04'
+  - id: dea:metric-automation-oversight-burden
+    name: Automation Oversight Burden
+    description: Automation Oversight Burden (AOB) counts the human oversight events
+      attributable to an automated path - escalations, scheduled reviews, and interventions
+      - normalized per worker-day of the roles operating it, expressed as events per
+      worker-day (ratio). It reads the staffing cost of supervision - where burden
+      concentrates and whether the operating design keeps it sustainable. The record
+      counts events; it does not judge the people handling them. Lower values are
+      better; gains are read as improvement and losses as deterioration. Its use is
+      not sector-specific; it supports operating-design, staffing, and workforce-impact
+      decisions.
+    abbreviation: AOB
+    unit: ratio
+    lifecycle_status: candidate
+    subject_classification:
+    - operations
+    directionality: lower_is_better
+    path: entities/v1-alpha/dea:metric-automation-oversight-burden/dea:metric-automation-oversight-burden.yaml
+    last_modified: '2026-11-04'
   - id: dea:metric-automation-payback-period
     name: Automation Payback Period
     description: Within Automation & Robotic Process Automation, Automation Payback
@@ -45148,6 +45185,25 @@ catalog:
     directionality: higher_is_better
     path: entities/v1-alpha/dea:metric-outbound-license-revenue-yield/dea:metric-outbound-license-revenue-yield.yaml
     last_modified: '2026-10-26'
+  - id: dea:metric-outcome-disparity-ratio
+    name: Outcome Disparity Ratio
+    description: Outcome Disparity Ratio (ODR) expresses how evenly a chosen outcome
+      rate is distributed across documented affected groups - the highest group rate
+      divided by the lowest group rate for that outcome, reported as a ratio where
+      1.0 indicates parity. It makes distributional effects visible so aggregate averages
+      cannot hide which groups bear adverse outcomes; group definitions, attribute
+      provenance, and small-cell suppression rules are part of any reported value.
+      Lower values are better; gains are read as improvement and losses as deterioration.
+      Its use is not sector-specific; it supports fairness, risk, and scope-expansion
+      reviews.
+    abbreviation: ODR
+    unit: ratio
+    lifecycle_status: candidate
+    subject_classification:
+    - governance
+    directionality: lower_is_better
+    path: entities/v1-alpha/dea:metric-outcome-disparity-ratio/dea:metric-outcome-disparity-ratio.yaml
+    last_modified: '2026-11-04'
   - id: dea:metric-outside-counsel-rate-variance
     name: Outside Counsel Rate Variance
     description: 'Within Legal Operations, Outside Counsel Rate Variance (OCRV) is

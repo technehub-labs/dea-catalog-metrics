@@ -835,6 +835,12 @@ concepts:
 - concept: dea:subject-automation_downtime_cost
   subject_phrase: automation_downtime_cost
   records: 1
+- concept: dea:subject-automation_eligibility_share
+  subject_phrase: automation_eligibility_share
+  records: 1
+- concept: dea:subject-automation_oversight_burden
+  subject_phrase: automation_oversight_burden
+  records: 1
 - concept: dea:subject-automation_payback_period
   subject_phrase: automation_payback_period
   records: 1
@@ -8049,6 +8055,9 @@ concepts:
   records: 1
 - concept: dea:subject-outbound_license_revenue_yield
   subject_phrase: outbound_license_revenue_yield
+  records: 1
+- concept: dea:subject-outcome_disparity_ratio
+  subject_phrase: outcome_disparity
   records: 1
 - concept: dea:subject-outside_counsel
   subject_phrase: outside_counsel
