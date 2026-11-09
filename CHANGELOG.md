@@ -132,6 +132,30 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   upstream file, so upstream drift could not fail it.
 
 ### Changed
+- CR-MET-024: the entity corpus is sharded by slug first letter. Every record
+  directory moved from the flat `entities/v1-alpha/<id>/` form to
+  `entities/v1-alpha/<shard>/<id>/` (`<shard>` = the slug's first character;
+  digit-leading slugs go to `0-9/`), because the 4,433-entry flat directory
+  exceeded GitHub's 1,000-entry listing cap and 3,433 records were invisible
+  on github.com. Ids, record content and lifecycle statuses are unchanged;
+  paths stay derivable from the id alone (entity-storage-layout.md §5). The
+  record-discovery walkers in `_catalog.py`, `regenerate_catalog.py`,
+  `check_formula_namespace.py` and `ingest_seed.py` are recursive now, the
+  seed writer emits pre-sharded paths, a permanent layout guard
+  (`tests/test_layout.py`) pins id-derived paths and the 800-entry-per-shard
+  trigger, and `scripts/migrate_to_shard_layout.py` +
+  `reconciliation/migration-id-map.yaml` document every old-to-new path for
+  downstream consumers. CATALOG.yaml carries the 4,433 rewritten `path:`
+  values; counts are unchanged (total 4433, admitted 5, candidate 4428).
+- CR-MET-024 (regenerated artefacts, riding the same change): the
+  classification vocabularies were regenerated against the current corpus,
+  repairing drift that main's CI could not reach because the seed-check step
+  failed first:
+  `classifications/subject-concepts.yaml` gains the two CR-MET-023 RAN
+  subject concepts; `classifications/admission-readiness.yaml` was
+  regenerated. The 11 CR-MET-021-enriched seed-derived records are
+  re-serialized into the seed writer's canonical YAML form (parsed content
+  byte-identical; folding/wrapping normalized).
 - CR-MET-016: the schema's required set is lifecycle-aware. A `candidate`
   record must carry the 15 fields the source provides; any other lifecycle
   must carry those plus the 4 admission fields (`subject_concept`,
@@ -167,10 +191,31 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   `measurement-dimension` placement, and the rule that the catalog must not
   redefine the normative entity.
 
+### Fixed
+- CR-MET-024: the seed-fidelity check (`ingest_seed.py --check`) passed again
+  for the first time since 2026-11-04. CR-MET-021 had added
+  `external_references` (the managed MAMA cross-reference relationship) and
+  matching `metadata.change_history` entries to 11 seed-derived records while
+  re-serializing them with a different YAML dumper, and the ingestion rebuilds
+  each seed-derived record from the workbook and demands byte-equality — so
+  the check reported DRIFT on every run (red on `main` since the CR-MET-021
+  landing). The ruling: fields the seed workbook has no column for are
+  **enrichment-owned**. `ingest_seed.py` now folds `external_references`
+  (re-inserted immediately before `metadata`, the CR-MET-021 placement) and
+  non-seed `change_history` entries back into the rebuilt record
+  (`merge_enrichment`, byte-stable across runs), the 11 enriched records were
+  refreshed once into the writer's canonical serialization, and the collision
+  guard still skips the 5 records admitted by other routes (including
+  `dea:metric-mean-time-to-recovery`), which are byte-untouched.
+  `tests/test_seed_enrichment.py` pins the merge and runs the whole-corpus
+  check.
+
 ### Known gaps
-- The MTTR unit disagreement between the seed and the catalog is unresolved:
-  the seed measures Mean Time to Recovery in hours, the catalog in minutes.
-  The admitted record wins and is unchanged. This is Q18 in CR-MET-016.
+- The `validate-allocation` workflow fails on `main` independently of this
+  catalog's content: the pinned OpenDEAM v0.2.1 model predates the
+  `dea:entity-metric` → `dea:PerformanceMetric` rename (CR-MET-014), so the
+  pointer's `entity_id` is rejected. Resolution belongs to the metamodel
+  versioning thread (pointer/model rebase), not this repository alone.
 
 ### Fixed
 - CR-MET-014: `scripts/regenerate_catalog.py` no longer stamps the run date

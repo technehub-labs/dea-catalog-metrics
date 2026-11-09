@@ -128,7 +128,8 @@ dea-catalog-metrics/
 |-- TEMPLATE_VERSION
 |-- metamodel-pointer.yaml           # binds to dea:PerformanceMetric (v0.2.1)
 |
-|-- entities/v1-alpha/               # Metric records (admitted + candidate)
+|-- entities/v1-alpha/               # Metric records (admitted + candidate),
+|                                    # sharded by slug first letter (CR-MET-024)
 |
 |-- seeds/                           # the candidate-metrics seed workbook
 |   `-- open-deam-candidate-metrics-seed.xlsx
@@ -161,8 +162,9 @@ Interpretation contexts (CR-MET-006) are **not yet published**.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Each Metric record requires:
 
-1. `entities/v1-alpha/dea:metric-<slug>/dea:metric-<slug>`, a
-   schema-compliant YAML definition. Since CR-MET-014 that includes a required
+1. `entities/v1-alpha/<shard>/dea:metric-<slug>/dea:metric-<slug>.yaml`, a
+   schema-compliant YAML definition (`<shard>` = the slug's first letter, or
+   `0-9` for digit-leading slugs; CR-MET-024). Since CR-MET-014 that includes a required
    `description`: the canonical human-readable definition of the record, which
    must match the record README's Definition section verbatim (a conformance
    test compares them).

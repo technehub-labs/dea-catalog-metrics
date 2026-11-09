@@ -70,7 +70,7 @@ def test_corpus_matches_the_seed_workbook():
 
     expected = {str(r["metric_id"]).strip(): r for r in data}
     records = {}
-    for p in sorted((BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml")):
+    for p in sorted((BASE / "entities" / "v1-alpha").glob("*/dea:metric-*/*.yaml")):
         records[p.parent.name] = yaml.safe_load(p.read_text())
 
     seed_derived = {
@@ -107,7 +107,7 @@ def test_metamodel_pointer_migrated_to_performance_metric():
 def test_dual_anchor_required_for_admitted():
     """CR-MET-009 §9 Q14: dual anchors required for admitted records."""
     import yaml
-    for p in (BASE / "entities" / "v1-alpha").glob("dea:metric-*/*.yaml"):
+    for p in (BASE / "entities" / "v1-alpha").glob("*/dea:metric-*/*.yaml"):
         m = yaml.safe_load(p.read_text())
         if m.get("lifecycle_status") != "admitted":
             continue

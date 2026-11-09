@@ -2,11 +2,11 @@ version: 1.0.0
 authority: CR-MET-019
 generated_by: scripts/admission_readiness.py
 admitted: 5
-candidates: 4423
+candidates: 4428
 blocker_free_candidates: 0
-distinct_signatures: 4402
-open_signatures: 4397
-singleton_signatures: 4372
+distinct_signatures: 4407
+open_signatures: 4402
+singleton_signatures: 4377
 contested_signatures: 25
 largest_contested_cluster: 3
 signatures:
@@ -5586,6 +5586,46 @@ signatures:
     blockers:
     - missing_orientation_classification
     - missing_measurement_nature_detail
+- signature:
+    subject_classification:
+    - business_architecture
+    purpose_classification:
+    - capability
+    orientation_classification: null
+    scope_classification:
+    - process
+    directionality: higher_is_better
+  members: 1
+  candidates: 1
+  held_by_admitted: false
+  ready_candidates: 0
+  records:
+  - id: dea:metric-automation-eligibility-share
+    blockers:
+    - missing_orientation_classification
+    - missing_measurement_nature_detail
+    - missing_measurement_evidence
+    - source_credit_not_in_measurement_evidence
+- signature:
+    subject_classification:
+    - operations
+    purpose_classification:
+    - risk
+    orientation_classification: null
+    scope_classification:
+    - process
+    directionality: lower_is_better
+  members: 1
+  candidates: 1
+  held_by_admitted: false
+  ready_candidates: 0
+  records:
+  - id: dea:metric-automation-oversight-burden
+    blockers:
+    - missing_orientation_classification
+    - missing_measurement_nature_detail
+    - missing_measurement_evidence
+    - source_credit_not_in_measurement_evidence
 - signature:
     subject_classification:
     - technology_architecture
@@ -30908,6 +30948,28 @@ signatures:
     - missing_measurement_nature_detail
 - signature:
     subject_classification:
+    - operations
+    purpose_classification:
+    - effectiveness
+    orientation_classification: null
+    scope_classification:
+    - organizational_unit
+    directionality: higher_is_better
+  members: 1
+  candidates: 1
+  held_by_admitted: false
+  ready_candidates: 0
+  records:
+  - id: dea:metric-first-pass-anomaly-resolution-ran-operations
+    blockers:
+    - missing_subject_concept
+    - missing_measurement_nature
+    - missing_orientation_classification
+    - missing_measurement_nature_detail
+    - missing_measurement_evidence
+    - source_credit_not_in_measurement_evidence
+- signature:
+    subject_classification:
     - product_or_service
     purpose_classification:
     - quality
@@ -45936,6 +45998,28 @@ signatures:
     - missing_measurement_nature_detail
 - signature:
     subject_classification:
+    - operations
+    purpose_classification:
+    - efficiency
+    orientation_classification: null
+    scope_classification:
+    - organizational_unit
+    directionality: lower_is_better
+  members: 1
+  candidates: 1
+  held_by_admitted: false
+  ready_candidates: 0
+  records:
+  - id: dea:metric-mttr-anomaly-p50-ran-operations
+    blockers:
+    - missing_subject_concept
+    - missing_measurement_nature
+    - missing_orientation_classification
+    - missing_measurement_nature_detail
+    - missing_measurement_evidence
+    - source_credit_not_in_measurement_evidence
+- signature:
+    subject_classification:
     - risk
     purpose_classification:
     - governance
@@ -49568,6 +49652,27 @@ signatures:
     blockers:
     - missing_orientation_classification
     - missing_measurement_nature_detail
+- signature:
+    subject_classification:
+    - governance
+    purpose_classification:
+    - governance
+    - risk
+    orientation_classification: null
+    scope_classification:
+    - product_or_service
+    directionality: lower_is_better
+  members: 1
+  candidates: 1
+  held_by_admitted: false
+  ready_candidates: 0
+  records:
+  - id: dea:metric-outcome-disparity-ratio
+    blockers:
+    - missing_orientation_classification
+    - missing_measurement_nature_detail
+    - missing_measurement_evidence
+    - source_credit_not_in_measurement_evidence
 - signature:
     subject_classification:
     - governance

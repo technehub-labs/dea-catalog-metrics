@@ -13,7 +13,7 @@ It does NOT redefine the normative Metric entity; the canonical Metric is
 
 The catalog publishes:
 
-- **Metric records**: `entities/v1-alpha/dea:metric-<slug>/dea:metric-<slug>.yaml` + `README.md`.
+- **Metric records**: `entities/v1-alpha/<shard>/dea:metric-<slug>/dea:metric-<slug>.yaml` + `README.md`, where `<shard>` is the slug's first letter (`0-9` for digit-leading slugs; CR-MET-024).
 - **Classification vocabularies**: `classifications/` (CR-MET-002 binding).
 - **Context records**: `contexts/v1-alpha/` (Baseline / Target / Threshold / Interpretation contexts; CR-MET-006 binding).
 - **Schema mirror**: `schemas/entity.schema.json` (mirror of `dea-metamodel/schemas/entities/metric.json`).

@@ -1,6 +1,11 @@
-"""Regenerate CATALOG.yaml from entities/v1-alpha/*/*.yaml.
+"""Regenerate CATALOG.yaml from the sharded entity tree (CR-MET-024).
 
-Each Metric becomes an entry in the catalog entities list.
+Each Metric becomes an entry in the catalog entities list. Since the
+CR-MET-024 shard level the tree is `entities/v1-alpha/<shard>/<id>/`, so
+discovery is a recursive walk and each entry's `path` is derived from the
+record id (entity-storage-layout.md §5), not from where the file sits —
+a misplaced record produces a stale path that `tests/test_layout.py`
+catches.
 
 CR-MET-014: each entry projects the record's required `description`, and
 `last_modified` is derived from the record's own provenance (the latest
@@ -13,10 +18,12 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import iter_record_yaml_paths, record_relpath  # noqa: E402
+
 import yaml
 
 BASE = Path(__file__).parent.parent
-ENTITIES_DIR = BASE / "entities"
 CATALOG_PATH = BASE / "CATALOG.yaml"
 
 
@@ -33,7 +40,7 @@ def _last_modified(m: dict) -> str:
 
 def main():
     metrics = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
+    for path in iter_record_yaml_paths():
         if path.parent.name.startswith("dea:metric-"):
             m = yaml.safe_load(path.read_text())
             metrics.append({
@@ -45,7 +52,7 @@ def main():
                 "lifecycle_status": m.get("lifecycle_status"),
                 "subject_classification": m.get("subject_classification"),
                 "directionality": m.get("directionality"),
-                "path": f"entities/v1-alpha/{path.parent.name}/{path.name}",
+                "path": record_relpath(m["id"]),
                 "last_modified": _last_modified(m),
             })
     catalog = {
