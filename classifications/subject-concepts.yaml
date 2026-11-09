@@ -5008,6 +5008,9 @@ concepts:
 - concept: dea:subject-first_notice_of_loss_response
   subject_phrase: first_notice_of_loss_response
   records: 1
+- concept: dea:subject-first_pass_anomaly_resolution_ran_operations
+  subject_phrase: first_pass_anomaly_resolution_ran_operations
+  records: 1
 - concept: dea:subject-first_pass_batch_acceptance
   subject_phrase: first_pass_batch_acceptance
   records: 1
@@ -7458,6 +7461,9 @@ concepts:
   records: 1
 - concept: dea:subject-mql_to_sql_conversion
   subject_phrase: mql_to_sql_conversion
+  records: 1
+- concept: dea:subject-mttr_anomaly_p50_ran_operations
+  subject_phrase: mttr_anomaly_p50_ran_operations
   records: 1
 - concept: dea:subject-multi_account_governance
   subject_phrase: multi_account_governance

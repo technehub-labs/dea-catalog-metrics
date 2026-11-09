@@ -33,6 +33,9 @@ try:  # libyaml is roughly five times faster
 except ImportError:  # pragma: no cover
     from yaml import SafeLoader
 
+sys.path.insert(0, str(Path(__file__).parent))
+from _catalog import shard_for_id  # noqa: E402
+
 BASE = Path(__file__).parent.parent
 ENTITIES_DIR = BASE / "entities"
 SEED_FILE = BASE / "seeds" / "open-deam-candidate-metrics-seed.xlsx"
@@ -463,7 +466,7 @@ def existing_ids() -> dict:
     ids are reported as collisions instead.
     """
     records = {}
-    for path in ENTITIES_DIR.glob("v1-alpha/*/*.yaml"):
+    for path in sorted(ENTITIES_DIR.glob("v1-alpha/**/*.yaml")):
         if not path.parent.name.startswith("dea:metric-"):
             continue
         records[path.parent.name] = yaml.load(path.read_text(), Loader=SafeLoader)
@@ -472,6 +475,57 @@ def existing_ids() -> dict:
 
 def is_seed_derived(record) -> bool:
     return bool(record) and bool((record.get("metadata") or {}).get("seed"))
+
+
+# CR-MET-024: enrichment-owned fields on seed-derived records. The seed
+# workbook has no column for these, so when a later CR attaches them to a
+# seed-derived record (CR-MET-021 added `external_references`, the managed
+# MAMA cross-reference relationship), the ingestion preserves that content
+# on the next refresh instead of dropping it. Fields the workbook DOES own
+# are still rebuilt from the row; enrichment is only ever merged in, never
+# authored here.
+ENRICHMENT_FIELDS = ("external_references",)
+
+
+def merge_enrichment(built: dict, on_disk: dict) -> dict:
+    """Fold enrichment-owned content from the on-disk record into the
+    rebuilt one.
+
+    `external_references` is re-inserted immediately before `metadata`
+    (where CR-MET-021 placed it), and change_history entries whose `cr` the
+    seed does not emit are preserved verbatim and appended. The merge is
+    byte-stable across runs: merging the output again changes nothing.
+    """
+    if not on_disk:
+        return built
+    merged = dict(built)
+    for field in ENRICHMENT_FIELDS:
+        if field in merged or not on_disk.get(field):
+            continue
+        rebuilt = []
+        placed = False
+        for key, value in merged.items():
+            if key == "metadata" and not placed:
+                rebuilt.append((field, on_disk[field]))
+                placed = True
+            rebuilt.append((key, value))
+        if not placed:
+            rebuilt.append((field, on_disk[field]))
+        merged = dict(rebuilt)
+    built_crs = {
+        entry.get("cr")
+        for entry in ((built.get("metadata") or {}).get("change_history") or [])
+    }
+    extra = [
+        dict(entry)
+        for entry in ((on_disk.get("metadata") or {}).get("change_history") or [])
+        if entry.get("cr") not in built_crs
+    ]
+    if extra:
+        metadata = dict(merged.get("metadata") or {})
+        metadata["change_history"] = list(metadata.get("change_history") or []) + extra
+        merged["metadata"] = metadata
+    return merged
 
 
 def check_columns_resolve(columns: list, aliases: dict, maps: dict) -> None:
@@ -519,16 +573,21 @@ def main() -> int:
     for row in rows:
         record = build_record(row, aliases, maps)
         metric_id = record["id"]
-        if metric_id in already and not is_seed_derived(already[metric_id]):
+        prior = already.get(metric_id)
+        if prior is not None and not is_seed_derived(prior):
             # A record this catalog admitted by another route. Never overwrite
             # it with a candidate; report the collision instead.
             skipped += 1
             conflicts.append(metric_id)
             continue
+        if prior is not None:
+            # CR-MET-024: a seed-derived record a later CR enriched keeps its
+            # enrichment (see ENRICHMENT_FIELDS); everything else is rebuilt.
+            record = merge_enrichment(record, prior)
         if args.report:
             written += 1
             continue
-        target_dir = ENTITIES_DIR / "v1-alpha" / metric_id
+        target_dir = ENTITIES_DIR / "v1-alpha" / shard_for_id(metric_id) / metric_id
         target_dir.mkdir(parents=True, exist_ok=True)
         yaml_path = target_dir / f"{metric_id}.yaml"
         readme_path = target_dir / "README.md"

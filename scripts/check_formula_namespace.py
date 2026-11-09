@@ -84,7 +84,7 @@ VAR_RE = re.compile(r"^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=")
 
 def load_metrics() -> list[tuple[str, dict]]:
     out = []
-    for path in sorted(ENTITIES_DIR.glob("v1-alpha/*/*.yaml")):
+    for path in sorted(ENTITIES_DIR.glob("v1-alpha/**/*.yaml")):
         if path.parent.name.startswith("dea:metric-"):
             out.append((path.parent.name, yaml.safe_load(path.read_text())))
     return out

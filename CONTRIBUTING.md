@@ -12,7 +12,9 @@ composition are in [docs/FOUNDATIONS.md](./docs/FOUNDATIONS.md).
 
 ## Quick start
 
-1. Create `entities/v1-alpha/dea:metric-<slug>/`.
+1. Create `entities/v1-alpha/<shard>/dea:metric-<slug>/`, where `<shard>` is
+   the slug's first letter (lowercase a-z), or `0-9` for digit-leading slugs
+   (CR-MET-024). The path must be derivable from the id alone.
 2. Add `dea:metric-<slug>.yaml` satisfying
    [schemas/entity.schema.json](./schemas/entity.schema.json). Since CR-MET-014
    this includes a required `description` field: the canonical human-readable
